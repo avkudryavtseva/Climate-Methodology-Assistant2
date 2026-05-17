@@ -1,0 +1,141 @@
+Методология,Статус в Verra,Как используется / Замена
+ACM0001,Allowed via VMR,Применяется через VMR
+ACM0002,Allowed via VMR,Применяется через VMR
+ACM0003,Allowed via VMR,Применяется через VMR
+ACM0006,Allowed via VMR,Применяется через VMR
+ACM0007,Allowed via VMR,Применяется через VMR
+ACM0008,Allowed via VMR,Применяется через VMR
+ACM0009,Allowed via VMR,Применяется через VMR
+ACM0010,Allowed via VMR,Применяется через VMR
+ACM0011,Allowed via VMR,Применяется через VMR
+ACM0012,Allowed via VMR,Применяется через VMR
+ACM0013,Allowed via VMR,Применяется через VMR
+ACM0014,Allowed via VMR,Применяется через VMR
+ACM0016,Allowed via VMR,Применяется через VMR
+ACM0017,Allowed via VMR,Применяется через VMR
+ACM0018,Allowed via VMR,Применяется через VMR
+ACM0019,Allowed via VMR,Применяется через VMR
+ACM0022,Allowed via VMR,Применяется через VMR
+AM0001,Allowed via VMR,Применяется через VMR
+AM0009,Allowed via VMR,Применяется через VMR
+AM0010,Allowed via VMR,Применяется через VMR
+AM0023,Allowed via VMR,Применяется через VMR
+AM0024,Allowed via VMR,Применяется через VMR
+AM0025,Allowed via VMR,Применяется через VMR
+AM0026,Allowed via VMR,Применяется через VMR
+AM0028,Allowed via VMR,Применяется через VMR
+AM0029,Allowed via VMR,Применяется через VMR
+AM0031,Allowed via VMR,Применяется через VMR
+AM0034,Allowed via VMR,Применяется через VMR
+AM0036,Allowed via VMR,Применяется через VMR
+AM0046,Allowed via VMR,Применяется через VMR
+AM0059,Allowed via VMR,Применяется через VMR
+AM0064,Allowed via VMR,Применяется через VMR
+AM0065,Allowed via VMR,Применяется через VMR
+AM0070,Allowed via VMR,Применяется через VMR
+AM0072,Allowed via VMR,Применяется через VMR
+AM0073,Allowed via VMR,Применяется через VMR
+AM0080,Allowed via VMR,Применяется через VMR
+AM0090,Allowed via VMR,Применяется через VMR
+AM0110,Allowed via VMR,Применяется через VMR
+AM0123,Allowed via VMR,Применяется через VMR
+AMS-I.A.,Allowed via VMR,Применяется через VMR
+AMS-I.B.,Allowed via VMR,Применяется через VMR
+AMS-I.C.,Allowed via VMR,Применяется через VMR
+AMS-I.D.,Allowed via VMR,Применяется через VMR
+AMS-I.E.,Allowed via VMR,Применяется через VMR
+AMS-I.F.,Allowed via VMR,Применяется через VMR
+AMS-I.J,Allowed via VMR,Применяется через VMR
+AMS-I.L.,Allowed via VMR,Применяется через VMR
+AMS-II.B.,Allowed via VMR,Применяется через VMR
+AMS-II.C.,Allowed via VMR,Применяется через VMR
+AMS-II.D.,Allowed via VMR,Применяется через VMR
+AMS-II.E.,Allowed via VMR,Применяется через VMR
+AMS-II.F.,Allowed via VMR,Применяется через VMR
+AMS-II.G.,Allowed via VMR,Применяется через VMR
+AMS-II.H.,Allowed via VMR,Применяется через VMR
+AMS-II.J.,Allowed via VMR,Применяется через VMR
+AMS-II.L.,Allowed via VMR,Применяется через VMR
+AMS-II.S.,Allowed via VMR,Применяется через VMR
+AMS-III.AJ.,Allowed via VMR,Применяется через VMR
+AMS-III.AK,Allowed via VMR,Применяется через VMR
+AMS-III.AO.,Allowed via VMR,Применяется через VMR
+AMS-III.AQ,Allowed via VMR,Применяется через VMR
+AMS-III.AR,Allowed via VMR,Применяется через VMR
+AMS-III.AS.,Allowed via VMR,Применяется через VMR
+AMS-III.AU,Allowed via VMR,Применяется через VMR
+AMS-III.AV.,Allowed via VMR,Применяется через VMR
+AMS-III.B.,Allowed via VMR,Применяется через VMR
+AMS-III.BA,Allowed via VMR,Применяется через VMR
+AMS-III.BB.,Allowed via VMR,Применяется через VMR
+AMS-III.BG,Allowed via VMR,Применяется через VMR
+AMS-III.BM,Allowed via VMR,Применяется через VMR
+AMS-III.C.,Allowed via VMR,Применяется через VMR
+AMS-III.D.,Allowed via VMR,Применяется через VMR
+AMS-III.E.,Allowed via VMR,Применяется через VMR
+AMS-III.F.,Allowed via VMR,Применяется через VMR
+AMS-III.G.,Allowed via VMR,Применяется через VMR
+AMS-III.H.,Allowed via VMR,Применяется через VMR
+AMS-III.I.,Allowed via VMR,Применяется через VMR
+AMS-III.Q,Allowed via VMR,Применяется через VMR
+AMS-III.R.,Allowed via VMR,Применяется через VMR
+AMS-III.Y,Allowed via VMR,Применяется через VMR
+AMS-III.Z,Allowed via VMR,Применяется через VMR
+AR-ACM0001,Closed / replaced,Заменена AFOLU VM
+AR-ACM0002,Closed / replaced,Заменена AFOLU VM
+AR-ACM0003,Replaced,VM0047
+AR-AM0002,Closed / replaced,VM0047
+AR-AM0003,Closed / replaced,VM0047
+AR-AM0005,Closed / replaced,VM0047
+AR-AM0007,Closed / replaced,VM0047
+AR-AM0014,Closed / replaced,VM0047
+AR-AMS0001,Closed / replaced,VM0047
+AR-AMS0002,Closed / replaced,VM0047
+AR-AMS0004,Closed / replaced,VM0047
+AR-AMS0005,Closed / replaced,VM0047
+AR-AMS0006,Closed / replaced,VM0047
+AR-AMS0007,Closed / replaced,VM0047
+Climate Action Reserve Landfill Project Protocol,Not applicable,Не применяется в VCS
+Methodology Under Development,Not active,Не действующая
+VCS v1 Project Specific,Deprecated,Не используется
+VM0001,Deprecated,Legacy AFOLU
+VM0003,Deprecated,Legacy
+VM0004,Deprecated,Legacy
+VM0005,Deprecated,Legacy
+VM0006,Deprecated,Legacy
+VM0007,Deprecated,Legacy
+VM0008,Deprecated,Legacy
+VM0009,Deprecated,Legacy
+VM0010,Deprecated,Legacy
+VM0011,Deprecated,Legacy
+VM0012,Deprecated,Legacy
+VM0013,Deprecated,Legacy
+VM0014,Deprecated,Legacy
+VM0015,Restricted,Только существующие проекты
+VM0016,Restricted,Только существующие проекты
+VM0017,Restricted,Только существующие проекты
+VM0018,Restricted,Только существующие проекты
+VM0019,Restricted,Только существующие проекты
+VM0023,Restricted,Только существующие проекты
+VM0025,Restricted,Только существующие проекты
+VM0026,Restricted,Только существующие проекты
+VM0032,Restricted,Только существующие проекты
+VM0033,Restricted,Только существующие проекты
+VM0034,Restricted,Только существующие проекты
+VM0038,Restricted,"REDD+, ограничено"
+VM0039,Restricted,"REDD+, ограничено"
+VM0041,Active,Действующая
+VM0042,Active,Действующая
+VM0043,Active,Действующая
+VM0044,Active,Действующая
+VM0045,Active,Действующая
+VM0047,Active,ARR
+VM0050,Active,Действующая
+VM0051,Active,Действующая
+VMD0038,Deprecated,Старый модуль
+VMR0001,Legacy,Старый VMR
+VMR0002,Legacy,Старый VMR
+VMR0003,Legacy,Старый VMR
+VMR0006,Active,CDM → VCS
+VMR0007,Active,Grid / energy
+VMR0008,Active,Grid factors
