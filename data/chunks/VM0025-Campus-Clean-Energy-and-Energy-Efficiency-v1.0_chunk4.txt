@@ -1,0 +1,19 @@
+4 
+APPLICABILITY CONDITIONS  
+This methodology applies to project activities that reduce emissions through the implementation 
+of clean energy and/or energy efficiency activities at college and school campuses in the United 
+States. 
+Projects applying this methodology must use the latest versions of one, or both, of the following 
+modules: 
+1) VMD0038, Campus-Wide Module 
+2) VMD0039, LEED-Certified Buildings Module 
+Where the project applies one of these modules (ie, is implementing campus-wide activities or 
+LEED-certified building activities), the project must meet the applicability conditions specified in 
+the relevant module. Where the project applies both modules (ie, is implementing both campus-
+wide and LEED-certified building activities), the campus-wide activities must meet the applicability 
+conditions set out in the campus-wide module, while the LEED-certified building activities must 
+meet the applicability conditions set out in the LEED-certified buildings module. 
+Note that this methodology applies a standardized method and therefore must be used in 
+preference to project methods (methodologies) available for the same project activities. Appendix 
+1 provides an indicative (non-exhaustive) list of project methods available for clean energy and 
+energy efficiency projects.

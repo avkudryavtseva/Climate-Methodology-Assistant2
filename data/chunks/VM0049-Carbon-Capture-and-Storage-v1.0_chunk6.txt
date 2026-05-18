@@ -1,0 +1,114 @@
+5 PROJECT BOUNDARY 
+The project boundary encompasses all the module boundaries. Each module in this framework 
+describes the activities and associated GHG sources, sinks and reservoirs that must be 
+included or excluded in the module boundary. The project proponent must define each module 
+boundary in the project description. Figure 1 illustrates the project boundary.  
+Where an emissions source is used in more than one module boundary (e.g., grid electricity 
+consumption in capture, transport, storage activities), the proponent must:  
+• 
+Describe in the project description the instances of the project activity occurring in 
+each module boundary (e.g., grid electricity consumption occurring in the capture 
+boundary), 
+• 
+Measure or estimate each instance of that project activity separately according to the 
+respective module requirements, and 
+• 
+Quantify the impacts of the GHG source, sink or reservoir for each instance of that 
+project activity separately in monitoring reports.  
+For project activities that capture CO2 from a source facility, the project boundary includes the 
+elements of the source facility that are directly affected, modified, or added to capture CO2 
+ 
+VM0049, v1.0 
+ 
+10 
+(e.g., equipment for flue gas capture). Other elements of the source facility are not included in 
+the project boundary.  
+Figure 1: Project boundary 
+ 
+ 
+A general overview of the GHG sources included in or excluded from the project boundary are 
+shown in Table 1.2 The capture, transport, and storage modules provide specific details on GHG 
+sources and sinks relevant to those project activities. 
+ 
+ 
+ 
+2 Excluded leakage emission sources are detailed in Appendix 1. 
+ 
+VM0049, v1.0 
+ 
+11 
+Table 1: GHG sources included in or excluded from the project boundary  
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+CO2 source facilities or 
+the atmosphere  
+CO2 
+Yes 
+CO2 captured and injected  
+CH4 
+No 
+Only CO2 is included. This is 
+conservative. 
+N2O 
+No 
+Only CO2 is included. This is 
+conservative. 
+Other 
+No 
+Only CO2 is included. This is 
+conservative. 
+Project 
+CO2 capture site 
+CO2 
+Yes 
+Major source. Details are 
+provided in each capture module. 
+CH4 
+Yes 
+Major source. Details are 
+provided in each capture module. 
+N2O 
+Yes 
+Major source. Details are 
+provided in each capture module. 
+Other 
+No 
+Negligible 
+CO2 transport facility 
+CO2 
+Yes 
+Major source. Details are 
+provided in each transport 
+module. 
+CH4 
+Yes 
+Major source. Details are 
+provided in each transport 
+module. 
+N2O 
+Yes 
+Major source. Details are 
+provided in each transport 
+module. 
+Other 
+No 
+Negligible 
+CO2 storage site 
+CO2 
+Yes 
+Major source. Details are 
+provided in each storage module. 
+CH4 
+Yes 
+Major source. Details are 
+provided in each storage module. 
+N2O 
+Yes 
+Major source. Details are 
+provided in each storage module. 
+Other 
+No 
+Negligible

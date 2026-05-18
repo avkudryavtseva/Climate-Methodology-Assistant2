@@ -1,0 +1,41 @@
+3  
+APPLICABILITY CONDITIONS 
+This methodology applies to project activities which implement RIL-C practices in forests. 
+Projects applying this methodology must meet the following applicability conditions: 
+1) 
+The project activity does not involve a deliberate reduction in harvest levels. The criteria to 
+demonstrate no intentional reduction in harvest level are provided in the applicable RIL-C 
+performance method module. 
+2) 
+The project activity and the baseline scenario do not involve conversion of forest to a non-
+forest land use/land cover (ie, both represent forests remaining as forests, sensu IPCC GL 
+2006). 
+3) 
+In every year credited, the project proponent must hold legal authorization for all logging 
+activities referenced in the project from the relevant government authority.  
+4) 
+The project area must be located in a logging landscape developed for a corresponding 
+region-specific RIL-C performance method module. It must be demonstrated that the entire 
+project area is contained within the applicable logging landscape. 
+5) 
+The entire project area meets the definition of forest, either host country-specific, UNFCCC 
+or FAO definition. 
+6) 
+RIL-C practices implemented as part of the project activity must not increase business-as-
+usual levels of impact on pre-existing dead wood stocks through slash management, 
+salvage harvesting or other planned removal of dead wood.3  
+Requirements for developing a new region-specific performance method can be found in 0.  
+                                                     
+1  Note that some practices may apply to more than one emission source category. Directional felling, for example, 
+can serve to align logs with the planned skidding network, reducing skidding damage, and reduce damage to the 
+felled log, improving roundwood recovery. 
+2  Note that RIL-C practices do not include slash management, salvage harvesting or other planned removal of dead 
+wood. 
+3  VVBs need only confirm that this is the case through one of the following: a qualitative assessment of no evidence 
+of removal of dead wood onsite (ie, looking for evidence of removal, or comparing dead wood carbon stocks in the 
+project area to surrounding areas), interviewing project proponents, reviewing management plans, or a quantitative 
+assessment of inventory data of dead wood carbon stocks (if they exist). 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+7

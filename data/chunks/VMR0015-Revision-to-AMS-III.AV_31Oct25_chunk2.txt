@@ -1,0 +1,40 @@
+1 SUMMARY DESCRIPTION 
+Additionality, Crediting Method, and Mitigation Outcome 
+Additionality 
+Activity Method 
+Crediting Baseline 
+Project Method 
+Mitigation Outcome 
+Reductions 
+The CDM methodology AMS-III.AV. Low Greenhouse Gas Emitting Safe Drinking Water 
+Production Systems applies to project activities that introduce low greenhouse gas (GHG) 
+emitting water purification systems to provide safe drinking water and displace water boiling 
+using non-renewable biomass or fossil fuels.   
+This methodology revision VMR0015 includes the following updates: 
+• 
+Introduction of an updated approach to determine the fraction of non-renewable 
+biomass1 
+• 
+The requirement to set at validation the leakage adjustment factor to account for 
+leakage related to the use of non-renewable woody biomass saved by the project 
+activity   
+• 
+Updated emission factor for non-renewable woody biomass (for both CO2 and non-CO2 
+components) and fossil fuels1 
+• 
+Added requirement related to the assessment of double counting of emission 
+reductions with REDD+ project(s) and jurisdictional REDD+ program(s)1 
+• 
+Added requirements related to adjusting the baseline level of the residence/institution 
+included in the project to account for effects of interacting technologies 
+• 
+Added requirements related to the compilation and presentation of relevant data for 
+each distributed device  
+VMR0015 must be used with the most recent version of AMS-III.AV. The procedures and 
+requirements of AMS-III.AV. must be applied unless indicated otherwise in this document.  
+ 
+ 
+1 Adapted from VCS methodology VM0050 Energy Efficiency and Fuel-Switch Measures in Cookstoves, v1.0 
+ 
+VMR0015, v1.0 
+5

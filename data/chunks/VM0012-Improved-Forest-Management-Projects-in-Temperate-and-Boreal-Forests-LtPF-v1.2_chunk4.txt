@@ -1,0 +1,40 @@
+4 
+APPLICABILITY CONDITIONS 
+This methodology is applicable to: 
+1. Projects which meet the most recent approved criteria for VCS Improved Forest Management – Logged to 
+Protected Forest (IFM-LtPF) eligible projects, and;  
+ 
+2. Projects located in Temperate and Boreal Domain Global Ecological Zones (as defined by FAO (FAO, 2001)) 
+which are forest lands remaining forest lands (as defined by IPCC (IPCC, 2003)), and which can meet IPCC 
+GPG LULUCF Tier III inventory and data requirements (IPCC, 2003); and, 
+ 
+3. Projects that meet the most current approved VCS Standard requirements for ownership; and, 
+ 
+4. Projects on properties where the starting average annual illegal, unplanned, and fuelwood removals are less 
+than 5% of total annual harvest levels (in CO2e) in the baseline scenario1; and, 
+ 
+                                              
+1 This methodology does not provide specific equations and methods for the treatment of illegal and unplanned harvesting or fuelwood removal.  
+Therefore, projects with non-de minimis levels (determined using the Tool for Testing Significance of GHG Emissions in A/R CDM Projects 
+(CDM, 2007a)) of these activities in the starting condition (or as local common practice applicable to the project area) are ineligible.  If 
+monitoring reveals conditions change during the project duration, projects will not necessarily be rendered ineligible for this methodology, but 
+rather must demonstrate that new non-de minimis illegal or unplanned harvests, and fuelwood removal net emissions reductions are accounted 
+for in the project scenario prior to the next verification, in a manner equivalent to the terms LBFELLINGS,i,t and LBOTHER,i,t (see section 8.2.7).  These 
+additional equations and methods will constitute a methodology revision, subject to the latest approved VCS revision -approval process.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+6 
+5. Projects which do not encompass managed peatland forests (peatland as defined by IPCC GPG LULUCF); 
+and, 
+ 
+6. Projects where the total percentage of wetlands in the project area is not expected to change as part of project 
+activities; and, 
+ 
+7. Projects that can demonstrate there will be no activity shifting to other lands owned or managed by project 
+proponents outside the project boundary at the beginning of the project (within the first year of the project start 
+date)2; and, 
+ 
+8. Projects that do not include non-de minimis application of organic or inorganic fertilizer in the project scenario.

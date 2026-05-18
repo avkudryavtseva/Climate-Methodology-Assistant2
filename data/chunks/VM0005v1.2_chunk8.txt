@@ -1,0 +1,44 @@
+8 
+STRATIFICATION  
+If the project activity area at the start of the project is not homogeneous, stratification may be carried 
+out to improve the accuracy and the precision of carbon stock estimates. Different stratifications may be 
+required for the baseline and with-project scenarios in order to achieve optimal accuracy of the 
+estimates of net GHG emissions or removal.  
+Strata must be spatially discrete and defined on the basis of forest carbon stocks or expected changes 
+in forest carbon stocks. Stratum sizes must be known. Areas of individual strata must sum to the total 
+project area. Strata must be identified with spatial data (eg, maps, GIS coverage, classified imagery, or 
+sampling grids) from which the area can be determined accurately. Land use/land cover maps in 
+particular must be ground-truthed and current, less than 10 years old. Strata must be discernible taking 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 11 
+ 
+into account good practice in terms of the accuracy requirements for the definition of strata limits / 
+boundaries. This must be indicated in the project description and the choice must be justified. 
+For estimation of baseline net GHG emissions or removals, or estimation of project net GHG emissions 
+or removals, strata must be defined on the basis of parameters that are key entry variables used to 
+estimate changes in biomass stocks. 
+The project area may be stratified ex ante, and this stratification may be revised ex post for monitoring 
+purposes. Strata need only reflect consistent differences in biomass stocks and not for example 
+species composition or ecological variables. Established strata may be merged if reasons for their 
+establishment have disappeared or have proven irrelevant to key variables for estimating forest carbon 
+stocks or changes in forest carbon stocks. 
+For baseline net GHG emissions or removals: Stratification is carried out according to pre-project 
+carbon stocks. This stratification must be determined prior to the project activity. For each stratum, 
+assumptions must be made as to how the carbon stocks would be affected in the business as usual 
+scenario. In case of relogging, this must be based on the relogging that has taken place in an 
+appropriately selected reference area or on the basis of reliable management or logging plans for the 
+project area indicating anticipated logging intensities. The remaining carbon stocks per stratum must be 
+determined. 
+For project net GHG emissions and removals. The ex-ante estimations must be based on the project 
+plan, which must include a timetable for and scheduling of the silvicultural interventions, such as for 
+example liberation thinning and enrichment planting. The ex-post stratification must be based on the 
+actual implementation of the projected activities. The ex-post stratification may be affected by natural or 
+anthropogenic impacts if they add variability to growth pattern in the treated project area. 
+Baseline stratification must occur only once and remain fixed for the lifetime of the project, unless 
+baseline monitoring occurs in a reference area. 
+Stratification in the with-project scenario must be updated at the time of each and every monitoring 
+campaign prior to verification based on recent developments. 
+For ex-ante and ex-post stratification, project proponents may optionally make use of remote sensing 
+data and analysis platforms acquired close to the time the project commences.

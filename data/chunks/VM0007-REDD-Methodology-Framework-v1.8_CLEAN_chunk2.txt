@@ -1,0 +1,86 @@
+1 SOURCES 
+This methodology is comprised of several modules and tools each of which has been assigned 
+an abbreviated title (e.g., CP-AB). This methodology uses the latest versions of the following 
+methodologies, modules, and tools: 
+Carbon pool modules:  
+• 
+VMD0001 Estimation of carbon stocks in the above- and belowground biomass in live 
+tree and non-tree pools (CP-AB) 
+• 
+VMD0002 Estimation of carbon stocks in the dead-wood pool (CP-D) 
+• 
+VMD0003 Estimation of carbon stocks in the litter pool (CP-L) 
+• 
+VMD0004 Estimation of carbon stocks in the soil organic carbon pool (mineral soils) 
+(CP-S) 
+• 
+VMD0005 Estimation of carbon stocks in the long-term wood products pool (CP-W) 
+Baseline modules:  
+• 
+VMD0006 Estimation of baseline carbon stock changes and greenhouse gas emissions 
+from planned deforestation/forest degradation and planned wetland degradation (BL-
+PL) 
+• 
+VMD0007 Estimation of baseline carbon stock changes and greenhouse gas emissions 
+from unplanned deforestation and unplanned wetland degradation (BL-UP) 
+• 
+VMD0042 Estimation of baseline soil carbon stock changes and greenhouse gas 
+emissions in peatland rewetting and conservation project activities (BL-PEAT) 
+• 
+VMD0050 Estimation of baseline carbon stock changes and greenhouse gas emissions 
+in tidal wetland restoration and conservation project activities (BL-TW) 
+Leakage modules: 
+• 
+VMD0009 Estimation of emissions from activity shifting for avoiding planned 
+deforestation/forest degradation and avoiding planned wetland degradation (LK-ASP) 
+• 
+VMD0010 Estimation of emissions from activity shifting for avoiding unplanned 
+deforestation and avoiding unplanned wetland degradation (LK-ASU) 
+• 
+VMD0011 Estimation of emissions from market-effects (LK-ME) 
+• 
+VMD0044 Estimation of emissions from ecological leakage (LK-ECO) 
+Emissions modules (applicable to baseline, project scenario and leakage): 
+• 
+VMD0013 Estimation of greenhouse gas emissions from biomass and peat burning (E–
+BPB)  
+• 
+VMD0014 Estimation of emissions from fossil fuel combustion (E-FFC) 
+ 
+VM0007, v1.8 
+6 
+• 
+CDM tool Estimation of direct N2O emissions from nitrogen application (E-NA) 
+Monitoring modules: 
+• 
+VMD0015 Methods for monitoring of greenhouse gas emissions and removals in REDD 
+project activities (M-REDD) 
+• 
+VMD0046 Methods for monitoring of soil carbon stock changes and greenhouse gas 
+emissions and removals in peatland rewetting and conservation project activities (M-
+PEAT) 
+• 
+VMD0051 Methods for monitoring of soil carbon stock changes and greenhouse gas 
+emissions and removals in tidal wetland restoration and conservation project activities 
+(M-TW) 
+Miscellaneous modules and methodologies: 
+• 
+VMD0016 Methods for stratification of the project area (X-STR) 
+• 
+VMD0017 Estimation of uncertainty for REDD+ project activities (X-UNC) 
+• 
+VMD0019 Methods to Project Future Conditions 
+• 
+VMD0052 Demonstration of Additionality of Tidal Wetland Restoration and 
+Conservation Project Activities (ADD-AM) 
+• 
+VM0047 Afforestation, Reforestation, and Revegetation 
+Tools: 
+• 
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities (T-
+SIG) 0F1 
+• 
+VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU 
+Project Activities 
+• 
+VCS AFOLU Non-Permanence Risk Tool (T-BAR)

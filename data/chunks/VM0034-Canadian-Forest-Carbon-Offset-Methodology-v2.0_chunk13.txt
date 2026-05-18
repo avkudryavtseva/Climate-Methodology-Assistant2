@@ -1,0 +1,1063 @@
+10 
+REFERENCES 
+AFOLU Non-Permanence Risk Tool v3.2. Verified Carbon Standard (2012) 
+A/R Methodological Tool “Estimation of direct nitrous oxide emission from nitrogen fertilization”.  
+UNFCCC CDM EB, (2007). 
+BC Vegetation Resource Inventory Standards http://www.for.gov.bc.ca/hts/vri/index.html 
+British Columbia Forest Offset Guide Version 1.0, B.C. Ministry of Forests and Range, (2009) 
+Canada’s National Forest Inventory Ground Sampling Guidelines, Canadian Forest Inventory 
+Committee, (2004) 
+“CBM-CFS3: A model of carbon-dynamics in forestry and land-use change implementing IPCC 
+standards”. Kurz, W.A., C.C. Dymond, T.M. White, G. Stinson, C.H. Shaw, G.J. Rampley, C. 
+Smyth, B.N. Simpson, E.T. Neilson, J.A. Trofymow, J. Metsaranta, and M.J. Apps,  Ecological 
+Modelling 220: 480–504. (2009) 
+Change Monitoring Inventory Ground Sampling Quality Assurance Standards V2.2 BC Ministry of 
+Forests, Lands and Natural Resource Operations, (2012) 
+Climate Action Reserve, Forest Project Protocol Version 3.2, (2010) 
+Climate Change Technology Early Action Measures (TEAM) Requirements and Guidance for the 
+System of Measurement And Reporting for Technologies (SMART), Government of Canada 
+(2004) 
+Freight Modal Shifting GHG Protocol - British Columbia-Specific Version. The Delphi Group, 
+(2010). 
+General Technical Report NE-343 Methods for Calculating Forest Ecosystem and Harvested 
+Carbon with Standard Estimates for Forest Types of the United States, USDA Forest Service, 
+April 2006 
+Gonzalez, J.S (1990). Wood density of Canadian tree species. Information report NOR-X_315. 
+Forestry Canada. Northwest region.  Northern Forestry Centre.  
+Gouvernement du Quebec (2015) Ressources et industries forestières. Portrait statistique 
+Gouvernement du Québec (2016a). Compétitivité de l'industrie forestière au Québec. 
+US DOE, Technical Guidelines for Voluntary Reporting of GHG Program, June 2006. 
+The GHG Protocol for Project Accounting. World Resources Institute / World Business Council for 
+Sustainable Development, November, (2005) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+154 
+Improved Forest Management Methodology for Quantifying GHG Removals and Emission 
+Reductions through Increased Forest Carbon Sequestration on U.S. Timberland. American 
+Carbon Registry / Finite Carbon, (2010). 
+IPCC Guidelines for National GHG Inventories.  IPCC, (2006) 
+ISO 14064-2:2006, GHGes - Part 2: Specification with guidance at the project level for 
+quantification, monitoring and reporting of GHG emission reductions or removal enhancements. 
+International Standards Organization, (2006) 
+Locomotive Emissions Monitoring Program. Railway Association of Canada, (2008). 
+“Price elasticities of substitution between species in the demand of US softwood lumber imports 
+from Canada”. Hseu, J-S., and Buongiorno, J., Canadian Journal of Forest Research 23:591-597. 
+(1993) 
+“Softwood Lumber Products in the United States: Substitutes, Complements, or Unrelated?”. 
+Nagubadi, R.V., Zhang, D., Prestemon, J.P., and Wear, D.N., Forest Science 51(4):416-426. 
+(2004) 
+Turning the Corner, Canada’s Offset System for GHGes Guide for Protocol Developers, Draft for 
+Consultation, Environment Canada (2008) 
+VCS (2017). Requirements Document. Verified Carbon Standard. Version 3 
+Wood density of Canadian tree species. J.S. Gonzalez., Forestry Canada, Northwest Region, 
+Northern Forestry Centre, (1990) 
+Sequestration of carbon in harvested wood products for the United States.  Skog, K.E., Forest 
+Products Journal 58(6):56-72. (2008) 
+ 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+155 
+APPENDIX A: THE BC PROVINCIAL BASE CASE APPROACH FOR ADDRESSING 
+LEAKAGE FROM FOREST CARBON PROJECTS   
+Growing conditions, the destinations of wood, and tree type can vary considerably between the interior 
+and coastal regions of British Columbia. In addition, areas in the southern interior of British Columbia can 
+vary considerably from the northern interior.  These differences impact the parameters of the leakage 
+equation (Section 8.3.1.2.) and as such we examine base cases for the northern interior, southern interior 
+and coastal regions separately. 
+Assumptions made for the base cases of both the coast and northern and southern interior reflect what 
+are simple and representative offset projects in each respective region.  Assumptions such as tree type, 
+location, and product type can all impact the estimated leakage.  As a result these calculations could be 
+modified on a project to project basis by the proponent through using the leakage equation guidelines in 
+FCOP and by referring to the base case scenarios. 
+A project timeline of 100 years is used since this is what project timelines are compared to in the B.C. 
+Emission Offsets Regulation.  To reflect this long-run market elasticities are used instead of short-run 
+elasticities.80  The market share of the base case offset project is assumed to be 1% (F = .01)81 of the 
+total North America market. CR and CN are assumed to be the same and are given values of 1 as a 
+conservative assumption to lower the chance of underestimating leakage.82  
+Proponents must be aware that these base case calculations are subject to periodic re-assessment, as 
+provided in the most recent version of the VCS document Methodology Approval Process (Section 10.3.1 
+in version V4.0).  Proponents must ensure that they include in their project calculations any changes 
+which may have been made to these calculations as a result of this re-assessment. 
+ 
+ 
+ 
+80 A short-run elasticity measures the current month effect of a change in one variable on lumber supply or demand.  
+As such short-run elasticities capture market reactions within the current month.  Long-run elasticities are normally 
+more elastic (further from zero) than short-run due to the positive sum effects of lagged dependent variables.  In 
+short-run elasticities, demand and supply relations cannot be ensured to be among the estimated co-integration 
+relations.  That is to say, consumers may not be able to respond to the changes in market price due to supply and 
+demand shifting right away, there is a lag.  Only long-run elasticities can capture the lag.  Given the nature of the 
+leakage issue in this case, it is more appropriate to use long-run elasticities.   
+81 This is strictly an assumption to show the impact of a small carbon offset project relative to the total market. 
+However, even increasing a projects size to F = .1, or 10%, only reduces leakage by 2%. Reducing F further has 
+even less effect. Overall F has a minimal impact on the equation. 
+82 Given the favourable growing conditions throughout much of B.C. in contrast to the rest of North America it would 
+not be unreasonable to assume that CR > CN. As the gap between CR and CN increases in favour of CR leakage will 
+decrease. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+156 
+APPENDIX B: EXAMPLE SUBSTITUTABILITY EQUATIONS 
+The substitution parameter in Murray et al. (2004) measures the rate of response of quantity demanded 
+of product N due to the quantity change of product R. Hence, in order to get the substitution parameter 
+from cross price elasticity, the following calculation is applied: 
+Substitution parameter = cross price elasticity for product R* inverse of own price elasticity of product R  
+Ä =
+ÇÉH ÉH
+Ñ
+ÇÉI ÉI
+Ñ
+=
+ÇÉH ÉH
+Ñ
+ÇÖI ÖI
+Ñ
+×
+ÇÖI ÖI
+Ñ
+ÇÉI ÉI
+Ñ
+ 
+The substitutabilities of low/moderately substitutable wood (imperfect substitutes) in this paper are 
+calculated based on the references listed below: 
+Table 26: Own- And Cross-Price Elasticities Of Demand For Softwood Lumber Products, US: Jan. 1989 
+To July 2001.* 
+Percentage 
+effect on the 
+quantity 
+demanded of 
+For a 1% change in the price of 
+ 
+SPF 
+ 
+SYP-U 
+ 
+SYP-R 
+ 
+DF 
+ 
+WSP 
+ 
+Other 
+SPF 
+-0.6196** 
+0.2365** 
+0.0015 
+0.0223 
+0.2985** 
+0.0608 
+(0.022) 
+(0.015) 
+(0.012) 
+(0.014) 
+(0.013) 
+(0.035) 
+SYP-U 
+0.3985** 
+-0.7189* 
+-0.0420 
+0.0070 
+0.3811** 
+-0.0257 
+(0.025) 
+(0.035) 
+(0.024) 
+(0.018) 
+(0.020) 
+(0.056) 
+SYP-R 
+0.0093 
+-0.1569 
+-1.7949** 
+2.0646** 
+0.2163 
+-0.3384 
+(0.076) 
+(0.089) 
+(0.234) 
+(0.178) 
+(0.211) 
+(0.381) 
+DF 
+0.0661 
+0.0123 
+0.9707** 
+-1.6226** 
+0.3994** 
+0.1741 
+(0.040) 
+(0.031) 
+(0.084) 
+(0.147) 
+(0.142) 
+(0.227) 
+WSP 
+0.3460** 
+0.2622** 
+0.0398 
+0.1565** 
+-1.1059** 
+0.3014** 
+(0.015) 
+(0.013) 
+(0.039) 
+(0.056) 
+(0.072) 
+(0.101) 
+Other 
+0.0837 
+-0.0210 
+-0.0740 
+0.0810 
+0.3577** 
+-0.4275* 
+(0.048) 
+(0.045) 
+(0.083) 
+(0.105) 
+(0.120) 
+(0.192) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+157 
+** and * indicate significance at the 1% and 5% levels, respectively.  Figures in parentheses are 
+standard errors: SE (ŋij) = SE (βij)/mi  (Binswanger 1974, Pindyck 1979) 
+Source: Nagubadi et al. (2004)83 
+Table 27: Long-Term Elasticities Of Demand For US Softwood Lumber Imports From Canada By Species 
+ 
+Elasticities 
+Pd 
+Y 
+Spruce 
+Pine 
+Fir 
+Hemlock Red 
+Cedar 
+Others 
+Spruce 
+2.33* 
+0.63* 
+-2.76* 
+0.16 
+0.20 
+0.13 
+0.11 
+0.20 
+(0.76) 
+(0.07) 
+(0.57) 
+(0.10) 
+(0.13) 
+(0.08) 
+(0.07) 
+(0.13) 
+Pine 
+2.33* 
+0.63* 
+2.73* 
+-6.33* 
+0.53* 
+0.33* 
+0.29* 
+0.53* 
+(0.76) 
+(0.07) 
+(0.74) 
+(0.95) 
+(0.14) 
+(0.09) 
+(0.08) 
+(0.14) 
+Fir 
+2.33* 
+0.63* 
+-1.07* 
+-1.17* 
+-0.31 
+-0.13* 
+-0.11* 
+-0.21* 
+(0.76) 
+(0.07) 
+(0.48) 
+(0.08) 
+(0.32) 
+(0.06) 
+(0.05) 
+(0.09) 
+Hemlock 
+2.33* 
+0.63* 
+1.14 
+0.18 
+0.22 
+-3.83* 
+0.12* 
+0.22 
+(0.76) 
+(0.07) 
+(0.62) 
+(0.10) 
+(0.12) 
+(0.71) 
+(0.06) 
+(0.12) 
+Red Cedar 
+2.33* 
+0.63* 
+-0.57 
+-0.09 
+-0.11 
+-0.07 
+-1.03* 
+-0.11 
+(0.76) 
+(0.07) 
+(0.45) 
+(0.07) 
+(0.09) 
+(0.05) 
+(0.15) 
+(0.09) 
+Others 
+2.33* 
+0.63* 
+-0.62 
+-0.10 
+-0.12 
+-0.08 
+-0.07 
+-1.01* 
+(0.76) 
+(0.07) 
+(0.45) 
+(0.07) 
+(0.09) 
+(0.06) 
+(0.05) 
+(0.20) 
+NOTE: Numbers in parentheses are approximate standard errors that ignore possible correlation between 
+the import shares and elasticities.  Elasticity values indicate the price of imports of various species. 
+*Significantly different from zero at the 5% significance level using a two-tailed test. 
+Source: Hseu and Buongiorno (1993)84 
+ 
+ 
+83 Nagubadi, R.V., Zhang, D., Prestemon, J.P., and Wear, D.N. 2004. “Softwood Lumber Products in the United 
+States: Substitutes, Complements, or Unrelated?”. Forest Science 51(4):416-426. 
+84 Hseu, J-S., and Buongiorno, J. 1993. “Price elasticities of substitution between species in the demand of US 
+softwood lumber imports from Canada”. Canadian Journal of Forest Research 23:591-597. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+158 
+Only substitutable woods with the price elasticities that are higher than 5% significance level are 
+considered in calculating the substitution parameters. For example, to calculate the substitution 
+parameter for red cedar, we use the table from Hseu and Buongiorno (1993): 
+ÄJKL NKLOJ =
+VPQRK
+VJKL NKLOJ
++ VSKTUVNW
+VJKL NKLOJ
+= . 29
+−1.03 + . 12
+−1.03 = −40% 
+To calculate the substitution parameter for larch, the table from Nagubadi et al. (2004) is used: 
+ÄUOJNS = VXYP
+VVZSKJ
+= . 3014
+−.4275 = −70% 
+Note that the price elasticities of larch, ponderosa pine, redwood, white pine and other lumber were 
+grouped together in the “Other” group in this reference. 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+159 
+APPENDIX C: SUBSTITUTABILITY ESTIMATES FOR COMMERCIAL TREE SPECIES IN 
+BRITISH COLUMBIA 
+Please find the values for substitutability estimates for commercial tree species in BC in Table 28 below. 
+Table 28: Low And Moderately Substitutable Woods In BC85 
+Tree Species 
+Region 
+Substitutability 
+Red Cedar 
+Mostly Coast and Southern Interior  
+40% 
+Cypress/ Yellow Cedar 
+Mostly Coast and Southern Interior 
+40% 
+Ponderosa Pine  
+Mostly Southern Interior 
+70% 
+White Pine 
+Mostly Southern Interior 
+70% 
+Larch 
+Mostly Southern Interior 
+70% 
+Note:  All other tree species are considered perfectly substitutable (100%) 
+ 
+ 
+ 
+ 
+85 For guidance on the derivation of these numbers, see the example given for Red Cedar in Appendix B. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+160 
+APPENDIX D: DERIVATION OF WOOD DENSITY FACTORS 
+Wood density factors for BC and Quebec timber species are given in Tables 8A and 8B of the 
+methodology.  The values given are for oven dry density per green volume (t/m3), and are derived from 
+data found in the reference “J.S. Gonzalez. Wood density of Canadian tree species. Edmonton: Forestry 
+Canada, Northwest Region, Northern Forestry Centre,1990, Inform. Rept. NOR-X-315.”  The Gonzalez 
+study is a meta-study summarizing research into wood densities for Canadian timber species. 
+The values given in Tables 8A, and 8B are the averages of the green volume values measured for trees 
+grown in BC and QC, with the following adjustments: 
+1. Trembling Aspen.  For this species values from across Canada were used, since only one value 
+was available for BC, and this value was excluded as discussed in point 2 below. 
+2. Exclusion of outliers. After review of the data, the decision was made to exclude the values 
+derived from the study undertaken by Standish (Standish, J.T. 1983. Development of a system to 
+estimate quality of biomass following logging in British Columbia forests to specified recovery 
+criteria.  Report prepared for the Canadian Forestry Service, Ottawa, Ontario.), and included in 
+the Gonzalez paper.  The Standish values were consistently higher than those found by other 
+researchers, and were felt to be outlier values, probably due to the techniques used by that 
+researcher. 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+161 
+APPENDIX E: BC TIMBER HARVESTING VOLUME BY SPECIES AND REGION 
+Please find the values for timber harvest volume be species and region in Table 29 below. 
+Table 29: Timber Harvesting Volume Proportion Five-Year Average (2006-2010)86 
+Coast 
+Alder 
+0.6% 
+Balsam 
+9.3% 
+Cedar 
+22.4% 
+Cottonwood 
+0.3% 
+Cypress 
+2.9% 
+Fir 
+30.1% 
+Hemlock 
+32.3% 
+Lodgepole Pine 
+0.2% 
+Maple 
+0.1% 
+Spruce 
+1.6% 
+White Pine 
+0.1% 
+Northern Interior 
+Aspen 
+7.0% 
+Balsam 
+5.9% 
+Birch 
+0.1% 
+Cedar 
+0.5% 
+Cottonwood 
+1.1% 
+Fir 
+0.7% 
+Hemlock 
+2.4% 
+Lodgepole Pine 
+61.7% 
+Spruce 
+20.6% 
+Southern Interior 
+Aspen 
+0.3% 
+Balsam 
+4.6% 
+ 
+86 Information derived from the Harvest Billing System (HBS) for British Columbia, which is managed by the 
+Ministry of Forests, Lands and Natural Resource Operations.  (https://www.for.gov.bc.ca/hva/hbs/) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+162 
+Birch 
+0.1% 
+Cedar 
+2.9% 
+Fir 
+9.6% 
+Hemlock 
+1.7% 
+Larch 
+1.5% 
+Lodgepole Pine 
+62.6% 
+Spruce 
+16.2% 
+White Pine 
+0.2% 
+Yellow/Ponderosa Pine 
+0.3% 
+ 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+163 
+APPENDIX F: DERIVATION OF HWP RETENTION FACTORS, AND DISCARDED HWP CH4 
+EMISSION FACTORS 
+HWP retention factors were derived for the provinces of BC and Quebec, and are given in Tables 9 and 
+11 of the methodology, while CH4 emission factors for discarded HWP are given in Tables 14 and 16. 
+The factors contained in these tables were generated by a model based on work on HWP retention and 
+emissions contained in three papers: 
+1. Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British 
+Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+2. Jack K. Winjum, Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood 
+Products: Sources and Sinks of Atmospheric Carbon Dioxide, Forest Science 44:2, 1998 
+3. K.E. Skog, Sequestration of carbon in harvested wood products for the United States, Forest 
+Products Journal 58:6, 2008. 
+Using these papers, a model was built which projected HWP retention and emissions from discarded 
+HWP for both North American markets, and overseas markets.  The model used the following data and 
+assumptions: 
+North American markets 
+1. Distribution of delivered log volumes to product categories.  Figures used were taken from the  
+Dymond87 paper, and are shown in Table 30. Figures for the percentage of total harvest for the 
+province of Quebec were taken from official data genetarated by the government of Quebec88. 
+ 
+Table 30: Distribution Of Delivered Wood Volumes To Product Categories For North 
+American Markets 
+First 
+processing 
+facility 
+% of 
+total 
+harvest 
+(BC) 
+% of 
+total 
+harvest 
+(QC) 
+lumber 
+ply 
+panels 
+chips / 
+blocks 
+Fuel 
+landfill 
+Total 
+Lumber mills 
+84.0% 
+53.4% 
+47.0% 
+  
+  
+35.0% 
+17.9% 
+0.1% 
+100.0%
+ 
+87 Table 3, Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British 
+Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+88 Percentages were calculated based on data from the table “Intrants et extrants de l'industrie 
+québécoise de transformation primaire du bois de 2008 à 2015” of Gouvernement du Québec (2016). 
+Ressources et industries forestières portrait stastisque.  Ministère des Forêts, de la Faune et des Parcs, 
+2016 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+164 
+Chip mills 
+5.0% 
+35.5% 
+  
+  
+  
+96.3% 
+3.2% 
+0.5% 
+100.0%
+Ply mills 
+8.0% 
+0.5% 
+  
+51.0% 
+16.0% 
+24.0% 
+8.5% 
+0.5% 
+100.0%
+panel mills 
+3.0% 
+8.7% 
+  
+  
+84.0% 
+  
+15.5% 
+0.5% 
+100.0%
+ 
+Net for BC 
+ 
+ 
+39.5% 
+4.1% 
+3.8% 
+36.1% 
+16.3% 
+0.2% 
+ 
+Net for QC 
+ 
+ 
+26.0% 
+0.2% 
+7.4% 
+53.7% 
+12.4% 
+0.3% 
+ 
+ 
+2. Distribution of pulpwood to product categories by pulping method.  Figures used were taken from 
+the Dymond89 paper, and are shown in Table 31 
+Table 31: Distribution Of Pulpwood To Product Categories By Pulping Method 
+ 
+% of total input 
+(BC) 
+% of 
+total 
+input 
+(QC)90 
+paper combustion effluent 
+mechanical 
+12.0% 
+27.8% 
+93.0% 6.9% 
+0.1% 
+chemical 
+88.0% 
+72.2% 
+45.0% 53.9% 
+1.1% 
+ 
+3. Distribution of products to uses.  Figures used were taken from the Dymond91 paper, and are 
+shown in Table 32.  Note that the “Other” category includes recycled materials. 
+Table 32: Distribution Of Products To Uses 
+Total products (BC) 
+Total 
+products 
+(QC) 
+Single 
+family 
+Multi 
+family 
+Com. 
+Other 
+building 
+Furniture Shipping 
+Landfill 
+O
+lumber 
+39.5% 
+26% 
+25.0% 
+1.5% 
+7.0% 
+25.0% 
+10.0% 
+10.0% 
+7.5% 
+1
+ply 
+4.1% 
+0.2% 
+41.0% 
+3.0% 
+9.0% 
+25.5% 
+7.5% 
+2.0% 
+4.0% 
+8
+panel 
+3.8% 
+7.4% 
+15.0% 
+2.0% 
+6.0% 
+16.0% 
+36.0% 
+1.0% 
+4.0% 
+2
+ 
+89 Table 5, Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British 
+Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+90 Calculated from data of Portrait stadistique du Quebec (2015). Pag 69. Table where is described the 
+number of facilities per paper fabrication industry subgroups.  
+91 Table 7, Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British 
+Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+165 
+paper 
+18.3% 
+31.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+fuel 
+33.9% 
+34.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+landfill 
+0.2% 
+0.3% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+effluent 
+0.4% 
+0.4% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100.00% 
+100% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4. Destiny of discarded wood products.  Figures used were taken from the Skog92 and Dymond93 
+papers, and are shown in Table 33 below.  Recycled solid wood products were modeled as 
+recycling to the “Other” category shown in Table 32 above, except shipping, which recycled to 
+itself.  Data for paper was derived from Skog Table 6b.  Because the total values in the Skog 
+table added up to 101%, the value for paper was reduced to 34% (30% from Skog, plus a 4% 
+adjustment to reflect the Dymond data), rather than 35%. 
+Table 33: Destiny Of Discarded Wood Products 
+Burned 
+Recycled Composted Landfill 
+Dump 
+Total 
+Wood 
+14.0% 
+9.0% 
+8.0% 
+67.0% 
+2.0% 
+100.0% 
+Paper 
+14.0% 
+46.0% 
+5.0% 
+34.0% 
+1.0% 
+100.0% 
+Net of recycling 
+Wood 
+15.38% 
+  
+8.79% 
+73.63% 
+2.20% 
+100.0% 
+Paper 
+25.93% 
+  
+9.26% 
+62.96% 
+1.85% 
+100.0% 
+ 
+92 Tables 6a and 6b, K.E. Skog, Sequestration of carbon in harvested wood products for the United States, Forest 
+Products Journal 58:6, 2008. 
+93 Page 5, Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British 
+Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+166 
+5. Decay parameters in landfills and dumps.  Values used were derived from the Dymond94 and 
+Skog95 papers, and are shown in Table 34 below. 
+Table 34: Decay Parameters In Landfills And Dumps 
+Landfills 
+Dumps 
+% decaying 
+Half life 
+%CH4 
+Half life 
+%CH4 to CO2 
+through 
+capture 
+23.0% 
+29 
+50% 
+16.5 
+85% 
+56% 
+14.5 
+50% 
+8.25 
+85% 
+Overseas Markets 
+1. Amount of wood waste generated in developing country processing facilities. Based on the 
+Winjum paper, 24% of wood was assumed to become waste during processing. 
+ 
+2. Product outputs from delivered roundwood, based on inside bark volumes.  These values were 
+derived from the Winjum et. al.96 paper, and are shown in Table 35. 
+ 
+ 
+ 
+94 Page 7 and Table 9, Table 7, Caren C. Dymond, Forest carbon in North America: annual storage and 
+emissions from British Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012 
+95 Table 7, K.E. Skog, Sequestration of carbon in harvested wood products for the United States, Forest 
+Products Journal 58:6, 2008. 
+96 Table 5, Jack K. Winjum, Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood 
+Products: Sources and Sinks of Atmospheric Carbon Dioxide, Forest Science 44:2, 1998 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+167 
+ 
+Table 35: Product Outputs From Delivered Roundwood 
+ 
+ 
+ 
+% of 
+products 
+% of 
+delivered 
+roundwood 
+% Production 
+sawnwood 
+26 
+38.24% 
+29.06% 
+wood panels 
+6 
+8.82% 
+6.71% 
+other roundwood 
+22 
+32.35% 
+24.59% 
+Paper/paperboard 14 
+20.59% 
+15.65% 
+ 
+100.00% 
+ 
+ 
+3. Fraction of total HWP by type falling into the “short-lived” category.  Values for this variable were 
+derived from the Winjum et. al.97 paper by subtracting the percentage noted in the paper as going 
+into long term products from the total (100%) Because the VCS accounts “short-lived” as less 
+than or equal to 3 years, while the Winjum et. al. paper uses 5 years, the resulting values were 
+multiplied by 3/5.  This approach has commonly been used in developing VCS estimates based 
+on the Winjum paper.  The results are shown in Table 36. 
+Table 36: “Short-Lived” HWP By Category 
+ 
+ 
+Fraction of 
+total HWP by 
+category 
+Short lived 
+sawnwood 
+12% 
+wood panels 
+6% 
+other roundwood 
+18% 
+Paper/paperboard 24% 
+4. Fraction of remaining HWP falling into the “medium-lived” category.  The percentage of HWP 
+remaining after elimination of the “short-lived” fraction which fall into the “medium-lived” category  
+are shown in Table 37.  The data used for this value was derived from the Winjum et. al paper by 
+determining the amount expected to be remaining after 100 years, and calculating the equivalent 
+half life.Because the majority of BC and QC overseas wood was expected to go to tropical or 
+ 
+97 Page 276, Step 3, Jack K. Winjum, Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood 
+Products: Sources and Sinks of Atmospheric Carbon Dioxide, Forest Science 44:2, 1998 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+168 
+subtropical destinations (southern China, south east Asia, etc.), the values given in Winjum et. 
+al.98 for tropical use were used. 
+ 
+Table 37: Fraction Of Remaining HWP In The “Medium-Lived” Category. 
+ 
+Fraction of non- short-
+lived HWP by category 
+Half 
+life 
+Sawnwood 
+86% 
+34 
+Woodbase panels 
+98% 
+17 
+Other roundwood 
+99% 
+9 
+Paper 
+99% 
+7 
+5. Destiny of discarded wood products, and decay parameter.  The same figures were used as 
+those used for North American HWP, shown in Tables 33 and 34 above.  Research indicated that 
+recycling and disposal practices in major overseas markets were either already the same as 
+those in North America, or were rapidly moving in that direction. 
+ 
+ 
+ 
+98 Table 2, Jack K. Winjum, Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: 
+Sources and Sinks of Atmospheric Carbon Dioxide, Forest Science 44:2, 1998 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+169 
+APPENDIX G: FOREST DISTRICTS BY REGION IN THE PROVINCE OF BC 
+Forest Districts in the province of BC, used for identifying average tree species mix for the northern 
+interior, southern interior and coastal regions of this province. 
+Table 38: BC Forest Districts by Region 
+Coast 
+Chilliwack 
+Campbell River 
+North Coast 
+North Island 
+Queen Charlotte Islands 
+Sunshine Coast 
+South Island 
+Squamish 
+Northern Interior 
+Fort Nelson 
+Fort St James 
+Kalum 
+MacKenzie 
+Nadina 
+Peace 
+Prince George 
+Skeena Stikine 
+Vanderhoof 
+Southern Interior 
+Arrow Boundary 
+Central Cariboo 
+Chilcotin 
+Columbia 
+Cascades 
+Headwaters 
+Kamloops 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+170 
+Kootenay Lake 
+100 Mile 
+Okanagan Shuswap 
+Quesnel 
+Rocky Mountain 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3

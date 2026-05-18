@@ -1,0 +1,5 @@
+3 DEFINITIONS 
+In addition to the definitions in AMS-III.BP, the following definition applies. 
+Off-shore electricity supply system 
+A specialized device located off-shore or in a harbor connected to an electricity source (either 
+shore-side or off-shore) that provides electricity to ships that are not quayside

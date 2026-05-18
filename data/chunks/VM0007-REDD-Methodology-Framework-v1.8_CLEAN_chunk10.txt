@@ -1,0 +1,84 @@
+6 BASELINE SCENARIO 
+6.1 
+Determination of the Most Plausible Baseline Scenario 
+Determination of the most plausible baseline scenario builds on the outcome of the 
+additionality analysis (Section 7) and must be consistent with the description of the conditions 
+prior to the project start date. VT0001 must be used to assess the project additionality. The 
+stepwise approach below must be followed in addition to VT0001 to determine the most 
+plausible baseline scenario.   
+Step 1: Reuse the plausible alternative land use scenarios to the REDD project activity that 
+have been listed as an outcome of Sub-step 1b of the additionality tool VT0001.   
+Unless it has been demonstrated that any of these land use scenarios are not credible or do 
+not comply with all mandatory applicable legislation and regulations as required by VT0001 
+Sub-step 1b, the list of plausible alternative land use scenarios must include at least:  
+1) Continuation of the pre-project land use;  
+ 
+VM0007, v1.8 
+26 
+2) Project activity performed on the land within the project boundary without being registered 
+as a VCS REDD project; and  
+3) Activities similar to the proposed project activity on at least part of the land within the 
+project boundary of the proposed REDD project.  
+ 
+Figure 1: Barrier analysis decision tree 
+ 
+Step 2a: Where the VT0001 barrier analysis is used to demonstrate additionality, apply the 
+decision tree in Figure 1 to the list of all alternative land use scenarios from Step 1 that are not 
+prevented by any barrier.   
+  
+Step 2b: Where the VT0001 investment analysis is used to demonstrate additionality, and if at 
+least one land use scenario generates financial benefits other than carbon revenues, select the 
+baseline scenario as below:   
+1) Where VT0001 Option I is used, the baseline scenario is the land use scenario with the 
+lowest costs over the crediting period). Option I may only be applied if the alternative 
+scenarios do not include revenues.   
+ 
+VM0007, v1.8 
+27 
+2) Where VT0001 Option II is used, the baseline scenario is the most economically or 
+financially attractive land use scenario (i.e., the scenario with the most favorable financial 
+indicator such as internal rate of return).  
+3) Where VT0001 Option III is used and none of the alternative land use scenarios have a 
+financial indicator that meets the benchmark, the baseline scenario is the continuation of 
+the pre-project land use. Where Option III is used and at least one of the land use scenarios 
+has a financial indicator that meets the benchmark, the baseline scenario is the scenario 
+that has the most favorable financial indicator (e.g., internal rate of return, net present 
+value or cost-benefit ratio).  
+ 
+Step 3: Where barrier analysis is used to demonstrate additionality but does not allow 
+determination of the baseline scenario, implement one of the following:  
+1) An investment analysis following VT0001 Option II (regardless of whether it has been used 
+to demonstrate additionality). Select the most plausible baseline as specified in Step 2b 
+above; or  
+2) Through qualitative analysis, estimate the baseline GHG emissions for each alternative land 
+use scenario that is not prevented by any barrier. The baseline scenario is the land use 
+scenario that allows for the lowest baseline GHG emissions. Estimates must be based on 
+publicly available default factors and standards, such as the IPCC 2006 Guidelines for 
+National GHG Inventories and its 2019 Refinements or the IPCC 2003 Good Practice 
+Guidelines for LULUCF. All other data used must be publicly available and must come from 
+recognized, credible sources, such as peer-reviewed literature.    
+Quantification of GHG emissions under the selected baseline scenario must follow the 
+applicable and relevant activity-type module(s).  
+Where project proponents use available data sourced from a jurisdictional baseline that meets 
+the requirements set out in the VCS JNR Requirements, those data sources may be used under 
+this methodology, where conservative, even where data accuracy may be less stringent than 
+required by this methodology. 
+6.2 
+Re-assessing the Baseline Scenario 
+The project baseline must be revised at the frequency set out in the latest version of the VCS 
+Standard. 
+The date of the next scheduled revision must be specified. The starting point for the baseline 
+revision of the project will be the forest cover projected to exist at the end of the baseline 
+period. Projections for each baseline revision will be subject to independent validation as set 
+out in the latest version of the VCS Standard. 
+Reassessments must capture changes in the drivers and/or behavior of agents that cause the 
+change in land use and/or land management practices and changes in carbon stocks. The new 
+ 
+VM0007, v1.8 
+28 
+baseline scenario must be incorporated into revised estimates of baseline emissions. This 
+baseline reassessment must include the evaluation of the validity of proxies for GHG emissions. 
+For REDD and WRC project activities, ex-ante baseline projections beyond the baseline validity 
+period are not required. For this assessment, the historic reference period is extended to 
+include the original reference period and all subsequent monitoring periods up to the beginning 
+of the current monitoring period.

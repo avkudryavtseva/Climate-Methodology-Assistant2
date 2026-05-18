@@ -1,0 +1,53 @@
+3 
+  
+  
+  
+  
+ 
+ 
+T 
+  
+  
+  
+  
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+64 
+ 
+Table 18: Annual Areas Deforested in Each Zone Within the Project Area in the Baseline 
+Case (Baseline Activity Data Zone) 
+Area established after deforestation per zone 
+within the project area 
+Total baseline 
+deforestation in the 
+project area 
+iDz > 
+1 
+2 
+… 
+Z 
+Name > 
+Zone 1 
+Zone 2 
+Zone 3 
+Zone Z 
+ABSLPAt 
+ABSLPA 
+Project 
+year t 
+ha 
+ha 
+ha 
+  
+ha/yr 
+ha 
+0 
+ 
+ 
+1 
+ 
+ 
+2

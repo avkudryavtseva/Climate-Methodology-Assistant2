@@ -1,0 +1,29 @@
+2 SOURCES 
+The methodology uses the most recent versions of the following tools:  
+• 
+VT0008 Additionality Assessment 
+• 
+VT0011 Electricity System Emission Factors 
+The methodology also references or draws on ideas, data, and definitions from the following 
+sources: 
+• 
+ASHRAE building standard 90.1-2004 
+• 
+IAF Guidance on the Application of ISO/IEC Guide 66 Issue 4 IAF GD:2006 
+• 
+Marrakesh Accords, Article 48 (c), 2001 
+• 
+National Manufactured Housing Construction and Safety Standards Act of 1974 
+section 603 
+• 
+Nationally recognized weatherization best practice standards (e.g., training curricula, 
+core competencies, and example best practice standards for weatherization activities) 
+offered by Department of Energy Weatherization Assistance Program and the Building 
+Performance Institute 
+• 
+US Environmental Protection Agency Refrigerants Global Warming Potentials 
+• 
+US Department of Energy Buildings Energy Data Book 
+ 
+VM0008, v1.2 
+5

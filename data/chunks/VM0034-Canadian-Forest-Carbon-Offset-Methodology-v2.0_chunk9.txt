@@ -1,0 +1,177 @@
+114 
+E 
+Demand price elasticity. 
+See Tables 18 
+and 19 Below 
+CN 
+Carbon sequestration reversal per unit of harvest from the non-
+reserved forest.  Expressed in tC. 
+CR 
+Carbon sequestration per unit of (forgone) harvest gained by 
+preserving the reserved forest.  Expressed in tC. 
+F 
+The “preservation” parameter. This is the ratio of timber supply 
+being set aside for the offset project (quantity QR) to the timber 
+supply outside the offset area (quantity QN). The ratio can be 
+represented as 
+G"
+G# and can be thought of as the market share of 
+the timber in the offset project.   
+Γ 
+The “substitution” parameter.  A parameter introduced into the 
+referenced leakage equation to take into account specialty woods 
+(ie, the degree to which a particular HWP can be substituted for 
+another). 
+When using this equation to derive project-specific leakage estimates, it is recommended that 
+project proponents within the province of BC base their calculations on the variable values shown 
+in the Provincial Base Case Approach for Estimating Leakage (Appendix A) for supply price 
+elasticity (e), demand price elasticity (E), and the carbon sequestration values (CN and CR) 
+(shown below in Table 18).  The sources for these values are shown in Appendix A. 
+Table 18: Recommended Values for Estimating Project Specific Leakage 
+Variable description 
+Base Case 
+Equation 
+Values 
+Rationale 
+Supply price elasticity. 
+e = 0.342 
+ 
+Market supply and demand elasticities are very 
+difficult to estimate and require considerable amounts 
+of relevant and credible background data.  For the 
+majority of cases, project proponents will be 
+extremely challenged to compile the data required to 
+estimate appropriate elasticities.  In addition there is 
+a risk the elasticities developed or referenced by a 
+proponent could be either derived and/ or applied 
+inappropriately (ie, elasticities that do not adequately 
+represent the market(s) associated with the offset 
+project).  The elasticities used in the BC Provincial 
+Base Case approach, and given here,  are 
+considered the best representation of current market 
+Demand price elasticity 
+E = -0.181 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+115 
+conditions and are based on statistically significant 
+results from long-run data sets.  The derivation of 
+these variables are predicated more on total/ overall 
+market supply and demand factors, and less on 
+project specific factors.  As a result, in terms of 
+applying a consistent approach and to streamline 
+validation requirements it is recommended that the 
+referenced elasticities are used  
+Carbon sequestration per unit of 
+(forgone) harvest gained by 
+preserving the reserved forest. 
+CR = 1 
+This is a conservative assumption.  In favourable 
+growing conditions Tit would not be unreasonable to 
+assume that CR > CN. As the gap between CR and CN 
+increases in favour of CR leakage will decrease.  
+However it is difficult/ impossible to predict the area 
+of North America the leakage will be in, and therefore 
+just as difficult to define a CN value.   
+Carbon sequestration reversal per 
+unit of harvest from the non-
+reserved forest. 
+CN = 1 
+In order to tailor leakage estimates to reflect a specific project market leakage case, it is 
+recommended that proponents focus on developing their own project specific parameters to 
+reflect the preservation parameter (F) and the substitutability parameter (γ).  
+Table 19: Variables Recommended to be Developed by Project Proponents for Estimating Project 
+Specific Leakage Estimates 
+Variable description 
+Equation 
+Variable 
+Rationale 
+Preservation parameter –  
+The ratio of timber supply being set 
+aside for the offset project to the 
+timber supply outside the offset area 
+and can be thought of as the market 
+share of the timber in the offset 
+project. 
+F 
+As projects will vary in size and correspondingly to 
+the market share of timber in the offset area, the 
+preservation parameter can be derived to reflect 
+the specific size of a project.  This co-efficient has a 
+minimal effect in the leakage equation but if 
+estimated appropriately can offer a more specific 
+overall leakage estimate for any given project. 
+Substitution Parameter –  
+  A parameter introduced into the 
+referenced leakage equation to take 
+into account specialty woods. 
+γ 
+For specialty woods with few substitutes, such as 
+cedar, leakage is likely lower than for other readily 
+substitutable woods.   
+Proponents who can demonstrate that specialty 
+woods are prevalent in their project area can utilize 
+the substitutability parameter to reflect this and 
+develop a more project specific leakage estimate.  
+Otherwise, the default values provided in Appendix 
+A: A Provincial BC Base Case Approach For 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+116 
+Addressing Leakage from Forest Carbon Projects 
+must be utilized, considering projects located within 
+the province of BC. 
+ Method for deriving a preservation parameter (F) 
+The preservation parameter (F) represents the ratio of timber set aside for the offset project 
+(quantity QR) to the timber supply outside the offset area (quantity QN). The ratio can be 
+represented as 
+G"
+G# and can be thought of as the market share of the timber in the offset project. 
+The purpose of this ratio is to determine how difficult it will be to replace the preserved timber. 
+Small amounts of preserved timber are easier to replace than large amounts. 
+A 1% (.01) preservation parameter has been used in the BC provincial base cases. This is in line 
+with Murray et al.’s general calculations. This value is used since it is unlikely that any project will 
+alter harvest rates by more than 1% of the total North American market for the specific 
+commodity. Furthermore, this value has minimal impact on the leakage calculation. As such, a 
+preservation parameter of 1% is adequate for the leakage calculations, and proponents can use 
+this value. 
+Proponents are free to calculate their own preservation parameter, if they choose. To do this 
+calculation the quantity of preserved lumber (QR) will be equal to the amount of harvestable 
+timber (m3) being claimed on the proponent’s project verification. The remaining supply of timber 
+(QN) will be the five year average annual total timber harvest in North America for the most recent 
+period.  
+Preservation parameter  
+ 
+ 
+ 
+ 
+ 
+ 
+Equation 42 
+Φ = 
+}2
+}3                          [42] 
+Where: 
+ 
+Parameter Description 
+Default 
+Value 
+Φ 
+The “preservation” parameter. This is the ratio of timber supply being set aside 
+for the offset project (quantity QR) to the timber supply outside the offset area 
+(quantity QN). The ratio can be represented as 
+G"
+G# and can be thought of as the 
+market share of the timber in the offset project.   
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3

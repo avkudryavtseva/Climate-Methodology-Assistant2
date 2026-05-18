@@ -1,0 +1,54 @@
+49 
+REDD 
+Information required to periodically reassess the project baseline must be collected during the 
+entire project crediting period. Key variables to be measured are: 
+• 
+Changes in forest cover in the Reference Regions for Deforestation (RRD) (at a minimum 
+of every 10 years), as specified in Module M-REDD and where relevant in Module BL-UP. 
+• 
+Spatial variable datasets used to model the location of deforestation, as specified in 
+Module BL-UP. As a minimum, the variables used in the first baseline assessment must 
+be monitored at the time of the re-assessment to determine if they have changed. 
+• 
+Where required, carbon stock data, as specified in Module M-REDD. 
+WRC 
+In projects with a WRC component, the information required to periodically reassess the project 
+baseline must include changes in the drainage layout and climate variables, as specified in 
+Module BL-PEAT or BL-TW and, where relevant, Modules BL-UP and BL-PL and any technical 
+guidance specified in the monitoring plan. 
+Carbon stocks in most cases will not have to be monitored during the baseline period, except in 
+the following cases: 
+• 
+Where there is an increased accuracy and precision of the ex-ante carbon stock 
+estimates, which are also used for ex-post calculations. Verifiable evidence must be 
+provided to VCS verifiers that the accuracy and precision of the carbon stock estimates 
+have improved, compared to previous estimates. Any change in carbon stock densities 
+will be subject to validation. 
+• 
+Where emissions reductions/removals are claimed for avoiding forest degradation 
+caused by extraction of wood for fuel or charcoal or carbon sequestration in forest land 
+that would have been deforested in the baseline case. In such cases, the methods 
+described in Module M-REDD.  
+Carbon stocks must be reassessed at every baseline revision. 
+Where emissions are included in the baseline, they must be monitored in the project case, 
+following the methodological procedures described in the emission modules (E-BPB, E-FFC, and 
+E-NA).  
+The calculations of actual carbon stock changes and greenhouse gas emissions must be reported 
+using transparent procedures. 
+Changes in water depths in the project area (and leakage belt for unplanned deforestation), must 
+be measured before each verification as part of the monitoring. Methods must be consistent with 
+those given in Module M-PEAT or M-TW and any technical guidance specified in the monitoring 
+plan. 
+ 
+VM0007, v1.8 
+50 
+Monitoring of leakage emissions 
+All significant sources of leakage identified are subject to monitoring, following the procedures 
+outlined in the monitoring plan. Such procedures must be consistent with the applicable leakage 
+modules (LK-ASP, LK-ASU, LK-ME, and LK-ECO). All relevant parameters in the leakage modules 
+must be included in the monitoring plan. 
+TASK 2: Revising the baseline for future project crediting periods 
+Baselines must be revised over time because agents, drivers, and underlying causes of 
+deforestation as well as drainage layouts and climate variables change dynamically. The 
+methodological procedure used to update the baseline must be the same as used in the first 
+estimation.

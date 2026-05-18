@@ -1,0 +1,210 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+ 
+This methodology applies to projects that avoid unplanned deforestation (AUD). The baseline 
+must include planned or unplanned logging for timber, fuel-wood collection, charcoal 
+production, agriculture or grazing activities, as long as the category is Avoiding Unplanned 
+Deforestation according to the most recent VCS Standard. 
+ 
+VM0015, v1.2 
+ 
+2 
+The forest landscape configuration may be mosaic, frontier or a transition between the two. It is 
+globally applicable except where the project area includes forested wetlands growing on peat 
+(e.g., peat swamp forests). 
+Verified Carbon Units (VCUs) for reducing GHG emissions from avoided degradation and for 
+enhancing carbon stock in forest that would be deforested in the baseline case are excluded 
+from this methodology.  
+The eligible categories of project activity covered by this methodology are represented with the 
+letters A to H in Table 1 and Appendix 1. 
+Table 1: Scope of the Methodology 
+  
+PROJECT ACTIVITY 
+Protection without 
+logging, fuel-wood 
+collection or charcoal 
+production 
+Protection with 
+controlled logging, 
+fuel-wood collection or 
+charcoal production 
+BASELINE 
+Deforestation 
+Old-growth without logging 
+A 
+B 
+Old-growth with logging 
+C 
+D 
+Degraded and still degrading 
+E 
+F 
+Secondary growing 
+G 
+H 
+No deforestation 
+Old-growth without logging 
+No change 
+Degradation 
+Old-growth with logging 
+IFM 
+IFM-RIL 
+Degraded and still degrading 
+IFM 
+IFM 
+Secondary growing 
+No change 
+Degradation 
+TABLE NOTES 
+No deforestation 
+If the baseline is not deforestation, the change in carbon stocks is not covered in 
+this methodology. 
+ 
+Accounting for carbon stock decrease due to timber harvesting, fuel-wood collection and 
+charcoal production is mandatory in the project scenario where the decrease is significant. 
+Accounting the increase of carbon stocks in forests that would be deforested in the absence of 
+the project is conservatively omitted. 
+Leakage in this methodology is subject to monitoring, reporting, verification and accounting 
+(MRV-A). However, where the project area is located within a broader sub-national or national 
+region that is subject to MRV-A of GHG emissions from deforestation under a VCS Jurisdictional 
+and Nested REDD+ (JNR) program, leakage may be subject to special provisions because any 
+change in carbon stocks or increase in GHG emissions outside the project area would be 
+subject to MRV-A under the broader jurisdictional program. In such cases, the most recent VCS 
+JNR Requirements must be applied.  
+ 
+VM0015, v1.2 
+ 
+3 
+The methodology defines four spatial domains: a broad “reference region,” the “project area,” a 
+“leakage belt,” and a “leakage management zone.”1 The project area, leakage belt and leakage 
+management zones are subsets of the reference region and are always spatially distinct (not 
+overlapping) areas (see Figure 1). 
+Figure 1: Spatial Domains Considered in this Methodology 
+Figure 1a: Frontier configuration 
+ 
+ 
+ 
+ 
+1 Leakage management zone and leakage management area are used interchangeably in this methodology. Both 
+correspond to the same spatial domain.    
+Reference region 
+Project area 
+Leakage management zone 
+Leakage belt 
+Forest  
+Non-forest 
+Deforested during the  
+historical reference period 
+Projected deforestation 
+ 
+VM0015, v1.2 
+ 
+4 
+Figure 1b: Mosaic configuration 
+ 
+• 
+The “reference region” is the analytical domain from which information on historical 
+deforestation is extracted and projected into the future to spatially locate the area that 
+would be deforested in the baseline case.  
+• 
+The “project area” is the area (or areas) under the control of project participants in 
+which the AUD project activity will be implemented and GHG emission reductions 
+accounted. 
+• 
+The “leakage belt” is the area where deforestation avoided in the project area may be 
+displaced as a result of project implementation. Any deforestation above the baseline 
+projection that is monitored in the leakage belt is considered leakage.  
+• 
+The “leakage management zone” is the area (or areas) specifically designed to 
+implement activities that reduce the risk of activity displacement leakage. These are 
+areas dedicated to enhanced crop-land and grazing land management, agro-forestry, 
+silvo-pastoral activities and reforestation activities. Leakage management zones must 
+be non-forest land at the project start date. 
+The baseline projections must be revisited at the frequency set out in the most recent version 
+of the VCS Standard and adjusted, as necessary, based on land use and land cover changes 
+observed during the past period and changes at the level of agents, drivers and underlying 
+causes of deforestation, which are subject to monitoring. The period of time during which a 
+validated baseline must not be reassessed is called the “baseline validity period.” The baseline 
+may be reassessed before the fixed baseline expires only where an applicable jurisdictional 
+baseline becomes available. 
+Reference region 
+Project area 
+Leakage management zone 
+Leakage belt 
+Forest  
+Non-forest 
+Deforested during the  
+historical reference period 
+Projected deforestation 
+ 
+VM0015, v1.2 
+ 
+5 
+Emissions of non-CO2 gases in the baseline are conservatively omitted, except CH4 emissions 
+from biomass burning, which may be accounted where fire is the main technology used to 
+deforest and where the project proponent considers that ignoring this source of emissions 
+would substantially underestimate baseline emissions. However, CH4 emissions from forest 
+fires in the project case must be accounted where they are significant.  
+This methodology considers two potential sources of leakage: 
+1) Activity-shifting leakage: Where deforestation in the leakage belt is higher during 
+project implementation than was projected under the baseline scenario, this is 
+considered as activity displacement leakage, and the decrease in carbon stocks and 
+increase in GHG emissions (where emissions from forest burning are included in the 
+baseline) must be subtracted from the project’s net GHG emissions reductions. 
+2) Increased GHG emissions due to leakage prevention measures: Where leakage 
+prevention measures include tree planting, agricultural intensification, fertilization, 
+fodder production and/or other measures to enhance cropland and grazing land areas 
+in leakage management zones, any decrease in carbon stocks and increase in GHG 
+emissions associated with these activities must be estimated and subtracted from the 
+project’s net emissions reductions. 
+Any decrease in carbon stock or increase in GHG emissions attributed to the project activity 
+must be accounted where significant, otherwise it may be neglected. Significance in this 
+methodology is assessed using a specific tool described in Appendix 2: Testing Significance of 
+GHG Emissions. 
+The nine steps for the ex ante calculation of net GHG emissions reductions are summarized in 
+Figure 2. Project proponents should refer to each of these steps and their sub-sections using 
+the same titles and numbers as indicated in the VCS Project Description (PD) Template so that 
+application of the methodology may be transparently validated.  
+ 
+VM0015, v1.2 
+ 
+6 
+Figure 2: Steps for Ex Ante Calculation of Net GHG Emission Reductions and Indicative 
+Reporting Section in the VCS Project Description Template 
+ 
+ 
+Step 4. Project the annual amount and location of deforestation in the reference 
+region in the baseline scenario (Section 8.1.3 of the methodology, Section 4.1 of the 
+VCS PD Template). 
+Step 1. Define the boundaries of the proposed AUD project activity: spatial 
+boundaries, temporal boundaries, carbon pools and sources of GHG emissions 
+(Section 5 of the methodology, Section 3.3 of the VCS PD Template). 
+Step 3. Analyze historical land use and land cover change in the reference region over 
+the historical reference period (Section 8.1.1 of the methodology, Section 4.1 of the 
+VCS PD Template). 
+Step 5. Identify forest classes present in the areas expected to be deforested under 
+the baseline scenario and the post-deforestation land use classes in the project area 
+(Section 8.1.4 of the methodology, Section 4.1 of the VCS PD Template).  
+Step 7. Estimate ex ante actual carbon stock changes and non-CO2 emissions under 
+the project scenario (Section 8.2.1 of the methodology, Section 4.2 of the VCS PD 
+Template). 
+Step 9. Calculate ex ante net anthropogenic GHG emission reductions (Section 8.4.1 of 
+the methodology, Section 4.4 of the VCS PD Template). 
+Step 8. Estimate ex ante leakage emissions associated with leakage prevention 
+measures and activity displacement (Section 8.3.1 of the methodology, Section 4.3 of 
+the VCS PD Template). 
+Step 6. Estimate baseline carbon stock changes and, where forest fires are included 
+in the baseline assessment, non-CO2 emissions from biomass burning (Section 8.1.5 
+of the methodology, Section 4.1 of the VCS PD Template). 
+Step 2. Analyze the agents, drivers, underlying causes of deforestation and typical 
+chain of events that lead to land use and land cover change (Section 6.2 of the 
+methodology, Section 3.4 of the VCS PD Template). 
+ 
+VM0015, v1.2 
+ 
+7

@@ -1,0 +1,338 @@
+3 
+DEFINITIONS 
+This 
+sub-section 
+introduces 
+important 
+terminology 
+to 
+ensure 
+the 
+project 
+proponent 
+and 
+validation/verification bodies (VVBs) share common understandings of the various roles, parties and 
+grouping systems involved in this methodology. 
+Client Facility 
+A large range of small companies or business units that contract 
+the Sustainable Community Service Promoter to manage their 
+GHG emitting services. Client Facilities may include commercial, 
+institutional, residential and industrial buildings/facilities including 
+but not limited to warehouses, apartment buildings, hotels, 
+restaurants, 
+educational 
+buildings, 
+shopping 
+malls, 
+food 
+manufacturing plants, chemical manufacturing facilities, and light 
+industrial plants. Client Facilities are typically located in regional or 
+state clusters. 
+Sustainable Community 
+(SC) 
+A Sustainable Community is as a collection of Client Facilities that 
+have undertaken common actions (usually initiated by the SCSP) 
+to reduce their overall GHG emissions. 
+                                                          
+2  See VCS Standard for grouped project requirements. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+11 
+Sustainable Community 
+Service Promoter (SCSP) 
+An independent entity, which acts as the project proponent, 
+providing essential consultation services in the fields of energy 
+and waste to Client Facilities to stimulate greenhouse gas (GHG) 
+reduction activities. SCSPs add value to Client Facilities by 
+implementing 
+Information 
+and 
+Communication 
+Technology-
+enabled electronic tracking platforms, monitoring technologies, 
+and emission reduction activities. In providing services to Client 
+Facilities, SCSPs contractually maintain ownership of the 
+environmental attributes associated with actions that reduce the 
+Client Facilities overall GHG emissions. 
+Territory 
+A grouping of Client Facilities which belong to a common industrial 
+or geographic cluster, where the regional conditions (i.e. electricity 
+source, climate, waste processing schemes, etc.) and regulations 
+(i.e. waste and emission regulations, etc.) are similar for the 
+different facilities; where homogeneous emission factors for fossil 
+combustibles and identifiable emission factor for the electricity grid 
+can be applied; and where common energy efficiency activities 
+and waste processing activities are possible. The Territory concept 
+has been applied to facilitate VVB sampling procedures, though 
+sampling resolutions are ultimately to be determined by the VVB 
+based on a risk assessment of the project and project controls. 
+This sub-section introduces data, sampling, and conceptual terminologies that are important to how 
+emission reductions are quantified and monitored under this methodology. 
+Baseline Adjustments 
+The non-routine adjustments arising during the monitoring period 
+from changes in: 
+1) any energy governing characteristic of the facility within the 
+measurement boundary, except the named independent variables 
+used for routine adjustments (EVO 10000-1, 2010); or 
+2) any waste governing characteristic of the facility within the 
+measurement boundary (for example, total production). 
+Baseline Period 
+The period of time chosen to represent operation of the facility or 
+system before implementation of an Energy Conservation 
+Measure or waste reduction/diversion activities. This period may 
+be as short as the time required for an instantaneous 
+measurement of a constant quantity, or long enough to reflect one 
+full operating cycle of a system or facility with variable operations. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+12 
+Confidence Interval 
+A confidence interval (CI) is a particular kind of interval estimate of 
+a population parameter and is used to indicate the reliability of an 
+estimate. It is an observed interval (i.e. it is calculated from the 
+observations), in principle different from sample to sample, that 
+frequently includes the parameter of interest, if the experiment is 
+repeated. How frequently the observed interval contains the 
+parameter is determined by the confidence interval or confidence 
+coefficient. 
+Estimate 
+A process of determining a parameter used in a savings 
+calculation through methods other than measuring it in the 
+baseline and monitoring periods. These methods may be based 
+on secondary data or engineering assumptions and estimates 
+derived from manufacturer’s rating of equipment performance. 
+Equipment performance tests that are not made in the place 
+where they are used during the monitoring period shall be 
+considered as estimates. 
+Facility 
+The collection of units, excluding the Project Unit. As such, the 
+greenhouse emissions from the facility are defined to remain 
+constant as only the Project Unit is impacted by the project. Where 
+the Project Unit encompasses the entire site, there may be no 
+components defined as the Facility at the site. 
+Functional Equivalence 
+The project and the baseline shall provide the same function and 
+quality of products or services. This type of comparison requires a 
+common metric or unit of measurement (such as the mass of 
+cardboard diverted from landfill for mass of finished furniture, 
+energy use/per unit of product) for comparison between the project 
+and baseline activity. 
+Information and 
+Communication 
+Technology (ICT) 
+Information and Communication Technology that is applied 
+through an electronic tracking platform for each Client Facility. An 
+electronic account and the effective electronic link between all 
+Client Facilities inside a Territory to stimulate, to support and 
+measure their GHG related activities. SCSPs employ an ICT-
+enabled GHG monitoring system. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+13 
+Measurement Boundary 
+A notional boundary drawn around equipment and/or systems to 
+segregate those which are relevant to savings determination from 
+those which are not. All energy uses of equipment or systems 
+within the measurement boundary must be measured or 
+estimated, whether the energy uses are within the boundary or not 
+(EVO 10000-1, 2010) 
+Non-Routine Adjustments 
+Calculations that account for changes in Static Factors within the 
+measurement boundary since the baseline period. Examples of 
+changes in Static Factors that require non-routine adjustments 
+include the facility size, product types, building envelope 
+characteristics, indoor environment and occupancy characteristics. 
+Non-routine adjustments applied to the baseline are sometimes 
+referenced as “baseline adjustments” (EVO 10000-11, 2010). For 
+this quantification protocol, non-routine adjustments also account 
+for changes in the “surplus” characteristics of the project. 
+Primary Data 
+Observed data from specific facilities linked to the SCSP tracking 
+system. 
+Project Unit 
+A project activity instance wherein the equipment, processes and 
+facilities are being serviced and impacted by the energy efficiency 
+and waste diversion processing project. The Project Unit must be 
+clearly defined and justified by the project proponent. All non-
+Project Unit items are covered under the heading of facility 
+operation. 
+Routine Adjustments 
+The calculations made by a formula, as shown in the energy 
+efficiency and waste diversion monitoring plans, to account for 
+changes 
+in 
+selected 
+independent 
+variables 
+within 
+the 
+measurement boundary since the baseline period (EVO 10000-11, 
+2010), not including any changes to Static Factors. 
+Secondary Data 
+Generic- or industry-average data from published sources that are 
+representative of Project unit Activities and Client Facility products. 
+Static Factors 
+Those characteristics of a Client Facility which affect energy use 
+and waste volume produced, within the chosen measurement 
+boundary. These characteristics include fixed, environmental, 
+operational and maintenance characteristics. They may be 
+constant or varying (EVO 10000-11, 2010). 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+14 
+Standard Deviation 
+The standard deviation, denoted by s and is defined as follows: 
+ 
+ 
+where 
+ are the observed values of the sample items 
+and   is the mean value of these observations. 
+Suggested Sample Size 
+While the ultimate level of sampling must be determined by the 
+VVB, the project proponent may provide a suggested number of 
+Sustainable Community Project Units to be physically verified. 
+Unit of Productivity 
+The unit of productivity is to be defined by the project proponent as 
+a basis for incorporating Functional Equivalence within the 
+calculation methodology. Examples of units of productivity could 
+be: energy requirements for residential buildings, per square foot 
+of front of house commercial space, per kg/L/m2/m3 of output from 
+manufacturing facilities, etc. The unit of productivity shall be 
+defined to account for any non-production sensitive components. 
+In all cases the project proponent must thoroughly justify their 
+assessment of the appropriate unit of productivity. 
+Verified Data Feedback 
+Loop 
+After each verification cycle, verified SCSP Client Facility data 
+may be used to increase the confidence interval on any estimated 
+values included in the baseline or project scenarios. Examples of 
+such situations could include replacing regional factors for a 
+specific facility with a more accurate waste or energy profile of the 
+specific Client Facility based on measured data, providing it can 
+still be related to the baseline period. This verified data feedback 
+loop could ultimately result in adjustments that both increase or 
+decrease emission reduction assertions in future years. The 
+adjustments would not be retroactive to previously serialized 
+offsets. 
+These definitions apply to the energy efficiency components of GHG quantification described herein. 
+Adjusted-baseline energy 
+The energy use of the baseline period, adjusted to a different set 
+of operating conditions (EVO 10000-11, 2010). 
+Baseline Energy  
+The energy use occurring during the baseline period without 
+adjustments (EVO 10000-11, 2010). 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+15 
+Cycle 
+The period of time between the start of successive similar 
+operating modes of a facility or piece of equipment whose energy 
+use varies in response to operating procedures or independent 
+variables. For example, the cycle of most buildings is 12 months, 
+since their energy use responds to outdoor weather which varies 
+on an annual basis. Another example is the weekly cycle of an 
+industrial process which operates differently on Sundays than 
+during the rest of the week (EVO 10000-11, 2010). 
+Energy Conservation 
+Measure (ECM) 
+An activity or set of instances designed to increase the energy 
+efficiency of a facility, system or piece of equipment. ECMs may 
+also conserve energy without changing efficiency. Several ECMs 
+may be carried out in a facility at one time, each with a different 
+thrust. An ECM may involve one or more of: physical changes to 
+facility equipment, revisions to operating and maintenance 
+procedures, software changes, or new means of training or 
+managing users of the space or operations and maintenance staff. 
+An ECM may be applied as a retrofit to an existing system or 
+facility, or as a modification to a design before construction of a 
+new system or facility. 
+These definitions apply to the waste diversion components of GHG quantification described herein. 
+Alternative Processing 
+Refers to recycling, reusing, reduction and re-processing activities 
+which are applied as part of the project to divert waste from 
+reaching a landfill. 
+Biodegradability 
+Biodegradability is the capability of a substance to break down into 
+simpler substances, especially into innocuous products, by the 
+actions of living organisms (that is, microorganisms). 
+Composting 
+The process of collecting, grinding, mixing, piling, and supplying 
+sufficient moisture and air to organic materials to speed natural 
+decay. The finished product of a composting operation is compost, 
+a soil amendment suitable for incorporating into topsoil and for 
+growing plants. Compost is different than mulch, which is a 
+shredded or chipped organic product placed on top of soil as a 
+protective layer. 
+Destinations  
+The ultimate destination for waste being shipped by the project. 
+This is the location where the waste would be unloaded from a 
+truck after having been shipped from project Origins.  
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+16 
+Disposal 
+Final stage in the management of waste, which includes:  
+treatment of waste prior to disposal, incineration of waste, with or 
+without energy recovery, deposit of waste to land or water, 
+discharge of liquid waste to sewer, and permanent, indefinite or 
+long term storage of waste. 
+Diversion 
+For waste measurement purposes, diversion is any combination of 
+waste prevention (source reduction), recycling, reuse and 
+composting instances that reduces waste disposed at authorized 
+landfills and transformation facilities. 
+Landfill Gas (LFG) 
+Gas generated by biological decomposition of waste material in a 
+landfill. The gas is typically comprised of methane, carbon dioxide, 
+other trace gases and water vapor. 
+Origins  
+Starting points for waste being shipped by the project. This is the 
+location where the waste would be loaded onto a truck or train for 
+ultimate delivery to Destinations.  
+Producer  
+Refers to the Client Facility that produces the waste to be 
+disposed of. 
+Process Emissions 
+Process emissions are direct emissions from sources directly 
+associated with production that involve chemical or physical 
+reactions, other than combustion, and where the primary purpose 
+of the process is not energy production. 
+Recycling 
+The process of collecting, sorting, cleansing, treating, and 
+reconstituting materials that would otherwise become solid waste, 
+and returning them to the economic mainstream in the form of raw 
+material for new, reused, or reconstituted products that meet the 
+quality standards necessary to be used in the marketplace. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+17 
+Waste 
+All type of wastes, regulated or not regulated, hazardous or non-
+hazardous and generated by citizens under the municipal umbrella 
+(Municipal Solid Waste (MSW)) or by others sources such as an 
+Industrial, Commercial and Institutional (ICI) business unit. This 
+definition of the wastes defined by the Basel Convention 
+http://www.basel.int/ in the Basel Convention on the Control of 
+Transboundary Movements of Hazardous Wastes and Their 
+Disposal in the article 2 and referred to Annex I and II, shall apply 
+for all types of wastes. Notice this UN international convention 
+respect the full right of country to define their wastes (article 2 item 
+1). 
+Waste Transformation 
+Incineration, pyrolysis, distillation, gasification, or biological 
+conversion other than composting. 
+Waste Management 
+All types of waste management operations, disposal and recycling 
+applied for all types of wastes shall refer to the definition used by 
+the 
+Basel 
+Convention 
+http://www.basel.int/ 
+in 
+the 
+Basel 
+Convention on the Control of Transboundary Movements of 
+Hazardous Wastes and Their Disposal in article 2 and referred to 
+Annex IV. Notice this UN international convention respect the full 
+right of country to define their management wastes operations 
+(article 2).

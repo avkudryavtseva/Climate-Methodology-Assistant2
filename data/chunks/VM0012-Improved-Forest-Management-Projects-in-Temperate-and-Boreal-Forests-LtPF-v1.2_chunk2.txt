@@ -1,0 +1,53 @@
+2 
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+This methodology for Improved Forest Management – Logged to Protected Forest quantifies GHG emission 
+reductions/removals from projects on land with forests remaining forests and where carbon sequestration occurs 
+when logging in the baseline scenario is avoided in the project scenario.   
+2.1 
+Baseline and Project Scenario Steps: 
+1. Determine project eligibility and applicability of this methodology. 
+2. Establish the project area (= private property boundary). 
+3. Establish a project time horizon. 
+4. Determine multiple credible and realistic baseline scenarios. 
+5. Select the baseline scenario 
+6. Test for additionality using designated tools and requirements. 
+7. Select the applicable carbon pools and emission sources for the project area. 
+8. Create detailed baseline scenario and project scenario assumptions: 
+a. Spatially stratify the current land cover and land use conditions by area, if necessary: 
+b. Determine the timber harvesting land base area(s) 
+c. Project the baseline and project scenario forest management schedule, including forest 
+regeneration practices, for a minimum of one rotation. Include spatially located harvestable 
+volume and area by analysis unit and year, identify stand level harvesting methods and 
+assumptions, and identify additional relevant scenario modeling information.   
+d. Project the net annual ecosystem carbon stock changes over time under the baseline and project 
+scenarios, including changes due to harvest removals, regeneration, stand growth, mortality, and 
+any additional factors that materially affect carbon balance.   
+9. Calculate annualized and project total ex-ante carbon pool flows and GHG Emissions for the baseline 
+and project scenarios.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+4 
+10. Calculate the net change in GHG emissions between the ex-ante ecosystem carbon projections for the 
+baseline and project scenarios, on an annualized basis.   
+11. Assess leakage risks to determine a leakage factor to be applied to the net annual GHG emission 
+changes.   
+12. Calculate and estimate the expected net VCU’s, including calculating VCS permanence buffer 
+requirements. 
+13. Calculate and apply an uncertainty factor to net GHG emission reductions.   
+2.2 
+Monitoring Steps: 
+1. 
+Determine the data and assumptions to be monitored to assess ex-post carbon stock changes in the 
+project area. 
+2. 
+Determine remote sensing activities for monitoring ex-post land use changes on the project area.   
+3. Develop and implement a systematic field plot network for estimating and monitoring actual stand level 
+biomass within the project boundary.   
+4. Develop and implement a leakage monitoring plan. 
+5. 
+Develop a record-keeping procedure to record and archive monitoring activities, results, and related 
+management actions.   
+6. Design a quality assurance/quality control program related to monitoring.

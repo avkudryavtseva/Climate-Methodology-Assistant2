@@ -1,0 +1,231 @@
+10 REFERENCES 
+ 
+Brown, S. 1997. Estimating biomass and biomass change of tropical forests: a primer. FAO Forestry Paper 
+134, Rome, Italy. Available at http://www.fao.org/docrep/W4095E/W4095E00.htm  
+Brown, S., Pearson, T., Moore, T., Parveen, A., Ambagis, S., Shoch, D. (2005). Impact of selective logging on 
+the carbon stocks of tropical forests: Republic of Congo as a case study. Report submitted to the United 
+States Agency for International Development Cooperative Agreement No. EEM-A-00-03-00006-00 
+https://pdf.usaid.gov/pdf_docs/Pnade434.pdf  
+Burivalova, Z., Çağan Hakkı Şekercioğlu, Lian Pin Koh (2014). Thresholds of Logging Intensity to Maintain 
+Tropical Forest Biodiversity. Current Biology 24 (16): 1893-1898. 
+https://doi.org/10.1016/j.cub.2014.06.065.  
+FAO (2023) Global Forest Resources assessment (FRA) Terms and Definitions. 
+Feldpausch, T., Jirka, S., Passos, C., Jasper, F., Riha, S. (2005) When big trees fall: Damage and carbon 
+export by reduced impact logging in southern Amazonia, Forest Ecology and Management 219 (2–
+3):199-215. 
+Gonzalez-Akre, E., Piponiot, C., Lepore, M., Herrmann, V., Lutz, J. A., Baltzer, J. L., Dick, C. W., Gilbert, G. S., 
+He, F., Heym, M., Huerta, A. I., Jansen, P. A., Johnson, D. J., Knapp, N., Král, K., Lin, D., Malhi, Y., 
+McMahon, S. M., Myers, J. A., … Anderson-Teixeira, K. J. (2022). allodb: An R package for biomass 
+estimation at globally distributed extratropical forest plots. Methods in Ecology and Evolution, 13, 330–
+338. https://doi.org/10.1111/2041-210X.13756  
+IEA (2009). IEA Statistics: Emissions from Fuel Combustion Highlights (2009 Ed). CO2 emissions per kWh 
+from electricity and heat generation, pp. 101-103. 
+IPCC 2006, 2006 IPCC Guidelines for National Greenhouse Gas Inventories; Volume 4 AFOLU, Prepared by 
+the National Greenhouse Gas Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and 
+Tanabe K. (eds). Published: IGES, Japan.  
+IPCC. (2019) Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Calvo 
+Buendia, E., Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., 
+Shermanau, P. and Federici, S. (eds). Published: IPCC, Switzerland.   https://www.ipcc-
+nggip.iges.or.jp/public/2019rf/index.html . 
+Kinjo, M., Ohuchi, T., Kii, H., and Murase, Y. (2005). “Studies of life cycle assessment of Sugi 
+Lumber,” Journal of the Faculty of Agriculture 50(2), 343-351. 
+Klvac, R., Skoupy, A. (2009). Characteristic fuel consumption and exhaust emissions in fully mechanized 
+logging operations. Journal of Forest Research, 14 (6), 328-334. 
+Pearson T, Walker S and Brown S 2005 Sourcebook for BioCarbon Fund projects. Prepared for BioCarbon 
+Fund of World Bank. Available at: www.winrock.org/sites/default/files/publicatson/atta 
+chments/Winrock-BioCarbon Fund Sourcebook-compressed.pdf  
+Picard N., Saint-André L., Henry M. 2012. Manual for building tree volume and biomass allometric 
+equations: from field measurement to prediction. Food and Agricultural Organization of the United 
+Nations, Rome, and Centre de Coopération Internationale en Recherche Agronomique pour le 
+Développement, Montpellier, 215 pp. https://www.fao.org/4/i3058e/i3058e.pdf  
+  
+ 
+VM0010, v1.4 
+86 
+Pinard, M. A., & Putz, F. E. (1996). Retaining Forest Biomass by Reducing Logging Damage. Biotropica, 
+28(3), 278–295. https://doi.org/10.2307/2389193 
+Poole, A. and Pinheiro, P. (2003). Developing energy profiles for sawmills in the Amazon region - First field 
+visit to Rondolandia and Ji-Parana. Accessed 25 July 2009. 
+Society of American Foresters – SAF (2018). The SAF Dictionary of Forestry, 2nd Edition. Edited by Robert 
+Deal, Bethesda, MD, USA. 208 p. 
+Souza, C., Roberts, D., Cochrane, M. (2005). Combining spectral and spatial information to map canopy 
+damage from selective logging and forest fires. Remote Sensing of Environment 98 (2-3): 329-343. 
+Somogyi, Z., E. Cienciala, R. Mäkipää, P. Muukkonen, A. Lehtonen and P.Weiss. (2006) Indirect methods of 
+large-scale forest biomass estimation, Eur.J.ForestRes. 126 (2) pp.197–207. 
+http://dx.doi.org/10.1007/s10342-006-0125-7  
+Winjum,J.K., Brown,S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks 
+of atmospheric carbon dioxide. Forest Science 44:272-28431 
+Zanne, A., Lopez-Gonzalez, G., Coomes, D., Ilic, J., Jansen., S., Lewis, S., Miller, R., Swenson, N., Wiemann, 
+M., Chave, J. (2009). Global Wood Density Database. 
+https://datadryad.org/stash/dataset/doi:10.5061/dryad.234 
+ 
+VM0010, v1.4 
+87 
+ 
+APPENDIX 1: CONVERTING OTHER 
+GREENHOUSE GASES TO CO2e 
+Other GHGs considered in this methodology (subject to significance as determined in Section 5.4) are 
+methane (CH4) and nitrous oxide (N2O).  
+Non-CO2 gas emission factors must be expressed in carbon dioxide equivalents by multiplying their 
+emission factors by their corresponding global warming potentials (GWPs) and summating the results 
+together to obtain an overall emission factor in terms of carbon dioxide equivalents: 
+𝐸𝐹= 𝐸𝐹𝐶𝐻4 × 𝐺𝑊𝑃𝐶𝐻4 + 𝐸𝐹𝑁2𝑂 × 𝐺𝑊𝑃𝑁2𝑂 
+(47) 
+Where:  
+EFCH4 
+Emission factor for methane gas, activity data-specific, tCH4/activity data unit; 
+GWPCH4 
+Global warming potential of methane, tCO2e/tCH4; 
+EFN2O 
+Emission factor for nitrous oxide gas, activity data-specific, tN2O/activity data unit; 
+GWPN2O 
+Global warming potential of nitrous oxide, in tCO2e/tN2O; 
+Where CH4 and N2O are determined to be insignificant to the overall calculations, and HFCs, PFCs and 
+SF6 are not included, then CO2 becomes the sole greenhouse gas quantified. Throughout this 
+methodology, even where CO2 becomes the sole GHG emission quantified, it is expressed as CO2-e.  
+ 
+ 
+ 
+VM0010, v1.4 
+88 
+ 
+APPENDIX 2: CONVERTING UNITS FOR 
+FUEL EMISSION FACTOR 
+IPCC (2006) emission factors for GHGs (CO2, CH4 and N2O) are recorded in units of kg of GHG (TJ of 
+fuel)-1. As such, for each GHG, the emission factor must be multiplied by the fuel heating value (in TJ kg-
+1) and density (kg kL-1) to obtain an emission factor in tGHG kL-1. (e.g., tCO2-e kL-1, tCH4 kL-1 and tN2O 
+kL-1). 
+𝐸𝐸𝐹𝐹𝑈𝐸𝐿−𝐺𝐻𝐺= 𝐸𝐹𝐼𝑃𝐶𝐶−𝐹𝑈𝐸𝐿 × 𝐻𝑉𝐹𝑈𝐸𝐿 × 𝜌𝐹𝑈𝐸𝐿
+1000
+ 
+(48) 
+Where:  
+EFFUEL-GHG 
+Fuel emission factor for the greenhouse gas (CO2, CH4 or N2O), in tGHG/kL; 
+EFIPCC-FUEL 
+IPCC fuel emission factor for greenhouse gas (CO2, CH4 or N2O), in kgGHG/TJ; 
+HVFUEL 
+Heating value of fuel, in TJ/kg; 
+ƿFUEL 
+Density of fuel, in kg/kL; 
+ 
+VM0010, v1.4 
+89 
+ 
+APPENDIX 3: FUEL CONSUMPTION 
+CHARTS 
+As referenced in Section 8.1.4, the fuel consumption rate of a generator can be derived from fuel 
+consumption charts for generators. Table A3 offers default factors depending on the generator size 
+(kW) and on the anticipated load (Diesel Service and Supply, 2009). 
+Table A3: Fuel Consumption Chart for a Diesel Generator 
+Generator Size (Kw) 
+¼ Load (kL h-1) 
+Full Load (Kl h-1) 
+20 
+0.002 
+0.006 
+40 
+0.006 
+0.015 
+60 
+0.007 
+0.018 
+100 
+0.01 
+0.028 
+125 
+0.012 
+0.034 
+150 
+0.014 
+0.041 
+200 
+0.018 
+0.055 
+300 
+0.026 
+0.081 
+500 
+0.042 
+0.135 
+750 
+0.062 
+0.202 
+1000 
+0.082 
+0.269 
+1250 
+0.102 
+0.336 
+1500 
+0.122 
+0.403 
+1750 
+0.142 
+0.47 
+2000 
+0.162 
+0.537 
+2250 
+0.182 
+0.604 
+ 
+ 
+ 
+VM0010, v1.4 
+90 
+ 
+APPENDIX 4: HARVESTER FUEL 
+CONSUMPTION FACTOR 
+As referenced in Section 8.1.4.1, the emission factors for equipment required for harvesting operations 
+derived from Klvac and Skoupy (2009) are listed in Table A4. 
+Table A4: Equipment Types and Fuel Consumption for Harvesting Operations 
+Operation 
+Equipment 
+Factor 
+Data 
+Unit 
+Felling 
+Harvester 
+Fuel consumption, FCharvest 
+1.28 -1.73 
+L m-3 
+ 
+VM0010, v1.4 
+91 
+ 
+APPENDIX 5: ELECTRICITY DEMAND OF 
+SAWMILL PROCESSES 
+An electricity demand factor may be used to determine the electricity consumption (kWh) required for a 
+particular volume of merchantable logs. As referenced in Section 8.1.4.4, the table below presents data 
+from three international sawmill processes and shows that an approximate range for the electricity 
+demand is 20-40 kWh/m3. 
+Where a country specific value for electricity demand is available, it must be used. Where a country-
+specific value is not available, a factor from a country that uses similar timber processing technology to 
+that of the project’s host country must be used. 
+Table A5: Electricity Demand for Sawmill Processing in Various Countries 
+Country 
+Electricity  
+(kWh day-1) 
+Harvest Volume  
+(m3 day-1) 
+edemand  
+(Kwh m-3) 
+Data Source 
+Indonesia 
+600 
+20 
+30 
+Budiono (unknown) 
+Brazil 
+2756 
+136 
+20 
+Poole and Pinheiro (2003) 
+New Zealand 
+- 
+- 
+26-41 
+Li et al. (2006) 
+ 
+VM0010, v1.4

@@ -1,0 +1,166 @@
+10 REFERENCES 
+AASHTO (1998). AASHTO Guide for Design of Pavement Structures, 4th edition. Relevant 
+information is available at http://www.pavementinteractive.org/the-aashto-reliability-
+concept/ (July 13, 2017). 
+Bemanian, S., Polish, P., & Maurer, G. (2006). Cold-In-Place Recycling and Full-Depth 
+Reclamation Projects by Nevada Department of Transportation – State of the Practice. 
+Transportation Research Record, Journal of the Transportation Research Board, 1949, 54–
+71. 
+Carnegie Mellon University Green Design Institute (CMUGDI) (2008). Economic Input-Output 
+Life Cycle Assessment (EIO-LCA), US 1997 Industry Benchmark model. Available at: 
+http://www.eiolca.net/cgi-bin/dft/use.pl 
+Dixon, W.J. (1951). Ratios involving extreme value. The Annals of Mathematical Statistics, 
+22(1), 68–78. 
+EPA (2000). Hot mix asphalt plants emission assessment report. United States 
+Environmental Protection Agency. 
+EPA (2012). Engine Certification Data for Heavy Truck, Buses, and Engines. Available at: 
+http://www.epa.gov/oms/certdata.htm#largeng (November 26, 2012). 
+EPA (2015). US EPA Archive Document: Asphalt Concrete. Available at: 
+https://www3.epa.gov/warm/pdfs/Asphalt_Concrete.pdf (July 13, 2017) 
+EPA (2017). Emissions & Generation Resource Integrated Database (eGRID) summary 
+tables. Available at: https://www.epa.gov/energy/emissions-generation-resource-integrated-
+database-egrid (March 24, 2017) 
+Hammond, G., & Jones, C. (2011). "Embodied carbon: The Inventory of Carbon Energy (ICE)." 
+Building Services Research and Information Association (BSRIA), Berkshire, UK. 
+IPCC (2007). Climate Change 2007: Synthesis Report. R. K. Pachauri, and A. Reisinger, eds., 
+International Panel on Climate Change (IPCC), Geneva, Switzerland. 
+Liu, X., Cui., Q., & Schwartz. C. (2016). Introduction of mechanistic-empirical pavement 
+design into pavement carbon footprint analysis. International Journal of Pavement 
+Engineering, 15, 1–9. 
+Morian, D.A., Zhao, Y., Arellano. J,, & Hall, D.E. (2005). Asphalt Pavement Rehabilitation 
+Treatment – Analysis of 20 Years of Performance. Transportation Research Record, Journal 
+of the Transportation Research Board, 1905, 36–43. 
+Mundt, D.J., Marano, K.M., Nunes, A.P., Adams, R.C. (2009). A review of changes in 
+composition of hot mix asphalt in the United States. Journal of Occupation Environmental 
+Hygene. 
+ VM0039, v1.1 
+ 
+42 
+ 
+National Center for Asphalt Technology (2010). Properties and Performance of Warm Mix 
+Asphalt Technologies. Auburn University, AL. volume 26 No.1. 
+NAPA (2006). National Asphalt Pavement Association Comments to Midwest Regional 
+Planning Organization: Interim White Paper on Candidate Control Measures to Reduce 
+Emissions from Hot Mix Asphalt Plants. Page 1. 
+NAPA (2012). Manual of NAPA’s Greenhouse Gas Calculator. National Asphalt Pavement 
+Association, Lanham, MD. Available at: 
+https://www.asphaltpavement.org/ghgc/GHGC%20v4%20instructions.pdf (June 21, 2014). 
+Page 3. 
+NAPA (2013). Annual asphalt pavement industry survey on recycled materials and warm-mix 
+asphalt usage: 2009-2012. National Asphalt Pavement Association. 
+NAPA (2017). Asphalt pavement industry survey on recycled materials and warm-mix 
+asphalt usage:2014. National Asphalt Pavement Association. 
+Schwartz, C.W., & Khosravifar, S. (2013). State Highway Administration Research Report: 
+Design and Evaluation of Foamed Asphalt Base Materials. University of Maryland, College 
+Park. 
+Sinden, G. (2008). PAS 2050: 2008, Specification for the Assessment of the Life Cycle 
+Greenhouse Gas Emissions of Goods and Services. British Standards Institute (BSI). pages 
+12-16. 
+TCR (2015). 2015 Default emission factors. The Climate Registry. Available at: 
+https://www.theclimateregistry.org/wp-content/uploads/2015/04/2015-TCR-Default-EF-
+April-2015-FINAL.pdf (March, 2016) 
+UNFCCC (2006). Report of the Conference of the Parties serving as the meeting of the 
+Parties to the Kyoto Protocol. Framework Convention on Climate Change. page. 17 
+ 
+ VM0039, v1.1 
+APPENDIX 1: DETERMINATION OF 
+PERFORMANCE BENCHMARK FOR 
+ADDITIONALITY AND CREDITING 
+BASELINE 
+Quantification of Baseline Emissions 
+The performance benchmark determined for use in this methodology represents the quantity of GHGs 
+emitted from producing and installing one metric ton of HMA. This was calculated based on emission 
+intensities that sum the material emission intensity, to-plant delivery emissions intensity, in-plant 
+production emission intensity, to-site delivery emissions intensity, and on-site installation emission 
+intensity. 
+The component materials of HMA include bitumen binders, crushed rock, sand, gravel, RAP and 
+manufactured aggregates. GHG emissions from material production and transportation include: 
+The embodied GHG emissions of construction materials, which are primarily from energy consumption 
+and chemical combustion associated with material production; and, 
+1) GHG emissions from fuel consumption for transporting materials to production facilities. 
+Primary equipment/vehicles used for placing HMA include asphalt paving machines, backhoes, 
+bobcat/loaders, sweeper/brooms, air compressors, rollers, trucks, etc. Equipment operation 
+information was gathered from projects sampled using HMA. For each project, the operation 
+information for trucks, which deliver the hot mix to the job site and carry the RAP from the job site to 
+the hot mix plant, was obtained from truck driver reports. The truck driver reports record time in and 
+out from the job site for each truck, the total mileage travelled, and the gallons of diesel used by each 
+truck. The recorded information was then used for estimating the GHG emissions from the trucks when 
+transporting the raw materials/products and loading/dumping the materials at both the job site and 
+the hot mix plant. The operation of the rest of the equipment/vehicles was obtained from the 
+contractor’s daily report in terms of total labor hours. 
+The emissions associated with materials, to-plant delivery, and in-plant production were estimated 
+through the survey of sixteen hot mix producers from Maryland, Virginia, and Pennsylvania in 2013. The 
+six hot mix producers included in the survey were WMA certified. The average WMA output percentage 
+was 19%. The average percentage of RAP in our survey is 23%, higher than 2011 statistic nationwide 
+average value of 19% reported by NAPA (2013). Higher percentage of RAP implies a more conservative 
+benchmark. In addition, this survey covered typical fuel types for HMA facilities and the proportion of 
+each fuel type approximately represented fuel structure of HMA plants (EPA, 2000). Out of sixteen 
+ VM0039, v1.1 
+ 
+44 
+ 
+plants in the survey, ten plants consumed natural gas, three consumed oil, and three consumed 
+propane. This proportion is aligned with the number published by EPA that natural gas fuel is used to 
+produce 70% to 90% of the HMA. 
+Each producer reported raw material consumption, delivery distance, and fuel use by the rotary dryer 
+plus additional fuels used inside the gate by equipment and vehicles on a quarterly basis in 2013. GHG 
+emission intensity was determined following Equations A1 to A5 below. A calculation example for an 
+individual HMA facility is displayed in Table A1 and a summary result for the sixteen facilities is 
+displayed in Table A2. 
+Raw material production: 
+EIC =
+EFC × WC
+Project amount 
+(A1) 
+Where: 
+EIM
+=
+Emission intensity of raw material production (kgCO2e/t)
+EFM
+=
+Material emission factor (kgCO2e/kg)
+WM
+=
+Material weight (kg)
+Project amount
+=
+Amount of HMA manufactured (t)
+Plant production: 
+EIQ = EIR + EIS 
+(A2) 
+Where: 
+EIP
+=
+Emission intensity of in-plant production (kgCO2e/t)
+EID
+=
+Emission intensity of diesel-consuming activities (kgCO2e/t)
+EIE
+=
+Emission intensity of electricity-consuming activities (kgCO2e/t)
+ 
+EIR = EFST × HRST
+Project amount 
+(A3)
+Where: 
+EID
+=
+Emission intensity of diesel-consuming activities (kgCO2e/t)
+EFEQ
+=
+Equipment emission factor (kgCO2e/hour)
+HREQ
+=
+Equipment operation hours (hour)
+Project amount
+=
+Amount of HMA manufactured (t)
+EIS =
+EFSW × CSW
+Project amount 
+(A4) 
+Where: 
+EIE
+=
+Emission intensity of electricity-consuming activities (kgCO2e/t)
+ VM0039, v1.1

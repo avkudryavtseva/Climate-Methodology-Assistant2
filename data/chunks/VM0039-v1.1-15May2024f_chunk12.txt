@@ -1,0 +1,860 @@
+9 MONITORING 
+The data parameters available at validation and those to be monitored are introduced and 
+background information is provided in Sections 9.1 and 9.2, respectively. Section 9.3 
+describes general guidance for collecting and reporting all data and parameters listed in 
+Section 9.2. 
+9.1 
+Data and Parameters Available at Validation 
+9.1.1 Parameters Available at Validation for HMA and CCPR 
+Data / Parameter 
+EFM 
+Data unit 
+kgCO2e/kg 
+Description 
+Material emission factor 
+Equations 
+2 
+Source of data 
+CMUGDI (2008) 
+Value applied 
+RAP: 0 
+Cement: 0.83 
+Bitumen: 0.48 
+Water: 0 
+Crushed rock: 0.056 
+Sand: 0.005 
+Manufactured aggregates: 0.006 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+CMUGDI (2008) is comprised of national economic input-output models 
+and publicly available resources use and emission data, which has 
+been accessed over 1 million times by researchers or business users. 
+Purpose of Data 
+Calculation of material production emissions 
+Comments 
+Data to be updated when the material emissions factor is updated 
+ 
+Data / Parameter 
+EFT
+Data unit 
+kgCO2e/mile
+Description 
+Truck’s emission per mile travelled 
+Equations 
+3, 4 
+Source of data 
+TCR (2015) 
+ VM0039, v1.1 
+ 
+27 
+ 
+Value applied 
+10.2 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Emission factors from TCR are compiled from publicly available data 
+sources and updated each year to ensure that project proponents have 
+the most accurate and up-to-date greenhouse gas data. 
+Purpose of Data 
+Calculation of baseline delivery emission 
+Calculation of CCPR delivery emission 
+Comments 
+Data to be updated when the diesel emissions factor is updated 
+ 
+Data / Parameter 
+EFEQ
+Data unit 
+kgCO2e/hour
+Description 
+Equipment emissions per hour 
+Equations 
+6, 8 
+Source of data 
+EPA (2012). "Engine Certification Data for Heavy Truck, Buses, and 
+Engines."<http://www.epa.gov/oms/certdata.htm#largeng>. 
+Value applied 
+Appendix 2 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The engine emission information is obtained from the EPA off-road 
+engine certification database and further stratified equipment types by 
+engine maker and horsepower rating. The database created for 
+equipment emission estimation is presented in Appendix2. 
+Purpose of Data 
+Calculation of baseline emission 
+Calculation of CCPR emission 
+Comments 
+Data was collected one time and must be updated when more strict 
+emission standard is implemented nationwide 
+ 
+Data / Parameter 
+EFEL
+Data unit 
+kgCO2e/kWh
+Description 
+Electricity emission factor 
+Equations 
+7 
+Source of data 
+EPA (2017) 
+Value applied 
+Refer to EPA’s eGRID summary tables for electricity emission factors for 
+different regions 
+Justification of choice of 
+data or description of 
+Emission factors from eGRID summary tables are compiled by the EPA 
+and updated each year to ensure that project proponents have the 
+ VM0039, v1.1 
+ 
+28 
+ 
+measurement methods 
+and procedures applied 
+most accurate and up-to-date greenhouse gas data. The calculation of 
+electricity emission must use region-specific emission factors. 
+Purpose of Data 
+Calculation of baseline emission 
+Calculation of CCPR emission 
+Comments 
+The project proponent must use the most recent eGRID summary tables 
+available. 
+ 
+Data / Parameter 
+CF
+Data unit 
+Between 0 and 1
+Description 
+Conversion factor: the percentage of equipment operating time in the 
+total labor time 
+Equations 
+9 
+Source of data 
+Liu et al. (2016) 
+Value applied 
+Milling machine: 0.66 
+Backhoe: 0.33 
+Loader: 0.33 
+Sweeper: 0.55 
+Paver: 0.50 
+Roller: 0.59 
+Truck: 1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Three projects were observed on-site to count the effective operation 
+time of each piece of equipment. The percentage utilization (PU) was 
+calculated using the effective operation time divided by the total labor 
+hours. The average PU values are 0.55 for the asphalt-milling machine; 
+0.10 for the backhoe; 0.10 for the bobcat/loader; 0.4 for the 
+sweeper/broom; 0.10 for the excavator; 0.33 for the paver and 0.45 for 
+the roller. Different PUs will produce different amounts of GHG 
+emissions. According to a study by Lewis et al. (2009), the emission 
+rate of idling equipment is about one quarter of the emission rate of the 
+operating equipment. This difference is simplified and incorporated into 
+the emission calculation as an average conversion factor (CF), which 
+equals PU+0.25(1-PU). 
+Purpose of Data 
+Calculation of baseline emission 
+Calculation of CCPR emission 
+Comments 
+Data does not need to be updated 
+ 
+Data / Parameter 
+DFD
+Data unit 
+Between 0 and 1
+ VM0039, v1.1 
+ 
+29 
+ 
+Description 
+For conservativeness, a discount factor for distance calculation (DFD) 
+must be applied when a map distance calculator is used to estimate 
+hauling distance. DFD is equal to 0 if using actual logged miles. 
+Equations 
+3, 4 
+Source of data 
+On-site observations 
+Value applied 
+0.1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Ten projects were observed on site to count the distance between map 
+and equipment odometer. 
+Hauling distance = Map distance × (1+DFD) 
+Purpose of Data 
+Calculation of baseline equipment emissions 
+Calculation of CCPR equipment emissions 
+Comments 
+Data does not need to be updated 
+ 
+Data / Parameter 
+DF 
+Data unit 
+Dimensionless 
+Description 
+Discount factor for upstream displacement 
+Equations 
+15 to 26  
+Source of data 
+VCS Methodology Requirements, v4.4 
+Value applied 
+Patching < 40 miles: 0.15 
+Patching > 40 miles: 0.12 
+Roadway: 0.15 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The default value of 30% for upstream displacement was applied to raw 
+materials production and delivery to determine the discount factor on 
+the overall baseline emissions for each category. Refer to Appendix 1 
+for further information (Table A5). 
+Project proponents may propose a methodology revision with a different 
+discount factor for upstream displacement in accordance with the 
+latest version of the VCS Methodology Requirements. 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+9.1.2 
+Parameters Available at Validation for CIR or FDR 
+Data / Parameter 
+EFT
+Data unit 
+kgCO2e/mile
+Description 
+Truck’s emission per mile travelled 
+ VM0039, v1.1 
+ 
+30 
+ 
+Equations 
+3, 4 
+Source of data 
+TCR (2015) 
+Value applied 
+10.2 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Emission factors from TCR are compiled from publicly available data 
+sources and updated each year to ensure that project proponents have 
+the most accurate and up-to-date greenhouse gas data. 
+Purpose of Data 
+Calculation of baseline delivery emission 
+Calculation of CCPR delivery emission 
+Comments 
+Data to be updated when the diesel emissions factor is updated 
+ 
+Data / Parameter 
+EFM
+Data unit 
+kgCO2e/kg
+Description 
+Material emission factor 
+Equations 
+1 
+Source of data 
+CMUGDI (2008) 
+Value applied 
+RAP: 0 
+Cement: 0.83 
+Bitumen: 0.48 
+Water: 0 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+CMUGDI (2008) is comprised of national economic input-output models 
+and publicly available resources use and emission data, which has 
+been accessed over 1 million times by researchers or business users. 
+Purpose of Data 
+Calculation of material production emissions 
+Comments 
+Data to be updated when the material emissions factor is updated 
+ 
+Data / Parameter 
+EFEQ
+Data unit 
+kgCO2e/hour
+Description 
+Equipment emissions per hour 
+Equations 
+6, 7 
+Source of data 
+EPA (2012). "Engine Certification Data for Heavy Truck, Buses, and 
+Engines." http://www.epa.gov/oms/certdata.htm#largeng 
+ VM0039, v1.1 
+ 
+31 
+ 
+Value applied 
+Appendix 2 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The engine emission information is obtained from the EPA off-road 
+engine certification database and further stratified equipment types by 
+engine maker and horsepower rating. The database created for 
+equipment emission estimation is presented in Appendix 2. 
+Purpose of Data 
+Calculation of CIR or FDR emission 
+Comments 
+Data was collected one time and must be updated when more strict 
+emission standard is implemented nationwide 
+9.2 
+Data and Parameters Monitored  
+9.2.1 Data and Parameters Monitored for HMA and CCPR 
+Data / Parameter: 
+WM 
+Data unit: 
+kg 
+Description: 
+Quantity of each raw material used to produce HMA or FSB or asphalt 
+emulsions 
+Equations 
+2 
+Source of data: 
+Data source acquired through monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The data can be obtained from plant production records 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported quantity versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of HMA material emissions 
+Calculation of CCPR material emissions 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+DistanceP 
+Data unit: 
+Miles 
+Description: 
+The total miles that trucks travelled to supply raw materials to HMA 
+plant or FSB plant 
+ VM0039, v1.1 
+ 
+32 
+ 
+Equations 
+3 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Distance can be obtained from the daily report of truck drivers or 
+measured by approximation 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported mileage versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of HMA to-plant delivery emissions 
+Calculation of CCPR to-plant delivery emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+DistanceS 
+Data unit: 
+Miles 
+Description: 
+The total miles that trucks travelled to supply products to the job site 
+Equations 
+4 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Distance can be obtained from the daily report of truck drivers or 
+measured by approximation 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported mileage versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of HMA to-plant delivery emissions 
+Calculation of CCPR to-plant delivery emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+ VM0039, v1.1 
+ 
+33 
+ 
+Data / Parameter: 
+CEL 
+Data unit: 
+kWh 
+Description: 
+Electricity consumption of the whole plant 
+Equations 
+7 
+Source of data: 
+Data derived through monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The use of electricity can be obtained from plant’s utility bills 
+Frequency of 
+monitoring/recording: 
+Utility bills must be collected monthly or quarterly 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported consumption versus utility bills to confirm 
+quality measurement. 
+Purpose of data: 
+Calculation of CCPR in-plant production emissions 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+Project amount 
+Data unit: 
+t 
+Description: 
+Output quantity of FSB and asphalt emulsions 
+Equations 
+2, 3, 4, 6, 7, 8 
+Source of data: 
+Data derived through monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Data can be reported according to plant production records 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported amount versus production logs to confirm 
+quality measurement. 
+Purpose of data: 
+Calculation of CCPR emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ VM0039, v1.1 
+ 
+34 
+ 
+ 
+Data / Parameter: 
+HREQ 
+Data unit: 
+Hour 
+Description: 
+Total operating hours of on-site use of equipment 
+Equations 
+8 
+Source of data: 
+Data derived through monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Data can be obtained from daily report of on-site contractors 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported data versus labor hours to confirm quality 
+measurement. 
+Purpose of data: 
+Calculation of HMA equipment emissions 
+Calculation of CCPR equipment emissions 
+Calculation method: 
+- 
+Comments: 
+Data does not need to be updated 
+ 
+Data / Parameter: 
+HRLA 
+Data unit: 
+Hour 
+Description: 
+Total labor hours of on-site use of equipment 
+Equations 
+9 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Labor hours can be obtained from the daily reports of contractors 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported hours versus daily reports to confirm quality 
+measurement. 
+Purpose of data: 
+Calculation of HMA equipment emissions 
+Calculation of CCPR equipment emissions 
+ VM0039, v1.1 
+ 
+35 
+ 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+DE 
+Data unit: 
+lb/cu.ft 
+Description: 
+Density of FSB or asphalt emulsions 
+Equations 
+14 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Density data can be obtained from project specifications 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported data versus theoretical density to confirm 
+quality measurement 
+Purpose of data: 
+Calculation of CCPR emission reduction 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+LC 
+Data unit: 
+- 
+Description: 
+Layer coefficient of FSB or asphalt emulsions 
+Equations 
+14 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Layer coefficient can be obtained from project specifications 
+Frequency of 
+monitoring/recording: 
+Once per project 
+ VM0039, v1.1 
+ 
+36 
+ 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported data versus DOT commonly used 
+coefficients to confirm quality measurement. 
+Purpose of data: 
+Calculation of CCPR emission reduction 
+Calculation method: 
+- 
+Comments: 
+- 
+9.2.2 Data and Parameters Monitored for CIR or FDR 
+Data / Parameter: 
+WM 
+Data unit: 
+kg 
+Description: 
+The weight of each raw material used to produce FSB or asphalt 
+emulsions 
+Equations 
+2 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The data can be obtained from project records. 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported quantity versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR material emissions 
+Calculation method: 
+- 
+Comments: 
+Data does not need to be updated 
+ 
+Data / Parameter: 
+Project amount 
+Data unit: 
+t 
+Description: 
+Output quantity of FSB and asphalt emulsions 
+Equations 
+2, 4, 6 
+Source of data: 
+Data derived through monitoring 
+Description of 
+measurement methods 
+The data can be reported according to plant production records 
+ VM0039, v1.1 
+ 
+37 
+ 
+and procedures to be 
+applied: 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported quantity versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+L 
+Data unit: 
+miles 
+Description: 
+Length of damaged pavement 
+Equations 
+11 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The data can be obtained from project records 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported mileage versus map distance to confirm 
+quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+Distance 
+Data unit: 
+miles 
+Description: 
+The total miles that trucks travelled to supply raw materials to the job 
+site 
+Equations 
+6 
+Source of data: 
+Data derived from monitoring on site 
+ VM0039, v1.1 
+ 
+38 
+ 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Distance can be obtained from the daily report of truck drivers or 
+measured by approximation 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported mileage versus trucking manifests to 
+confirm quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR emission 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+S 
+Data unit: 
+Mph 
+Description: 
+Running speed of cold recycler 
+Equations 
+11 
+Source of data: 
+Data derived from monitoring project site 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The data can be obtained from project records 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported speed versus driver’s log to confirm quality 
+measurement. 
+Purpose of data: 
+Calculation of CIR or FDR installation emissions 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+DE 
+Data unit: 
+lb/cu.ft 
+Description: 
+Density of FSB or asphalt emulsions 
+Equations 
+14 
+ VM0039, v1.1 
+ 
+39 
+ 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Density data can be obtained from project specifications 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported data versus theoretical density to confirm 
+quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR installation emissions 
+Calculation method: 
+- 
+Comments: 
+- 
+ 
+Data / Parameter: 
+LC 
+Data unit: 
+- 
+Description: 
+Layer coefficient of FSB or asphalt emulsions 
+Equations 
+14 
+Source of data: 
+Data derived from monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Layer coefficient can be obtained from project specifications 
+Frequency of 
+monitoring/recording: 
+Once per project 
+QA/QC procedures to be 
+applied: 
+Cross-checking of reported data versus DOT commonly used 
+coefficients to confirm quality measurement. 
+Purpose of data: 
+Calculation of CIR or FDR installation emissions 
+Calculation method: 
+- 
+Comments: 
+- 
+9.3 
+Description of the Monitoring Plan 
+Project proponents must detail the procedures for collecting and reporting all data and 
+parameters listed in Section 9.2. Input data must be checked for typical errors, including 
+inconsistent physical units, unit conversion errors, transcription errors, and missing data for 
+specific time periods or physical units. 
+ VM0039, v1.1 
+ 
+40 
+ 
+All data collected as a part of monitoring process must be archived electronically and be 
+kept at least for two years after the end of the last project crediting period. All direct 
+measurements must be conducted with calibrated measurement equipment according to 
+relevant industry standards. Where direct measurements are not applied, project 
+proponents must demonstrate that the values used for the project are reasonably 
+conservative, considering the uncertainty associated with these values. 
+Quality assurance/quality control procedures must also be applied to add confidence that 
+all measurements and calculations have been made correctly. These may include, but are 
+not limited to: 
+1) Protecting records of monitored data (hard copy and electronic storage) 
+2) Checking data integrity on a regular and periodic basis (manual assessment, 
+comparing redundant metered data, and detection of outstanding data/records) 
+3) Comparing current estimates with previous estimates to identify any abnormal 
+readings 
+4) Providing sufficient training to project participants to install and maintain project 
+devices 
+5) Establishing minimum experience and requirements for operators in charge of 
+project and monitoring 
+6) Performing recalculations to make sure no mathematical errors have been made. 
+ 
+ 
+ VM0039, v1.1 
+ 
+41

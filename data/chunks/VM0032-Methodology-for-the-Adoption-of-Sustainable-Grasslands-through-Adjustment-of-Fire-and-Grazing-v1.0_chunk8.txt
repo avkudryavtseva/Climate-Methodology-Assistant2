@@ -1,0 +1,1941 @@
+8 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+8.1.1 
+Baseline Management Activities 
+The project proponent must document the management activities that occurred during the 
+baseline period, in order to quantify baseline emissions and/or removals. Management activities 
+must include: 
+1) The number of livestock grazing animals of different categories (eg, weight, sex, age and 
+species) in one or more areas within or in the entire project area. 
+2) The average forage removal, or grazing intensity (%) by all animals, as measured by 
+comparison of forage biomass inside and outside fenced exclosures[2, 17], or inside and 
+outside unfenced areas otherwise avoided by livestock, such as conservation areas, with 
+similar soil and climate, or before and after planned grazing events. Estimates of grazing 
+intensity over large areas may be made by using satellite-based indices, such as NDVI[12, 
+13] , as long as such indices are correlated with ground measurements with a R2 > 0.35. 
+3) The pattern of time and timing of animal use of the project area. 
+4) Prescribed burns at some desired frequency. 
+Management activities may also be considered to mean a lack of management in the form of 
+unplanned livestock grazing, lack of grazing, or unplanned fires. The project proponent must also 
+provide evidence of the baseline vegetation conditions and their association with management 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 19 
+activities in the project area during the baseline period. Such evidence must take the form of any 
+one or combination of the following, in no particular order of preference:  
+5) Field data on vegetation composition (biomass, percent cover, incidence). Dominant 
+vegetation types that are associated with lower soil carbon (eg, annual plants)  or with 
+grasses with high lignin and cellulose content such as various Pennisetum spp. (in 
+Africa), Spinifex spp., (Australia), switchgrass Panicum virgatum or Johnson grass 
+Sorghum halepense (North America), or Paspalum spp. (South America)) following 
+consumption by livestock. These data may be presented as visually estimated percent 
+cover of different vegetation types and average percent cover of annual and perennial 
+grasses, bare ground and shrubs, must be provided if applicable. 
+6) Measurements of grazing intensity from exclosure (fence) experiments, visual estimates 
+calibrated from exclosure experiments or ungrazed areas within the project area with 
+similar soils and rainfall to areas where soil carbon is expected to be increased. 
+7) GPS-referenced, dated photographs of a representative sample of the project area, with 
+sufficient evidence to judge a shift to project scenario vegetation from similar 
+photographs taken of the same view at the same GPS point. 
+8) Interpreted satellite images, such as indices of NDVI[12, 13] or maps of burned areas[18, 19] 
+across multiple years, coupled with ground vegetation data to support the conclusion that 
+these images are correctly interpreted with reasonable accuracy (ie, R2 > 0.35 between 
+index and vegetation measure from 1). 
+8.1.2 
+Design and Establishment of Permanent Sampling Stations 
+This methodology depends greatly on the success at measuring changes in SOC, the results of 
+project activities, and/or key inputs into soil carbon models such as grazing intensity and/or the 
+intensity and frequency of fires. Because these measurements in grasslands often vary by a large 
+amount over distances of a few meters, the project proponent must establish permanent sampling 
+stations, marked with permanent materials, like PVC, metal or stone, with recorded GPS 
+locations to 10 meter accuracy, or close enough to find the permanent markers of the station. 
+Measurements of carbon stocks in soil and wood (if relevant) at the same place may then be 
+compared over time and control for initial differences in SOC, grazing and fire history, vegetation, 
+topography, and other factors. Project impacts on carbon stocks are therefore best detected by 
+measuring the change in carbon stocks between years at each sampling station and then 
+summed over all sampling stations rather than the difference between mean stocks across all 
+sampling stations in different years. This sampling approach will greatly reduce the variance, and 
+therefore, uncertainty, in changes in stocks between baseline and project activities.  Further 
+details about measurements at these permanent stations are discussed in Section 0. 
+8.1.2.1 Number of Sampling Stations 
+The total number of sampling stations, n, for the project area must be determined by using the 
+CDM A/R methodological tool Calculation of the number of sample plots for measurements within 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 20 
+A/R CDM project activities.[20] As soil is typically sampled from three or more pooled 5-10 cm 
+diameter cores at a station and therefore from a small total area (< 0.05 m2), there are potentially 
+a large number of potential sampling sites in even the smallest project area (< 1 km2). 
+Consequently, the total number of sampling stations, according to the CDM tool, is largely 
+insensitive to the total area of the project for a measured approach as shown in see Figure . 
+Figure 1: Estimate Number of Sampling Stations  
+ 
+Figure 1 shows the estimated number of sampling stations needed to detect an increase in mean 
+SOC of 0.3 percent for samples with a typically observed standard deviation of 0.3 percent (100 
+percent of mean) and target standard error of less than 10 percent. 
+8.1.2.2 Stratification 
+Measured Approach 
+Obtaining precise estimates of soil organic carbon requires careful stratification[21, 22]. Stratification 
+on the basis of vegetation and management practices must provide a good initial scope of 
+stratification for soil, but additional factors, such as topography (top, middle and bottom of 
+slopes), and texture (proportion of sand, silt and clay) may also be important for defining strata. A 
+cluster, regression tree or other similar analysis of SOC from the permanent sampling stations, 
+which is required to establish baseline SOC stocks, must be used to decide a final stratification. 
+These types of analyses examine a set of different measurements from different locations to find 
+groups of locations with similar values, and may be conducted in many ways depending on the 
+extent of variability in soils, climate, and management in a project area[22]. For a detailed 
+discussion and recommended approaches, see references [23, 24]. 
+Rather than limit uncertainty in absolute measurement of SOC stocks, a modeled approach has 
+the goal to reduce the 95 percent confidence interval of a regression line of predicted change in 
+SOC relative to observed change in SOC. This imposes an additional emphasis for the 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+0.001
+0.01
+0.1
+1
+10
+100
+1000
+10000
+100000
+Number of Stations
+Project Area (km2 )
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 21 
+distribution of sampling stations to include the largest possible variation in SOC, both in terms of 
+the strata chosen and in sampling variation within strata.  
+Using cluster analysis, regression tree analysis or any other means, such as the latest version of 
+the VCS module VMD0016 Methods for stratification of the project area (X-STR), v1.0 [25], the 
+project proponent must classify the area by past management practices and preliminary 
+information about soils (such as from a soils map) and climatic conditions (such as from areas 
+that are similar in aboveground productivity, or from rainfall maps). This step is equivalent to 
+stratification in an afforestation / reforestation project[20] but focused on factors related to soil 
+carbon sequestration[7], fire frequency, and animal distribution and management, and reduces the 
+uncertainty in estimates of project removals of GHG. This will produce s strata within which 
+baseline and project emissions are calculated, soil carbon changes and methane emissions will 
+be monitored, and past (baseline) and proposed project management activities have been (are) 
+implemented.  
+As an example, a project might be subdivided into five areas of different soil type and/or 
+precipitation as seen in Figure . The sampling design would then feature eight strata, one for 
+each combination of management activity, soil type, and precipitation or water availability. 
+Figure 2: Hypothetical Landscape among Eight Strata Subject to Different Management 
+Practices  
+ 
+Once each stratum is defined and mapped and the total number of sampling stations determined, 
+then a representative number of sample points, zm, are chosen within each stratum. The number 
+of points per stratum will depend on which stratified sampling method is used. Where SOC 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 22 
+exhibits similar variability among strata (ie, coefficients of variation (standard deviation/mean) 
+differ by less than 40% in areas with different soil, vegetation, or management practices), the 
+number of stations per stratum must be proportional to the proportional area of each stratum in 
+the project area. This is the most likely scenario under the expectation that strata for a project are 
+selected to ensure a low variance (10 percent standard error) within each stratum. For example, 
+in a project with three strata, A, B, and C that represent 50 percent, 40 percent and 10 percent 
+respectively of the total project area and the project area requires 100 sampling stations, then 50, 
+40, and 10 stations must be placed randomly within each of strata A, B, and C  as shown in 
+Error! Reference source not found.3 below. This is the case of proportional allocation, which 
+the number of stations is allocated to each stratum on the basis of its proportion of the total 
+project area. 
+Figure 3: Proportional Allocation of Sampling Stations (Stars) Among the Eight Strata in 
+the Hypothetical Project Area in Figure 2 
+ 
+ 
+Alternatively, the best possible stratification of the project area, resulting in the least uncertainty, 
+may still feature certain strata that exhibit much higher variability (> 40% difference in coefficient 
+of variation) in SOC than others. In this case, “optimum” or disproportionate allocation of stations 
+may be most appropriate. Where a disproportionate application is applied, strata receive a 
+number of sampling stations proportional to their coefficient of variation rather than their 
+proportional area. In the example, hypothetical strata A, B, C might receive 20, 20, and 60 
+percent of stations, respectively if SOC in stratum C is three times more variable (three times 
+higher coefficient of variation), regardless of their proportional areas. As an example, Figure 4 
+shows the disproportionate allocation of 25 sampling stations in the hypothetical project area 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 23 
+shown below. In this case the high precipitation stratum and the clay soils with a high water table 
+are three times more variable than other strata, and thus receive 6 stations, as opposed to two. 
+ 
+Figure 4: Optimal or Disproportional Allocation of Sampling Stations (Stars) Among the 
+Eight Strata of the Hypothetical Project Area in Figure  
+ 
+ 
+The primary goal of the distribution of stations must be to reduce variability and increase 
+representation of different SOC values in the project area. 
+Modeled Approach 
+For projects using a modeled approach, the objective is to demonstrate that the chosen soil 
+carbon model can predict SOC stocks or changes in SOC stocks at each of a large number of 
+sampling stations that differ in key factors, such as climate soil type, past management, and 
+vegetation. Sampling stations must be selected to encompass as much of the variability in these 
+factors as possible in order to test that the model is appropriate for use in the project area (see 
+Section 8.1.3.3. The sample size must be determined using an online calculator8 or a power 
+analysis in any standard statistics program. As an example, to achieve the desired model 
+accuracy of R2 > 0.80 (see Section 8.1.3.3) and an uncertainty of less than 0.08, a total of 120 
+samples would be needed from across the full variation in SOC within the project area. 
+8.1.3 
+Calculation of Baseline Emissions 
+                                                
+8 One resource for online calculators is http://www.danielsoper.com/statcalc3 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 24 
+8.1.3.1 Baseline Emissions from Grazing Animals (BEM) 
+Baseline methane emissions from grazing animals must be estimated from data on total numbers 
+for different livestock categories that reflect species, age, sex and their respective weights, in the 
+project area. The methodology applies to Tier 2 approaches, as outlined in the IPCC 2006 
+Guidelines for National Greenhouse Gas Inventories Chapter 10, Emissions From Livestock and 
+Dung Management[5] but with local input data. Calculations are based on estimating daily 
+methane emissions as a function of the body weight (kg) of each major animal category [26] 
+(Figure 5: Daily Methane Emissions Data), and then multiplied by the number of animals in each 
+animal category and 365 days in a year. Emissions from all categories may then be summed to 
+provide the total annual methane emissions for the project area. Domestic livestock grazing 
+animals of category c must be classified as one of three animal types: ruminants (sheep, goats, 
+cattle, buffalo, and camelids (ie, camels, alpacas, guanacos, llamas), equids (donkeys, horses) or 
+pigs. 
+ܤܧܯൌ ෍൫ܤܰ஼ൈ ܦܯܧܨሺܹ௖ሻ൯
+௄
+௖ୀଵ
+ൈܩܹܲ஼ுరൈ365 ൈ6.26ݔ10ି଻
+(1) 
+Where: 
+BEM 
+= Baseline annual emissions from grazing animals (tCO2e) 
+BNc 
+= Baseline number of animals of category c (head) 
+DMEF(Wc) 
+= Daily emission factor as a function of animal weight for category c (L CH4 / day) 
+WC, 
+= Average body weight during the baseline period for animals of category c (kg) 
+GWPCH4 
+= Global warming potential for methane (tCO2e / tCH4) 
+c 
+= category of grazing animals 
+K 
+= number of categories of grazing animals, eg species, gender, age 
+combinations 
+365 
+= Conversion factor for days to years 
+6.26 x 10-7 
+= Conversion factor for L CH4 / day to t CH4 / day 
+Further, DMEF(Wc) is the daily emission factor (liters CH4 / day) as a function of animal weight for 
+animal category c. These values must be determined using the relevant allometric equations in 
+Error! Reference source not found..  
+Table 4: Allometric Equations, with Uncertainty, for Daily Methane Emissions for Three 
+Animal Types: Ruminants, Equids, And Pigs  
+Animal Type 
+Equation 
+n 
+R2 
+Uncertainty Percent 
+Ruminants 
+0.66 x WC0.97 
+62
+0.88
+9.5%
+Equids 
+0.18 x WC0.97 
+23
+0.76
+28.2%
+Pigs 
+0.07 x WC0.99 
+12
+0.93
+18.6%
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 25 
+BNc, is the harmonic mean number of animals of each category during the 10 years prior to the 
+project start date, calculated as below. The harmonic mean conservatively weights lower values 
+of methane emissions in a sample[27]. This must be calculated using equation (2). The harmonic 
+mean BNc for n censuses[27] of Nc,i animals in each category c during census i is given by: 
+ܤܰ௖ൌ൬1
+݊൰ൈ൮
+1
+∑
+1
+ܰ௖,௜
+௡
+௜ୀଵ
+൲
+(2) 
+Where: 
+BNc 
+= Baseline number of animals of category c (head) 
+n 
+= Number of counts 
+Nc,i 
+= Animals in category c during count i (head) 
+Calculations of uncertainty are given in Section 8.4.2.1.  
+Figure 5 shows the daily methane emissions data compiled from the Franz et al. (2010) review of 
+62 measurements for ruminants (sheep, goats, cattle and buffalo), 23 measurements for equids 
+(donkeys and horses) and 12 measurements for pigs, showing how methane emissions scale 
+with body weight W (kg). All animals were fed roughage forage similar in quality (40-50 percent 
+neutral detergent fiber) to plants consumed in unfertilized grasslands that likely apply in this 
+methodology. These relationships are summarized in Error! Reference source not found. 
+above. 
+Figure 5: Daily Methane Emissions Data 
+ 
+Forage quality, and specifically the fiber content of forage, is known to affect methane 
+emissions[28]. However, forage quality is not included because it introduces additional error into 
+the calculation, since dry matter intake would also have to be estimated to yield methane 
+emissions. Furthermore, the forage quality actually consumed, as opposed to that available, by 
+free-living animals on grasslands can probably never be measured accurately across a large-
+scale project. So instead, it is expected that the uncertainties in the allometric equations in Error! 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 26 
+Reference source not found. are irreducible without impractical and prohibitively expensive 
+direct methane measurements on individual animals[28] Depending on the relative abundance of 
+equids in the composition of animals, this uncertainty in methane emissions may induce an 
+uncertainty deduction in the calculation of removed methane emissions.  
+8.1.3.2 Baseline Emissions of Methane from Burning of Biomass (BEBB) 
+Biomass burning results in annual emissions of methane. These emissions may be 
+conservatively excluded if project activities do not change or lead to decreased annual emissions, 
+in which case BEBB = 0. If project activities decrease fire, proponents can choose to include 
+biomass burning in baseline emission calculations and show the net decrease in such emissions 
+under the project scenario. If project activities increase fire frequency, such as to remove shrubs 
+and lead to a net increase in total carbon stocks from the increase in SOC associated with 
+establishment of perennial grasses, project proponents must calculate the net change in 
+emissions from biomass burning under the project scenario, BEBB, must be calculated with the 
+following equation: 
+ܤܧܤܤൌ 
+∑൫ܨܨܴܧܳ௠,௕ൈܣܲܤ௠,௕ൈܲܣ௠,௕൯
+ெ
+௠
+ൈܤܥீൈܧܨ஻ீൈܩܹܲ஼ுర
+1,000,000
+(3) 
+Where,  
+BEBB 
+= Baseline annual emissions of methane from burning of biomass (tCO2e) 
+FFREQm,  
+= Proportion of area of stratum m burned annually (percent) 
+APBm,   
+= Mean total aboveground biomass at the end of the growing season in stratum 
+m (kg biomass/ha) 
+PAm, 
+= Baseline area in stratum m (ha) 
+BCG 
+= Baseline combustion factor for savanna/grassland (kg biomass burned/kg 
+biomass)  
+EFBG 
+= Emission factor for the burning of grassland (g CH4/kg biomass burned) 
+GWPCH4  
+= Global warming potential of CH4 (tCO2e / tCH4) 
+1,000,000 
+= Converts g CH4 into Mg (tons) 
+8.1.3.3 Baseline Changes in SOC Density 
+The determination of a change in baseline equilibrium carbon density depends on the type of 
+project approach used.  
+Measured Approach. Where the measured approach is applied, initial SOCm,j,0 at each sampling 
+station is the baseline. Initial SOCm,j,0 may be calculated from multiple pooled soil cores from 
+each station as: 
+ܱܵܥ௠,௝,଴ൌ ܦܧܲܶܪ௠,௝,଴ൈܱܵܥ%௠,௝,଴ൈܤܷܮܭ௠,௝,଴
+(4) 
+Where:  
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 27 
+SOCm,j,0 
+= SOC density in station j in stratum m at time t =0 (tC/ha) 
+DEPTHm,j,0  
+= Depth of SOC sampling at the project start (cm) 
+SOC%m,j,0  
+= Percent SOC in dry soil from the entire soil profile to the chosen depth at 
+station j in stratum m at time t =0 (percent) 
+BULKm,j,0  
+= Bulk density at station j in stratum m at time t =0 (Mg dry soil / m3) (Note Mg/m3 
+are equivalent to g/cm3, the unit most commonly reported by laboratory 
+analyses) 
+Note that SOC%m,j,0 is a percent and allows the equation to correctly calculate SOC density 
+(tons/ha). 
+DEPTHm,j,0 must be selected by the project proponent to account for the vast majority (> 80 
+percent) of SOC in the soil column, reflect depth to hardpans or bedrock, or to match calculations 
+from soil carbon models. SOC%m,j,0 and BULKm,j,0  must be measured in a professional laboratory 
+through either combustion methods[29] or multi-spectral diffraction with an infra-red spectrometer 
+following project area-specific calibrations[30]. Bulk density accounts for whether soil is loosely or 
+densely packed and must not include volume occupied by rock fragments or pebbles. 
+Modeled approach. Baseline management activities and environmental conditions driven by 
+possible project activities, such as grazing intensity and fire frequency, as well as critical factors 
+affecting carbon inputs and outputs to soil, such as soil texture, climate and plant characteristics 
+that affect decomposition must be imported into a peer-reviewed, published soil carbon dynamics 
+model that has been assessed for accuracy at least once with an independent set of data other 
+than that used to construct the model. For example, SNAP[3] CENTURY[4, 16, 31], EPIC[32, 33], Hurley 
+Pasture[34, 35] models are four models that incorporate grazing and/or fire, among others, as 
+factors determining soil carbon.  
+One or more of these or other candidate models must be assessed for accuracy independently, 
+(ie, with data other than that used to construct the model), and also tested to demonstrate it is 
+appropriate for use in the project area by showing its ability to predict initial carbon stocks in 
+different subareas (strata) within the project area (see below). This analysis assumes that past 
+practices have been in place long enough for SOC to approach equilibrium. Thus the soil carbon 
+model must be able to predict this equilibrium for strata in the project that have experienced 
+similar management activities for 20 years or more. A regression line is fitted to a scatter-plot of 
+model-predicted SOC (x-axis) vs. measured SOC from a large number permanent sampling 
+stations[36] (see section 8.1.2.2). Variation in conditions and management activities across strata 
+may be used as the source of different soil carbon model parameter inputs. The model must 
+generate a coefficient of determination R2 > 0.80 across all strata. The slope of the regression 
+line must have a 95 percent confidence interval that overlaps 1 and the 95 percent confidence 
+interval of the intercept must overlap zero. If these criteria cannot be met with any available 
+models, then the project proponents must use the measured approach. 
+Bias must be determined by evaluating  the percent bias of a simulation (carbon model) relative 
+to observed data[37].  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 28 
+ܯܤܫܣܵൌ ∑
+ሺܻ௢௕௦
+௜െܻ௣௥௘ௗ
+௜ሻ
+௡
+௜ୀଵ
+∑
+ܻ௢௕௦௜
+௡
+௜ୀଵ
+(5) 
+Where:  
+MBIAS 
+= Percent bias of carbon model predictions relative to observed data 
+n  
+= number of sampling stations tested 
+Yobsi 
+= observed SOC density at station i 
+Ypredi 
+= SOC density predicted at station i  
+Bias of the model chosen for this methodology must be between -20% and +20%.The criteria of 
+R2 > 0.80, slope = 1 and intercept = 0 should ensure that -20% < MBIAS < 20% [37]. In the case 
+that significant bias is found and emission reductions are over-predicted— a subset of observed 
+data may be used to adjust model parameters and fit the model to data, and then the model may 
+be re-tested with the remaining data. 
+In addition the 95 percent confidence interval for predicted mean SOC, derived from Monte Carlo 
+simulations, must overlap with that of SOC measured at sampling stations in the same stratum. If, 
+for certain strata, the 95 percent confidence intervals do not overlap, then the soil carbon model 
+must be calibrated for that stratum by adjusting one or more parameters until 95 percent 
+confidence intervals do overlap. 
+Figure  provides an example test of predicted SOC (g/m2) of a soil carbon model with observed 
+measured SOC, showing the regression line, coefficient of determination R2 and the degree of 
+variation around the regression line expected for an accurate, precise model for calculating 
+baseline SOC and changes in SOC. 
+Figure 6: Example Test of Predicted SOC (G/M2) of a Soil Carbon Model with Observed 
+Measured SOC 
+ 
+y = 1.0121x ‐ 203.84
+R² = 0.9134
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+0
+1000
+2000
+3000
+4000
+5000
+6000
+Observed  SOC  (g/m2)
+Predicted SOC (g/m2)
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 29 
+The statistics of variation needed to calculate uncertainties for each parameter in the model are 
+also necessary to determine an overall uncertainty in the model calculations of SOC. Total 
+uncertainty of model predictions of baseline SOC, changes in SOC or eventual equilibrium SOC 
+may be determined by an analysis called Monte Carlo simulation[3, 38]. In such a simulation, 
+parameter values are randomly chosen from hypothetical normal distributions with mean equal to 
+the parameter value and the measured standard error around that mean. Once all the different 
+parameter values for the model are generated from the hypothetical distributions, a model 
+prediction is made. This process is repeated 100 or more times to produce a mean model 
+prediction with a 95 percent confidence interval. For baseline SOC, the Monte Carlo simulation 
+would generate an expected value of SOC and a 95 percent confidence interval. 
+In some cases, alternative soil carbon models, and/or the same modeling framework with 
+different sets of input parameters, may be appropriate for the same project area and activity[39]. If 
+so, the project proponent must match predictions of different models to observed SOC and 
+choose the model that best predicts current SOCm,j,0 at each station in stratum m with the lowest 
+Akaike Information Criterion (AIC) value, as per standard model selection procedures[40]  Different 
+models may use different numbers of parameters, so AIC is a statistic that measures the amount 
+of variation in observation that is not predicted by a model, corrected for the number of 
+parameters K used in the model to make the prediction: 
+ܣܫܥൌ݊ൈ݈݊ቆ∑
+݁௜
+ଶ
+௡
+௜ୀଵ
+݊
+ቇ൅2ܭ൅2ܭ൬
+ܭ൅1
+݊െܭെ1൰
+(6) 
+Where:  
+AIC 
+= Akaike Information Criterion value 
+n  
+= Number of observations tested, and  
+ei  
+= Deviation of an observation from its model prediction  
+K 
+= Number of parameters used 
+Note that models, such as CENTURY[4, 16, 31], with large numbers of parameters (> 80) require a 
+large number of observations n > K to even generate AIC, and such models would have to 
+generate vastly greater fits (higher R2, lower ∑
+݁௜
+ଶ
+௡
+௜ୀଵ
+ ) to observations than much simpler models 
+with fewer parameters, such as the Hurley Pasture model[2, 34, 35].  
+The chosen model must be re-calibrated as soon as changes in SOC may be measured (typically 
+5 or more years but up to a maximum of 10 years) since the project start date or most recent re-
+calibration (calibration period). In this case, the model should be used to detect the change in soil 
+carbon during the previous calibration period rather than to predict carbon stocks. Necessary 
+model parameters must be measured as discussed previously in this section and predictions of 
+change in soil carbon stocks must be compared against measured changes at each of the 
+permanent sampling sites using the regression approaches outlined previously in this section. 
+Again, the model should predict observed change in soil carbon with R2 > 0.80 and RMSR < 0.7. 
+If the selected model fails to successfully predict soil carbon changes according to these criteria, 
+then the project proponent may modify the model, or re-calibrate it. Re-calibration may occur by 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 30 
+adjusting parameter inputs or coefficients in the model’s functions in a reasonable way (justified 
+by peer-reviewed scientific literature) to achieve successful prediction of changes in SOC during 
+the calibration period. 
+8.1.3.4 Generating Baseline SOC with a Soil Carbon Model 
+Projects applying a modeled approach, must apply the maximum SOC in the previous 10 years 
+as the baseline SOC stocks. For most projects, this will not have been measured, so the soil 
+carbon model of choice must be used to “back cast,” that is estimate SOC that would have 
+occurred during the baseline period. 
+Figure 77 provides an example of back casting SOC change from current SOC, based on 
+knowledge of past management activities and environmental conditions. The blue line is 
+predicted SOC of previous years (x-axis). This example shows what baseline SOC would be 10 
+years prior (5549 g/m2 at year 10) rather than current (5192 g/m2 at year 1), thus increasing 
+conservatism in the estimate of baseline SOC. 
+Figure 7: Example of Back-Casting SOC Change from Current SOC 
+ 
+Maximum baseline MSOCm,j,0 for each station in each stratum must be estimated by back casting 
+the chosen model (Figure 7: Example of Back-Casting SOC Change from Current SOC) with 
+model input parameters associated with the soil type, plant species, climate and management 
+activity of that stratum.  
+Overall, the soil carbon model may be used to estimate a modeled baseline SOC density, 
+MSOCm,j,0 = maximum SOC density (tons/ha) at sampling station j in stratum m during the 
+baseline period. 
+ܯܱܵܥ௠,௝,଴ൌ ݉ܽݔ ሺܯܱܵܥ௠,௝,௕ሻ 
+(7) 
+Where:  
+MSOCm,j,0 
+= Modeled SOC in station j in stratum m at time t =0 (tC / ha) 
+5000
+5200
+5400
+5600
+5800
+6000
+‐15
+‐10
+‐5
+0
+SOC (g/m2)
+Years Prior to Project Start
+Maximum SOC, Used as Baseline
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 31 
+MSOCm,j,b  
+= Modeled SOC in station j in stratum m for year b during the baseline period (tC 
+/ ha) 
+8.1.3.5 Baseline Emission Removals from Existing Woody Perennials (BRWP) 
+Under the applicability condition that baseline emissions derived from livelihood-driven human 
+impacts on aboveground woody biomass must be negligible and project activities cannot 
+significantly alter such livelihood-driven activities, it is likely that fire and grazing are the main 
+drivers of change in aboveground woody vegetation. Where a reduction in fire frequency is a 
+project activity, woody plant carbon stocks will increase as a consequence, and reversals of past 
+and ongoing losses of woody plant biomass may be conservatively excluded (ie, BRWP = 0). 
+If past grazing pressure has been high enough to reduce fuel loads, past fire frequency may have 
+been very low and woody plants, particularly shrubs, may have become abundant. If so, activities 
+to sequester carbon may entail an increase in fire frequency that will reduce aboveground woody 
+biomass but lead to an increase in soil carbon sequestration sufficient to increase total carbon 
+stocks[1].  If fire is employed to change vegetation, aboveground woody biomass, must be 
+accounted for in calculating project emissions and removals. 
+8.2 
+Project Emissions 
+Project emissions and removals depend on the principal set of project activities. Projects that 
+reduce fire events need to account only for changes in methane emissions by grazing animals 
+and changes in SOC. Projects that increase fire events to remove unpalatable woody plants— 
+usually shrubs—in order to stimulate grass and root production can increase total carbon stocks. 
+These projects must account for increased methane emission from biomass burning and 
+emissions from decreased aboveground woody biomass carbon. 
+8.2.1 
+Project Methane Emissions from Grazing Animals (PEMt) 
+If project activities will include reduction in livestock numbers, then accompanying removals from 
+reduced methane emissions must be conservatively excluded from project removals. This avoids 
+potential leakage from shifting of animals to adjacent grasslands or from market leakage whereby 
+other producers increase livestock numbers to replace project livestock reductions and meet 
+market demand. However, whether or not methane emissions from livestock are reduced, 
+calculations must be based on project data from animal counts or censuses and emission factor 
+data based on project area-applicable body weight of each category from the equations in Error! 
+Reference source not found. and Equation (1) (Section 8.1.3.1).  
+ܲܧܯ௧ൌ ෍ቀܲܰ஼,௧ൈ ܦܯܧ݂൫ܹ஼,௧൯ቁ
+௄
+௖ୀଵ
+ൈܩܹܲ஼ுరൈ365 ൈ6.26ݔ10ି଻
+(8) 
+Where: 
+PEMt  
+= Project emissions of CH4 from grazing animals at year t (tCO2e) 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 32 
+PNC,t  
+= Number of animals of each category c in year t (head) 
+DMEf(WC,t) 
+= Daily emission factor as a function of animal weight for category c (L CH4 / day) 
+WC,t 
+= Average body weight during year t for animals of category c (kg) 
+GWPCH4 
+= Global warming potential for methane (tCO2e / tCH4) 
+365 
+= Conversion factor for days to years 
+6.26 x 10-7 
+= Conversion factor for L CH4 / day to tCH4 / day 
+The parameters are similar to those used for calculating baseline methane emissions. The 
+number of grazing animal must be measured, because new animal categories may result due to 
+project activities (eg, there is a shift to using different breeds or species of livestock). 
+8.2.2 
+Project Emissions from Burning of Biomass (PEBBt) 
+Where project activities reduce the frequency of fire, this emission may be conservatively 
+excluded, in which case PEBBt = 0.  Where project activities increase fire frequency (eg, to 
+remove shrubs) and lead to a net increase in total carbon stocks, the baseline emissions of 
+methane due to burning of biomass, PEBBt, t CO2e, are calculated using the following equation: 
+ܲܧܤܤ௧ൌ 
+∑
+ቆܲܨܨܴܧܳ௠,௧ൈ൫∑
+ܣܲܤ௝,௠,௧
+௭೘
+௝ୀଵ
+൯
+ݖ௠
+൘
+ቇൈܲܣ௠,௧
+௦
+௠
+ൈܲܥீൈܧܨ஻ீൈܩܹܲ஼ுర
+1,000,000
+ 
+(9) 
+Where: 
+PEBBt  
+= Project emissions of CH4 due to biomass burning in stratum m in year t (tCO2e) 
+PFFREQm,t  
+= Proportion of area of stratum m burned in year t (percent) 
+APBj,m,t   
+= Aboveground plant biomass at sampling station j in stratum m in year t at the 
+beginning of the dry/cold/ or burning season (kg biomass/ha) 
+zm 
+= Number of sampling stations in stratum m at time t 
+PAm,t  
+= Project area in stratum m at time t (ha) 
+PCG 
+= Project combustion factor for savanna/grassland (kg biomass burned / kg 
+biomass  
+EFBG 
+= Emission factor for the burning of grassland (g CH4 / kg biomass burned) 
+GWPCH4  
+= Global warming potential of CH4 (t CO2e / t CH4) 
+1,000,000 
+= factor for converting g CH4 into tons 
+The project combustion factor (PCG) may be estimated in two ways. The project proponent may 
+apply the most applicable IPCC default value 9 or may measure the mean proportion of 
+aboveground biomass after fire (APBm,j,f) at the sampling stations in the project area that burned 
+compared with the pre-fire aboveground biomass (APBm,j,t) at each station j within each stratum 
+m[42] : 
+                                                
+9 Table 2.6 in 41. IPCC, Guidelines for National Greenhouse Gas Inventories 2006. 4(Chapter 2). 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 33 
+ܲܥீൌ1 െ 
+∑
+൬ܣܲܤ௝,௠,௙
+ܣܲܤ௝,௠,௧൰
+ி
+௝ୀଵ
+ܨ
+ 
+(10) 
+Where: 
+PCG 
+= Project combustion factor for savanna/grassland (kg biomass burned/kg 
+biomass  
+APBj,m,f 
+= Aboveground plant biomass in stratum m in year t immediately following fire (kg 
+biomass /ha) 
+APBj,m,t 
+= Aboveground plant biomass at station j  in stratum m in year t at the beginning 
+of the dry/cold or burning season (kg biomass/ha) 
+F 
+= Number of sampling stations that burned  
+8.2.3 
+Project Changes in SOC Density 
+The determination of change from baseline equilibrium SOC density depends on the type of 
+project approach used. 
+Measured Approach: 
+Where the measured approach is applied, the project sequestration of SOC (in t CO2e/ha) is 
+calculated using the following equation:  
+ܴܲܵ௧ൌ44 12
+ൗ
+ൈ෍ܲܣ௠
+ݖ௠
+௦
+௠ୀଵ
+ൈ෍ܱܵܥ௠,௝,௧െܱܵܥ௠,௝,௩
+ܻ
+௭೘
+௝ୀଵ
+(11) 
+Where:  
+PRSt  
+= Project removals due to changes in SOC stocks in year t (tCO2e) 
+PAm 
+= Project area of stratum m (ha) 
+s  
+= Number of strata in the project area  
+zm  
+= Number of sampling stations in stratum m 
+SOCm,j,,v  
+= Baseline SOC in station j in stratum m in year v, If this is the first monitoring 
+period, v= 0, for subsequent monitoring periods, v represents the year of last 
+verification (tC)  
+SOCm,j,t  
+= Project SOC measured at station j in stratum m in year t (tC/ha) 
+Y  
+= Length of the monitoring period (years) 
+44/12  
+= Conversion factor from tC to tCO2e 
+ܱܵܥ௠,௝,௧ൌ ܦܧܲܶܪ௠,௝,௧ൈܱܵܥ%௠,௝,௧ൈܤܷܮܭ௠,௝,௧
+(12) 
+Where:  
+SOCm,j,t  
+= Project SOC measured at station j in stratum m in year t (tC/ha) 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 34 
+DEPTHm,j,t  
+= Soil core depth (cm) 
+SOC%m,j,t  
+= Percent soil carbon at time t (percent) 
+BULKm,j,t  
+= Bulk density at station j in stratum m in year t (Mg dry soil/m3; or equivalently, g 
+dry soil/cm3) 
+Note that this formula assumes that SOC in year Y and in year 0 (baseline or since last 
+verification) will be measured at a large number (100-1000) of sampling stations j in a stratified 
+project area, including zm stations in each stratum m (see Section 0).   
+Modeled Approach: 
+The selected project area-validated soil carbon model (see Section 8.1.3.3) must be used to 
+simulate a projected equilibrium SOC density, called the project modeled SOC, PSOCeqm,j for 
+sampling station in each stratum under expected project activities. Expected grazing intensities 
+and/or fire frequencies under project activities will combine in the model with other parameters as 
+needed for the chosen soil carbon model to generate PSOCeqm,j for each sampling station The 
+input parameters for the soil carbon model must be chosen to such that conservative estimates of 
+carbon removals are generated. Uncertainties for each parameter in the model must be available 
+to determine an overall uncertainty for PSOCeqm,j with a Monte Carlo simulation[3, 43, 44], as 
+discussed in detail in Section 8.1.3.3. The model must also calculate the number of years D to 
+reach this equilibrium. 
+Carbon typically accrues in response to management changes with decreasing increments over 
+time as equilibrium is approached[4, 33, 35]. Thus conservatively, the annual increment in SOC is 
+determined by the difference in SOC between the conservative baseline maximum from 10 years 
+prior to the project start (MSOCm,j,0) and project modeled equilibrium (PSOCeqm,j,t) divided by the 
+time necessary to achieve project equilibrium (D). The project equilibrium must be determined 
+assuming that project activities will be implemented. Thus, multiplying the annual increment in 
+SOC (tons/ha), by the conversion of C to CO2 44/12 yields CO2e at that station.  
+ܴܲܵ௠,௧ൌ44 12
+ൗ
+ൈܱܲܵܥ௠
+௘௤െܯܱܵܥ௠,଴
+ܦ
+(13) 
+Where: 
+PRSm,t 
+= Annual project removals due to changes in SOC stocks in stratum m in year t 
+(tCO2e /ha) 
+PSOCeqm,  
+= Project modeled equilibrium SOC at station j in stratum m (tC/ha) based on 
+parameter values from zm sampling stations in stratum m 
+MSOCm,0 
+= Modeled SOC for stratum m at time t =0 (tC/ha) (see section 8.1.3.3) 
+D 
+= Years required to achieve equilibrium 
+44/12  
+= Conversion factor from tC to tCO2e 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 35 
+ܴܲܵ௧ൌ෍ሺܲܣ௠,௧
+௦
+௠
+ൈܴܲܵ௠,௧ሻ 
+(14) 
+Where: 
+PRSt  
+= Project removals due to changes in SOC stocks in year t (tCO2e) 
+PAm,t 
+= Project area of stratum m in year t (ha) 
+s 
+= Number of strata in the project area 
+zm  
+= Number of sampling stations in stratum m 
+PRSm,j,t  
+= Annual project removals due to changes in SOC stocks at station j in stratum m 
+in year t (tCO2e / ha) 
+8.2.4 
+Project Emissions and Removals from Existing Woody Plants (PERWPt) 
+Where project activities involve changes in fire management, the project proponent must monitor 
+changes in aboveground woody plant biomass (AWPB) to quantify sequestration of GHG in 
+aboveground woody plant carbon from reductions in fire or to ensure that losses of woody 
+biomass from increased fire do not outweigh potential gains from soil carbon sequestration. 
+Where the project activities do not involve changes in fire management, the project proponent 
+may exclude the aboveground and belowground woody biomass pool by assuming PERWP = 0.    
+ܲܧܴܹܲ௧ൌ
+44 12
+ൗ
+ൈܥൈ∑
+ܲܣ௠,௒
+ݖ௠
+௦
+௠ୀଵ
+ൈ∑
+ܣܹܲܤ௠,௝,଴െܣܹܲܤ௠,௝,௒
+௭೘
+௝ୀଵ
+1000 ൈܻ
+(15) 
+Where: 
+PERWPt  
+= Project emissions from changes in aboveground woody biomass in year t 
+(tCO2e) 
+44/12  
+= Conversion factor from C to CO2e 
+C 
+= Proportion of wood composed of carbon[45, 46] (kg C/kg biomass) 
+PAm,Y  
+= Project area of stratum m in year Y (ha) 
+zm  
+= Number of sampling stations in stratum m 
+s  
+= Number of strata in the project area 
+AWPBm,j,0  
+= Aboveground woody biomass at the project start date or beginning of the 
+monitoring period at station j in stratum m; (kg biomass/ha) 
+AWPBm,j,Y  
+= Aboveground woody biomass at station j in stratum m in year Y (kg 
+biomass/ha) 
+Y 
+= Length of the monitoring period (years) 
+1000 
+= Conversion factor from kg  to t 
+8.3 
+Leakage 
+8.3.1 
+Estimation of Leakage 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 36 
+This methodology considers two forms of leakage: displacement leakage from the movement of 
+livestock off the project area where they may reduce soil carbon, and market leakage, where 
+reductions in livestock numbers as a project activity would create market incentives to replace the 
+lost livestock.  
+LEt =LDt +LMt  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(16) 
+ 
+Where: 
+LEt = total leakage emissions in year t (tCO2e) 
+LDt = leakage emissions from displaced livestock in year t (tCO2e) 
+LMt = emissions from market leakage in year t (tCO2e) 
+8.3.1.1 Leakage Emissions From Displaced Livestock  
+Increased GHG emissions from the displacement of livestock outside the project area is limited 
+by the applicability condition that the project must be structured to keep livestock within the 
+project area, and the project proponent must be able to enforce the boundaries of the project 
+area. The project proponent must prevent incursion of livestock from outside the project area or 
+excursion of livestock from inside the project area through fencing, patrolling by game scouts, or 
+other such enforcement of project area boundaries.   
+The project proponent is expected to control grazing animal numbers inside the project area and 
+account for the number of animals involved and duration of any movement of livestock to outside 
+the project area. Mechanisms must be in place to prevent incursion of livestock onto project lands 
+and to monitor and prevent migration or transport of livestock out of project lands. Such 
+mechanisms may include fencing of private lands, governance structures that penalize lack of 
+cooperation and participation, education, and monitoring on communal grazing lands.  
+Nevertheless, monitoring of project activities may reveal that livestock excursions outside the 
+project area have occurred and any impacts of such excursions on GHG emissions or reductions 
+outside the project area must be accounted for as leakage. Where the project area is not fenced, 
+such as in pastoralist systems, the movement and excursion of livestock to more than two 
+kilometers from the project area boundary is considered leakage.10 
+Leakage methane emissions are deemed as zero because movement of project livestock off the 
+project area does not result in a net increase in the number of livestock emitting methane. 
+However, movement of livestock could result in losses of carbon from higher levels of overgrazing 
+off the project area. Leakage may be accounted in two possible ways: monitored approach or 
+penalty approach.  
+                                                
+10  
+This distance allows for possible uncertainty of herders as to the position of herds in or out of the project 
+area and is a typical allowable buffer between ethnic group communal grazing lands [48] 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 37 
+A monitored approach allows livestock to graze on either planned (identified) or unplanned 
+(unidentified) land parcels outside the project area, such land parcels must be classified as 
+grassland, forest, or cropland. In this approach, potential vegetation impacts and baseline SOC in 
+these outside areas must be measured/monitored, following VMD0040 Leakage from 
+Displacement of Grazing Activities.  
+The penalty approach is a more conservative option (leakage calculations will likely be larger) but 
+no monitoring of soils and/or vegetation outside the project area is required and off-project area 
+use of grasslands, croplands, and forests is not differentiated. In this case, displacement leakage 
+(LDt) must be calculated as a proportion of net removals from increased soil carbon in year t 
+(PRSt), based on the proportion of total project livestock-days in project year t, 365 x PNc,t, that 
+occurred outside the project area.  
+ܮܦ௧ൌ∑
+∑
+ܦܰ௖,௫
+௞
+௖ୀଵ
+ௗ
+௫ୀଵ
+365 ൈ∑
+ܲܰ௖,௧
+௞
+௖ୀଵ
+ൈܴܲܵ௧
+(17) 
+Where:  
+LDt 
+= Leakage emissions from displaced livestock (tCO2e) 
+DNC,x 
+= Number of livestock of each category c that were off the project area on day x 
+(head) 
+d 
+= Total number of days livestock were off the project area 
+k 
+= Total number of livestock categories 
+PNC,t 
+= Number of animals of each category c in year t (head) 
+PRSt  
+= Project removals due to changes in SOC stocks in year t (tCO2e) 
+Alternatively, where using the monitored approach to calculating leakage, the methods for 
+accounting for losses of SOC in VCS module VMD0040 (in Sections 5.2.4 through 5.2.6) must be 
+followed for unidentified grasslands, croplands, and forests. Because this approach explicitly 
+estimates actual losses of SOC from livestock grazing, it is more accurate in its calculation of 
+leakage, and requires the measurement of many additional parameters, as defined in the module. 
+The project proponent, for example, whose livestock were displaced only onto additional 
+grasslands, would be required to measure a number of parameters including, the area of parcels 
+affected, aboveground net primary production, and the number of livestock using the area prior to 
+livestock displacement and following displacement. The monitored approach to calculating 
+displacement leakage does not need to account for CH4 or N2O emissions. Methane emissions 
+from project livestock will not change even if livestock are displaced off the project area, and the 
+applicability conditions limit any net increase in dung deposition. Other impacts, such as 
+deforestation or degradation associated with livestock use of forests, or removal of crop residues 
+by livestock must be included in leakage calculations using the monitored approach, if they 
+cannot be shown to be negligible (ie, greater than 0.05 x PERt, equation 18) 
+8.3.1.2 Market Leakage Emissions  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 38 
+These result from an increase in activity by other producers of a commodity outside the project 
+area to compensate for the reduced supply of a commodity from within the project area, such as 
+increased timber harvesting elsewhere in a country to compensate for reduced harvesting in a 
+project area). Market leakage is generally considered to be minimal in ALM projects[47] because 
+the projects still allow the same livelihood choices and production of grassland commodities (eg, 
+livestock). The applicability condition that limits project size, and thus potential impact of the 
+project on national and international markets, reduces the chance that project activities will result 
+in declining supply of livestock. Nevertheless, market leakage for any reductions in livestock must 
+be made by using the VCS module VMD0033 “Estimation of emissions from market leakage”11 to 
+estimate LMt emissions from market leakage. 
+Fire alterations are not expected to dramatically alter livelihood choices, (eg, would not prevent 
+use of land for livestock, wildlife conservation, tourism). Projects that manage fire or otherwise do 
+not reduce livestock need not account for market leakage. 
+Total leakage is negligible where: 
+ܮܧ௧൏0.05 ൈܴܲܰ௧ 
+(18) 
+Where: 
+LEt 
+= Total leakage emissions (tCO2e) 
+PNRt    
+= Project emissions plus removals in year t (tCO2e) 
+8.4 
+Net GHG Emission Reduction and Removals 
+The estimation of net project emission reductions, PERt, and net change in carbon stocks, 
+NCCSt, each year of the monitoring period is calculated using the following equation: 
+ܲܧܴ௧ൌܲܧܯ௧൅ܲܧܤܤ௧െܤܧܯെܤܧܤܤ  
+ 
+ 
+ 
+ 
+(19) 
+Where: 
+PERt    
+= Net project emission reductions in year t (tCO2e) 
+PEMt 
+= Project methane emissions from livestock in year t (tCO2e) 
+PEBBt 
+= Project emissions from biomass burning in year t (tCO2e) 
+BEM 
+= Baseline methane emissions from livestock (tCO2e) 
+BEBB 
+= Baseline emissions from biomass burning (tCO2e) 
+Note that if project methane emissions decrease relative to the baseline from removal of livestock 
+from the project area (note, not from forage improvement), ie  PEMt – BEM < 0, this GHG 
+removal must be conservatively excluded to avoid market leakage, and proponents must set 
+PEMt – BEM = 0. 
+                                                
+11 http://www.v-c-s.org/sites/v-c-
+s.org/files/VMD0033%20Estimation%20of%20Emission%20from%20Market%20Leakage%2C%20v1.0.pdf 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 39 
+ܰܥܥܵ௧ൌܴܲܵ௧േܲܧܴܹܲ௧ 
+ 
+ 
+ 
+ 
+ 
+ 
+(20) 
+Where: 
+NCCSt 
+= Net change in carbon stocks in year t (tCO2e) 
+PRSt 
+= Project removals due to sequestration of soil carbon in year t (tCO2e) 
+PERWPt 
+= Project removals due to loss or gain of carbon stocks in woody biomass in year 
+t (tCO2e) 
+The net GHG benefit is calculated using the following equation: 
+ 
+ܴ௧ൌܲܧܴ௧൅ܰܥܥܵ௧െܮܧ௧ 
+ 
+ 
+ 
+ 
+ 
+ 
+(21) 
+Where: 
+Rt 
+= Net GHG emission reductions and removals in year t (tCO2e) 
+PERt    
+= Net project emission reductions in year t (tCO2e) 
+NCCSt 
+= Net change in carbon stocks in year t (tCO2e) 
+LEt 
+= Total leakage changes in soil carbon in year t (tCO2e) 
+8.4.1 
+Ex-Ante Calculations of Net Emissions and Removals 
+The project must perform an ex-ante (before project) calculation of expected or estimated net 
+emissions and removals. The key to making such a calculation is to define project quantitative 
+management objectives for fire frequency and/or grazing management compared to baseline 
+activities. The project proponent must do the following: 
+1) Show a table of baseline and proposed project scenario management activities.  
+2) Show a table of expected parameters and emissions and removals, and their 
+uncertainties, associated with those management objectives; use data from the peer-
+reviewed literature, measure activities in the project area, or calculate with a model the 
+resulting changes in emissions and removals associated with the management. 
+3) Calculate expected project scenario emissions and removals, and their uncertainties, 
+based on these management targets. 
+4) Show a table of baseline emissions, project emissions and removals, leakage (if any), 
+and total net greenhouse gas emissions and removals for each year of the project 
+crediting period. 
+8.4.2 
+Estimation of Uncertainty 
+The VCS Standard[49] requires that uncertainty be calculated on the basis of the full width of the 
+95 percent CI expressed as a percentage of the estimate of each emission or removal. IPCC 
+Guidelines[43] recommend using a Tier 2 approach to determine uncertainty where emission 
+reductions are determined by a combination of measurements, published emission factors, and 
+process models, such as a soil carbon model. A Tier 2 approach involves conducting Monte Carlo 
+simulations[3, 38], which must calculate Rt from equation (21) (see section 8.4) more than 100 
+times, with each calculation drawing randomly from  hypothetical normal distributions of expected 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 40 
+values of each parameter in the calculation, as defined by the mean and standard errors of each 
+parameter. This simulation gives a mean and standard deviation of net emissions and removals 
+Rt that are used to calculate uncertainty (equation (22)). Such Monte Carlo simulations may be 
+done in online computing environments, such as the R Project for Statistical Computing[48], or 
+even with macros developed for spreadsheets[44].  
+ܷܴܰ௧ൌ
+ଷ.଼ସൈଵ଴଴ൈௌ஽൫ெ஼ோ೟,೙൯
+ெ஼ோ೟ൈሺ௡ିଵሻభ/మ
+  
+ 
+ 
+ 
+ 
+ 
+(22) 
+Where: 
+UNRt 
+ = total uncertainty in net emission reductions and removals, not including leakage 
+(%) 
+n 
+ 
+= number of Monte Carlo simulation runs performed (must be > 100) 
+MCRt 
+= mean net emissions reductions and removals at time t, from n Monte Carlo 
+calculations of Rt, (tCO2e) 
+SD(MCRt,n) 
+= standard deviation of Rt from n Monte Carlo simulations 
+Alternatively, total uncertainty may be calculated by weighting uncertainties according to the 
+magnitude of emission or removal. In this case, uncertainty in net reductions and removals UNRt 
+is driven by uncertainty in baseline emissions, project emissions and project net changes in 
+carbon stocks. 
+ܷܴܰ௧ൌሺሺUPE௧ x ሺPEM௧ ൅ PEBB௧ሻሻଶ   ൅ ሺUNCCS௧ x NCCS௧ሻଶ൅ሺUBE x ሺBEM ൅ ܤܧܤܤሻሻଶሻଵ/ଶ
+ܲܧܯ௧൅ܲܧܤܤ௧൅ܰܥܥܵ௧൅ܤܧܯ൅ܤܧܤܤ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(23) 
+Where: 
+UNRt 
+ = uncertainty in net emission reductions and removals, not including leakage, at 
+time t (%) 
+UPEt 
+ 
+= uncertainty in project emissions at time t (%) 
+UNCCSt 
+= uncertainty in net change in carbon stocks at time t (%) 
+UBE 
+ 
+= uncertainty in baseline emissions (%) 
+BEM 
+ 
+= baseline animal methane emissions (tCO2e) 
+PEMt 
+ 
+= project animal methane emissions at time t (tCO2e) 
+BEBB  
+= baseline emissions from biomass burning (tCO2e) 
+PEBBt  
+= project emissions from biomass burning (tCO2e) 
+NCCSt  
+= net project changes in carbon stocks (tCO2e) 
+Each of the three component uncertainties are derived in detail below 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 41 
+8.4.2.1 Uncertainty in the Baseline 
+For the calculation of baseline emissions and reductions, BER, uncertainty arises in the 
+calculation of methane emissions only, because all other net emissions are conservatively 
+assumed to be zero, unless increasing fire frequency is a proposed management activity.  
+In this case: 
+ܷܤܧൌܷܤܧܯ 
+(24) 
+Where: 
+UBE 
+= Uncertainty in baseline emissions (%) 
+UBEM 
+= Uncertainty in baseline methane emissions from grazing animals (go to section 
+8.4.2.1.1) (%) 
+In the case of proposed activities to increase fire frequency: 
+ܷܤܧൌሺሺܤܧܯൈܷܤܧܯሻଶ൅∑
+ሺܷܤܧܤܤ௠ൈܤܧܤܤ௠ሻଶ
+௦
+௠ୀଵ
+ሻଵ/ଶ
+ܤܧܯ൅∑
+ܤܧܤܤ௠
+௦
+௠ୀଵ
+(25) 
+Where: 
+UBEBBm 
+= Uncertainty in baseline methane emissions from burning of biomass (%) 
+BEM 
+= baseline methane emissions from animals (tCO2e) 
+BEBB 
+= baseline emissions from burning of biomass (tCO2e) 
+8.4.2.1.1 Uncertainty in baseline methane emissions from grazing animals (UBEM) 
+ܷܤܧܯൌሺ∑
+ሺܤܧܯ௖ൈܷܤܧܯ௖ሻଶ
+௞
+௖ୀଵ
+ሻ
+ଵ
+ଶ
+∑
+ܤܧܯ௖
+௞
+௖ୀଵ
+(26) 
+Where: 
+UBEM 
+= Uncertainty in baseline methane emissions from grazing animals (%) 
+UBEMc 
+= Uncertainty in baseline methane emissions from animals in category c (%) 
+BEMc 
+= Baseline emissions from animals in category c (tCO2e) 
+UBEMc is the uncertainty in methane emissions from animals in category c, as dictated by 
+whether the animals are ruminants, equids, or pigs (see Section 8.1.3.1),. UBEMc is calculated 
+from the uncertainty, for each animal category, in the regression equations predicting per animal 
+daily methane emission (DMEc) based on the mean body weight (UDMEc, Error! Reference 
+source not found.) and the uncertainty in the harmonic mean of animal counts (UBNc) during the 
+baseline period. 
+To obtain UBNc , first find SEBNc, the standard error[50] of the harmonic mean BNc of the series’ 
+Nc,i of animals in category c in count i of n counts or censuses.  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 42 
+ܵܧܤܰ௖ൌሺܤܰܿሻଶൈ
+ௌ஽൬భ
+ಿ೎,೔൰
+ሺ௡ିଵሻభ/మ  
+ 
+ 
+ 
+ 
+ 
+(27) 
+Where: 
+SEBNc 
+= Standard error of the harmonic mean of animal counts in category c 
+SD(1/Nc,i) 
+= Standard deviation of the inverses of the count I of animals in category c 
+Nc,i 
+= Animals in category c in census i (head) 
+BNc 
+= Harmonic mean number of animals in category c (head) during the baseline 
+period (head) 
+n 
+= Number of censuses 
+The 95 percent confidence interval-based uncertainty in the estimated number of animals in 
+category c is: 
+ܷܤܰ௖ൌ3.84 ൈ100 ൈܵܧܤܰ௖
+ܤܰ௖
+(28) 
+Where: 
+UBNc 
+= Uncertainty in the harmonic mean of animal counts (%) 
+SEBNc 
+= Standard error of the harmonic mean of animal counts 
+BNc 
+= Baseline number of animals of category c (head) 
+3.84 
+= Multiplier converts expression into a 95% confidence interval 
+100 
+= Multiplier converts expression into percent 
+ܷܤܧܯ௖ൌ൫ܷܤܰ௖
+ଶ൅ܷܦܯܧ௖
+ଶ൯
+ଵ/ଶ
+(29) 
+Where: 
+UBEMc 
+= Uncertainty in baseline methane emissions from animals in category c (%) 
+UBNc 
+= Uncertainty in the baseline harmonic mean of animals of category c (%) 
+UDMEc 
+= Uncertainty in the regression for predicting daily methane emissions for 
+animals of category c (%) 
+8.4.2.1.2 Baseline methane emissions from burning of biomass (BEBB) 
+In the case of project activities that increase fire frequency, uncertainty in BEBB (UBEBB) is 
+driven by uncertainty in fire frequency (UFFREQm) in stratum m (or mean proportion of area 
+burned), and uncertainty in mean within-stratum aboveground plant biomass at the end of the 
+growing season, UAPBm. UFFREQm  arises from either the 95 percent confidence interval in 
+annual variation in proportion of area burned over a period of 10 or more years prior to the start 
+date or from uncertainty in the interpretation of satellite images in burned area mapping in stratum 
+m resulting from mis-identification or classification errors of burned versus unburned areas[19].  
+UFFREQm = 3.84 ൈ
+ௌ஽൫ிிோாொ೘,ಳೊ൯
+ிிோாொ೘ൈሺ஻௒ିଵሻభ/మൈ100  
+ 
+ 
+(30) 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 43 
+Where: 
+UFFREQm 
+ 
+= uncertainty (%) in fire frequency within stratum m  
+SD(FFREQm,t) 
+= standard deviation in fire frequency in stratum m over BY years in the 
+baseline period. 
+BY  
+= number of years in baseline period for which burned area is measured 
+FFREQm 
+= mean proportion of area burned during the baseline period 
+100 
+= converts the expression into percent 
+3.84 
+= converts the numerator into a 95% confidence interval 
+UAPBm arises from the 95 percent confidence interval among permanent sampling stations in 
+clipped, dried, and weighed biomass.  
+ܷܣܲܤ௠ൌ3.84 ൈ100 ൈ
+ௌ஽൫஺௉஻೥೘൯
+஺௉஻೘ൈሺ௭೘ିଵሻభ/మ 
+ 
+ 
+ 
+ 
+(31) 
+Where: 
+UAPBm  
+ 
+= uncertainty in aboveground plant biomass within stratum m  
+SD(APBzm) 
+= standard deviation in aboveground plant biomass among zm permanent 
+sampling stations in stratum m 
+zm 
+= number of sampling stations in stratum m 
+APBm 
+= mean aboveground plant biomass in stratum m (kg/m2) 
+Therefore these two sources of uncertainty combine as 
+ܷܤܧܤܤൌ
+൬∑
+ቀܤܣ௠ൈ൫ܷܨܨܴܧܳ௠
+ଶ൅ܷܣܲܤ௠
+ଶ൯
+ଵ/ଶቁ
+ଶ
+௦
+௠
+൰
+ଵ/ଶ
+ܲܣ
+(32) 
+Where: 
+UBEBB 
+ = Uncertainty in baseline methane emissions from burning of biomass 
+UFFREQm 
+ = Uncertainty in the fire frequency in stratum m 
+UAPBm 
+ = Uncertainty in mean within-stratum aboveground plant biomass at the end of 
+the growing season in stratum m 
+BAm 
+ = Baseline area of stratum m (ha) 
+PA 
+ = size of the project area (ha) 
+s 
+ = number of strata 
+8.4.2.2 Uncertainty under the project scenario 
+Uncertainty under the project scenario using a weighted uncertainty approach is determined by 
+uncertainty in project emissions or in carbon stocks, weighted by the magnitude of each, for each 
+year of the monitoring period.  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 44 
+ܷܲܧ௧ൌ
+ቀሺܲܧܯൈܷܲܧܯሻ2 ൅∑
+൫ܲܧܤܤ݉,ݐൈܷܲܧܤܤ݉,ݐ൯
+2
+ݏ
+݉ൌ1
+ቁ
+1
+2
+ܲܧܯ൅∑
+ܲܧܤܤ݉,ݐ
+ݏ
+݉ൌ1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(33)  
+Where: 
+UPEt 
+= Uncertainty in project emissions (%)  
+UPEMt 
+= Uncertainty in project methane emissions from grazing animals (%) 
+UPEBBm,t 
+= Uncertainty in project methane emissions from burning of biomass (%) 
+PEM 
+= project methane emissions by animals during the monitoring period (tCO2e) 
+PEBBm,t 
+= project emissions from biomass burning in stratum m at time t (tCO2e) 
+ 
+ܷܰܥܥܵ௧ൌ
+ቀ∑
+൫ܴܲܵ௠,௧ൈܷܴܲܵ௠,௧൯
+ଶ
+௦
+௠ୀଵ
+൅∑
+൫ܲܧܴܹܲ௠,௧ൈܷܲܧܴܹܲ௠,௧൯
+௦
+௠ୀଵ
+ଶቁ
+ଵ/ଶ
+∑
+ܴܲܵ
+௦
+௠ୀଵ
+௠,௧൅∑
+ܲܧܴܹܲ
+௦
+௠ୀଵ
+௠,௧
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(34) 
+UNCCSt 
+= Uncertainty in net changes in carbon stocks (%) 
+UPRSm,t 
+= Uncertainty in project reductions from soil sequestration (%) 
+UPERWPm,t 
+= Uncertainty in project emissions or removals from woody plants (%) 
+PRSm,t 
+= Removals from changes in soil carbon stocks in stratum m  at time t (tCO2e) 
+PERWPm,t 
+= Removals from changes in woody plant carbon stocks in stratum m at time t 
+(tCO2e) 
+8.4.2.2.1 Uncertainty in Project Methane Emissions 
+ܷܲܧܯൌሺ∑
+ሺܲܧܯ௖ൈܷܲܧܯ௖ሻଶ
+௞
+௖ୀଵ
+ሻଵ/ଶ
+∑
+ܲܧܯ௖
+௞
+௖ୀଵ
+(35) 
+Where: 
+UPEM 
+= Uncertainty in project methane emissions from grazing animals during the 
+monitoring period (%) 
+UPEMc, 
+= Uncertainty in project methane emissions from animals in category c (%) 
+PEMc 
+= project methane emissions from animals in category c (tCO2e) 
+UPEMc, is the uncertainty in methane emissions calculated from the uncertainty, for each animal 
+category, in the regression equations for per animal daily methane production (Error! Reference 
+source not found.) and the uncertainty in the arithmetic mean of animal censuses for category c, 
+PNc, during the monitoring period.  
+ܷܲܧܯ௖, ൌ൫ܷܲܰ௖
+ଶ൅ܷܦܯܧ௖
+ଶ൯
+ଵ/ଶ
+(36) 
+Where: 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 45 
+UPNc 
+= Uncertainty in the project mean of animals of category c 
+ 
+UPNcൌ3.84ൈ100ൈ
+SDሺPNc,Yሻ
+PNcൈሺY‐1ሻ1/2  
+ 
+ 
+ 
+ 
+ 
+(37) 
+Where: 
+SD(PNc,Y)  
+= Standard deviation of animal counts in category c across Y years of the 
+monitoring period 
+PNc  
+= Arithmetic mean of animal numbers in category c (head) 
+Y 
+= Years in the monitoring period 
+3.84  
+= Multiplier that converts the numerator into a 95% confidence interval 
+100  
+= Multiplier that converts the expression into percent 
+UPMEc 
+= Uncertainty in the regression, taken from the literature (Table 4) for predicting 
+daily methane emissions for animals of category c 
+8.4.2.2.2 Uncertainty in Project Emissions From Burning Of Biomass 
+In the case of project activities that increase fire frequency, uncertainty in PEBB, or UPEBB, is 
+driven by uncertainty in fire frequency (UFFREQm) in stratum m (or mean proportion of area 
+burned), and uncertainty in mean within-stratum aboveground plant biomass at the end of the 
+growing season, UAPBm. UFFREQm  arises from either the 95 percent confidence interval in 
+annual variation in proportion of area burned over the period since last validation or from 
+uncertainty in the interpretation of satellite images in burned area mapping in stratum m resulting 
+from misidentification or classification errors of burned versus unburned areas[19]. UAPBm arises 
+from the 95 percent confidence interval among permanent sampling stations in clipped, dried, and 
+weighed biomass. Consequently: 
+ܷܲܧܤܤ௠,௧ൌ൫ܷܲܨܨܴܧܳ௠,௧
+ଶ൅ܷܣܲܤ௠,௧
+ଶ൯
+ଵ/ଶ
+(38) 
+Where: 
+UPEBB 
+ = Uncertainty in project methane emissions from burning of biomass (%) 
+ 
+UPFFREQm=3.84×100×
+SD(PFFREQm,Y)
+௉ிிோாொ೘ ×ሺY-1ሻ1/2  
+ 
+ 
+ 
+ 
+(39) 
+Where: 
+UPFFREQm 
+ 
+= Uncertainty in the project fire frequency in stratum m (%) 
+PFFREQm  
+ 
+= Mean proportion of area of stratum m burned during the Y years of the 
+monitoring period  
+SD(PFFREQm,Y)  
+= Standard deviation in project area of stratum m burned during the Y 
+years of the monitoring period 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 46 
+UAPBm=3.84×100×
+SD(APBm,Y)
+஺௉஻೘ ×ሺY-1ሻ1/2  
+ 
+ 
+ 
+ 
+ 
+(40) 
+Where: 
+UAPBm 
+= Uncertainty in mean within-stratum aboveground plant biomass at the end of 
+the growing season in stratum m (%) 
+APBm  
+= mean aboveground plant biomass at the end of the growing season (kg/m2) 
+Y 
+= number of years in the monitoring period 
+3.84  
+= multiplier that converts the numerator into a 95% confidence interval 
+100  
+= multiplier that converts the expression into percent  
+8.4.2.2.3 Uncertainty In Project Soil Removals 
+Under a measured approach, uncertainty in soil sequestration, UPRSm,t in stratum m in year t is 
+obtained from the 95 percent confidence interval, as required by the VCS rules[47, 49] of measured 
+change in SOC across zm sampling stations in stratum m. 
+UPRSm,t = 
+ௌ஽∆ௌை஼೘ൈଵ଴଴ൈଷ.଼ସ
+∆ௌை஼೘ൈሺ௭೘ିଵሻభ/మ 
+ 
+ 
+ 
+ 
+ 
+(41) 
+Where: 
+UPRSm,t 
+= uncertainty in project soil removals in stratum m at time t (%) 
+SOCm =   ∑
+ௌை஼೘,ೕ,೟ି ௌை஼೘,ೕ,ೡ
+௒
+௭೘
+௝ୀଵ
+  
+ 
+ 
+ 
+ 
+(42) 
+Where: 
+SOCm 
+= Mean of the difference in SOC between the beginning of the project or 
+monitoring period, time v, and the year of monitoring t, across zm  sampling 
+stations in stratum m (tC/ha) 
+SDSOCm  = 
+ௌ஽൫∆ௌை஼೘,೥೘൯
+ሺ௭೘ିଵሻభ/మ  
+ 
+ 
+ 
+ 
+ 
+(43) 
+Where: 
+SDSOCm 
+= Standard deviation of SOC in stratum m during the monitoring period across 
+zm sampling stations in stratum m 
+Y 
+= Number of years in the monitoring period 
+zm 
+= Number of sampling stations in stratum m 
+3.84  
+= Multiplier that converts the numerator into a 95% confidence interval 
+100 
+= Multiplier that converts the expression into percent 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 47 
+Under a modeled approach, UPRSm,t is obtained from the calculated 95 percent confidence 
+interval, as required by the VCS[47, 49]  from a Monte Carlo simulation of modeled changes in soil 
+carbon (see Sections 8.4.2 and 8.1.3.3) averaged across n model runs in stratum m. 
+UPRSm,t  
+= 3.84 x 100 x 
+ௌ஽ெை஽∆ௌை஼
+ெை஽∆ௌை஼ൈሺ௡ିଵሻభ/మ 
+ 
+ 
+ 
+(44) 
+Where: 
+UPRSm,t 
+= Uncertainty in project removals through increased soil carbon in stratum m at 
+time t (%) 
+SDMODSOCm = Standard deviation of more than 100 modeled SOC estimates for stratum m 
+from Monte Carlo simulation. 
+MODSOCm 
+= Mean modeled project equilibrium SOC for stratum m from more than 100 
+simulations of project equilibrium SOC, (tC/ha) 
+n 
+= Number of times simulation is run (must be greater than 100) 
+3.84 
+= Multiplier to convert standard error into a 95% confidence interval 
+100 
+= Multiplier to convert to percent 
+8.4.2.2.4 Uncertainty In Project Emissions And Removals From Woody Plant Biomass 
+Uncertainty in emissions from loss or gain of aboveground woody plants UPERWPm,t arises from 
+three sources: Consequently, uncertainty in removals or emissions from changes in aboveground 
+woody plant biomass, UPERWPm,t, must be calculated as follows: 
+ܷܲܧܴܹܲ௠,௧ൌ൫ܷܣܹܲܤ௠,௧ିଵ
+ଶ൅ܷܣܹܲܤ௠,௧
+ଶ൅ܷܹܦ௠
+ଶ൯
+ଵ/ଶ  
+ 
+(45) 
+Where: 
+UPERWPm,t 
+ 
+= Uncertainty in project emissions and removals from woody plants in 
+stratum m in year t 
+UAWPBm,t-1 
+= Uncertainty in project emissions and removals from woody plant 
+biomass in stratum m at the project start date or the previous (year = t-1) 
+UAWPBm,t 
+= Uncertainty in project emissions and removals from woody plant 
+biomass in stratum m in year t-1 
+UWDm 
+ 
+= Uncertainty in wood density in stratum m 
+(1) Among plot variation in initial (baseline) aboveground woody plant biomass in stratum m, 
+UAWPBm,0  
+ܷܣܹܲܤ௠.଴ൌ
+ௌ஽ሺ஺ௐ௉஻೘.೥೘ሻൈଵ଴଴ൈଷ.଼ସ
+஺ௐ௉஻೘ൈሺ௭೘ିଵሻభ/మ
+ 
+ 
+ 
+ 
+ 
+(46) 
+Where: 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 48 
+SD(AWPBm,zm)  
+= Standard deviation of aboveground woody plant biomass across zm 
+sampling stations in stratum m. 
+AWPBm  
+= Mean woody plant biomass across zm sampling stations in stratum m 
+(kg/m2) 
+3.84 
+ 
+ 
+= Multiplier to convert expression to 95% confidence interval 
+100 
+ 
+ 
+= Multiplier to convert expression to percent 
+(2) 
+Among plot variation in initial (baseline) aboveground woody plant biomass in year t of 
+verification in stratum m: UAWPBm,t,  
+ܷܣܹܲܤ௠,௧ൌ
+ௌ஽ሺ஺ௐ௉஻೘,೟,.೥೘ሻൈଵ଴଴ൈଷ.଼ସ
+஺ௐ௉஻೘,೟ൈሺ௭೘ିଵሻభ/మ
+ 
+ 
+ 
+ 
+ 
+ 
+(47) 
+SD(AWPBm,t,zm) = standard deviation of aboveground woody plant biomass across zm sampling 
+stations in stratum m at time t since the project start or last verification. 
+AWPBm,t  
+= mean woody plant biomass across zm sampling stations in stratum m at time t 
+since the project start or last verification (kg/m2). 
+3.84 
+= multiplier to convert numerator to 95% confidence interval 
+100 
+ 
+=multiplier to convert expression to percent  
+and 
+(3) 
+Among plot variation in wood density: UWDm 
+ܷܹܦ௠ൌ
+ௌ஽ሺௐ஽೘.೥೘ሻൈଵ଴଴ൈଷ.଼ସ
+ௐ஽೘ൈሺ௭೘ିଵሻభ/మ
+  
+ 
+ 
+ 
+ 
+(48) 
+Where: 
+SD(WDm,zm) = standard deviation of wood density across zm sampling stations in stratum m at 
+time t since the project start or last verification. 
+WDm,  = mean wood density across zm sampling stations in stratum m (g/cm3) 
+3.84 
+= multiplier to convert expression to 95% confidence interval 
+100 = multiplier to convert expression to percent 
+ 
+8.4.2.2.5 Uncertainty in Leakage Emissions and Removals 
+If leakage is not negligible, uncertainty in leakage must be calculated as 
+ܷܮܧ௧ൌ൫ܷܮܦ௧
+ଶ൅ܷܮܯ௧
+ଶ൯
+ଵ/ଶ  
+ 
+ 
+ 
+ 
+ 
+(49) 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 49 
+Where 
+ULEt = uncertainty in total leakage (%) 
+ULDt = uncertainty in displacement leakage (%) 
+ULMt = uncertainty in market leakage (%) 
+ULDt = UPRSt 
+(50) 
+Where: 
+ 
+UPRSt  
+= Uncertainty in project removals due to changes in soil carbon stocks in year t  
+(%).  
+This assumes that displacement leakage affects only soil carbon removals, and thus is subject to 
+uncertainty associated with predicting impacts project activities on soil carbon removals 
+Uncertainty in market leakage, ULMt, will be determined by using VCS module VMD0033 
+“Estimating emissions from market leakage.” 
+8.4.2.3 Total Project Uncertainty 
+The total project uncertainty UTt is calculated at the time of reporting through propagating the 
+uncertainty in the baseline emissions and that in the project emissions and removals to year t: 
+Under a Monte Carlo calculation 
+UTt = (UNRt2 + ULEt2)1/2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(51) 
+Where 
+UTt  
+= total project uncertainty (%) 
+UNRt 
+= uncertainty in net emissions and removals as calculated with Monte Carlo simulation 
+(%)  
+ULEt 
+= uncertainty in leakage emissions and removals (%) 
+ܷܶ௧ൌ
+ሺሺܴܰ௧ൈܷܴܰ௧ሻଶ൅ሺܮܧ௧ൈܷܮܧ௧ሻଶሻଵ/ଶ
+ܴܰ௧൅ܮܧ௧
+(52) 
+Where: 
+UTt 
+= Total project uncertainty (%) 
+UNRt 
+= Uncertainty in net emissions and removals, not including leakage (%) 
+ULEt 
+= Uncertainty in leakage emissions and losses from soil carbon stocks at time t 
+(%) 
+NRt 
+= Net emissions reductions and removals at time t, not including leakage (tCO2e) 
+LEt 
+= Leakage emissions and losses from soil carbon stocks at time t (tCO2e) 
+8.4.3 
+Conservative Approach 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 50 
+Calculations of emissions reductions and removals are conservative because: 
+1) Baseline methane emissions use the harmonic mean for baseline emissions and an 
+arithmetic mean for the project scenario leading to a conservative estimate for reductions 
+in methane emissions (Section 8.1.3.1). 
+2) Initial baseline SOC level for modelled (activity-based) emission reductions must be the 
+maximum of the previous 10 years, as required by the VCS rules[47, 49] . In the case of 
+modeled approach, the baseline equilibrium SOC is set to this maximum and then 
+compared to the modeled future equilibrium SOC (Section 8.1.3.3). 
+3) Because models used in the modeled approach must be validated for the project with 
+data from the project area, no model correction is necessary. However, model predictions 
+must meet the requirements for R2, slope and intercept in a regression versus observed 
+values (see section 8.1.3.3) to assure that the model does not overestimate removals. All 
+parameter choices are to be conservative. 
+4) Emissions reductions are subject to reductions for uncertainty, as required by the VCS 
+rules[47, 49] in the modeled approach, with uncertainty determined from 95 percent 
+confidence intervals from standard errors calculated during Monte Carlo simulations 
+(Section 8.4.2). 
+8.4.4 
+Uncertainty Deduction 
+If total project uncertainty in year t, based on 95 percent confidence intervals, UTt ≤  30 percent  
+then no deduction must result for uncertainty.  
+If UTt  > 30 percent then the modified discounted value, Rt = Rtdisc for net anthropogenic GHG 
+removal by sinks to account for uncertainty must be:  
+ܴ௧
+ௗ௜௦௖ൌሺ100 െܷܶ௧ሻൈܴ௧
+100
+ 
+(53) 
+Where: 
+Rtdisc 
+= Discounted net GHG emission reductions and removals by year t (tCO2e) 
+UTt 
+= Total project uncertainty 
+Rt 
+= Net GHG emission reductions and removals by year t (tCO2e) 
+ 
+For Y years of the monitoring period, 
+ 
+ ܴ௒ൌ∑
+ܴ௧
+ௗ௜௦௖
+ௗ
+௧ୀଵ
+൅∑
+ܴ௧
+௨
+௧ୀଵ
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(54) 
+Where:  
+d 
+= Number of years in which net removal must be discounted 
+u 
+= Number of years in which removals are not discounted 
+Y 
+= Number of years in the monitoring period (d + u) 
+Rtdisc 
+= Discounted net GHG emission reductions and removals by year t (tCO2e) 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 51 
+Rt 
+= Net GHG emission reductions and removals by year t (tCO2e)

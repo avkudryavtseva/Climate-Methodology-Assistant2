@@ -1,0 +1,3596 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Summary 
+This methodology provides a flexible approach to quantifying reductions and removals from the 
+adoption of improved ALM practices in the project compared to the baseline scenario. Baseline 
+and project emissions are defined in terms of flux of CH4, N2O, and CO2 in tonnes of CO2e per 
+unit area12 per verification period. Within each quantification unit, stock and emission changes 
+in each included pool or flux are treated on a per unit area basis in accounting procedures.  
+Section 8.5 provides equations using total stock or emission changes in the project to quantify 
+net reductions and removals. Where a verification period spans multiple calendar years, the 
+equations quantify reductions and removals by year to appropriately define vintage periods.  
+The entire project area is divided into multiple quantification units that must be demonstrated 
+to be more homogenous than the project area in its entirety, for the purposes of estimating 
+emission reductions and removals (ERRs) (i.e., similar management activities, soil type, 
+climate). In some cases, the entire project area may be considered as one quantification unit. 
+Estimates of ERRs for each quantification unit within the project area are then aggregated to 
+produce an estimate for the entire project area. In a staged (i.e., hierarchical, nested) design, 
+additional units nested within a primary quantification unit may be implemented resulting in 
+primary, secondary, tertiary, etc. quantification units (see Appendix 6 for an example). 
+Quantification units must be clearly defined in the description of the sampling design provided 
+in the project description document. 
+The approaches for quantifying CO2, CH4, and N2O emissions are listed in Table 5. Where more 
+than one quantification approach is allowable for a given gas and source, more than one 
+ 
+12 Note that for reporting purposes, hectares should be used as the unit area when applying this methodology.  
+ 
+VM0042, v2.2 
+ 20 
+ 
+ 
+approach may be used provided that the same approach is used for a given quantification unit 
+in both the project and baseline scenarios. 
+Table 5: Summary of allowable quantification approaches 
+GHG/
+Pool 
+Source 
+Quantification 
+Approach 1: 
+Measure and 
+Model* 
+Quantification 
+Approach 2: 
+Measure and 
+Remeasure 
+Quantification 
+Approach 3: 
+Default Factors 
+CO2 
+SOC 
+X 
+X 
+ 
+Fossil fuel  
+ 
+ 
+X 
+Liming 
+ 
+ 
+X 
+Woody biomass** 
+ 
+ 
+ 
+CH4 
+Soil methanogenesis*** 
+X 
+ 
+ 
+Enteric fermentation 
+ 
+ 
+X 
+Manure deposition 
+ 
+ 
+X 
+Biomass burning 
+ 
+ 
+X 
+N2O 
+Use of nitrogen fertilizers***  
+X 
+ 
+X 
+Use of nitrogen-fixing 
+species*** 
+X 
+ 
+X 
+Manure deposition*** 
+X 
+ 
+X 
+Biomass burning 
+ 
+ 
+X 
+* Approach 1 may only be used where a valid model is available (see model requirements in VMD0053). 
+ 
+** Where included in the project boundary, woody biomass is calculated using the CDM A/R tools Estimation 
+of carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM project activities and Simplified 
+baseline and monitoring methodology for small scale CDM afforestation and reforestation project activities 
+implemented on lands other than wetlands. Where woody biomass is harvested, project proponents must 
+calculate the long-term average GHG benefit following guidance in the most recent versions of the VCS 
+Methodology Requirements,13 and the VCS Standard.14 
+ 
+*** Measured data on CH4 and N2O fluxes as described in VMD0053, v2.0 are required for model calibration 
+and validation when following Quantification Approach 1. Periodic measurements of CH4 and N2O fluxes as 
+part of project monitoring is not required. 
+For each pool/source, subdivisions of the project area using different quantification 
+approaches must be stratified and accounted separately. A project may switch between 
+allowable quantification approaches for a given source during the project lifetime, provided that 
+the same approach is used for both the project and baseline scenarios. The quantification 
+approaches are as follows. 
+ 
+Quantification Approach 1: Measure and Model 
+An acceptable model is used to estimate GHG flux based on soil characteristics, implemented 
+ALM practices, measured initial SOC stocks, and climatic conditions in quantification units. 
+Measurements of SOC stocks are required every five years or more frequently (see Table 8). 
+ 
+13 See Section 3.6.6 in the VCS Methodology Requirements, v4.4 
+14 See Sections 3.2.28-3.2.30 of the VCS Standard, v4.7 
+ 
+VM0042, v2.2 
+ 21 
+ 
+ 
+The remeasurement data is used to re-estimate model prediction error and recalibrate the 
+model (i.e., “true-up”, see Section 8.6.1.3). 
+Neither initial nor periodic measurements of CH4 and N2O fluxes are required as part of project 
+monitoring. High-quality observed experimental data on soil CH4 and N2O emissions from 
+controlled research trials or approved data sources as described in VMD0053 are required for 
+model calibration (see Section 5.1 of VMD0053 and validation (see Section 5.2.3 of VMD0053. 
+Measured datasets must be drawn from peer-reviewed and published experimental datasets 
+with measurements of N2O and CH4 fluxes, ideally using control plots to test the practice 
+change. Datasets may also be drawn from a benchmark database maintained by a third party 
+or from measurements made within the project boundary, where approved by the independent 
+modeling expert (IME),see Appendix 1 of VMD0053. 
+ 
+Quantification Approach 2: Measure and Remeasure 
+Direct measurement is used to quantify changes in SOC stocks. This approach is relevant 
+where models are unavailable or have not yet been validated or parameterized, or where 
+project proponents prefer to use a direct measurement approach for SOC stock change. The 
+baseline scenario is measured and remeasured directly at a baseline control site linked to one 
+or more quantification units. Quantification Approach 2 is only applicable to SOC.  
+ 
+Quantification Approach 3: Default Factors 
+GHG flux is calculated following the 2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories using equations contained in this methodology. 
+Where a given activity is not practiced in the baseline or project scenarios, resulting in an 
+effective input of zero for any equation element in this methodology, that equation element is 
+not required. 
+Baseline and project emissions are calculated for each sample field using applicable default 
+values and any monitored parameters. The most accurate available emission factor applicable 
+to the project conditions must be used, in the following descending order of preference:  
+1) Where available, a project-specific emission factor from a peer-reviewed scientific 
+publication15 must be used.  
+ 
+15 As stated in Section 2.5.2 of the latest version of the VCS Methodology Requirements, peer-reviewed scientific 
+literature used to derive (default) emission factors must be in a journal indexed in the Web of Science: Science 
+Citation Index. 
+ 
+VM0042, v2.2 
+ 22 
+ 
+ 
+2) Where there is no relevant peer-reviewed scientific literature, the project proponent may 
+propose alternative sources of information (e.g., government databases, industry 
+publications) to establish the default factor(s) and must provide evidence that the 
+alternative source of information is robust and credible (e.g., independent expert 
+attestation).  
+3) Where no alternative information source is available that is applicable to the project 
+conditions, projects may derive emission factors using activity data collected during the 
+project by following the guidance to derive Tier 2 emission factors in the respective 
+sections of the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories.  
+4) Where projects justify a lack of sufficient activity data and project-specific information 
+sources, Tier 1 and Tier 1a emission factors from the 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories may be selected. 
+ 
+Summary 
+Figure 1 summarizes which equations are to be applied to each GHG flux depending on the 
+selected quantification approach (see also Table 5).  
+Project proponents must use the templates available on the VM0042 webpage to prepare the 
+documents required for project validation and verification, including the templates for ERR 
+quantification spreadsheet, model validation report and IME assessment report.   
+ 
+VM0042, v2.2 
+ 23 
+ 
+ 
+Figure 1: Equation map of this methodology 
+ 
+ 
+VM0042, v2.2 
+ 24 
+ 
+ 
+Woody biomass must be quantified as per Table 5 using the CDM A/R tools Estimation of 
+carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM project activities 
+and Simplified baseline and monitoring methodology for small scale CDM afforestation and 
+reforestation project activities implemented on lands other than wetlands, and reported using 
+Equations (48) and (49). Where woody biomass is harvested, projects must calculate the long-
+term average GHG benefit following guidance in the most recent versions of the VCS 
+Methodology Requirements, Section 3.6 and the VCS Standard, Section 3.2. 
+ 
+8.2 
+Baseline Emissions 
+Quantification Approach 1 
+The baseline is modeled for each quantification unit. The model serves to project future stock 
+change/emissions resulting from the schedule of ALM activities taking place in the baseline 
+scenario (derived in Section 6). Further guidance on biophysical model inputs is elaborated in 
+Table 6.  
+Table 6: Guidance on collection of biophysical model inputs for the baseline scenario, 
+where required by the model selected 
+Model Input 
+Category 
+Timing 
+Approach 
+SOC content to 
+calculate SOC 
+stocks (initial) 
+Determined prior to 
+project intervention via 
+direct measurements at 
+t = 0 or (back-) modeled 
+to t = 0 from 
+measurements 
+collected within ±5 
+years of t = 0 
+Directly measured via conventional analytical 
+laboratory methods (e.g., dry combustion) or 
+proximal sensing techniques (e.g., INS, LIBS, MIR, 
+and Vis-NIR) with known uncertainty following the 
+criteria in Appendix 4 at t = 0 or (back-) modeled to 
+t = 0 following VMD0053 guidance. See parameter 
+table for 𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡.  
+Bulk density to 
+calculate SOC 
+stocks (initial) 
+Determined prior to 
+project intervention via 
+direct measurements at 
+t = 0 or from 
+measurements 
+collected within ±5 
+years of t = 0 
+See Section 8.2.1.5 
+Soil properties 
+(other than bulk 
+density and SOC) 
+Determined prior to 
+project intervention 
+Directly measured or determined from published 
+soil maps with known uncertainty. 
+Estimates from direct measurements must: 
+• 
+Be derived from representative (unbiased) 
+sampling; and 
+• 
+Ensure accuracy of measurements through 
+adherence to best practices.  
+ 
+VM0042, v2.2 
+ 25 
+ 
+ 
+Climate variables 
+(e.g., precipitation, 
+temperature) 
+Continuously monitored 
+ex post 
+Measured for each model-specific meteorological 
+input variable at its required temporal frequency 
+(e.g., daily) for the model prediction interval. 
+Measurements are taken at the closest 
+continuously monitored weather station not 
+exceeding 50 km from the sample field, or from a 
+synthetic weather station (e.g., PRISM16). 
+ 
+Quantification Approach 2 
+Baseline SOC stocks are measured and remeasured directly at baseline control sites which are 
+linked to quantification units. Control sites are managed by applying schedules of activities 
+established in the baseline scenario for the corresponding quantification unit (derived in 
+Section 6). Control sites must comply with the similarity criteria listed in Table 7 and be within 
+250 km of their linked quantification units. One control site may be linked to more than one 
+quantification unit provided the control site meets the similarity criteria for each quantification 
+unit to which it is linked.  
+Control sites may be managed by project proponents, implementing partners, or by entities 
+external to the project (e.g., experimental research stations outside of the project area). 
+Management of control sites may change during the project but the location of baseline control 
+sites themselves must remain constant over the project lifetime. Control sites must be 
+sufficiently large to ensure that any changes in SOC stocks are driven by baseline management 
+practices (i.e., edge effects must be eliminated) and to allow for baseline practices to continue 
+unimpeded (e.g., tractors, combines, or other equipment must be able to operate as they would 
+under normal conditions). Where adverse conditions such as extreme weather events or pest 
+outbreaks arise during the project crediting period, managers of control sites may deviate from 
+the schedule of activities to mitigate negative impacts as they would in the absence of a carbon 
+project (e.g., halt irrigation if there is excess rainfall).  
+Under this approach at least three control sites are required across the entire project area, but 
+more will decrease uncertainty, particularly where the total number of control sites is less than 
+ten. Note that with increasing variability and heterogeneity of the project area, a higher number 
+of control sites is necessary to ensure that similarity criteria are met. Since stratified random 
+sampling is the required sampling strategy for this methodology (see Section 8.2.1), there must 
+be at least one control site per stratum, or the control site must be divided into the same strata 
+as the corresponding quantification unit. Baseline SOC stocks must be reported for the 
+baseline control sites and for each stratum within the project area. See Section 8.6.2 as well as 
+the Soil Organic Carbon MRV Sourcebook for Agricultural Landscapes17 for further information 
+on the number of samples to collect.  
+ 
+16 Available at: https://climatedataguide.ucar.edu/climate-data/prism-high-resolution-spatial-climate-data-united-states-
+maxmin-temp-dewpoint 
+17 Box 3.5. Available at: https://openknowledge.worldbank.org/handle/10986/35923  
+ 
+VM0042, v2.2 
+ 26 
+ 
+ 
+ 
+Table 7: Similarity criteria for linking baseline control sites to quantification units under 
+Quantification Approach 2 
+Control Site Similarity Criterion 
+Thresholda 
+Topography 
+Most frequent slope class18 must be the same in the 
+quantification units and control sites (to be determined from a 
+slope map or via a GIS slope analysis19). For control sites 
+classified as hilly, steep, or very steep, the aspect must be within 
+30° of the cardinal direction of the linked quantification unit. 
+Soil texture to depth of project 
+boundary (minimum 30 cm) 
+Average soil texture must be in the same FAO20 soil textural class 
+as the average soil texture of the linked quantification unit. Note 
+that where significant textural differences are evident within 0–
+30 cm depth, texture should be determined separately for the 
+different soil horizons within that depth range.  
+Soil group  
+Soil group must be within the same reference soil group, 
+according to the FAO World Reference Base for Soil Resources,21 
+as the linked quantification unit. 
+Average SOC percent by dry 
+weight to depth of project 
+boundary (minimum 30 cm) 
+The percentage must not be significantly different from the mean 
+percentage SOC of the linked quantification unit at a 90% 
+confidence level. 
+Historical ALM activities  
+Historical ALM activities must be the same as in the linked 
+quantification unit for at least five years prior to project start 
+date: 
+• Tillage (Y/Nd) and type of tillage practice (no tillage, 
+conservation tillage, or conventional (full) tillage)  
+• Crop residue removal (Y/N)  
+• Crop planting and harvesting (crop typee) 
+• Manure application (Y/N) 
+• Compost application (Y/N) 
+• Irrigation (Y/N) 
+Note that not all of these activities will be universally relevant to 
+all agricultural systems. Therefore, the project proponent must 
+provide evidence supporting the selected historical ALM 
+activities used to link control sites with quantification units. See 
+Box 1 for guidance on data sources for establishing historical 
+ALM activities.  
+ 
+18 See Table 10 in Appendix 5 for soil slope classifications 
+19 See Appendix 5 for workflow steps to determine the most frequent slope class using geographical information 
+systems (GIS) 
+20 See Annex 4 in the FAO World Reference Base for Soil Resources 2014 available at: 
+https://www.fao.org/3/i3794en/I3794en.pdf The USDA Soil Texture Calculator (available ab: 
+https://www.nrcs.usda.gov/wps/portal/nrcs/detail/soils/survey/?cid=nrcs142p2_054167) may be used to 
+determine the soil texture class based on percent sand and clay content.  
+21 See Table 2 of the FAO World Reference Base for Soil Resources 2014 
+ 
+VM0042, v2.2 
+ 27 
+ 
+ 
+Control Site Similarity Criterion 
+Thresholda 
+Historical land coverb 
+For lands converted up to 50 years prior to the project start date, 
+the site must be converted from the same major land cover type 
+(e.g., forestland, grassland, savanna) as the linked quantification 
+unit within ±10 years.  
+Native vegetation 
+The site must be within the same terrestrial ecoregion22 as the 
+linked quantification unit. 
+Climate zone 
+The site must be within the same IPCC-defined climate zone as 
+the linked quantification unit. 
+Precipitationc 
+The site must have mean annual precipitation within ±100 mm 
+of the linked quantification unit. 
+aEstimates of these quantitative thresholds must be derived from unbiased, representative sampling of the 
+control site. Accuracy must be ensured through adherence to best practices (to be determined by the project 
+proponent and outlined in the monitoring plan – see Section 9.3). 
+bEstimated based on historical satellite or aerial imagery or, where imagery is unavailable, confirmed via local 
+expert attestation 
+cEstimated based on measurements taken at the closest continuously monitored weather station not 
+exceeding 50 km from the control site or from a synthetic weather station (e.g., PRISM) 
+dY/N: Yes/No 
+eWhere crop type in the quantification unit of the project area cannot be matched in the baseline control site, a 
+different crop from the same crop functional group may be selected. Crop functional group is defined in 
+VMD0053 as “Broad category of crop species with similar characteristics (e.g., grasses, legumes, non-legume 
+broadleaf species).” 
+ 
+Quantification Approach 3 
+The baseline is calculated for each sample field using the equations provided. Emissions 
+resulting from the schedule of ALM activities taking place in the baseline scenario (derived in 
+Section 6) are estimated using default emission factors and data are determined for each 
+sample field at validation. 
+8.2.1 Soil Organic Carbon Stocks 
+Direct measurements of SOC stocks are required under Quantification Approach 1 as model 
+inputs for baseline setting and at a minimum every five years after for model true-up. Direct 
+measurements of SOC stocks are also required under Quantification Approach 2 to determine 
+the baseline and project SOC stocks at the project start date and at each verification event. The 
+initially measured SOC stocks (at t = 0 determined through direct measurements or (back-) 
+modeled to t = 0 from measurements collected within ±5 years of t = 0) are the same in both 
+the baseline and project scenarios at the outset of the project (i.e., SOCwp,i,0 = SOCbsl,i,0) when 
+following Quantification Approach 1.  
+ 
+22 As defined in the WWF Terrestrial Ecoregions of the World database. Available at: 
+https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world  
+ 
+VM0042, v2.2 
+ 28 
+ 
+ 
+Soil sampling and modeling should occur on a point or small plot (i.e., composite sample) basis 
+to allow for accurate estimation of sampling error and its contribution to the uncertainty of 
+credit estimates. Points should be allocated within the lowest level quantification units using an 
+acceptable approach. Where small plots or composite samples are used, the distance between 
+points in such a sample should be minimized to improve estimates of spatial variability. 
+SOC stock estimates generated must:  
+1) Be demonstrated to be unbiased and derived from representative sampling; and 
+2) Ensure the accuracy of measurements and procedures through the employment of 
+quality assurance/quality control (QA/QC) procedures (to be determined by the project 
+proponent and outlined in the monitoring plan). 
+Measurement procedures for SOC and bulk density must be thoroughly described, including all 
+sample handling, analysis preparation, and analysis techniques. Further details on each of 
+these procedures are provided in the following sections.  
+8.2.1.1 General Requirements for Soil Sampling 
+Standard QA/QC procedures for soil inventory including field data collection and data 
+management must be applied.  
+Use or adaptation of QA/QC procedures available from published handbooks is recommended, 
+such as those produced by FAO and available on the FAO Soils Portal, the ISO standards on soil 
+sampling (including ISO 18400-104 Soil quality — Sampling — Part 104: Strategies), or the IPCC 
+Good Practice Guidance LULUCF 2003. 
+For all directly sampled parameters, the project monitoring plan must clearly spatially delineate 
+the sample population and specify sampling intensities, selection of quantification units, and 
+sampling stages (where applicable). The statistical analysis measurements plan must be 
+submitted as part of the sampling plan for project validation. The detailed sample design must 
+be specified in the monitoring plan, and unbiased estimators of population parameters 
+identified for application in calculations. 
+• 
+For re-sampling purposes, sample locations must be georeferenced23 and seasonal 
+variability considered.  
+• 
+Sampling and re-sampling campaigns must be conducted during the same season over 
+time.  
+• 
+Where organic amendments are applied, projects should delay sampling or re-sampling 
+to the latest time possible after the previous application and the shortest time possible 
+before the next application.  
+ 
+23 Depending on the available GPS precision, these locations may be delineated as areas of several meters in diameter.  
+ 
+VM0042, v2.2 
+ 29 
+ 
+ 
+8.2.1.2 Sampling Design: Stratified Random Sampling 
+Soil sampling must be conducted following the stratified random sampling strategy.24 Each 
+quantification unit within the project area should be divided into sub-units (i.e., strata) based 
+on factors influencing SOC stock distribution (see below) that make each stratum more 
+homogenous than the project area in its entirety.  
+Each quantification unit within the project area must be divided into homogenous strata based 
+on factors influencing SOC stock distribution. In a staged (i.e., hierarchical, nested) design, 
+strata should be generated at the lowest level of quantification unit (see Appendix 6 for an 
+example). Thus, if a sampling design establishes primary and secondary quantification units, 
+strata should be generated as a subset of each secondary quantification unit. The aim of 
+stratifying each quantification unit is to capture SOC stock variability more accurately. 
+Depending on the size of the agricultural fields or paddocks, strata may span numerous 
+fields/paddocks, or one field/paddock may be divided into several strata. 
+Figure 2 shows two examples of defining quantification units and strata. Random samples 
+should be taken in each stratum.  
+Project-specific strata, their area, and the sampling points within strata must be reported in a 
+spreadsheet and submitted as an annex to project documentation at every verification. 
+The stratified random sampling strategy may be nested within a multi-stage sampling approach, 
+but in such cases stratified random sampling must be employed in the stage directly before the 
+sample point stage (see Appendix 6 for an example). An alternative sampling strategy may be 
+proposed for a project via a methodology deviation that provides sufficient scientific rationale 
+and project-specific justification.25 
+Random sampling schemes, without prior stratification, frequently produce relatively high 
+uncertainties when estimating SOC stock changes. Grid or linear sampling patterns require a 
+large number of samples and may produce biased results due to linear features across the site 
+being under- or over-represented. Therefore, grid or linear sampling patterns are not 
+recommended. 
+• 
+To determine strata, the best available data on factors expected to affect the response 
+of SOC stocks to the project activities must be used.  
+• 
+Projects must report the factors used in stratification and how strata were developed.  
+Numerous factors determine SOC heterogeneity at field (10–100 ha) and landscape (100–
+1000 ha) scales, including climate, topography, historical land use and vegetation, parent 
+material, soil texture, and soil type. Stratifying the project area (or quantification units) into 
+ 
+24 Detailed descriptions of how to conduct stratified random sampling are provided in Annex 3 in FAO (2020) and in 
+Module B in World Bank (2021). 
+25 See Section 3.20 of the most recent version of the VCS Standard for detailed guidance. 
+ 
+VM0042, v2.2 
+ 30 
+ 
+ 
+strata that are more homogenous than the project area in its entirety, defined by factors that 
+influence SOC stocks (e.g., those listed as similarity criteria for defining baseline control sites in 
+Table 7) is expected to improve sampling efficiency and reduce errors associated with project-
+scale estimates of SOC stocks.  
+The sampling design must capture variability within the project area. An unbiased spatially 
+stratified approach is important to capture variations in SOC across the project area. The larger 
+a stratum’s area and the greater the expected or known variability within a stratum, the higher 
+the number of samples that must be taken within the stratum. The soil maps and databases of 
+the FAO SOILS PORTAL26 (e.g., the Harmonized World Soil Database), SoilGrids,27 or locally 
+available (digital) soil maps may help in choosing different strata. In addition, soil texture is 
+easily estimated in the field. Since land use and management history frequently align with 
+existing fields, field boundaries should be taken into account when delineating strata, though 
+potential changes in field boundaries over time must be considered. Defined strata should 
+remain stable over time. 
+The number of homogeneous sites (i.e., the number of strata) and soil composite samples 
+should be maximized. The number of years required to detect SOC stock changes decreases 
+with increasing sample number. Compositing or bulking soil samples may better represent 
+spatial variability, but may reduce ability to detect SOC stock changes over time. Therefore at 
+least 3–5 composite samples should be taken within each stratum for model true-up or when 
+using Quantification Approach 2.  
+ 
+26 Available at: http://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/en/  
+27 Available at: https://soilgrids.org/  
+ 
+VM0042, v2.2 
+ 31 
+ 
+ 
+Figure 2: Examples of defined quantification units and strata 
+  
+A  
+ 
+  
+B  
+ 
+  
+ 
+ 
+ 
+VM0042, v2.2 
+ 32 
+ 
+ 
+8.2.1.3 Collection and Processing of Soil Samples 
+The following are guidelines for collection and processing of soil samples and reporting. 
+1) Soil sampling must follow established best practices, such as those found in FAO 
+(2019, 2020), De Gruijter et al. (2006), Smith et al. (2020), and Soil Science Division 
+Staff (2017).  
+2) Where possible, SOC content and soil mass should be obtained from the same sample, 
+or alternatively from adjacent samples taken during the same sampling event. Where 
+multiple cores are composited to create a single sample, these cores must be from the 
+same depth and fully homogenized prior to subsampling. 
+3) All organic material (e.g., living plants, crop residue) must be cleared from the soil 
+surface before soil sampling.  
+4) Soil mass must not include particles greater than 2 mm in diameter (i.e., gravel/stones) 
+nor plant material.28 Any coarse material must be prevented from passing through a 2 
+mm sieve. Drying and sieving procedures must follow laboratory-specific standard 
+operating procedures (SOPs) and be consistent for all samples collected as part of the 
+project, and during the entire project lifetime. 
+5) Soil samples must be shipped within five days of the completion of a sampling 
+campaign. Until then, samples may be temporarily stored on-site in a location protected 
+from sunlight, humidity, and precipitation, avoiding mixing of the different soil 
+materials. Once shipped and before analysis, samples may be stored under 
+environmentally controlled conditions that minimize biological activity (e.g., as dried or 
+refrigerated samples, but not frozen). The duration of refrigerated storage before 
+analysis should not exceed 3 months. 
+6) Sample processing procedures must be reported in detail, explicitly describing sieving 
+and grinding procedures. These must remain consistent through the entire project 
+lifetime even if there is a change in analytical laboratory. 
+7) Reporting of SOC stock changes from direct measurements under Quantification 
+Approaches 1 and 2 must occur on an equivalent soil mass (ESM) basis.  
+a) The mass of soil in each depth layer depends on the bulk density of the 
+respective layer. Therefore, it is important to differentiate between soil mass 
+layers and soil depth layers to enable a consistent comparison of SOC changes 
+and differences between two points in time and between baseline and project 
+areas.  
+b) SOC stocks and stock changes must be reported to a minimum depth of 30 cm 
+(or down to bedrock/hardpan where soils are shallower than 30 cm). To eliminate 
+ 
+28 Beem-Miller et al. (2016) provide a useful approach to ensuring high-quality sampling in rocky agricultural soils. 
+ 
+VM0042, v2.2 
+ 33 
+ 
+ 
+the need for extrapolation outside of the measured range, soils must be sampled 
+deeper than the minimum 30 cm required for reporting SOC stock changes. 
+c) To enable the ESM approach, soil samples at re-sampling must be divided into at 
+least two increments. Soil mass may be derived from bulk density measurements 
+using soil corers. 
+d) The project proponent may select the depth increments sampled according to 
+expected loosening or compaction effects throughout the project lifetime, 
+because bulk density changes as a result of improved ALM will depend largely on 
+land use in the project area and the ALM practices implemented as part of the 
+project. 
+e) Where possible, soils should be sampled to 50 cm depth (i.e., in two depth 
+increments 0–30 cm and 30–50 cm), following the recommendation in Wendt 
+and Hauser (2013) to ensure sub-soil depth layers are sufficient to permit 
+adjustments. From these measurements, the ESM layers and the depths to 
+reference mass (see columns K and L in Figure 3) are determined (see Section 
+8.2.1.6). Note that only the soil mass is required from the two separate depth 
+increments. SOC content analysis may be performed on only one sample after 
+mixing the two depth increments.  
+ 
+8) Soils less than 30 cm deep (e.g., due to shallow bedrock or a formed hardpan) must be 
+sampled to the depth of the impeding layer. Quantification units with these 
+characteristics must be documented and SOC stocks must only be reported to the 
+sampled depth.29  
+9) Geographic locations of intended sampling points must be established prior to 
+sampling. The location of both the intended sampling point and the actual sampling 
+point must be recorded. 
+10) The number of samples to be taken within each stratum should be determined based 
+on the expected variance, to reduce overall uncertainty. A pre-sampling of 5 to 10 soil 
+samples per stratum may provide an estimate of SOC variance where up-to-date soil 
+data are unavailable. 
+11) A power analysis may be conducted to calculate the number of samples needed to 
+enable accounting of a minimum detectable difference, following Equations (1) and (2) 
+(FAO, 2019). However, projects are not required to take this number of samples. 
+𝑀𝐷𝐷 ≥ 
+𝑆
+√𝑛 × (𝑡𝛼,𝜐 + 𝑡𝛽,𝜐)  
+(1) 
+ 
+29 This will affect the ESM layers of the respective sampling points shallower than 30 cm (see Section 8.2.1.6). 
+ 
+VM0042, v2.2 
+ 34 
+ 
+ 
+𝑛 ≥ (𝑆 × (𝑡𝛼 + 𝑡𝛽) 
+𝑀𝐷𝐷
+)
+2
+  
+(2) 
+Where: 
+ 
+MDD 
+= 
+Minimum detectable difference 
+S 
+= 
+Standard deviation of the difference in SOC stocks between t0 and t1 
+n 
+= 
+Number of samples 
+tα 
+= 
+Two-sided critical value of the t-distribution at a given significance 
+level (α) frequently taken as 0.05 (5%) 
+tβ 
+= 
+One-sided quartile of the t-distribution corresponding to a probability 
+of type II error β (e.g., 90%) 
+ 
+Further guidance on stratification and sampling strategies over large scales is found in 
+Aynekulu et al. (2011), FAO (2019), de Gruijter et al. (2016), Hengl et al. (2003), ISO (2018, p. 
+18), Maillard et al. (2017), Mudge et al. (2020), and Vanguelova et al. (2016). 
+8.2.1.4 Measurements of SOC Content 
+SOC content with known uncertainty should be measured using dry combustion (Dumas 
+method). In addition, the following proximal sensing techniques are allowed: infrared 
+spectroscopy, including near infrared (NIR), visible near infrared (Vis-NIR), and mid-infrared 
+spectroscopy (MIR); laser-induced breakdown spectroscopy (LIBS); and inelastic neutron 
+scattering (INS, also known as neutron-stimulated gamma ray analysis or spectroscopy). 
+Appendix 4 provides criteria for evaluating the use of IR spectroscopy, LIBS, and INS.  
+The selection of an analytical laboratory should be based on its listing as an approved 
+analytical service provider of SOC measurements according to national and/or international 
+standards/accreditation. Where possible, the selected analytical laboratory should be ISO/IEC 
+17025 accredited. All samples throughout the entire project lifetime should be analyzed in the 
+same laboratory. A change of analytical laboratory requires justification. The project proponent 
+must ensure that soil analysis methods and procedures remain consistent even if there is a 
+change of laboratory.  
+The selected analytical laboratory should quantify and report analytical error statistics 
+(determined by repeated analyses of the same sample) to project proponents on a regular 
+basis. The selected laboratory should provide information on their internal quality control 
+program, for example inclusion of soil reference material with known results, testing 
+documentation according to quality cards (monitoring of variation in analysis, set of error 
+thresholds). Further evidence of analytical quality performance evaluation should be provided 
+by participation in round-robin testing (e.g., through participation in the North American 
+ 
+VM0042, v2.2 
+ 35 
+ 
+ 
+Proficiency Testing program30) or registration as a member of the Global Soil Laboratory 
+Network (GLOSOLAN31). 
+Walkley-Black (wet) oxidation and loss on ignition (LOI) are not recommended due to accuracy 
+concerns but may be applied where no other method is available.  
+The use of remote sensing to estimate and monitor SOC stock changes is allowed through 
+digital soil mapping used to initialize and/or true-up any model under Quantification Approach 1 
+or used to generate mapped predictions of SOC content and/or stock at different times under 
+Quantification Approach 2. The requirements and procedures of the most recent version of 
+VT0014 Estimating Organic Carbon Stocks Using Digital Soil Mapping must be applied. 
+8.2.1.5 Measurements of Bulk Density 
+Bulk density must be determined applying the core, excavation, or clod methods in the field, 
+and subsequently processing the samples in the laboratory. Best practice guidance and 
+established standards for these methods, such as ISO 11272:2017 Soil quality — 
+Determination of dry bulk density, must be used. Bulk density as soil mass per volume of 
+sampling cores must not include particles greater than 2 mm in diameter (i.e., 
+gravel/stones/rocks/coarse fraction) nor plant material. The coarse fraction may be estimated 
+by sieving and weighing stones/rocks/gravel and multiplying them by the average density of the 
+coarse material.32. Beem-Miller et al. (2016) provide a useful approach to ensuring high-quality 
+sampling in rocky agricultural soils. Samples for bulk density, dry soil mass, and SOC content 
+should be taken at the same time and from sampling locations within a few meters of the 
+previous sampling point location, avoiding edge effects and disturbed areas. 
+8.2.1.6 Calculation of SOC Stocks 
+To ensure that changes in SOC stocks do not arise solely from a temporal change in bulk 
+density (related to ALM practices), SOC stock changes based on measurements (including for 
+baseline and true-up measurements under Quantification Approach 1) must be calculated on 
+an ESM basis33 following the procedures explained in Ellert and Bettany (1995), Wendt and 
+Hauser (2013), or von Haden et al. (2020). The SOC mass of each depth layer or increment per 
+unit area is calculated as the product of soil mass and organic carbon concentration, where soil 
+mass is obtained by dividing the dry sample mass in each depth layer by the area sampled by 
+the probe or auger (Wendt & Hauser, 2013):  
+ 
+ 
+30  See https://www.naptprogram.org/  
+31 See https://www.fao.org/global-soil-partnership/glosolan/en/  
+32 FAO (2019) provides details on a method to estimate the coarse mineral fraction volume. Although this is a precise 
+method, it is not required under this methodology as it is very time-consuming. 
+33 Calibration and statistical validation datasets used for modeling under Quantification Approach 1 do not need to meet 
+the ESM requirement. 
+ 
+VM0042, v2.2 
+ 36 
+ 
+ 
+𝑀𝑛,𝑑𝑙,𝑆𝑂𝐶= ( 𝑀𝑛,𝑑𝑙,𝑠𝑎𝑚𝑝𝑙𝑒
+𝜋 (𝐷
+2)
+2
+×  𝑁
+ × 10 000) × 𝑂𝐶𝑛,𝑑𝑙 
+(3) 
+Where: 
+Mn,dl,SOC 
+= 
+SOC mass in soil sample n in depth layer dl (kg/ha) 
+Mn,dl,sample 
+= 
+Soil mass of sample n in depth layer dl (g)  
+D  
+= 
+Inside diameter of probe or auger (mm)  
+N  
+= 
+Number of cores sampled (unitless) 
+OCn,dl 
+= 
+Organic carbon content in sample n in depth layer dl (g/kg) 
+10 000 
+= 
+Conversion factor from g/mm2 to kg/ha 
+ 
+The cumulative SOC mass per unit area is then calculated by summing all sampled depth 
+increments (see column H in Figure 3). Project proponents may use the spreadsheet34 provided 
+in Wendt and Hauser (2013) to calculate reference ESMs and adjustments independently from 
+sampled depth increments by using a cubic spline function (see Figure 3). Alternatively, the R 
+script35 provided in von Haden et al. (2020) may be applied. Where one of these templates is 
+used, a copy showing the calculation procedures must be submitted as part of the 
+documentation to be validated by the validation/verification body (VVB). 
+In the example in Figure 3, the cumulative organic carbon (OC) mass to 30 cm depth at the first 
+sampling point VM42point1-1 is 47.36 Mg/ha (t/ha; cell H15) for a cumulative soil mass of 
+1950 Mg/ha (cell F15). Column I provides standard cumulative reference masses, which in this 
+example have been adjusted to cover the maximum measured soil mass (sample with highest 
+density). The respective ESM layers are set as 0–1950 Mg/ha and 1950–3253 Mg/ha (column 
+L). The values in column M represent the OC mass in each ESM layer, calculated with a cubic 
+spline function. To comply with reporting SOC stocks to at least 30 cm depth on an ESM basis, 
+projects must use the cumulative reference soil mass for 0–1950 Mg/ha. In this example, the 
+three sample points would have SOC mass of 47.36 Mg/ha (cell J15), 49.9 Mg/ha (cell J20), 
+and 36.8 Mg/ha (cell J25). These match the values in column M. These values must then be 
+used to calculate an average SOC mass valid for the total area of the quantification unit. When 
+re-sampling and comparing SOC stocks at two different points in time, the same principle must 
+be applied to ensure that results are reported for an ESM that covers the measured sample 
+with the highest density (i.e., highest determined soil mass).   
+ 
+Figure 3: Screenshot of ESM spreadsheet provided in Wendt and Hauser (2013) 
+ 
+34 Available for download in the VM0042 webpage at: https://verra.org/wp-content/uploads/2025/01/ESM-sample-
+spreadsheets-Wendt-and-Hauser-2013.xlsx   
+35 Available at: 
+https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fgcb.15124&file=gcb15124-sup-
+0002-Supinfo.pdf  
+ 
+VM0042, v2.2 
+ 37 
+ 
+ 
+ 
+ 
+Note that under Quantification Approach 1, SOC stocks for model initialization may be 
+calculated using Equation (4) where models use SOC stocks as an input rather than ingesting 
+SOC content and bulk density values separately. Where models require bulk density inputs, 
+such bulk density measurements must be taken following the approach described in Section 
+8.2.1.5.  
+𝑆𝑂𝐶𝑚𝑜𝑑𝑒𝑙= 100 × 𝐵𝐷𝑐𝑜𝑟𝑟 ×  𝑑 × 𝑂𝐶𝑛,𝑑𝑙  
+(4) 
+ 
+Where: 
+SOCmodel 
+= 
+SOC stock as model input data (t/ha) 
+BDcorr   
+= 
+Corrected bulk density of the fine soil fraction, after subtracting the mass 
+proportion of the coarse fragments (g/cm3) 
+d 
+= 
+Soil depth (cm) 
+100 
+= 
+Conversion factor from g/cm2 to t/ha 
+ 
+Finally, modeled SOC stocks under Quantification Approach 1 must be calculated using 
+Equation (5) and following the guidance in VMD0053: 
+𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡= ʄ(𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡) 
+(5) 
+Where: 
+ 
+ 
+VM0042, v2.2 
+ 38 
+ 
+ 
+SOCbsl,i,t 
+= 
+Estimated carbon stocks in the SOC pool in the baseline scenario for 
+quantification unit i at the end of year t (t CO2e/ha)  
+ʄ(SOCbsl,i,t) 
+= 
+Modeled SOC stocks in the baseline scenario for quantification unit i in year 
+t, calculated by modeling SOC stock changes over the course of the 
+preceding year (t CO2e/ha) 
+i 
+= 
+Quantification unit 
+8.2.2 Change in Carbon Stocks in Aboveground and Belowground Woody Biomass 
+Where carbon stocks in aboveground and belowground woody biomass are included in the 
+project boundary per Table 3, the change in carbon stocks in trees (ΔCTREE,bsl,i,t) and shrubs 
+(ΔCSHRUB,bsl,i,t) in the baseline for quantification unit i in year t are calculated using the CDM A/R 
+tools Estimation of carbon stocks and change in carbon stocks of trees and shrubs in A/R CDM 
+project activities and Simplified baseline and monitoring methodology for small scale CDM 
+afforestation and reforestation project activities implemented on lands other than wetlands.  
+Where woody biomass is included in the project boundary, the relevant Afforestation, 
+Reforestation, and Revegetation (ARR) requirements in the most recent version of the VCS 
+Methodology Requirements apply.36 Where woody biomass is harvested, projects must 
+calculate the long-term average GHG benefit following guidance in the most recent versions of 
+the VCS Methodology Requirements Section 3.6 and the VCS Standard Section 3.2.  
+8.2.3 Carbon Dioxide Emissions from Fossil Fuel Combustion 
+Where carbon dioxide emissions from fossil fuel are included in the project boundary per Table 
+3, they are quantified in the baseline scenario under Quantification Approach 3, using 
+Equations (6) and (7). 
+Parameter 𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ is estimated using the following equation: 
+𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (∑𝐸𝐹𝐹𝑏𝑠𝑙,𝑗,𝑖,𝑡
+𝐽
+𝑗=1
+)/𝐴𝑖 
+(6) 
+Where: 
+𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= 
+Areal mean carbon dioxide emissions from fossil fuel combustion in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+EFFbsl,j,i,t 
+= 
+Carbon dioxide emissions from fossil fuel combustion in the baseline 
+scenario in vehicle/equipment type j for quantification unit i in year t 
+(t CO2e) 
+Ai 
+= 
+Area of quantification unit i (ha) 
+ 
+36 VCS Methodology VM0047 Afforestation, Reforestation and Revegetation is the recommended methodology for 
+projects cultivating woody biomass as a primary project activity. The woody biomass quantification approach will be 
+updated in a future revision of VM0042 drawing from approaches used in VM0047. 
+ 
+VM0042, v2.2 
+ 39 
+ 
+ 
+j 
+= 
+Type of fossil fuel (gasoline, diesel or other)  
+The parameter EFFbsl,j,i,t is estimated using the following equation:  
+𝐸𝐹𝐹𝑏𝑠𝑙,𝑗,𝑖,𝑡= 𝐹𝐹𝐶𝑏𝑠𝑙,𝑗,𝑖,𝑡× 𝐸𝐹𝐶𝑂2,𝑗 
+(7) 
+Where: 
+FFCbsl,j,i,t 
+= 
+Consumption of fossil fuel type j for quantification unit i in year t (liters) 
+EFCO2,j 
+= 
+Emission factor for combustion of fossil fuel type j (t CO2e/liter) 
+8.2.4 Carbon Dioxide Emissions from Liming 
+Application of calcitic limestone (CaCO3) or dolomite (CaMg(CO3)2) releases bicarbonate 
+(2HCO3−), which evolves into CO2 and water (H2O) as carbonate limes dissolve. Where one of 
+the ALM practices is liming and resulting carbon dioxide emissions are not deemed de minimis, 
+they are quantified in the baseline scenario under Quantification Approach 3 using Equations 
+(8) and (9). 
+Parameter 𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ is estimated using the following equation: 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐸𝐿𝑏𝑠𝑙,𝑖,𝑡 /𝐴𝑖 
+(8) 
+Where: 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon dioxide emissions from liming in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+ELbsl,i,t 
+= Carbon dioxide emissions from liming in the baseline scenario for 
+quantification unit i in year t (t CO2e) 
+ 
+𝐸𝐿𝑏𝑠𝑙,𝑖,𝑡= ((𝑀𝐿𝑖𝑚𝑒𝑠𝑡𝑜𝑛𝑒,𝑏𝑠𝑙,𝑖 × 𝐸𝐹𝐿𝑖𝑚𝑒𝑠𝑡𝑜𝑛𝑒) + (𝑀𝐷𝑜𝑙𝑜𝑚𝑖𝑡𝑒,,𝑏𝑠𝑙,𝑖 × 𝐸𝐹𝐷𝑜𝑙𝑜𝑚𝑖𝑡𝑒)) × 44
+12   
+(9) 
+ 
+Where: 
+MLimestone,bsl,i 
+= Amount of calcitic limestone (CaCO3) applied to quantification unit i 
+in year t (tonnes) 
+EFLimestone 
+= Emission factor for calcitic limestone (0.12) (t C/t of limestone) 
+MDolomite,bsl,i 
+= Amount of dolomite (CaMg(CO3)2) applied to quantification unit i in 
+year t (tonnes) 
+EFDolomite 
+= Emission factor for dolomite (0.13) (t C/t of dolomite) 
+44/12 
+= Molar mass ratio of CO2 to C applied to convert CO2-C emissions to 
+CO2 emissions 
+ 
+VM0042, v2.2 
+ 40 
+ 
+ 
+8.2.5 Methane Emissions from the SOC Pool 
+Where methane emissions from soil methanogenesis are included in the project boundary per 
+Table 3, they are quantified in the baseline scenario under Quantification Approach 1 using 
+Equation (10). 
+ 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐺𝑊𝑃CH4 × ʄ(𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡)  
+(10) 
+Where: 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from SOC pool in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+ʄ(CH4_soilbsl,i,t) 
+= Modeled methane emissions from soil in the baseline scenario for 
+quantification unit i in year t, calculated by modeling soil methane 
+fluxes over the course of the preceding year (t CO2e/ha) 
+GWPCH4 
+= Global warming potential for CH4 (t CO2e/t CH4) 
+8.2.6 Methane Emissions from Livestock Enteric Fermentation 
+Where methane emissions from livestock enteric fermentation are included per Table 3, they 
+are quantified in the baseline scenario under Quantification Approach 3 using Equation (11). 
+Following the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories, quantification must be differentiated by livestock type, manure management 
+system, and productivity system.  
+𝐶𝐻4_𝑒𝑛𝑡𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝐺𝑊𝑃𝐶𝐻4 × ∑
+𝑃𝑜𝑝𝑏𝑠𝑙,𝑙,𝑖,𝑡,𝑃× 𝐸𝐹𝑒𝑛𝑡,𝑙,𝑃
+𝐿
+𝑙=1
+1000
+)/𝐴𝑖 
+(11) 
+Where: 
+𝐶𝐻4_𝑒𝑛𝑡𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from livestock enteric fermentation 
+in the baseline scenario for quantification unit i in year t 
+(t CO2e/ha) 
+Popbsl,l,i,t,P 
+= Population of grazing livestock of type l in quantification unit i for 
+productivity system P in year t in the baseline scenario (head 
+numbers) 
+EFent,l,P 
+= Enteric fermentation emission factor for livestock type l in 
+productivity system P (kg CH4/(head × year)) 
+l 
+= Type of livestock 
+P 
+= Productivity system 
+1000 
+= Conversion factor from kg to t 
+ 
+VM0042, v2.2 
+ 41 
+ 
+ 
+8.2.7 Methane Emissions from Manure Deposition 
+Where methane emissions from manure deposition are included in the project boundary per 
+Table 3, they are quantified in the baseline scenario under Quantification Approach 3 using 
+Equations (12) and (13). 
+𝐶𝐻4_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐺𝑊𝑃𝐶𝐻4 × ∑
+(𝑃𝑜𝑝𝑏𝑠𝑙,𝑙,𝑖,𝑡,𝑃× 𝑉𝑆𝑙,𝑖,𝑡,𝑃× 𝐴𝑊𝑀𝑆𝑙,𝑖,𝑡,𝑃,𝑆× 𝐸𝐹𝐶𝐻4,𝑚𝑑,𝑙,𝑃,𝑆)
+𝐿
+𝑙=1
+106 × 𝐴𝑖
+ 
+(12) 
+Where: 
+𝐶𝐻4_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Baseline areal mean CH4 emissions from manure deposition in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+VSl,i,t,P 
+= Average volatile solids excretion per head for livestock type l in 
+quantification unit i for productivity system P in year t (kg volatile 
+solids/(head × day) 
+AWMSl,i,t,P,S 
+= Fraction of total annual volatile solids for each livestock type l in 
+quantification unit i, that is managed in manure management system 
+S in the project area, for productivity system P (dimensionless) 
+EFCH4,md,l,P,S 
+= Emission factor for methane emissions from manure deposition for 
+livestock type l for productivity system P in manure management 
+system S (g CH4/kg volatile solids) 
+S 
+= Manure management system 
+106 
+= Conversion factor from grams to tonnes 
+ 
+𝑉𝑆𝑙,𝑖,𝑡,𝑃= (𝑉𝑆𝑟𝑎𝑡𝑒,𝑙,𝑃× 𝑊𝑏𝑠𝑙,𝑙,𝑖,𝑡,𝑃
+1000
+) ×  365 
+(13) 
+Where: 
+VSrate,l,P 
+= Default volatile solids excretion rate for livestock type l for 
+productivity system P (kg volatile solids/(1000 kg animal mass × 
+day)) 
+Wbsl,l,i,t,P 
+= Average weight in the baseline scenario of livestock type l for 
+quantification unit i in productivity system P in year t (kg animal 
+mass/head) 
+1000 
+= Conversion factor kg per tonne 
+365 
+= Days per year 
+ 
+8.2.8 Methane Emissions from Biomass Burning 
+Where methane emissions from biomass burning are included in the project boundary per 
+Table 3, they are quantified in the baseline scenario under Quantification Approach 3 using 
+Equation (14). 
+ 
+VM0042, v2.2 
+ 42 
+ 
+ 
+𝐶𝐻4_𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝐺𝑊𝑃𝐶𝐻4 × ∑
+𝑀𝐵𝑏𝑠𝑙,𝑐,𝑖,𝑡× 𝐶𝐹𝑐× 𝐸𝐹𝑐,𝐶𝐻4
+𝐶
+𝑐=1
+106
+)/𝐴𝑖 
+(14) 
+Where: 
+𝐶𝐻4_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Methane emissions in the baseline scenario from biomass burning 
+for quantification unit i in year t (t CO2e/ha) 
+MBbsl,c,i,t 
+= Mass of agricultural residues of type c burned in the baseline 
+scenario for quantification unit i in year t (kg) 
+CFc 
+= Combustion factor for agricultural residue type c (proportion of pre-
+fire fuel biomass consumed) 
+EFc,CH4 
+= Methane emission factor for the burning of agricultural residue type 
+c (g CH4/kg dry matter burned) 
+c 
+= Type of agricultural residue 
+106 
+= Conversion factor from grams to tonnes 
+ 
+8.2.9 Nitrous Oxide Emissions from Nitrogen Fertilizers and Nitrogen-Fixing Species 
+Nitrous oxide emissions due to nitrification/denitrification include direct and indirect emissions 
+from nitrogen fertilizers and direct emissions from nitrogen-fixing species. Where nitrous oxide 
+emissions due to nitrogen inputs to soils from nitrogen fertilizers and nitrogen-fixing species are 
+included in the project boundary per Table 3, they are quantified in the baseline scenario under 
+Quantification Approaches 1 or 3. Under Quantification Approach 1, Equation (15) is used. 
+Under Quantification Approach 3, Equations (16)–(25) are used. Following the 2019 
+Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, 
+quantification must be differentiated by livestock type, manure management system, and 
+productivity system.  
+Quantification Approach 1 
+Direct and indirect nitrous oxide emissions due to nitrogen inputs to soils (nitrogen fertilizers, 
+manure deposition, and nitrogen-fixing species) in the baseline scenario are quantified as: 
+ 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐺𝑊𝑃𝑁2𝑂× ʄ(𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡) 
+(15) 
+Where: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean direct and indirect nitrous oxide emissions due to 
+nitrogen inputs to soils in the baseline scenario for quantification unit 
+i in year t (t CO2e/ha) 
+ʄ(N2O_soilbsl,i,t) 
+= Modeled nitrous oxide emissions from soil in the baseline scenario 
+for quantification unit i in year t, calculated by modeling soil fluxes of 
+nitrogen forms over the course of the preceding year (t N2O/ha) 
+GWPN2O 
+= Global warming potential for N2O (t CO2e/t N2O) 
+ 
+VM0042, v2.2 
+ 43 
+ 
+ 
+Quantification Approach 3 
+Nitrous oxide emissions due to nitrogen inputs to soils in the baseline scenario are estimated 
+by applying Equation (16). 
+ 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡= 𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖.𝑡+ 𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡+ 𝑁2𝑂_𝑁𝑓𝑖𝑥𝑏𝑠𝑙,𝑖,𝑡 
+(16) 
+Where: 
+N2O_soilbsl,i,t 
+= Nitrous oxide emissions due to nitrogen inputs to soils in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+N2O_fertbsl,i,t 
+= Nitrous oxide emissions due to fertilizer use in the baseline scenario 
+for quantification unit i in year t (t CO2e/ha) 
+N2O_mdbsl,i,t 
+= Nitrous oxide emissions due to manure deposition in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+N2O_Nfixbsl,i,t 
+= Nitrous oxide emissions from crop residues due to the use of N-fixing 
+species in the baseline scenario for quantification unit i in year t 
+(t CO2e/ha) 
+Where nitrous oxide emissions due to fertilizer use are included in the project boundary per 
+Table 3, they are quantified in the baseline scenario using Equations (17)–(23).  
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖,𝑡= 𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡+ 𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡 
+(17) 
+Where: 
+N2O_fertbsl,direct,i,t 
+= Direct nitrous oxide emissions due to fertilizer use in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+N2O_fertbsl,indirect,i,t 
+= Indirect nitrous oxide emissions due to fertilizer use in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+Direct nitrous oxide emissions due to fertilizer use in the baseline scenario are quantified in 
+Equations (18)–(20).  
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = ((𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡+ 𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡) × 𝐸𝐹𝑁𝑑𝑖𝑟𝑒𝑐𝑡× 44/28 × 𝐺𝑊𝑃𝑁2𝑂)/𝐴𝑖 
+(18) 
+𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝑏𝑠𝑙,𝑆𝐹,𝑖,𝑡× 𝑁𝐶𝑆𝐹
+𝑆𝐹
+ 
+(19) 
+𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝑏𝑠𝑙,𝑂𝐹,𝑖,𝑡× 𝑁𝐶𝑂𝐹
+𝑂𝐹
+   
+(20) 
+Where: 
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = Areal mean direct nitrous oxide emissions due to fertilizer use in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+ 
+VM0042, v2.2 
+ 44 
+ 
+ 
+FSNbsl,i,t 
+= Synthetic N fertilizer applied to quantification unit i in year t in the 
+baseline scenario (t N) 
+FONbsl,i,t 
+= Organic N fertilizer applied to quantification unit i in year t in the 
+baseline scenario (t N) 
+EFNdirect 
+= Emission factor for nitrous oxide emissions from N additions from 
+synthetic fertilizers, organic amendments, and crop residues (t N2O-
+N/t N applied) 
+Mbsl,SF,i,t 
+= Mass of N-containing synthetic fertilizer type SF applied to 
+quantification unit i in year t in the baseline scenario (t fertilizer) 
+NCSF 
+= N content of synthetic fertilizer type SF (t N/t fertilizer) 
+Mbsl,OF,i,t 
+= Mass of N-containing organic fertilizer type OF applied to 
+quantification unit i in year t in the baseline scenario (t fertilizer) 
+NCOF 
+= N content of organic fertilizer type OF (t N/t fertilizer) 
+SF 
+= Synthetic N fertilizer type 
+OF 
+= Organic N fertilizer type 
+44/28 
+= Molar mass ratio of N2O to N applied to convert N2O-N emissions to 
+N2O emissions  
+Indirect nitrous oxide emissions due to fertilizer use in the baseline scenario are quantified in 
+Equations (21)–(23).  
+ 
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡+ 𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡)/𝐴𝑖 
+(21) 
+ 
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡= [(𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡× 𝐹𝑟𝑎𝑐𝐺𝐴𝑆𝐹,𝑙,𝑆) +
+(𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡× 𝐹𝑟𝑎𝑐𝐺𝐴𝑆𝑀,𝑙,𝑆) ] × 𝐸𝐹𝑁𝑣𝑜𝑙𝑎𝑡× 44/28 × 𝐺𝑊𝑃𝑁2𝑂 
+(22) 
+ 
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡= (𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡+
+𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡) × 𝐹𝑟𝑎𝑐𝐿𝐸𝐴𝐶𝐻,𝑙,𝑆× 𝐸𝐹𝑁𝑙𝑒𝑎𝑐ℎ× 44
+28 × 𝐺𝑊𝑃𝑁2𝑂 
+(23) 
+ 
+Where: 
+𝑁2𝑂_𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = Areal mean indirect nitrous oxide emissions due to fertilizer use in 
+the baseline scenario for quantification unit i in year t (t CO2e/ha) 
+N2O_fertbsl,volat,i,t 
+= Indirect nitrous oxide emissions produced from atmospheric 
+deposition of N volatilized due to fertilizer use in the baseline 
+scenario in quantification unit i in year t (t CO2e) 
+N2O_fertbsl,leach,i,t 
+= Indirect nitrous oxide emissions produced from leaching and runoff 
+of N, in regions where leaching and runoff occurs, due to fertilizer 
+use in the baseline scenario in quantification unit i in year t (t CO2e)  
+ 
+VM0042, v2.2 
+ 45 
+ 
+ 
+FracGASF 
+= Fraction of all synthetic N added to soils that volatilizes as NH3 and 
+NOx (dimensionless) 
+FracGASM 
+= Fraction of all organic N added to soils and N in manure and urine 
+deposited on soils that volatilizes as NH3 and NOx (dimensionless) 
+EFNvolat 
+= Emission factor for nitrous oxide emissions from atmospheric 
+deposition of N on soils and water surfaces (t N2O-N/(t NH3-N + NOx-
+N volatilized)) 
+FracLEACH 
+= Fraction of N (synthetic or organic) added to soils and in manure and 
+urine deposited on soils that is lost through leaching and runoff, in 
+regions where leaching and runoff occurs (dimensionless)  
+EFNleach 
+= Emission factor for nitrous oxide emissions from leaching and runoff 
+(t N2O-N/t N leached and runoff) 
+ 
+Where nitrous oxide emissions due to the use of N-fixing species are included in the project 
+boundary per Table 3, they are quantified in the baseline scenario using Equations (24) and 
+(25). 
+𝑁2𝑂_𝑁𝑓𝑖𝑥𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝐹𝐶𝑅,𝑏𝑠𝑙,𝑖,𝑡× 𝐸𝐹𝑁𝑑𝑖𝑟𝑒𝑐𝑡× 44
+28 × 𝐺𝑊𝑃𝑁2𝑂)/𝐴𝑖 
+(24) 
+Where: 
+𝑁2𝑂_𝑁𝑓𝑖𝑥𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean nitrous oxide emissions from crop residues due to the 
+use of N-fixing species in the baseline scenario for quantification 
+unit i in year t (t CO2e/ha) 
+FCR,bsl,i,t 
+= Amount of N in N-fixing species (above- and belowground) 
+returned to soils in the baseline scenario for quantification unit i 
+in year t (t N) 
+ 
+𝐹𝐶𝑅,𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝐵𝑔,𝑏𝑠𝑙,𝑖,𝑡× 𝑁𝑐𝑜𝑛𝑡𝑒𝑛𝑡,𝑔
+𝐺
+𝑔=1
+ 
+(25) 
+Where: 
+MBg,bsl,i,t 
+= Annual dry matter (above- and belowground) of N-fixing species g 
+returned to soils for quantification unit i in year t (t d.m.) 
+Ncontent,g 
+= Fraction of N in dry matter for N-fixing species g (t N/t d.m.) 
+g 
+= Type of N-fixing species 
+ 
+8.2.10 Nitrous Oxide Emissions from Manure Deposition 
+Where nitrous oxide emissions due to manure deposition are included in the project boundary 
+per Table 3, they are quantified in the baseline scenario under Quantification Approach 3 using 
+Equations (26)–(31). 
+ 
+VM0042, v2.2 
+ 46 
+ 
+ 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡+ 𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡 
+(26) 
+Where: 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean nitrous oxide emissions due to manure deposition in 
+the baseline scenario for quantification unit i in year t (t CO2e/ha) 
+N2O_mdbsl,direct,i,t 
+= Direct nitrous oxide emissions due to manure deposition in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha)  
+N2O_mdbsl,indirect,i,t 
+= Indirect nitrous oxide emissions due to manure deposition in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+Direct nitrous oxide emissions due to manure deposition in the baseline scenario are quantified 
+using Equations (27) and (28). 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡,𝑃,𝑆
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ =
+∑
+𝐹𝑏𝑠𝑙,𝑚𝑎𝑛𝑢𝑟𝑒,𝑙,𝑖,𝑡,𝑃× 𝐸𝐹𝑁2𝑂,𝑚𝑑,𝑙,𝑆× 44/28 × 𝐺𝑊𝑃𝑁2𝑂
+𝐿
+𝑙=1
+1000 ×  𝐴𝑖
+ 
+(27) 
+𝐹𝑏𝑠𝑙,𝑚𝑎𝑛𝑢𝑟𝑒,𝑙,𝑖,𝑡,𝑃= (𝑃𝑜𝑝𝑏𝑠𝑙,𝑙,𝑖,𝑡× 𝑁𝑒𝑥𝑙,𝑃) × 𝐴𝑊𝑀𝑆𝑙,𝑖,𝑡,𝑃,𝑆× 𝑀𝑆𝑏𝑠𝑙,𝑙,𝑖,𝑡  
+(28) 
+ 
+Where: 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡,𝑃,𝑆
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 
+Areal mean direct nitrous oxide emissions due to manure 
+deposition in the baseline scenario for quantification unit i for 
+productivity system P and manure management system S in year 
+t (t CO2e/ha) 
+Fbsl,manure,l,i,t,P 
+= 
+Amount of nitrogen in manure and urine deposited on soils by 
+livestock type l for productivity system P in quantification unit i in 
+year t (t N) 
+Nexl,P 
+= 
+Average annual nitrogen excretion per head of livestock type l for 
+productivity system P (kg N deposited/(head × year)) 
+EFN2O,md,l,S 
+= 
+Emission factor for nitrous oxide from manure and urine 
+deposited on soils by livestock type l for manure management 
+system S (kg N2O-N/kg N input) 
+MSbsl,l,i,t 
+= 
+Baseline fraction of total annual N excretion for each livestock 
+type l for quantification unit i in year t that is deposited on the 
+project area (%) 
+1000 
+= 
+Conversion factor from kg to t 
+Indirect nitrous oxide emissions due to manure deposition in the baseline scenario are 
+quantified under Quantification Approach 3 using Equations (29)–(31). 
+ 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡+ 𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡)/𝐴𝑖 
+(29) 
+ 
+ 
+VM0042, v2.2 
+ 47 
+ 
+ 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡= 𝐹𝑏𝑠𝑙,𝑚𝑎𝑛𝑢𝑟𝑒,𝑙,𝑖,𝑡,𝑃× 𝐹𝑟𝑎𝑐𝐺𝐴𝑆𝑀,𝑙,𝑆× 𝐸𝐹𝑁𝑣𝑜𝑙𝑎𝑡× 44
+28 × 𝐺𝑊𝑃𝑁2𝑂 
+(30) 
+ 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡= 𝐹𝑏𝑠𝑙,𝑚𝑎𝑛𝑢𝑟𝑒,𝑙,𝑖,𝑡,𝑃× 𝐹𝑟𝑎𝑐𝐿𝐸𝐴𝐶𝐻,𝑙,𝑆× 𝐸𝐹𝑁𝑙𝑒𝑎𝑐ℎ× 44
+28 × 𝐺𝑊𝑃𝑁2𝑂 
+(31) 
+Where: 
+𝑁2𝑂_𝑚𝑑𝑏𝑠𝑙,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = Areal mean indirect nitrous oxide emissions due to manure 
+deposition in the baseline scenario for quantification unit i in year t 
+(t CO2e/ha) 
+N2O_mdbsl,volat,i,t 
+= Indirect nitrous oxide emissions produced from atmospheric 
+deposition of N volatilized due to manure deposition for 
+quantification unit i in year t (t CO2e) 
+N2O_mdbsl,leach,i,t 
+= Indirect nitrous oxide emissions produced from leaching and runoff 
+of N, in regions where leaching and runoff occurs, as a result of 
+manure deposition for quantification unit i in year t. Equal to zero 
+where annual precipitation is less than potential 
+evapotranspiration, unless irrigation is employed (t CO2e) 
+8.2.11 Nitrous Oxide Emissions from Biomass Burning 
+Nitrous oxide emissions from biomass burning in the baseline scenario are quantified under 
+Quantification Approach 3. 
+Parameter 𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ is estimated using Equation (32).  
+ 
+𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = (𝐺𝑊𝑃𝑁2𝑂× ∑
+𝑀𝐵𝑏𝑠𝑙,𝑐,𝑖,𝑡× 𝐶𝐹𝑐× 𝐸𝐹𝑐,𝑁2𝑂
+𝐶
+𝑐=1
+106
+)/𝐴𝑖 
+(32) 
+Where: 
+𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= 
+Areal mean nitrous oxide emissions in the baseline scenario from 
+biomass burning for quantification unit i in year t (t CO2e/ha) 
+EFc,N2O 
+= 
+Nitrous oxide emission factor for the burning of agricultural residue 
+type c (g N2O/kg dry matter burnt) 
+106 
+= 
+Conversion factor from grams to tonnes 
+ 
+8.3 
+Project Emissions 
+Stock change/emissions resulting from project scenario ALM activities are calculated or 
+modeled based on monitored inputs. Project scenario CO2, CH4, and N2O emissions must be 
+quantified following the approaches found in Table 5 and using the equations provided in 
+ 
+VM0042, v2.2 
+ 48 
+ 
+ 
+Section 8.2. For all equations, the subscript bsl must be substituted by wp to make it clear that 
+the relevant values are being quantified for the project scenario. Further, as per Section 8.4.2, 
+where livestock are included in the baseline, the project must use at a minimum the average 
+livestock value from the historical look-back period. 
+Quantification Approach 1 
+Model inputs must be collected following the guidance in Table 8. 
+Table 8: Guidance on collection of model inputs, where required by the model 
+selected, for Quantification Approach 1 for the project scenario  
+Model Input Category 
+Timing 
+Approach 
+SOC content to 
+calculate SOC stocks 
+Determined at project start 
+via direct measurements at 
+t = 0 or (back-) modeled to 
+t = 0 from measurements 
+collected within ±5 years of 
+t = 0. Subsequent 
+measurements are required 
+every five years or more 
+frequently. 
+Directly measured via conventional 
+analytical laboratory methods — for example 
+dry combustion or proximal sensing 
+techniques (INS, LIBS, MIR, and Vis-NIR) — 
+with known uncertainty, following the 
+criteria in Appendix 4 and VMD0053 
+guidance. See parameter table for 𝑆𝑂𝐶𝑤𝑝,𝑖,𝑡. 
+Bulk density to 
+calculate SOC 
+stocks (initial) 
+Determined prior to 
+project intervention via 
+direct measurements at 
+t = 0 or from 
+measurements 
+collected within ±5 
+years of t = 0 
+See Section 8.2.1.5 
+Soil properties  
+(other than bulk 
+density and SOC) 
+Determined ex ante 
+Measured or determined from published soil 
+maps with known uncertainty. 
+Estimates from direct measurements must: 
+1) Be derived from representative 
+(unbiased) sampling; and 
+2) Ensure accuracy of measurements 
+through adherence to best practices (to 
+be determined by the project proponent 
+and outlined in the monitoring plan). 
+Climate variables 
+(e.g., precipitation, 
+temperature) 
+Continuously monitored ex 
+post 
+Measured for each model-specific 
+meteorological input variable at its required 
+temporal frequency (e.g., daily) for the model 
+prediction interval. Measurements are taken 
+at the closest continuously monitored 
+weather station not exceeding 50 km from 
+the sample field, or from a synthetic weather 
+station (e.g., PRISM37). 
+ 
+37 Available at: https://climatedataguide.ucar.edu/climate-data/prism-high-resolution-spatial-climate-data-united-states-
+maxmin-temp-dewpoint  
+ 
+VM0042, v2.2 
+ 49 
+ 
+ 
+ALM activities (as 
+identified following 
+procedures in 
+VMD0053, 
+referencing 
+categories of 
+practices outlined in 
+Applicability 
+Condition 1) 
+Monitored ex post 
+Required model inputs related to ALM 
+practices must be monitored and recorded 
+for each project year t. Information on ALM 
+practices is monitored via consultation with, 
+and substantiated with a signed attestation 
+from, the farmer or landowner of the 
+quantification unit. Any quantitative 
+information (e.g., discrete or continuous 
+numeric variables) on ALM practices must be 
+supported by one or more forms of 
+documented evidence pertaining to the 
+selected sample field and relevant 
+verification period (e.g., management logs, 
+receipts or invoices, farm equipment 
+specifications). 
+Units for quantitative information will be 
+based on model input requirements. 
+Quantification Approach 2 
+Quantification Approach 2 is used to estimate emissions from SOC stocks only. SOC stocks in 
+the project scenario (SOCwp,i,t) are calculated on an equivalent soil mass (ESM) basis by 
+multiplication with the SOC content in each quantification unit or stratum at time t − 1, directly 
+measured in each sample field. Where bulk density is measured in a fixed depth approach, 
+mass corrections may be applied to meet the ESM requirement.  
+A detailed description of SOC stock calculations with multiple soil depth increments, and 
+spreadsheets and R scripts to standardize and facilitate calculations on an ESM basis, are 
+provided in Wendt and Hauser (2013) and von Haden et al. (2020). SOC stock changes are 
+calculated in Equations (3) to (5).  
+Quantification Approach 3 
+Project emissions are calculated for each sample field using applicable default values and any 
+monitored parameters. The most accurate available emission factor applicable to the project 
+conditions must be used, in the following descending order of preference: 
+1) Where available, a project-specific emission factor from a peer-reviewed scientific 
+publication38 must be used.  
+2) Where there is no relevant peer-reviewed scientific literature, the project proponent may 
+propose alternative sources of information (e.g., government databases, industry 
+publications) to establish the default factor(s) and must provide evidence that the 
+alternative source of information is robust and credible (e.g., independent expert 
+attestation).  
+ 
+38 As stated in Section 2.5 of the most recent version of the VCS Methodology Requirements, peer-reviewed scientific 
+literature used to derive (default) emission factors must be published in a journal indexed in the Web of Science: 
+Science Citation Index. 
+ 
+VM0042, v2.2 
+ 50 
+ 
+ 
+3) Where no alternative information source is available that is applicable to the project 
+conditions, project proponents may derive emission factors using activity data collected 
+during the project by following the guidance to derive Tier 2 emission factors in the 
+respective sections of the 2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories.  
+4) Where project proponents justify a lack of sufficient activity data and project-specific 
+information sources, Tier 1 and Tier 1a emission factors from the 2019 Refinement to 
+the 2006 IPCC Guidelines for National Greenhouse Gas Inventories may be selected. 
+Woody Biomass 
+Aboveground woody biomass must be included where project activities may significantly reduce 
+this pool compared to the baseline. In all other cases, aboveground woody biomass is an 
+optional pool. Where included, it is calculated using the CDM A/R tools Estimation of carbon 
+stocks and change in carbon stocks of trees and shrubs in A/R CDM project activities and 
+Simplified baseline and monitoring methodology for small scale CDM afforestation and 
+reforestation project activities implemented on lands other than wetlands. Where woody 
+biomass is harvested, projects must calculate the long-term average GHG benefit following the 
+guidance in the most recent versions of the VCS Methodology Requirements Section 3.6 and 
+the VCS Standard Section 3.2. 
+8.4 
+Leakage 
+Improved ALM projects may result in leakage through: new application of organic amendments 
+from outside the project area (i.e., organic amendments applied in the project from outside of 
+the project area, that were not previously applied in the historical look-back period); productivity 
+declines; displacement of livestock outside of the project boundary; and/or diversion of 
+biomass residues that were used for bioenergy applications in the baseline scenario. Guidance 
+on how to account for each type of leakage is provided below. 
+As mentioned in Section 5, where the sum of increases in GHG emissions from any leakage 
+source is less than 5% of the total net anthropogenic reductions and removals due to the 
+project, such sources may be deemed de minimis and may be ignored. This must be 
+demonstrated via application of the CDM Tool for testing significance of GHG emissions in A/R 
+CDM project activities. 
+ 
+VM0042, v2.2 
+ 51 
+ 
+ 
+8.4.1 Accounting for Leakage from New Application of Organic Amendments from 
+Outside the Project Area 
+Where new39 or additional40 manure, compost, or biosolids41 are applied in the project that 
+were not applied in the historical look-back period, there is a risk of activity-shifting leakage if 
+the organic amendments were applied to other fields before the project and their application is 
+diverted to the fields participating in the project. To account for this type of leakage, a 
+deduction must be used unless any of the following apply: 
+1) The manure or compost applied as a project activity in the project are newly produced 
+on-site from farms within the project area;  
+2) The manure is documented to have been diverted from an uncontrolled anaerobic 
+lagoon, pond, tank, or pit42 from which there is no recovery of methane for generation 
+of heat and/or electricity; or 
+3) The manure, compost, or biosolids are documented to not have been used as a soil 
+amendment. 
+The deduction represents the portion of manure, compost, or biosolids carbon that remains in 
+the project area without degrading and which would have otherwise been applied to agricultural 
+land outside of the project area. 
+Equation (33) estimates the leakage from imported manure, compost, or biosolids that are 
+diverted from other applications and could have led to an increase in SOC outside the project 
+boundary in the absence of the project activity. The total amount of carbon applied is reduced 
+to 12% based on the global manure C retention coefficient from Maillard and Angers (2014). 
+This value reflects the fraction of manure carbon expected to remain in project area soils. While 
+derived for manure, the equation is also conservatively applied to compost or biosolids in this 
+methodology.  
+𝐿𝐸𝑂𝐴,𝑡= ∑(𝑀_𝑂𝐴𝑤𝑝,𝑙,𝑡× 𝐶𝐶𝑤𝑝,𝑜𝑎,𝑡× 0.12 × 44
+12)
+𝑙
+ 
+(33) 
+Where: 
+LEOA,t 
+= Leakage from organic amendments in year t (t CO2e) 
+ 
+39 In this context, “new” refers to organic amendment application to fields that did not have organic amendment applied 
+during the historical look-back period. 
+40 In this context, “additional” refers to organic amendment application to fields that had organic amendment applied 
+during the historical look-back period, where the amount of organic amendment increases in the project scenario. 
+41 Biosolids are the nutrient-rich organic materials resulting from the treatment of domestic sewage in a wastewater 
+treatment facility (i.e., treated sewage sludge).  
+42 Where manure is diverted for field application, rather than stored anaerobically in an uncontrolled lagoon, pond, tank, 
+or pit, the avoided methane emissions will far outweigh the SOC impacts. Where manure is temporarily stored prior to 
+field application, the storage should occur under aerobic conditions in stocks or piles. For definitions of manure 
+storage and management systems, refer to Table 10.18 of Chapter 10 of the 2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories. 
+ 
+VM0042, v2.2 
+ 52 
+ 
+ 
+M_OAwp,I,t 
+= Mass of organic amendment applied as fertilizer in the project area 
+in year t, disaggregated by livestock type l for manure (tonnes) 
+CCwp,oa,t 
+= Carbon content of organic amendment applied as fertilizer in the 
+project area in year t, disaggregated by livestock type l for manure 
+(t C/t organic amendment) 
+0.12 
+= Fraction of manure (i.e., organic amendment) carbon expected to 
+remain in project area soils (unitless) 
+44/12 
+= Ratio of molecular weight of carbon dioxide to carbon 
+8.4.2 Accounting for Leakage from Livestock Displacement 
+CH4 and N2O emissions from livestock production are dependent on livestock population (see 
+Sections 8.2.6, 8.2.7, and 8.2.10). To avoid crediting reductions resulting from livestock 
+displacement (i.e., lowering of CH4 and N2O emissions within the project area relative to the 
+baseline by reducing the number of livestock within the project boundary), when a livestock 
+population decline occurs in the project scenario, project proponents must either:  
+a) use the livestock population in the baseline scenario to calculate with-project emissions 
+and quantify leakage from livestock displacement using VMD0054 Module for 
+Estimating Leakage from ARR Activities as per equation (36), OR;  
+b) demonstrate that the project scenario commodity production (e.g., meat, dairy, fiber) 
+did not decrease and that livestock was not displaced but slaughtered. In this case, the 
+project proponent must quantify emissions with project scenario livestock populations 
+and assume that no leakage from livestock displacement occurs (i.e., in equation (36), 
+LKdisp,t = 0).   
+Where livestock production declines in the project scenario relative to the baseline scenario, 
+projects must account for this foregone production as described in Section 8.4.3. 
+8.4.3 Accounting for Leakage from Production Declines 
+Project proponents must account for leakage from production declines in the initial years of a 
+project43 or due to changes in overall crop or livestock products produced. To do so, project 
+proponents must apply the most recent version of VMD0054 as modified by the following: 
+1) Throughout VMD0054, read “ALM” and “Agricultural Land Management” in place of 
+“ARR” and “Afforestation, Reforestation, and Revegetation”; and read “VM0042 Improved 
+Agricultural Management” in place of “VM0047 Afforestation, Reforestation, and 
+Revegetation.”  
+ 
+43 Initial implementation of improved ALM practices may lead to some declines in productivity as the producer adjusts 
+their operation. 
+ 
+VM0042, v2.2 
+ 53 
+ 
+ 
+2) Replace Equation (5) in VMD0054, v1.044 with the following equation to incorporate the 
+land sparing effect of adding new agricultural commodities. Read “production change” in 
+place of “foregone production” when defining parameter 𝑙 and throughout VMD0054, 
+revising its definition to remove “minimum value is zero.”  
+𝑙𝑗,𝑡= 𝐹𝑃𝑗,𝑡−𝐿𝑀𝑗,𝑡 
+(34) 
+3) Replace Equation (7) in VMD0054, v1.0 with the following equation to limit the area 
+generating leakage to only that which results in net land conversion (where AL is greater 
+than zero). This prevents calculating positive leakage in the event of net land sparing 
+from changes in agricultural commodity production. 
+𝐴𝐿𝑡= 𝑀𝐴𝑋 (∑𝐼𝑁𝐿𝑗,𝑡
+𝑇
+𝑗=1
+ , 0) 
+(35) 
+4) Use the outcome of Equation (10) from VMD0054, v1.0 to quantify annual leakage from 
+displaced production as follows: 
+𝐿𝐾𝑑𝑖𝑠𝑝,𝑡= 𝑀𝐴𝑋(0,𝐿𝐾𝑡−𝐿𝐾𝑝𝑟𝑖𝑜𝑟)
+𝑦𝑒𝑎𝑟𝑠
+ 
+(36) 
+Where: 
+LKdisp,t 
+= Leakage emissions from livestock displacement in year t (t CO2e) 
+LKt 
+= Cumulative leakage up to year t calculated using VMD0054 (t CO2e) 
+LKprior 
+= Cumulative leakage between y = 0 and the previous verification 
+event, calculated using VMD0054 (t CO2e) 
+years 
+= Duration of the verification period (years) 
+8.4.4 Accounting for Leakage from Diversion of Biomass Residues Used for Energy 
+Applications in the Baseline Scenario 
+Where manure or crop residue management is a component of the project activity, and the 
+manure or crop residues are diverted from energy applications (e.g., fuel for cookstoves or 
+biomass power generation) in the baseline scenario there is a risk of leakage. Implementation 
+of the project activity may force these competing energy applications to use inputs which are 
+not carbon neutral. Leakage emissions LEBR,Div,t must be determined following procedures in 
+the CDM’s TOOL16: Project and leakage emissions from biomass,45 Section 6,2 Leakage due to 
+diversion of biomass residues from other applications in year y.46 
+ 
+44 Or equivalent equation in a newer version of VMD0054 
+45 See Section “Leakage due to diversion of biomass residues from other applications” in the latest version of CDM 
+TOOL16.   
+46 For consistency with other parameters in Equation (38), the subscript t pertaining to “year” is used instead of y as in 
+the CDM tool. 
+ 
+VM0042, v2.2 
+ 54 
+ 
+ 
+8.5 
+Net Reductions and Removals 
+GHG emission reductions occur when: 
+1) Carbon stocks decrease from year t to year t + 1 in the baseline scenario and, to a 
+lesser extent, in the project scenario.47 The cumulative carbon stock change in the 
+project scenario is negative or zero (i.e., the project carbon stock at the end of the 
+verification period is less than or equal to the carbon stock at the project start date). 
+2) Carbon stocks decrease from year t to year t + 1 in the baseline scenario and, carbon 
+stocks increase in the project scenario. Note that this variation may also generate 
+carbon removals as described in paragraph (2) in introduction of equation 40, below.  
+3) CO2 emissions from fossil fuel combustion and liming are lower in the project than in 
+the baseline scenario. 
+4) CH4 emissions from the SOC pool (i.e., through soil methanogenesis), livestock enteric 
+fermentation, manure deposition, and biomass burning are lower in the project than in 
+the baseline scenario. 
+5) N2O emissions from nitrogen fertilizers and nitrogen-fixing species, manure deposition, 
+and biomass burning are lower in the project than in the baseline scenario. 
+GHG emission reductions before allocation of leakage emissions are quantified as: 
+𝐸𝑅𝑡=  𝐼(Δ𝐶𝑂2𝑤𝑝)
+× (Δ𝐶𝑂2_𝑓𝑓𝑡+ Δ𝐶𝑂2_𝑙𝑖𝑚𝑒𝑡+ ∆𝐶𝐻4_𝑒𝑛𝑡𝑡+ ∆𝐶𝐻4_𝑚𝑑𝑡
++ ∆𝐶𝐻4_𝑏𝑏𝑡+ (∆𝐶𝐻4_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝑡,𝐶𝐻4_𝑠𝑜𝑖𝑙)) 
++ (∆𝑁2𝑂_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝑡,𝑁2𝑂_𝑠𝑜𝑖𝑙)) + ∆𝑁2𝑂_𝑏𝑏𝑡
++ MIN(0, ∆𝐶𝑂2𝑤𝑝,𝑡) −MIN(0, ∆𝐶𝑂2𝑏𝑠𝑙,𝑡)) 
++ (1 −𝐼(Δ𝐶𝑂2𝑤𝑝)) × 
+(Δ𝐶𝑂2_𝑓𝑓𝑡+ Δ𝐶𝑂2_𝑙𝑖𝑚𝑒𝑡+ ∆𝐶𝐻4_𝑒𝑛𝑡𝑡+ ∆𝐶𝐻4_𝑚𝑑𝑡+ ∆𝐶𝐻4_𝑏𝑏𝑡
++ (∆𝐶𝐻4_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝑡,𝐶𝐻4_𝑠𝑜𝑖𝑙)) 
++ (∆𝑁2𝑂_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝑡,𝑁2𝑂_𝑠𝑜𝑖𝑙)) + ∆𝑁2𝑂_𝑏𝑏𝑡
++ MIN(0,∆𝐶𝑂2𝑤𝑝,𝑡) −MIN(0,∆𝐶𝑂2𝑏𝑠𝑙,𝑡)
++ MAX(0, ∆𝐶𝑂2𝑤𝑝,𝑡) −MAX(0,∆𝐶𝑂2𝑏𝑠𝑙,𝑡)) 
+ 
+(37) 
+ 
+47 In this case, the project activity would decelerate the decrease in carbon stocks over time, avoiding emissions in the 
+considered timeframe. 
+ 
+VM0042, v2.2 
+ 55 
+ 
+ 
+Where:  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑ Δ𝐶𝑂2𝑤𝑝,𝑡> 0
+𝑡
+1
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑ Δ𝐶𝑂2𝑤𝑝,𝑡≤0
+𝑡
+1
+ 
+I(ΔCO2wp) 
+= Switches on the first part of Equation (37) when the cumulative 
+carbon stock change in the project scenario is positive, and the 
+second part when the carbon stock change is negative 
+ERt 
+= Estimated reductions in year t (t CO2e) 
+ΔCO2_fft 
+= Total GHG emission reductions from fossil fuel combustion in year t 
+(t CO2e) 
+ΔCO2_limet 
+= Total carbon dioxide emission reductions from liming in year t 
+(t CO2e) 
+ΔCH4_entt 
+= Total methane emission reductions from livestock enteric 
+fermentation in year t (t CO2e) 
+ΔCH4_mdt 
+= Total methane emission reductions from manure deposition in year 
+t (t CO2e) 
+ΔCH4_bbt 
+= Total methane emission reductions from avoided or reduced 
+biomass burning in year t (t CO2e) 
+ΔCH4_soilt 
+= Total methane emission reductions from increasing uptake into the 
+SOC pool in year t (t CO2e) 
+UNCt,CH4_soil 
+= Uncertainty deduction in year t when using Quantification Approach 
+1 to model methane emission reductions from increasing uptake 
+into the SOC pool (fraction between 0 and 1) 
+ΔN20_soilt 
+= Total nitrous oxide emission reductions from 
+nitrification/denitrification in year t (t CO2e) 
+UNCt,N2O_soil 
+= Uncertainty deduction in year t when using Quantification Approach 
+1 to model nitrous oxide emission reductions from 
+nitrification/denitrification (fraction between 0 and 1) 
+ΔN2O_bbt 
+= Total nitrous oxide emission reductions from avoided or reduced 
+biomass burning in year t (t CO2e) 
+ΔCO2wp,t 
+= Total carbon stock change in the project scenario in year t (t CO2e) 
+ΔCO2bsl,t 
+= Total carbon stock change in the baseline scenario in year t (t CO2e) 
+ 
+Net GHG emission reductions are quantified as: 
+𝐸𝑅𝑁𝐸𝑇,𝑡= 𝐸𝑅𝑡−𝐿𝐾𝐸𝑅,𝑡 
+(38) 
+Where: 
+ERNET,t 
+= Estimated net GHG emission reductions in year t (t CO2e) 
+LKER,t 
+= Leakage allocated to GHG emission reductions in year t (t CO2e) 
+ 
+ 
+ 
+VM0042, v2.2 
+ 56 
+ 
+ 
+Leakage allocated to emission reductions (LKER,t) is calculated as:  
+𝐿𝐾𝐸𝑅,𝑡=  (𝐿𝐸𝑂𝐴,𝑡+ 𝐿𝐸𝐵𝑅,𝑡) × 
+𝐸𝑅𝑡
+𝐸𝑅𝑡+ 𝐶𝑅𝑡
+ 
+(39) 
+ 
+Where: 
+LEBR,t 
+= Leakage emissions from the diversion of manure or crop residues 
+from baseline energy applications in year t (t CO2e) 
+CRt 
+= Estimated carbon dioxide removals in year t (t CO2e) 
+ 
+Carbon dioxide removals occur when the cumulative carbon stock change in the project 
+scenario is positive (i.e., the project carbon stock is higher than at the project start date). Then, 
+possible annual stock variation includes:  
+1) Carbon stocks increase from year t to year t + 1 in the baseline scenario and, to a 
+greater extent, in the project scenario.48 
+2) Carbon stocks decrease from year t to year t + 1 in the baseline scenario and carbon 
+stocks increase from year t to year t + 1 in the project scenario.49   
+Carbon dioxide removals are quantified as: 
+𝐶𝑅𝑡= 𝐼(Δ𝐶𝑂2𝑤𝑝) × (MAX(0, ∆𝐶𝑂2𝑤𝑝,𝑡) −MAX(0,∆𝐶𝑂2𝑏𝑠𝑙,𝑡)) 
+(40) 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑ Δ𝐶𝑂2𝑤𝑝,𝑡> 0
+𝑡
+1
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑ Δ𝐶𝑂2𝑤𝑝,𝑡≤0
+𝑡
+1
+ 
+I(ΔCO2wp) 
+= Switches Equation (40) on when the cumulative carbon stock 
+change in the project scenario is positive, and off when the change 
+is negative 
+ 
+Net carbon dioxide removals are quantified as: 
+𝐶𝑅𝑁𝐸𝑇,𝑡= 𝐶𝑅𝑡−𝐿𝐾𝐶𝑅,𝑡 
+(41) 
+Where: 
+ 
+48 In this case, CO2 removals would occur in the baseline scenario and the project activity enhances removals in the 
+considered timeframe. 
+49 In this case, the project activity leads to avoiding emissions that would occur in the baseline scenario in the 
+considered timeframe, and increases carbon stocks beyond the level at the project start date, resulting in CO2 
+removals. 
+ 
+VM0042, v2.2 
+ 57 
+ 
+ 
+CRNET,t 
+= Estimated net carbon dioxide removals in year t (t CO2e) 
+LKCR,t 
+= Leakage allocated to carbon dioxide removals in year t (t CO2e) 
+ 
+Leakage allocated to carbon dioxide removals (LKCR,t) is calculated as:  
+𝐿𝐾𝐶𝑅,𝑡=  (𝐿𝐸𝑂𝐴,𝑡+ 𝐿𝐸𝐵𝑅,𝑡) × 
+𝐶𝑅𝑡
+𝐸𝑅𝑡+ 𝐶𝑅𝑡
+ 
+(42) 
+ 
+Net reductions and removals are quantified as: 
+𝐸𝑅𝑅𝑁𝐸𝑇,𝑡= 𝐸𝑅𝑁𝐸𝑇,𝑡+ 𝐶𝑅𝑁𝐸𝑇,𝑡 
+(43) 
+Where: 
+ERRNET,t 
+= Estimated net reductions and removals in year t (t CO2e) 
+ 
+In the following subsections, reductions are calculated by subtracting project (subscript wp) 
+from baseline (subscript bsl) emissions, as the emissions are expected to be lower in the 
+project than in the baseline scenario. On the contrary, removals are calculated by subtracting 
+baseline C stocks from project C stocks, as C stocks are expected to be higher in the project 
+than in the baseline scenario. 
+8.5.1 Carbon Stock Changes 
+Total carbon stock change in the baseline scenario in year t is quantified as: 
+∆𝐶𝑂2𝑏𝑠𝑙,𝑡= ∆𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡× (1 − 𝑈𝑁𝐶𝑡,𝐶𝑂2 × 𝐼(Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑡)) + ∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑡
++ ∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑡 
+(44) 
+ 
+𝐼(Δ𝐶𝑂2_𝑠𝑜𝑖𝑙_𝑡) = +1 if   Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡− Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡≥0 and;  
+𝐼(Δ𝐶𝑂2_𝑠𝑜𝑖𝑙_𝑡) = −1 if  Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡− Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡< 0 
+Where: 
+ΔCO2_soilbsl,t 
+= SOC stock change in the baseline scenario in year t (t CO2e) 
+UNCt,CO2 
+= Uncertainty deduction in year t associated with modeling or 
+measuring SOC stock changes (fraction between 0 and 1) 
+𝐼(Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑡) 
+= Changes the sign of the Uncertainty 𝑈𝑁𝐶𝑡,𝐶𝑂2 from positive to 
+negative when the SOC stock change between project and 
+baseline scenario is negative (see note below) ensuring a 
+conservative application of uncertainty when SOC losses result in 
+emissions instead of removals.  
+ 
+VM0042, v2.2 
+ 58 
+ 
+ 
+ΔCTREE,bsl,t 
+= Carbon stock change in tree biomass in the baseline scenario in 
+year t (t CO2e) 
+ΔCSHRUB,bsl,t 
+= Carbon stock change in shrub biomass in the baseline scenario in 
+year t (t CO2e) 
+Note – When the SOC stocks in the project scenario decrease more rapidly or increase less 
+rapidly than in the baseline scenario, the application of the I(ΔCO2_soilt) function ensures that 
+the uncertainty deduction multiplier is a value >1 adding up the SOC losses. In the more usual 
+case where SOC stock increases in the project scenario are higher than in the baseline 
+scenario, the uncertainty deduction multiplier remains a value between 0 and 1 resulting in a 
+deduction.  
+Total carbon stock change in the project scenario in year t is quantified as: 
+∆𝐶𝑂2𝑤𝑝,𝑡= ∆𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡× (1 − 𝑈𝑁𝐶𝑡,𝐶𝑂2 × 𝐼(Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑡)) + ∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑡
++ ∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑡 
+(45) 
+𝐼(Δ𝐶𝑂2𝑠𝑜𝑖𝑙𝑡) = 1 if   Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡− Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡≥0 and;  
+𝐼(Δ𝐶𝑂2𝑠𝑜𝑖𝑙𝑡) = −1 if  Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡− Δ𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡< 0 
+Where: 
+ΔCO2_soilwp,t 
+= SOC stock change in the project scenario in year t (t CO2e) 
+ΔCTREE,wp,t 
+= Carbon stock change in tree biomass in the project scenario in 
+year t (t CO2e) 
+ΔCSHRUB,wp,t 
+= Carbon stock change in shrub biomass in the project scenario in 
+year t (t CO2e) 
+Quantification unit SOC stock change in the baseline scenario in year t is quantified as: 
+∆𝐶𝑂2_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑡= ∑((𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅ −𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡−𝑥
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 1
+𝑥 ) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(46) 
+ 
+Where: 
+𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon stocks in the SOC pool in the baseline scenario 
+for quantification unit i at the end of year t (t CO2e/ha) 
+𝑆𝑂𝐶𝑏𝑠𝑙,𝑖,𝑡−𝑥
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon stocks in the SOC pool in the baseline scenario 
+for quantification unit i at the end of year t − x (t CO2e/ha) 
+x 
+= Length of the verification period (years) 
+Ai 
+= Area of quantification unit i (ha) 
+Quantification unit SOC stock change in the project scenario in year t is quantified as: 
+ 
+VM0042, v2.2 
+ 59 
+ 
+ 
+∆𝐶𝑂2_𝑠𝑜𝑖𝑙𝑤𝑝,𝑡= ∑( (𝑆𝐶𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅ −𝑆𝑂𝐶𝑤𝑝,𝑖,𝑡−𝑥
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 1
+𝑥 ) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(47) 
+Where: 
+𝑆𝑂𝐶𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon stocks in the SOC pool in the project scenario 
+for quantification unit i at the end of year t (t CO2e/ha) 
+𝑆𝑂𝐶𝑤𝑝,𝑖,𝑡−𝑥
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon stocks in the SOC pool in the project scenario 
+for quantification unit i at the end of year t − x (t CO2e/ha) 
+Note - SOC stock changes must be converted to t CO2e using the factor 44/12 (ratio of 
+molecular weight of carbon dioxide to carbon).  
+For Quantification Approach 2, SOC stock changes for quantification unit i in year t are 
+compared to the estimated SOC stock change in baseline control sites. The mean SOC stock 
+per hectare of each “project site–baseline control site” combination should be used. Where 
+measurements are conducted less frequently than every year, results must be divided by the 
+number of years to calculate an annual SOC stock change. 
+Tree biomass carbon stock change in the baseline scenario in year t is quantified as:  
+∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑡= ∑(∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑖,𝑡−∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑖,𝑡−𝑥) × 1
+𝑥 × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(48) 
+Where:  
+∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean baseline carbon stock change in tree biomass for 
+quantification unit i in year t (t CO2e/ha) 
+∆𝐶𝑇𝑅𝐸𝐸,𝑏𝑠𝑙,𝑖,𝑡−𝑥 
+= Areal mean baseline carbon stock change in tree biomass for 
+quantification unit i in year t − x (t CO2e/ha) 
+ 
+Tree biomass carbon stock change in the project scenario in year t is quantified as: 
+∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑡= ∑(∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑖,𝑡−∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑖,𝑡−𝑥) × 1
+𝑥× 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(49) 
+Where:  
+∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑖,𝑡 
+= Areal mean project scenario carbon stock change in tree biomass 
+for quantification unit i in year t (t CO2e/ha) 
+∆𝐶𝑇𝑅𝐸𝐸,𝑤𝑝,𝑖,𝑡−𝑥 
+= Areal mean project scenario carbon stock change in tree biomass 
+for quantification unit i in year t − x (t CO2e/ha) 
+ 
+Shrub biomass carbon stock change in the baseline scenario is quantified as: 
+ 
+VM0042, v2.2 
+ 60 
+ 
+ 
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑡= ∑(∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑖,𝑡−∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑖,𝑡−𝑥) × 1
+𝑥× 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(50) 
+Where:  
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean baseline carbon stock change in shrub biomass for 
+quantification unit i in year t (t CO2e/ha) 
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑏𝑠𝑙,𝑖,𝑡−𝑥 
+= Areal mean baseline carbon stock change in shrub biomass for 
+quantification unit i in year t − x (t CO2e/ha) 
+ 
+Shrub biomass carbon stock change in the project scenario is quantified as: 
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑡= ∑(∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑖,𝑡−∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑖,𝑡−𝑥) × 1
+𝑥× 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(51) 
+Where:  
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑖,𝑡 
+= Areal mean project scenario carbon stock change in shrub 
+biomass for quantification unit i in year t (t CO2e/ha) 
+∆𝐶𝑆𝐻𝑅𝑈𝐵,𝑤𝑝,𝑖,𝑡−𝑥 
+= Areal mean project scenario carbon stock change in shrub 
+biomass for quantification unit i in year t − x (t CO2e/ha) 
+ 
+8.5.2 Fossil Fuel Combustion Emission Reductions (ΔCO2_fft) 
+GHG emission reductions from fossil fuel combustion are quantified as: 
+∆𝐶𝑂2_𝑓𝑓𝑡= ∑
+(𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝐶𝑂2_𝑓𝑓𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+  
+(52) 
+Where: 
+𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean GHG emissions from fossil fuel combustion in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+𝐶𝑂2_𝑓𝑓𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean GHG emissions from fossil fuel combustion in the 
+project scenario for quantification unit i in year t (t CO2e/ha) 
+ 
+8.5.3 Liming Emission Reductions (ΔCO2_limet) 
+GHG emission reductions from liming are quantified as: 
+Δ𝐶𝑂2_𝑙𝑖𝑚𝑒𝑡= ∑(𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡−𝐶𝑂2_𝑙𝑖𝑚𝑒𝑤𝑝,𝑖,𝑡) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(53) 
+Where: 
+ 
+VM0042, v2.2 
+ 61 
+ 
+ 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean GHG emissions from liming in the baseline scenario 
+for quantification unit i in year t (t CO2e/ha) 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean GHG emissions from liming in the project scenario for 
+quantification unit i in year t (t CO2e/ha) 
+8.5.4 Methane Emission Reductions (ΔCH4t) 
+Methane emission reductions from the SOC pool are quantified as: 
+∆𝐶𝐻4_𝑠𝑜𝑖𝑙𝑡= ∑
+(𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ − 𝐶𝐻4_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+  
+(54) 
+Where: 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from SOC pool in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from SOC pool in the project scenario 
+for quantification unit i in year t (t CO2e/ha) 
+Methane emission reductions from livestock enteric fermentation are quantified as: 
+∆𝐶𝐻4_𝑒𝑛𝑡𝑡= ∑(𝐶𝐻4_𝑒𝑛𝑡𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝐶𝐻4_𝑒𝑛𝑡𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(55) 
+Where: 
+𝐶𝐻4_𝑒𝑛𝑡𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from livestock enteric fermentation in 
+the baseline scenario for quantification unit i in year t (t CO2e/ha) 
+𝐶𝐻4_𝑒𝑛𝑡𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from livestock enteric fermentation in 
+the project scenario for quantification unit i in year t (t CO2e/ha) 
+Methane emission reductions from manure deposition are quantified as: 
+∆𝐶𝐻4_𝑚𝑑𝑡= ∑(𝐶𝐻4_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝐶𝐻4_𝑚𝑑𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(56) 
+Where: 
+𝐶𝐻4_𝑚𝑑𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from manure deposition in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+𝐶𝐻4_𝑚𝑑𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from manure deposition in the project 
+scenario for quantification unit i in year t (t CO2e/ha) 
+Methane emission reductions from avoided or reduced biomass burning are quantified as: 
+∆𝐶𝐻4_𝑏𝑏𝑡= ∑(𝐶𝐻4_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝐶𝐻4_𝑏𝑏𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(57) 
+ 
+VM0042, v2.2 
+ 62 
+ 
+ 
+Where: 
+𝐶𝐻4_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from biomass burning in the baseline 
+scenario for quantification unit i in year t (t CO2e/ha) 
+𝐶𝐻4_𝑏𝑏𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from biomass burning in the project 
+scenario for quantification unit i in year t (t CO2e/ha) 
+8.5.5 Nitrous Oxide Emission Reductions (ΔN2Ot) 
+Nitrous oxide emission reductions from nitrification/denitrification are quantified as: 
+∆𝑁2𝑂_𝑠𝑜𝑖𝑙𝑡= ∑(𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝑁2𝑂_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+  
+(58) 
+Where: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean nitrous oxide emissions from nitrogen inputs to soils in the 
+baseline scenario for quantification unit i in year t (t CO2e/ha) 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean nitrous oxide emissions from nitrogen inputs to soils in the 
+project scenario for quantification unit i in year t (t CO2e/ha) 
+Nitrous oxide emission reductions from biomass burning are quantified as: 
+∆𝑁2𝑂_𝑏𝑏𝑡= ∑(𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ −𝑁2𝑂_𝑏𝑏𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(59) 
+Where: 
+𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Nitrous oxide emissions from biomass burning in the baseline scenario 
+for quantification unit i in year t (t CO2e/ha) 
+𝑁2𝑂_𝑏𝑏𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Nitrous oxide emissions from biomass burning in the project scenario for 
+quantification unit i in year t (t CO2e/ha) 
+8.6 
+Uncertainty 
+Uncertainty deductions are estimated separately for each GHG source within a project. 
+Deductions are based on an estimate of the total error of the project’s calculated reductions 
+and removals for that source over a given verification period. Key sources of uncertainty that 
+contribute to this error differ for each quantification approach. This section details these 
+sources of error and methods to estimate such errors for use in an uncertainty assessment and 
+calculation of the required uncertainty deduction.  
+Uncertainty guidance provided here assumes that all soil sampling/analysis and modeling 
+occurs on a point basis. In other words, the model is run in a manner to represent a single point 
+in space at which initial soil data and management data have been collected, and uncertainty 
+is calculated by combining estimates of sampling, modeling, and measurement error based on 
+ 
+VM0042, v2.2 
+ 63 
+ 
+ 
+the design chosen to select the points. Alternative approaches (e.g., modeling on an areal 
+basis) are considered a deviation and project proponents must demonstrate that such 
+approaches will not negatively impact the conservativeness of reduction and removal estimates 
+per the most recent version of the VCS Standard.50  
+Across quantification approaches, a key source of error is sampling error, which emerges from 
+only being able to measure/model a portion of the total project area. Appropriate estimates of 
+this source of error are specific to the sample design employed. Per Section 8.2.1, this 
+methodology requires that stratified random sampling is used. Strata should be based on 
+physical and management factors that minimize within-strata variability. Individual sample 
+points are allocated randomly within those strata on a proportional basis by area. 
+The remainder of this section is based on a simplified example of a stratified random sampling 
+design in which the entire project is divided into strata and points within those strata are 
+placed using simple random sampling with replacement. Examples of additional uncertainty 
+calculations using a multi-stage design potentially applicable in grouped project scenarios are 
+available in Appendix 6. Equations here and in Appendix 6 are provided as examples for 
+possible sample designs expected to be used in projects developed under this methodology. 
+Where a project proponent elects to use an alternative design via a methodology deviation, they 
+must provide a similar demonstration of uncertainty calculations that consider the same 
+sources of error identified here and that are appropriate to the chosen design.  
+8.6.1 Quantification Approach 1 
+Quantification Approach 1 is a measure and model approach in which a biogeochemical model 
+is used to simulate changes in SOC stocks and GHG fluxes over a given time period in both the 
+project and baseline scenarios. Initial measures of SOC are taken at the project start51 for use 
+within the model. SOC is periodically remeasured throughout the project period to true-up 
+modeled estimates of SOC stock changes. Key sources of error accounted for under 
+Quantification Approach 1 include: 
+• 
+Model prediction error resulting from uncertainty in model parameters or model 
+structural errors (i.e., inaccurate representation of actual biogeochemical processes). 
+Model prediction error is calculated using independent statistical validation datasets 
+per the processes outlined in VMD0053. Alternatively, project proponents may account 
+for model prediction error by calibrating models to include parameter uncertainty (e.g., 
+a Bayesian implementation of the model) and using the Monte Carlo (MC) simulation or 
+error propagation approach detailed below.  
+ 
+50 Section 3.20 in the VCS Standard, v4.7. 
+51 Initial measurements of SOC may be conducted at t = 0 or (back-) modeled to t = 0 from measurements collected 
+within ±5 years of t = 0. 
+ 
+VM0042, v2.2 
+ 64 
+ 
+ 
+• 
+Sampling error resulting from measuring/modeling only a portion of the project area. 
+Estimates of sampling error are contingent on the sampling design employed by the 
+project proponent.  
+• 
+Measurement error of model inputs (see Table 6), including initial SOC content, bulk 
+density, soil texture, and management data, where applicable. In many cases, the 
+impact of these measurement errors on the error of estimated reductions and removals 
+is assumed to be captured in model prediction error and/or sampling error (see Section 
+8.6.1.2.2 for additional details). Where alternative approaches for measuring SOC 
+content, such as soil spectroscopy techniques, are used, procedures for estimating 
+measurement error of these techniques as outlined in Appendix 6 must be followed. In 
+this case, MC simulation is required unless it is demonstrated that such errors have a 
+de minimis effect on model estimates of reductions and removals.  
+For each carbon pool or GHG flux, these sources of error are estimated separately and then 
+combined to estimate a single uncertainty deduction for that carbon pool or GHG flux across 
+the entire project. Two approaches are eligible to estimate the uncertainty:  
+1) Analytical calculation of error propagation; or 
+2) Monte Carlo (MC) simulation. 
+8.6.1.1 Analytical Calculation of Error Propagation 
+In this approach, the various sources of error outlined above are independently estimated for 
+each GHG source or carbon pool • that results in a reduction or removal (e.g., SOC, N2O). The 
+estimated errors are then combined to provide an estimate of the total variance of the areal 
+mean emission reductions and removals across the project for each source in each verification 
+period (𝑠Δ•
+̅̅̅̅,𝑡
+2
+). This is used to determine an appropriate uncertainty deduction.  
+8.6.1.1.1 
+Model Prediction Error 
+Model prediction error includes model structural error (i.e., parameter uncertainty) and any 
+errors related to model data inputs (e.g., inaccuracy of source for soil texture data), which result 
+in incorrect estimation of a flux or change in stock in either the project or baseline scenarios or 
+both. Model prediction error is quantified by using a statistical validation dataset that includes 
+ground-truth measurements of stock changes or fluxes for the baseline and project scenario 
+practices. Differences between these ground-truth measurements and model simulations of the 
+same locations/practices are calculated, and assuming the model is unbiased, model 
+prediction error is captured by the variance of these errors.  
+The ideal statistical validation dataset would come from controlled experimental field trials in 
+which practices that simulate a project scenario are used in one part of the field and practices 
+that simulate a baseline scenario are used in another part of the same field. Then, errors of the 
+project minus baseline emissions of a certain gas or pool, Δ•, are computed directly at each 
+site i using 𝑒𝑟𝑟𝑜𝑟∆·,𝑖= ∆•
+̂ 𝑖− ∆•𝑖. The model uncertainty is estimated as the variance of 
+error∆•, across all sites in the statistical validation dataset. Statistical validation data come 
+ 
+VM0042, v2.2 
+ 65 
+ 
+ 
+from experiments that range in duration from a few years to many decades, and model 
+prediction error at each point is derived from simulations that match the durations of those 
+experiments. This means that these errors necessarily represent the accumulated model error 
+over varying time intervals. When estimating model prediction error for verification, model error 
+from a single verification period – which may range from one to five years – is required and is 
+likely to be smaller than the raw mean squared statistical validation error.  
+For verification periods shorter than the median length of experiments in the statistical 
+validation dataset, a single mixed-duration estimate of model prediction error is conservative 
+and acceptable to use at verification. For example, where a model is validated against a 
+dataset containing experiments with lengths of 2, 2, 3, 5, 9, and 48 years, the error from this 
+statistical validation dataset may be applied to any simulation of length four years (the median 
+length of experiments in the dataset) or shorter. 
+Where insufficient data are available to use the approach described above, quantification of 
+model error may be split into two separate tasks:  
+1) Model predictions and ground truth measurements may be used to estimate typical 
+errors of the prediction of reductions and removals in one scenario (e.g., just the 
+project scenario), and  
+2) The correlation of errors between project and baseline scenarios may be estimated 
+from a more limited number of side-by-side field trials such as those described above.  
+Assuming that the variance of the model prediction is the same in the project and baseline 
+scenarios (i.e., 𝑠𝑚𝑜𝑑𝑒𝑙,•,𝑤𝑝
+2
+ = 𝑠𝑚𝑜𝑑𝑒𝑙,•,𝑏𝑠𝑙
+2
+ which is denoted by 𝑠𝑚𝑜𝑑𝑒𝑙,•
+2
+), then: 
+ 
+𝑠𝑚𝑜𝑑𝑒𝑙,Δ•
+2
+= 𝑠2 (∆•
+̂ 𝑏𝑠𝑙− ∆•
+̂  𝑝𝑟) = 2[𝑠𝑚𝑜𝑑𝑒𝑙,•
+2
+−𝑐𝑜𝑣(∆•
+̂  𝑤𝑝,∆•
+̂  𝑏𝑠𝑙)] 
+(60) 
+Where:  
+𝑠𝑚𝑜𝑑𝑒𝑙,Δ•
+2
+ 
+= Variance of modeled estimates of emission reductions in gas or pool • 
+(t CO2e/ha)2 
+∆•
+̂ 𝑏𝑠𝑙 
+= Modeled estimate of change in emission reductions in gas or pool • in 
+the baseline scenario (t CO2e) 
+∆•
+̂ 𝑤𝑝 
+= Modeled estimate of change in emission reductions in gas or pool • in 
+the project scenario (t CO2e) 
+𝑠𝑚𝑜𝑑𝑒𝑙,•
+2
+ 
+= Estimated variance of errors made by model prediction of emissions in 
+gas or pool • (estimated from measurements in fields that need not be 
+side-by-side trials with baseline and project scenarios) (t CO2e/ha)2 
+By writing 𝑐𝑜𝑣(∆•
+̂  𝑤𝑝,∆•
+̂  𝑏𝑠𝑙) in terms of a correlation coefficient: 
+ 
+VM0042, v2.2 
+ 66 
+ 
+ 
+𝜌= 
+𝑐𝑜𝑣(∆•
+̂  𝑤𝑝, ∆•
+̂  𝑏𝑠𝑙) 
+√(𝑠𝑚𝑜𝑑𝑒𝑙,• 𝑤𝑝
+2
+)(𝑠𝑚𝑜𝑑𝑒𝑙,• 𝑏𝑠𝑙
+2
+)
+ 
+(61) 
+Then: 
+𝑠𝑚𝑜𝑑𝑒𝑙,Δ•
+2
+=  2 𝑠𝑚𝑜𝑑𝑒𝑙,•
+2
+ (1 −𝜌) 
+Where:  
+ρ 
+= Correlation of errors in project and baseline scenario pairs (estimated 
+from side-by-side field trials of baseline and project scenarios) 
+Note – see parameter tables in Section 9.2 for derivation of ∆̅•,𝑡 and •̅𝑡 
+Because side-by-side trials are rare, ρ is estimated from fewer data points than 𝑠𝑚𝑜𝑑𝑒𝑙,•
+2
+. In the 
+initial stages of a project, it is expected that the datasets used to estimate model prediction 
+error will be from peer-reviewed publications or readily available benchmark datasets that meet 
+the requirements outlined in Section 5.2.3 of VMD0053. As the project proceeds and SOC 
+stocks in the project scenario are periodically remeasured, data from true-up sampling should 
+be added to the model calibration/validation dataset to update the estimate of model 
+prediction error for the SOC pool (see Section 8.6.1.3 for additional details). An updated model 
+validation report (MVR) must be re-submitted for assessment by an independent modeling 
+expert. For other GHG fluxes that are modeled under Quantification Approach 1 (e.g., N2O, CH4), 
+model prediction error should continue to be based on the use of statistical validation datasets 
+but may be updated as new datasets become available that match the criteria outlined in 
+VMD0053.  
+Within a project, it is possible that different model prediction errors may be applicable to 
+different portions of the project area. For example, a project may include areas where a cover 
+crop is being implemented, and others where reduced tillage is being implemented, 
+representing two different project scenarios for which model prediction error may differ. 
+Similarly, a project may span a geographic area with varied climate and/or soil types across 
+which model prediction error may differ. In such cases, different model prediction error terms 
+most appropriate to a given quantification unit should be selected, and an aggregate estimate 
+of model prediction error across the entire project must be determined using an estimator 
+appropriate to the design.  
+8.6.1.1.2 
+Model Input and Measurement Error 
+The ALM data used as model inputs may be an important source of error where details of such 
+activities are not well known. However, as projects are expected to follow the data collection 
+procedures outlined in Box 1 to determine ALM activities across the entire project area, this 
+source of error is assumed to be sufficiently minor. Similarly, uncertainty related to estimation 
+of area is considered to be negligible provided that GIS boundaries of the project area are 
+ 
+VM0042, v2.2 
+ 67 
+ 
+ 
+accurately delineated and that the necessary QA/QC procedures to remove irrelevant features 
+(e.g., streams, pavement, areas not under improved management) outlined in the parameter 
+table for Ai are followed.  
+Measurement error of physical properties (e.g., precipitation, soil texture) used as model inputs 
+may also be a source of error, although this has generally been found to be less significant than 
+model structural error (Ogle et al., 2010; Peltoniemi et al., 2006). Provided that measurement 
+errors in model inputs translate to measurement errors in model predictions that are 
+uncorrelated across sample points, these errors are automatically captured by the estimate of 
+sample error discussed below.52 Similarly, for inputs such as precipitation, which are the same 
+across baseline and project scenarios and for which estimates are retrieved for a given point 
+from the same data source (e.g., GIS data products, digital soil maps), the influence of such 
+measurement error on estimates of reductions and removals is captured in the estimate of 
+model prediction error generated through model calibration/validation procedures. These 
+procedures are described in the preceding section and in VMD0053. Remeasurement and true-
+up provide additional opportunities to refine these error estimates.   
+Where soil spectroscopy tools are used in place of conventional analytical techniques to 
+determine SOC content at sampling points, it must not be assumed that measurement error 
+from such methods is automatically captured in the estimate of model prediction error or that 
+the impact of such errors is negligible. Soil spectroscopy methods may have high measurement 
+error under different circumstances and may be biased (i.e., error differs depending on the 
+carbon content of the sample under consideration and the coverage of datasets used to 
+calibrate/validate the soil spectroscopy model). Biogeochemical models are sensitive to initial 
+starting SOC content, meaning error in estimates will have a non-linear impact on model 
+simulations of both the baseline and project scenarios. Therefore, where soil spectroscopy is 
+used to determine SOC content data for use as an input to biogeochemical models, the MC 
+simulation approach must be used, unless project proponents demonstrate that measurement 
+error from the tool used is unbiased and has a de minimis impact on model simulations. 
+Where uncertainty of ALM data or measurement error of other input data types is considered to 
+have an impact on modeled estimates of reductions and removals despite use of best practices 
+in data collection, the MC simulation method for error propagation should be used.   
+8.6.1.1.3 
+Sampling Error  
+Sampling error derives from only measuring or modeling a subset of the entire project area, 
+resulting in a potentially inaccurate estimate of the true variance of a GHG flux or carbon stock 
+change. Sampling error is determined by calculating the approximate standard error of GHG 
+fluxes or carbon stock changes as simulated by the model for a given verification period. The 
+uncertainty estimator used must be based on the sampling design employed. All examples 
+provided here assume that the default approach of measuring/modeling on a point basis is 
+ 
+52 See, for example, Cochran (1977, p. 382); de Gruijter et al. (2006, p. 82); Som (1995, p. 438) 
+ 
+VM0042, v2.2 
+ 68 
+ 
+ 
+employed. Where alternative approaches are proposed via a methodology deviation, project 
+proponents must provide evidence that the design is unbiased and must document use of the 
+correct uncertainty estimator to capture sampling error (see also Section 8.2.1).  
+This section is based on a stratified random sampling design in which the entire project is 
+divided into strata and points are randomly allocated (with replacement) within the strata. Soil 
+samples are collected at these points and the model is run. Formulae for uncertainty 
+estimators are drawn from Som (1995, Ch. 10). Additional examples are provided in Appendix 
+6. As stated in Section 8.2.1.2, project-specific strata, their area, and the sampling points 
+within strata must be reported in a spreadsheet and submitted as an annex to project 
+documentation at every verification. This information feeds into Equation (62) for the 
+parameters stratum identifier (h), area of stratum (Ah), and sample point identifier (ip).  
+ 
+𝑠s𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+= ∑ 𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,ℎ,𝑡
+2
+𝐻
+ℎ=1
+ 
+(62) 
+Where:  
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,ℎ,𝑡
+2
+= 
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(∆•ℎ,𝑖𝑝,𝑡− ∆•ℎ,𝑡
+̅̅̅̅̅̅̅)
+2
+𝑛ℎ
+𝑖𝑝=1
+ 
+and: 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+ 
+= Variance of reductions and removals in gas or pool • due to 
+sampling error at time t across the entire project area (t CO2e)2 
+𝑠s𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,ℎ,𝑡
+2
+ 
+= Variance of reductions and removals in gas or pool • within stratum 
+h due to sampling error at time t (t CO2e)2 
+Δ • ℎ,𝑡
+̅̅̅̅̅̅̅ 
+= Areal mean reductions and removals in gas or pool • in stratum h 
+at time t, computed as the mean across the sample points in 
+stratum h (t CO2e/ha) 
+∆•ℎ,𝑖𝑝,𝑡 
+= Estimated reductions and removals of gas or pool • on an area 
+basis in year t in stratum h at point ip (t CO2e/ha) 
+h 
+= 1, …, H strata across the entire project area 
+ip 
+= 1, …, nh sample points within stratum h 
+Ah 
+= Area of stratum h 
+ 
+8.6.1.1.4 
+Combined Sample and Model Error 
+To incorporate model errors, assume that they are uncorrelated with the input data in the 
+sample and are independent across samples. Then, the variance of Δ •𝑡
+̅̅̅̅̅ incorporating sample 
+uncertainty and model prediction uncertainty is estimated by combining the variance estimates 
+of both error sources divided by the square of the total project area (Cochran, 1977 Eq. 13.39; 
+Som, 1995 Eq. 25.10). Note that only the estimate of sampling error is divided by the square of 
+ 
+VM0042, v2.2 
+ 69 
+ 
+ 
+the project area in this example as it is presumed that model prediction error has already been 
+determined on an area basis per Equations (60)–(61). 
+𝑠Δ•
+̅̅̅̅,𝑡
+2
+=
+𝑠s𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+ 
+𝐴2
++ 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ 
+(63) 
+Where: 
+𝑠Δ•
+̅̅̅̅,𝑡
+2
+ 
+= Variance of the estimate of mean reductions and removals from gas 
+or pool • at time t (t CO2e/ha)2 
+ 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ 
+= Variance of the estimate of reductions and removals in gas or pool 
+• due to model prediction error (t CO2e/ha)2 
+A 
+= Total project area 
+Lastly, 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ is an estimate of average variance of model prediction errors across the project 
+and is estimated using an estimator appropriate to the project sampling design. In this 
+example, it is assumed that the model prediction error value for each stratum is selected based 
+on the specific project and baseline scenarios being implemented in that stratum and as such 
+𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ is estimated using an area-weighted uncertainty estimator. 
+𝑠𝑚𝑜𝑑𝑒𝑙
+2
+= ∑𝐴ℎ
+2
+𝐴2 𝑠𝑚𝑜𝑑𝑒𝑙,ℎ
+2
+𝐻
+ℎ=1
+ 
+(64) 
+ 
+8.6.1.2 Monte Carlo Simulation 
+In addition to the analytical error propagation method detailed in Section 8.6.1.1, a Monte Carlo 
+(MC) simulation method may be used for uncertainty estimation. MC simulation methods are 
+commonly used in Bayesian analyses, which have gained popularity as a framework for 
+estimating uncertainty of outputs from process-based biogeochemical models of soils and 
+agroecosystems and estimating the uncertainty of biogeochemical model predictions (Gurung 
+et al., 2020; Kennedy & O’Hagan, 2001). MC simulation methods are suitable for nonlinear, 
+deterministic, process-based biogeochemical models (e.g., DayCent, DNDC). Unlike the 
+analytical error propagation method, the MC method more easily addresses key dependencies 
+in underlying data (such as correlation between model parameters) and asymmetric error 
+distributions (such as non-negative or highly skewed distributions). The MC method is used in 
+the USDA’s approach for estimating emissions at the farm scale (Eve et al., 2014) and in the US 
+National GHG Inventory (US EPA, 2021). The approach is also described in peer-reviewed 
+literature (Gurung et al., 2020; Ogle et al., 2007, 2010).  
+For each sample point, a set of L random samples (total number of MC simulations) is drawn 
+from a posterior predictive distribution (PPD) produced by the model. Within each quantification 
+unit, the total set of PPDs across all points are then aggregated to determine the areal mean 
+ 
+VM0042, v2.2 
+ 70 
+ 
+ 
+unbiased estimator of the reduction and removal estimates being evaluated and the 
+uncertainty of those estimates. Random samples may also be taken from probability 
+distribution functions of model input data, particularly where those inputs have measurement 
+error that is not accounted for in the model validation process. 
+To generate a PPD, Bayesian calibration methods must be used to estimate model parameters 
+as probability distribution functions (as opposed to single values). To ensure parity with the 
+analytical error propagation method detailed in Section 8.6.1.1, these probability distribution 
+functions of model parameters must be determined per the model calibration/validation 
+guidance in VMD0053 using external datasets representative of the project area and activities 
+or, in the case of SOC, using remeasured project SOC stocks (see Section 8.6.1.3). In other 
+words, the likelihood function from which the PPD is sampled must be based on the same 
+dataset against which the model is statistically validated. Steps to calibrate and validate a 
+model for use with the MC uncertainty propagation method must be documented in a model 
+validation report following the guidance in VMD0053. 
+Since many biogeochemical models include dozens of parameters, not all parameters are 
+expected to be calibrated as probability distribution functions. Instead, a more limited number 
+of parameters may be used for MC simulation, for instance identified through sensitivity 
+analysis. In the simplest implementation, a single parameter representing residual model 
+prediction error may be used. In such cases, MC simulation is implemented using a “meta-
+model” that represents uncertainty in the chosen set of parameters but does not necessarily 
+require direct modification of model source code. Kennedy and O’Hagan (2001) provide 
+additional detail on relevant calibration methods and Gurung et al. (2020) provide an example 
+of such methods being specifically implemented for a soil biogeochemical model. Gelman et al. 
+(2014) is a useful reference on Bayesian statistical methods and provides additional detail on 
+definitions of PPDs and valid methods to generate them.  
+The notation in this section is different than in previous sections, aligning with notation 
+commonly used in Bayesian statistics. Key differences include:  
+• 
+The observed outcome of interest (i.e., reductions and removals) is denoted as y, which 
+is commonly used in statistics to denote outcomes. 
+• 
+MC draws of model-predicted reductions and removals are denoted as 𝑦̃. The tilde 
+serves as a reminder that 𝑦̃ is a model prediction drawn from a PPD (following standard 
+notation in Gelman et al., 2014; Hoff, 2009) due to the use of Bayesian calibration 
+(Kennedy & O’Hagan, 2001).  
+• 
+Total reductions and removals and areal mean reductions and removals are denoted as 
+𝜏 and 𝜇, respectively, in keeping with Thompson (2012). The use of lowercase Greek 
+letters is also a reminder that the estimand of interest (true total and areal mean 
+reductions and removals) cannot be directly observed due to measurement error. 
+• 
+The notation in this section suppresses notation for verification period t for convenience 
+and to avoid confusion with the Greek character 𝜏 (total reductions and removals) 
+which is used throughout.  
+ 
+VM0042, v2.2 
+ 71 
+ 
+ 
+• 
+Var is used in place of s2 in multiple locations to signify variance to more easily match 
+Equation (68), which describes how variance is broken down into sampling and 
+modeling error.  
+8.6.1.2.1 Combined Sample and Model Error 
+For a particular time period and GHG emission source, the estimand, or target parameter of 
+interest, is the true total reductions and removals across the entire project, denoted as 𝜏, in 
+tonnes of carbon dioxide equivalent (t CO2e). The estimate of 𝜏 produced through MC 
+simulation is denoted by 𝜏 . Similarly, the areal mean reductions and removals is denoted by 𝜇 
+(equivalent to ∆•𝑡) in t CO2e/ha. Estimates of 𝜇 are denoted as 𝜇 . Since model prediction error 
+is implicitly incorporated into the MC simulations through parameter uncertainty, these 
+estimates may then be used to estimate sampling and model prediction error based on the 
+realized sample s and the sampling design employed. Here, an example of this process is 
+provided, using the same stratified random sample design demonstrated in Section 8.6.1. 
+Additional examples are provided in Appendix 6.  
+First, to generate an estimate (𝜏 ) of 𝜏, GHG emissions are simulated under the baseline and 
+project scenarios multiple times at each sample point, indexed by 𝑙 = 1, ..., 𝐿. The reductions 
+and removals at each point are then calculated as the difference between predicted GHG 
+emissions under baseline and project scenarios. These estimates are used to produce an 
+estimate of reductions and removals (𝑦̃) at each point, similarly indexed by 𝑙 following Equation 
+(65) below. 
+𝑦̃ℎ,𝑖𝑝,𝑙= 𝑧̃𝑏𝑠𝑙,ℎ,𝑖𝑝,𝑙− 𝑧̃𝑤𝑝,ℎ,𝑖𝑝,𝑙 
+(65) 
+ 
+Where: 
+𝑦̃ℎ,𝑖𝑝,𝑙 
+= Predicted reductions and removals on an area basis for point i in 
+stratum h and MC simulation 𝑙 (t CO2e/ha) 
+𝑧̃𝑏𝑠𝑙,ℎ,𝑖𝑝,𝑙 
+= Predicted GHG emissions in the baseline scenario on an area 
+basis for point ip in stratum h and MC simulation 𝑙 (t CO2e/ha) 
+𝑧̃𝑤𝑝,ℎ,𝑖𝑝,𝑙 
+= Predicted GHG emissions in the project scenario on an area basis 
+for point ip in stratum h and MC simulation 𝑙 (t CO2e/ha) 
+l 
+= 1, …, L MC simulations 
+ 
+Note – notation for the source of emissions and time period is suppressed. The sign convention 
+is that 𝑧̃𝑏𝑠𝑙,ℎ,𝑖𝑝,𝑙 is emissions to the atmosphere in the baseline scenario. Thus, for the SOC pool, 
+𝑧̃𝑏𝑠𝑙,ℎ,𝑖𝑝,𝑙 is −1 times the predicted temporal change in SOC stocks in the baseline scenario. 
+Similarly, 𝑧̃𝑤𝑝,ℎ,𝑖𝑝,𝑙 is −1 times the predicted temporal change in the project scenario. 
+The total set of L estimates of 𝑦̃ are then used to produce 𝑡  and 𝜇 , according to Equation (66).  
+𝜇 = 𝜏 
+𝐴 
+(66) 
+ 
+VM0042, v2.2 
+ 72 
+ 
+ 
+ 
+Where: 
+𝜏 = ∑𝜏 ℎ
+𝐻
+ℎ=1
+ 
+𝜏 ℎ= 𝐴ℎ
+𝑛ℎ𝐿∑(∑𝑦̃ℎ,𝑖𝑝,𝑙
+𝐿
+𝑙=1
+)
+𝑛ℎ
+𝑖𝑝=1
+ 
+and: 
+𝜏  
+= Monte Carlo estimate (MC mean) of total reductions and removals 
+for a given source across the whole project area (t CO2e) 
+𝜇  
+= Areal mean unbiased estimator of reductions and removals for gas 
+or pool • in year t (t CO2e/ha) 
+𝜏 ℎ 
+= Monte Carlo estimate (MC mean) of reductions and removals for a 
+given source within stratum h (t CO2e) 
+ 
+The total uncertainty is then decomposed into two components, sampling and modeling 
+uncertainty. Using standard variance decomposition (i.e., the law of total variance) following Del 
+Grosso et al. (2010), the total variance is decomposed according to Equation (67). 
+Var(𝜏 ) = 𝔼[Var(𝜏 |𝒔)] + Var(𝔼[𝜏 |𝒔]) 
+(67) 
+Where: 
+𝔼[Var(𝜏 |𝒔)]  
+= Estimate of model uncertainty (i.e., expectation of the conditional 
+variance given the sample design) 
+Var(𝔼[𝜏 |𝒔]) 
+= Estimate of uncertainty due to sampling design (i.e., variance of the 
+conditional expectation) 
+s 
+= The realized sample, selected using the sample design 
+For the stratified random sampling design used in this example, the variance components are 
+estimated according to the following system of equations. Note that these are similar in form to 
+those in Section 8.6.1 and are derived from Som (1995, Ch. 10). 
+𝑉𝑎𝑟
+̂ (𝜏 ) = 𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔
+2
++  𝑠𝑚𝑜𝑑𝑒𝑙
+2
+= {∑𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,ℎ
+2
+𝐻
+ℎ=1
+} + 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ 
+(68) 
+Where: 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,ℎ
+2
+=
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑦̂ℎ,𝑖𝑝−𝜇 ℎ)
+2
+𝑛ℎ
+𝑖𝑝=1
+ 
+ 
+VM0042, v2.2 
+ 73 
+ 
+ 
+𝑦̂ℎ,𝑖𝑝= 1
+𝐿∑𝑦̃ℎ,𝑖𝑝,𝑙
+𝐿
+𝑙=1
+ 
+𝜇 ℎ= 𝜏 ℎ
+𝐴ℎ
+ 
+and: 
+𝑠𝑚𝑜𝑑𝑒𝑙
+2
+=
+1
+𝐿−1 ∑(𝜏̃𝑙−𝜏 )2
+𝐿
+𝑙=1
+ 
+𝜏̃𝑙= ∑𝜏̃ℎ,𝑙
+𝐻
+ℎ=1
+ 
+𝜏̃ℎ,𝑙= 𝐴ℎ
+𝑛ℎ
+∑𝑦̃ℎ,𝑖𝑝,𝑙
+𝑛ℎ
+𝑖𝑝=1
+  
+and: 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔
+2
+ 
+= Variance of reductions and removals in gas or pool • due to sampling 
+error at time t (notation suppressed) across the entire project area 
+(t CO2e)2 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,ℎ
+2
+ 
+= Variance of reductions and removals in gas or pool • within stratum h 
+due to sampling error at time t (notation suppressed) (t CO2e)2 
+𝜏̃𝑙 
+= Total reductions and removals for the 𝑙th MC simulation of the project 
+(t CO2e) 
+𝜏̃ℎ𝑙 
+= Total reductions and removals in stratum h for the 𝑙th MC simulation 
+(t CO2e) 
+𝑦̂ℎ,𝑖𝑝 
+= MC estimate of areal mean reductions and removals for point ip in 
+stratum h (t CO2e/ha) 
+𝜇 ℎ 
+= MC estimate of areal mean reductions and removals in stratum h 
+(t CO2e/ha)  
+ 
+Last, the variance of the mean reductions and removals (Var
+̂ (𝜇 )) is obtained by dividing Var
+̂ (𝜏 ) 
+by the square of the total project area (A2). 
+𝑉𝑎𝑟
+̂ (𝜇 ) = 𝑠∆•
+̅̅̅
+2 = 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔
+2
++ 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+𝐴2
+ 
+(69) 
+ 
+In Equations (68)–(69), the sampling variance may be calculated separately for each stratum 
+and then summed together, because the sampled points are selected independently in 
+different strata (see Theorems 5.1 and 5.2 of Cochran, 1977, pp. 91–92). In contrast, model 
+prediction errors may not be independent across strata due to shared calibration parameters. 
+ 
+VM0042, v2.2 
+ 74 
+ 
+ 
+Thus, estimation of model variance must not be split across strata and is instead estimated 
+across the entire project area. Unlike in Equation (63), the model prediction error (𝑠𝑚𝑜𝑑𝑒𝑙
+2
+) must 
+be divided by the square of the project area because in this example it is estimated on the 
+basis of total reductions and removals achieved across the entire project area.  
+8.6.1.2.2 Monte Carlo Propagation of Model Input Error 
+Monte Carlo error propagation methods may be used in some cases to propagate model input 
+errors alone. In Section 8.6.1.2, these errors are identified as being otherwise captured in 
+estimates of sample or model prediction error. However, in some circumstances, such as when 
+land management data are uncertain or soil spectroscopy tools are used to measure initial 
+SOC, these errors may not be captured in those terms. MC error propagation is appropriate in 
+such cases and need not require recalibration of soil model parameters. In such cases, the 
+measurement errors are propagated to the sampling error term, which should be determined 
+according to the procedures outlined in Equations (65)–(68) that relate to sampling error. For 
+example, MC simulations would entail sampling from a PPD of estimated SOC content for a 
+given point based on a chosen soil spectroscopy method (see Appendix 4 for additional details), 
+and those values would be used to initialize the process-based model. Model prediction error 
+may be determined using either the analytical error propagation method or the MC simulation 
+method and is added to the estimate of sampling error to provide an estimate of the total 
+uncertainty for a given emission reduction or removal. 
+8.6.1.2.3 Monte Carlo Error 
+The accuracy of the MC estimates depends on the number of independent MC draws. Where 
+MC draws use a Markov Chain Monte Carlo (MCMC) algorithm such as the No-U-Turn Sampler 
+implemented in Stan (Carpenter et al., 2017), samples may contain some autocorrelation and 
+thus the MC error depends on an effective sample size that is smaller than the initial number of 
+chosen draws. The MC error (errors due to using a finite number of MC draws) decreases with 
+increasing number of MC draws. According to Gelman et al. (2014, p. 267), the contribution of 
+MC error to MC estimates of standard error is √1 + 1/𝐿. For L = 100 independent MC draws, 
+MC error would inflate the standard error by a factor of only 1.005, implying that the MC error 
+adds almost nothing to the uncertainty estimation. More than 100 simulations may add 
+numerical stability to estimates, particularly for the percentile summaries. Gelman et al. (2014) 
+suggest a choice of L between 100 and 2000. A value between 500 and 1000 is suggested to 
+balance accuracy and computing power demand. 
+8.6.1.3 Remeasurement, Model True-Up and Cumulative Modeling 
+As outlined in Section 8.3, SOC stocks must be directly remeasured every five years in the 
+project scenario. These data are used to re-estimate model prediction error and/or recalibrate 
+the model in relation to measured SOC stocks.  
+ 
+VM0042, v2.2 
+ 75 
+ 
+ 
+Prior to remeasurement, model structural error during simulation of SOC stocks for initial model 
+validation will be based be based on data from peer-reviewed publications and available 
+datasets meeting the requirements detailed in Section 5.2.3 of VMD0053. Specifically, the 
+model is used to simulate changes in stocks from a set of selected external datasets (i.e., field 
+trials for which data have been previously collected). Following remeasurement (i.e., true-up 
+sampling), data from external datasets and remeasurement within the project area are 
+combined to create a new calibration/validation. If the project proponent so chooses, this 
+dataset may be used to recalibrate model parameters (or parameter distributions in the case of 
+Bayesian models) in an effort to improve model accuracy, although model recalibration is not 
+required. Following remeasurement, project proponents must repeat model validation 
+procedures outlined in VMD0053, submit an updated MVR for review and validation, and 34 
+update the model prediction error term used in the estimation of the project uncertainty 
+deduction.  
+Once the MVR is approved, project proponents should rerun model simulations for both the 
+baseline and project scenarios from t0 up to the present day and recalculate uncertainty 
+deductions to be applied to future credit vintages. VCUs that have been issued in previous 
+verifications will remain unchanged. 
+8.6.2 Quantification Approach 2 
+Quantification Approach 2 is applicable for SOC stocks only. The baseline is represented by 
+control sites that are linked to one or more project quantification units. The SOC stock 
+difference and its uncertainty is calculated based on comparisons of control sites and paired 
+project quantification units. Key sources of error accounted for under Quantification Approach 2 
+include: 
+• 
+Sampling error resulting from measuring/modeling only a portion of the project area  
+• 
+Measurement error of methods used to determine SOC stock equivalents (t C02e per 
+unit area) at sample points. Where samples are collected using ESM approaches and 
+analyzed using dry combustion via a lab with demonstrated proficiency and quality 
+control (e.g., through participation in the North American Proficiency Testing 
+program53), these errors are assumed to be unbiased and negligible. Where alternative 
+measurement approaches such as soil spectroscopy techniques are used, 
+measurement error must be estimated and propagated through estimates of the total 
+change in SOC.  
+These sources of error are estimated separately and then combined to estimate a single 
+uncertainty deduction for SOC stocks across the entire project. Similar to Quantification 
+Approach 1, an analytical error propagation or MC simulation method may be used. The MC 
+ 
+53 Available at: https://www.naptprogram.org/ 
+ 
+VM0042, v2.2 
+ 76 
+ 
+ 
+simulation method is only applicable in cases where measurement error is deemed significant 
+and must be propagated through calculations.  
+As in Section 8.6.1, an example is provided here based on the default stratified random 
+sampling approach. In this example, each individual stratum is paired with an appropriately 
+determined control site. Net SOC stock changes in the project scenario are determined by 
+comparing net change in SOC in project sites against net change in baseline control sites over a 
+given verification period t, determined through direct sampling and dry combustion analysis of 
+soil samples collected at the beginning and end of period t. It is assumed that the same set of 
+sample points are visited at both time points. 
+The total variance of the SOC stock change estimate is then determined using an area-weighted 
+uncertainty estimator based on the variance of SOC stock change estimates in each stratum. 
+Variance of SOC stock change estimates in each stratum are based on the combined variance 
+of the estimates of change over time in a given verification period t for both the project and 
+baseline scenarios. The covariance of these estimates is conservatively excluded as the 
+baseline control sites and project sites are assumed to be independent. In these equations, Δ is 
+used to signify reductions and removals in the SOC pool (i.e., project scenario SOC stocks 
+minus baseline scenario SOC stocks) and changes in SOC stocks over time in both the baseline 
+and project scenarios.  
+𝑠∆𝑆𝑂𝐶,𝑡
+̅̅̅̅̅̅̅̅̅̅
+2
+= 1
+𝐴2 ∑ 𝑠∆𝑆𝑂𝐶,ℎ,𝑡
+2
+𝑛
+1
+ 
+(70) 
+Where: 
+𝑠∆𝑆𝑂𝐶,ℎ,𝑡
+2
+= 𝑠∆𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑡
+2
++ 𝑠∆𝑆𝑂𝐶,𝑏𝑠𝑙,ℎ,𝑡
+2
+  
+and: 
+𝑠∆𝑆𝑂𝐶,𝑡
+̅̅̅̅̅̅̅̅̅̅
+2
+ 
+= Variance of the estimate of mean SOC stock changes in verification 
+period t across the entire project area, calculated as the difference in 
+net change between the project and baseline scenarios over period t 
+(t CO2e/ha)2 
+𝑠∆SOC,ℎ,𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in verification 
+period t in stratum h, calculated as the difference in net change 
+between the project and baseline scenarios over period t (t CO2e)2 
+𝑠∆SOC,𝑤𝑝,ℎ,𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in the project plots 
+in verification period t in stratum h, calculated as the difference in SOC 
+stocks at the beginning and end of period t (t CO2e)2 
+𝑠∆SOC,𝑏𝑠𝑙,ℎ,𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in baseline 
+(control) plots paired with project stratum h in verification period t, 
+calculated as the difference in SOC stocks at the beginning and end of 
+period t (t CO2e)2 
+ 
+ 
+VM0042, v2.2 
+ 77 
+ 
+ 
+Note that the area-weighting in Equation (70) is based on the area of the project strata, not the 
+baseline control sites with which they are paired.  
+Because the sample design for the project and baseline control plots may be different, the 
+uncertainty estimator should match the sample design used in the project and baseline control 
+plots. For example, the project area may be monitored using a staged design if there are a 
+substantial number of quantification units (e.g., fields) in the project area. But the baseline 
+control plots may be fewer, meaning they can all be monitored and do not require a staged 
+design. In such cases, baseline and project areas should use different uncertainty estimators 
+before estimating the combined uncertainty. This example presumes that within each stratum, 
+sample points are similarly determined using simple random sampling with replacement for 
+both baseline and project scenarios, so the estimator in both scenarios is the same.  
+Equation (71) provides an example for the project scenario. The variance of the estimate of the 
+change is then a function of the variance and covariance of soil sampling results at both time 
+points within verification period t. These time points are denoted as tfinal and tstart,  hereafter 
+shortened to subscripts f and s. 
+𝑠∆𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑡
+2
+= 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
++ 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑠
+2
+− 2𝐶𝑂𝑉(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓 ; 𝑆𝑂𝐶𝑤𝑝,ℎ,𝑠)     
+(71) 
+Where: 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
+=
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓)
+2
+𝑛ℎ
+𝑖𝑝=1
+ 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑠
+2
+=
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑠− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑠)
+2
+𝑛ℎ
+𝑖𝑝=1
+ 
+𝐶𝑂𝑉(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓 ; 𝑆𝑂𝐶𝑤𝑝,ℎ,𝑠)
+= 
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑠− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑠)
+𝑛ℎ
+𝑖𝑝=1
+(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓) 
+and: 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
+ 
+= Variance of the estimate of SOC stocks in the project 
+scenario at tfinal in stratum h (t CO2e)2 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑠
+2
+ 
+= Variance of the estimate of SOC stocks in the project 
+scenario at tstart in stratum h (t CO2e)2 
+𝐶𝑂𝑉(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓 ; 𝑆𝑂𝐶𝑤𝑝,ℎ,𝑠) = Covariance of estimates of SOC stocks at tfinal and tstart in the 
+project scenario in stratum h (t CO2e)2 
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓 
+= Mean estimate of SOC stocks across all points in the project 
+scenario at tfinal in stratum h (t CO2e/ha) 
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑠 
+= Mean estimate of SOC stocks across all points in the project 
+scenario at tstart in stratum h (t CO2e/ha) 
+ 
+VM0042, v2.2 
+ 78 
+ 
+ 
+SOCwp,h,ip,f 
+= Estimated SOC stock on an area basis at point ip in the 
+project scenario at tfinal in stratum h (t CO2e/ha) 
+SOCwp,h,ip,s 
+= Estimated SOC stock on an area basis at point ip in the 
+project scenario at tstart in stratum h (t CO2e/ha) 
+ 
+8.6.2.1 Alternative SOC Measurement Methods 
+Projects may elect to use alternative measurement methods to determine SOC content at each 
+sample point, such as Vis-NIR and MIR (see Appendix 4). Such methods may reduce sampling 
+error by allowing for data collection at a greater number of points. However, they introduce error 
+into the estimation of reductions and removals through the model used to estimate SOC based 
+on reflectance/absorbance data from the chosen instrument. This error is handled using MC 
+simulation methods similar to those in Quantification Approach 1. The value of SOC at each 
+point is iteratively resampled L times from a PPD derived from a soil spectroscopy model 
+calibrated and validated with an independent dataset appropriate to the project area. 
+Alternatively, the project proponent may estimate the error of the spectroscopy model by 
+selecting 10–15% of samples in the project, analyzing these samples using dry combustion 
+methods, and comparing those results to the spectroscopy model predictions. See Appendix 4 
+for additional detail on how these models should be calibrated and statistically validated, as 
+well as how PPDs should be developed where an MC simulation approach is applied.  
+In either case, uncertainty is estimated using a similar overall form as the procedures outlined 
+in Equations (70) and (71), but the uncertainty estimators in Equation (71) for estimating 
+uncertainty within an individual stratum are modified to include both sampling error and model 
+error from the soil spectroscopy model. Equation (72) provides an example using the MC 
+simulation approach for the project scenario in a given stratum h. Individual estimates of SOC 
+content at each soil sampling point are sampled from a PPD L times and compared to the mean 
+estimate of SOC across all L simulations to generate uncertainty estimates.  
+𝑠∆𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑡
+2
+= 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
++ 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑠
+2
+− 2𝐶𝑂𝑉(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓 ; 𝑆𝑂𝐶𝑤𝑝,ℎ,𝑠) 
+(72) 
+ 
+The variance of an individual stratum is estimated as follows. The same equation form applies 
+to time point s. 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
+= 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑠𝑎𝑚𝑝𝑙𝑒
+2
++ 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑚𝑜𝑑𝑒𝑙
+2
+ 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑠𝑎𝑚𝑝𝑙𝑒
+2
+= 
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓)
+2
+𝑛ℎ
+𝑖𝑝=1
+  
+𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓= 1
+𝐿∑𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓,𝑙
+𝐿
+𝑙=1
+ 
+ 
+VM0042, v2.2 
+ 79 
+ 
+ 
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓= 1
+𝐴ℎ
+∑𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓
+𝑛ℎ
+𝑖𝑝=1
+ 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑚𝑜𝑑𝑒𝑙
+2
+=
+1
+𝐿−1 ∑(𝑆𝑂𝐶𝑤𝑝,𝑓,𝑙− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,𝑓)
+2
+𝐿
+𝑙=1
+ 
+𝑆𝑂𝐶𝑤𝑝,𝑓,𝑙= ∑𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓,𝑙
+𝐻
+ℎ=1
+ 
+𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓,𝑙= 𝐴ℎ
+𝑛ℎ
+∑𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓,𝑖𝑝,𝑙
+𝑛ℎ
+𝑖𝑝=1
+  
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,𝑓= 1
+𝐿∑𝑆𝑂𝐶𝑤𝑝,𝑓,𝑙
+𝐿
+𝑙=1
+ 
+𝐶𝑂𝑉(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑓 ; 𝑆𝑂𝐶𝑤𝑝,ℎ,𝑠)
+= 1
+𝐿∑{
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑠,𝑙− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑠)
+𝑛ℎ
+𝑖𝑝=1
+(𝑆𝑂𝐶𝑤𝑝,ℎ,𝑖𝑝,𝑓,𝑙
+𝐿
+𝑙=1
+− 𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓)} 
+Where: 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑠𝑎𝑚𝑝𝑙𝑒
+2
+ 
+= Variance of the estimate of SOC stocks in the project 
+scenario at tfinal in stratum h attributable to sampling error 
+(t CO2e)2 
+𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑚𝑜𝑑𝑒𝑙
+2
+ 
+= Variance of the estimate of SOC stocks in the project 
+scenario at tfinal in stratum h attributable to prediction error 
+of the soil spectroscopy model (t CO2e)2 
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,ℎ,𝑓 
+= Mean estimate of SOC stocks across all points in the project 
+scenario at tfinal in stratum h in the 𝑙th simulation 
+(t CO2e/ha) 
+SOCwp,h,ip,f,l 
+= Estimated SOC stocks on an area basis at point ip in the 
+project scenario at tfinal in stratum h in the 𝑙th simulation 
+(t CO2e/ha) 
+SOCwp,h,ip,s,l 
+= Estimated SOC stocks on an area basis at point ip in the 
+project scenario at tstart in stratum h in the 𝑙th simulation 
+(t CO2e/ha) 
+SOCwp,f,l 
+= Estimate of total SOC stocks on an area basis in the project 
+scenario across the entire project at tfinal in the 𝑙th 
+simulation (t CO2e) 
+ 
+VM0042, v2.2 
+ 80 
+ 
+ 
+𝑆𝑂𝐶
+̅̅̅̅̅̅𝑤𝑝,𝑓  
+= Mean estimate of total SOC stocks in the project scenario 
+across the entire project at tfinal averaged across all 𝐿 
+simulations (t CO2e) 
+Where a project proponent elects not to use the MC simulation approach and instead estimate 
+model error using a simple frequentist approach, then 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ𝑓,𝑚𝑜𝑑𝑒𝑙
+2
+ in Equation (72) is 
+replaced with an estimate of model prediction error that is the same across all strata and both 
+scenarios, 𝑠𝑆𝑂𝐶,𝑚𝑜𝑑𝑒𝑙
+2
+. This estimate is determined by comparing modeled estimates of SOC to 
+values determined through laboratory analysis (Appendix 4).  
+𝑠𝑆𝑂𝐶,𝑚𝑜𝑑𝑒𝑙
+2
+= 
+𝐴2
+𝑡𝑣𝑑−1 ∑(𝑒𝑟𝑟𝑜𝑟𝑝𝑣𝑑−𝑚𝑒𝑎𝑛 𝑒𝑟𝑟𝑜𝑟)
+2
+𝑡𝑣𝑑
+𝑝𝑣𝑑=1
+ 
+(73) 
+𝑒𝑟𝑟𝑜𝑟𝑝𝑣𝑑= 𝑆𝑂𝐶𝑚𝑜𝑑𝑒𝑙,𝑝𝑣𝑑− 𝑆𝑂𝐶𝑜𝑏𝑠𝑒𝑟𝑣𝑒𝑑,𝑝𝑣𝑑 
+𝑚𝑒𝑎𝑛 𝑒𝑟𝑟𝑜𝑟= 1
+𝑡𝑣𝑑∑𝑒𝑟𝑟𝑜𝑟𝑝𝑣𝑑
+𝑡𝑣𝑑
+𝑝𝑣𝑑=1
+ 
+Where: 
+𝑠𝑆𝑂𝐶,𝑚𝑜𝑑𝑒𝑙
+2
+ 
+= Variance of the estimate of SOC stocks attributable to 
+prediction error of the soil spectroscopy model (t CO2e)2 
+𝑒𝑟𝑟𝑜𝑟𝑝𝑣𝑑 
+= Difference between the predicted estimate of SOC on an area 
+basis and observed SOC at point pvd in the randomly selected 
+statistical validation dataset (t CO2e/ha) 
+𝑚𝑒𝑎𝑛 𝑒𝑟𝑟𝑜𝑟 
+= Mean of all estimates of errorpvd across all tvd points in the 
+statistical validation dataset (t CO2e/ha) 
+𝑆𝑂𝐶𝑚𝑜𝑑𝑒𝑙,𝑝𝑣𝑑  
+= Predicted estimate of SOC on an area basis at point pvd in the 
+randomly selected statistical validation dataset (t CO2e/ha) 
+𝑆𝑂𝐶𝑜𝑏𝑠𝑒𝑟𝑣𝑒𝑑,𝑝𝑣𝑑  
+= Observed SOC on an area basis at point pvd in the randomly 
+selected statistical validation dataset, determined through 
+conventional lab analysis and field sampling (t CO2e/ha) 
+pvd 
+= 1, …, tvd sample points within the statistical validation dataset 
+ 
+Furthermore, 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓,𝑠𝑎𝑚𝑝𝑙𝑒
+2
+ should be determined using the same equation as is used to 
+determine 𝑠𝑆𝑂𝐶,𝑤𝑝,ℎ,𝑓
+2
+ in Equation (71), but individual point values are instead the value for that 
+point as predicted by the soil spectroscopy model.  
+8.6.2.2 Extensions to Other Sampling Designs 
+In this simplified example, it is assumed that a single control plot or area is sufficient to 
+represent the baseline scenario for each stratum and that the same soil sampling points can 
+be revisited at both time points. In practice, such assumptions may not hold true in many 
+projects developed under this methodology. Nonetheless, the overall process for estimating the 
+ 
+VM0042, v2.2 
+ 81 
+ 
+ 
+total variance of the estimate of change should be similar to the example provided above. 
+Equations used to estimate the individual component terms are likely to differ. As with 
+Quantification Approach 1, an additional example is provided in Appendix 6 based on a multi-
+stage sampling design where stratified random sampling is employed at the final stage when 
+determining location of sampling points.  
+8.6.3 Quantification Approach 3 
+In Quantification Approach 3, reductions and removals are estimated using emission factors 
+(EF) determined to be most relevant for the project area (see Section 8.3 for additional details 
+on EF selection). Whenever available, disaggregated values which are best applicable to the 
+project area, project conditions, and project activity must be used. While these EFs are likely to 
+include some prediction error, availability of source data for estimating that error may be 
+inconsistent.  
+Project proponents must use the available EF that results in the most conservative reduction 
+and removal estimates when applied across both the baseline and project scenarios. For 
+example, IPCC (2019) provides 0.016 as the default emission factor to estimate N2O emissions 
+from managed soils resulting from synthetic fertilizer inputs in wet climates with an uncertainty 
+range of 0.013–0.019. To yield the most conservative result, quantification of baseline and 
+project scenario emissions must apply 0.013 (the lowest value in the uncertainty range) when 
+project emission sources decrease relative to the baseline. When emission sources increase in 
+the project scenario relative to the baseline, projects must apply 0.019 (the highest value in the 
+uncertainty range). 
+It is expected that management data is collected across all quantification units in the project 
+area according to the hierarchy outlined in Box 1, and as such sampling error does not factor 
+into uncertainty deductions. However, where management data cannot be collected across the 
+entire project area, sampling error must be accounted. In this case, the procedures for 
+estimating sampling error in Quantification Approach 1 must be followed (see Section 8.6.1). 
+The uncertainty estimators must be based on the sampling design used. Project proponents 
+must provide a description of the sampling design and a justification as to why management 
+data are not collected across all quantification units.  
+8.6.4 Uncertainty Deductions 
+Uncertainty deductions are estimated and applied separately for each reduction and removal 
+source within the project boundary. This deduction is estimated using a probability of 
+exceedance method as follows (see the most recent version of the VCS Methodology 
+Requirements Section 2.4): 
+ 
+VM0042, v2.2 
+ 82 
+ 
+ 
+𝑈𝑁𝐶∆·̅,𝑡= 
+(
+ 
+ √𝑠∆·̅ ,𝑡
+2
+∆·
+̅̅̅̅𝑡
+ ×  100
+)
+ × 𝑡0.667 
+(74) 
+ 
+Where: 
+𝑈𝑁𝐶∆·̅,𝑡 
+= Uncertainty deduction for each GHG or C pool • to be applied in 
+verification period t (%) 
+∆·
+̅̅̅̅𝑡 
+= Mean ERR for each GHG or C pool • across the entire project area in 
+year t (t CO2e/ha) 
+𝑠∆·̅ ,𝑡
+2  
+= Variance of the mean ERR estimate from each GHG or C pool • at time 
+t. See Figure 4 to determine how this is estimated based on the 
+methods employed in the project (t CO2e/ha)2  
+t0.667 
+= t-value for a one-sided student’s t-distribution at 0.667 (66.7%) 
+confidence interval with degrees of freedom appropriate to the 
+sampling design used. Equal to approximately 0.4307 at large sample 
+sizes (dimensionless) 
+This uncertainty deduction is based on a defined threshold in the estimated probability density 
+function of the reduction or removal for a given source. This enables a judgement of the extent 
+to which the achieved reduction or removal by the project may be expected to be accurate. By 
+this procedure, one estimates what percentage of the estimates of ∆·
+̅̅̅̅𝑡 would have a 66.6% 
+probability of exceeding the true value of ∆·
+̅̅̅̅𝑡. That percentage is then used as the uncertainty 
+deduction. Figure 4 demonstrates this concept. 
+Figure 4: Probability of exceedance. The value for ∆·
+̅̅̅̅𝒕 used in calculation of VCUs 
+issued is determined by applying an uncertainty deduction based on the 33.3rd 
+percentile of the estimated probability distribution of ∆·
+̅̅̅̅𝒕 
+ 
+VM0042, v2.2 
+ 83 
+ 
+ 
+ 
+ 
+ 
+VM0042, v2.2 
+ 84 
+ 
+ 
+Figure 5: Equation map for calculating uncertainty deduction under Quantification 
+Approaches 1 (for SOC, CH4, and N2O) and 2 (for SOC)54 
+ 
+  
+ 
+8.7 
+Calculation of Verified Carbon Units 
+To calculate the number of Verified Carbon Units (VCUs) that may be issued, the project 
+proponent must consider the number of buffer credits that must be deposited in the AFOLU 
+pooled buffer account. The number of buffer credits that must be deposited is calculated by 
+multiplying the non-permanence risk rating by the net change in carbon stocks (see most 
+recent version of the VCS Standard55). The buffer credits are quantified as:  
+𝐵𝑢𝐸𝑅,𝑡=  𝐼(Δ𝐶𝑂2𝑤𝑝) × ( MIN(0,Δ𝐶𝑂2𝑤𝑝,𝑡) −MIN(0,Δ𝐶𝑂2𝑏𝑠𝑙,𝑡)) × 𝑁𝑃𝑅% + (1
+−𝐼(Δ𝐶𝑂2𝑤𝑝)) ×  ( MIN(0,Δ𝐶𝑂2𝑤𝑝,𝑡) −MIN(0,Δ𝐶𝑂2𝑏𝑠𝑙,𝑡)
++  MAX(0,Δ𝐶𝑂2𝑤𝑝,𝑡) − MAX(0,Δ𝐶𝑂2𝑏𝑠𝑙,𝑡)) × 𝑁𝑃𝑅% 
+(75) 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑ Δ𝐶𝑂2𝑤𝑝,𝑡> 0
+𝑡
+1
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑ Δ𝐶𝑂2𝑤𝑝,𝑡≤0
+𝑡
+1
+ 
+ 
+54 Note that where a sample design other than the default stratified random sampling approach (see Section 8.2.1) is 
+proposed via a methodology deviation, these equations should not be used but the general workflow is the same. 
+55 For example, this is included in Section 3.2.10 of the VCS Standard, v4.7. 
+QA 1
+Applicable to SOC, and CH4 and N2O from 
+soil as indicated in Table 5
+Analytical error 
+propagation
+Eqs. 60-64
+𝑠̅∆∙,𝑡
+2
+Uncertainty 
+deduction
+Eq. 74
+MC simulation
+Eqs. 65-69
+𝑠̅∆∙,𝑡
+2
+Uncertainty 
+deduction
+Eq. 74
+QA 2
+Applicable only to SOC
+Conventional lab 
+analysis
+Eqs. 70-71
+𝑠∆𝑆𝑂𝐶,𝑡
+2
+Uncertainty 
+deduction
+Eq. 74
+Proximal sensing 
+methods
+Eqs. 70 & 72 or 73
+𝑠∆𝑆𝑂𝐶,𝑡
+2
+Uncertainty 
+deduction
+Eq. 74
+ 
+VM0042, v2.2 
+ 85 
+ 
+ 
+𝐵𝑢𝐸𝑅,𝑡 
+= 
+Buffer credits to be deducted from reductions in year t (t CO2e) 
+ 
+𝐵𝑢𝐶𝑅,𝑡=   𝐼(Δ𝐶𝑂2𝑤𝑝) × ( 𝑀𝐴𝑋(0, Δ𝐶𝑂2𝑤𝑝,𝑡) −𝑀𝐴𝑋(0, Δ𝐶𝑂2𝑏𝑠𝑙,𝑡)) × 𝑁𝑃𝑅% 
+(76) 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑ Δ𝐶𝑂2𝑤𝑝,𝑡> 0
+𝑡
+1
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑ Δ𝐶𝑂2𝑤𝑝,𝑡≤0
+𝑡
+1
+ 
+𝐵𝑢𝐶𝑅,𝑡 
+= 
+Buffer credits to be deducted from removals in year t (t CO2e) 
+Δ𝐶𝑂2𝑤𝑝,𝑡 
+= 
+Total carbon stock change in the project scenario in year t (t CO2e) 
+Δ𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡 
+= 
+Total carbon stock change in the baseline scenario in year t (t CO2e) 
+𝑁𝑃𝑅% 
+= 
+Overall project non-permanence risk rating converted to a percentage 
+The number of VCUs resulting from project activities leading to reductions that may be issued in 
+year t is calculated as: 
+𝑉𝐶𝑈𝐸𝑅,𝑡= 𝐸𝑅𝑁𝐸𝑇,𝑡−𝐵𝑢𝐸𝑅,𝑡 
+(77) 
+Where: 
+𝑉𝐶𝑈𝐸𝑅,𝑡 
+= Number of Verified Carbon Units resulting from project activities 
+leading to reductions in year t 
+𝐸𝑅𝑁𝐸𝑇,𝑡 
+= Estimated net reductions in year t (t CO2e) 
+The number of VCUs resulting from project activities leading to removals that may be issued in 
+year t is calculated as: 
+𝑉𝐶𝑈𝐶𝑅,𝑡= 𝐶𝑅𝑁𝐸𝑇,𝑡−𝐵𝑢𝐶𝑅,𝑡 
+(78) 
+Where: 
+𝑉𝐶𝐶𝑅,𝑡 
+= Number of Verified Carbon Units resulting from project activities 
+leading to removals in year t 
+𝐶𝑅𝑁𝐸𝑇,𝑡 
+= Estimated net removals in year t (t CO2e) 
+The number of VCUs that may be issued in year t is calculated as: 
+𝑉𝐶𝑈𝑡= 𝑉𝐶𝑈𝐸𝑅,𝑡+ 𝑉𝐶𝑈𝐶𝑅,𝑡 
+(79) 
+Where: 
+VCUt 
+= Number of VCUs in year t (t CO2e) 
+ 
+VM0042, v2.2 
+ 86

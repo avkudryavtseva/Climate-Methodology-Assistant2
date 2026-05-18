@@ -1,0 +1,20 @@
+3 DEFINITIONS 
+In addition to the definitions set out in AMS-III.C. and the VCS Program Definitions, the following 
+definition applies to this methodology revision. 
+Electric mobile machinery (EMM)  
+Equipment that operates on electric power and is not fixed to a specific site, allowing it to be 
+moved either under its own propulsion or with assistance as required by engineering 
+specifications or logistics. EMM must be self-propelled, except in cases where a self-propelled 
+unit has had its drive carriage removed to secure the unit to a structure during operation. EMM 
+includes both battery-electric mobile machinery and plug-in hybrid electric mobile machinery. 
+Some examples of EMM are: 
+• 
+construction machinery (e.g., excavators, road-building equipment) 
+• 
+material handling equipment (e.g., forklifts, cargo-container handling equipment at 
+ports such as cranes, reach stackers, tractor-trailers, straddle carriers) 
+• 
+airport support equipment (e.g., pushback tractors, boarding stairs, belt and container 
+loaders, luggage tugs) 
+For the avoidance of doubt, non-plug-in hybrid electric mobile machinery and generators used 
+for power generation do not qualify as EMM under this methodology.

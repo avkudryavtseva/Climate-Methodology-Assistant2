@@ -1,0 +1,1000 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+EFb,i,CO2 
+EFp,j,CO2 
+EFfuel,h 
+Data unit 
+t CO2/TJ 
+Description 
+CO2 emission factor for fuel used by baseline device type i in the 
+baseline scenario 
+CO2 emission factor for fuel used by project device type j in the project 
+scenario 
+Emission factor for fuel used by backup generator h 
+Equations 
+(1, (7), (10) 
+Source of data 
+The following data sources may be used, listed in descending order of 
+preference:  
+• 
+Option 1: Project-specific value 
+• 
+Option 2: Regional or national default values 
+• 
+Option 3: Default value from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+Depends on the source of data chosen. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The values must be determined ex ante by using one of the following 
+means: 
+1) Testing in accredited/recognized laboratories: Measurements 
+must be undertaken in line with national or international fuel 
+standards. 
+2) Use of national default values 
+3) Use of default values from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+Wood: 112 t CO2/TJ 
+Charcoal: 
+• 112 t CO2/TJ (combustion only): Apply where renewable 
+charcoal is used in the project21 and emissions from 
+production of charcoal are estimated as project emissions 
+(PEfugitive,y). 
+• 165.22 t CO2/TJ (combustion and charcoal production 
+emissions): Apply where non-renewable biomass charcoal is 
+used in the baseline, or in the baseline and project. 
+ 
+21 In this case, fNRB is zero. 
+ 
+VM0050, v1.0  
+ 
+26 
+IPCC guidelines are a recognized source. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+N/A 
+ 
+Data/Parameter 
+EFb,i,nonCO2 
+EFp,j,nonCO2 
+Data unit 
+t CO2e/TJ 
+Description 
+Non-CO2 emission factor for fuel used by baseline device type i in the 
+baseline scenario 
+Non-CO2 emission factor for fuel used by project device type j in the 
+project scenario 
+Equations 
+(1, (7) 
+Source of data 
+The following data sources may be used, listed in descending order of 
+preference:  
+• 
+Option 1: Project-specific value 
+• 
+Option 2: Regional or national default values 
+• 
+Option 3: Default value from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+Depends on source of data chosen. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The values must be determined ex ante by using one of the following 
+means: 
+1) Testing in accredited/recognized laboratories: Measurements 
+must be undertaken in line with national or international fuel 
+standards 
+2) Use of national default values 
+3) Use of default values from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+Wood: 9.46 t CO2e/TJ (AR5 GWP)  
+Charcoal: 5.865 t CO2e/TJ (combustion only, AR5 GWP) 
+                44.83 t CO2e/TJ (includes charcoal production) 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Where the factor CF is applied (see parameter table for CF), the 
+emissions factor for charcoal production must be derived using Option 
+1 or 2. 
+ 
+ 
+VM0050, v1.0  
+ 
+27 
+Data/Parameter 
+CF 
+Data unit 
+unitless 
+Description 
+Wood-to-charcoal conversion factor 
+Equations 
+(1, (7) 
+Source of data 
+CDM TOOL33 default value 
+Value applied 
+4 tonnes of dry wood input per tonne of charcoal output  
+The project proponent may use a default value of up to 6 tonnes of dry 
+wood input per tonne of charcoal output where the value is 
+substantiated by government-approved/endorsed national or regional 
+values. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Only applicable where charcoal is used as the fuel by baseline and/or 
+project devices and the project proponent chooses to apply the CF 
+method instead of the charcoal emission factors method included in 
+the equations. Where the CF method is used, the wood-to-charcoal 
+conversion factor must be applied (in Equations (1 and (7), as 
+applicable) in the following manner: 
+1) For CO2 emissions, the conversion factor is multiplied by the 
+EFCO2 term, which is the CO2 emission factor for wood. 
+2) For non-CO2 emissions, the EFnonCO2 term is the non-CO2 
+emission factor for charcoal combustion. Where applying CF, 
+the non-CO2 emission factor for the production of charcoal may 
+only be included where Option 1 or 2 (in parameter table for 
+EFnonCO2) is used. 
+ 
+Data/Parameter 
+NCVb,i 
+NCVp,j 
+NCVh 
+Data unit 
+TJ/tonne or TJ/m3 
+Description 
+Net calorific value of baseline fuel used by baseline device type i 
+Net calorific value of project fuel used by project device type j 
+Net calorific value of fuel used by backup generator h 
+ 
+VM0050, v1.0  
+ 
+28 
+Equations 
+(2), (4) , (7), (10) 
+Source of data 
+The following data sources may be used, listed in descending order of 
+preference: 
+• 
+Option 1: Project-specific values  
+• 
+Option 2: National default value 
+• 
+Option 3: Default value from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+Depends on the source of data chosen. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The values must be determined ex ante by using one of the following 
+means: 
+1) Testing using standardized methods (e.g., ASTM D5865-12, 
+ISO 1928) 
+2) Use of regional or national default values 
+3) Use of default values from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories 
+The values for wood and charcoal in the 2006 IPCC Guidelines for 
+National Greenhouse Gas Inventories are: 
+• Wood: 0.0156 TJ/tonne 
+• Charcoal: 0.0295 TJ/tonne 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Where the factor CF is applied (see parameter table for CF), the net 
+calorific value for charcoal must be derived using Option 1 or 2, 
+consistent with the option for determining the non-CO2 emission factor 
+for production of charcoal. 
+ 
+Data/Parameter 
+BCex-ante,b,i 
+Data unit 
+tonnes 
+Description 
+Ex-ante annual average quantity of fuel used per baseline device type i 
+Equations 
+(2) 
+Source of data 
+Option 1: A measurement campaign following the Kitchen Performance 
+Test Protocol must be designed, carried out, and analyzed in 
+compliance with the most recent version of the CDM Standard for 
+Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities. The campaign must achieve a confidence and precision of at 
+least 90/10 for the target parameter of average daily fuel consumption 
+per adult equivalent. Where the project does not achieve the target 
+precision in a monitoring period, the project proponent must apply an 
+appropriate conservativeness deduction as per Section 4 of the most 
+ 
+VM0050, v1.0  
+ 
+29 
+recent version of the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities. 
+The result must be scaled appropriately using the average household 
+size to obtain the value of BCex-ante,b,i. 
+Option 2: Calculated based on the default value for the average annual 
+consumption of woody biomass per person for cooking  
+• 
+Firewood: 0.5 tonnes/capita/year of air-dried wood (from 0.0012 
+TJ delivered/capita/year with 0.0156 TJ/tonne NCV, and thermal 
+efficiency of 15%) 
+• 
+Charcoal: 0.13 tonnes/capita/year (from 0.00075 TJ 
+delivered/capita/year with 29.5 TJ/tonne NCV, and thermal 
+efficiency of 25%) 
+Where fuels other than firewood or charcoal are also used in the 
+baseline, their energy use must be accounted for in the 0.0012 and 
+0.00075 TJ delivered/capita/year. 
+The default value must be scaled appropriately using the average 
+household size to obtain the value of BCex-ante,b,i. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Energy consumption must be determined once prior to validation.   
+ 
+Data/Parameter 
+ηold,avg 
+Data unit 
+Fraction 
+Description 
+Weighted average efficiency of baseline devices that are replaced by 
+project devices 
+Equations 
+(3) 
+ 
+VM0050, v1.0  
+ 
+30 
+Source of data 
+The efficiency must be established using one of the following methods, 
+and the corresponding documentation must be presented: 
+1) For three-stone fire using firewood or a cookstove with no 
+improved combustion air supply or flue gas ventilation, default 
+value of 15%  
+For other baseline devices: 
+2) Water Boiling Test surveys in compliance with the most recent 
+version of the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities; 
+3) Manufacturer-certified value that is determined via the Water 
+Boiling Test; 
+4) Certification by the host country’s national standards body or 
+certifying agency; or 
+5) Approved default values from the most recent version of CDM 
+TOOL33. 
+The weighted average efficiency is calculated by multiplying the energy 
+consumption ECi,y of the baseline device i by its thermal efficiency ηold,i, 
+and then summing these values for all baseline devices. The resulting 
+sum is divided by the total energy consumption of all baseline devices 
+to determine the weighted average efficiency. 
+Value applied 
+N/A  
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+These methods and sources are recognized by the VCS Program. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data/Parameter 
+Hhi 
+Hhj,k 
+Data unit 
+Equivalent standard male adults 
+Description 
+Average household size of the target population using device type i 
+Average household size of the target population using device type j from 
+batch k 
+Equations 
+Input to ECi,y, BCb,i,y, and BCp,j,k,y 
+Source of data 
+Baseline survey 
+The campaign must achieve a confidence and precision of at least 
+90/10 for the target parameter of average household size. 
+ 
+VM0050, v1.0  
+ 
+31 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Recognized survey methods based on the CDM Standard for Sampling 
+and Surveys for CDM Project Activities and Programmes of Activities 
+Purpose of data 
+Estimation of average energy consumption when applying Option 1: 
+Measurement campaign (Section 8.1.1) 
+Cross-checking energy and fuel consumption values 
+Comments 
+This parameter must be determined ex ante via the baseline survey as 
+described in Section 6.2. 
+Equivalent standard male adults according to Guidelines for Woodfuel 
+Surveys for FAO by Keith Openshaw, cited in Joseph, S. (1990). 
+Guidelines for Planning, Monitoring and Evaluating Cookstove 
+Programmes, UNFAO: Community Forestry Field Manual 1. 
+ 
+Data/Parameter 
+SCb,i 
+SCp,j 
+Data unit 
+TJ/test/person 
+Description 
+Specific energy consumption of baseline device type i in the baseline 
+scenario 
+Specific energy consumption of project device type j in the project 
+scenario 
+Equations 
+(5)) 
+Source of data 
+Controlled Cooking Test following the most recent version of the 
+Controlled Cooking Test (CCT) Protocol (Clean Cooking Alliance) and in 
+compliance with the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities.  
+The campaign must achieve a confidence and precision of at least 
+90/10 for the target parameter of TJ/test/person. 
+Where the project does not achieve the target precision in a monitoring 
+period, the project proponent must apply an appropriate 
+conservativeness deduction as per Section 4 of the most recent version 
+of the CDM Standard for Sampling and Surveys for CDM Project 
+Activities and Programmes of Activities. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+This parameter must be estimated ex ante. 
+ 
+VM0050, v1.0  
+ 
+32 
+measurement methods 
+and procedures applied 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+The CCT must use the same cooking tasks when assessing baseline 
+and project devices. Cooking tasks that are not compatible with project 
+devices must be excluded from the CCT for baseline devices. 
+When renewing the crediting period, the project proponent must check 
+whether the end users use the project device for preparation of the 
+expected dishes. Where the project device is used differently than 
+expected, the CCT design must be updated to reflect the observed 
+cooking practices of end users using the project device and the CCT 
+campaigns must be undertaken again to redefine SCb,i and SCp,j. 
+ 
+9.2 
+Data and Parameters Monitored 
+Data/Parameter 
+Nj,k,y 
+Data unit 
+Number 
+Description 
+Number of commissioned project devices of type j from batch k in year 
+y 
+Equations 
+(1, (7), (8)  
+Source of data 
+Monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The following data must be recorded during project activity 
+implementation: 
+1) Number of new devices distributed under the project activity, 
+identified by the type of device and date of commissioning; and 
+2) Identification information of the recipient of the device distributed 
+under the project activity (e.g., name, address, phone number). 
+Data management and reporting of this information must adhere to 
+both data privacy requirements and good practice. 
+Frequency of 
+monitoring/recording 
+Every time that new project devices are distributed 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+The number of project devices must be recorded in a database, sales 
+record, or similar to ensure transparency. 
+ 
+VM0050, v1.0  
+ 
+33 
+ 
+Data/Parameter 
+nj,k,y 
+Data unit 
+Fraction 
+Description 
+Proportion of commissioned project devices of type j from batch k that 
+are still being used regularly in year y 
+Equations 
+(1, (7), (8)  
+Source of data 
+Monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Option 1 (SUMs): Measured directly using stove use monitors (SUMs) in 
+a sample of users according to the most recent version of the CDM 
+Standard for Sampling and Surveys for Project Activities and 
+Programmes of Activities and achieving 90/10 confidence precision for 
+the proportion of devices in operation. The SUMs must confirm that the 
+stove is frequently used and functional. 
+Option 2 (surveys): Based on an adoption rate determined by a survey 
+according to the most recent version of the CDM Standard for Sampling 
+and Surveys for Project Activities and Programmes of Activities and 
+achieving 90/10 confidence precision for the proportion of devices in 
+operation. The lower end of the 90% confidence interval must be used 
+to ensure conservativeness. The adoption survey must include: 
+a) Kitchen observation (which includes visual and physical checks 
+of the stove and its components), including photographic 
+evidence; and 
+b) Interview with the primary cook. 
+The project proponent must provide proof of training and supervision to 
+ensure field teams have the capacity required to complete adoption 
+surveys successfully.   
+The average of the sum of "yes" (1) responses to the adoption survey 
+question "If yes, have you used the stove regularly since you installed 
+it?" (where this response is cross-checked and confirmed with the 
+physical check of the stove and the coherency with the responses to the 
+following questions of the survey), and “no” (0) responses to the 
+questions “do you use the project cookstove?” and "If yes, have you 
+used the stove regularly since you installed it?". 
+For both Options 1 and 2, where the project does not achieve the target 
+precision in a monitoring period, the project proponent must apply an 
+appropriate conservativeness deduction as per Section 4 of the most 
+recent version of the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities. 
+Frequency of 
+monitoring/recording 
+Option 1: (SUMs): continuous 
+Option 2 (surveys): annually 
+ 
+VM0050, v1.0  
+ 
+34 
+QA/QC procedures to be 
+applied 
+The date on which a sample project device stopped being used should 
+be taken as follows: 
+Option 1: (SUMs): The date on which the SUM ceased registering any 
+activity of the project device 
+Option 2 (surveys): Where the project device is not working or not being 
+used at the time of conducting the survey, it should be conservatively 
+assumed that the project device has not been active since the date on 
+which the last adoption survey was conducted. 
+Purpose of data 
+Calculation of baseline and project emissions  
+Calculation method 
+N/A 
+Comments 
+Option 1 is the preferred method. 
+This parameter does not need to be monitored separately and is 
+considered equal to one where project devices are electric cooking 
+devices and the electricity consumption of all devices is measured 
+continuously. 
+ 
+Data/Parameter 
+fNRB,y 
+Data unit 
+Fraction or % 
+Description 
+Fraction of woody biomass that is established to be non-renewable 
+used by device in year y 
+Equations 
+(1, (7) 
+Source of data 
+One of the following sources must be used: 
+1) The most recent national default value(s) published by 
+UNFCCC 
+2) Calculated based on CDM TOOL30 and applying an uncertainty 
+discount of 26%22 
+3) Default value of the most recent version of CDM TOOL33 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See “Source of data” 
+ 
+22 For example, if fNRB calculated based on TOOL30 is 0.60, the fNRB applied to emission reduction calculations is 
+0.60 × (1 − 0.26) = 0.44. The 26% uncertainty discount is derived from 100% uncertainty in fNRB, assuming a 
+normal distribution. The discount is calculated using a standard deviation of 61% (100%/1.6449) and a one-sided 
+66.6% confidence interval (61% × 0.4307 = 26%). A fixed uncertainty discount is applied across all projects using 
+TOOL30. 
+ 
+VM0050, v1.0  
+ 
+35 
+Frequency of 
+monitoring/recording 
+Ex-ante for each crediting period 
+Proponents applying draft UNFCCC national default values must apply 
+updated approved default values in any verification requests submitted 
+after UNFCCC approval of the default values.  
+QA/QC procedures to be 
+applied 
+Where using the UNFCCC fNRB value(s), the project proponent must 
+report the related uncertainties along with the value in the project 
+description. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+UNFCCC has not approved the national default values at the time of 
+publishing this methodology. Project proponents may use the most 
+recent available draft fNRB default values but must apply the updated 
+approved default values for any verification requests submitted after 
+UNFCCC approval of the default values.  
+Where switching to the approved default fNRB is the only proposed 
+change to a registered project design, project proponents do not need 
+to follow the methodology and/or project description deviation process. 
+ 
+Data/Parameter 
+BCb,i,y 
+Data unit 
+tonnes 
+Description 
+Fuel used per baseline device type i during year y 
+Equations 
+(2) 
+Source of data 
+Option 1: A measurement campaign following the Kitchen Performance 
+Test Protocol in control households that do not participate in the 
+project, established prior to validation as statistically equivalent to the 
+pre-project conditions of project households regarding baseline fuel 
+consumption 
+Option 2: For project activities applying the default values, this 
+parameter does not need to be updated during the crediting period and 
+the same values as for BCex-ante,b,i  are applied.  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Option 1: Follow-up baseline surveys must be conducted every two 
+years in control households that do not participate in the project, 
+established prior to validation as statistically equivalent to the pre-
+project conditions of project households regarding baseline fuel 
+consumption.  
+Measurement campaign must be updated where follow-up baseline 
+surveys show that the fuels, fuel sources, or technologies used by the 
+control group are no longer statistically equivalent to the pre-project 
+conditions of project households. 
+ 
+VM0050, v1.0  
+ 
+36 
+The measurement campaign must be designed, carried out, and 
+analyzed in compliance with the most recent version of the CDM 
+Standard for Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities.  
+The result must be scaled appropriately using the average household 
+size to obtain the value of BCb,i,y. 
+Option 2: See “Source of data” 
+Frequency of 
+monitoring/recording 
+Every two years 
+QA/QC procedures to be 
+applied 
+The campaign must achieve a confidence and precision of at least 
+90/10 for the target parameter of average daily fuel consumption per 
+adult equivalent. Where the project does not achieve the target 
+precision in a monitoring period, the project proponent must apply an 
+appropriate conservativeness deduction as per Section 4 of the most 
+recent version of the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities. 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+Data/Parameter 
+ηnew,avg,y 
+Data unit 
+Fraction 
+Description 
+Weighted average efficiency of project devices in year y 
+Equations 
+(3) 
+Source of data 
+Monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The efficiency must be established using one of the following methods, 
+and the corresponding documentation must be presented: 
+1) Water Boiling Test campaigns achieving 90/10 confidence and 
+precision levels as per the most recent version of the CDM 
+Standard for Sampling and Surveys for CDM Project Activities 
+and Programmes of Activities; 
+2) Manufacturer-certified value that is determined via Water 
+Boiling Test; or 
+3) Certification from the host country's national standards body or 
+certifying agency. 
+The decrease in thermal efficiency of project device j from batch k due 
+to aging must be accounted for during the monitoring period, as 
+presented below. 
+ 
+VM0050, v1.0  
+ 
+37 
+For devices using biomass or fossil fuel, one of the following options 
+must be selected, listed in descending order of preference: 
+a) Standard Water Boiling Test campaigns23 
+b) A linear decrease approach, applying a default schedule of 
+linearly decreasing efficiency up to the terminal efficiency 
+(assumed to be 25%) through the lifespan of the project 
+device24 
+For all other electric project devices, efficiency loss is calculated by 
+measuring the total heat absorbed by a known mass for a given time 
+and dividing it by the input of electrical energy measured by a power 
+analyzer and comparing to the result of the previous year.  
+The weighted average efficiency is calculated by multiplying the energy 
+consumption ECp,j,k,y of the project device j of batch k by its thermal 
+efficiency ηnew,j,k,y and then summing these values for all project 
+devices. The resulting sum is divided by the total energy consumption of 
+all project devices to determine the weighted average efficiency. 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+Data/Parameter 
+BCp,j,k,y 
+Data unit 
+tonnes or m3 
+Description 
+Average quantity of fuel used by project device type j from batch k 
+during year y 
+Equations 
+(4), (7)  
+Source of data 
+Monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Option 1: Kitchen Performance Test (KPT) 
+A measurement campaign following the Kitchen Performance Test 
+protocol must be designed, carried out, and analyzed in compliance 
+with the most recent version of the CDM Standard for Sampling and 
+ 
+23 Must be carried out following national standards (where available) or international standards or guidelines. 
+24 Consider non-binding best practice example 6 in AMS-II.G. 
+ 
+VM0050, v1.0  
+ 
+38 
+Surveys for CDM Project Activities and Programmes of Activities. The 
+campaign must achieve confidence and precision of at least 90/10 for 
+the target parameter of average daily fuel consumption per adult 
+equivalent. The result must be scaled appropriately using the average 
+household size to obtain the value of BCp,j,k,y.  
+Project activities applying KPTs must also measure the quantity of fuel 
+used by pre-project devices that are still operational and provide it in 
+the calculation sheet and monitoring reports (this is a reporting-only 
+requirement). 
+Option 2: Direct measurement 
+Apply continuous direct measurement using equipment calibrated in 
+accordance with national/international requirements. A sample of 
+project devices may be measured in such a way that confidence and 
+precision of 90/10 is achieved for the target parameter of total annual 
+fuel use. The sampling must comply with the most recent version of the 
+CDM Standard for Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities. 
+Option 3: Fuel purchase monitoring (only for project devices using fossil 
+fuels or bioethanol) 
+Under this option, the project developer must:  
+1) keep continuous records of all fuel purchases (e.g., fuel purchase 
+invoices from the supplier).  
+2) ensure fuel is used only for thermal energy generation by the project 
+device (e.g., by using a fuel cylinder design that may only be attached 
+to the project device).  
+For any of the options above, where the project does not achieve the 
+target precision in a monitoring period, the project proponent must 
+apply an appropriate conservativeness deduction as per Section 4 of 
+the most recent version of the CDM Standard for Sampling and Surveys 
+for CDM Project Activities and Programmes of Activities. 
+Frequency of 
+monitoring/recording 
+Biennial or annual for Option 1 
+Continuous and aggregated annually for Options 2 and 3 
+QA/QC procedures to be 
+applied 
+As a crosscheck, compare results to government publications, peer-
+reviewed literature, third party assessments, and/or official data or 
+statistics.  
+Where SUMs are used to measure project stove adoption, the stove 
+usage indicated by the measurements for this parameter must be 
+consistent with the frequency of use indicated by SUM measurements.  
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+VM0050, v1.0  
+ 
+39 
+ 
+Data/Parameter 
+ECp,j,k,y 
+Data unit 
+MWh 
+Description 
+Annual consumption of electricity by electric project device type j from 
+batch k in year y 
+Equations 
+(5), (8) 
+Source of data 
+Monitoring 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Apply direct measurement by metering. This may be applied to a 
+sample of project devices, following the sampling approach described 
+in the most recent version of the CDM Standard for Sampling and 
+Surveys for CDM Project Activities and Programmes of Activities with a 
+confidence level and precision of at least 90/10. 
+Where the project does not achieve the target precision in a monitoring 
+period, the project proponent must apply an appropriate 
+conservativeness deduction as per Section 4 of the most recent version 
+of CDM Standard for Sampling and Surveys for CDM Project Activities 
+and Programmes of Activities. 
+Frequency of 
+monitoring/recording 
+Continuous and aggregated annually 
+QA/QC procedures to be 
+applied 
+Measurement must use credible and calibrated equipment. Calibration 
+frequency must be specified by the manufacturer.  
+Attached or in-built data loggers may be used where they conform with 
+industry standards and are calibrated according to relevant national 
+requirements. 
+As a cross-check, compare measurements to government publications, 
+peer-reviewed literature, third party assessments, and/or official data 
+or statistics.  
+Where it is not possible to justify energy use using these sources of 
+information, the reference value must be used in Equation (5), while the 
+real monitored value must be used in Equation (8). 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+Where backup generators in decentralized energy systems supply more 
+than 1% of the annual electricity, the same percentage of emission 
+reductions from project devices powered by these systems must be 
+excluded during the monitoring period.  
+The total energy generation of self-generated renewable electricity 
+systems must be estimated and compared to the electricity use of the 
+project device. Where self-generated renewable electricity is 
+ 
+VM0050, v1.0  
+ 
+40 
+supplemented by non-renewable electricity (e.g., a back-up generator), 
+such non-renewable electricity must not account for more than 20% of 
+the electricity consumed by the project devices. Where a verification 
+audit finds that the threshold has been exceeded, the project device 
+must be excluded from emission reduction calculations. 
+ 
+Data/Parameter 
+EFel,y 
+Data unit 
+t CO2e/MWh 
+Description 
+Emission factor of the electricity system in year y 
+Equations 
+(8) 
+Source of data 
+Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Must be determined using CDM TOOL07.  
+Where the electricity comes from a renewable source, the emission 
+factor is considered to be zero. 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+Use credible data for the electricity system. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+Data/Parameter 
+TDLj,y 
+Data unit 
+Fraction 
+Description 
+Average technical transmission and distribution losses for providing 
+electricity to project device type j in year y 
+Equations 
+(8) 
+Source of data 
+Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Must be determined using CDM TOOL 05. 
+ 
+VM0050, v1.0  
+ 
+41 
+Frequency of 
+monitoring/recording 
+Once per monitoring period 
+QA/QC procedures to be 
+applied 
+Use credible data for the electricity system. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+Data/Parameter 
+FCh,y 
+Data unit 
+tonnes 
+Description 
+Fuel consumption of backup generator h in year y 
+Equations 
+(10) 
+Source of data 
+Measured 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The amount of fuel used by the backup generator(s) is determined 
+using one of the following options: 
+1) Apply direct measurement by metering using credible, 
+manufacturer-calibrated equipment; or 
+2) Keep continuous records of fuel purchases. 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Compliance with applicability conditions for project devices using grid 
+electricity 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+9.3 
+Description of the Monitoring Plan 
+The project proponent must maintain a record of the date of commissioning of project devices 
+of each type j and batch k. Relevant parameters must be monitored and recorded during the 
+crediting period as indicated in Section 9.2. The project proponent must apply the requirements 
+specified in the General Guidelines for SSC CDM methodologies. 
+ 
+VM0050, v1.0  
+ 
+42 
+Data recording 
+The project proponent must compile data on each device that is derived from the total sales 
+record, with project technologies differentiated by different project scenarios. These data must 
+be differentiated into sections based on the results of the applicable monitoring studies for 
+each project scenario, so that emission reductions can be calculated appropriately, section by 
+section.  
+The information captured for each project device included in the project activity must include, 
+at a minimum: 
+1) Date of sale;  
+2) Geographic area of sale; 
+3) Model/type of project technology sold/distributed; 
+4) Name, telephone number (where available), and address of recipient; and 
+5) Unique alpha/numeric ID for each device that is sold/distributed. 
+ 
+Sampling 
+Where measurement campaigns are conducted, the sampling approach described in the most 
+recent version of the CDM Standard for Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities must be followed.  
+When developing a sampling plan, project proponents must calculate the sample size required 
+to achieve the required level of reliability. The sample size should be determined manually or 
+using appropriate statistical software.  
+The calculation is dependent on all of the following as well as the target level of confidence and 
+the precision of 90/10: 
+a) The type of parameter of interest (i.e., mean value or proportion); 
+b) The target value (i.e., the expected value of the parameter), which should be 
+determined using the project proponent’s knowledge and experience; and 
+c) Expected variance (or standard deviation) for that measure in the sample, based on 
+results from similar studies including other similar mitigation projects or previous 
+monitoring periods, pilot studies, or from the project proponent’s own knowledge.  
+The project proponent is encouraged to ensure that all surveys and tests performed for the 
+quantification of GHG emission reductions within this methodology are performed by an 
+independent party qualified for these procedures. This ensures the integrity, accuracy, and 
+transparency of reduction claims and supports the credibility of the project's environmental 
+benefits. 
+ 
+VM0050, v1.0  
+ 
+43 
+Avoidance of double counting 
+Project proponents must demonstrate that the project prevents double counting of GHG 
+emission reductions by any actor25 who may wish to claim reductions from project devices. 
+Ownership of the reductions resulting from the project activity must be clearly communicated 
+by contract or clear written assertions in the transaction paperwork to all involved parties. 
+Users must be notified that they are not permitted to claim reductions from the project. 
+Use of renewable biomass 
+For project activities introducing renewable biomass in the form of charcoal, it must be 
+demonstrated (on an ongoing basis) that methane produced during the charcoaling process is 
+captured and destroyed or combusted for energy purposes. The project proponent must 
+document this both in the project description and monitoring reports. 
+Project activities must ensure that renewable biomass sources are documented in the project 
+description and monitoring reports, including origin, quantities, and conditions prior to use 
+under the project activity. Where the biomass is sourced from a third party, proof of purchase 
+must be provided (e.g., contractual agreements or purchase receipts). 
+Decentralized energy systems 
+Where backup generators in decentralized energy systems supply more than 1% of the annual 
+electricity, the same percentage of emission reductions from project devices powered by these 
+systems must be excluded during the monitoring period. 
+Self-generated renewable electricity system 
+The total energy generation of the self-generated renewable electricity system must be 
+estimated and compared to the electricity use of the project device. Where self-generated 
+renewable electricity is supplemented by non-renewable electricity (e.g., a back-up generator), 
+such non-renewable electricity must not account for more than 20% of the electricity consumed 
+by the project devices. Where a verification audit finds that the threshold has been exceeded, 
+the project device must be excluded from emission reduction calculations. 
+ 
+ 
+25 For example, project technology manufacturers, wholesale providers, target population, among others 
+ 
+VM0050, v1.0  
+ 
+44

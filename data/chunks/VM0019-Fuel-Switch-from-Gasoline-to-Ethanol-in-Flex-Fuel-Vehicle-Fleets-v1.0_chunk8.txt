@@ -1,0 +1,292 @@
+8 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+8.1 Baseline Emissions 
+The baseline emissions include exclusively the emissions from fossil fuel combustion by the 
+commercial fleet that would have occurred in the baseline scenario. 
+The baseline emissions are calculated as follows: 
+ 
+ 
+ 
+ (1) 
+Where: 
+BEy 
+ 
+Baseline emissions in the year y (tCO2); 
+BEFF,i,y 
+Baseline emissions from gasoline combustion by commercial fleet i in year y 
+(tCO2e); 
+i 
+ 
+x1, x2,..., xn commercial fleets in the project activity. 
+The baseline emissions from fossil fuel combustion by a commercial fleet are calculated as 
+follows: 
+∑
+=
+•
+=
+m
+r
+r
+R
+y
+R
+i
+gas
+y
+gas
+y
+i
+FF
+FC
+COEF
+BE
+1
+,
+,
+,
+,
+,
+,
+ 
+(2) 
+Where: 
+BEFF,i,y 
+Baseline emissions from gasoline combustion by commercial fleet i in year y 
+(tCO2e); 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 12
+FCgas,i,R,y 
+Gasoline consumption by the commercial fleet i in the baseline scenario, in 
+regional group R in year y (L); 
+COEFgas,y 
+CO2 emission coefficient of gasoline in year y (tCO2/L)  
+R 
+ 
+r1, r2, ... , rm regional groups where a fleet i has fueled during the year y. 
+The gasoline consumption by fleets in the baseline scenario is calculated as follows: 
+y
+ff
+BSL
+R
+i
+y
+R
+i
+ethanol
+y
+R
+i
+gas
+T
+P
+FC
+FC
+,
+,
+,
+,
+,
+,
+,
+,
+,
+•
+•
+=
+ 
+(3) 
+Where: 
+FCgas,i,R,y 
+Gasoline consumption by the commercial fleet i in the baseline scenario, in 
+regional group R in year y (L); 
+FCethanol,i,R,y 
+Ethanol consumption by the commercial fleet i in the project activity in 
+regional group R in year y (L); 
+Pi,R,BSL 
+Baseline fuel consumption pattern of commercial fleet i in regional group R in 
+the baseline scenario (adimensional); 
+Tff,y 
+Conversion factor between gasoline and ethanol in year y (dimensionless);   
+8.1.1.  Procedure to calculate the CO2 emission coefficient (COEFgas,y) 
+The CO2 emission coefficient COEFgas,y is calculated through the CDM Tool to calculate 
+project or leakage CO2 emissions from fossil fuel combustion. It can be calculated using one 
+of the following two options depending on the availability of data on gasoline as follows: 
+Option A: The CO2 emission coefficient COEFgas,y  is calculated based on the chemical 
+composition of gasoline, using the following approach: 
+ 
+(4) 
+Where: 
+COEFgas,y 
+CO2 emission coefficient of gasoline in year y (tCO2/L);  
+wC,gas,y 
+weighted average mass fraction of carbon in gasoline in year y (tC/mass unit); 
+ρgas,y 
+ 
+weighted average density of gasoline in year y (mass unit/L). 
+Option B: The CO2 emission coefficient COEFgas,y  is calculated based on net calorific value 
+and CO2 emission factor of gasoline, as follows: 
+y
+gas
+CO
+y
+gas
+y
+gas
+EF
+NCV
+COEF
+,
+,
+2
+,
+,
+•
+=
+ 
+(5) 
+Where: 
+COEFgas,y 
+CO2 emission coefficient of gasoline in year y (tCO2/L);  
+NCVgas,y 
+weighted average net calorific value of gasoline in year y (GJ/L); 
+EFCO2,gas,y 
+weighted average CO2 emission factor of gasoline (tCO2/GJ). 
+Option A is the preferred approach, if the necessary data is available. 
+8.1.2.  Procedure to determine the baseline fuel consumption pattern of a commercial 
+fleet (Pi,R,BSL) 
+Proportion between the use of gasoline and the use of ethanol in the annual fuel consumption 
+in the baseline scenario in a regional group characterizes the baseline fuel consumption 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 13
+pattern of a fleet in this regional group. The historical values of the fuel consumption patterns 
+of the project proponent's commercial fleets shall be adopted. For this purpose it is 
+acceptable that a minimum reference period of three years and a maximum period that is 
+consistent with the ethanol availability in the project region be used (i.e., it shall take into 
+account 
+national 
+circumstances, 
+including 
+policies 
+and 
+market 
+conditions). 
+The 
+Validation/Verification Body has the authority to decide whether the maximum historical 
+period is suitable or not. 
+In the case of a Greenfield project activity instance, or if insufficient historical data is 
+available, the historical average consumption pattern from the same regional group shall be 
+adopted.  
+Baseline fuel consumption pattern in a regional group is determined as follows: 
+ 
+(6) 
+Where: 
+Pi,R,BSL 
+Baseline fuel consumption pattern of a commercial fleet i in regional group R 
+in the baseline scenario (adimensional); 
+FCgas,i,R,BSL 
+Total quantity of gasoline consumed by commercial fleet i in regional group R 
+during  the reference period (L); 
+FCethanol,i,R,BSL 
+Total quantity of ethanol consumed by commercial fleet i in regional group R 
+during the reference period (L). 
+8.1.3.  Procedure to determine the conversion factor between gasoline and ethanol (Tff,y) 
+The conversion factor between gasoline and ethanol is calculated as a relationship between 
+net calorific values (NCV) of these fuels. It shows the equivalent volume of ethanol necessary 
+to substitute one liter of gasoline in the project activity. 
+The conversion factor between gasoline and ethanol is calculated as follows: 
+y
+gas
+y
+ethanol
+y
+ff
+NCV
+NCV
+T
+,
+,
+, =
+ 
+(7) 
+Where: 
+Tff,y 
+ 
+conversion factor between gasoline and ethanol in year y; 
+NCVethanol,y 
+weighted average net calorific value of ethanol in year y (GJ/L); 
+NCVgas,y 
+weighted average net calorific value of gasoline in year y (GJ/L). 
+8.2 Project Emissions 
+Project emissions include start-up and emergency consumption of gasoline in the project activity, 
+for which the sum shall not exceed 5% of the total fuel consumption under the project activity per 
+each fleet per year. The project emissions from ethanol consumption that is renewable fuel are 
+considered zero. 
+ 
+ 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 14
+Project emissions are calculated as follows: 
+∑
+=
+=
+n
+x
+x
+i
+y
+i
+FC
+y
+PE
+PE
+1
+,
+,
+ 
+(8) 
+Where: 
+PEy 
+Project emissions in year y (t CO2/yr) 
+PEFC,i,y 
+Project emissions from gasoline combustion by commercial fleet i in year y (t CO2/yr) 
+i 
+x1, x2,..., xn commercial fleets in the project activity. 
+Project emissions from gasoline combustion are calculated as follows: 
+ 
+(9) 
+Where: 
+PEFC,i,y  
+Project emissions from gasoline combustion in year y (tCO2); 
+FCgas, i, y 
+Gasoline consumption by commercial fleet i in the project scenario in year y 
+(L); 
+COEFgas,y 
+CO2 emission coefficient of gasoline in year y (tCO2/L), according to 
+Procedure 8.1.1.  
+8.3 Leakage 
+No leakage emissions are considered in this methodology.  
+8.4 Summary of GHG Emission Reduction and/or Removals 
+Emission reductions are calculated as follows: 
+ 
+(10) 
+Where: 
+ERy 
+Emission reductions in year y (tCO2e/yr) 
+BEy 
+Baseline emissions in year y (tCO2e/yr) 
+PEy 
+Project emissions in year y (tCO2/yr) 
+LEy 
+Leakage emissions in year y (tCO2/yr)

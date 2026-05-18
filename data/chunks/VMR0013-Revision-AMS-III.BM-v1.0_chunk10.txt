@@ -1,0 +1,133 @@
+9 MONITORING 
+For all monitoring parameters referring to CDM TOOL05 Tool to calculate baseline, project 
+and/or leakage emissions from electricity consumption, it must be replaced by the most recent 
+version of VT0010 Emissions from Electricity Consumption and Generation. 
+9.1 
+Data and Parameters Available at Validation 
+Data and parameters available at validation are those in the most recent version of AMS-III.BM, 
+with the inclusion of other two- or three-wheeled e-vehicles in modal types, and the following 
+inclusions: 
+Data / Parameter: 
+EFBL,CO2,monitor  
+Data unit: 
+t CO2/km 
+Description: 
+Average CO2 emission factor based on monitored trips prior to the start 
+date of the project activity 
+ 
+VMR0013, v1.0 
+ 
+13 
+Equations 
+(2a) 
+Source of data: 
+Monitored trips (mode used and distance traveled) 
+Value applied: 
+Calculated 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions  
+Comments: 
+None 
+ 
+Data / Parameter: 
+DTi,0 
+Data unit: 
+km 
+Description: 
+Total distance traveled using vehicle category i in the baseline year 
+Equations 
+(2b) 
+Source of data: 
+Monitored data 
+Value applied: 
+From the project proponents based on monitored data 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments: 
+None 
+ 
+Data / Parameter: 
+DT0 
+Data unit: 
+km 
+Description: 
+Total distance traveled in the baseline year 
+Equations 
+(2b) 
+Source of data: 
+Monitored data 
+Value applied: 
+From the project proponents based on monitored data 
+ 
+VMR0013, v1.0 
+ 
+14 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments: 
+None 
+ 
+Data/Parameter 
+ECi,default 
+Data unit 
+kWh/km 
+Description 
+Default quantity of electricity consumed to recharge the batteries of e-
+vehicle i per kilometer traveled 
+Equations 
+(3a) 
+Source of data 
+For e-bikes, use the default value from the most recent version of  
+AMS-III.BM. 
+For other two- or three-wheeled e-vehicles, project proponents may 
+propose the default quantity of electricity consumed based on 
+transparent and documented evidence, including, but not limited to: 
+1) Relevant (sectoral) studies or surveys (e.g., market surveys, 
+technology studies) undertaken, for example, by universities, 
+research institutions, industry associations, companies, 
+bilateral/multilateral institutions 
+2) Relevant statistical data from national or international statistics 
+3) Written documentation of independent judgment from experts in 
+industry, educational institutions (e.g., universities, technical 
+schools, training centers), industry associations, and others 
+Value applied 
+Default value for e-bikes in the most recent version of AMS-III.BM.  
+For other two- or three-wheeled e-vehicles, values must be based on 
+transparent, documented and verifiable evidence. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+VMR0013, v1.0 
+ 
+15 
+ 
+9.2 
+Data and Parameters Monitored 
+Data and parameters monitored are those in the most recent version of AMS-III.BM., with the 
+inclusion, where appropriate, of other two- and three-wheeled e-vehicles in modal types. 
+9.3 
+Description of the Monitoring Plan 
+The description of the monitoring plan is in accordance with the most recent version of AMS-
+III.BM.

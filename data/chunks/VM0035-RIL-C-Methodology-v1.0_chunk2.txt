@@ -1,0 +1,41 @@
+2  
+DEFINITIONS 
+In addition to the definitions set out in VCS document Program Definitions, the following 
+definitions apply to this methodology: 
+ 
+Additionality Benchmark 
+The level of a given impact parameter below which a project is deemed additional, specified in 
+terms of impact parameter values which represent a certain base level of performance among 
+logging operations within a sampled logging landscape.  
+ 
+Crediting Baseline 
+The level of a given impact parameter below which emission reductions may be credited, 
+specified in terms of impact parameter values which represent a certain base level of 
+performance among logging operations within a sampled logging landscape. The corresponding 
+baseline scenario is represented by an aggregate of individual logging operations from the 
+logging landscape operating at this specified level of performance. 
+ 
+Impact Parameter  
+Quantitative parameter based on field measurements which defines both the crediting baseline 
+and the additionality benchmark. Each impact parameter has an established empirical 
+relationship with emissions levels, and is thus used as a proxy for emissions that can be readily 
+measured in the field. 
+ 
+Logging Landscape  
+The geography, class of actors/sector, major logging system (eg, selective harvest) and 
+timeframe within which the relationships of the impact parameter (with emission reductions) are 
+applicable, and which is defined in the corresponding region-specific RIL-C performance method 
+module. 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+6 
+ 
+Reduced Impact Logging (RIL-C) 
+Measures that reduce emissions from timber harvest in one or more of three emission source 
+categories: felling, skidding and hauling. Component practices may include, but are not limited to, 
+directional felling, improved log bucking, improved harvest planning via pre-harvest inventory, 
+skid trail planning, mapping, and oversight and/or long cable winching, and reduction in width of 
+haul roads and size of log landings.1, 2

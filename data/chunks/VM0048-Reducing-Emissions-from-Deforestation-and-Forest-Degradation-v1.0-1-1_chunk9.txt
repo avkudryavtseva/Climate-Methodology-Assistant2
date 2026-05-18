@@ -1,0 +1,159 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Relevant parameters are detailed within accounting and other source modules. 
+9.2 
+Data and Parameters Monitored 
+Relevant parameters are detailed within accounting and other source modules. 
+9.3 
+Description of the Monitoring Plan 
+9.3.1 Development of Monitoring Plan 
+General 
+The monitoring plan must address the following tasks: 
+• 
+Monitoring of project implementation; 
+• 
+Monitoring of actual carbon stock changes and greenhouse gas emissions; 
+• 
+Monitoring of leakage carbon stock changes and greenhouse gas emissions; and 
+• 
+Estimation of ex post net carbon stock changes and greenhouse gas emissions. 
+For each of these tasks, the monitoring plan must include the following information: 
+• 
+Technical description of the monitoring task; 
+• 
+Data to be collected (data and parameters to be collected must be listed in the project 
+description); 
+• 
+Overview of data collection procedures; 
+• 
+Quality control and quality assurance procedures;  
+• 
+Data archiving; and 
+• 
+Organization and responsibilities of the parties involved in all of the above. 
+Uncertainty and Quality Management 
+As far as is practical, uncertainties related to the quantification of GHG emission reductions 
+should be reduced. 
+Uncertainties arising from input parameters would result in uncertainties in estimating baseline 
+and project net GHG emissions – especially where global default factors are used. The project 
+ 
+VM0048, v1.0 
+15 
+must identify critical parameters that would significantly influence the accuracy of estimates. 
+Local values specific to the project circumstances must be obtained for these key parameters 
+where possible. These values should be based on: 
+• 
+Cited data from well-referenced peer-reviewed literature or other well-established 
+published sources; 
+• 
+National inventory data or default factors from IPCC literature that have, where possible 
+and necessary, been checked for consistency against available local data specific to the 
+project circumstances; or 
+• 
+Expert opinion, in the absence of the above sources of information. Experts will often 
+provide a range of data values and a proposed value for the data. The rationale for 
+selecting a particular data value must be demonstrated. 
+In choosing key parameters or making important assumptions based on information not specific 
+to the project circumstances, such as using default factors, the project proponent must select 
+values that will lead to an accurate estimation of net GHG emission reductions, taking into 
+account uncertainties. 
+Where uncertainty is significant,4 the project proponent must choose data that indisputably tends 
+to under-estimating, rather than over-estimating, net GHG project benefits. 
+To ensure that GHG fluxes are estimated in a way that is accurate, verifiable, transparent and 
+consistent across measurement periods, the project proponent must establish and document 
+clear standard operating procedures and procedures for ensuring data quality. At a minimum, 
+these procedures must include: 
+• 
+Comprehensive documentation of all field measurements taken in the project area. This 
+documentation must be detailed enough to allow replication of sampling in the event of 
+staff turnover between monitoring periods; 
+• 
+Training procedures for all people involved in field measurement or data analysis. The 
+scope and date of all training must be documented; 
+• 
+A protocol for assessing the accuracy of plot measurements using a check cruise and a 
+plan for correcting the inventory where errors are discovered; 
+• 
+Protocols for assessing data for outliers, transcription errors and consistency across 
+measurement periods; and 
+• 
+Safe archiving of data sheets for the lifetime of the project. Data stored in electronic 
+formats must be backed up. 
+ 
+4 In line with the VCS Methodology Requirements, uncertainty is deemed significant where it is expected to exceed 10 
+percent of the estimate. 
+ 
+VM0048, v1.0 
+16 
+Expert judgment 
+The use of expert judgment for selecting and interpreting methods, selecting input data to fill 
+gaps in available data and selecting data from a range of possible values or uncertainty ranges 
+are all well defined in the IPCC 2006 Guidelines for National GHG Inventories and its 2019 
+Refinement. The project proponent must use the guidance provided in Volume 1 Chapter 2 
+Approaches to Data Collection (in particular, Section 2.2 and Annex 2A.1) of the IPCC 2019 
+Refinement to the 2006 IPCC Guidelines for National GHG Inventories. 
+Monitoring of Project Implementation 
+Information must be provided and recorded to establish the following: 
+1) The geographic position of the project boundary is recorded for all areas of land. The 
+geographic coordinates of the project boundary (and any stratification or buffer zones 
+inside the boundary) are established, recorded and archived. This may be achieved by 
+field survey (e.g., GPS) or geo-referenced spatial data (e.g., maps, GIS datasets, 
+orthorectified aerial photography or geo-referenced remote sensing images). 
+The above also applies to strata recording, including strata resulting from peatland fires 
+in the project scenario. 
+2) Commonly accepted principles of land use inventory and management are implemented. 
+Standard operating procedures (SOPs) and quality control/quality assurance procedures 
+for inventories, including field data collection and management, must be applied. Use or 
+adaptation of SOPs already applied in national land use monitoring or available from 
+published handbooks or the latest IPCC guidance documents is recommended. 
+The project plan and a record of the plan as implemented during the project must be 
+available for validation or verification, as appropriate. 
+3) The monitoring plan must use the methods in the relevant module(s) (i.e., AUDef, APDef, 
+and/or AUDeg) to monitor changes in forest cover and carbon stock changes. All relevant 
+parameters from the modules must be included in the monitoring plan. 
+9.3.2 Monitoring 
+Ex post monitoring must accomplish two key tasks: 
+1) Monitoring according to the monitoring plan; and 
+2) Revising the baseline for future project crediting periods. 
+ 
+VM0048, v1.0 
+17 
+TASK 1: Monitoring According to the Monitoring Plan 
+Monitoring of Key Baseline Variables 
+Information required to periodically reassess the project baseline must be collected during the 
+entire project crediting period. Key variables to be measured are: 
+• 
+Changes in forest cover as specified in the relevant accounting modules (e.g., AUDef) 
+• 
+Spatial variable datasets used in modeling, as specified in relevant accounting modules 
+(e.g., AUDef). As a minimum, the variables used in the first baseline assessment must be 
+monitored during any reassessments. 
+• 
+Carbon stock data, where required, as specified in the relevant accounting module 
+Monitoring of Leakage 
+All significant sources of leakage identified are subject to monitoring following the procedures 
+outlined in the monitoring plan. Such procedures must be consistent with the applicable leakage 
+modules. The monitoring plan must include all relevant parameters in the leakage modules. 
+Reporting of Parameters in Each Monitoring Report 
+The following values must be reported using the unit in parentheses, each with an estimate of 
+uncertainty, representing sampling error as a two-sided 90 percent confidence interval: 
+1) For projects using AUDef, the allocated annual deforestation area by stratum (hectares 
+for each year of the monitoring period); 
+2) Aggregate annual deforestation area for the verification period in the project area 
+(hectares per year); 
+3) Aggregate annual deforestation area for the verification period in the leakage belt 
+(hectares per year); 
+4) Aggregate annual emissions from deforestation for the verification period and project 
+area (tonnes CO2e per year); 
+5) Aggregate annual emissions from deforestation for the verification period and leakage 
+belt (tonnes CO2e per year); and 
+6) Average emission factor for deforestation for the verification period and over the project 
+area (tonnes CO2e per hectare). 
+Additional values may be added as additional modules are added under this VM0048. 
+TASK 2: Revising the Baseline for Future Project Crediting Periods 
+The methodological procedure to update the baseline must be the same as in the first baseline 
+estimation. 
+ 
+VM0048, v1.0 
+18

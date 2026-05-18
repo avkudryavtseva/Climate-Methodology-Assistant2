@@ -1,0 +1,73 @@
+4 APPLICABILITY CONDITIONS 
+This methodology is globally applicable to project activities that capture carbon dioxide (CO2) 
+from the atmosphere or from point sources at a source facility and store it permanently in 
+geological storage complexes. 
+This methodology is applicable under the following conditions: 
+1) Project activities include at least one eligible capture activity and at least one eligible 
+storage activity.  
+2) CO2 capture activities include any one or multiple of the following: 
+ 
+VM0049, v1.0 
+ 
+8 
+a) Direct air capture (DAC) that meet the eligibility conditions in VMD0056 Removals 
+from CO2 Capture from Air (Direct Air Capture); 
+b) Post-combustion capture from power plants, heat generation operations, and 
+combined heat and power (CHP) units based on fossil fuel combustion or 
+geothermal energy that meet the eligibility conditions in VMD00XX Emission 
+Reductions from CO2 Capture from Post-combustion Flue Gases in Fossil Fuel 
+Power and Heat Generation; 
+c) Flue gas capture from industrial processes, including chemical industry, mineral 
+production, steel production, cement plants, and hydrogen (H2) production, that 
+meet the eligibility conditions in VMD00XX Emission Reductions from CO2 Capture 
+from Industrial Processes; 
+d) Flue gas capture from oil and gas production and processing, including the 
+capture of native CO2, acid gas removal, and liquefied natural gas (LNG) 
+production that meet the eligibility conditions in VMD00XX Emission  Reductions 
+from CO2 Capture from Oil and Gas Production and Processing;  
+e) Capture of CO2 from biomass combustion as defined in VMD00XX Emission 
+Reductions or Removals from CO2 Capture from Bioenergy Combustion and from 
+biofuel production processes (e.g., biogas or ethanol production) that meet the 
+eligibility conditions in VMD00XX Emission Reductions or Removals from CO2 
+Capture from Bioproduction Processes; 
+f) 
+Capture of CO2 from the pre-combustion process in power and heat generation 
+that meet the eligibility conditions in VMD00XX Emission Reductions from CO2 
+Capture from Precombustion Processes in Fossil Fuel Power and Heat Generation; 
+and 
+g) Capture of CO2 from oxyfuel combustion in power and heat generation that meet 
+the eligibility conditions in VMD00XX Emission Reductions from CO2 Capture from 
+Oxyfuel Combustion in Fossil Fuel Power and Heat Generation. 
+3) Where a project transports CO2 from a capture facility to a storage site, the transport 
+activities meet the eligibility conditions in VMD0057 Project Emissions from CO2 
+Transport for CCS Projects. 
+4) Storage activities that meet the eligibility conditions of one or multiple of the following: 
+a)  VMD0058 Project Emissions from CO2 Storage in Saline Aquifers and Depleted 
+Hydrocarbon Reservoirs; and 
+b) VMD00XX Project Emissions from CO2 Storage via Geological Mineralization  
+5) The capture facility is designed to handle a CO2 stream that is delivered to the storage 
+site and the stream meets the following requirements:  
+a) Minimum concentration of 95% purity; and 
+b) Compliance with applicable national/regional/local regulations related to CO2 
+purity and concentration of co-injected substances.  
+ 
+VM0049, v1.0 
+ 
+9 
+6) Where project facilities include refrigeration systems that use industrial refrigerants, 
+these systems:  
+a) Do not use refrigerants that are controlled substances under the Montreal 
+Protocol (e.g., HCFCs) or the Kigali Amendment (e.g., HFCs); and 
+b) Comply with the most conservative (i.e., stringent) applicable regulations of the 
+country/region where the equipment is installed.  
+This methodology is not applicable under the following conditions: 
+7) Project activities utilize captured CO2 as a feedstock for products or services (i.e., 
+carbon capture and utilization). 
+8) Project activities capture and store CO2 through enhanced weathering, biochar 
+production, or ocean alkalinity enhancement. 
+9) Project activities divert CO2 streams from other storage or utilization activities. 
+10) Project activities produce CO2 for the purpose of capturing it.  
+11) Project activities extract CO2 from a geologic formation to generate credits. 
+12) Project activities reduce energy-related emissions from an existing CCS activity through 
+technology improvement, operational improvement, a shift in the mode of 
+transportation, or a switch to less carbon-intensive energy sources.

@@ -1,0 +1,545 @@
+Вопрос: что такое emissions?
+
+SCORE: 0.6349
+SOURCE: VM0016-Destruction-of-Ozone-Depleting-Substances-and-Hydrofluorocarbons-v2.0_chunk11.txt
+
+10 REFERENCES 
+American Carbon Registry (ACR). 2023. Methodology for the Quantification, Monitoring, 
+Reporting and Verification of Greenhouse Gas Emissions Reductions and Removals from the 
+Destruction of Ozone Depleting Substances and High-GWP Foam. 
+https://acrcarbon.org/methodology/destruction-of-ozone-depleting-substances-and-high-gwp-
+foam/.  
+California Air Resources Board. 2011. Lifecycle Analysis of High-Global Warming Potential 
+Greenhouse Gas Destruction. Prepared by ICF. 
+https://ww2.arb.ca.gov/sites/default/files/classic/research/apr/past/07-330.pdf.   
+Climate Action Reserve (CAR). 2012a. Article 5 Ozone Depleting Substances Project Protocol. 
+https://www.climateactionreserve.org/how/protocols/industrial/ozone-depleting-substances/.  
+Climate Action Reserve (CAR). 2012b. US Ozone Depleting Substances Project Protocol. 
+https://www.climateactionreserve.org/how/protocols/industrial/ozone-depleting-substances/.  
+Dellinger, B., C. W. Lamb, P. Kumar, and M. Wagner. 2010. “Theoretical estimation of 
+incinerability of halons and hydrochlorofluorocarbons.” Environmental Engineering Science 
+27(7): 587–591. https://doi.org/10.1089/ees.2009.0393 
+Fredenslund, A. M., C Scheutz, and P. Kjeldsen. 2005. Disposal of Refrigerators-Freezers in 
+the U.S.: State of the Practice. Technical University of Denmark. 
+ICF. 2018. ODS Destruction in the United States and Abroad. 
+https://www.epa.gov/sites/default/files/2018-03/documents/ods-destruction-in-the-us-and-
+abroad_feb2018.pdf. 
+Lamb, C., B. Dellinger, M. Wagner, and R. Lanza. 2008. Incinerability of Halons and HCFCs: 
+Theoretical Calculations of DRE and Ozone-Depleting or Global-Warming Gases. 
+https://www.researchgate.net/publication/236168646_Incinerability_of_Halons_and_HCFCs
+_Theoretical_Calculations_of_DRE_and_Ozone-Depleting_or_Global-Warming_Gases. 
+Scheutz, C., A. M. Fredenslund, P. Kjeldsen, and M. Tant. 2007a. “Release of fluorocarbons 
+from insulation foam in home appliances during shredding.” Journal of the Air & Waste 
+Management Association 57(12): 1452–60. https://doi.org/10.3155/1047-3289.57.12.1452  
+Scheutz, C., Y. Dote, A. M. Fredenslund, H Mosbæk, and P. Kjeldsen. 2007b. “Attenuation of 
+insulation foam released fluorocarbons in landfills.” Environmental Science and Technology 41: 
+7714–22.  
+UNEP Technology and Economic Assessment Panel (TEAP). 2006. “Code of Good 
+Housekeeping.” In Handbook for the Montreal Protocol on Substances that Deplete the Ozone 
+Layer. 7th ed. 
+VM0016, v2.0 
+63 
+UNEP Technology and Economic Assessment Panel (TEAP). 2002. Report of the Task Force on 
+Destruction Technologies. https://ozone.unep.org/node/3783. 
+UNEP Technology and Economic Assessment Panel (TEAP). 2018. Task Force Report on 
+Destruction Technologies for Controlled Substances. 
+https://ozone.unep.org/sites/default/files/2019-04/TEAP-DecXXIX4-TF-Report-April2018.pdf. 
+United States Environmental Protection Agency (US EPA). 2023a. Inventory of U.S. Greenhouse 
+Gas Emissions and Sinks: 1990–2021. https://www.epa.gov/ghgemissions/inventory-us-
+greenhouse-gas-emissions-and-sinks-1990-2021.  
+United States Environmental Protection Agency (US EPA). 2023b. Emission Factors for 
+Greenhouse Gas Inventories. https://www.epa.gov/system/files/documents/2023-
+03/ghg_emission_factors_hub.pdf.  
+ 
+VM0016, v2.0 
+64 
+APPENDIX 1: ODS AND HFCS  
+Substance terms based on the Montreal Protocol on Substances that Deplete the Ozone Layer. 
+https://ozone.unep.org/treaties/montreal-protocol 
+ 
+Table A1. Annex A controlled substances – Group I 
+Substance  
+CFCl3 
+CFC-11  
+CF2Cl2 
+CFC-12  
+C2F3Cl3 
+CFC-113  
+C2F4Cl2 
+CFC-114  
+C2F5Cl 
+CFC-115  
+  
+Table A2. Annex B controlled substances – Group I 
+Substance  
+CF3Cl  
+CFC-13  
+C2FCl5  
+CFC-111  
+C2F2Cl4  
+CFC-112  
+C3FCl7  
+CFC-211  
+C3F2Cl6  
+CFC-212  
+C3F3Cl5  
+CFC-213  
+C3F4Cl4  
+CFC-214  
+C3F5Cl3  
+CFC-215  
+C3F6Cl2  
+CFC-216  
+C3F7Cl  
+CFC-217  
+ 
+Table A3. Annex C controlled substances – Group I 
+Substance  
+VM0016, v2.0 
+65 
+CHFCl2   
+HCFC-21**   
+CHF2Cl   
+HCFC-22**   
+CH2FCl   
+HCFC-31   
+C2HFCl4  
+HCFC-121   
+C2HF2Cl3   
+HCFC-122   
+C2HF3Cl2   
+HCFC-123   
+CHCl2CF3   
+HCFC-123**   
+C2HF4Cl   
+HCFC-124   
+CHFClCF3   
+HCFC-124**   
+C2H2FCl3   
+HCFC-131   
+C2H2F2Cl2   
+HCFC-132   
+C2H2F3Cl   
+HCFC-133   
+C2H3FCl2   
+HCFC-141  
+CH3CFCl2   
+HCFC-141b**   
+C2H3F2Cl   
+HCFC-142   
+CH3CF2Cl   
+HCFC-142b**   
+C2H4FCl   
+HCFC-151   
+C3HFCl6   
+HCFC-221  
+C3HF2Cl5   
+HCFC-222  
+C3HF3Cl4   
+HCFC-223   
+C3HF4Cl3   
+HCFC-224   
+C3HF5Cl2   
+HCFC-225   
+CF3CF2CHCl2   
+HCFC-225ca** 
+CF2ClCF2CHClF 
+HCFC-225cb** 
+C3HF6Cl   
+HCFC-226   
+C3H2FCl5   
+HCFC-231   
+C3H2F2Cl4   
+HCFC-232   
+VM0016, v2.0 
+66 
+C3H2F3Cl3   
+HCFC-233   
+C3H2F4Cl2   
+HCFC-234   
+C3H2F5Cl   
+HCFC-235   
+C3H3FCl4   
+HCFC-241   
+C3H3F2Cl3   
+HCFC-242   
+C3H3F3Cl2   
+HCFC-243   
+C3H3F4Cl   
+HCFC-244   
+C3H4FCl3   
+HCFC-251   
+C3H4F2Cl2   
+HCFC-252   
+C3H4F3Cl   
+HCFC-253   
+C3H5FCl2   
+HCFC-261   
+C3H5F2Cl   
+HCFC-262   
+C3H6FCl   
+HCFC-271   
+** Identifies the most commercially viable substances 
+Table A4. Annex F controlled substances – Group I 
+Substance  
+CHF2CHF2 
+HFC-134 
+CH2FCF3 
+HFC-134a 
+CH2FCHF2 
+HFC-143 
+CHF2CH2CF3 
+HFC-245fa 
+CF3CH2CF2CH3 
+HFC-365mfc 
+CF3CHFCF3 
+HFC-227ea 
+CH2FCF2CF3 
+HFC-236cb 
+CHF2CHFCF3 
+HFC-236ea 
+CF3CH2CF3 
+HFC-236fa 
+CH2FCF2CHF2 
+HFC-245ca 
+CF3CHFCHFCF2CF3 
+HFC-43-10mee 
+VM0016, v2.0 
+67 
+CH2F2 
+HFC-32 
+CHF2CF3 
+HFC-125 
+CH3CF3 
+HFC-143a 
+CH3F 
+HFC-41 
+CH2FCH2F 
+HFC-152 
+CH3CHF2 
+HFC-152a 
+ 
+ 
+ 
+VM0016, v2.0 
+68 
+APPENDIX 2: CODE OF GOOD 
+HOUSEKEEPING12  
+To provide additional guidance to facility operators, in May 1992 the Technical Advisory Committee 
+prepared a “Code of Good Housekeeping” to outline measures that should be considered to ensure 
+that environmental releases of ODS through all media are minimized. This code, updated by the Task 
+Force on Destruction Technologies and amended by the Parties at their Fifteenth Meeting, in 2003, is 
+also intended to provide a framework of practices and measures that should normally be adopted at 
+facilities destroying ODS.  
+Not all measures will be appropriate to all situations and circumstances, and nothing specified should 
+be regarded as a barrier to the adoption of better or more effective measures where available.  
+A 2.1 Pre-delivery  
+This refers to measures that may be appropriate prior to any delivery of ODS to a facility.  
+The facility operator should generate written guidelines on ODS packaging and containment criteria, 
+together with labeling and transportation requirements. These guidelines should be provided to all 
+suppliers and senders of ODS prior to agreement to accept such substances.  
+The facility operator should seek to visit and inspect the proposed sender’s stocks and arrangements 
+prior to movement of the first consignment. This is to ensure awareness on the part of the sender of 
+proper practices and compliance with standards.  
+A2.2 Arrival at Facility 
+This refers to measures that should be taken at the time ODS are received at the facility gate. These 
+include an immediate check of documentation prior to admittance to the facility site, coupled with a 
+preliminary inspection of the general condition of the consignment. Where necessary, special or “fast-
+track” processing and repackaging facilities may be needed to mitigate risk of leakage or loss of ODS. 
+Arrangements should exist to measure the gross weight of the consignment at the time of delivery.  
+A2.3 Unloading from Delivery Vehicle  
+This refers to measures to be taken at the facility in connection with the unloading of ODS. It is 
+generally assumed that ODS will normally be delivered in some form of container, drum, or other vessel 
+that is removed from the delivery vehicle in total. Such containers may be returnable.  
+ 
+12 Reproduced in full from: TEAP. 2006. “Code of Good Housekeeping”. In Handbook for the Montreal Protocol on 
+Substances that Deplete the Ozone Layer. 7th ed. These measures should also be applied to HFCs. 
+VM0016, v2.0 
+69 
+All unloading activities should be carried out in properly designated areas, to which restricted access 
+for personnel applies. Areas should be free of extraneous activities likely to lead to, or increase the risk 
+of, collision, accidental dropping, and spillage. Materials should be placed in designated quarantine 
+areas for subsequent detailed checking and evaluation.  
+A2.4 Testing and Verification  
+This refers to the arrangements made for detailed checking of the ODS consignments prior to 
+destruction.  
+Detailed checking of delivery documentation should be carried out, along with a complete inventory, to 
+establish that delivery is as advised and appears to comply with expectations.  
+Detailed checks of containers should be made both in respect of accuracy of identification labels and 
+of physical condition and integrity. Arrangements must be in place to permit repackaging or “fast-track” 
+processing of any items identified as defective. Sampling and analysis of representative quantities of 
+ODS consignments should be carried out to verify material type and characteristics. All sampling and 
+analysis should be conducted using approved procedures and techniques.  
+A2.5 Storage and Stock Control  
+This refers to matters concerning the storage and stock control of ODS.  
+ODS materials should be stored in specially designated areas, subject to the regulations of the relevant 
+local authorities. Arrangements should be put in place as soon as possible to minimize, to the extent 
+practicable, stock emissions prior to destruction.  
+Locations of stock items should be identified through a system of control that should also provide a 
+continuous update of quantities and locations as stock is destroyed and new stock delivered. In regard 
+to storage vessels for concentrated sources of ODS, these arrangements should include a system for 
+regular monitoring and leak detection, as well as arrangements to permit repackaging of leaking stock 
+as soon as possible.  
+A2.6 Measuring Quantities Destroyed  
+It is important to be aware of the quantities of ODS processed through the destruction equipment. 
+Where possible, flow meters or continuously recording weighing equipment for individual containers 
+should be employed. As a minimum, containers should be weighed “full” and “empty” to establish 
+quantities by difference.  
+Residual quantities of ODS in containers that can be sealed and are intended to be returned for further 
+use may be allowed. Otherwise, containers should be purged of residues or destroyed as part of the 
+process.  
+VM0016, v2.0 
+70 
+A2.7 Facility Design  
+This refers to basic features and requirements of plant, equipment, and services deployed in the 
+facility.  
+In general, any destruction facility should be properly designed and constructed in accordance with the 
+best standards of engineering and technology and with particular regard to the need to minimize, if not 
+eliminate, fugitive losses.  
+Particular care should be taken when designing plants to deal with dilute sources such as foams. These 
+may be contained in refrigeration cabinets or may be part of more general demolition waste. The area 
+in which foam is first separated from other substrates should be fully enclosed wherever possible and 
+any significant emissions captured at that stage.  
+• 
+Pumps: Magnetic drive, sealers, or double mechanical seal pumps should be installed to 
+eliminate environmental releases resulting from seal leakage.  
+• 
+Valves: Valves with reduced leakage potential should be used. These include quarter-turn 
+valves or valves with extended packing glands.  
+• 
+Tank vents (including loading vents): Filling and breathing discharges from tanks and vessels 
+should be recovered or vented to a destruction process.  
+• 
+Piping joints: Screwed connections should not be used and the number of flanged joints 
+should be kept to the minimum that is consistent with safety and the ability to dismantle for 
+maintenance and repair.  
+• 
+Drainage systems: Areas of the facility where ODS are stored or handled should be provided 
+with sloped concrete paving and a properly designed collection system. Water that is collected 
+should, if contaminated, be treated prior to authorized discharge.  
+A2.8 Maintenance  
+In general, all maintenance work should be performed according to properly planned programs and 
+should be executed within the framework of a permit system to ensure proper consideration of all 
+aspects of the work.  
+ODS should be purged from all vessels, mechanical units, and pipework prior to the opening of these 
+items to the atmosphere. The contaminated purge should be routed to the destruction process or 
+treated to recover the ODS.  
+All flanges, seals, gaskets, and other sources of minor losses should be checked routinely to identify 
+developing problems before containment is lost. Leaks should be repaired as soon as possible.  
+Consumable or short-life items, such as flexible hoses and couplings, must be monitored closely and 
+replaced at a frequency that renders the risk of rupture negligible.  
+VM0016, v2.0 
+71 
+A2.9 Quality Control and Quality Assurance  
+All sampling and analytical work connected with ODS, the process, and the monitoring of its overall 
+performance should be subject to quality assessment and quality control measures in line with current 
+recognized practices. This should include at least occasional independent verification and confirmation 
+of data produced by the facility operators.  
+Consideration should also be given to the adoption of quality management systems and environmental 
+quality practices covering the entire facility.  
+A2.10 Training  
+All personnel concerned with the operation of the facility (with “operation” being interpreted in its 
+widest sense) should have training appropriate to their task. Of particular relevance to the ODS 
+destruction objectives is training in the consequences of unnecessary losses and in the use, handling, 
+and maintenance of all equipment in the facility. All training should be carried out by suitably qualified 
+and experienced personnel and the details of such training should be maintained in written records. 
+Refresher training should be conducted at appropriate intervals.  
+A2.11 Code of Transportation  
+In the interest of protecting the stratospheric ozone layer, it is essential that used ODS and products 
+containing ODS are collected and moved efficiently to facilities practicing approved destruction 
+technologies. For transportation purposes, used ODS should receive the same hazard classification as 
+the original substances or products. In practice, this may introduce restrictions on hazardous waste 
+shipment under the Basel Convention on the Control of Transboundary Movements of Hazardous 
+Wastes and their Disposal and this should be consulted separately. In the absence of such specific 
+restrictions, the following proposed code of transportation for ODS from customer to destruction 
+facilities is provided as a guide to help minimize damage caused to the ozone layer as a result of ODS 
+transfers. Additional guidance is contained in the United Nations Transport of Dangerous Goods Model 
+Regulations.  
+It is important to supervise and control all shipments of used ODS and products containing ODS 
+according to national and international requirements to protect the environment and human health. To 
+ensure that ODS and products containing ODS do not constitute an unnecessary risk, they must be 
+properly packaged and labeled. Instructions to be followed in the event of danger or accident must 
+accompany each shipment to protect human beings and the environment from any danger that might 
+arise during the operation.  
+Notification of the following information should be provided at any intermediate stage of the shipment 
+from the place of dispatch until its final destination. When making notification, the notifier should 
+supply the information requested on the consignment note, with particular regard to:  
+1) The source and composition of the ODS and products containing ODS, including the 
+customer’s identity 
+VM0016, v2.0 
+72 
+2) Arrangements for routing and for insurance against damage to third parties 
+3) Measures to be taken to ensure safe transport and, in particular, compliance by the carrier 
+with the conditions laid down for transport by the States concerned 
+4) The identity of the consignee, who should possess an authorized center with adequate 
+technical capacity for the destruction 
+5) The existence of a contractual agreement with the consignee concerning the destruction of 
+ODS and products containing ODS 
+This code of transportation does not necessarily apply to the disposal of ODS-containing rigid insulation 
+foams. The most appropriate way to dispose of such products may be by direct incineration in municipal 
+waste incinerators or rotary kiln incinerators.  
+A2.12 Monitoring  
+The objectives of monitoring should be to provide assurance that input materials are being destroyed 
+with an acceptable efficiency generally consistent with the destruction and removal efficiency (DRE) 
+recommendations listed in annex II to the [Handbook for the Montreal Protocol on Substances that 
+Deplete the Ozone Layer] and that the substances resulting from destruction yield environmentally 
+acceptable emission levels consistent with, or better than, those required under national standards or 
+other international protocols or treaties.  
+As there are as yet no International Organization for Standardization (ISO) standards applicable for the 
+sampling and analysis of ODS or the majority of the other pollutants listed in annex IV to the [Handbook 
+for the Montreal Protocol on Substances that Deplete the Ozone Layer], where national standards exist 
+they should be employed. Further, where national standards exist they may be used in lieu of ISO 
+standards provided that they have been the subject of a verification or validation process addressing 
+their accuracy and representativeness.  
+As ISO develops international standards for pollutants listed in annex IV to the [Handbook for the 
+Montreal Protocol on Substances that Deplete the Ozone Layer], the technical bodies charged with 
+developing such standards should take note of the existing national standards including those 
+identified in appendix F to the report of the Technology and Economic Assessment Panel (TEAP) of April 
+2002 (volume 3, Report of the Task Force on Destruction Technologies) and strive to ensure 
+consistency between any new ISO standards and the existing standard test methods, provided that 
+there is no finding that those existing methods are inaccurate or unrepresentative.  
+Where national standards do not exist, the Technical Advisory Committee recommends adoption of the 
+following guidelines for monitoring of destruction processes operating using an approved technology.  
+Recognizing that the United States of America Environmental Protection Agency (EPA) methods have 
+been the subject of verification procedures to ensure that they are reasonably accurate and 
+representative, that they cover all of the pollutants of interest (although not all ODS compounds have 
+been the specific subject of verification activities), that they provide a comprehensive level of detail that 
+VM0016, v2.0 
+73 
+should lead to replicability of the methods by trained personnel in other jurisdictions, and that they are 
+readily available for reference and downloading from the Internet without the payment of a fee, 
+applicable EPA methods as described in appendix F to the 2002 report of TEAP may be employed.  
+In the interest of ensuring a common international basis of comparison for those pollutants or 
+parameters where ISO standards exist (currently particulates, carbon monoxide, carbon dioxide, and 
+oxygen), use of those standards is encouraged, and jurisdictions are encouraged to adopt them as 
+national standards or acceptable alternatives to existing national standards.  
+The use of EPA or other national standards described in appendix F is also considered acceptable. The 
+precedence given to the EPA methods in the present code is based on the relative comprehensiveness 
+of the methods available (both in scope and content), and the relative ease of access to those 
+methods.  
+A2.13 Measurement of ODS  
+Operators of destruction facilities should take all necessary precautions concerning the storage and 
+inventory control of ODS-containing material received for destruction. Prior to feeding the ODS to the 
+approved destruction process, the following procedures are recommended:  
+1) The mass of the ODS-containing material should be determined, where practicable. 
+2) Representative samples should be taken, where appropriate, to verify that the concentration of 
+ODS matches the description given on the delivery documentation.   
+3) Samples should be analyzed by an approved method. If no approved methods are available, the 
+adoption of United States EPA methods 5030 and 8240 is recommended.  
+4) All records from these mass and ODS concentration measurements should be documented and 
+kept in accordance with ISO 9000 or equivalent.  
+A2.14 Control Systems  
+Operators should ensure that destruction processes are operated efficiently to ensure complete 
+destruction of ODS to the extent that it is technically feasible for the approved process. This will 
+normally include the use of appropriate measurement devices and sampling techniques to monitor the 
+operating parameters, burn conditions, and mass concentrations of the pollutants that are generated 
+by the process.  
+Gaseous emissions from the process need to be monitored and analyzed using appropriate 
+instrumentation. This should be supplemented by regular spot checks using manual stack-sampling 
+methods. Other environmental releases, such as liquid effluents and solid residues, require laboratory 
+analysis on a regular basis.  
+The continuous monitoring recommended for ongoing process control, including off-gas cleaning 
+systems, is as follows:  
+VM0016, v2.0 
+74 
+1) Measurement of appropriate reaction and process temperatures 
+2) Measurement of flue gas temperatures before and after the gas cleaning system 
+3) Measurement of flue gas concentrations for oxygen and carbon monoxide 
+Any additional continuous monitoring requirements are subject to the national regulatory authority that 
+has jurisdiction. The performance of online monitors and instrumentation systems must be periodically 
+checked and validated. When measuring detection limits, error values at the 95% confidence level 
+should not exceed 20%.  
+Approved processes must be equipped with automatic cut-off control systems on the ODS feed system, 
+or be able to go into standby mode whenever:  
+a) the temperature in the reaction chamber falls below the minimum temperature required to 
+achieve destruction. 
+b) other minimum destruction conditions stated in the performance specifications cannot be 
+maintained.  
+A2.15 Performance Measurements  
+The approval of technologies recommended by TEAP is based on the destruction capability of the 
+technology in question. It is recognized that the parameters may fluctuate during day-to-day operation 
+from this generic capability. In practice, however, it is not possible to measure against performance 
+criteria on a daily basis. This is particularly the case for situations where ODS only represents a small 
+fraction of the substances being destroyed, thereby requiring specialist equipment to achieve detection 
+of the very low concentrations present in the stack gas. It is therefore not uncommon for validation 
+processes to take place annually at a given facility.  
+With this in mind, TEAP is aware that the measured performance of a facility may not always meet the 
+criteria established for the technology. Nonetheless, TEAP sees no justification for reducing the 
+minimum recommendations for a given technology. Regulators, however, may need to take these 
+practical variations into account when setting minimum standards.  
+The ODS destruction and removal efficiency13 for a facility operating an approved technology should be 
+validated at least once every three years. The validation process should also include an assessment of 
+other relevant stack gas concentrations identified in annex II to decision XV/[…] and a comparison with 
+maximum levels stipulated in relevant national standards or international protocols/treaties.  
+Determination of the ODS destruction and removal efficiency and other relevant substances identified 
+in annex IV to the [Handbook for the Montreal Protocol on Substances that Deplete the Ozone Layer] 
+should also be followed when commissioning a new or rebuilt facility or when any other significant 
+ 
+13 Destruction and removal efficiency has traditionally been determined by subtracting from the mass of a chemical fed into 
+a destruction system during a specific period of time the mass of that chemical alone that is released in stack gases and 
+expressing that difference as a percentage of the mass of that chemical fed into the system.  
+VM0016, v2.0 
+75 
+change is made to the destruction procedures in a facility to ensure that all facility characteristics are 
+completely documented and assessed against the approved technology criteria.  
+Tests must be done with known feed rates of a given ODS compound or with well-known ODS mixtures. 
+In cases where a destruction process incinerates halogen-containing wastes together with ODS, the 
+total halogen load should be calculated and controlled. The number and duration of test runs should be 
+carefully selected to reflect the characteristics of the technology.  
+In summary, the destruction and removal efficiency recommended for concentrated sources means 
+that less than 0.1 gram of total ODS should normally enter the environment from stack-gas emissions 
+when 1000 grams of ODS are fed into the process. A detailed analysis of stack test results should be 
+made available to verify emissions of halogen acids and polychlorinated dibenzodioxin and 
+dibenzofuran (PCDD/PCDF). In addition, a site-specific test protocol should be prepared and made 
+available for inspection by the appropriate regulatory authorities. The sampling protocol must report the 
+following data from each test:  
+1) ODS feed rate 
+2) Total halogen load in the waste stream 
+3) Residence time for ODS in the reaction zone 
+4) Oxygen content in flue gas 
+5) Gas temperature in the reaction zone 
+6) Flue gas and effluent flow rate 
+7) Carbon monoxide in flue gas 
+8) ODS content in flue gas 
+9) Effluent volumes and quantities of solid residues discharged 
+10) ODS concentrations in the effluent and solid residues 
+11) Concentration of PCDD/PCDF, particulates, HCl, HF, and HBr in the flue gases 
+12) Concentration of PCDD/PCDF in effluent and solids 
+ 
+ 
+VM0016, v2.0 
+76 
+APPENDIX 3: TECHNOLOGY SCREENING 
+PROCESS14 
+The following screening criteria were developed by the UNEP TFDT. Technologies for use by the 
+signatories to the Montreal Protocol to dispose of surplus inventories of ODS were assessed on the 
+basis of:  
+1) destruction and removal efficiency (DRE)  
+2) emissions of dioxins/furans  
+3) emissions of other pollutants (acid gases, particulate matter, and carbon monoxide)  
+4) technical capability  
+The first three above refer to technical performance criteria selected as measures of potential impacts 
+of the technology on human health and the environment. The technical capability criterion indicates the 
+extent to which the technology has been demonstrated to be able to dispose of ODS (or a comparable 
+recalcitrant halogenated organic substance such as PCB) effectively and on a commercial scale.  
+For convenience, the technical performance criteria are summarized in Table A5. These represent the 
+minimum destruction and removal efficiencies and maximum emission of pollutants to the atmosphere 
+permitted by technologies that qualify for consideration by the TFDT for recommendation to the Parties 
+of the Montreal Protocol for approval as ODS destruction technologies. The technologies must also 
+satisfy the criteria for technical capability as defined below.  
+Table A5. Summary of technical performance qualifications15 
+Performance Qualification 
+Unit 
+Diluted Sources 
+Concentrated Sources 
+DRE  
+%  
+95  
+99.99  
+PCDDs/PCDFs  
+ng-ITEQ/Nm3  
+0.5  
+0.2  
+HCL/CL2  
+mg/Nm3  
+100

@@ -1,0 +1,25 @@
+3 DEFINITIONS 
+In addition to the definitions in AMS-III.BM. and the most recent version of the VCS Program 
+Definitions, the following definitions apply. 
+Business-oriented activities 
+Paid delivery activities involving goods, food, or other tangible items (e.g., documents), 
+controlled by a central system designed to assign, allocate and monitor all deliveries. This 
+system typically includes digital tools such as app-based dispatching, routing platforms, or 
+other centralized software used to manage, coordinate, and track delivery operations. 
+Passenger transport services are excluded. 
+Baseline year 
+The 12-month period immediately preceding the project start date 
+Infrastructure 
+This definition replaces the definition in AMS-III.BM. Under this methodology, infrastructure 
+means bicycle lanes (new or extension of existing), bicycle parking areas (new or expansion of 
+existing areas), bicycle sharing stations (new or expansion of existing stations), and recharging 
+stations for use by e-bikes, e-tricycles, and other two- or three-wheeled electric vehicles. 
+Other two- or three-wheeled e-vehicles 
+Plug-in electric vehicles with two or three wheels, including electric motorcycles (e-motorcycles), 
+electric scooters (e-scooters), and other similar two- or three-wheeled vehicles that run on 
+electric power. Power is supplied by a rechargeable battery that drives one or more electric 
+motors. Electric scooters are distinguished from motorcycles by having a step-through frame, 
+instead of being straddled. Electric bicycles and electric tricycles are similar vehicles, 
+distinguished by retaining the ability to be propelled by the rider pedaling in addition to battery 
+propulsion. All two- or three-wheeled electric vehicles should comply with national standards or 
+regulations.

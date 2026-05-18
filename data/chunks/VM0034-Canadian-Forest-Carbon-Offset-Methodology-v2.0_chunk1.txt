@@ -1,0 +1,61 @@
+1 
+SOURCES 
+In developing this methodology, a range of good practice guidance has been consulted, including 
+both general greenhouse gas (GHG) quantification guidance and guidance specific to forestry 
+projects.  Written guidance consulted in the development of this methodology includes, but was 
+not limited to the documents listed below.  
+1.1  
+General GHG Quantification Guidance 
+• 
+Canada’s Offset System for GHG Guide for Protocol Developers, Draft for Consultation, 
+20081 
+• 
+CDM Tool 02 Combined tool to identify the baseline scenario and demonstrate 
+additionality 
+• 
+IPCC 2003 GPG for LULUCF 
+• 
+ISO 14064-22 
+• 
+IPCC Guidelines for National GHG Inventories (2006) 
+• 
+System of Measurement and Reporting for Technologies3 
+• 
+VCS Program Definitions 
+• 
+VCS Program Guide 
+• 
+WRI / WBCSD GHG Protocol for Project Accounting4 
+1.2  
+Forestry-Specific Guidance and Methodologies 
+• 
+American Carbon Registry Improved Forest Management Methodology September 20105 
+• 
+British Columbia Forest Offset Guide Version 1.06 
+• 
+Climate Action Reserve Forest Project Protocol Version 3.27 
+ 
+1 Turning the Corner, Canada’s Offset System for GHG Guide for Protocol Developers, Draft for Consultation, 
+Environment Canada (2008). 
+2 ISO 14064-2:2006, GHG - Part 2: Specification with guidance at the project level for quantification, monitoring and 
+reporting of GHG emission reductions or removal enhancements (2006). 
+3 Climate Change Technology Early Action Measures (TEAM) Requirements and Guidance for the System of 
+Measurement And Reporting for Technologies (SMART), Government of Canada (2004). 
+4 World Resources Institute / World Business Council for Sustainable Development, The GHG Protocol for Project 
+Accounting, November, 2005. 
+5 American Carbon Registry / Finite Carbon, Improved Forest Management Methodology for Quantifying GHG 
+Removals and Emission Reductions through Increased Forest Carbon Sequestration on U.S. Timberland, September 
+2010. 
+6 British Columbia Forest Offset Guide Version 1.0, B.C. Ministry of Forests and Range, April 2009 
+7 Climate Action Reserve, Forest Project Protocol Version 3.2, August 31, 2010 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 5 
+• 
+Draft North American Forest Carbon Standard8 
+• 
+IPCC 2006 Guidelines for Forest Land9 
+• 
+VCS AFOLU Non-Permanence Risk Tool

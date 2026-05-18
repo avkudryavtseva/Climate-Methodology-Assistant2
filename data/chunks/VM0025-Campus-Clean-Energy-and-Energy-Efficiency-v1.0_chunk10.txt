@@ -1,0 +1,280 @@
+10 
+REFERENCES  
+None 
+ 
+ 
+                                                          
+8  Given that LEED-certified building emission reductions will be small compared to a campus-wide emission 
+reductions, this represents a reasonable estimation process, recognizing that the percent contribution of a given 
+scope of energy emissions to the total is a reasonable proxy for the proportion of reductions that it contributed to a 
+LEED-certified building emission reductions total. 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 11 
+ 
+APPENDIX 1: SIMILAR PROJECT METHODS 
+Standardized methods are designed to identify superior performance within a given sector and the 
+performance benchmarks within the methodology have been developed to ensure such environmental 
+integrity. Where project activities meet the applicability conditions of this methodology and its respective 
+modules, such projects should apply the methodology in preference to project methods available for the 
+same project activities. Project proponents should contact the VCSA at secretariat@v-c-s.org if additional 
+guidance or clarification is necessary when selecting an appropriate methodology. 
+Table 1 below lists the identified approved and pending methodologies under VCS and approved GHG 
+programs that target project activities that could be included under the Campus Clean Energy and Energy 
+Efficiency methodology (ie, such methodologies may also be applicable to certain subsets of project 
+activities covered by this methodology). Note that this is provided for indicative purposes only and does 
+not necessarily represent an exhaustive list.  
+Table 1: Methodologies Targeting Similar Project Activities 
+Methodology 
+Title 
+GHG Program 
+AMS-I.A. 
+Electricity generation by the user  
+CDM 
+AMS-I.D. 
+Grid connected renewable electricity generation  
+CDM 
+AMS-I.F. 
+Renewable electricity generation for captive use and mini-grid  
+CDM 
+AMS-I.J. 
+Solar water heating systems (SWH) 
+CDM 
+AMS-II.C. 
+Demand-side energy efficiency activities for specific technologies  
+CDM 
+AMS-II.E. 
+Energy efficiency and fuel switching measures for buildings  
+CDM 
+AMS-II.J. 
+Demand-side activities for efficient lighting technologies  
+CDM 
+AMS-II.K. 
+Installation of co-generation or tri-generation systems supplying 
+energy to commercial building 
+CDM 
+AMS-II.L. 
+Demand-side activities for efficient outdoor and street lighting 
+technologies 
+CDM 
+AMS-II.M. 
+Demand-side energy efficiency activities for installation of low-
+flow hot water savings devices 
+CDM 
+AMS-II.N. 
+Demand-side energy efficiency activities for installation of energy 
+efficient lighting and/or controls in buildings  
+CDM 
+AMS-II.Q. 
+Energy efficiency and/or energy supply projects in commercial 
+buildings  
+CDM 
+AMS-II.R 
+Energy efficiency space heating measures for residential 
+buildings 
+CDM 
+AMS-III.AC. 
+Electricity and/or heat generation using fuel cell 
+CDM 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 12 
+ 
+AMS-III.AE. 
+Energy efficiency and renewable energy measures in new 
+residential buildings 
+CDM 
+AMS-III.AR. 
+Substituting fossil fuel based lighting with LED/CFL lighting 
+systems 
+CDM 
+ 
+ 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 13 
+ 
+APPENDIX 2: STAKEHOLDER CONSULTATION SUMMARY 
+The development of the methodology was generously sponsored by Chevrolet. Chevrolet’s Carbon 
+Reduction Initiative Environmental Advisory Board was instrumental in developing a draft white paper 
+outlining the core framing and assumptions which would become this methodology.  As part of this 
+advisory board, a diverse group of stakeholders were consulted to refine the white paper and develop the 
+performance benchmarks.  This extensive stakeholder group included a diverse group of experts 
+including AASHE, campus experts, environmental experts, college-focused NGO’s, college sustainability 
+officers, college business officers, carbon experts, and energy efficiency experts.  A list of the experts 
+involved with the stakeholder consultation is provided at the end of this appendix. 
+During the stakeholder consultation process many detailed questions relating to the design of the 
+modules were discussed. These contributed to the refinements in the white papers, which were updated 
+throughout this period.  All stakeholders who reviewed the white papers therefore were able to review the 
+performance benchmark. Particularly, detailed discussions of the following topics took place with the 
+Environmental Advisory Board and USGBC: 
+• 
+Baseline designs 
+• 
+Project boundary definitions 
+• 
+Applicability tests/conditions needed 
+• 
+Provisions to avoid double counting 
+• 
+Performance benchmark update processes 
+• 
+Stratifications 
+• 
+Performance benchmarks detailed analyses, based on performance curves, relative to percentile 
+equivalents across each segment 
+• 
+Carbon contribution to incremental capital analyses 
+• 
+Refinements needed to fine tune the modules (eg, business as usual gains, square foot 
+variances, inclusions/exclusions needed) 
+• 
+Tests relative to attributable activities undertaken 
+The stakeholder dialogue was particularly helpful in confirming assumptions for key details and 
+parameters in the modules.  Not all discussions have been referenced here but, drawing upon key topics 
+from the final white paper drafts, the main highlights in this category include: 
+Both modules: 
+• 
+Refine performance benchmarks every five years – not sooner – to provide project proponents 
+with sensible planning horizons; rather provide updated data on an interim basis to describe 
+performance benchmark trends. Five years is consistent with VCS minimum requirements. 
+• 
+Utility sign offs and other measures (especially regarding campus reporting of GHG reductions to 
+ACUPCC, STARS etc.) to address double counting/double claiming. 
+• 
+Project boundaries are appropriately specified to preclude GHG emission reductions resulting 
+from RECs, energy services supplied to neighboring institutions etc. 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 14 
+ 
+Campus-wide module: 
+• 
+The core foundation requires absolute reductions in both scope 1 and scope 2 electricity-based 
+emissions. 
+• 
+Selection of additionality benchmark as annual percentage improvement in stationary combustion 
+emissions is appropriate. It conforms to VCS requirements, it closely aligns to campuses’ 
+ACUPCC reporting structures (which are over historical baselines) and thus encourages 
+leadership capacity building in the sector, and it is consistent with precedent set by other 
+performance methods under VCS.  
+• 
+Stratify by Carnegie class, consistent with ACUPCC practice. 
+• 
+Base the level of each additionality benchmark on the average annual percentage reduction by 
+Carnegie class, not just a single percentile (eg, 85th), to most accurately reflect superior 
+performance achievement and minimize false positive/negatives. 
+• 
+This approach generates performance benchmarks that are credible (around the 85th percentile) 
+relative to UNFCCC parameters and other VCS performance method precedents. 
+• 
+Financial analysis of the carbon contributions was considered meaningful and providing leverage 
+to deliver superior performance. 
+• 
+Including a “positive” style test to document the steps taken to achieve the performances, based 
+on leading campuses’ ACUPCC Climate Action Reports, is credible and goes beyond other VCS 
+performance method approaches. 
+• 
+Screening for other potential drivers of performance has been thorough. 
+• 
+Historical baselines are sound to use and well framed relative to variances for weather etc. 
+Including variances to accommodate for weather changes makes sense if the historical reference 
+period is short; otherwise, these variances are addressed by averaging over a longer historical 
+reference period. 
+• 
+It would be best to provide avenues in the module to accommodate variances for square footage 
+outside reasonable parameters (declining or increasing more than 5 percent) rather than use an 
+intensity style metric to determine additionality or quantify emission reductions.  The latter 
+introduces another orthogonal variable which then needs to be considered for variances relative 
+to false positives and false negatives. 
+• 
+Baseline adjustments reflecting US average energy efficiency gains should be made, not 
+adjustments reflecting a five percent annual energy efficiency gain. The later would assume that 
+campuses could go climate neutral very rapidly on a business as usual basis. 
+LEED-certified buildings module: 
+• 
+Segmentations based on LEED proposed data is appropriate, using LEED overall averages 
+where they feel the sample sets are otherwise too small. 
+• 
+The average LEED-certified building Energy Star score is credible and the baselines selected 
+make sense since the module then reflects a step-wise increase from national average ES score 
+to average LEED-certified building Energy Star score. 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 15 
+ 
+• 
+This approach generates performance benchmarks that are credible (around 86th percentile) 
+relative to UNFCCC parameters and other VCS performance methodology precedents. 
+• 
+Where EPA Portfolio Manager is not yet sufficiently robust for reporting/benchmarking purposes, 
+it is appropriate to exclude campus laboratories from project consideration when comparisons 
+need to be made to national benchmarks. However internal performance comparisons over time 
+to an individual lab’s performance improvements are appropriate.  As a result, labs were excluded 
+from EB-B pathway since ES 86 is a national benchmark, while labs are eligible to use EB-A 
+(which compares the lab’s EUI performance over time) and NC (where the building’s EUI percent 
+improvement over code has been independently assessed in detail through LEED certification ).  
+The exclusion of labs from the EB-B route may be reviewed again in year five when the 
+performance parameters need to be updated. 
+• 
+Including a “positive” style test to document the steps taken to achieve the performances, based 
+on LEED’s certification system, is credible and goes beyond other VCS performance method 
+approaches. 
+• 
+LEED Commercial Interior certifications could be included at a later stage but are too few and 
+limited in energy efficiency scope to include at this stage. 
+• 
+Baselines are well-defined and measurement approaches outlined in EPA Portfolio Manager are 
+appropriate. Variances for many potential drivers are well-accommodated through Portfolio 
+Manager’s reporting system which accounts for such potential variances. 
+• 
+Although EB-B could use the historical baseline for each building, since LEED does not collect 
+this information for its certification system, it is appropriate to use ES 50 as the baseline. 
+• 
+A one percent energy efficiency improvement factor is not needed as an adjustment for NC or 
+EB-B to the baseline since EPA Portfolio Manager revises the ES 50 baseline each year to reflect 
+current updated practices. It is only needed for EB-A which uses the project’s historical baseline 
+(but not needed for eligibility testing since the metric is EUI-based and thus already anchored on 
+a per square foot basis). 
+The stakeholders consulted compromise the list of individuals acknowledged above in this methodology. 
+Areas of expertise represented in this stakeholder group were as follows: 
+• 
+Campus sustainability/energy/climate leadership (CSEC), 32 participants 
+• 
+Campus financial leadership (CF), 30 participants 
+• 
+Carbon methodology/project development (C), 23 participants 
+• 
+Energy efficiency best practices (EE), 17 participants 
+• 
+Business (B), 40 participants 
+• 
+NGO (NGO), 6 participants 
+• 
+Government/policy (G), 10 participants 
+ 
+ 
+ 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 16 
+ 
+DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+12 Feb 2014 
+Initial version released

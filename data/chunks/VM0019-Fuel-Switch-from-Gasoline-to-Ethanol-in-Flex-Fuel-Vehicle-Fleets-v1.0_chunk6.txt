@@ -1,0 +1,12 @@
+6 
+PROCEDURE FOR DETERMINING THE BASELINE SCENARIO 
+The project proponent shall apply the latest version of the CDM Combined tool to identify the 
+baseline scenario and demonstrate additionality to identify the baseline scenario for every 
+regional group and for every commercial fleet in the project boundary, including Greenfield 
+instances. 
+When applying Step 1 of the CDM Combined tool to identify the baseline scenario and 
+demonstrate additionality, the project proponent shall consider as alternative scenarios, at least 
+the following alternatives:  
+S1: The proposed project activity undertaken without being registered as a VCS project activity; 
+S3: The continuation of the current situation, not requiring any investment or expenses to 
+maintain the current situation.

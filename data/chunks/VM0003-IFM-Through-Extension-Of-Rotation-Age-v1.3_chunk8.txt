@@ -1,0 +1,1347 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Stratification 
+Where the project area is not homogeneous, it must be stratified to improve the accuracy and 
+precision of carbon stock estimates. Different stratifications may be required for the baseline 
+and project scenarios in order to achieve optimal accuracy and precision of the estimates of net 
+GHG emissions reductions or GHG removal by sinks. 
+For estimation of baseline carbon stocks, strata must be defined on the basis of parameters 
+that are key variables in any method used to estimate changes in managed forest carbon 
+stocks, for example: 
+● 
+Management system, 
+● 
+Site index or anticipated growth rates, 
+● 
+Forest species, or 
+● 
+Age class. 
+ 
+VM0003, v1.3  
+ 
+12 
+ 
+For this methodology, it is important to stratify by management system so that all areas to be 
+clear cut or patch cut within a given year or within the years between monitoring events 
+comprise a stratum, with further division where differences exist in site index, species and/or 
+age class. 
+The project area must be stratified ex-ante. Further stratification beyond the parameters given 
+above is not usually warranted. However, other parameters (e.g., soil type, climate) may be 
+useful for ex-post stratification.  
+Note – in the equations used in this methodology, i is used to represent a stratum and M the 
+total number of strata. MB is the number of baseline strata defined ex-ante as determined by 
+the procedures above; MB remains fixed. MPS is the number of strata in the project scenario as 
+determined ex-ante. Ex-post adjustments of the project scenario strata may be needed where 
+unexpected disturbances occur during the project crediting period (e.g., due to fire, pests or 
+disease outbreaks) that severely affect different parts of an originally homogeneous stratum or 
+stand, or where forest management (thinning, harvesting, replanting) occurs at different 
+intensities, dates and spatial locations than originally planned. In such a situation, the project 
+area affected by the disturbance and/or variation in forest management must be delineated as 
+a separate stratum for the purpose of monitoring carbon stock changes. 
+8.2 
+Baseline Net GHG Removals by Sinks 
+The baseline net removals are averaged over a modeled 100-year period to remove fluctuations 
+and the impact of fluctuations on the difference between the baseline and project scenarios. 
+The baseline net GHG removals by sinks is determined as follows: 
+Δ�㌵!"# = Δ�㌵!"#! −�㌵�㌵�㌵!"#" 
+(1) 
+ 
+Where: 
+Δ�㌵!"#   
+Baseline net greenhouse gas removals by sinks (t CO2e) 
+Δ�㌵!"#! 
+Carbon stock changes in all pools in the baseline scenario (t CO2e) 
+�㌵�㌵�㌵!"#" 
+Greenhouse gas emissions as a result of forest management activities within 
+the project area in the baseline scenario (t CO2e) 
+ 
+Δ�㌵!"#! = Δ�㌵!"##$%% + ∆�㌵!"#&' + ∆�㌵!"#'! 
+(2) 
+ 
+Where: 
+Δ�㌵!"##$%% 
+Carbon stock changes in above-ground and below-ground biomass of trees in 
+the baseline scenario (t CO2e) 
+Δ�㌵!"#&' 
+Carbon stock changes in dead wood in the baseline scenario (t CO2e) 
+ 
+VM0003, v1.3  
+ 
+13 
+ 
+Δ�㌵!"#'! 
+Carbon stock changes in wood products in the baseline scenario (t CO2e) 
+Dead wood may conservatively be excluded. Wood products may also conservatively be 
+excluded where it is shown that carbon stocks in the baseline scenario are expected to 
+decrease more or increase less, relative to the project scenario. 
+∆�㌵!"##$%% =
+*+
+∆�㌵!"#()|+),-,.// × 44
+12
+$+
+%&'
+0
+100
+× �㌵∗ 
+(3) 
+ 
+Where: 
+Δ�㌵!"#()|+),-,.// Summed annual net carbon stock change in above-ground and below-ground 
+biomass for stratum i summed over the 100-year modeled baseline (t C)  
+�㌵ 
+1, 2, 3, …, MB strata in the baseline scenario 
+�㌵ 
+1, 2, 3, …, t* years elapsed since the start of the IFM project activity 
+))
+'* 
+Ratio of molecular weight of CO2 to carbon (t CO2e t C-1) 
+ 
+If dead wood is selected in Table 1: 
+∆�㌵!"#&' =
+*+
+∆�㌵!"#&',-,.// × 44
+12
+$+
+%&'
+0
+100
+× �㌵∗ 
+(4) 
+ 
+Where: 
+Δ�㌵!"#&'  
+Carbon stock changes in dead wood in the baseline scenario (t CO2e) 
+Δ�㌵!"#&',-,.// 
+Summed annual net carbon stock change in dead wood for stratum i summed 
+over the 100-year modeled baseline (t C)  
+If wood products are selected in Table 1: 
+∆�㌵!"#'! =
+*+
+∆�㌵!"#'!,-,# × 44
+12
+$+
+%&'
+0
+100
+× �㌵∗ 
+(5) 
+ 
+Where: 
+Δ�㌵!"#'! 
+Carbon stock changes in wood products in the baseline (t CO2e) 
+ 
+VM0003, v1.3  
+ 
+14 
+ 
+Δ�㌵!"#'!,-,# 
+Baseline annual net carbon stock change in wood products for stratum i at time 
+t (t C yr-1) 
+8.3 
+Stock Changes in the Baseline 
+Δ�㌵!"#()|+), Δ�㌵!"#&' and Δ�㌵!"#'! must be estimated using models of forest management 
+across the baseline period. Modeling is conducted with relative ease and confidence using a 
+peer-reviewed forestry model. The PD must detail the model being used and the variants that 
+have been selected. All model inputs and outputs must be available for inspection by the 
+validation/verification body. The baseline must be modeled over 100 years. 
+The model must not assume the immediate release of carbon stock in the dead wood pool, as 
+set out in the most recent version of the VCS Methodology Requirements. 
+Examples of appropriate models include: 
+● 
+Forest Vegetation Simulator by US Forest Service 
+● 
+Stand Projection System within the MBG Tools software from Mason, Bruce, & 
+Girard, Inc. 
+● 
+The Forest Projection System by Forest Biometrics Research Institute 
+● 
+California Conifer Timber Output Simulator (CACTOS) 
+● 
+Cooperative Redwood Yield Project Timber Output Simulator (CRYPTOS) 
+Models must be: 
+1) Peer reviewed in a process involving experts in modeling and 
+biology/forestry/ecology; 
+2) Used only in scenarios relevant to the scope for which the model was developed 
+and evaluated; and 
+3) Parameterized for the specific conditions of the project. 
+In countries and regions where specific forestry models do not exist or are not available, it is 
+valid to employ a simple spreadsheet-based model (including common simple growth models 
+such as the Chapman Richards model of tree growth appropriately parameterized). Such 
+models must be clearly labeled with all assumptions and justifications for assumptions 
+presented. Spreadsheet models may also be necessary to extrapolate some growth models to 
+include additional pools and harvest schedules. 
+It is inevitable that the input to models will be inventory data. However, the exact form of the 
+input data is not prescribed here as this will vary by model, but may include: cruised volumes, 
+stand tables or plot data. The equations given in Section 8.5 must be used and detailed in full 
+in the project description.6 
+ 
+6 Input data including precision bounds must be made available to validation/verification bodies. 
+ 
+VM0003, v1.3  
+ 
+15 
+ 
+The output of the models must be the annual changes in stocks of carbon in live above-ground 
+tree biomass (Δ�㌵!"#()|+),-,#), dead wood (Δ�㌵!"#&',-,#) and wood products (Δ�㌵!"#'!,-,#) by strata in 
+the baseline scenario through the duration of the project.7 Where model output is the annual 
+stock (�㌵), the change (Δ�㌵) would be calculated as �㌵+0 – �㌵+..  
+Where the output for the tree is the volume, this must be converted to biomass and carbon 
+using Equations (13)–(18) in Section 8.5. Where processing of alternative data on dead wood 
+and wood products is necessary, Equations (24)–(35) must be used. 
+8.4 
+Baseline Emissions 
+The GHG emissions in the baseline scenario within the project area are estimated as follows: 
+�㌵�㌵�㌵!"#, = +5�㌵!"#+-12344+5$6,#7
++∗
++&'
+ 
+(6) 
+Where: 
+�㌵!"#+-12344+5$6,# Non-CO2 greenhouse gas emissions due to biomass burning as part of forest 
+management during year t in the baseline scenario (t CO2e) 
+GHG emission sources included or excluded from the project area may be neglected (i.e., 
+accounted as zero) where application of the most recent version of the CDM Tool for the 
+demonstration and assessment of additionality determines that the emission source is 
+insignificant. 
+8.4.1 
+Estimation of Baseline Non-CO2 Emissions due to Biomass Burning 
+The non-CO2 emissions due to biomass burning as part of forest management (�㌵!"#+-12344+5$6) 
+are estimated by: 
+�㌵!"#+-12344+5$6,# = �㌵!%-./00!12389:,+ 
+(7) 
+Where: 
+�㌵!%-./00!12389:,+ CH4 emissions as a result of forest management during year t (t CO2e) 
+ 
+Estimation of CH4 emissions based on carbon stock loss from biomass burning during forest 
+management is based on the biomass of logging slash burned, �㌵�㌵, calculated using Equation 
+ 
+7 Where modeling produces changes in carbon stocks over five-year periods, the numbers must be annualized to give a 
+stock change number for each year. 
+ 
+VM0003, v1.3  
+ 
+16 
+ 
+(9). This is multiplied by factors that adjust for the mass of CH4 versus carbon released, and for 
+the global warming potential of CH4.  
+�㌵!%-./00!12389:,+ = �㌵�㌵!"#,+ × �㌵�㌵67: × 16
+12 × �㌵�㌵�㌵67: 
+(8) 
+Where: 
+�㌵�㌵!"#,+ 
+Carbon stock in logging slash subject to burning as part of forest management 
+(t C) 
+�㌵�㌵67: 
+Emission ratio for CH4 (where local data on combustion efficiency are not 
+available or it is not possible to estimate combustion efficiency from fuel 
+information, use most recent version of the IPCC’s Good Practice Guidance for 
+LULUCF default value, 0.0128) (kg C as CH4 (kg C burned)-1) 
+�㌵�㌵�㌵67:  
+Global warming potential for CH4; use the most recent version of the VCS 
+Standard’s GWP value (t CO2e (t CH4)-1) 
+'8
+'* 
+Ratio of molecular weights of CH4 and C (mol mol-1) 
+ 
+Where logging slash is not burned as part of forest management, �㌵�㌵!"#,+ = 0, otherwise: 
+�㌵�㌵!"#,+ = + + >*?�㌵9(�㌵�㌵�㌵, �㌵)E −5�㌵:,9,+ × �㌵970 × �㌵�㌵9H
+;;,#
+:&'
+"+<=
+9&'
+ 
+(9) 
+Where: 
+�㌵:,9,+ 
+Harvested merchantable volume of tree l of species j at time t (m3) 
+�㌵9 
+Basic wood density of species j (t d.m. m-3) 
+�㌵9(�㌵�㌵�㌵, �㌵) 
+Allometric equation for species j linking diameter at breast height (DBH) and 
+possibly height (H) to above-ground biomass of living trees (t d.m. tree-1) 
+�㌵�㌵9 
+Carbon fraction of biomass for tree species j; IPCC default value = 0.5 
+(t C t−1 d.m.) 
+�㌵ 
+1, 2, 3, …, N sequence number of trees harvested 
+�㌵ 
+1, 2, 3, …, SBSL tree species in the baseline scenario 
+ 
+8 Table 3A.1.15, Annex 3A.1, in IPCC (2003). Good practice guidance: Land use, land-use change and forestry (GPG-
+LULUCF). Available at: https://www.ipcc-nggip.iges.or.jp/public/gpglulucf/gpglulucf_files/Chp4/Chp4_3_Projects.pdf 
+ 
+VM0003, v1.3  
+ 
+17 
+ 
+8.5 
+Project Net GHG Removals by Sinks 
+The actual net greenhouse gas removals must be estimated using the equations in this section. 
+When applying these equations for the ex-ante calculation of net anthropogenic GHG removals 
+by sinks, project proponents must provide estimates of the values of parameters that are not 
+available before the start of monitoring activities.9 Project proponents must retain a 
+conservative approach in making these estimates. 
+Δ�㌵<=>?<# = Δ�㌵@ −�㌵�㌵�㌵, 
+(10) 
+Where: 
+Δ�㌵<=>?<# 
+Actual net greenhouse gas removals by sinks (t CO2e) 
+Δ�㌵@  
+Sum of the changes in above-ground biomass, dead wood and wood products 
+in the project scenario (t CO2e) 
+�㌵�㌵�㌵, 
+Increase in GHG emissions as a result of implementation of the proposed IFM 
+project activity within the project area (t CO2e) 
+ 
+Note – in this methodology, Equation (14) is used to estimate actual net greenhouse gas 
+removals by sinks for the period of time elapsed between project start (t = 1) and the year t = 
+t*, where t* is the year for which actual net greenhouse gas removals by sinks are estimated. 
+The stock change method must be used to determine annual or periodic values. 
+ 
+8.5.1 
+Estimation of Changes in Carbon Stock 
+The verifiable changes in the carbon stock in tree above-ground biomass, dead wood and wood 
+products are estimated using the following approach10: 
+Δ�㌵@ = + Δ�㌵+ × 44
+12
++∗
++&'
+ 
+(11) 
+Where: 
+Δ�㌵+  
+Annual change in carbon stock in all selected carbon pools for year t (t C yr-1) 
+ 
+ 
+9 For the ex-ante estimation of changes in above-ground biomass, dead wood and wood products in the project 
+scenario, projects must model the expected changes in stocks through the with-project management scenario using 
+methods described in Section 8.5.1. 
+10 Equation 3.2.3 in IPCC (2003). Good practice guidance for land use, land-use change and forestry – Section 4.3. 
+ 
+VM0003, v1.3  
+ 
+18 
+ 
+Δ�㌵+  must be estimated using the following equation: 
+Δ�㌵+ = +5Δ�㌵<A,%,+ + Δ�㌵!A,%,+ + Δ�㌵BC,%,+ + Δ�㌵C@,%,+7
+$!<
+%&'
+ 
+(12) 
+Where: 
+Δ�㌵<A,%,+  
+Annual carbon stock change in above-ground biomass of trees for stratum i; 
+may be an average over the monitoring period (t C yr-1) 
+Δ�㌵!A,%,+ 
+Annual carbon stock change in below-ground biomass of trees for stratum i; 
+may be an average over the monitoring period (t C yr-1) 
+Δ�㌵BC,%,+ 
+Annual change in the dead wood carbon pool for stratum i; may be an average 
+over the monitoring period (t C yr-1) 
+Δ�㌵C@,%,+ 
+Annual change in the wood products carbon pool for stratum i; may be an 
+average over the monitoring period (t C yr-1) 
+Changes in carbon pools that are conservatively excluded from accounting must be set equal to 
+zero. 
+8.5.1.1 
+Tree Biomass 
+The mean carbon stock in above-ground biomass per unit area is estimated based on field 
+measurements in sample plots. Plots may be permanent or temporary,11 and may have a 
+defined boundary or be variable radius plots. Two methods are available: the biomass 
+expansion factors (BEF) method and the allometric equations method. 
+Method 1: BEF Method 
+Step 1: Determine based on available data (e.g., volume tables (ex-ante) and measurements 
+(ex-post)), the diameter (DBH, at typically 1.3 m [4.5 ft] above ground level), and also preferably 
+height (H), of all the trees above a selected minimum DBH in the sample plots. 
+Step 2: Estimate the volume of the commercial (merchantable) component of trees based on 
+available equations or yield tables (where locally derived equations or yield tables are not 
+available, use relevant regional, national or default data as appropriate). Steps 1 and 2 may be 
+combined where field instruments that measure the volume of each tree more directly (e.g., a 
+relascope) are available. 
+ 
+11 Note that due to covariance, tighter precision is obtained and hence fewer measurements may be used where 
+permanent plots are selected. See guidance in IPCC (2003). Good practice guidance for land use, land use change 
+and forestry – Section 4.3. 
+ 
+VM0003, v1.3  
+ 
+19 
+ 
+Step 3: Choose BEF and root-shoot ratio R – see definition of BEF within Section 9.1 for 
+guidance on source of data. Where relevant information is available, the BEF and R must be 
+adjusted for forest type or stand structure. 
+Step 4: Convert the volume of the commercial component of the trees into the mean plot level 
+carbon stock biomass of the commercial component of trees via wood density and carbon 
+fraction: 
+�㌵�㌵<!4>,-,# = + + (�㌵:,9,%,0D,+ × �㌵9 × �㌵�㌵9)
+;;,-,4>,#
+:&'
+"!<
+9&'
+ 
+(13) 
+Where: 
+�㌵�㌵<!4>,-,# 
+Carbon stock of the commercial component of trees in plot sp in stratum i at 
+time t (t C)  
+�㌵:,9,%,0D,+ 
+Merchantable volume of tree l of species j in plot sp in stratum i at time t (m3) 
+(where necessary, convert from ft3 to m3 by multiplying by 0.0283) 
+Step 5: Calculate the carbon stock in the commercial component of the trees for each stratum: 
+�㌵�㌵<!,%,+ = + 10000
+�㌵�㌵
+× �㌵�㌵<!4>,-,#
+@-
+0D&'
+ 
+(14) 
+Where: 
+�㌵�㌵<!,%,+ 
+Carbon stock of the commercial component of trees in stratum i at time t (t C 
+ha-1) 
+�㌵�㌵ 
+Area of sample plot (m2) (where necessary, convert from ft2 to m2 by multiplying 
+by 0.0929) 
+�㌵�㌵ 
+1, 2, 3, …, Pi sample plots in stratum i in the project scenario 
+Where point sampling/basal area prism sampling is used, in Equation (13) each tree must be 
+multiplied by the number of trees per acre that it represents, and in Equation (14) the 
+10000/�㌵�㌵ factor is omitted. 
+Step 6: Convert the mean carbon stock in the commercial component of the trees for each 
+stratum into the total carbon stock in above-ground biomass via the BEF: 
+�㌵<!,%,+ = �㌵�㌵<!,%,+ × �㌵�㌵�㌵ 
+(15) 
+Where: 
+ 
+VM0003, v1.3  
+ 
+20 
+ 
+�㌵<!,%,+ 
+Carbon stock in above-ground biomass of trees in stratum i at time t (t C ha-1) 
+�㌵�㌵�㌵ 
+Biomass expansion factor for conversion of merchantable biomass to total 
+above-ground tree biomass (dimensionless) 
+Step 7: Calculate the carbon stock in below-ground biomass of all trees present in stratum i at 
+time t: 
+�㌵!!,%,+ = �㌵<!,%,+ × �㌵ 
+(16) 
+Where: 
+�㌵!!,%,+ 
+Carbon stock in below-ground biomass of trees in stratum i at time t (t C ha-1) 
+�㌵ 
+Root-shoot ratio appropriate for biomass stock (dimensionless) 
+Alternatively, the equations of Cairns et al. (1997)12 may be used to calculate below-ground 
+biomass stock (t ha-1) from above-ground biomass stock (t ha-1). 
+Where an appropriate equation exists to calculate below-ground biomass directly from DBH, it 
+may be used in this step. 
+Step 8: Calculate the mean carbon stock in tree biomass for each stratum: 
+�㌵+2EE,%,+ = �㌵% × (�㌵<!,%,+ + �㌵!!,%,+) 
+(17) 
+Where: 
+�㌵+2EE,%,+ 
+Carbon stock in trees in stratum i at time t (t C) 
+�㌵% 
+Area of stratum i (ha) 
+Step 9: Calculate the mean carbon stock change: 
+Δ�㌵<A,%,+ + Δ�㌵!A,%,+ = �㌵+2EE,%,+0 −�㌵+2EE,%,+.
+�㌵
+ 
+(18) 
+Where: 
+Δ�㌵<A,%,+ 
+Annual carbon stock change in above-ground biomass of trees for stratum i 
+(t C yr-1) 
+Δ�㌵!A,%,+ 
+Annual carbon stock change in below-ground biomass of trees for stratum i 
+(t C yr-1) 
+ 
+12 Cairns, M. A., Brown, S., Helmer, E. H., & Baumgardner, G. A. (1997). Root biomass allocation in the world’s upland 
+forests. Oecologia, 111, 1–11. https://doi.org/10.1007/s004420050201 
+ 
+VM0003, v1.3  
+ 
+21 
+ 
+�㌵ 
+Number of years between monitoring time t1 and t2 (T = t2 – t1) (yr.) 
+ 
+Method 2: Allometric Method 
+Step 1: Follow Step 1 of the BEF method. 
+Step 2: Select or develop an appropriate allometric equation (where possible species-specific, 
+otherwise from a similar species) – see Section 9.1 for additional guidance. 
+Step 3: Estimate carbon stock in above-ground biomass for each individual tree l of species j in 
+the sample plot located in stratum i using the selected or developed allometric equation 
+applied to the tree dimensions resulting from Step 1, and sum the carbon stocks in the sample 
+plot: 
+�㌵<!+2EE?,;,-,4>,# = + �㌵9(�㌵�㌵�㌵, �㌵) × �㌵�㌵9
+;;,4>
+:&'
+ 
+(19) 
+Where: 
+�㌵<!+2EE?,;,-,4>,# 
+Carbon stock in above-ground biomass of tree l of species j in plot sp in stratum 
+i at time t (t C tree-1) 
+�㌵9(�㌵�㌵�㌵, �㌵) 
+Allometric equation for species j linking diameter at breast height (DBH) and 
+possibly height (H) to above-ground biomass of trees (t. d.m. tree-1) 
+Step 4: Convert the carbon stock in above-ground biomass to the carbon stock in below-ground 
+biomass via root-shoot ratio: 
+�㌵!!+2EE?,;,-,4>,# = �㌵<!+2EE?,;,-,4>,# × �㌵9 
+(20) 
+Where: 
+�㌵!!+2EE?,;,-,4>,# 
+Carbon stock in below-ground biomass of tree l of species j in plot sp in stratum 
+i at time t (t C tree-1) 
+�㌵9 
+Root-shoot ratio appropriate for biomass stock of species j (dimensionless) 
+Where an appropriate equation exists to calculate below-ground biomass directly from DBH, it 
+may be used in this step. 
+ 
+VM0003, v1.3  
+ 
+22 
+ 
+Step 5: Calculate total carbon stock in the biomass of all trees present in sample plot sp in 
+stratum i at time t: 
+�㌵+2EE-,4>,# = + ?�㌵<!+2EE?,;,-,4>,# + �㌵!!+2EE?,;,-,4>,# E
+"!<
+9&'
+ 
+(21) 
+Where: 
+�㌵+2EE-,4>,# 
+Carbon stock in trees in plot sp of stratum i at time t (t C) 
+Step 6: Calculate the mean carbon stock in tree biomass for each stratum: 
+�㌵+2EE,%,+ = �㌵%
+�㌵�㌵�㌵%
++ �㌵+2EE,%,0D,+
+@-
+0D&'
+ 
+(22) 
+Where: 
+�㌵�㌵�㌵% 
+Total area of all sample plots in stratum i (ha) 
+Step 7: Calculate the mean carbon stock change: 
+Δ�㌵<A,%,+ + Δ�㌵!A,%,+ = �㌵+2EE,%,+0 −�㌵+2EE,%,+.
+�㌵
+ 
+(23) 
+Note that for permanent plots with tagged trees, changes in carbon stocks are tracked directly 
+through estimates of carbon stock increments in individual trees summed across plots and 
+strata. For detailed guidance see Pearson et al. (2005).13 
+8.5.1.2 
+Dead Wood (if Selected in Table 1) 
+Dead wood included in the methodology comprises two components only: standing dead wood 
+and lying dead wood — that is, below-ground dead wood is conservatively omitted. Considering 
+the differences in the two components, different sampling and estimation procedures are used 
+to calculate the changes in dead wood biomass of the two components. In all cases, dead wood 
+modeling must include a decay function that is a 10-year linear decay or a more conservative 
+alternative for dead wood that reflects a pattern of carbon loss over time. 
+Δ�㌵BC,%,+ = �㌵BC,%,+0 −�㌵BC,%,+.
+�㌵
+ 
+(24) 
+Where: 
+ 
+13 Pearson, T., Walker, S., & Brown, S. (2005). Sourcebook for land use, land-use change and forestry projects. Winrock 
+International and the World Bank Biocarbon Fund. Available at: 
+https://openknowledge.worldbank.org/handle/10986/16491 
+ 
+VM0003, v1.3  
+ 
+23 
+ 
+Δ�㌵BC,%,+ 
+Annual carbon stock change in dead wood for stratum i averaged over the 
+monitoring period (t C yr-1) 
+�㌵BC,%,+0 
+Carbon stock of dead wood in stratum i at time t = 2 (t C) 
+�㌵BC,%,+. 
+Carbon stock of dead wood in stratum i at time t = 1 (t C) 
+The methods to be followed in the measurement of standing dead wood and lying dead wood 
+biomass are outlined below: 
+�㌵BC,%,+ = 5�㌵"BC,%,+ + �㌵#BC,%,+7 × �㌵�㌵BC 
+(25) 
+Where: 
+�㌵BC,%,+ 
+Carbon stock of dead wood in stratum i at time t (t C) 
+�㌵"BC,%,+ 
+Biomass of standing dead wood in stratum i at time t (t d.m.) 
+�㌵#BC,%,+ 
+Biomass of lying dead wood in stratum i at time t (t d.m.) 
+�㌵�㌵BC  
+Carbon fraction of dry matter in dead wood (t C t-1 d.m.) 
+Method: Standing Dead Wood 
+Step 1: Standing dead trees must be measured using the same criteria and monitoring 
+frequency used for measuring live trees. The decomposed portion that corresponds to the 
+original above-ground biomass is discounted. Stumps must be inventoried as very short 
+standing dead trees. 
+Step 2: The decomposition class of the dead tree and the diameter at breast height must be 
+recorded. The standing dead wood is categorized into one of the following four decomposition 
+classes: 
+1) Tree with branches and twigs that resembles a live tree (except for leaves); 
+2) Tree with no twigs but with persistent small and large branches; 
+3) Tree with large branches only; or 
+4) Bole only, no branches. 
+Step 3: Biomass must be estimated using an allometric equation for live trees in decomposition 
+class 1. When the bole is in decomposition classes 2, 3 or 4, the estimate of biomass is limited 
+to the main trunk of the tree. 
+Where the top of the standing dead tree is missing, the top diameter is determined using any of 
+the following: 
+● 
+Assume top diameter to be zero; 
+ 
+VM0003, v1.3  
+ 
+24 
+ 
+● 
+Measure top diameter where reachable or the broken top is identifiable on the 
+ground, or by using an instrument such as a relascope or laser inventory 
+instrument; or 
+● 
+Calculate top diameter proportionally to height assuming that the height of the 
+intact dead tree would be equal to average height of all intact dead trees present 
+in the same sample plot. 
+Step 4: The volume of dead wood is converted to biomass using the appropriate dead wood 
+density class. 
+Method: Lying Dead Wood 
+The lying dead wood pool is highly variable. It is possible for stocks to change as the stands 
+age, depending on whether the forest was previously unmanaged (mature or unlogged) where 
+stocks would likely increase, or logged with logging slash left behind where stocks may 
+decrease over time.   
+Step 1: Lying dead wood must be sampled using the line intersect method (Harmon & Sexton, 
+1996).14,15 Two 50-meter (164 ft) lines are established bisecting each plot and the diameters of 
+the lying dead wood (≥10 cm diameter [≥3.9 inches]) intersecting the lines are measured. 
+Step 2: The dead wood is assigned to one of three density states (sound, intermediate and 
+rotten) using the machete test, as recommended by the most recent version of the IPCC’s Good 
+Practice Guidance for LULUCF. 
+Step 3: The volume of lying dead wood per unit area is calculated using Equation (26) 
+separately for each density state (Warren & Olsen, 196416 as modified by Van Wagner, 1968):17 
+�㌵#BC,%,+ = �㌵* × 5∑
+�㌵�㌵3,%,+
+*
+;
+3&'
+7
+8 × �㌵
+ 
+(26) 
+Where: 
+�㌵#BC,%,+ 
+Volume of lying dead wood per unit area in stratum i at time t (m3 ha-1) 
+�㌵�㌵3,%,+ 
+Diameter of piece n of dead wood along the transect in stratum i at time t (cm) 
+(where necessary, convert inches to cm by multiplying by 2.54) 
+ 
+14 Harmon, M. E., & Sexton, J. (1996). Guidelines for measurements of woody detritus in forest ecosystems. US LTER 
+Publication No. 20. US LTER Network Office, University of Washington. 
+15 A variant of the line intersect method is described in Waddell, K. L. (2002). Sampling coarse woody debris for multiple 
+attributes in extensive resource inventories. Ecological Indicators, 1(3), 139–153. https://doi.org/10.1016/S1470-
+160X(01)00012-7 This method may be used in place of Steps 1 to 3. 
+16 Warren, W. G., & Olsen, P. F. (1964). A line intersect technique for assessing logging waste. Forest Science, 10(3), 
+267–276.  
+17 Van Wagner, C. E. (1968). The line intersect method in forest fuel sampling. Forest Science, 14(1), 20–26.  
+ 
+VM0003, v1.3  
+ 
+25 
+ 
+�㌵  
+Total number of wood pieces intersecting the transect 
+�㌵ 
+ 
+Length of the transect (m) (where necessary, convert ft to m by multiplying by 
+0.3048) 
+To convert this to a mass per unit area, multiply the volumes of each density state by their 
+respective wood densities (Step 4). 
+Step 4: Volume of lying dead wood is converted into biomass using the following relationship: 
+�㌵#BC,%,+ = �㌵% × + �㌵#BC,%,+ × �㌵BC,FG
+H
+FG&'
+ 
+(27) 
+Where: 
+�㌵#BC,%,+ 
+Biomass of lying dead wood per unit area in stratum i at time t (d.m. ha-1) 
+�㌵BC,FG 
+Basic wood density of dead wood in density class dc: sound (1), intermediate (2) 
+and rotten (3) (t d.m. m-3) 
+8.5.1.3 
+Wood Products (if Selected in Table 1) 
+The wood products pool is calculated through the following general steps for each harvest 
+period h. 
+Step 1: Calculate the carbon in harvested timber removed from the project area based on wood 
+densities and standard carbon conversions from biomass volumes. 
+Step 2: Calculate the total carbon in harvested timber that will enter the wood products pool 
+based on mill efficiencies and product disposition percentages. 
+Step 3: Calculate the total carbon that will be stored for the short-lived (≤3 years), medium-lived 
+(>3 years to 100 years) and long-lived (>100 years) product pools. 
+The annual change in carbon stored in wood products is given in the following equation: 
+Δ�㌵C@,+.,+0 = �㌵C@,+0 −�㌵C@,+.
+�㌵
+ 
+(28) 
+Where: 
+Δ�㌵C@,+.,+0 
+Annual carbon stock change in wood products between times t1 and t2, 
+averaged over the monitoring period (t C yr-1) 
+�㌵C@,+0 
+Carbon stock of wood products at time t = 2 (t C) 
+�㌵C@,+. 
+Carbon stock of wood products at time t = 1 (t C) 
+ 
+VM0003, v1.3  
+ 
+26 
+ 
+Two methods are available to calculate wood products. The direct (1605b) method is only 
+applicable within the 48 contiguous United States and for limited vegetation types. The less 
+direct (Winjum et al.) method may be applied to any vegetation types throughout the world. 
+Method 1: 1605b Method 
+This method uses tables that were originally defined in the Forestry Appendix of the Technical 
+Guidelines of the US Department of Energy’s Voluntary Reporting of Greenhouse Gases 
+Program (known as Section 1605(b)), which are retained in a USFS General Technical Report, 
+GTR-NE-343 (Smith et al. 2006).18 All harvested wood is categorized by species and wood 
+product (sawnwood or pulpwood). Wood density values for each species in the project area are 
+used to determine carbon volume for each cubic volume of wood delivered to processing 
+facilities.  
+Regional data supplied in Tables 4 and 5 of GTR-NE-343 provide values to determine the 
+percentage of harvested softwoods and hardwoods that are converted to sawnwood and 
+pulpwood.  
+Step 1: Calculate the total carbon in harvested timber removed from the project area. This is 
+calculated by taking the biomass of the total volume extracted from within the project area, 
+from the start of the project to date. Extracted timber is differentiated into hardwood, softwood, 
+sawnwood and pulpwood classes (where necessary, convert volumes in ft3 to m3 by multiplying 
+by 0.0283): 
+�㌵�㌵�㌵C@,+I = + +(�㌵EJ,K,0|D,9 × �㌵9 × �㌵�㌵9)
+"!<
+9&'
+M!<
+K&'
+ 
+(29) 
+Where: 
+�㌵�㌵�㌵C@,+I 
+Summed stock of biomass carbon extracted from within the project area as 
+wood product ty (hardwood sawnwood, hardwood pulpwood, softwood 
+sawnwood or softwood pulpwood) (t C) 
+�㌵EJ,K,0|D,9 
+Volume of timber extracted from within the project area during harvest h for 
+species j and wood product ty (m3) 
+ℎ 
+1, 2, 3, …, HPS harvests since the start of the IFM project activity 
+�㌵ 
+1, 2, 3, …, SPS tree species in the project scenario 
+�㌵|�㌵ 
+Wood product, defined here as sawnwood or pulpwood 
+ 
+18 Available as a US Forest Service General Technical Report at: https://www.srs.fs.usda.gov/pubs/22954 
+ 
+VM0003, v1.3  
+ 
+27 
+ 
+Step 2: Calculate the total carbon that enters the wood products pool. All projects must 
+calculate the total carbon in harvested biomass that enters the wood products pool after 
+deducting harvest slash left on-site, bark biomass and waste calculated through mill 
+efficiencies. For the purposes of this methodology Tables 4, 5 and 6 from GTR-NE-343 may be 
+used to estimate these values for different regions within the United States. Examples 4, 5, and 
+6 are given on pages 10–13 of the GTR-NE-343 and demonstrate methods that may be 
+followed with different existing datasets.  
+Step 3: Calculate the total amount of carbon stored in short-lived, medium-lived and long-lived 
+wood products. For the purposes of this methodology, the proportion of harvested carbon 
+stored in wood products is equivalent to the proportion listed in the “In Use” column of Table 6 
+of GTR-NE-343 for any given year after harvest. 
+Each year’s harvested carbon volume is categorized into one of the following: 
+● 
+Short-lived wood products: harvested wood products and wood waste that will 
+decay within 3 years; 
+● 
+Medium-lived wood products: harvested wood products and wood waste that will be 
+retired between 3 and 100 years from the date of harvest; or 
+● 
+Long-lived wood products: harvested wood products and wood waste that may be 
+considered permanent (stored for 100 years or more). 
+To determine the proportion of harvested wood products that fall into each category, refer to 
+the “In Use” column in the appropriate regional version of Table 6 of GTR-NE-343. For each 
+harvested wood type (hardwood, softwood, pulpwood, sawnwood), two values are taken from 
+the table: �㌵HIE/2, the percentage of total carbon stored in wood products after 3 years; and 
+�㌵'NNIE/2, the proportion of harvested wood stored for 100 years. Three different values are 
+calculated from these data: the short-lived fraction (�㌵"#O), medium-lived fraction (�㌵$#O) and 
+long-lived fraction (�㌵##O): 
+ 
+�㌵"#O = 1 −�㌵HIE/2 
+ 
+�㌵$#O = �㌵HIE/2 – �㌵'NNIE/2 
+ 
+�㌵##O = �㌵'NNIE/2 
+Each category of wood products stores carbon according to the following rules: 
+● 
+Short-lived wood products: immediate loss of all carbon upon harvest 
+● 
+Medium-lived wood products: no loss of carbon upon harvest, but carbon stored 
+will decrease by 1/20th for the 20 years following harvest 
+● 
+Long-lived wood products: no loss of carbon 
+ 
+VM0003, v1.3  
+ 
+28 
+ 
+�㌵C@+,+I = +((�㌵$%::,+I,KI × �㌵##O) + [(�㌵$%::,+I,K × �㌵$#O) × (20 −ℎ�㌵)
+20
+]
++
+K&N
+ 
+(30) 
+Where: 
+�㌵C@+,+I 
+Total carbon removed from the project area that remains stored in harvested 
+wood products at year t for wood product ty (hardwood, softwood, sawnwood, 
+pulpwood) (t C) 
+�㌵$%::,+I,K 
+Total carbon volume stored in wood products for harvest h, after deducting for 
+mill efficiencies and product dispositions (t C) 
+ℎ�㌵  
+Year of harvest 
+�㌵"#O,$#O,##O 
+Proportion of carbon stored in short-lived, medium-lived and long-lived sawn 
+hardwood/softwood or pulp hardwood/softwood in use 
+PSLF = 0. PMLF must be reduced by 1/20 in each of the 20 years following 
+harvest, after which point it becomes zero. PLLF = 1 for the 100 years of the 
+project life. 
+Method 2: Winjum et al. Method 
+Step 1: Calculate the total volume of biomass extracted from within the project area from the 
+start of the project to date (where necessary, convert volumes in ft3 to m3 by multiplying by 
+0.0283). 
+�㌵�㌵�㌵C@,+I = + +(�㌵EJ,K,+I,9 × �㌵9 × �㌵�㌵9)
+"!<
+9&'
+M!<
+K&'
+ 
+(31) 
+Where: 
+�㌵�㌵�㌵C@,+I 
+Summed stock of extracted biomass carbon from within the project area for 
+class of wood product ty (t C) 
+�㌵EJ,K,+I,9 
+Volume of timber extracted from within the project area during harvest h for 
+species j and wood product class ty (m3) 
+Step 2: Calculate the total carbon in harvested timber that enters the wood products pool 
+based on mill efficiencies and product disposition percentages. All factors are derived from 
+Winjum et al. (1998).19 
+ 
+19 Winjum, J. K., Brown, S., & Schlamadinger, B. (1998). Forest harvests and wood products: Sources and sinks of 
+atmospheric carbon dioxide. Forest Science, 44(2), 272–284.  
+ 
+VM0003, v1.3  
+ 
+29 
+ 
+�㌵$%::,+I =
++
+�㌵�㌵�㌵C@,+I × (1 −�㌵�㌵)
++I
+0,P,-%2,D
+ 
+(32) 
+Where: 
+�㌵$%::,+I 
+Summed stock of carbon remaining in wood products of class ty from within the 
+project area after milling (t C) 
+�㌵�㌵�㌵C@,+I 
+Summed stock of biomass carbon extracted from within the project area for 
+class of wood product ty (t C) 
+�㌵�㌵ 
+Wood waste fraction based on mill efficiency 
+�㌵, �㌵, �㌵�㌵�㌵, �㌵  
+Wood product categories: sawnwood, wood-based panels, other industrial 
+roundwood, and paper and paperboard 
+�㌵�㌵ 
+Wood product class, defined here as sawnwood, wood-based panels, other 
+industrial roundwood, paper and paper board 
+ 
+Wood Waste Fraction (WW) 
+Winjum et al. (1998) indicate that the proportion of extracted biomass that is oxidized (by 
+burning or decaying) from the production of commodities is equal to 19 percent for developed 
+countries and 24 percent for developing countries. �㌵�㌵ is therefore equal to �㌵�㌵�㌵C@,+I 
+multiplied by 0.19 for developed countries and 0.24 for developing countries (Winjum et al. 
+(1998); p. 278). 
+Step 3: Calculate the total carbon that will be stored in short-lived (≤3 years), medium-lived (>3 
+years to 100 years) and long-lived (>100 years) products. 
+Each year’s harvested carbon volume must be categorized into one of the following: 
+● 
+Short-lived wood products: harvested wood products and wood waste that will 
+decay within 3 years; 
+● 
+Medium-lived wood products: harvested wood products and wood waste that will be 
+retired between 3 and 100 years from the date of harvest; or 
+● 
+Long-lived wood products: harvested wood products and wood waste that may be 
+considered permanent (stored for 100 years or more). 
+For each year’s harvests, the calculation of carbon in wood products follows this formula:  
+�㌵C@,+I =
++ (5�㌵$%::,+I −�㌵�㌵�㌵7 −*�㌵�㌵�㌵
+20 0
++I
+0,P,-%2,D
+) 
+(33) 
+ 
+VM0003, v1.3  
+ 
+30 
+ 
+Where: 
+�㌵C@,+I 
+Total carbon removed from the project area stored in each type, ty, of harvested 
+wood products (t C)  
+�㌵�㌵�㌵ 
+Fraction of wood products that will be emitted to the atmosphere within 3 years 
+of timber harvest (t C) 
+�㌵�㌵�㌵ 
+Fraction of wood products that is considered stored for the medium term and emitted to 
+the atmosphere each year after harvest for 20 years (t C)Short-lived Fraction (SLF) 
+Table 3: Extrapolated wood product class decay rates 
+Wood Product Class 
+5-year decay rate 
+from Winjum et al. 
+(1998) 
+Annualized decay 
+rate 
+ 3-year decay rate, 
+Short-lived 
+proportion (slp)  
+Sawnwood 
+0.2 
+0.04 
+0.12 
+Wood-based panels 
+0.1 
+0.02 
+0.06 
+Other industrial roundwood 
+0.3 
+0.06 
+0.18 
+Paper and paperboard 
+0.4 
+0.08 
+0.24 
+ 
+The methodology assumes that this proportion of wood and all other classes of wood products 
+are 100 percent oxidized immediately. 
+Therefore, SLF is equal to:  
+�㌵�㌵�㌵= 5�㌵$%::,+I7 × �㌵�㌵�㌵ 
+(34) 
+Where: 
+�㌵$%::,+I 
+Sum of carbon remaining in wood products of class ty from within the project area 
+after milling (t C) 
+�㌵�㌵�㌵ 
+Short-lived proportion (last column of Table 3)  
+Medium-lived Fraction (MLF) 
+Winjum et al. (1998) gives annual oxidation fractions for each class of wood products split by 
+forest region (boreal, temperate and tropical). This methodology projects these fractions over 
+ 
+VM0003, v1.3  
+ 
+31 
+ 
+95 years to give the additional proportion that is oxidized between 5 and 100 years after initial 
+harvest (Table 44). 
+Table 44: Proportion of Remaining Wood Products Oxidized (fo) between 5 and 100 
+Years after Initial Harvest, by Wood Product Class and Forest Region 
+Wood Product Class 
+fo 
+Boreal 
+Temperate 
+Tropical 
+Sawnwood 
+0.38 
+0.62 
+0.85 
+Wood-based panels 
+0.62 
+0.85 
+0.98 
+Other industrial roundwood 
+0.85 
+0.98 
+1.00 
+Paper and paperboard 
+0.38 
+0.62 
+1.00 
+To reflect a 20-year linear decay as required by the VCS Methodology Requirements, 1/20th of 
+these proportions must be deducted from the harvested wood product pools for each year 
+following harvest. At 20 years after harvesting, the MLF term is equal to zero. 
+The timeframe for short-lived wood products is defined as less than 3 years to meet VCS 
+Methodology Requirements. The portion of wood products stored in medium-lived wood 
+products to be emitted to the atmosphere between 3 and 100 years following harvest was 
+estimated using the oxidation fractions found in Table 2 of Winjum et al. (1998). However, Table 
+2 of Winjum et al. (1998) specifies oxidation fractions for long-lived wood products, defined as 
+5 years or greater. Additionally, paper requires a separate oxidation rate for the first 5 years 
+(0.2 for sawnwood and 0.4 for pulp). To account for this, split the medium-lived fraction into two 
+portions: �㌵�㌵�㌵H,Q to account for the years that Winjum et al. (1998) define as short-lived and 
+�㌵�㌵�㌵Q,'NN for the remaining 95 years.  
+For the first 20 years after each harvest cycle, the value of �㌵�㌵�㌵ for that harvest is therefore 
+equal to: 
+�㌵�㌵�㌵= �㌵�㌵�㌵H,Q + �㌵�㌵�㌵Q,'NN 
+(35) 
+Where: 
+�㌵�㌵�㌵H,Q 
+Fraction of wood products that is considered stored for the medium term for the 
+period t = 3 years to t = 5 years (t C) 
+�㌵�㌵�㌵Q,'NN 
+Fraction of wood products that is considered stored for the medium term for the 
+period t = 5 years to t = 100 years (t C) 
+ 
+VM0003, v1.3  
+ 
+32 
+ 
+For the first portion, MLF_3,5, the following equation is used: 
+�㌵�㌵�㌵H,Q = �㌵.%::,+I  × �㌵�㌵�㌵/F9 
+(36) 
+ 
+Where: 
+�㌵�㌵�㌵/F9 
+Short-lived proportion for the period t = 3 years to t = 5 years (Table 5) 
+Table 5: Proportion of Short-Lived Wood Products by Product Class 
+Product 
+Winjum et al. 
+slp (<5 years) 
+VM0003 Version 1.3 slp (<3 
+years) 
+slpadj  
+(years 3 to 5) 
+Sawnwood 
+0.2 
+0.12 
+0.08 
+Pulp 
+0.4 
+0.24 
+0.16 
+ 
+For �㌵�㌵�㌵Q,'NN, project proponents must use the following equation: 
+�㌵�㌵�㌵Q,'NN = 5�㌵.%::,+I −�㌵�㌵�㌵ − �㌵�㌵�㌵H,Q7 × �㌵�㌵ 
+(37) 
+Where: 
+�㌵�㌵�㌵Q,'NN  
+Fraction of wood products that is considered stored for the medium term for the 
+period t = 5 years to t = 100 years (t C)  
+�㌵$%::,+I 
+Summed stock of biomass carbon extracted from within the project area for 
+class of wood product ty after milling (t C) 
+�㌵�㌵ 
+Fraction oxidized – see Table 3 for defaults; tC tC-1 
+ 
+8.5.2 
+Estimation of GHG Emissions within the Project Area 
+The change in GHG emissions as a result of implementation of the proposed IFM project activity 
+within the project area is estimated as: 
+�㌵�㌵�㌵@", = +5�㌵@"+-12344+5$6,#7
++∗
++&'
+ 
+(35) 
+Where: 
+�㌵�㌵�㌵@"" 
+Greenhouse gas emissions as a result of forest management activities within 
+the project area in the project scenario (t CO2e) 
+ 
+VM0003, v1.3  
+ 
+33 
+ 
+�㌵@"+-12344+5$6,# Non-CO2 emissions due to biomass burning as part of forest management 
+during year t in the project scenario (t CO2e) 
+�㌵ 
+1, 2, 3, …, t* years elapsed since the start of the IFM project activity 
+The monitoring of emissions by sources is only required where significant; where insignificant, 
+evidence must be provided (e.g., as part of the monitoring of project implementation) that the 
+assumptions for the exclusion made in the ex-ante assessment still hold in the ex-post 
+situation. 
+8.5.2.1 
+Estimation of Non-CO2 Emissions due to Biomass Burning 
+The non-CO2 emissions due to biomass burning as part of forest management (�㌵!%-./00!123) 
+are estimated by: 
+�㌵!%-./00!123,+ = �㌵!%-./00!12389:,+ 
+(36) 
+Where: 
+�㌵!%-./00!123,+ Non-CO2 greenhouse gas emissions at time t as a result of biomass burning 
+due to forest management (t CO2e) 
+�㌵!%-./00!12389:,+CH4 emissions at time t as a result of forest management (t CO2e) 
+Estimation of CH4 emissions is based on the carbon stock loss from biomass burning during 
+forest management. The biomass of logging slash burned, �㌵�㌵, is calculated using Equation 
+(38). This is multiplied by factors that adjust for the mass of CH4 versus carbon released, and 
+for the global warming potential of CH4.  
+�㌵!%-./00!12389:,+ = �㌵�㌵@",+ × �㌵�㌵67: × 16
+12 × �㌵�㌵�㌵67: 
+(37) 
+Where: 
+�㌵�㌵@",+ 
+Carbon stock in logging slash subject to burning as part of forest management 
+in the project scenario (t C) 
+�㌵�㌵67: 
+Emission ratio for CH4 (where local data on combustion efficiency are not 
+available or it is not possible to estimate combustion efficiency from fuel 
+information, use the most recent IPCC default value, 0.01220) (kg C as CH4 (kg 
+C burned)−1) 
+ 
+ 
+20 Table 3A.1.15, Annex 3A.1 in IPCC (2003). Good Practice Guidance LULUCF.  
+ 
+VM0003, v1.3  
+ 
+34 
+ 
+Where logging slash is not burned as part of forest management �㌵�㌵@",+ = 0, otherwise: 
+�㌵�㌵@",+ = + + >*?�㌵9(�㌵�㌵�㌵, �㌵)E −5�㌵:,9,+ × �㌵970 × �㌵�㌵9H
+;;,#
+:&'
+"!<
+9&'
+ 
+(38) 
+ 
+8.6 
+Leakage 
+Under the applicability conditions of this methodology, leakage emissions in the form of GHG 
+emissions due to market effects resulting from a shift in harvest over time must be 
+calculated.21 
+Therefore, leakage is estimated as follows: 
+�㌵�㌵= �㌵�㌵$/2RE+,SSEG+0 
+(39) 
+Where: 
+�㌵�㌵ 
+Total GHG emissions due to leakage (t CO2e) 
+�㌵�㌵$/2RE+,SSEG+0 Total GHG emissions due to impacts of project on timber supply and demand 
+(t CO2e) 
+ 
+Note – in this methodology, Equation (39) is used to estimate leakage for the period of time 
+elapsed between project start (t = 1) and the year t = t*, where t* is the year for which actual 
+net greenhouse gas removals by sinks are estimated. 
+ 
+8.6.1 
+Leakage due to Activity Shifting 
+As per the applicability conditions, leakage due to activity shifting is not permitted. 
+Where the project is able to demonstrate that any decrease in wood products produced by the 
+project relative to the baseline is less than 5 percent and any temporal displacement in the 
+total production of wood products is less than 5 years, then: 
+�㌵�㌵<G+%T%+I"K%S+%3U = 0 
+(40) 
+Where the project decreases wood product production by more than 5 percent relative to the 
+baseline, then the project proponent and all associated landowners must demonstrate that 
+ 
+21 GHG emissions through fossil fuel use outside the project boundary are not considered based on guidance from the 
+CDM Executive Board. Available at: http://cdm.unfccc.int/EB/044/eb44rep.pdf 
+ 
+VM0003, v1.3  
+ 
+35 
+ 
+there is no leakage within their operations (i.e., on other lands they manage/operate outside 
+the boundary of the IFM project). Such a demonstration may include: 
+1) Historical records showing trends in harvest volumes paired with records from the with-
+project time period showing no deviation from historical trends; 
+2) Forest management plans prepared 24 months or more prior to the start of the project 
+showing harvest plans on all owned/managed lands paired with records from the with-
+project time period showing no deviation from management plans. 
+Leakage due to market effects is equal to the baseline emissions from logging multiplied by a 
+leakage factor: 
+�㌵�㌵$/2RE+,SSEG+0 = �㌵�㌵$, × (Δ�㌵<=>?<# −Δ�㌵!"#) 
+(41) 
+Where: 
+�㌵�㌵$/2RE+,SSEG+0 Total GHG emissions due to market effects leakage through decreased timber 
+harvest (t CO2e) 
+�㌵�㌵$, 
+Leakage factor for market effects calculations (dimensionless) 
+The leakage factor (�㌵�㌵$,) is determined by considering where in the country logging will be 
+increased as a result of the decreased supply of timber caused by the project. It is likely that 
+the proportional leakage will be higher where the areas liable to be logged have a higher 
+carbon stock than the project area. 
+�㌵�㌵$, = 0 where:  
+1) It is possible to demonstrate that no market effects leakage will occur within national 
+boundaries (e.g., no new concessions are being assigned and annual extracted 
+volumes cannot be increased within existing national concessions and illegal logging is 
+absent (or de minimis) in the host country); or 
+2) The project is able to demonstrate that any decrease in wood products produced by the 
+project relative to the baseline is less than 5 percent and any temporal displacement in 
+the total production of wood products is less than 5 years. 
+�㌵�㌵$, =  0.1 where:  
+3) Rotations are moderately extended (5–10 years) leading to a shift in harvests across 
+time periods but a change in total timber harvest equal to or less than 25 percent over 
+the project lifetime.22 
+ 
+22 Defined here as the minimum project lifetime elected by project proponents in the project description. Where the 
+project is extended beyond this time period, harvests must not be decreased by more than 25 percent across the 
+project area through each additional crediting/baseline period. 
+ 
+VM0003, v1.3  
+ 
+36 
+ 
+4) Where rotations are extended by more than 10 years and/or harvest is decreased by 
+more than 25 percent over the project lifetime as per VCS Methodology Requirements.  
+Where a lower proportion of forest biomass in commercial species is merchantable material in 
+the forests to which displacement would occur than in the project area, higher emissions would 
+be expected when extracting a given volume, as more trees need to be cut to supply the same 
+volume. In contrast, where a higher proportion of the total biomass of commercial species is 
+merchantable in the displacement forest than in the project area, a smaller area would be 
+harvested, and lower emissions would result. 
+Thus, each project must calculate within each stratum the proportion of total biomass in 
+commercial species that is merchantable (�㌵�㌵�㌵%). This must then be compared to the mean 
+proportion of total biomass that is merchantable for each forest type (�㌵�㌵#O>). 
+Merchantable biomass is defined as “total gross biomass (including bark) of a tree 5 inches 
+(12.7 cm) DBH or larger from a 1 foot (30.48 cm) stump to a minimum 4 inches top diameter 
+outside bark (DOB) of the central stem.”23  
+The following deduction factors (�㌵�㌵$,) must be used, based on the merchantable proportion of 
+total biomass for the forest type: 
+1) Where �㌵�㌵#O> is within 15 percent of �㌵�㌵�㌵%, �㌵�㌵$, = 0.4 
+2) Where �㌵�㌵#O> is more than 15 percent smaller than �㌵�㌵�㌵%, �㌵�㌵$, = 0.7  
+3) Where �㌵�㌵#O> is more than 15 percent greater than �㌵�㌵�㌵%, �㌵�㌵$, = 0.2 
+Where: 
+�㌵�㌵#O> 
+Mean merchantable biomass as a proportion of total above-ground tree 
+biomass for each forest type; for default values see parameter table in Section 
+9.1 (%)  
+�㌵�㌵�㌵% 
+Merchantable biomass as a proportion of total above-ground tree biomass for 
+stratum i within the project boundary (%) 
+8.7 
+Summary of GHG Emission Reductions and/or Removals 
+The net anthropogenic GHG removals by sinks is the actual net GHG removals by sinks minus 
+the baseline net GHG removals by sinks minus leakage. Therefore, the following general 
+formula is used to calculate the net anthropogenic GHG removals by sinks of an IFM project 
+activity (�㌵VO$). 
+�㌵VO$ = Δ�㌵<=>?<# −Δ�㌵!"# −�㌵�㌵ 
+(42) 
+ 
+23 Definition from US Forest Service FIA Program 
+ 
+VM0003, v1.3  
+ 
+37 
+ 
+Where: 
+�㌵VO$ 
+Net anthropogenic greenhouse gas reductions and removals (t CO2e) 
+ 
+8.7.1 
+Calculation of Uncertainty 
+Estimated carbon emissions and removals arising from AFOLU activities have uncertainties 
+associated with measures/estimates of area or other activity data, carbon stocks, biomass 
+growth rates, expansion factors and other coefficients. It is assumed that the uncertainties 
+associated with estimates of the various input data are available, either as default values given 
+in the most recent version of the IPCC’s GPG-LULUCF, or estimates based on sound statistical 
+sampling. Uncertainties arising from the measurement and monitoring of carbon pools and the 
+changes in carbon pools must always be quantified. 
+Indisputably conservative estimates may be used instead of uncertainties, provided that they 
+are based on verifiable literature sources. In this case, the uncertainty is assumed to be zero. 
+However, this section provides a procedure to combine uncertainty information and 
+conservative estimates resulting in an overall project uncertainty. 
+Uncertainty at all times is defined as the 90 percent confidence interval as a percentage of the 
+mean. 
+Planning to Diminish Uncertainty 
+It is important that the process of project planning considers uncertainty. Procedures including 
+stratification, and the allocation of sufficient measurement plots helps to ensure low 
+uncertainty and ultimately full crediting. 
+It is good practice to consider uncertainty at an early stage to identify data sources with the 
+highest uncertainty to allow the opportunity to conduct further work to diminish uncertainty. 
+Estimation of Uncertainty for Pools and Emissions Sources 
+For each measurement pool, calculate both the mean and the 90 percent confidence interval. 
+In all cases, uncertainty must be expressed as the 90 percent confidence interval as a 
+percentage of the mean. 
+For modeled results, use the confidence interval of the input inventory data. 
+For wood products, use the confidence interval of the stocks of extracted timber. 
+For biomass burning emissions, use the confidence interval of the pre-burning stocks. 
+For both the baseline and the with-project scenario, the total uncertainty is equal to the square 
+root of the sum of the squares of each uncertainty component.  
+ 
+VM0003, v1.3  
+ 
+38 
+ 
+Total Uncertainty of the IFM Project 
+The total project uncertainty is calculated at the time of reporting through propagating the error 
+in the baseline stocks and the error in the project stocks: 
+�㌵VO$_,XXYX = b�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵!"#* + �㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵@* 
+(43) 
+Where: 
+�㌵VO$_,XXYX 
+Total uncertainty for IFM project (%) 
+�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵!"# 
+Total uncertainty in baseline scenario (%) 
+�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵@ 
+Total uncertainty in the with-project scenario (%) 
+The uncertainty in the baseline and project scenarios must be defined as the square root of the 
+summed errors in each of the measurement pools. The errors in each pool may be weighted by 
+the size of the pool so that projects may reasonably target a lower precision level in pools that 
+only form a small proportion of the total stock.  
+8.7.2 
+Uncertainty Deduction 
+Where �㌵VO$_,XXYX is less than or equal to 10 percent of �㌵VO$, there is no deduction for 
+uncertainty. 
+Where �㌵VO$_,XXYX is greater than 10 percent of �㌵VO$, the conservatively adjusted value �㌵VO$_/F9 
+is calculated as follows to account for uncertainty: 
+�㌵VO$_/F9 = �㌵VO$ × (1 −�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵ �㌵�㌵�㌵�㌵�㌵�㌵) 
+(44) 
+Where: 
+�㌵VO$_/F9 
+Net anthropogenic greenhouse gas emissions and removals by sinks, 
+adjusted for uncertainty where �㌵VO$_,XXYX is greater than 10 percent of 
+�㌵VO$ (tCO2e) 
+�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵ �㌵�㌵�㌵�㌵�㌵�㌵  
+Discount factor to be applied for calculating the conservativeness 
+deduction (%) 
+Determine the discount factor using the following equation:  
+�㌵�㌵�㌵�㌵�㌵�㌵�㌵�㌵ �㌵�㌵�㌵�㌵�㌵�㌵= �㌵VO$_,XXYX
+�㌵'N%
+× �㌵88% 
+(45) 
+Where: 
+ 
+VM0003, v1.3  
+ 
+39 
+ 
+�㌵'N%  
+t-value for the two-sided 90 percent confidence interval, approximately 
+1.6449 (dimensionless) 
+�㌵88.8% 
+t-value for a one-sided 66.67 percent confidence interval, approximately 
+0.4307 (dimensionless) 
+8.7.3 
+Calculation of VCUs 
+To estimate the amount of VCUs to be issued at time t = t2 (date of verification) for monitoring 
+period T = t2 − t1, this methodology uses the following equation: 
+�㌵�㌵�㌵�㌵= 5�㌵VO$,+0 −�㌵VO$,+.7 −�㌵�㌵�㌵ 
+(46) 
+Where: 
+�㌵�㌵�㌵�㌵ 
+Number of Verified Carbon Units 
+�㌵VO$,+0 
+Net anthropogenic greenhouse gas removals by sinks, as estimated for t* = t2 (t 
+CO2e) 
+�㌵VO$,+. 
+Net anthropogenic greenhouse gas removals by sinks, as estimated for t* = t1 (t 
+CO2e) 
+�㌵�㌵�㌵ 
+Portion of carbon credits to be withheld as a buffer reserve 
+Buffer reserve (�㌵�㌵�㌵) must be calculated using the VCS Tool for AFOLU Non-Permanence Risk 
+Analysis and Buffer Determination. 
+The number of VCUs eligible for crediting in any one monitoring period must not exceed the ex-
+ante projected total number of VCUs for the defined project lifetime, unless it is demonstrated 
+that the ex-ante estimate created through modeling was conservatively underestimated (e.g., 
+through growth rates in excess of projection or increases in harvest efficiency/decreases in 
+harvest volumes).24

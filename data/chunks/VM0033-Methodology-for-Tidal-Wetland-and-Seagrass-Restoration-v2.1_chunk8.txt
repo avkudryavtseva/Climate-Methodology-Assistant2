@@ -1,0 +1,2476 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+ General approach 
+Emissions in the baseline scenario are attributed to carbon stock changes in biomass carbon 
+pools, soil processes, or a combination of these. In addition, where relevant, emissions from 
+fossil fuel use may be quantified. 
+Emissions in the baseline scenario are estimated as: 
+𝐺𝐻𝐺𝐵𝑆𝐿= 𝐺𝐻𝐺𝐵𝑆𝐿−𝑏𝑖𝑜𝑚𝑎𝑠𝑠+ 𝐺𝐻𝐺𝐵𝑆𝐿−𝑠𝑜𝑖𝑙+ 𝐺𝐻𝐺𝐵𝑆𝐿−𝑓𝑢𝑒𝑙
+ 
+ 
+ 
+ 
+(18) 
+𝐺𝐻𝐺𝐵𝑆𝐿−𝑏𝑖𝑜𝑚𝑎𝑠𝑠= −∑
+∑
+(
+44
+12
+𝑀𝐵𝑆𝐿
+𝑖=1
+𝑡∗
+𝑡=1
+ × ∆𝐶𝐵𝑆𝐿−𝑏𝑖𝑜𝑚𝑎𝑠𝑠,𝑖,𝑡)
+  
+ 
+ 
+ 
+(19) 
+𝐺𝐻𝐺𝐵𝑆𝐿−𝑏𝑖𝑜𝑚𝑎𝑠𝑠= ∑
+∑
+𝐺𝐻𝐺𝐵𝑆𝐿−𝑠𝑜𝑖𝑙,𝑖,𝑡
+𝑀𝐵𝑆𝐿
+𝑖=1
+𝑡∗
+𝑡=1
+ 
+ 
+ 
+ 
+ 
+ 
+(20) 
+𝐺𝐻𝐺𝐵𝑆𝐿−𝑓𝑢𝑒𝑙= ∑
+∑
+𝐺𝐻𝐺𝐵𝑆𝐿−𝑓𝑢𝑒𝑙,𝑖,𝑡
+𝑀𝐵𝑆𝐿
+𝑖=1
+𝑡∗
+𝑡=1
+ 
+ 
+ 
+ 
+ 
+ 
+(21) 
+Where: 
+GHGBSL   
+= Net CO2e emissions in the baseline scenario up to year t*; t CO2e 
+GHGBSL-biomass 
+= Net CO2e emissions from biomass carbon pools in the baseline scenario up to 
+year t*; t CO2e 
+GHGBSL-soil  
+= Net CO2e emissions from the SOC pool in the baseline scenario up to year t*; t  
+ 
+  
+CO2e 
+GHGBSL-fuel 
+= Net CO2e emissions from fossil fuel use in the baseline scenario up to year  
+ 
+  
+t*; t CO2e 
+ΔCBSL-biomass,i,t 
+= Net carbon stock changes in biomass carbon pools in the baseline scenario  
+ 
+  
+in stratum i in year t; t C yr-1 
+GHGBSL-soil,i,t 
+= GHG emissions from the SOC pool in the baseline scenario in stratum i in  
+ 
+  
+year t; t CO2e yr-1 
+ 
+VM0033, v2.1 
+26 
+GHGBSL-fuel,i,t 
+= GHG emissions from fossil fuel use the baseline scenario in stratum i in year t; 
+ 
+tCO2e yr-1 
+i 
+  
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+  
+= 1, 2, 3, … t* years elapsed since the project start date 
+ 
+Estimation of GHG emissions and removals related to the biomass pool is based on carbon 
+stock changes. Estimation of GHG emissions and removals from the SOC pool is based on 
+either various proxies (e.g., carbon stock change, water table depth) or through the use of 
+literature, data, default factors or models. 
+Assessing GHG emissions in the baseline scenario consists of determining GHG emission 
+proxies/parameters and assessing their pre-project spatial distribution, constructing a time 
+series of the chosen proxies/parameters for each stratum for the entire project crediting period 
+and determining annual GHG emissions per stratum for the entire project crediting period. 
+In order to project the future GHG emissions per unit area in each stratum for each projected 
+verification date within the project crediting period under the baseline scenario, the project 
+proponent must apply the latest version of VCS module VMD0019 Methods to Project Future 
+Conditions.6 When applying Steps 13 and 14 of VMD0019 (version 1, issued 16 November 
+2012, the version of the module current as of the writing of this methodology) the project 
+proponent must use the guidance for sea level rise provided in Section 5.2 of this methodology. 
+Four driving factors are likely to be relevant for GHG accounting in the baseline scenario, and 
+are relevant for use of VMD0019. Each factor affects the evolution of the site over a 100-year 
+period. These include: 
+• 
+Initial land use and development patterns 
+• 
+Initial infrastructure that impedes natural tidal hydrology 
+• 
+Natural plant succession for the physiographic region of the project 
+• 
+Climate variables as likely drivers of changes in tidal hydrology within the 100-year 
+timeframe of the project, influencing sea level rise, precipitation and associated 
+freshwater delivery 
+ 
+Land use and development patterns – In order to derive trends in land use, assumptions about 
+the likelihood of future development of the project area must be documented and considered in 
+light of current zoning, regulatory constraints to development, proximity to urban areas or 
+transportation infrastructure, and expected population growth, including how land would 
+ 
+6 This module provides detailed procedures for assessing future trends in key variables that affect GHG emissions or removals. 
+In the context of this methodology, this module is meant to assist in the assessment of these trends and does not necessarily 
+replace procedures in this methodology. Procedures in the module must be used whenever relevant and may be justifiably 
+simplified. 
+ 
+VM0033, v2.1 
+27 
+develop within and surrounding the project site and how such changes would change hydrologic 
+conditions within the project area. Current development patterns and plausible future land use 
+changes must be mapped to a scale sufficient to estimate GHG emissions from the baseline 
+scenario. Particular attention must be paid to existing or future construction of barriers to tidal 
+and/or river hydrology and sediment supply from rivers and/or along the coast, as well as 
+barriers that will impair wetland capacity to migrate landwards with sea level rise. In the case of 
+abandonment of pre-project land use in the baseline scenario, the project proponent must 
+consider non-human induced hydrologic changes brought about by collapsing dikes or ditches 
+that would have naturally closed over time, and progressive subsidence, leading to rising 
+relative water levels, increasingly thinner aerobic layers and reduced CO2 emission rates. 
+Infrastructure impediments to tidal hydrology – In order to derive trends in tidal wetland 
+evolution, the baseline scenario must take into account the current and historic layout of any 
+tidal barriers and drainage systems. The tidal barriers and drainage layout at the start of the 
+project activity must be mapped at scale (1:10,000 or any other scale justified for estimating 
+water table depths throughout the project area). Historic tidal barriers and drainage layout must 
+be mapped using topographic and/or hydrological maps from (if available) the start of the 
+major hydrological impacts but covering at least the 20 years prior to the project start date. 
+Historic drainage structures (collapsed ditches) may (still) have higher hydraulic conductivity 
+than the surrounding areas and function as preferential flow paths. Historic tidal barriers 
+(agricultural dikes and levees) may constrain the tidal flows and prevent natural sedimentation 
+patterns. The effect of historic tidal barriers and drainage structures on current hydrological 
+functioning of the project area must be assessed on the basis of quantitative hydrological 
+modeling and/or expert judgment. 
+Historic information on the pre-existing channel network as determined by aerial photography 
+may serve to set trends in post-project dendritic channel formation in the field. Derivation of 
+such trends must be performed on the basis of hydrologic modeling using the total tidal 
+volume, soil erodibility and/or expert judgment. With respect to hydrological functioning, the 
+baseline scenario must be restricted by climate variables and quantify any impacts on the 
+hydrological functioning as caused by planned measures outside the project area (e.g., dam 
+construction or further changes in hydrology such as culverts), by demonstrating a hydrological 
+connection to the planned measures. 
+Natural plant succession - Based on the assessment of changes in water table depth, a time 
+series of vegetation composition must be derived ex ante, based on vegetation succession 
+schemes in the baseline scenario from scientific literature or expert judgment. For example, 
+diked agricultural land will undergo natural plant succession to forests, freshwater wetlands, 
+tidal wetlands, rank uplands, or open water based on the scenario’s land use trajectory, 
+inundation scenario, proximity to native or invasive seed sources, plant succession trajectories 
+of adjacent natural areas or likely maintenance consistent with projected future human land 
+use (e.g., pasture, lawn, landscaping). 
+ 
+VM0033, v2.1 
+28 
+Climate variables – Consistent with the sea level rise guidance provided in Section 5.2 above, 
+areas of inundation and erosion within the project area must be considered in relation to the 
+above three factors. Expected changes in freshwater delivery associated with changes in 
+rainfall patterns must be considered, including expected human responses to these changes. 
+The project proponent must, for the duration of the project crediting period, reassess the 
+baseline scenario every 10 years. Based on the reassessment criteria specified in Section 6 
+above, the revised baseline scenario must be incorporated into revised estimates of baseline 
+emissions. This baseline reassessment must include the evaluation of the validity of proxies for 
+GHG emissions. 
+ Accounting for sea level rise 
+The consequences of submergence of a given stratum due to sea level rise are:  
+1) Carbon stocks from aboveground biomass are lost to oxidation, and  
+2) Depending upon the geomorphic setting, soil carbon stocks may be held intact or be eroded 
+and transported beyond the project area. 
+For strata where conversion to open water is expected before t = 100, the maximum quantity of 
+GHG emission reductions that may be claimed by the project must be calculated as defined in 
+Section 8.5.1. 
+Regarding (1) above, where biomass is submerged, it is assumed that this carbon is 
+immediately and entirely returned to the atmosphere. For such strata: 
+ΔCBSL-agbiomass,i,t = 12/44 × (CBSL-agbiomass,i,t – CBSL-agbiomass,i,(t-T)) / T
+  
+ 
+ 
+(22) 
+For the year of submergence: 
+CBSL-agbiomass,i,t = 0 
+Where: 
+ΔCBSL-agbiomass,i,t 
+= Net carbon stock change in aboveground biomass carbon pools in the baseline 
+scenario in stratum i in year t; t C yr-1 
+CBSL-agbiomass,i,t 
+= Carbon stock in aboveground biomass in the baseline scenario in stratum i  
+ 
+  
+in year t (from the aboveground biomass components in CTREE_BSL,t and  
+ 
+  
+CSHRUB_BSL,t in AR-Tool14 and CBSL-herb,i,t); t CO2e 
+i 
+  
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+  
+= 1, 2, 3, … t* years elapsed since the project start date 
+T 
+  
+= Time elapsed between two successive estimations (T=t2 – t1) 
+The gradual loss of vegetation in the project area due to submergence may be captured by 
+detailed stratification into areas with and without vegetation. 
+ 
+VM0033, v2.1 
+29 
+Regarding (2) above, the project proponent must assess the time and rate of submergence of 
+the project area.  
+For areas that drown out while the area of ponds increases, the loss of SOC may be assumed to 
+be insignificant. It is assumed that, upon submergence, soil carbon is not returned to the 
+atmosphere unless site-specific scientific justification is provided. 
+In areas with wave action, sediment will erode, and carbon will be removed. Assuming that all 
+carbon is re-sedimented and stored (and not oxidized) is conservative. Procedure for CO2 
+emissions from eroded soil are provided in Section 8.1.4.3. 
+Restoration projects may be designed in such a way that they have advantages over the 
+baseline scenario in one or more of the following ways, as must be quantified and justified in 
+the project description:  
+• 
+The point in time when submergence and erosion sets off.  
+• 
+The amount of carbon that erodes upon submergence.  
+• 
+The oxidation rate of eroded soil organic matter. In the most conservative approach, the 
+oxidation constant is 0 for the baseline and 1 for the project scenario. 
+ Net carbon stock change in biomass carbon pools in baseline scenario  
+Net carbon stock change in biomass carbon pools in the baseline scenario are estimated as: 
+ΔCBSL-biomass,i,t = ΔCBSL-tree/shrub,i,t + ΔCBSL-herb,i,t  
+ 
+ 
+ 
+ 
+ 
+(23) 
+Where: 
+ΔCBSL-biomass,i,t 
+= Net carbon stock change in biomass carbon pools in the baseline scenario in  
+ 
+  
+stratum i in year t; t C yr-1 
+ΔCBSL-tree/shrub,i,t = Net carbon stock change in tree and shrub carbon pools in the baseline  
+ 
+  
+scenario in stratum i in year t; t C yr-1 
+ΔCBSL-herb,i,t 
+= Net carbon stock change in herb carbon pools in the baseline scenario in  
+ 
+  
+stratum i in year t; t C yr-1 
+i 
+  
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+  
+= 1, 2, 3, … t* years elapsed since the project start date 
+Trees and shrubs 
+Net carbon stock change in trees and shrubs in the baseline scenario are estimated by applying 
+the latest version of CDM tool AR-Tool14 Estimation of carbon stocks and change in carbon stocks 
+of trees and shrubs in A/R CDM project activities, noting that: 
+1) AR-Tool14 is only used to derive net carbon stock changes in tree and shrub carbon pools 
+(ΔCBSL-tree/shrub,i,t), and 
+ 
+VM0033, v2.1 
+30 
+2) The following equation applies: 
+ΔCBSL-tree/shrub,i,t = 12/44 × (ΔCTREE_BSL,t + ΔCSHRUB_BSL,t) 
+ 
+ 
+ 
+(24) 
+Where: 
+ΔCBSL-tree/shrub,i,t = Net carbon stock changes in tree and shrub carbon pools in the baseline 
+scenario in stratum i in year t; t C yr-1 
+ΔCTREE_BSL,t  
+= Change in carbon stock in baseline tree biomass within the project area in  
+  
+ year t; t CO2-e yr-1 (derived from application of AR-Tool14; calculations are  
+  
+done for each stratum i) 
+ΔCSHRUB_BSL,t  
+= Change in carbon stock in baseline shrub biomass within the project area in  
+  
+year t; t CO2-e yr-1 (derived from application of AR-Tool14; calculations are done 
+for each stratum i) 
+ 
+For strata where reforestation or revegetation activities in the baseline scenario include 
+harvesting, the long-term average of CTREE_BSL,t in AR-Tool14 must be calculated as specified in 
+Section 8.2.3. 
+ 
+Herbaceous vegetation 
+Net carbon stock change in herbaceous vegetation in the baseline scenario is estimated using 
+a carbon stock change approach as follows: 
+ΔCBSL-herb,i,t = (CBSL-herb,i,t – CBSL-herb,i,,(t-T)) / T
+ 
+ 
+ 
+ 
+ 
+ 
+(25) 
+Where: 
+ΔCBSL-herb,i,t 
+= Net carbon stock change in herbaceous vegetation carbon pools in the 
+baseline scenario in stratum i in year t; t C yr-1 
+CBSL-herb,i,t  
+= Carbon stock in herbaceous vegetation in the baseline scenario in stratum i in   
+ 
+  
+year t; t C 
+i 
+  
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+  
+= 1, 2, 3 … t* years elapsed since the project start date 
+T 
+  
+= Time elapsed between two successive estimations (T=t2 – t1) 
+ 
+A default factor7 for carbon stock in herbaceous vegetation of 3 t C ha-1 may be applied for 
+strata with 100% herbaceous cover. For areas with a vegetation cover <100%, a 1:1 
+relationship between vegetation cover and carbon stock must be applied. The default factor 
+may be claimed only for the first year of the project crediting period as herbaceous biomass 
+ 
+7 Calculated from peak aboveground biomass data from 20 sites summarized in Mitsch & Gosselink. The median of these 
+studies is 1.3 kg d.m. m-2. This was converted to the default factor value as follows: 1.3 × 0.45 × 0.5. The factor 0.45 converts 
+organic matter mass to carbon mass; the factor 0.5 is a factor that averages annual peak biomass (factor = 1) and annual 
+minimum biomass (factor = 0, assuming ephemeral aboveground biomass and complete litter decomposition). 
+ 
+VM0033, v2.1 
+31 
+quickly reaches a steady state. Vegetation cover must be determined by commonly used 
+techniques in field biology. Procedures for measuring carbon stocks in herbaceous vegetation 
+are provided in Section 9.3.6. The above default factor may not be applied in case AR-Tool14 is 
+used. 
+Where a carbon stock increase in herbaceous vegetation is quantified in the project scenario, 
+carbon stock changes must also be quantified in the baseline scenario; where a carbon stock 
+decline is quantified in the baseline scenario, carbon stock changes must also be quantified in 
+the project scenario. 
+ Net GHG emissions from soil in baseline scenario  
+ General 
+Net GHG emissions from soil in the baseline scenario are estimated as: 
+GHGBSL-soil,i,t = Ai,t × (GHGBSL-soil-CO2,i,t - Deductionalloch + GHGBSL-soil-CH4,i,t + GHGBSL-soil-N2O,i,t)   (26) 
+For organic soils where t > tPDT-BSL,i:  GHGBSL-soil,i,t = 0 
+For mineral soils where t > tSDT-BSL,i:  GHGBSL-soil,i,t = 0 
+Where: 
+GHGBSL-soil,i,t 
+= GHG emissions from the SOC pool in the baseline scenario in stratum i in  
+ 
+ 
+year t; t CO2e yr-1 
+GHGBSL-soil-CO2,i,t  = CO2 emissions from the SOC pool in the baseline scenario in stratum i in  
+ 
+ 
+year t; t CO2e ha-1 yr-1 
+Deductionalloch 
+= Deduction from CO2 emissions from the SOC pool to account for the  
+ 
+ 
+percentage of the carbon stock that is derived from allochthonous soil  
+ 
+ 
+organic carbon; t CO2e ha-1 yr-1 
+GHGBSL-soil-CH4,i,t  = CH4 emissions from the SOC pool in the baseline scenario in stratum i in  
+ 
+ 
+year t; t CO2e ha-1 yr-1 
+GHGBSL-soil-N2O,i,t   = N2O emissions from the SOC pool in the baseline scenario in stratum i in  
+ 
+ 
+year t; t CO2e ha-1 yr-1 
+Ai,t 
+ 
+= Area of stratum i in year t; ha 
+tPDT-BSL,i  
+= Peat depletion time in the baseline scenario in stratum i in years elapsed  
+ 
+ 
+since the project start date; yr 
+tSDT-BSL,i  
+= Soil organic carbon depletion time in the baseline scenario in stratum i in  
+ 
+ 
+years elapsed since the project start date; yr 
+i 
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+ 
+= 1, 2, 3, … t* years elapsed since the project start date 
+ 
+CO2 emissions from the SOC pool in the baseline scenario may occur in situ or indirectly 
+following soil erosion or exposure to an aerobic environment through excavation as defined in 
+ 
+VM0033, v2.1 
+32 
+Equation 27. For strata with in-situ emissions (with or without drainage), follow procedures in 
+Section 8.1.4.2. For strata where soil erosion occurs, procedures in Section 8.1.4.3 must be 
+used. For strata where soil is exposed to an aerobic environment through excavation, 
+procedures in Section 8.1.4.4 must be used. For strata with in-situ emissions, CH4 and N2O 
+emissions may be conservatively set to zero or may be estimated using procedures in Sections 
+8.1.4.5 and 8.1.4.6, respectively. For strata where soil erosion occurs, or soil is exposed to an 
+aerobic environment through excavation or drainage, CH4 and N2O emissions are conservatively 
+set to zero. 
+GHGBSL-soil-CO2,i,t = GHGBSL-insitu-CO2,i,t + GHGBSL-eroded-CO2,i,t + GHGBSL-excav-CO2,i,t 
+ 
+(27) 
+Where: 
+GHGBSL-soil-CO2,i,t  
+CO2 emissions from the SOC pool in the baseline scenario in stratum i in 
+year t; t CO2e ha-1 yr-1 
+GHGBSL-insitu-CO2,i,t  
+CO2 emissions from the SOC pool of in-situ soils in the baseline scenario in 
+stratum i in year t; t CO2e ha-1 yr-1 
+GHGBSL-eroded-CO2,i,t 
+CO2 emissions from the eroded SOC pool in the baseline scenario in stratum 
+i in year t ; t CO2e ha-1 yr-1 
+GHGBSL-excav-CO2,i,t 
+CO2 emissions from the SOC pool of soil exposed to an aerobic environment 
+through excavation in the baseline scenario in stratum i in year t; t CO2e ha-1 
+yr-1 
+GHG emissions from disturbed carbon stocks in stockpiles (originating from piling, dredging, 
+channelization) exposed to aerobic decomposition must be accounted for in the baseline 
+scenario. Such stockpiles must be identified in the stratification of the project area and 
+accounting procedures provided in this Section 8.1.4 must be used. 
+The baseline scenario may involve the construction of levees to constrain flow and flooding 
+patterns, the construction of dams to hold water, and/or upstream changes in land surface 
+leading to intensified run-off. In such cases, the project proponent must account for 
+hydrological processes that lead to increased carbon burial and GHG reductions within the 
+project area using procedures provided in this section.  
+The sub-sections below provide guidance with respect to the methods which may be used to 
+estimate net GHG emissions from soil in the baseline scenario. Project proponents may choose 
+the method that is most suitable to their project circumstances and data availability. However, 
+default factors and emissions factors cannot be used in the presence of published data 
+suitable for use in the project area. 
+Use of proxies 
+Proxies (as defined in VCS document Program Definitions) may be used to derive values of GHG 
+emissions. The project proponent must demonstrate that such proxies are strongly correlated 
+with the value of interest and that they can serve as an equivalent or better method (e.g., in 
+ 
+VM0033, v2.1 
+33 
+terms of reliability, consistency or practicality) to determine the value of interest than direct 
+measurement of the value itself. Such proxies must also have been developed and tested for 
+use in systems that are in the same or similar region as the project area, share similar 
+geomorphic, hydrologic, and biological properties, and are under similar management regimes, 
+unless any differences should not have a substantial effect on GHG emissions. 
+Use of models 
+The project proponent may apply deterministic models (models as defined in VCS document 
+Program Definitions) to derive values of GHG emissions. In addition to the VCS requirements for 
+selection and use of models, modeled GHG emissions and removals must have been validated 
+with direct measurements from a system with the same or similar water table depth and 
+dynamics, salinity, tidal hydrology, sediment supply and plant community type as the project 
+area. 
+Use of published data 
+Peer-reviewed published data or scientific reports that have been scrutinized under the rules 
+for expert judgment (Section 9.3.3) may be used to generate values for GHG emissions in the 
+same or similar systems as those in the project area. Such data must be limited to systems that 
+are in the same or similar region as the project area, share similar geomorphic, hydrologic, and 
+biological properties, and are under similar management regimes unless any differences 
+should not have a substantial effect on GHG emissions. 
+Use of default factors 
+Emission factors must be derived from peer-reviewed literature and must be appropriate to 
+ecosystem type and conditions and the geographic region of the project area. 
+The default factors in Sections 8.1.4.2.3, 8.1.4.5.4, and 8.1.4.6.4 are subject to periodic re-
+assessment per the requirements for periodic assessment of default factors set out in VCS 
+document Methodology Development and Review Process. 
+IPCC default factors8 may be used as indicated in this methodology. Tier 1 values may be used, 
+where relevant indicated in the procedures below, but their use must be justified as appropriate 
+for project conditions. 
+ CO2 emissions from soil – in situ 
+CO2 emissions from in-situ soil exposed to an aerobic environment through drainage (GHGBSL-
+insitu-CO2,i,t) may be calculated directly or may be calculated from estimates of the initial amount 
+of carbon that is exposed (CBSL-soil,i,t) and the percentage of the exposed carbon that is returned 
+to the atmosphere (C%BSL-emitted,i,t) as defined in Equation 28.  
+ 
+8 2013 Supplement to the 2006 Guidelines: Wetlands 
+ 
+VM0033, v2.1 
+34 
+Estimates of CBSL-soil,i,t or C%BSL-emitted,i, following aerobic exposure based on the extrapolation of 
+C%BSL-emitted,i,t  over the project crediting period must account for tendency of organic carbon 
+concentrations to approach steady-state equilibrium in mineral soils. For this reason, a 
+complete loss of soil organic carbon may not occur in mineral soils. Likewise, C%BSL-emitted,i, may 
+not reach 100%. This steady-state equilibrium must be determined conservatively, e.g. by 
+assuming that CBSL-soil,i,t at steady state will be zero or that C%BSL-emitted,i, will be 100%. In case of 
+alternating mineral and organic horizons that are exposed, CO2 emissions must be determined 
+for all individual horizons. 
+CO2 emissions from soils may be estimated using:  
+1) Proxies 
+2) Published values 
+3) Default factors 
+4) Models 
+5) Field-collected data, or  
+6) Historical or chronosequence-derived data 
+GHGBSL-insitu-CO2,i,t = 44/12 × CBSL-soil,i,t × C%BSL-emitted,i,t / 100 
+ 
+ 
+ 
+(28) 
+CBSL-soil,i,t = C%BSL-soil,i,t × BD × Depth_iBSL,i,t x 10 
+ 
+ 
+ 
+ 
+ 
+(29) 
+ 
+Where: 
+GHGBSL-insitu-CO2,i,t 
+= CO2 emissions from the in-situ SOC pool in the baseline scenario in stratum i 
+in year t; t CO2e ha-1 yr-1 
+CBSL-soil,i,t 
+= Soil organic carbon stock in in-situ soil material in the baseline scenario in 
+stratum i in year t; t C ha-1 
+C%BSL-emitted,i,t 
+= Organic carbon loss due to oxidation, as a percentage of C mass present in 
+in-situ soil material in the baseline scenario in stratum i in year t; % 
+C%BSL-soil,i,t 
+= Percentage of carbon of in-situ soil material in the baseline scenario in 
+stratum i in year t; % 
+BD 
+ 
+= Soil bulk density; kg m-3  
+Depth_iBSL,i,t 
+= Depth of the in-situ exposed soil in the baseline scenario in stratum i in year 
+t; m 
+In certain cases, allochthonous soil organic carbon may accumulate in the project area. 
+Procedures for the estimation of a compensation factor for allochthonous soil organic carbon 
+are specified in Section 8.1.4.2.7. 
+8.1.4.2.1 
+Proxy-based approach 
+CO2 emissions may be estimated using proxies such as water table depth and soil subsidence 
+(where such proxies meet the guidance in Section 8.1.4.1 above). Carbon stock change, as a 
+ 
+VM0033, v2.1 
+35 
+proxy for CO2 emissions or removals, is dealt with in Section 8.1.4.2.5. Where the project 
+proponent uses a proxy, such emissions are represented by the following equation: 
+GHGBSL-soil-CO2,i,t = ƒ (GHG emission proxy)
+ 
+ 
+ 
+ 
+ 
+ 
+(30) 
+Water table depth 
+Water table depth may be used as a proxy for CO2 emissions for mineral and organic soils 
+where the project proponent is able to justify their use as described in Section 8.1.4.1.  
+When using water table depth as a proxy, it must be projected for the 10-year baseline period 
+through hydrologic modeling, taking into consideration the following: 
+• 
+Long-term average climate variables (over 20+ years prior to the project start date from 
+two climate stations nearest to the project area) influencing water levels and the timing 
+and quantity of water flow; 
+• 
+Planned water management activities documented in existing land management plans, 
+predating consideration of the proposed project activity; and 
+• 
+Potential offsite influences (e.g., changes in sedimentation rates, upstream water 
+supply, sea level rise). 
+If the mean annual water table depth in the project area exceeds the depth range for which the 
+emission-water table depth relationship determined for the project is valid, a conservative 
+extrapolation must be used. 
+Subsidence 
+Soil subsidence may also be used as a proxy for CO2 emissions from the SOC pool, using the 
+equation below: 
+GHGBSL-soil-CO2,i,t = 44/12 × Cpeatloss-BSL,i,t  
+ 
+ 
+ 
+ 
+ 
+(31) 
+Cpeatloss-BSL,i,t = 10 × Ratesubs-BSL,i x VC 
+ 
+ 
+ 
+ 
+ 
+ 
+(32) 
+Where: 
+GHGBSL-soil-CO2,i,t  = CO2 emissions from the SOC pool in the baseline scenario in stratum i in year 
+t; t CO2e ha-1 yr-1 
+Cpeatloss-BSL,i,t 
+= Soil organic carbon loss due to subsidence in the baseline scenario in 
+subsidence stratum i in year t; t C ha-1 
+Ratesubs-BSL,i 
+= Rate of organic soil loss due to subsidence in the baseline scenario in stratum 
+i; m yr-1 
+VC 
+ 
+= Volumetric organic carbon content of organic soil; kg C m-3 
+i 
+ 
+= 1, 2, 3 …MBSL subsidence strata in the baseline scenario 
+t 
+ 
+= 1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+VM0033, v2.1 
+36 
+8.1.4.2.2 
+Published values 
+Peer-reviewed published data may be used to generate a value for GHGBSL-insitu-CO2,i,t , CBSL-soil,i,t , 
+C%BSL-emiitted,i,t , C%BSL-soil,i,t , BD or Depth, based on values from the same or similar systems as 
+those in the project area, based on the guidelines in Section 8.1.4.1 above. 
+8.1.4.2.3 
+Default factors  
+For tidal marsh and mangrove systems, a default factor for GHGBSL-insitu-CO2,i,t may be used in the 
+absence of data suitable for using the published value approach, using the value provided 
+below: 
+GHGBSL-insitu-CO2,i,t = -1.46(9) t C ha-1 yr-1
+ 
+× 44/12  
+ 
+ 
+ 
+ 
+(33) 
+The above default factor may only be applied to areas with a crown or vegetation cover of at 
+least 50%. By contrast, for areas with a crown or vegetation cover of less than 15%, this SOC 
+accumulation is assumed to be insignificant and accounted for as zero. For areas with a crown 
+or vegetation cover between 15 and 50%, a linear interpolation may be applied. 
+When using this default factor, a deduction for allochthonous carbon must be applied as per 
+Section 8.1.4.2.7. 
+In the absence of data suitable for using the published value approach, the most recently 
+published IPCC emission factors10 may be used to estimate CO2 emissions from the SOC pool, 
+except for tidal marsh and mangrove systems. 
+A default factor may be used for mineral soils for the percent carbon at a steady-state 
+equilibrium attained 20 years following exposure to an aerobic environment in the absence of 
+data suitable for using the published value approach, i.e., at steady state: 
+C%BSL-soil,i,t = C%BSL-soil,i,t20
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(34) 
+Where: 
+C%BSL-soil,i,t 
+= Percentage of carbon of in-situ soil material in stratum i in year t; % 
+C%BSL-soil,i,t20  = Percentage of carbon in in-situ soil material at steady-state equilibrium 20 years 
+following exposure to an aerobic environment in stratum i in year 20; % 
+ 
+9 (within Equation 34) This default factor was derived from the median rate of the literature synthesis of Chmura et al. 2003. 
+The synthesis included studies worldwide, including marshes and mangroves. The median was used as the best estimate of 
+central tendency because the data were not normally distributed. 
+10 2013 Supplement to the 2006 Guidelines: Wetlands 
+ 
+VM0033, v2.1 
+37 
+The project proponent may assume that percent carbon declines from the initial value (C%BSL-
+soil,i,t0) (derived through field data collection, or other methods in this section) to the following 
+default steady-state equilibrium at a linear rate over a twenty year period following exposure.  
+C%BSL-soil,i,t20 = 1.6 %  (11)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(35) 
+The project proponent may justify a lower percent carbon steady state for the baseline scenario 
+based on appropriate scientific research. 
+8.1.4.2.4 
+Modeling 
+A peer-reviewed published model may be used to generate a value of GHGBSL-insitu-CO2,i,t , CBSL-
+soil,i,t , C%BSL-emitted,i,t,, C%BSL-soil,i,t , BD or Depth in the same or similar systems as those in the 
+project area based on the guidelines in Section 8.1.4.1 above. 
+8.1.4.2.5 
+Field-collected data 
+Soil coring may be used to generate a value of CBSL-soil,i,t, C%BSL-soil,i,t , BD or Depth as outlined in 
+Section 9.3.7. For the baseline scenario, soil cores must be collected within 2 years prior to the 
+project start date. Where the project proponent uses an installed reference plane for the 
+baseline scenario, it must have been installed at least 4 years prior to the baseline 
+measurement, which is good practice to ensure that a reliable average accumulation rate is 
+obtained. 
+Carbon stock change based on field-collected data is calculated using the following equation: 
+GHGBSL-soil-CO2,i,t = 44/12 × –(CBSL-soil,i,t – CBSL-soil,i,,(t-T)) / T
+  
+ 
+ 
+ 
+(36) 
+Where: 
+GHGBSL-soil-CO2,i,t  = CO2 emissions from the SOC pool in the baseline scenario in stratum i in year 
+t; t CO2e yr-1 
+CBSL-soil,i,t 
+= Soil organic carbon stock in the baseline scenario in stratum i in year t; t C ha1 
+i 
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+ 
+= 1, 2, 3 … t* years elapsed since the start of the project activity 
+T 
+ 
+= Time elapsed between two successive estimations (T=t2 – t1) 
+8.1.4.2.6 
+Historical data or chronosequences 
+GHGBSL-insitu-CO2,i,t , CBSL-soil,i,t , C%BSL-emitted,i,t , BD or Depth in the baseline scenario may be 
+estimated using either historical data collected from the project area or chronosequence data 
+collected at similar sites. Refer to the instructions in Section 8.1.4.1. 
+ 
+11 This is the mean value of resampled cultivated and drained mineral soils (from Table 2 in David et al. 2009). 
+ 
+VM0033, v2.1 
+38 
+As an example, the rate of soil organic carbon loss due to oxidation in the baseline scenario 
+from mineral soils (RateCloss-BSL) may be estimated using either historical data collected from the 
+project area (as described in Section 9.3.7) or chronosequence data collected at similar sites 
+(as described in Section 8.1.4.1). Refer also to the instructions in Section Error! Reference 
+source not found.. CO2 emissions from the SOC pool are then calculated as follows: 
+GHGBSL-insitu-CO2,i,t = RateCloss-BSL,i,t
+ 
+× 44/12 
+ 
+ 
+ 
+ 
+ 
+(37) 
+Where: 
+GHGBSL-insitu-CO2,i,t  = CO2 emissions from the SOC pool in the baseline scenario in stratum i in 
+year t; t CO2e ha-1 yr-1 
+RateCloss-BSL,i,t 
+= Rate of organic carbon loss12 in mineral soil due to oxidation in the baseline 
+scenario in stratum i in year t; t C ha-1 yr-1.  
+i 
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+ 
+= 1, 2, 3 … t* years elapsed since the start of the project activity 
+Alternatively, Equation 36 may be used. 
+8.1.4.2.7 
+Deduction for allochthonous carbon 
+A deduction from the estimate of CO2 emissions from the SOC pool must be applied to account 
+for the percentage of sequestration resulting from allochthonous soil organic carbon 
+accumulation. A deduction must not be used if the approach used above to estimate CO2 
+emissions directly estimates autochthonous CO2 emissions or otherwise accounts for 
+allochthonous carbon. 
+Deductionalloch = GHGBSL-insitu-CO2,i,t × (%Calloch /100)13 
+ 
+ 
+ 
+ 
+(38) 
+ 
+Where: 
+Deductionalloch 
+Deduction from CO2 sequestration in the SOC pool to account for the 
+percentage of the carbon stock that is derived from allochthonous soil organic 
+carbon; t CO2e ha-1 yr-1 
+GHGBSL-insitu-CO2,i,t  CO2 emissions from the SOC pool in the baseline scenario in stratum i in year 
+t; t CO2e ha-1 yr-1 
+%Calloch   
+Percentage of the total soil organic carbon that is allochthonous; % 
+i 
+ 
+1, 2, 3 …MBSL strata in the baseline scenario 
+t 
+ 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+12 Note that this is the same as a negative carbon sequestration. 
+13 Estimation may be made for total or recalcitrant allochthonous carbon. This equation only applies if GHGBSL-insitu-CO2,i,t is 
+negative (sequestration). 
+ 
+VM0033, v2.1 
+39 
+Deductionalloch       may be conservatively set to zero in the baseline scenario. 
+For strata with organic soils or seagrass systems14, Deductionalloch = 0. 
+%Calloch may be estimated using either: 
+1) Published values  
+2) Field-collected data 
+3) Modeling 
+Published values 
+Peer-reviewed published data may be used to generate a value of the percentage of 
+allochthonous soil organic carbon in the same or similar systems as those in the project area 
+based on the guidelines described in Section 8.1.4.1. 
+For example, Needelman et al. (2018) provide a value for the percentage of the total soil 
+organic carbon that is allochthonous (%Calloch) based on the percentage soil carbon, which can 
+be used for marshes and mangroves with mineral soils. 
+Field-collected data 
+For this method, the allochthonous carbon percentage is estimated using default values (listed 
+below) and measured through analysis of field-collected soil cores (for soil carbon or organic 
+matter), sediment tiles (for deposited sediment carbon or organic matter), or through collection 
+of suspended sediments in tidal channels or sediments deposits in tidal flats (for sediment 
+carbon or organic matter). 
+For the following equation, %Csoil may be measured directly or derived from %OMsoil using the 
+equations in Section 9.3.7. %Cautoch is derived from %OMautoch (defined below) using the 
+equations in Section 9.3.7. 
+%Calloch = 100 × (%Csoil - %Cautoch) / %Csoil 
+ 
+ 
+ 
+ 
+ 
+(39) 
+Where: 
+%Calloch  
+ 
+= Percentage of the total soil organic carbon that is allochthonous; % 
+%Csoil 
+ 
+ 
+= Percentage of soil that is organic carbon; % 
+%Cautoch  
+ 
+= Percentage of soil that is autochthonous organic carbon; % 
+For the following equation, %OMsoil may be estimated directly using loss-on-ignition (LOI) data or 
+indirectly from %Csoil using the equations below. %OMdepsed may be estimated directly using 
+ 
+14 For seagrass systems, this zero deduction may only be used when the ‘layer with soil organic carbon indistinguishable from 
+the baseline SOC concentration’ method is used with field-collected data on carbon stock changes (Duarte 2013, Greinier et 
+al. 2013) 
+ 
+VM0033, v2.1 
+40 
+loss-on-ignition (LOI) data, indirectly from %OMsoil using the equations below, or by using the 
+default value given below. 
+%OMautoch = (%OMsoil - %OMdepsed) / (1 - (%OMdepsed / 100)) 
+ 
+ 
+ 
+(40) 
+Where: 
+%OMautoch  
+= Percentage of soil that is autochthonous organic matter; % 
+%OMdepsed  
+= Percentage of deposited sediment that is organic matter; % 
+%OMsoil  
+ 
+= Percentage of soil that is soil organic matter; % 
+The following equations may be used to derive %OMsoil from %Csoil and %OMdepsed from %Cdepsed, 
+respectively. Alternatively, an equation developed using site-specific data may be used or an 
+equation from peer-reviewed literature may be used if the equation represents soils from the 
+same or similar systems as those in the project area.  
+For marsh soils15: 
+%OMsoil = (−0.4 + √(0.42 + 4 × 0.0025 × %Csoil)/(2 × 0.0025)
+ 
+ 
+ 
+(41) 
+%OMdepsed = (−0.4 + √(0.42 + 4 × 0.0025 × %Cdepsed)/(2 × 0.0025)
+  
+ 
+(42) 
+For mangrove soils16: 
+%OMsoil = (%Csoil – 2.8857) / 0.415 
+ 
+ 
+ 
+ 
+ 
+ 
+(43) 
+%OMdepsed = (%Cdepsed – 2.8857) / 0.415 
+ 
+ 
+ 
+ 
+ 
+(44) 
+For seagrass soils with %OM < 20%17: 
+%OMsoil = (%Csoil + 0.21) / 0.4  
+ 
+ 
+ 
+ 
+ 
+ 
+(45) 
+%OMdepsed = (%Cdepsed + 0.21) / 0.4 
+ 
+ 
+ 
+ 
+ 
+ 
+(46) 
+Where: 
+ 
+%Csoil 
+ 
+= Percentage of soil that is organic carbon; % 
+ 
+%Cdepsed 
+= Percentage of deposited sediment that is organic C; % 
+In all cases, the following default factor may be used for the determination of %OMdepsed: 
+%OMdepsed = 1.5  18 
+ 
+15 Craft et al. 1991 
+16 Kauffman et al. 2011, Howard et al. 2014 
+17 Fourqurean et al. 2012 as summarized in Howard et al. 2014 
+18 Mayer 1994 Figure 4 
+ 
+VM0033, v2.1 
+41 
+Alternatively, %Cdepsed may be calculated as 19: 
+%Cdepsed = 0.086 × SA + 0.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(47) 
+Where: 
+SA 
+ 
+= Average Surface Area of the sediment; m2g-1 
+Modeling 
+A quantitative model may be used to estimate the percent of allochthonous soil organic carbon 
+where such model meets the guidelines in Section 8.1.4.1 above. The modeled percentage 
+allochthonous soil organic carbon must be verified with direct measurements from a system 
+with similar water table depth and dynamics, salinity and plant community type as the project 
+area. The model must be accepted by the scientific community as shown by publication in a 
+peer-reviewed journal and repeated application to different wetland systems. 
+ CO2 Emissions from Eroded Soil 
+For each stratum i at time t the project proponent must determine if soil erosion occurs. 
+CO2 emissions from eroded soil material (GHGBSL-eroded-CO2,i,t) may be calculated directly or may 
+be calculated from estimates of the amount of carbon that is eroded (CBSL-eroded,i,t) and the 
+percentage of the eroded carbon that is returned to the atmosphere (C%BSL-emitted,i,t). 
+Project proponents can use any combination of the following methods to calculate these terms:  
+1) Proxies 
+2) Published values 
+3) Default factors 
+4) Models 
+5) Field-collected data, or 
+6) Historical or chronosequence-derived data 
+GHGBSL-eroded-CO2,i,t = 44/12 × CBSL-eroded,i,t × C%BSL-emitted,i,t / 100  
+ 
+ 
+(48) 
+CBSL-eroded,i,t = C%BSL-eroded,i,t × BD × Depth_eBSL,i,t x 10 
+ 
+ 
+ 
+ 
+(49) 
+Where: 
+ 
+19 Mayer 1994 Figure 4 and surface area laboratory procedures 
+ 
+VM0033, v2.1 
+42 
+GHGBSL-eroded-CO2,i,t 
+= CO2 emissions from the eroded SOC pool in the baseline scenario in 
+stratum i in year t ; t CO2e ha-1 yr-1 
+CBSL-eroded,i,t 
+= Soil organic carbon stock in eroded soil material in the baseline scenario 
+in stratum i in year t; t C ha-1 
+C%BSL-emitted,i,t 
+= Organic carbon loss due to oxidation, as a percentage of C mass present in 
+eroded soil material in the baseline scenario in stratum i in year t (20); % 
+C%BSL-eroded,i,t 
+= Percentage of carbon of soil material eroded in the baseline scenario; % 
+BD 
+ 
+= Soil bulk density; kg m-3  
+Depth_eBSL,i,t 
+= Depth of the eroded area from the surface to the surface prior to erosion 
+in the baseline scenario in stratum i in year t; m 
+8.1.4.3.1 
+Proxy-based approach 
+CO2 emissions from eroded soil may be estimated using proxies (where such proxies meet the 
+guidance in Section 8.1.4.1). Where the project proponent uses a proxy, such emissions are 
+represented by the following equation: 
+GHGBSL-eroded-CO2,i,t = ƒ (GHG emission proxy)
+ 
+ 
+ 
+ 
+ 
+ 
+(50) 
+8.1.4.3.2 
+Published values 
+Peer-reviewed published data may be used to generate a value for GHGBSL-eroded-CO2,i,t , CBSL-
+eroded,i,t , C%BSL-emiitted,i,t , C%BSL-eroded,i,t , BD or Depth, based on values from same or similar 
+systems as those in the project area, based on the guidelines in Section 8.1.4.1.  
+8.1.4.3.3 
+Default factors  
+For tidal marsh and mangrove systems, a default factor may be used in the absence of data 
+suitable for using the published value approach, using the values provided below for the 
+specified carbon preservation depositional environment (CPDE) as defined in Chapter 3: 
+If there is connectivity between the eroded area and a river-estuary system:21 22 
+If CPDE is “Normal Marine” or “Deltaic fluidized muds”, then C%BSL-emitted,i,t = 80% 
+(51) 
+If CPDE is “O2 depletion”, then C%BSL-emitted,i,t = 53% 
+ 
+ 
+ 
+ 
+(52) 
+ 
+20  
+To ensure a conservative outcome, emissions must be estimated for a 5-year time period following the initial year of 
+erosion. 
+21  
+Connectivity occurs when eroded carbon is delivered into river-estuary systems that transport materials seaward by 
+continual resuspension, coastal margins and embayments with sufficient wave energy to continually re-suspend 
+sediments into an aerobic water column, or subaquatic environments with low organic carbon content and course-
+grained sediments that maintain aerobic conditions in the upper soil profile. 
+22  
+Values below are from Blair and Aller 2012 
+ 
+VM0033, v2.1 
+43 
+If CPDE is “Small Mountainous Rivers”, then C%BSL-emitted,i,t = 39% 
+ 
+ 
+(53) 
+If CPDE is “Extreme accumulation rates”, then C%BSL-emitted,i,t = 49% 
+ 
+ 
+(54) 
+If there is no connectivity between the eroded area and a river-estuary system or the open sea  
+and erosion mass is greater in the baseline scenario than the project scenario, then it is 
+conservative to assume net zero emissions from eroded strata in the baseline scenario and the 
+project scenario. 
+C%BSL-emitted,i,t = 0% 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(55) 
+If there is no connectivity between the eroded area and a river-estuary system or the open sea 
+and erosion mass is the same or lower in the baseline scenario than the project scenario, then 
+it is conservative to assume 100% emissions from eroded strata in the baseline scenario and 
+the project scenario. The value in Equation 55 above is then 100%. 
+For both connected and non-connected systems, the project proponent may justify a greater 
+C%BSL-emitted,i,t for the baseline scenario based on appropriate scientific research. In cases where 
+erosion rates are lower in the project scenario than the baseline scenario and carbon fate is 
+expected to be similar in both scenarios, this greater value of C%BSL-emitted,i,t must also be used 
+for C%WPS-emitted,i,t. 
+Normal Marine CPDE with data showing very low sediment accumulation rates (less than 0.002 
+g cm-2 yr-1) may use a C%BSL-emitted,i,t value of 98.5%23.  
+8.1.4.3.4 
+Modeling 
+A peer-reviewed published model may be used to generate a value of GHGBSL-eroded-CO2,i,t , CBSL-
+eroded,i,t , C%BSL-emitted,i,t , C%BSL-eroded,i,t , BD or Depth, in the same or similar systems as those in 
+the project area based on the guidelines in Section 8.1.4.1. 
+8.1.4.3.5 
+Field-collected data 
+Soil coring may be used to generate a value of CBSL-eroded,i,t , C%BSL-eroded,i,t , Depth or BD as 
+outlined in Section 9.3.7. For the baseline scenario, soil cores must be collected within 2 years 
+prior to the project start date. Where the project proponent uses an installed reference plane 
+for the baseline scenario, it must have been installed at least 4 years prior to the project start 
+date, which is good practice to ensure that a reliable average accumulation rate is obtained. 
+ 
+23 Mean value from figure 9 in Blair and Aller 2012 
+ 
+VM0033, v2.1 
+44 
+8.1.4.3.6 
+Historical data or chronosequences 
+GHGBSL-eroded-CO2,i,t , CBSL-eroded,i,t , C%BSL-emiitted,i,t , C%BSL-eroded,i,t , BD or Depth in the baseline 
+scenario may be estimated using either historical data collected from the project area or 
+chronosequence data collected at similar sites. Refer also to the instructions in Section 8.1.4.1.  
+ CO2 Emissions from Soil Exposed to an Aerobic Environment Through Excavation 
+For each stratum i at time t the project proponent must determine if piled-up soil24 exposed to 
+an aerobic environment exists within the project boundary. 
+CO2 emissions from soil exposed to an aerobic environment through excavation (GHGBSL-excav-
+CO2,i,t) may be calculated directly or may be calculated from estimates of the initial amount of 
+carbon that is exposed (CBSL-excav,i,t) and the percentage of the exposed carbon that is returned 
+to the atmosphere (C%BSL-emitted,i,t) as defined in Equation 56.  
+Estimates of CBSL-excav,i,t following the aerobic exposure event based on the extrapolation of 
+C%BSL-emitted,i,t  over the project crediting period must account for tendency of organic carbon 
+concentrations to approach steady-state equilibrium in mineral soils. For this reason, a 
+complete loss of soil organic carbon may not occur in mineral soils. This steady-state 
+equilibrium must be determined conservatively. 
+Project proponents can use any combination of the following methods to calculate these terms:  
+1) Proxies 
+2) Published values 
+3) Default factors 
+4) Models 
+5) Field-collected data, or 
+6) Historical or chronosequence-derived data 
+GHGBSL-excav-CO2,i,t = 44/12 × CBSL-excav,i,t × C%BSL-emitted,i,t / 100 
+ 
+ 
+ 
+(56) 
+CBSL-excav,i,t = C%BSL-excav,i,t × BD × Depth_exBSL,i,t × 10 
+ 
+ 
+ 
+ 
+(57) 
+Where: 
+GHGBSL-excav-CO2,i,t 
+= CO2 emissions from the SOC pool of soil exposed to an aerobic 
+environment through excavation in the baseline scenario in stratum i in year 
+t; t CO2e ha-1 yr-1 
+CBSL-excav,i,t 
+= Soil organic carbon stock in soil exposed to an aerobic environment 
+through excavation in the baseline scenario in stratum i in year t; t C ha-1 
+ 
+24 “Piled up soil” refers to a body of soil material accumulated in piles or layers as a result of excavation. 
+ 
+VM0033, v2.1 
+45 
+C%BSL-emitted,i,t 
+= Organic carbon loss due to oxidation, as a percentage of C mass present in 
+excavated soil material in the baseline scenario in stratum i in year t; % 
+C%BSL-excav,i,t 
+= Percentage of carbon of soil material excavated in the baseline scenario; 
+%  
+BD 
+ 
+= Soil bulk density; kg m-3  
+Depth_exBSL,i,t 
+= Depth of the piled-up soil material due to excavation in the baseline 
+scenario in stratum i in year t; m 
+8.1.4.4.1 
+Proxy-based approach 
+CO2 emissions from excavated soil may be estimated using proxies (where such proxies meet 
+the guidance in Section 8.1.4.1). Where the project proponent uses a proxy, such emissions are 
+represented by the following equation: 
+GHGBSL-excav-CO2,i,t = ƒ (GHG emission proxy)
+ 
+ 
+ 
+ 
+ 
+ 
+(58) 
+8.1.4.4.2 
+Published values 
+Peer-reviewed published data may be used to generate a value for GHGBSL-excav-CO2,i,t, CBSL-excav,i,t, 
+C%BSL-emitted,i,t,, C%BSL-excav,i,t, BD and Depth based on the average rate of excavated soil CO2 
+emissions in the same or similar systems as those in the project area, based on the guidelines 
+in Section 8.1.4.1.  
+8.1.4.4.3 
+Default factors  
+A default factor for C%BSL-excav,i,t may be used for the percent carbon at steady-state equilibrium 
+20 years following exposure to an aerobic environment in the absence of data suitable for using 
+the published value approach, using the value for C%BSL-soil,i,t20 provided in Section 8.1.4.2.3. 
+8.1.4.4.4 
+Modeling 
+A peer-reviewed published model may be used to generate a value of GHGBSL-excav-CO2,i,t , CBSL-
+excav,i,t , C%BSL-emitted,i,t,, C%BSL-excav,i,t , BD or Depth in the same or similar systems as those in the 
+project area based on the guidelines in Section 8.1.4.1. 
+8.1.4.4.5 
+Field-collected data 
+Soil coring may be used to generate a value of CBSL-excav,i,t , C%BSL-excav,i,t , BD or Depth as outlined 
+in Section 9.3.7. For the baseline scenario, soil cores must be collected within 2 years prior to 
+the project start date. Where the project proponent uses an installed reference plane for the 
+baseline scenario, it must have been installed at least 4 years prior to the project start date, 
+which is good practice to ensure that a reliable average accumulation rate is obtained. 
+ 
+VM0033, v2.1 
+46 
+8.1.4.4.6 
+Historical data or chronosequences 
+GHGBSL-excav-CO2,i,t , CBSL-excav,i,t , C%BSL-emitted,i,t , BD, or Depth in the baseline scenario may be 
+estimated using either historical data collected from the project area or chronosequence data 
+collected at similar sites. Refer also to the instructions in Section 8.1.4.1. 
+ CH4 emissions from soil 
+CH4 emissions from soil in the baseline scenario may be conservatively excluded. If the project 
+proponent can demonstrate that conditions for CH4 emissions in the baseline and project 
+scenarios will not be different, or conditions will decline, these emissions need not be 
+accounted for. 
+CH4 emissions from soils may be estimated using:  
+1) Proxies 
+2) Field-collected data 
+3) Published values 
+4) Default factors 
+5) Models, or  
+6) IPCC emission factors 
+ 
+Where the project proponent accounts for CH4 emissions in the baseline scenario, the options 
+described in the sections below may be applied to estimate such emissions. 
+8.1.4.5.1 
+Proxy-based approach 
+Where relevant, CH4 emissions from organic soil may be estimated using proxies such as water 
+table depth and vegetation composition (where such proxies meet the requirements in Section 
+8.1.4.1 above). Where the project proponent uses a proxy, such emissions are represented by 
+the following equation:  
+GHGBSL-soil-CH4,i,t = ƒ (GHG emission proxy) × CH4-GWP  
+ 
+ 
+ 
+ 
+(59) 
+Where: 
+GHGBSL-soil-CH4,i,t  
+= CH4 emissions from the SOC pool in the baseline scenario; t CO2e  
+ 
+ 
+ha-1 yr-1 
+ƒ (GHG emission proxy)  = Proxy for CH4 emissions; t CH4 ha-1 yr-1 
+CH4-GWP  
+= Global warming potential of CH4; dimensionless 
+8.1.4.5.2 
+Field-collected data 
+Field-collected data may also be used to estimate CH4 emissions (see Section 9.3.8). 
+ 
+VM0033, v2.1 
+47 
+8.1.4.5.3 
+Published values 
+Peer-reviewed published data may be used to generate a value based on the average CH4 
+emissions rate in the same or similar systems as those in the project area based on the 
+guidelines in Section 8.1.4.1 above. 
+8.1.4.5.4 
+Default factor 
+For tidal wetland systems, a default factor25 may be used in the absence of data suitable for 
+using the published value approach for the estimation of GHGBSL-soil-CH4,i,t. Where the salinity 
+average or salinity low point is >18 ppt, the project proponent may apply a default emission 
+factor of: 
+GHGBSL-soil-CH4,i,t = 0.011 t CH4 ha-1 yr-1 × CH4-GWP
+ 
+ 
+ 
+ 
+ 
+(60) 
+Where the salinity average or salinity low point is ≥ 20 ppt, the project proponent may apply a 
+default emission factor of: 
+GHGBSL-soil-CH4,i,t = 0.0056 t CH4 ha-1 yr-1 × CH4-GWP 
+ 
+ 
+ 
+ 
+(61)
+ 
+ 
+ 
+ 
+ 
+Procedures for measuring the salinity average or salinity low point are provided in Section 
+9.3.8. 
+The project proponent must not use the default value of 0.011 t CH4 ha-1 yr-1 for the baseline 
+scenario and 0.0056 t CH4 ha-1 yr-1 for the project scenario to create a difference in emissions 
+and claim an emission reduction. The use of the default factor is intended for projects that 
+restore salinity levels from fresh/brackish to much higher levels that inhibit CH4 emissions. 
+8.1.4.5.5 
+Modeling 
+A quantitative model which meets the guidance in Section 8.1.4.1 above may also be used to 
+estimate CH4 emissions from the SOC pool.  
+8.1.4.5.6 
+Emission factors 
+The most recently published IPCC emission factors may be used to estimate CH4 emissions 
+from the SOC pool for non-tidal wetland systems. Tier 1 values may also be used, but must be 
+applied conservatively including accounting for local salinity and vegetative cover conditions. 
+ N2O emissions from soil 
+N2O emissions may be conservatively excluded in the baseline scenario. If the project 
+proponent can demonstrate that conditions for N2O emissions in the baseline and project 
+ 
+25 Taken from Poffenbarger et al. 2011 
+ 
+VM0033, v2.1 
+48 
+scenarios will not be different, or conditions will decline, these emissions need not be 
+accounted for. 
+N2O emissions from soils may be estimated using:  
+1) Proxies  
+2) Field-collected data 
+3) Published values  
+4) Default factors  
+5) Models, or  
+6) IPCC emission factors 
+Where the project proponent accounts for N2O emissions in the baseline scenario, the options 
+described in the sections below may be applied to estimate such emissions. 
+8.1.4.6.1 
+Proxy-based approach 
+Where relevant, N2O emissions may be estimated using proxies such as water table depth and 
+vegetation composition (where such proxies meet the guidance in Section 8.1.4.1 above). 
+Where the project proponent uses a proxy, such emissions are represented by the following 
+equation (note that the determination of the similarity of systems must include the nitrogen 
+levels of the systems):  
+GHGBSL-soil-N2O,i,t = ƒ (N2O emission proxy) × N2O-GWP 
+ 
+ 
+ 
+ 
+(62) 
+Where: 
+GHGBSL-soil-N2O,i,t  
+= N2O emissions from the SOC pool in the baseline scenario due to 
+denitrification/nitrification; t CO2e ha-1 yr-1 
+ƒ (N2O emission proxy)  = Proxy for N2O emissions; t N2O ha-1 yr-1 
+N2O-GWP
+ 
+= Global warming potential for N2O; dimensionless 
+8.1.4.6.2 
+Field-collected data 
+Field-collected data may be used to estimate N2O emissions (see Section 9.3.8). 
+8.1.4.6.3 
+Published values 
+Peer-reviewed published data may be used to generate a value based on the average N2O 
+emissions rate in the same or similar systems as those in the project area based on the 
+guidelines described in Section 8.1.4.1. Note that determination of the similarity of systems 
+must include the nitrogen levels of the systems. 
+ 
+VM0033, v2.1 
+49 
+8.1.4.6.4 
+Default factors 
+The following default factors26 may be used for the estimation of GHGBSL-soil-N2O,i,t in the absence 
+of data suitable for using the published value approach. Use of a default factor is only 
+permitted for the systems listed below, except where the project area receives hydrologically 
+direct inputs from a point or non-point source of nitrogen such as wastewater effluent or an 
+intensively nitrogen-fertilized system. 
+For open water systems where the salinity average or salinity low point is >18 ppt: 
+GHGBSL-soil-N2O,i,t = 0.000157 t N2O ha-1 yr-1 × N2O-GWP
+  
+ 
+ 
+ 
+(63) 
+ 
+For open water systems where the salinity average or salinity low point is >5 and ≤18 ppt: 
+GHGBSL-soil-N2O,i,t = 0.00033 t N2O ha-1 yr-1 × N2O-GWP
+ 
+ 
+ 
+ 
+ 
+(64) 
+ 
+For other open water systems: 
+GHGBSL-soil-N2O,i,t = 0.00053 t N2O ha-1 yr-1 × N2O-GWP
+ 
+ 
+ 
+ 
+ 
+(65) 
+ 
+For non-seagrass wetland systems where the salinity average or salinity low point is >18 ppt: 
+GHGBSL-soil-N2O,i,t = 0.000487 t N2O ha-1 yr-1 × N2O-GWP
+  
+ 
+ 
+ 
+(66) 
+ 
+For non-seagrass wetland systems where the salinity average or salinity low point is >5 and ≤18 
+ppt: 
+GHGBSL-soil-N2O,i,t = 0.000754 t N2O ha-1 yr-1 × N2O-GWP
+  
+ 
+ 
+ 
+(67) 
+ 
+For other non-seagrass wetland systems: 
+GHGBSL-soil-N2O,i,t = 0.000864 t N2O ha-1 yr-1 × N2O-GWP
+  
+ 
+ 
+ 
+(68) 
+ 
+Procedures for measuring the salinity average and salinity low point are set out in Section 9.3.8 
+below. 
+8.1.4.6.5 
+Modeling 
+A quantitative model which meets the requirements in Section 8.1.4.1 above may also be used 
+to estimate N2O emissions from the SOC pool.  
+ 
+26 Taken from Smith et al. 1983. 
+ 
+VM0033, v2.1 
+50 
+8.1.4.6.6 
+Emission factors 
+The most recently published IPCC emission factors may also be used to estimate N2O 
+emissions from the SOC pool. Tier 1 values may also be used, but must be applied 
+conservatively following the guidance in Section 8.1.4.1 above.  
+ Emissions from fossil fuel use in baseline scenario  
+Emissions from the use of vehicles and mechanical equipment in the baseline scenario 
+(GHGBSL-fuel,i,t) may be conservatively excluded. However, these emissions in the baseline 
+scenario may be estimated using the procedures in Section 8.2.6 below. 
+8.2 
+Project Emissions 
+ General approach 
+Emissions in the project scenario are attributed to carbon stock changes in biomass carbon 
+pools, soil processes, or a combination of these. In addition, where relevant, emissions from 
+organic soil burns and fossil fuel use may be quantified. 
+Organic soil combustion due to anthropogenic fires is addressed using a conservative default 
+factor (Fire Reduction Premium) that is expressed as a proportion of the CO2 emissions avoided 
+through rewetting (see Section 8.3). 
+Emissions in the project scenario are estimated as: 
+𝐺𝐻𝐺𝑊𝑃𝑆= 𝐺𝐻𝐺𝑊𝑃𝑆−𝑏𝑖𝑜𝑚𝑎𝑠𝑠+ 𝐺𝐻𝐺𝑊𝑃𝑆−𝑠𝑜𝑖𝑙+ 𝐺𝐻𝐺𝑊𝑃𝑆−𝑏𝑢𝑟𝑛+ 𝐺𝐻𝐺𝑊𝑃𝑆−𝑓𝑢𝑒𝑙
+ 
+ 
+(69) 
+ 
+𝐺𝐻𝐺𝑊𝑃𝑆−𝑏𝑖𝑜𝑚𝑎𝑠𝑠= −∑
+∑
+(
+44
+12
+𝑀𝑊𝑃𝑆
+𝑖=1
+𝑡∗
+𝑡=1
+ × ∆𝐶𝑊𝑃𝑆−𝑏𝑖𝑜𝑚𝑎𝑠𝑠,𝑖,𝑡)
+ 
+ 
+ 
+ 
+(70) 
+𝐺𝐻𝐺𝑊𝑃𝑆−𝑠𝑜𝑖𝑙= −∑
+∑
+(
+44
+12
+𝑀𝑊𝑃𝑆
+𝑖=1
+𝑡∗
+𝑡=1
+ × ∆𝐶𝑊𝑃𝑆−𝑠𝑜𝑖𝑙,𝑖,𝑡) 
+ 
+ 
+ 
+ 
+(71) 
+𝐺𝐻𝐺𝑊𝑃𝑆−𝑏𝑢𝑟𝑛= −∑
+∑
+(
+44
+12
+𝑀𝑊𝑃𝑆
+𝑖=1
+𝑡∗
+𝑡=1
+ × ∆𝐶𝑊𝑃𝑆−𝑏𝑢𝑟𝑛,𝑖,𝑡)
+ 
+ 
+ 
+ 
+ 
+(72)
+ 
+ 
+𝐺𝐻𝐺𝑊𝑃𝑆−𝑓𝑢𝑒𝑙= −∑
+∑
+(
+44
+12
+𝑀𝑊𝑃𝑆
+𝑖=1
+𝑡∗
+𝑡=1
+ × ∆𝐶𝑊𝑃𝑆−𝑓𝑢𝑒𝑙,𝑖,𝑡)
+ 
+ 
+ 
+ 
+ 
+(73) 
+Where: 
+GHGWPS   
+ 
+= Net CO2e emissions in the project scenario up to year t*; t CO2e 
+GHGWPS-biomass 
+ 
+= Net CO2e emissions from biomass carbon pools in the project scenario  
+ 
+ 
+ 
+up to year t*; t CO2e 
+GHGWPS-soil 
+ 
+= Net CO2e emissions from the SOC pool in the project scenario up to  
+ 
+ 
+ 
+year t*; t CO2e 
+GHGWPS-burn 
+ 
+= Net CO2e emissions from prescribed burning in the project scenario up  
+ 
+ 
+ 
+to year t*; t CO2e 
+ 
+VM0033, v2.1 
+51 
+GHGWPS-fuel 
+ 
+= Net CO2e emissions from fossil fuel use in the project scenario up to  
+ 
+  
+ 
+year t*; t CO2e 
+ΔCWPS-biomass,i,t 
+ 
+= Net carbon stock change in biomass carbon pools in the project
+ 
+scenario in stratum i in year t; t C yr-1 
+GHGWPS-soil,i,t 
+ 
+= GHG emissions from the SOC pool in the project scenario in stratum i  
+ 
+  
+ 
+in year t; t CO2e yr-1 
+GHGWPS-burn,i,t 
+ 
+= GHG emissions from prescribed burning in the project scenario in  
+ 
+ 
+ 
+stratum i in year t; t CO2e yr-1 
+GHGWPS-fuel,i,t 
+ 
+= GHG emissions from fossil fuel use the project scenario in stratum i in  
+ 
+  
+ 
+year t;  t CO2e yr-1 
+i 
+  
+ 
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+  
+ 
+= 1, 2, 3, … t* years elapsed since the project start date 
+Ex-ante estimates of GHGWPS must be based on a project scenario that is defined ex ante, and 
+must be projected using the latest version of VCS module VMD0019 Methods to Project Future 
+Conditions. 
+Ex-post estimates of GHGWPS must be based on monitoring results. 
+ Accounting for sea level rise 
+The VCS AFOLU Non-Permanence Risk Tool must be used to assess the future impacts of 
+erosion and submergence due to sea level rise on the carbon stocks in the project. The tool 
+provides procedures to determine contributions to the AFOLU pooled buffer account. Where a 
+loss event occurs, projects must conform with the rules set out in the latest version of the VCS 
+Registration and Issuance Process.  
+ Net carbon stock change in biomass carbon pools in project scenario  
+Net carbon stock change in biomass carbon pools in the project scenario is estimated as: 
+ΔCWPS-biomass,i,t = ΔCWPS-tree/shrub,i,t + ΔCWPS-herb,i,t   
+ 
+ 
+ 
+ 
+(74) 
+Where: 
+ΔCWPS-biomass,i,t 
+= Net carbon stock change in biomass carbon pools in the project scenario in 
+stratum i in year t; t C yr-1 
+ΔCWPS-tree/shrub,i,t = Net carbon stock change in tree and shrub carbon pools in the project 
+scenario in stratum i in year t; t C yr-1 
+ΔCWPS-herb,i,t 
+= Net carbon stock change in herb carbon pools in the project scenario in stratum i 
+in year t; t C yr-1 
+i 
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+= 1, 2, 3, … t* years elapsed since the project start date 
+ 
+ 
+VM0033, v2.1 
+52 
+Trees and shrubs 
+The net carbon stock change in trees and shrubs in the project scenario are estimated using 
+CDM tool AR-Tool14 Estimation of carbon stocks and change in carbon stocks of trees and 
+shrubs in A/R CDM project activities, noting that the following equation applies: 
+ΔCWPS-tree/shrub,i,t = 12/44 × (ΔCTREE_PROJ,t + ΔCSHRUB_PROJ,t)  
+ 
+ 
+ 
+(75) 
+ 
+Where: 
+ 
+ΔCBSL-tree/shrub,i,t = Net carbon stock change in tree and shrub carbon pools in the project  
+ 
+ 
+ 
+scenario in stratum i in year t; t C yr-1 
+ΔCTREE_PROJ,t  
+ = Change in carbon stock in tree biomass in the project scenario in year t; t 
+CO2-e yr-1 (derived from application of AR-Tool14; calculations are done for each 
+stratum i) 
+ΔCSHRUB_PROJ,t   = Change in carbon stock in shrub biomass in the project scenario in year t; t 
+CO2-e yr-1 (derived from application of AR-Tool14; calculations are done for 
+each stratum i) 
+For the ex-ante estimation of tree biomass, an IPCC default factor27 may be used. 
+Where reforestation or revegetation activities in the project scenario include harvesting, the 
+maximum number of GHG credits generated by these activities must not exceed the long-term 
+average GHG benefit from the tree component.  
+For strata where harvesting occurs, the maximum carbon stock in tree biomass (CTREE,i,t) used in 
+AR-Tool14 is limited to CAVG-TREE,i, calculated as follows: 
+𝐶𝐴𝑉𝐺−𝑇𝑅𝐸𝐸,𝑖=
+∑
+𝐶𝑇𝑅𝐸𝐸,𝑖,𝑡
+𝑛𝑡=1
+𝑛
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(76) 
+Where: 
+CAVG-TREE,i  = Long-term average carbon stock in baseline or project tree biomass within the project 
+area (in stratum i) in time period n; t CO2-e 
+CTREE,i,t   = Carbon stock in baseline or project tree biomass within the project area (in stratum i) 
+in year t (derived from application of AR-Tool14); t CO2-e yr-1 
+i 
+ = 1, 2, 3 …MWPS strata in the project scenario 
+t 
+ = 1, 2, 3 … n years elapsed since the project start date 
+n 
+ = Total number of years in the established time period 
+The long-term average carbon stock must be calculated for both the baseline and the project 
+scenario. 
+ 
+27 2013 Supplement to the 2006 Guidelines: Wetlands (Table 4.4). This value can only be used until biomass stock in Table 4.3 
+of the guidelines is reached. 
+ 
+VM0033, v2.1 
+53 
+For projects undertaking even-aged management, the time period n over which the long-term 
+average GHG benefit is calculated includes at minimum one full harvest/cutting cycle, including 
+the last harvest/cut in the cycle. For projects under conservation easements with no intention 
+to harvest after the project crediting period (which must be shown in the project description 
+based on verifiable information), or in case of selective cutting, the time period n over which 
+the long-term average is calculated is the length of the project crediting period.  
+Projects may account for long-term carbon storage in wood products. In this case, the 
+parameter CTREE,t in Equation 76 must be read as CTREE,i,t + CWP,i,t. Procedures for the calculation 
+of CWP,i,t are provided in Appendix 1. 
+Examples of how to calculate the long-term average carbon benefit are provided in VCS 
+document AFOLU Guidance: Example for Calculating the Long-Term Average Carbon Stock for 
+ARR Projects with Harvesting. 
+Restoration projects which include afforestation or reforestation components may account for 
+long-term carbon storage in wood products in case trees are harvested before dieback. In this 
+case, the parameter CTREE,t in Equation 76 must be read as CTREE,i,t + CWP,i,t. 
+CAVG-SHRUB,i is calculated as follows: 
+𝐶𝐴𝑉𝐺−𝑆𝐻𝑅𝑈𝐵,𝑖=
+∑
+𝐶𝑆𝐻𝑅𝑈𝐵,𝑖,𝑡
+𝑛𝑡=1
+𝑛
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(77) 
+Where: 
+CAVG-SHRUB,i  
+= Long-term average carbon stock in baseline or project shrub biomass within 
+the project area (in stratum i) in time period n; t CO2-e 
+CSHRUB,i,t   
+= Carbon stock in baseline or project shrub biomass within the project area (in  
+ 
+  
+stratum i) in year t (derived from application of AR-Tool14); t CO2-e yr-1 
+i 
+  
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+  
+= 1, 2, 3 … n years elapsed since the project start date 
+n 
+  
+= Total number of years in the established time period 
+ 
+Herbaceous vegetation 
+The net carbon stock change in herbaceous vegetation biomass in the project scenario is 
+estimated using a carbon stock change approach as follows: 
+ΔCWPS-herb,i,t = (CWPS-herb,i,t – CWPS-herb,i,,(t-T)) / T
+ 
+ 
+ 
+ 
+ 
+ 
+(78) 
+Where: 
+ΔCWPS-herb,i,t 
+= Net carbon stock changes in herb carbon pools in the project scenario in 
+stratum i in year t; t C yr-1 
+CWPS-herb,i,t  
+= Carbon stock in herbaceous vegetation in the project scenario in stratum i in  
+ 
+VM0033, v2.1 
+54 
+ 
+  
+year t; t C ha-1 
+i 
+  
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+  
+= 1, 2, 3 … t* years elapsed since the start of the project activity 
+T 
+  
+= Time elapsed between two successive estimations (T=t2 – t1) 
+A default factor for CWPS-herb,i,t of 3 t C ha-1 (see Section 8.1.3) may be applied for strata with 
+100% herbaceous cover. For areas with a vegetation cover <100%, a 1:1 relationship between 
+vegetation cover and CWPS-herb,i,t must be applied. The default factor may be claimed only for the 
+first year of the project crediting period as herbaceous biomass quickly reaches a steady state. 
+Vegetation cover must be determined by commonly used techniques in field biology. Procedures 
+for measuring carbons stocks in herbaceous vegetation are provided in Section 9.3.6. The 
+above default factor may not be applied in case AR-Tool14 is used. 
+Where the carbon stock change in herbaceous vegetation is quantified in the project scenario, 
+it must also be quantified in the baseline scenario. 
+ Net GHG emissions and removals from soil in project scenario  
+ General 
+Net GHG emissions from soils in the project scenario are estimated as: 
+GHGWPS-soil,i,t = Ai,t × (GHGWPS-soil-CO2,i,t - Deductionalloch + GHGWPS-soil-CH4,i,t + GHGWPS-soil-N2O,i,t) (28) (79) 
+Where: 
+GHGWPS-soil,i,t 
+= GHG emissions from the SOC pool in the project scenario in stratum i in year 
+t; t CO2e yr-1 
+GHGWPS-soil-CO2,i,t  = CO2 emissions from the SOC pool in the project scenario in stratum i in year t; 
+t CO2e ha-1 yr-1 
+Deductionalloch 
+= Deduction from CO2 emissions from the SOC pool to account for the 
+percentage of the carbon stock that is derived from allochthonous soil organic 
+carbon; t CO2e ha-1 yr-1 
+GHGWPS-soil-CH4,i,t  = CH4 emissions from the SOC pool in the project scenario in stratum i in year t; 
+t CO2e ha-1 yr-1 
+GHGWPS-soil-N2O,i,t  = N2O emissions from the SOC pool in the project scenario in stratum i in year 
+t; t CO2e ha-1 yr-1 
+Ai,t 
+ 
+= Area of stratum i in year t; ha 
+i 
+ 
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+ 
+= 1, 2, 3, … t* years elapsed since the project start date 
+CO2 emissions from the tidal wetland SOC pool in the project scenario may occur in situ or 
+indirectly following soil erosion or where soil is exposed to an aerobic environment through 
+excavation. If it can be demonstrated that CO2 emissions due to erosion are the result of sea 
+ 
+28 This equation only applies if GHGWPS-soil-CO2,i,t is negative (sequestration). 
+ 
+VM0033, v2.1 
+55 
+level rise, projects do not need to account for this emission source, as it is included in the VCS 
+AFOLU Non-Permanence Risk Tool. 
+ CO2 emissions from soil 
+GHGWPS-soil-CO2,i,t = GHGWPS-insitu-CO2,i,t + GHGWPS-eroded-CO2,i,t + GHGWPS-excav-CO2,i,t  
+ 
+(80) 
+Where: 
+GHGWPS-soil-CO2,i,t  
+= CO2 emissions from the SOC pool in the project scenario in stratum i in year t; t 
+CO2e ha-1 yr-1 
+GHGWPS-insitu-CO2,i,t  
+= CO2 emissions from the SOC pool of in-situ soils in the project scenario in 
+stratum i in year t; t CO2e ha-1 yr-1 
+GHGWPS-eroded-CO2,i,t 
+= CO2 emissions from the eroded SOC pool in the project scenario in stratum i in 
+year t ; t CO2e ha-1 yr-1 
+GHGWPS-excav-CO2,i,t 
+= CO2 emissions from the SOC pool of soil exposed to an aerobic environment 
+through excavation in the project scenario in stratum i in year t; t CO2e ha-1 yr-1 
+CO2 emissions from soils may be estimated using one of the following approaches:  
+1) Proxies 
+2) Published values 
+3) Default factors 
+4) Models, or  
+5) Field-collected data 
+In certain cases, allochthonous soil organic carbon may accumulate in the project area, and 
+such carbon must be accounted for in the project scenario. Procedures for the estimation of a 
+compensation factor for allochthonous soil organic carbon are specified in Sections 8.1.4.2.7 
+and 8.2.4.2.2. 
+8.2.4.2.1 
+Approaches for estimating GHGWPS-insitu-CO2,i,t GHGWPS-eroded-CO2,i,t and GHGWPS-
+excav-CO2,i,t 
+GHGWPS-insitu-CO2,i,t , GHGWPS-eroded-CO2,i,t and GHGWPS-excav-CO2,i,t must be calculated using the same 
+procedures in Section 8.1.4 above. For all equations in these sections, the subscript BSL must 
+be substituted by WPS to make clear that the relevant values are being quantified for the 
+project scenario. For these parameters, descriptions are provided in Section Error! Reference 
+source not found.. If it can be demonstrated that GHGWPS-eroded-CO2,i,t is the result of sea level 
+rise, projects do not need to account for this emission source, as it is included in the VCS 
+AFOLU Non-Permanence Risk Tool. 
+For both connected and non-connected systems, the project proponent may justify a lower 
+C%WPS-emitted,i,t for the project scenario based on appropriate scientific research. In cases 
+where erosion rates are lower in the project scenario than the baseline scenario and carbon 
+ 
+VM0033, v2.1 
+56 
+fate is expected to be similar in both scenarios, this lower value of C%WPS-emitted,i,t must also 
+be used for C%BSL-emitted,i,t. 
+8.2.4.2.2 
+Deduction for allochthonous carbon 
+A deduction must be applied to account for allochthonous carbon using the procedures in 
+Section 8.1.4.2.7. The project proponent must also follow the additional guidance below. 
+The determination of the deduction for allochthonous carbon is mandatory for the project 
+scenario unless the project proponent is able to demonstrate that the allochthonous carbon 
+would have been returned to the atmosphere in the form of carbon dioxide in the absence of 
+the project. 
+The deduction for allochthonous carbon must only be applied to soil layers deposited or 
+accumulated after the project start date (such as materials formed above a feldspar marker 
+horizon). 
+If the organic surface layer exceeds 10 cm, the soil is deemed organic and no deduction is 
+required. If an organic surface layer of up to 10 cm is present, deduction_alloch must be 
+determined only in such cases where the project experiences mineral sedimentation events 
+sufficient to create mineral soil layers. In practice, the project area may show mineral 
+sedimentation in places. If this is observed it is assumed that at some point during the project 
+crediting period mineral sediment can be deposited on top of organic surface layers, unless the 
+project proponent can justify that strata with an organic surface layer of less than 10 cm will 
+not experience mineral sedimentation during the project crediting period. 
+ CH4 emissions from soil 
+Where the project proponent is able to demonstrate (e.g., if salinity values will not change or 
+will increase) that CH4 emissions do not increase in the project scenario compared to the 
+baseline scenario, CH4 emissions may be excluded.  
+The estimation of CH4 emissions in project scenario must follow one of the approaches 
+provided in Section 8.1.4.5 above. For all equations in these sections, the subscript BSL must 
+be substituted by WPS to make clear that the relevant values are being quantified for the 
+project scenario. 
+ N2O emissions from soil 
+Where the project proponent is able to demonstrate (e.g., by referring to peer-reviewed 
+literature based on similar project circumstances29) that N2O emissions do not increase in the 
+project scenario compared to the baseline scenario, N2O emissions may be excluded. 
+ 
+29 Project circumstances are defined by pre-project land use (eg, forestry, agriculture, abandonment after such activities) and 
+its intensity (especially related to N-fertilization), climatic zone, water table depths, and soil type. 
+ 
+VM0033, v2.1 
+57 
+N2O emissions must be accounted for in the project scenario in strata where water levels were 
+lowered as a result of project activities30. Seagrass restoration projects do not require N2O 
+emission accounting. The estimation of N2O emissions in the project scenario may follow one of 
+the approaches provided in Section 8.1.4.6. For all equations in these sections, the subscript 
+BSL must be substituted by WPS to make clear that the relevant values are being quantified for 
+the project scenario. 
+In addition, where the project proponent is able to demonstrate (e.g., by referring to peer-
+reviewed literature) that N2O emissions in the project scenario are de minimis, N2O emissions 
+may be excluded. To demonstrate that N2O emissions are de minimis in the project scenario, 
+the project proponent must use CDM tool AR-Tool04 Tool for testing significance of GHG 
+emissions in A/R CDM project activities, or refer to peer-reviewed literature. 
+ Net non-CO2 emissions from prescribed burning in project scenario 
+Where the project proponent introduces prescribed burning of shrub and herbaceous biomass, 
+the project proponent must a) demonstrate that the project does not decrease carbon 
+sequestration rates if using the default factor approach for carbon dioxide emissions 
+accounting from soil, and b) account for CH4 and N2O emissions as follows: 
+GHGWPS-burn,i,t = CO2eN2O,i,t + CO2eCH4,i,t 
+ 
+ 
+ 
+ 
+ 
+ 
+(81) 
+CO2eN2O,i,t = Biomassi,t × EFN2O,burn × N2O-GWP × 10-6 × Ai,t  
+ 
+ 
+ 
+(82) 
+ 
+CO2eCH4,i,t = Biomassi,t × EFCH4,burn × CH4-GWP × 10-6 × Ai,t 
+ 
+ 
+ 
+(83) 
+Where: 
+GHGWPS-burn,i,t 
+= GHG emissions from prescribed burning in the project scenario in stratum i in  
+ 
+  
+year t; t CO2e yr-1 
+CO2eN2O,i,t  
+= CO2e emissions resulting from N2O emissions due to prescribed burning in 
+stratum i in year t; t CO2e yr-1.  
+CO2eCH4,i,t   
+= CO2e emissions resulting from CH4 emissions due to prescribed burning in  
+ 
+  
+stratum i in year t; t CO2e yr-1.  
+Biomassi,t  
+= Aboveground shrub biomass in stratum i in year t (from Section 8.2.3), kg d.m.  
+ 
+  
+ha-1  
+EFN2O,burn  
+= Emission factor for N2O for vegetation burning; g N2O / kg dry biomass  
+EFCH4,burn  
+= Emission factor for CH4 for vegetation burning; g CH4 / kg dry biomass 
+N2O-GWP
+  
+= Global warming potential of N2O; dimensionless 
+CH4-GWP  
+= Global warming potential of CH4; dimensionless 
+Ai,t 
+ 
+ 
+= Area of stratum i in year t; ha  
+i 
+  
+= 1, 2, 3 …MWPS strata in the project scenario 
+ 
+30 See applicability conditions. 
+ 
+VM0033, v2.1 
+58 
+t 
+  
+= 1, 2, 3, … t* years elapsed since the project start date 
+ Emissions from fossil fuel use 
+Where emissions from the use of vehicles and mechanical equipment for earth moving in WRC 
+project activities are above de minimis as compared to the baseline scenario, such emissions must 
+be estimated by applying CDM tool AR-Tool05 Estimation of GHG emissions related to fossil fuel 
+combustion in A/R CDM project activities, noting that the following equation applies: 
+GHGWPS-fuel,i,t = ETFC,y 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(84) 
+Where: 
+GHGWPS-fuel,i,t 
+= GHG emissions from fossil fuel use in the project scenario in stratum i in year t; t 
+CO2e yr-1 
+ETFC,y    
+= CO2 emissions from fossil fuel combustion during the year y; t CO2 (derived  
+ 
+  
+from application of CDM tool AR-Tool05 Estimation of GHG emissions  
+ 
+  
+related to fossil fuel combustion in A/R CDM project activities; calculations  
+ 
+  
+are done for each stratum i) 
+i 
+  
+= 1, 2, 3 …MWPS strata in the project scenario 
+t 
+  
+= 1, 2, 3, … t* years elapsed since the project start date 
+The tool has been designed for A/R CDM project activities, but must be used for the purposes 
+of this methodology, noting the following: 
+Where the tool refers to:  
+It must be understood as referring to: 
+A/R 
+WRC 
+CDM 
+VCS 
+DOE 
+VVB 
+8.3 
+Emission reductions due to rewetting and fire management (Fire 
+Reduction Premium) 
+This methodology addresses the emission reductions generated from reduced anthropogenic 
+fires occurring in drained organic soils due to rewetting and fire management. Emission 
+reductions are estimated using a conservative default factor which is based on fire occurrence 
+and extension in the project area in the baseline scenario. This method avoids the need for 
+direct assessment of GHG emissions from fire in the baseline and the project scenarios. The 
+project proponent must apply the latest version of VCS module VMD0046 Methods for 
+monitoring soil carbon stock changes and GHG emissions in WRC project activities to estimate 
+of the Fire Reduction Premium (FRP). 
+ 
+VM0033, v2.1 
+59 
+For each stratum with organic soil to which the project proponent applies the approach, the 
+parameters Epeatsoil-WPS,i,t (Greenhouse gas emissions from the peat soil within the project 
+boundary in the project scenario in stratum i in year t (t CO2e yr-1)) and Epeatsoil-BSL,i,,t (GHG 
+emissions from microbial decomposition of the peat soil within the project boundary in the 
+baseline scenario in stratum i in year t (t CO2e yr-1)) in the module are obtained from GHGWPS-
+soil,i,t and GHGBSL-soil,i,t. 
+8.4 
+Leakage 
+ Activity-shifting leakage and market leakage 
+The applicability conditions of this methodology are structured to ensure that activity-shifting 
+leakage and market leakage do not occur. As such, where the applicability conditions of this 
+methodology are met, activity-shifting leakage and market leakage may be assumed to be zero. 
+ Ecological leakage 
+It may be assumed that ecological leakage does not occur in projects meeting the applicability 
+conditions of this methodology, because projects must be designed in a manner which ensures 
+that their hydrological connectivity with adjacent areas does not lead to a significant increase in 
+GHG emissions outside the project area. This may be achieved by a project design which 
+causes no alteration of mean annual water table depths or flooding frequency or duration in 
+adjacent areas, or limiting such alteration to levels that do not influence GHG emissions. 
+Where, at the design stage, hydrological changes are expected to impact GHG emissions in 
+areas outside the project area, the project design must be adjusted to include such areas in the 
+project area. 
+The project proponent must demonstrate that their project design meets these requirements 
+through expert judgment, hydrologic modeling or monitoring of alterations of water table depth 
+at the project area. In tidal wetland restoration projects, de-watering downstream wetlands is 
+not expected if project areas are set sufficiently large to include expected areas of changed 
+hydrology. 
+Hydrologic models must consider water displacement from project activities and the hydrologic 
+connection or blockage of inlets that would change the wetland boundary. Procedures for 
+monitoring alterations of water table depth at the project area are provided in Section 9.3.4. 
+The tidal range and sediment delivery experienced by wetlands outside the project area must 
+remain within the system tolerance, which is defined by the high and low tides and regional 
+sediment budget, and assessed using hydrological models (and/or empirical analysis) and 
+expert judgment. 
+To guide this assessment, Table 3 outlines avoidance criteria related to a variety of processes 
+that may occur outside the project area due to an inappropriate project design. 
+ 
+VM0033, v2.1 
+60 
+Table 3: Processes Associated with Ecological Leakage Outside Project Boundary and 
+Related Criteria for their Avoidance 
+Ecological leakage process outside project 
+boundary 
+Avoidance criterion 
+Lowering water table that causes increased 
+soil carbon oxidation 
+Maintain wetland conditions (e.g., converting from 
+impounded water to a wetland does not cause soil 
+oxidation) 
+Lowering water table that causes increased 
+N2O emissions 
+No conversion of non-seagrass wetland to open water 
+Raising water table that causes increased CH4 
+emissions 
+No conversion of non-wetland to wetland 
+Raising water table that causes decreased 
+vegetation production that causes decreased 
+new soil carbon sequestration 
+No causation of vegetated to non-vegetated (or poorly 
+vegetated) conditions 
+ 
+Projects meeting the requirements of this Section Error! Reference source not found. may 
+assume that GHGLK = 0. 
+8.5 
+Net GHG Emission Reductions and Removals 
+ Calculation of net GHG emissions reductions  
+The total net GHG emission reductions from the RWE or ARR/RWE project activity are 
+calculated as follows: 
+NERRWE = GHGBSL – GHGWPS + FRP – GHGLK 
+ 
+ 
+ 
+ 
+ 
+(85) 
+Where: 
+NERRWE31  
+= Net CO2e emission reductions from the RWE project activity; t CO2e 
+GHGBSL   
+= Net CO2e emissions in the baseline scenario; t CO2e 
+GHGWPS   
+= Net CO2e emissions in the project scenario; t CO2e 
+FRP 
+  
+= Fire Reduction Premium (net CO2e emission reductions from organic soil  
+ 
+  
+combustion due to rewetting and fire management); t CO2e 
+GHGLK 
+ 
+ 
+= Net CO2e emissions due to leakage; t CO2e 
+ 
+Long-term benefit in WRC projects 
+ 
+31 Also stands for NERARR/RWE 
+ 
+VM0033, v2.1 
+61 
+For projects claiming reductions of baseline GHG emissions, or for conservation and restoration 
+projects where sea level rise may cause a loss of tidal wetland and associated biomass and/or 
+soil organic carbon stocks, the maximum quantity of GHG emission reductions or removals that 
+may be claimed from the biomass and soil organic carbon pool is limited to the net GHG benefit 
+generated by the project 100 years after its start date, as follows: 
+NERRWE-max = NERRWE at t = 100
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(86) 
+ 
+Where: 
+ 
+NERRWE-max 
+= Maximum net CO2e emission reductions or removals that can be claimed  
+ 
+ 
+ 
+from the RWE project activity at any point in time during the crediting period;  
+ 
+ 
+ 
+t CO2e 
+ 
+NERRWE  
+= Net CO2e emission reductions from the RWE project activity (from Equation  
+ 
+ 
+ 
+85); t CO2e 
+Note also that NERRWE must be corrected for uncertainty by estimating the total uncertainty for 
+the RWE project activity (NERRWE_ERROR) using the procedures in Section 8.5.2 below. 
+ Estimation of uncertainty 
+The following procedure allows the project proponent to estimate uncertainty in the estimation 
+of emissions and carbon stock changes (i.e., for calculating a precision level and any deduction 
+in credits for lack of precision following project implementation and monitoring) by assessing 
+uncertainty in baseline and project estimations. 
+This procedure focuses on the following sources of uncertainty: 
+• 
+Uncertainty associated with estimation of stocks in carbon pools and changes in 
+carbon stocks  
+• 
+Uncertainty in assessment of project emissions 
+Where an uncertainty value is not known or cannot be calculated, the project proponent must 
+justify that it is using a conservative number and an uncertainty of 0% may be used for this 
+component. 
+Uncertainty guidance  
+A precision target of a 90% or 95% confidence interval equal to or less than 20% or 30%, 
+respectively, of the recorded value must be targeted. This is especially important in terms of 
+project planning for measurement of carbon stocks where sufficient measurement plots should 
+be included to achieve this precision level across the measured stocks. 
+Levels of uncertainty must be known for all aspects of baseline and project implementation and 
+monitoring. Uncertainty will generally be known as the 90% or 95% confidence interval 
+expressed as a percentage of the mean. Where uncertainty is not known, it must be 
+demonstrated that the value used is conservative. 
+ 
+VM0033, v2.1 
+62 
+Estimated carbon emissions and removals arising from AFOLU activities have uncertainties 
+associated with the measures and estimates of several parameters. These include the project 
+area or other activity data, carbon stocks, biomass growth rates, expansion factors and other 
+coefficients. It is assumed that the uncertainties associated with the estimates of the various 
+input data are available, either as default factors given in IPCC Guidelines (2006), IPCC GPG-
+LULUCF (2003), expert judgment or estimates based of sound statistical sampling. 
+Alternatively, conservative estimates may also be used instead of uncertainties, provided that 
+they are based on verifiable literature sources or expert judgment. In this case the uncertainty 
+is assumed to be zero. However, these procedures combine uncertainty information and 
+conservative estimates resulting in an overall ex-post project uncertainty. 
+Planning to diminish uncertainty 
+It is important that the process of project planning consider uncertainty. Procedures including 
+stratification and the allocation of sufficient measurement plots help ensure that low 
+uncertainty in carbon stocks results and ultimately full crediting can result. 
+It is good practice to apply this procedure at an early stage to identify the data sources with the 
+highest uncertainty to allow the opportunity to conduct further work to diminish uncertainty. 
+Note that in Parts 1 – 3 below the denominators of the equations must be expressed in 
+absolute values. 
+Part 1 – Uncertainty in baseline estimates 
+𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝐵𝑆𝐿,𝑖= 
+√(𝑈𝐵𝑆𝐿,𝑆𝑆1,𝑖×𝐸𝐵𝑆𝐿,𝑆𝑆1,𝑖)2+ (𝑈𝐵𝑆𝐿,𝑆𝑆2,𝑖 ×𝐸𝐵𝑆𝐿,𝑆𝑆2,𝑖)2…+...(𝑈𝐵𝑆𝐿,𝑆𝑆𝑛,𝑖×𝐸𝐵𝑆𝐿,𝑆𝑆𝑛,𝑖)2
+𝐸𝐵𝑆𝐿,𝑆𝑆1,𝑖+𝐸𝐵𝑆𝐿,𝑆𝑆2,𝑖…+...𝐸𝐵𝑆𝐿,𝑆𝑆𝑛,𝑖
+ (87)
+ 
+ 
+Where: 
+UncertainBSL,i 
+= Percentage uncertainty in the combined carbon stocks and GHG sources  
+ 
+  
+in the baseline scenario in stratum i; % 
+UBSL,SS,i   
+= Percentage uncertainty (expressed as 90% confidence interval as a  
+ 
+ 
+percentage of the mean, where appropriate) for carbon stocks and GHG  
+ 
+ 
+sources in the baseline scenario in stratum i (1,2…n represent different  
+ 
+ 
+carbon pools and/or GHG sources); %  
+EBSL,SS,i   
+= Carbon stock or GHG sources (e.g., trees, down dead wood) in stratum i  
+ 
+  
+(1,2…n represent different carbon pools and/or GHG sources) in the baseline  
+ 
+  
+scenario; t CO2e  
+i 
+  
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+To assess uncertainty across combined strata, use the equation below: 
+𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝐵𝑆𝐿= 
+√(𝑈𝐵𝑆𝐿,2×𝐴1)2+(𝑈𝐵𝑆𝐿,2×𝐴2)2…+...(𝑈𝐵𝑆𝐿,𝑀𝐵𝑆𝐿×𝐴𝑀𝐵𝑆𝐿)2
+𝐴1+𝐴2…+...𝐴𝑀𝐵𝑆𝐿
+ 
+ 
+ 
+ 
+(88) 
+ 
+VM0033, v2.1 
+63 
+Where: 
+UncertainBSL 
+ 
+= Total uncertainty in baseline scenario; % 
+UBSL,i 
+  
+ 
+= Uncertainty in baseline scenario in stratum i; %  
+Ai 
+  
+ 
+= Area of stratum i; ha  
+i 
+  
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+ 
+Part 2 – Uncertainty ex-post in the project scenario 
+𝑼𝒏𝒄𝒆𝒓𝒕𝒂𝒊𝒏𝑾𝑷𝑺,𝒊= 
+√(𝑼𝑾𝑷𝑺,𝑺𝑺𝟏,𝒊×𝑬𝑾𝑷𝑺,𝑺𝑺𝟏,𝒊)𝟐+ (𝑼𝑾𝑷𝑺,𝑺𝑺𝟐,𝒊 ×𝑬𝑾𝑷𝑺,𝑺𝑺𝟐,𝒊)𝟐…+...(𝑼𝑾𝑷𝑺,𝑺𝑺𝒏,𝒊×𝑬𝑾𝑷𝑺,𝑺𝑺𝒏,𝒊)𝟐
+𝑬𝑾𝑷𝑺,𝑺𝑺𝟏,𝒊+𝑬𝑾𝑷𝑺,𝑺𝑺𝟐,𝒊…+...𝑬𝑾𝑷𝑺,𝑺𝑺𝒏,𝒊
+ 
+(89) 
+Where: 
+UncertainWPS,i 
+ 
+= Percentage uncertainty in the combined carbon stocks and GHG  
+ 
+ 
+ 
+sources in the project scenario in stratum i; % 
+UWPS,SS,i   
+ 
+= Percentage uncertainty (expressed as 90% confidence interval as a  
+ 
+  
+ 
+percentage of the mean, where appropriate) for carbon stocks and GHG  
+ 
+  
+ 
+sources in the project scenario in stratum i (1,2…n represent different  
+ 
+  
+ 
+carbon pools and/or GHG sources); %  
+EWPS,SS,i   
+ 
+= Carbon stock or GHG sources (e.g., trees, down dead wood, etc.) in  
+ 
+  
+ 
+stratum i (1,2…n represent different carbon pools and/or GHG sources)  
+ 
+  
+ 
+in the project scenario; t CO2e  
+i 
+  
+ 
+= 1, 2, 3 …MWPS strata in the project scenario 
+To assess uncertainty across combined strata, use the equation below: 
+𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝑊𝑃𝑆= 
+√(𝑈𝑊𝑃𝑆,2×𝐴1)2+(𝑈𝑊𝑃𝑆,2×𝐴2)2…+...(𝑈𝑊𝑃𝑆,𝑀𝑊𝑃𝑆×𝐴𝑀𝑊𝑃𝑆)2
+𝐴1+𝐴2…+...𝐴𝑀𝑊𝑃𝑆
+ 
+ 
+ 
+(90) 
+Where: 
+UncertainWPS 
+ 
+= Total uncertainty in project scenario; % 
+UWPS,i 
+  
+ 
+= Uncertainty in project scenario in stratum i; %  
+Ai 
+  
+ 
+= Area of stratum i; ha  
+i 
+  
+ 
+= 1, 2, 3 …MWPS strata in the project scenario 
+Part 3 – Total error in project activity 
+𝑁𝐸𝑅𝐸𝑅𝑅𝑂𝑅= 
+√(𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝐵𝑆𝐿×𝐺𝐻𝐺𝐵𝑆𝐿)2+(𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝑊𝑃𝑆×𝐺𝐻𝐺𝑊𝑃𝑆)2
+𝐺𝐻𝐺𝐵𝑆𝐿+𝐺𝐻𝐺𝑊𝑃𝑆
+ 
+ 
+ 
+(91) 
+Where: 
+NERERROR  
+ 
+= Total uncertainty for project activity; % 
+UncertainBSL 
+ 
+= Total uncertainty in baseline scenario; %  
+UncertainWPS 
+ 
+= Total uncertainty in the project scenario; % 
+GHGBSL   
+ 
+= Net CO2e emissions in the baseline scenario up to year t*; t CO2e 
+GHGWPS   
+ 
+= Net CO2e emissions in the project scenario up to year t*; t CO2e 
+ 
+VM0033, v2.1 
+64 
+The allowable uncertainty is 20% or 30% of NERt at a 90% or 95% confidence level, 
+respectively. Where this precision level is met, no deduction must result for uncertainty. Where 
+this precision level is exceeded, a deduction equal to the amount that the uncertainty exceeds 
+the allowable level must be applied. The adjusted value for NERt to account for uncertainty 
+must be calculated as: 
+adjusted_NERt = NERt x (100% - NERERROR + allowable_uncert)  
+ 
+ 
+(92) 
+Where: 
+adjusted_NERt 
+ 
+= Net GHG emission reductions in year t adjusted to account for  
+ 
+ 
+ 
+uncertainty; t CO2e  
+NERt 
+ 
+ 
+= Total net GHG emission reductions from the project activity up to year  
+ 
+ 
+ 
+t; t CO2e  
+NERERROR 
+ 
+= Total uncertainty for WRC project activity; % 
+allowable_unsert  
+= Allowable uncertainty; 20% or 30% at a 90% or 95% confidence level,  
+ 
+ 
+ 
+respectively; % 
+ Calculation of Verified Carbon Units 
+In order to calculate the number of Verified Carbon Units (VCUs) that may be issued, the project 
+proponent must consider the number of buffer credits which must be deposited in the AFOLU 
+pooled buffer account. The number of buffer credits which must be deposited in the AFOLU 
+pooled buffer account is based on the net change in carbon stocks. 
+The number of verified carbon units (VCUs) is calculated as: 
+𝑉𝐶𝑈𝑡2 = (𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑𝑁𝐸𝑅𝑡2 −𝑎𝑑𝑗𝑢𝑠𝑡𝑒𝑑_𝑁𝐸𝑅𝑡1) × 𝐵𝑢𝑓𝑓𝑒𝑟𝑤𝑡2
+ 
+ 
+ 
+ 
+(93) 
+ 
+Where: 
+ 
+VCUt2 
+ 
+ 
+= Number of VCUs in year t2 
+ 
+ 
+adjusted_NER t1  
+= Total net GHG emission reductions from the project activity up to year  
+ 
+ 
+ 
+ 
+t1 adjusted to account for uncertainty; t CO2e  
+ 
+adjusted_NERt2  
+= Total net GHG emission reductions from the project activity up to year  
+ 
+ 
+ 
+ 
+t2 adjusted to account for uncertainty; t CO2e  
+ 
+Bufferwt2 
+ 
+= Number of buffer credits to be contributed to the AFOLU pooled buffer  
+ 
+ 
+ 
+ 
+account in year t2 
+𝐵𝑢𝑓𝑓𝑒𝑟𝑡2 = (𝑁𝐸𝑅𝑠𝑡𝑜𝑐𝑘,𝑡2 −𝑁𝐸𝑅𝑠𝑡𝑜𝑐𝑘,𝑡1) × 𝐵𝑢𝑓𝑓𝑒𝑟%𝑡2 
+ 
+ 
+ 
+ 
+(94) 
+Where: 
+Bufferwt2  
+ 
+= Number of buffer credits to be contributed to the AFOLU pooled buffer  
+ 
+  
+ 
+account in year t2 
+ 
+NERstock, t1 
+ 
+= Net GHG emission reductions from the project activity up to year t1,  
+ 
+  
+ 
+discarding non-CO2 emissions from soil and biomass burning and  
+ 
+  
+ 
+emissions from fossil fuel use; t CO2e  
+NERstock, t2 
+ 
+= Net GHG emission reductions from the project activity up to year t2,  
+ 
+VM0033, v2.1 
+65 
+ 
+  
+ 
+discarding non-CO2 emissions from soil and biomass burning and  
+ 
+  
+ 
+emissions from fossil fuel use; t CO2e  
+Buffer%t2  
+ 
+= Percentage of buffer credits to be contributed to the AFOLU pooled  
+ 
+  
+ 
+buffer account in year t2; % 
+The percentage of buffer credits to be contributed to the AFOLU pooled buffer account must be 
+determined by applying the latest version of the VCS AFOLU Non-Permanence Risk Tool.

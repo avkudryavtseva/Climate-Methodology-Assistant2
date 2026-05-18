@@ -1,0 +1,68 @@
+1 SUMMARY DESCRIPTION 
+Table 1: Additionality and crediting baseline methods 
+Additionality,Crediting Method and Mitigation Outcome 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+Mitigation Outcome 
+Reductions and Removals 
+This agricultural land management (ALM) methodology provides procedures to estimate the 
+greenhouse gas (GHG) emission reductions (CO2, CH4, and N2O) and carbon dioxide removals 
+(reductions and removals) resulting from the adoption of improved ALM practices. The 
+methodology is compatible with regenerative agriculture and has a particular focus on 
+increasing soil organic carbon (SOC) storage. 
+The crediting baseline and additionality are determined via a project method (Table 1). The 
+baseline scenario assumes the continuation of pre-project ALM practices. Practices in the 
+baseline scenario are determined by applying a minimum three-year historical look-back period 
+to produce an annual schedule of activities (i.e., tillage, planting, harvest, and fertilization 
+events) for each quantification unit within the project area (e.g., for each field), to be repeated 
+over the baseline period.1 Baseline emissions/stock changes are then modeled. Alternatively, 
+baseline SOC stock change may be directly measured in “baseline control sites” managed 
+according to pre-project practices as set out in the schedule of activities. The baseline scenario 
+is re-evaluated as required by the most recent version of the VCS Standard, and revised, where 
+necessary, to reflect current agricultural production in the region. 
+Additionality is demonstrated by a barrier analysis and showing that the practice change 
+implemented under the project activity is not common practice. A practice change constitutes 
+any of the following: 
+• 
+Adoption of a new practice (e.g., adoption of one or more of the practices covered in the 
+categories included in Applicability Condition 1); 
+• 
+Cessation of a pre-existing practice (e.g., stop tillage or irrigation); 
+• 
+Adjustment to a pre-existing practice; or  
+• 
+Some combination of the above.  
+ 
+1 Project proponents must reassess ALM project baselines every ten years or every five years, where regional practice 
+changes are more frequent and/or data becomes available to update the baseline. See the most recent version of the 
+VCS Standard for further details on baseline reassessment requirements.  
+ 
+VM0042, v2.2 
+ 6 
+ 
+ 
+Any quantitative adjustment (e.g., decrease in fertilizer application rate) must exceed 5% of the 
+pre-existing value to qualify as a practice change. 
+The methodology provides three approaches to quantifying reductions and removals resulting 
+from the adoption of improved ALM practices. 
+Quantification Approach 1: Measure and Model – a biogeochemical, process-based model is 
+used to estimate GHG fluxes related to SOC stock changes, soil methanogenesis, and use of 
+nitrogen fertilizers and nitrogen-fixing species. Edaphic characteristics and actual agricultural 
+practices implemented, measured initial SOC stocks, and climatic conditions in sample fields 
+are used as model inputs. Periodic measurements of SOC stocks are required every five years 
+at minimum (see Table 8). 
+Quantification Approach 2: Measure and Re-Measure – direct measurement is used to quantify 
+changes in SOC stocks. This approach is relevant where models are unavailable or have not yet 
+been validated or parameterized for a particular region, crop, or practice, or where project 
+proponents prefer to use a direct measurement approach for SOC stock change. Quantification 
+Approach 2 directly measures SOC stock changes in the baseline scenario in linked baseline 
+control sites. 
+Quantification Approach 3: Default Factors – CO2 flux from fossil fuel combustion and N2O and 
+CH4 fluxes, excluding CH4 flux from methanogenesis, are calculated using default emission 
+factors. 
+The quantification approach varies by emission/removal type. Approaches to quantification of 
+contributing sources of CO2, CH4, and N2O emissions are listed in Table 5. 
+Project proponents must use the templates available on the VM0042 webpage to prepare the 
+documents required for project validation and verification.

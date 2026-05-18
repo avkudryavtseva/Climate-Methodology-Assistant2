@@ -1,0 +1,115 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Activity method 
+Crediting Baseline 
+Project method 
+ 
+Wetland restoration occurs sporadically throughout the world primarily to create wildlife habitat, 
+restore water quality and quantity levels and provide storm protection and food production. 
+However, wetland restoration also provides the additional benefits of greenhouse gas (GHG) 
+emission reductions and climate change mitigation.  
+This methodology outlines procedures to estimate net greenhouse gas emission reductions and 
+removals resulting from project activities implemented to restore tidal wetlands. Such activities 
+may include creating, restoring, and/or managing hydrological conditions, sediment supply, 
+salinity characteristics, water quality and/or native plant communities. Accordingly, this 
+methodology is applicable to a wide range of project activities aimed at restoring and creating 
+tidal wetlands, and emission reductions and removals are estimated primarily based on the 
+ecological changes that occur as a result of such activities (e.g., increased vegetative cover, 
+changes to water table depth). 
+This methodology also addresses the potential for the establishment of woody vegetation. As 
+such, this methodology is categorized as a Restoring Wetland Ecosystems (RWE) and 
+Afforestation, Reforestation and Revegetation (ARR) methodology. 
+Project activities are expected to generate GHG emission reductions and removals through: 
+• 
+Increased biomass 
+• 
+Increased autochthonous soil organic carbon 
+• 
+Reduced methane and/or nitrous oxide emissions due to increased salinity or changing 
+land use 
+• 
+Reduced carbon dioxide emissions due to avoided soil carbon loss 
+This methodology is applicable to projects located globally, and to all tidal wetland systems (i.e., 
+tidal forests (such as mangroves), tidal marshes and seagrass meadows). For the additionality 
+assessment, an activity method is used. A project method is used with respect to the crediting 
+baseline for all projects. 
+ 
+VM0033, v2.1 
+6 
+For strata with organic soil, this methodology sets out procedures for the estimation of peat 
+depletion time (PDT). Likewise, for strata with mineral soils and sediments, this methodology 
+provides procedures for the estimation of soil organic carbon depletion time (SDT). This 
+methodology also includes an assessment of the maximum quantity of GHG emission 
+reductions which may be claimed from the soil organic carbon (SOC) pool (either based on the 
+difference between the remaining soil organic carbon stock in the project and baseline 
+scenarios after 100 years (total stock approach), or the difference in cumulative carbon loss in 
+both scenarios since the project start date (stock loss approach)).  
+To estimate carbon stock changes in tree and shrub biomass, this methodology uses 
+procedures from CDM tool AR-Tool14 Estimation of carbon stocks and change in carbon stocks 
+of trees and shrubs in A/R CDM project activities. This methodology also provides a method to 
+account for carbon stock changes in herbaceous vegetation. 
+Since biomass may be lost due to subsidence following sea level rise, restoration projects 
+involving afforestation or reforestation may account for long-term carbon storage in wood 
+products where trees are harvested before dieback. 
+GHG emissions from the SOC pool are estimated by assessing emissions of CO2, CH4 and N2O, 
+which may be estimated via several methods (e.g., proxies, modeling, default factors, local 
+published values). Where allochthonous SOC accumulates in the project scenario, a procedure 
+is provided to deduct such carbon from net emission reductions. 
+Proxies for emissions from the SOC pool may include water table depth and soil subsidence (for 
+which procedures from other methodologies and modules are used) and carbon stock change. 
+For non-seagrass tidal wetland systems, a default factor may be used in the absence of local 
+data. 
+CH4 and N2O emissions in the baseline scenario may be conservatively set to zero. Where the 
+project proponent demonstrates that CH4 or N2O emissions do not increase in the project 
+scenario compared to the baseline scenario, these emissions need not be accounted for. 
+This methodology also addresses anthropogenic peat fires occurring in drained areas and 
+establishes a conservative default value (Fire Reduction Premium) based on fire occurrence 
+and extension in the project area in the baseline scenario. The procedure is based on VCS 
+module VMD0046 Methods for monitoring soil carbon stock changes and GHG emissions in 
+WRC project activities. The approach avoids the direct assessment of GHG emissions from fire 
+in the baseline and project scenarios.  
+This methodology also includes procedures to account for GHG emissions from prescribed 
+burning (using literature-based emission factors for non-CO2 GHGs) and fossil fuel use (by 
+incorporating procedures from the CDM tool AR-Tool05 Estimation of GHG emissions related to 
+fossil fuel combustion in A/R CDM project activities). 
+ 
+VM0033, v2.1 
+7 
+This methodology includes procedures for the consideration of sea level rise with respect to 
+determining the geographic boundaries of the project area, and the determination of the 
+baseline scenario and baseline emissions. 
+Activity-shifting leakage and market leakage are deemed not to occur if the applicability 
+conditions of this methodology are met. Furthermore, activity-shifting leakage and market 
+leakage are deemed not to occur if the pre-project land use will continue during the project 
+crediting period. 
+Under the applicability conditions of this methodology, ecological leakage does not occur by 
+ensuring that the effect of hydrological connectivity with adjacent areas is insignificant (i.e., no 
+alteration of mean annual water table depths will occur in such areas). In tidal wetland 
+restoration projects, de-watering downstream wetlands is not expected. 
+This methodology provides the steps necessary for estimating the project’s net GHG benefits, 
+as represented by the equation below: 
+NERRWE = GHGBSL – GHGWPS + FRP – GHGLK 
+ 
+ 
+ 
+ 
+ 
+Where: 
+NERRWE   
+= Net CO2e emission reductions from the RWE project activity 
+GHGBSL   
+= Net CO2e emissions in the baseline scenario 
+GHGWPS   
+= Net CO2e emissions in the project scenario 
+FRP 
+  
+= Fire Reduction Premium (net CO2e emission reductions from organic soil  
+ 
+  
+combustion due to rewetting and fire management) 
+GHGLK 
+ 
+ 
+= Net CO2e emissions due to leakage

@@ -1,0 +1,82 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary is all lands on which the proposed rice cultivation 
+activities will be implemented.  
+GHG sources included in the project boundary in the baseline and project scenario are listed in 
+Table 2 below.  
+Table 2. GHG sources included in or excluded from the baseline and project scenarios 
+Source 
+GHG 
+Included? 
+Justification/Explanation 
+Soil 
+methanogenesis 
+CH4 
+Yes 
+Changes in levels of anoxic conditions in soils lead to 
+significant changes in soil methanogenesis. This is 
+the dominant GHG source under this methodology. 
+Fossil fuels 
+CO2 
+S* 
+Where there are changes in the use of equipment 
+such as tractors, seeders, harvesters, or irrigation 
+pumps, these changes may result in material 
+increases or decreases in CO2 emissions associated 
+with the combustion of fossil fuels.  
+Liming 
+CO2 
+S* 
+Application of limestone or dolomite for soil 
+amelioration may represent a significant source of 
+CO2. 
+Enteric 
+fermentation 
+CH4 
+No 
+Projects that are expected to result in material 
+changes in livestock management are not eligible 
+under this methodology. Projects that seek credits for 
+livestock management changes should use VM0042. 
+Manure deposition 
+N2O 
+CH4 
+No 
+Projects that are expected to result in material 
+changes in livestock management are not eligible 
+under this methodology. Projects that seek credits for 
+livestock management changes should use VM0042. 
+Use of nitrogen 
+fertilizers and 
+nitrogen derived 
+from crop residue 
+(i.e., rice straw) 
+incorporated into 
+soils 
+N2O 
+Yes 
+N2O attributed to changes in irrigation must be 
+included in all projects.  
+S* 
+Where nitrogen fertilization rate and/or nitrogen 
+returned to soils from crop residues is greater in the 
+monitoring period than the baseline scenario, such 
+N2O emissions must be included in the project 
+boundary.  
+Biomass burning 
+CH4 
+S* 
+Biomass burning releases CH4. 
+ 
+5 Projects that seek credits for CO2 removals due to use of biochar should use VM0044 Methodology for Biochar 
+Utilization in Soil and Non-Soil Applications. 
+ 
+VM0051, v1.0 
+ 
+ 
+12 
+N2O 
+S* 
+Biomass burning releases N2O. 
+S* – Must be included where the project activity significantly increases total GHG emissions by more than 5% 
+compared to the baseline scenario (i.e., emissions are not de minimis) and may be included where the project 
+activity reduces total GHG emissions by more than 5% compared to the baseline scenario.

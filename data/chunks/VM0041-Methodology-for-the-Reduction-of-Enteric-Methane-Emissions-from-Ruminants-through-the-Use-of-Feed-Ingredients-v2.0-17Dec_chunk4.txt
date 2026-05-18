@@ -1,0 +1,64 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to project activities that reduce enteric methane (CH4) emissions 
+through the inhibition or reduction of methanogenesis, achieved by the introduction of a feed 
+ingredient into ruminant diets. 
+This methodology is applicable under the following conditions: 
+1) Livestock producers must feed their animals a feed ingredient that reduces enteric CH4 
+emissions by direct inhibition or suppression of methanogens in the rumen or by modifying 
+the rumen environment. 
+2) Only ruminant animals are included in the project. 
+3) The project feed ingredient must meet the following conditions: 
+a) The feed ingredient must have been demonstrated to comply with all feed and food 
+regulations in each national or subnational (including local) jurisdiction in which it 
+ 
+2 FAO (2018). Shaping the Future of Livestock. The 10th Global Forum for Food and Agriculture, Berlin, January 18–20, 
+2018. Available at http://www.fao.org/3/i8384en/I8384EN.pdf. 
+ 
+VM0041, Version 2.0 
+7 
+is consumed. Where conflict arises among regulations, the most stringent standard 
+must apply. 
+b) The feed ingredient must have no negative health impacts on the animal to which it 
+is fed. This must be shown through regulatory approval and the submission of 
+published evidence demonstrating no negative impacts on animal health when 
+administered in accordance with its intended conditions of use. 
+c) The feed ingredient must be used as per feeding instructions provided by the 
+manufacturer. The instructions must define the critical conditions needed to 
+secure the default level of reduction in enteric methane emissions, such as the 
+feeding routine and dose of ingredient per kilogram of dry matter intake (DMI) by 
+the animal. 
+4) Emission reductions generated using other feed ingredients and/or activities (e.g., 
+improving animal productivity or nutritional and management strategies), where the use is 
+not specific to the inhibition or suppression of methanogenesis, cannot be claimed through 
+this methodology. This is to prevent overestimation of emission reductions. 
+5) The implementation of project activities must confirm that the herd of ruminants in a given 
+operation is fed the feed ingredient. For this purpose, the project proponent must be able 
+to trace the feed ingredient fed to livestock from the producer to on-farm consumption. 
+6) Evidence must be provided that there will be no increase in manure emissions due to the 
+feed ingredient. This may be demonstrated by one of the following: 
+a) Documentation of on-farm data showing no significant differences in manure 
+composition due to feed ingredient consumption, or 
+b) A published study that documents feed efficiency, particularly related to energy 
+and nitrogen. 
+Where there are significant increases in manure emissions, the ingredient may still be 
+used but the project must account for CH4 and N2O emissions from manure using IPCC Tier 
+2 recommended estimation methods. 
+7) Baseline emissions included in this methodology consist of CH4 production from enteric 
+fermentation and are determined as the average activity over at least three continuous 
+years prior to project implementation. Therefore, project activities are required to meet the 
+following conditions:  
+a) Where project areas involve livestock farms that were operating prior to the start 
+of project activities, reliable data (e.g., feed intake in the form of energy or dry 
+matter, nutrient composition of feed) for each animal group must be available for 
+a minimum of two years when using baseline emissions Option 1, and three years 
+when using baseline emissions Option 2. See Section 8.1 for further details on 
+options for quantifying baseline emissions. 
+ 
+VM0041, Version 2.0 
+8 
+b) Where project areas involve livestock farms for which no farm records nor farming 
+data are available, the project proponent must be able to provide evidence to 
+substantiate the animal group (i.e., animal type, production phase) to which each 
+new project area is allocated, according to the average group as described in 
+national or regional statistical accounts (i.e., baseline emissions will be 
+considered to be the average activity in the area in which the project is located).

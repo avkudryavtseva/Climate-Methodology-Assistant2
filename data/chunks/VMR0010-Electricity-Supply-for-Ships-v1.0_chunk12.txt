@@ -1,0 +1,46 @@
+10 REFERENCES 
+No change from AMS-III.BP. 
+ 
+VMR0010, v1.0 
+ 
+9 
+APPENDIX 1: ACTIVITY METHOD 
+The positive list was established using the Activity Method - Option A: Activity Penetration described in 
+the VCS Methodology Requirements. The activity penetration option requires that less than 5 percent of 
+ships use off-shore power buoys in one calendar year.   
+The activity penetration is equal to:  
+�㌵�㌵! = �㌵�㌵! �㌵�㌵�㌵!
+⁄
+ 
+(1) 
+Where:  
+APy 
+= Activity penetration of project activity in year y (percent) 
+OAy 
+= Observed adoption of project activity in year y (e.g., total number of instances 
+installed at a given date in year y, or amount of energy supplied in year y) 
+MAPy 
+= Maximum adoption potential of the project activity in year y (e.g., total number of 
+instances that could have been installed at a given date in year y, or the amount of 
+energy that could have been supplied in year y) 
+At the time of assessing the activity penetration level, there have been no instances of off-shore 
+electricity supply to ships while they are not at a dock. The off-shore electricity supply system concept is 
+a completely new technology; thus, OA is zero.  
+The total MAP is determined by looking at the total number of large ships (greater than 1000 Gt), which 
+includes container vessels, tankers and other large vessels. According to Infomaritime.eu, the total 
+number of vessels that fit into this category in 2021 was 53 973.1 Off-shore electrification projects will 
+remain on the positive list until 2700 ships (5 percent of the total) use a power buoy at least once in a 
+calendar year, at which point the 5 percent activity penetration rate will have been reached. The total 
+number of ships using power buoys compared to the total global fleet of ships is an appropriate way to 
+determine the activity penetration rate.  
+Another way to approach the penetration rate is the percentage of idle time by all ships globally relative 
+to the time these ships are connected to an off-shore electrification source. However, off-shore idling 
+times are typically not published. Given that there are no off-shore electrification sources at the time of 
+determining the activity penetration level, it may be assumed that the duration for which ships are 
+connected to such a source is less than 5 percent of the total idling hours (MAP).   
+ 
+ 
+1 infomaritime.eu (2021) World merchant fleet and top 15 shipowning countries. 
+http://infomaritime.eu/index.php/2021/08/22/top-15-shipowning-countries/  
+ 
+VMR0010, v1.0

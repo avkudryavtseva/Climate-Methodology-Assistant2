@@ -1,0 +1,294 @@
+74 
+CIS 
+80 
+Europe 
+76 
+Japan, Australia and New Zealand 
+83 
+Latin America 
+74 
+North America 
+84 
+World (any areas of the world not including the 
+locations listed above).  
+78 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+52 
+APPENDIX IV: ADDITIONAL 
+INFORMATION ON TESTING AMOUNT 
+OF CO2 STORED IN CONCRETE 
+ 
+Concrete is generically comprised of coarse aggregate (stone), fine aggregate (sand), cement, and 
+water. The injected CO2 will be mineralized through a chemical reaction with the cement or cement 
+replacement.  To quantify the mineralized CO2, project proponents must use carbon analyzers that 
+are currently available and common in the industry.   
+The operating principle behind a carbon analyzer (often the device is used also to detect sulfur in 
+solid materials) involves heating of a sample in oxygen rich environment to oxidize carbon and 
+sulfur content of sample material to generate carbon monoxide, carbon dioxide and sulfur dioxide 
+respectively. These gases are then passed through detection cells to measure content of carbon 
+and sulfur. The measured data are compared with the mass of sample to identify content of 
+respective elements in sample. The residual gas is finally discharged out.  The results can be 
+compared to the mass of the sample in order to determine a mass percentage of carbon and 
+sulphur. Different companies supply these advanced analyzers with an infrared detection system for 
+analyzing the percentage of carbon and sulphur in combustion gases. 
+According to the companies that manufacture these detectors, carbon content can be measured 
+from 0.0001% to 6%.  The device’s software16 displays analytical results in terms of the percentage 
+of carbon and sulphur detected.  Carbon content can be determined with a high level of precision in 
+a wide range of materials, such as steel, cast iron, alloy, metal ore, ceramics, cement, lime, rubber, 
+coal, coke, refractory, carbide, graphite, oil, catalyst, soil and other solid materials. The analyzers 
+typically have two options – a resistance furnace and a high frequency induction furnace.  Both 
+share the same infrared detection system for analyzing the percentage of carbon in combustion 
+gases.   
+For each mix design– for both the baseline and the project concrete – the project proponent must  
+conduct a minimum of three analyzer tests. Each test must reveal a carbon content that is within 
+10% of the other two tests, or the project proponent should continue testing until three results 
+within 10% of each other are obtained.  If the project is installed in a new concrete facility, as 
+opposed to an existing facility, where baseline concrete was not previously produced, then the 
+concrete manufacturer would produce samples NOT using the project equipment and develop 
+samples with the equivalent or better  compressive strength or functional equivalence as the post-
+project concrete.  Thus, there can be an "apples to apples” comparison. 
+The actual test result used in the calculations of quantity of CO2 stored must be the lowest of the 
+three samples for the project concrete and highest of the three results for the baseline concrete – 
+thus ensuring the most conservative result.  All test procedures and results will be made available 
+ 
+16 See-ELTRA CHS Analyzers 
+ 
+VM0043, v1.1  
+ 
+53 
+to the validation/verification body. The test result is then extrapolated to all of the concrete produced 
+for that project design mix in year y as shown in Equations 4a and 4b.  The baseline concrete test 
+results are reflected in the variable Cbaseline sample,i,y.  The project concrete test results are reflected in 
+the variable Cproject sample,i,y. 
+It is recommended that concrete samples should be acquired at the earliest time upon which the 
+carbonate reaction is expected to be complete, before the sample sets. If the input sample is fully 
+representative of the complete concrete composition, the result can be expressed in a 
+straightforward manner as an amount of carbon or CO2 per unit of concrete. The results are 
+compared to a baseline carbon content of an equivalent concrete that has not been produced using 
+carbon dioxide.    
+For example, a concrete sample that is analyzed to have a net increase in carbon of 0.05% by mass 
+concrete translates to one cubic meter (m3) of concrete (typically about 2400 kg) contains 1.2 kg of 
+carbon. A conversion from carbon to CO2 by multiplying by the ratio of their molar masses (44 for 
+CO2, 12 for C) would result in a conclusion of 4.4 kg of CO2 per m3 of concrete.   
+If the mineralized CO2 is in low abundance (1% or less by weight of cement) with respect to the 
+concrete then project proponents have the option of minimizing the analysis of the components that 
+are not reacting with CO2. The sample can be processed to increase the fraction of the cement 
+paste fraction by, for example, removing coarse aggregates.  Then the same test can be performed 
+on the baseline and post-project materials (in this case without the aggregates that would not react 
+with CO2 in the project scenario).   
+One percent by weight of cement is around 0.1% by weight of concrete (assuming the concrete is 10% 
+by mass cement). Thus, if one starts with concrete then it would be hard to measure the CO2. But if 
+one can process the concrete to have a sample that is mostly cement (removing aggregate) then the 
+denominator changes and the abundance of what is measured goes up – thus making it easier to 
+quantify.   
+Sampling in this manner can be done in two states: 1) on fresh concrete, where the mortar (cement 
+and sand) is separated from the aggregates; and 2) when the concrete has hardened where a 
+sample can be crushed -- as long as the coarse aggregates are not crushed.  The testing procedure 
+should be clearly spelled out for the verifier with results made available.  Project proponents may 
+want to consider videoing a sample test to make it easier for a verifier to understand the procedure.  
+The project proponent should also clearly describe and show calculations for how the test results in 
+terms of carbon content of the sample are scaled up to account for this processing step.  
+ 
+VM0043, v1.1  
+ 
+54 
+APPENDIX V:  DEFAULT FACTOR FOR 
+EMISSIONS INTENSITY OF LIQUID CO2 
+PROCESSING  
+ 
+As the analysis below shows, the energy required to capture and compress CO2 into a liquid form 
+can be generalized.  This default is much more energy-intensive than capturing the gas and putting 
+it in a pipeline, so this option would be more conservative if also applied to transporting the CO2 
+through a pipeline.   
+According to the 2017 US Merchant CO2 Report, the largest source of CO2 is from ethanol plants 
+(34%).  Hydrogen refining and ammonia production are also significant sources of CO2 supply.  The 
+reference book Industrial Gases Processing provides background on processing industrial gases.17  
+The table below indicates the CO2 partial pressures, with ethanol plants being the lowest.  This 
+represents the most conservative measure, as explained below. 
+  
+ 
+ 
+ 
+The figure below indicates the specific power demand (kWh/t liquid CO2) displayed against CO2 
+content in the feed gas (mol/mol). The partial pressure of an individual gas is equal to the total 
+pressure multiplied by the mole fraction of that gas, so partial pressure and mole fraction are 
+proportional. In the figure it is shown that above molar fractions of 0.8 there would be an energy 
+requirement of 200 kWh/tonne of liquid CO2.  If a higher pressure is used, then the kWh/tonne 
+number would be lower and thus less conservative.  For this reason, the 200 kWh/tonne figure is 
+the most conservative.    
+ 
+ 
+17 H.-W. Häring, ed., Industrial gases processing, Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim, 2008.     
+ 
+VM0043, v1.1  
+ 
+55 
+ 
+Source: H.-W. Häring, ed., Industrial gases processing, Wiley-VCH Verlag GmbH & Co. KGaA, 
+Weinheim, 2008.  
+ 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+56 
+APPENDIX VI:  DEFAULT EFFICIENCY OF 
+MINERALIZATION  
+ 
+To determine how much carbon dioxide that is introduced is actually mineralized into concrete, a 
+detailed technical study was conducted.18  For this study, an industrial carbon dioxide utilization 
+technology (CarbonCure) was installed at a ready-mix concrete producer. The work considered the 
+impact on 12 months of operation both in terms of the carbon dioxide converted during the concrete 
+production and to determine environmental impact of the technology and the avoided cement.     
+The carbon quantification involves three steps: sample collection and drying, separation, and carbon 
+analysis. A sample of freshly produced masonry concrete was collected from the production line and 
+dried with a hot plate. The sample was then sieved through an 80 μm sieve to both provide a 
+homogeneous sample for analysis as well as to increase the proportion of cement in the sample being 
+analyzed. The cement is the only reactive component in the concrete mixture; minimizing or excluding 
+the aggregates increases the signal in the subsequent measurement. The total carbon and sulphur 
+contents of the sieved fines were then measured using an Eltra CS-800 carbon and sulphur analyzer. 
+Any changes in total carbon relative to control samples were assumed to be a product of the 
+introduction of CO2 as all other variables were fixed. 
+Eight batches were produced with a CO2 addition and compared to a historical data set comprising 
+nine batches (produced across seven different days).  The average conversion was 93%. This is 
+attributable to random variations in sample proportions following drying and sieving of the concrete 
+and potentially an inherent heterogeneity of the fly ash. On average, the replicate CO2 measurements 
+had an average precision ±20% bwc.  The conversion rate in the environmental calculations was 
+assumed to be 93%. With 9.4 tons (8.5 tonnes) of CO2 utilized during the year production there were 
+8.7 tons (7.9 tonnes) mineralized through conversion to calcium carbonate.  
+For the purposes of this methodology, while the actual average conversion rate was quite high (93% 
+of the introduced CO2 was actually absorbed, there are scientific uncertainties and thus the default 
+efficiency for CO2 mineralization into the concrete will be set to a much lower level of 60%.   
+Although the technical study entails ready-mix concrete only, as a conservative measure, the resulting 
+default mineralization efficiency value is applicable to both ready-mix and pre-cast concrete products. 
+ 
+ 
+ 
+ 
+18 S. Monkman, Sustainable Ready Mixed Concrete Production Using Waste CO2: A Case Study, in: SP-
+330 Proceedings Fourteenth International Conference: Recent Advances in Concrete Technology and 
+Sustainability Issues, American Concrete Institute, Beijing, China, 2018: pp. 163–174.  See 
+https://www.concrete.org/store/productdetail.aspx?ItemID=SP330. 
+ 
+ 
+VM0043, v1.1  
+ 
+57 
+APPENDIX VII: RELATIONSHIP TO 
+APPROVED OR PENDING 
+METHODOLOGIES 
+ 
+Approved and pending methodologies under the VCS Program and approved GHG programs which fall 
+under the same sectoral scope were reviewed to determine whether an existing methodology could be 
+reasonably revised to meet the objective of the proposed methodology. Five methodologies were 
+identified under the same sectoral scope. Two were outside the scope, including VM0040 (sectoral 
+scope 3) and AM0027 (sectoral scope 5). These are all set out in Table 2. No other similar 
+methodologies under Verra or any other approved GHG program are applicable to project activities 
+which capture and use greenhouse gases to produce concrete, and thus no existing methodology can 
+be reasonably revised to meet the objective of this methodology.  
+Table 2: Similar Methodologies 
+Methodology Title 
+GHG 
+Program 
+Comments 
+VM0030 
+Methodology for 
+Pavement Application 
+using Sulphur 
+Substitute, v1.0 
+VCS 
+Not applicable to project activities that utilize 
+captured CO2 to manufacture concrete.  This 
+methodology uses sulphur substitute.  
+VM0031 
+Methodology for Precast 
+Concrete Production 
+using Sulphur 
+Substitute, v1.0  
+VCS 
+Not applicable to project activities that utilize 
+captured CO2 to manufacture concrete.  This 
+methodology uses sulphur substitute. 
+However, this methodology accepts the 
+general premise that less cement production 
+means lower emissions, an important concept 
+for this proposed methodology. 
+VM0040 
+Methodology for 
+Greenhouse Gas 
+Capture and Utilization 
+in Plastic Materials 
+VCS 
+Not applicable to project activities that utilize 
+captured CO2 to manufacture concrete.  This 
+methodology focuses only on plastic polymers. 
+AM0027 
+Substitution of CO2 from 
+fossil or mineral origin 
+by CO2 from renewable 
+sources in the 
+production of inorganic 
+compounds 
+CDM 
+Applicable only to projects that produce 
+inorganic compounds where fossil or mineral 
+sources of CO2 are presently used as an input 
+and where renewable sources of CO2 are 
+available as a substitute input in the project 
+activity case.  The initial project for this 
+methodology produced sodium and 
+ammonium bicarbonates in a process that 
+was integrated into a renewable biomass 
+plant. The processing of biomass and the 
+renewable energy component are specifically 
+listed in the applicability criteria, which is not 
+the case with the proposed methodology. In 
+addition, the sodium bicarbonate may not be 
+permanently sequestered, which is a 
+requirement for this proposed methodology. 
+AMS-III.BA 
+Recovery and recycling 
+of materials from E-
+Waste  
+CDM 
+Provides precedent for determining emission 
+reductions from the displacement of 
+production of conventional materials. 
+ 
+VM0043, v1.1  
+ 
+58 
+ACM0015 
+Emission reductions 
+from raw material switch 
+in clinker production 
+CDM 
+Not applicable to project activities that utilize 
+captured CO2 to manufacture concrete. 
+However, this methodology deals with 
+reducing cement content and adding other 
+materials, such as fly-ash. It should also be 
+noted that the use of supplemental 
+cementitious materials (SCM) that can 
+generate credits in other offset protocols 
+cannot count towards carbon credits in this 
+proposed protocol. 
+ACM0005 
+Increasing the Blend in 
+Cement Production 
+CDM 
+Applicable to projects that use increased 
+amounts of blended materials such as slag 
+and coal ash.  Not applicable to project 
+activities that utilize captured CO2 to 
+manufacture concrete.   
+ 
+ 
+ 
+ 
+VM0043, v1.1

@@ -1,0 +1,126 @@
+10 REFERENCES 
+Caldeira, C., De Laurentiis, V., Corrado, S., van Holsteijn, F., & Sala, S. (2019). Quantification of food 
+waste per product group along the food supply chain in the European Union: A mass flow analysis. 
+Resources, Conservation and Recycling, 149, 479–488. 
+https://doi.org/10.1016/j.resconrec.2019.06.011 
+Ciuła, J., Kozik, V., Generowicz, A., Gaska, K., Bak, A., Pázdzior, M., & Barbusiński, K. (2020). Emission 
+and neutralization of methane from a municipal landfill-parametric analysis. Energies, 13(23), 
+6254. https://doi.org/10.3390/en13236254 
+ 
+VM0046, v1.0 
+41 
+ 
+FLW Protocol (2016). Food Loss and Waste Accounting and Reporting Standard v1.1. World Resources 
+Institute. Available at: https://flwprotocol.org/wp-
+content/uploads/2017/05/FLW_Standard_final_2016.pdf 
+FLW Protocol (2021). Connecting Food Loss and Waste to Greenhouse Gas Emissions: Guidance for 
+Companies. World Resources Institute. Available at: https://flwprotocol.org/wp-
+content/uploads/2021/10/ConnectingFLWGHG-Emissions_GuidanceForCompanies.pdf 
+US Environmental Protection Agency (EPA) (2020). Documentation for Greenhouse Gas Emission and 
+Energy Factors Used in the Waste Reduction Model (WARM): Organic Materials Chapters. Available 
+at: https://www.epa.gov/sites/default/files/2020-
+12/documents/warm_organic_materials_v15_10-29-2020.pdf 
+WBCSD & WRI (2005). The GHG Protocol for Project Accounting. World Business Council for Sustainable 
+Development and World Resources Institute. Available at: 
+https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0046, v1.0 
+42 
+ 
+APPENDIX 1: FLW DESTINATIONS 
+The following destination definitions are adapted from the FLW Standard (FLW Protocol, 2016). 
+Codigestion/anaerobic digestion 
+Breaking down material via bacteria in the absence of oxygen. This process generates biogas and 
+nutrient-rich matter. Codigestion refers to the simultaneous anaerobic digestion of food loss and waste 
+and other organic material in one digester. This destination includes fermentation (converting 
+carbohydrates—such as glucose, fructose, and sucrose—via microbes into alcohols in the absence of 
+oxygen to create new products). 
+Composting/aerobic processes 
+Breaking down material via bacteria in oxygen-rich environments. Composting refers to the production of 
+organic material (via aerobic processes) to be used as a soil amendment. 
+Controlled combustion 
+Sending material to a facility that is specifically designed for combustion in a controlled manner, which 
+may include some form of energy recovery. This may also be referred to as incineration. 
+Land application 
+Spreading, spraying, injecting, or incorporating organic material onto or below the surface of the land to 
+enhance soil quality 
+Landfill 
+Sending material to an area of land or an excavated site that is specifically designed and built to receive 
+wastes 
+Not harvested/plowed-in 
+Leaving crops that were ready for harvest in the field or tilling them into the soil 
+Refuse/discards/litter 
+Abandoning material on land or disposing of it in the sea. This includes open dumps (i.e., uncovered, 
+unlined), open burning (i.e., not in a controlled facility), the portion of harvested crops eaten by pests, and 
+fish discards (the portion of total catch that is thrown away or slipped). 
+Sewer/wastewater treatment 
+Sending material down the sewer (with or without prior treatment), including that which may go to a 
+facility designed to treat wastewater 
+ 
+ 
+ 
+VM0046, v1.0 
+43 
+ 
+APPENDIX 2: GUIDANCE ON 
+REPRESENTATIVE FLW SAMPLING 
+FLW sampling is required in cases where no food or FLW records exist. Representative FLW sampling is 
+necessary to determine the amounts (wet mass) and water fraction (or conversely, dry matter content) of 
+the FLW flows and food streams recovered by project activities. This allows calculation of avoided GHG 
+emissions from keeping food in the human supply chain using this methodology. Representative FLW 
+sampling must be made to address the natural variability of FLW, in terms of: i) spatial variations; ii) 
+temporal variations; and iii) uncertainty or fundamental variation due to FLW heterogeneity. Addressing 
+variability and heterogeneity in a consistent and systematic manner may require sampling large amounts 
+of FLW, thereby increasing cost and effort. Hence, in practice, representative FLW characterization is a 
+compromise between limited resource availability and the need for generating robust and usable results.  
+ 
+Appendix A of the FLW Standard (2016) provides general guidance on sampling, including considerations 
+relevant to selecting a sampling approach, obtaining a sample that represents FLW production over time, 
+and determining an appropriate sample size. It also provides guidance on approaches for scaling up data, 
+which is required when the sample data do not cover the whole population and/or timeframe of the FLW 
+inventory. 
+ 
+Important aspects to consider when planning FLW sampling include: 
+1) Sample size: The amount of FLW that is retrieved from the primary lot depends on the 
+heterogeneity of the material and the size of the waste particles (e.g., homogeneous FLW may 
+require a sample size <100 kg, whereas FLW composed of multiple heterogeneous products may 
+require a larger sample size)32. 
+2) Number of subsamples: The number of subsamples included in the sample, where subsamples 
+originate for example from source points, depends on the size of the area surveyed and the level 
+of significant representativeness to be reached. For example, Nordtest (1995)33 recommends a 
+sample of 100–200 households when investigating waste composition in a defined community. 
+3) Number of repetitions: FLW may be linked to seasonality, hence repeated sampling may be 
+required to address temporal variation. Edjabou et al. (2018, 2019)34 recommend collection and 
+analysis of at least one sample per season where it is known that FLW may vary seasonally.  
+ 
+32 European Committee for Standardization (CEN) (2005). DS/EN 14899 Characterization of waste – Sampling of waste 
+materials – Framework for the preparation and application of a sampling plan. European Standard EN 14899. 
+ 
+33 Nordtest (1995). Municipal Solid Waste: Sampling and Characterisation. NT ENVIR 001. Nordtest Method. Espoo, 
+Finland. Available at: http://nordtest.info/images/documents/nt-
+methods/environment/NT%20envir%20001_Solid%20waste,%20municipal_Sampling%20and%20characterisation_Nordte
+st%20Method.pdf 
+34 Edjabou, M.E., Boldrin, A., & Astrup, T.F. (2018). Compositional analysis of seasonal variation in Danish residual 
+household waste. Resources, Conservation and Recycling, 130, 70–79. 
+https://doi.org/10.1016/j.resconrec.2017.11.013 
+ 
+VM0046, v1.0

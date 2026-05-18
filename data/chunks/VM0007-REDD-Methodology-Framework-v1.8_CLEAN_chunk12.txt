@@ -1,0 +1,524 @@
+8 QUANTIFICATION OF ESTIMATED GHG 
+EMISSION REDUCTIONS AND 
+REMOVALS 
+8.1 
+Baseline Emissions 
+8.1.1 General 
+Each activity type included in the project must estimate an individual baseline following the 
+provisions and specific modules mentioned below. Combined activities (i.e., REDD with a WRC 
+component) must develop a unique baseline considering peat or tidal wetland soils as the SOC 
+pool and incorporating the resulting emission estimates to the calculation of emissions and 
+carbon stock changes of the REDD activities. 
+ 
+VM0007, v1.8 
+29 
+The same procedure must be followed ex ante and ex post. For parameters that will be monitored 
+subsequent to project initiation, guidance is given in the parameter tables of the relevant 
+modules for the values that must be used in ex-ante calculations. 
+8.1.2 REDD 
+The baseline of the REDD project activity is estimated ex ante. It can be monitored in a reference 
+area (unplanned deforestation) or proxy area (planned deforestation) for the purpose of 
+periodically adjusting the baseline. Ex-ante baseline estimations are therefore used in both the 
+ex-ante and ex-post estimation of net carbon stock changes and greenhouse gas emission 
+reductions. 
+Methods for estimating net baseline carbon stock changes and greenhouse gas emissions are 
+provided in the following modules: 
+• 
+For planned deforestation/degradation: Module BL-PL 
+  
+• 
+For unplanned deforestation: Module BL-UP 
+ 
+ 
+8.1.3 WRC 
+Baseline net emissions from the SOC pool must be estimated using Module BL-PEAT or BL-TW, 
+whichever is relevant (see Table 3). For peat strata within tidal wetlands, Module BL-PEAT must 
+be used. 
+Socio-economic processes causing the degradation of wetlands are similar to those causing 
+deforestation or forest degradation. Therefore, for stand-alone CIW project activities (e.g., 
+conservation of salt marshes without a tree biomass component), similar methods for baseline 
+determination can be used as for REDD project activities. Stand-alone CIW as well as CIW-REDD 
+project activities use Module BL-TW or BL-PEAT (whichever is relevant) in conjunction with 
+Module BL-UP or BL-PL (whichever is relevant). 
+Stand-alone RWE project activities must use Module BL-PEAT or BL-TW (whichever is relevant) for 
+baseline net GHG emissions from the SOC pool. In case fossil fuel combustion is accounted for, 
+Module E-FFC must be used as well. RWE-REDD project activities must use Module BL-PEAT or 
+BL-TW for the estimation of baseline net GHG emissions from the SOC pool, and Module BL-UP or 
+BL-PL for all other pools and emissions. 
+8.2 
+Project Emissions 
+8.2.1 General 
+The same procedure must be followed ex ante and ex post. For parameters that will be monitored 
+subsequent to project initiation, guidance is given in the parameter tables of the relevant 
+modules for the values that must be used in ex-ante calculations. 
+ 
+VM0007, v1.8 
+30 
+8.2.2 REDD 
+Methods for estimating net carbon stock changes and GHG emissions in the project scenario are 
+provided in Module M-REDD. 
+ 
+8.2.3 WRC 
+Net GHG emissions from the SOC pool in the project scenario must be estimated using Module M-
+PEAT or M-TW (whichever is relevant). For peat strata within tidal wetlands, Module M-PEAT must 
+be used. 
+Stand-alone CIW and CIW-REDD project activities must use Module M-TW or M-PEAT (whichever is 
+relevant) for the estimation of project net emissions from the SOC pool, and Module M-REDD for 
+all other pools and emissions (where relevant). 
+Stand-alone RWE project activities must use Module M-PEAT or M-TW (whichever is relevant) for 
+project net GHG emissions from the SOC pool. Where fossil fuel combustion is accounted for, 
+Module E-FFC must be used as well. RWE-REDD project activities must use Module M-PEAT or M-
+TW (whichever is relevant) for the estimation of project net emissions from the SOC pool, and 
+Module M-REDD for all other pools and emissions. 
+8.3 
+Leakage 
+Leakage must be considered for all activities, using the following leakage modules: 
+• 
+For planned deforestation/degradation and planned wetland degradation: Module LK-
+ASP 
+ 
+• 
+For unplanned deforestation and unplanned wetland degradation: Module LK-ASU 
+ 
+• 
+For WRC project activities: Module LK-ECO 
+  
+For stand-alone CIW project activities, similar methods for leakage determination can be used as 
+for REDD project activities, and Module LK-ASU, LK-ASP or LK-ME (whichever is relevant) must be 
+used. 
+The significance of leakage and the significance of carbon pools must be determined using T-
+SIG or Appendix 1. 
+Where applicable, leakage due to market effects must be considered using Module LK-ME. 
+Market effects must be considered where the project leads to a decrease in the production of 
+timber, fuelwood, or charcoal. 
+Where leakage prevention activities include tree planting, aquacultural intensification, 
+agricultural intensification, fertilization, fodder production, other measures to enhance cropland 
+and/or grazing land areas, leakage management zones, or a combination of these, then any 
+ 
+VM0007, v1.8 
+31 
+significant increase in GHG emissions associated with these activities must be accounted for, 
+unless deemed de minimis, as determined using T-SIG or Appendix 1. 
+Leakage prevention activities may lead to an increase in fossil fuel combustion; however, any 
+increase in emissions is considered insignificant. 
+Where leakage prevention leads to a significant increase in the use of fertilizers, Module E-NA 
+must be used. T-SIG or Appendix 1 must be used to determine significance. 
+As per the applicability conditions, leakage prevention activities must not include the flooding of 
+agricultural lands (e.g., for new rice paddies) nor the creation of livestock feedlots and/or manure 
+lagoons. Leakage prevention must not include the drainage of peatland. 
+The list of leakage sources with appropriate justification must be presented. 
+Positive leakage is not accounted for. 
+8.4 
+Summary of GHG Emission Reduction and/or Removals 
+8.4.1 General 
+The total net greenhouse gas emissions reductions of the project are calculated as: 
+𝑁𝐸𝑅REDD+ =  𝑁𝐸𝑅REDD +  𝑁𝐸𝑅WRC 
+(1) 
+Where:  
+NERREDD+ 
+= Total net GHG emission reductions of the REDD+ project activity up to year t* 
+(tCO2e) 
+NERREDD 
+= Total net GHG emission reductions of the REDD project activity up to year t* 
+(tCO2e) 
+NERWRC 
+= Total net GHG emission reductions of the WRC project activity up to year t* 
+(tCO2e) 
+The project proponent must present conservative ex-ante estimations of the total net GHG 
+emissions reductions of the project activity. 
+For ex-ante estimations of specific parameters, refer to the parameter tables in the appropriate 
+modules. 
+8.4.2 REDD 
+The total net greenhouse gas emissions reductions of the REDD project activity are calculated as 
+follows: 
+ 
+VM0007, v1.8 
+32 
+𝑁𝐸𝑅REDD = ∆𝐶𝐵𝑆𝐿−𝑅𝐸𝐷𝐷−∆𝐶𝑊𝑃𝑆−𝑅𝐸𝐷𝐷−∆𝐶𝐿𝐾−𝑅𝐸𝐷𝐷 
+(2) 
+Where:  
+NERREDD+ 
+= Total net GHG emission reductions of the REDD+ project activity up to year t* 
+(tCO2e) 
+∆𝐶𝐵𝑆𝐿−𝑅𝐸𝐷𝐷 = Net GHG emissions in the REDD baseline scenario up to year t* (tCO2e) 
+∆𝐶𝑊𝑃𝑆−𝑅𝐸𝐷𝐷 = Net GHG emissions in the REDD project scenario up to year t* – from Module 
+M-REDD (tCO2e) 
+∆𝐶𝐿𝐾−𝑅𝐸𝐷𝐷 
+= Net GHG emissions due to leakage from the REDD project activity up to year t* 
+(tCO2e) 
+ 
+∆𝐶BSL-REDD = ∆𝐶𝐵𝑆𝐿,𝑝𝑙𝑎𝑛𝑛𝑒𝑑+ ∆𝐶𝐵𝑆𝐿,𝑢𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑 
+(3) 
+Where:  
+∆𝑪BSL-REDD 
+= Net GHG emissions in the REDD baseline scenario up to year t* (tCO2e) 
+∆𝑪𝑩𝑺𝑳,𝒑𝒍𝒂𝒏𝒏𝒆𝒅 
+= Net GHG emissions in the baseline scenario from planned deforestation up 
+to year t* – from Module BL-PL (tCO2e) 
+∆𝑪𝑩𝑺𝑳,𝒖𝒏𝒑𝒍𝒂𝒏𝒏𝒆𝒅 
+= Net GHG emissions in the baseline scenario from unplanned deforestation 
+up to year t* – from Module BL-UP (tCO2e) 
+ 
+ 
+∆𝐶LK-REDD = ∆𝐶𝐿𝐾−𝐴𝑆,   𝑝𝑙𝑎𝑛𝑛𝑒𝑑+ ∆𝐶𝐿𝐾−𝐴𝑆,   𝑢𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑+ ∆𝐶𝐿𝐾−𝑀𝐸 
+(4) 
+Where:  
+DCLK-REDD 
+== Net GHG emissions due to leakage from the REDD project activity up to 
+year t* (tCO2e) 
+∆CLK-AS,planned 
+= Net GHG emissions due to activity shifting leakage for projects preventing 
+planned deforestation up to year t* – from Module LK-ASP (tCO2e) 
+∆CLK-AS,unplanned = Net GHG emissions due to activity shifting leakage for projects preventing 
+unplanned deforestation up to year t* – from Module LK-ASU (tCO2e) 
+∆CLK-ME 
+= Net GHG emissions due to market-effects leakage up to year t* – from 
+Module LK-ME (tCO2e) 
+ 
+ 
+VM0007, v1.8 
+33 
+8.4.3 WRC 
+The total net GHG emission reduction of the WRC project activity is calculated as follows: 
+NERWRC = GHGBSL−WRC −GHGWPS−WRC −GHGLK−WRC 
+(5) 
+Where:  
+NERWRC 
+= Total net GHG emission reductions in the WRC project up to year t* 
+(tCO2e) 
+GHGBSL-WRC 
+= Net GHG emissions in the WRC baseline scenario up to year t* (tCO2e) 
+GHGWPS-WRC 
+= Net GHG emissions in the WRC project scenario up to year t* (tCO2e) 
+GHGLK-WRC 
+= Net GHG emissions due to leakage from the WRC project activity up to 
+year t* (tCO2e) 
+ 
+Baseline scenario 
+For CIW-REDD, RWE-REDD, or stand-alone CIW project activities: 
+GHGBSL−WRC = GHGBSL−PEAT + GHGBSL−TW 
+(6) 
+Where:  
+GHGBSL-WRC 
+= Net GHG emissions in the WRC baseline scenario up to year t* (tCO2e) 
+GHGBSL-PEAT 
+= Net GHG emissions in the WRC baseline scenario on peatland up to year 
+t* (tCO2e) 
+GHGBSL-TW 
+= Net GHG emissions in the WRC baseline scenario on tidal wetland up to 
+year t* (tCO2e) 
+ 
+For CIW-REDD, RWE-REDD or stand-alone CIW project activities on peatland (including organic 
+soils in tidal wetlands): 
+GHGBSL−PEAT = GHGBSL−PEAT,planned + GHGBLS−PEAT,unplanned 
+(7) 
+ 
+For CIW-REDD, RWE-REDD or stand-alone CIW project activities on tidal wetland (excluding 
+organic soils): 
+GHGBSL−TW = GHGBSL−TW,planned + GHGBLS−TW,unplanned 
+(8) 
+ 
+VM0007, v1.8 
+34 
+Where:  
+GHGBSL-PEAT 
+= 
+Net GHG emissions in the WRC baseline scenario on peatland up to 
+year t* (tCO2e) 
+GHGBSL-PEAT,planned 
+= 
+Net GHG emissions in the baseline scenario from planned peatland 
+degradation up to year t* – from Module BL-PL (tCO2e) 
+GHGBLS-PEAT,unplanned = 
+Net GHG emissions in the baseline scenario from unplanned peatland 
+degradation up to year t* – from Module BL-UP (tCO2e) 
+GHGBSL-TW 
+= 
+Net GHG emissions in the WRC baseline scenario on tidal wetland up to 
+year t* (tCO2e) 
+GHGBSL-TW,planned 
+= 
+Net GHG emissions in the baseline scenario from planned tidal wetland 
+degradation up to year t* – from Module BL-UP; tCO2e 
+GHGBSL-TW,unplanned 
+= 
+Net GHG emissions in the baseline scenario from unplanned tidal 
+wetland degradation up to year t* – from Module BL-UP; tCO2e 
+ 
+Note that Modules BL-UP and BL-PL internally refer to Modules BL-PEAT and BL-TW (whichever is 
+relevant) for the estimation of net GHG emissions from the SOC pool. Modules BL-UP-and BL-PL 
+provide procedures for the estimation of biomass burning and fuel burning. 
+For stand-alone RWE project activities, any significant baseline fossil fuel combustion may be 
+added to Equation (7), as follows: 
+GHGBSL−WRC = GHGBSL−PEAT + GHGBSL−TW + GHGBSL−fuel 
+(9) 
+ 
+Where:  
+GHGBSL-WRC 
+= 
+Net GHG emissions in the WRC baseline scenario up to year t* (tCO2e) 
+GHGBSL-PEAT 
+= 
+Net GHG emissions in the WRC baseline scenario on peatland up to 
+year t* (tCO2e) 
+GHGBSL-TW 
+= 
+Net GHG emissions in the WRC baseline scenario on tidal wetland up 
+to year t* (tCO2e) 
+GHGBSL-fuel 
+= 
+Net CO2e emissions from fossil fuel use in the baseline scenario up to 
+year t* (from Module BL-TW) (tCO2e) 
+ 
+ 
+ 
+For stand-alone RWE project activities on peatland (including organic soils in tidal wetlands) 
+GHGBSL-PEAT is taken from Module BL-PEAT.  
+For stand-alone RWE on tidal wetland (excluding organic soils) GHGBSL-TW is taken from Module 
+BL-TW.  
+ 
+VM0007, v1.8 
+35 
+Project scenario 
+GHGWPS−WRC = GHGWPS−PEAT + GHGWPS−TW 
+(10) 
+Where:  
+GHGWPS-WRC 
+= 
+Net GHG emissions in the WRC project scenario up to year t* (tCO2e) 
+GHGWPS-PEAT 
+= 
+Net GHG emissions in the WRC project scenario on peatland up to year t* 
+(tCO2e) 
+GHGWPS-TW 
+= 
+Net GHG emissions in the WRC project scenario on tidal wetland up to year 
+t* (tCO2e) 
+ 
+For CIW-REDD, stand-alone CIW, or RWE-REDD project activities on peatland (including organic 
+soils in tidal wetlands), use Modules M-REDD and M-PEAT. 
+For CIW-REDD, stand-alone CIW, or RWE-REDD project activities on tidal wetland (excluding 
+organic soils), use Modules M-REDD and M-TW. 
+For stand-alone RWE project activities, use Modules M-PEAT and M-TW (whichever is relevant) for 
+the soil component. 
+GHGLK−WRC = GHGLK−WRC−AS,planned + GHGLK−WRC−AS,unplanned + GHGLK−ECO 
+(11) 
+Where:  
+GHGLK-WRC 
+= Net GHG emissions due to leakage from the WRC project activity up to 
+year t* (tCO2e) 
+GHGLK-WRC-AS,unplanned = Net GHG emissions due to wetland degradation from unplanned 
+deforestation displaced from the project area up to year t* – from 
+Module LK-ASU (tCO2e) 
+GHGLK-WRC-AS,planned 
+= Net GHG emissions due to wetland degradation from planned 
+deforestation displaced from the project area up to year t* – from 
+Module LK-ASU (tCO2e) 
+GHGLK-ECO 
+= Net GHG emissions due to ecological leakage from the WRC project 
+activity up to year t* * – from Module LK-ECO (tCO2e) 
+ 
+8.4.4 Calculation of AFOLU Pooled Buffer Account Contribution 
+The number of credits to be held in the AFOLU pooled buffer account is determined as a 
+percentage of the total carbon stock benefits. For REDD project activities, this is equal to the net 
+emissions in the baseline minus emissions from fossil fuel use and fertilizer use minus the net 
+ 
+VM0007, v1.8 
+36 
+emissions in the project case minus emissions from fossil fuels and fertilizer use. Leakage 
+emissions do not factor into the buffer calculations. 
+For REDD projects, the calculation of the net change in carbon stocks applied in this methodology 
+includes an adjustment for emissions from fossil fuel combustion and direct N2O emissions and 
+excludes emissions from biomass burning. Besides other GHG fluxes, biomass burning involves a 
+carbon stock change. The procedure, therefore, provides a conservative (larger) estimate of the 
+buffer withholding. 
+For WRC project activities, the proxy for the net change in carbon stocks applied in this 
+methodology is NERWRC. As this proxy includes all net GHG emissions reductions, it provides a 
+conservative (larger) estimate of the buffer. 
+As this proxy includes all GHG emissions reductions and removals, it provides a conservative 
+(larger) estimate of the buffer withholding. 
+𝐵𝑢𝑓𝑓𝑒𝑟𝑇𝑜𝑡𝑎𝑙= 𝐵𝑢𝑓𝑓𝑒𝑟𝑃𝑙𝑎𝑛𝑛𝑒𝑑+ 𝐵𝑢𝑓𝑓𝑒𝑟𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑+ 𝐵𝑢𝑓𝑓𝑒𝑟𝑊𝑅𝐶 
+(12) 
+ 
+𝐵𝑢𝑓𝑓𝑒𝑟𝑃𝑙𝑎𝑛𝑛𝑒𝑑= [[∆𝐶𝐵𝑆𝐿,𝑃𝑙𝑎𝑛𝑛𝑒𝑑−∑
+∑
+(𝐸𝐹𝐶,𝑖,𝑡+ 𝑁2𝑂𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡)
+𝑀
+𝑖=1
+𝑡∗
+𝑡=1
+𝐵𝑆𝐿 
+𝑃𝑙𝑎𝑛𝑛𝑒𝑑
+] −
+[∆𝐶𝑃,𝑃𝑙𝑎𝑛𝑛𝑒𝑑−∑
+∑
+(𝐸𝐹𝐶,𝑖,𝑡+ 𝑁2𝑂𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡)
+𝑀
+𝑖=1
+𝑡∗
+𝑡=1
+𝑃 
+𝑃𝑙𝑎𝑛𝑛𝑒𝑑
+]] × 𝐵𝑢𝑓𝑓𝑒𝑟%  
+(13) 
+ 
+𝐵𝑢𝑓𝑓𝑒𝑟𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑
+= 
+[
+ 
+ 
+ 
+ 
+ 
+[
+ 
+ 
+ 
+ 
+∆𝐶𝐵𝑆𝐿,𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑−
+∑
+∑(𝐸𝐹𝐶,𝑖,𝑡+ 𝑁2𝑂𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡)
+𝑀
+𝑖=1
+𝑡∗
+𝑡=1
+𝐵𝑆𝐿 
+𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑
+]
+ 
+ 
+ 
+ 
+−
+[
+ 
+ 
+ 
+ 
+∆𝐶𝑃,𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑−
+∑
+∑(𝐸𝐹𝐶,𝑖,𝑡+ 𝑁2𝑂𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡)
+𝑀
+𝑖=1
+𝑡∗
+𝑡=1
+𝑃 
+𝑈𝑛𝑝𝑙𝑎𝑛𝑛𝑒𝑑
+]
+ 
+ 
+ 
+ 
+]
+ 
+ 
+ 
+ 
+ 
+× 𝐵𝑢𝑓𝑓𝑒𝑟% 
+(14) 
+ 
+VM0007, v1.8 
+37 
+ 
+ 
+ 
+𝐵𝑢𝑓𝑓𝑒𝑟𝑊𝑅𝐶= 𝑁𝐸𝑅𝑊𝑅𝐶× 𝐵𝑢𝑓𝑓𝑒𝑟% 
+(15) 
+Where:  
+BufferTotal 
+= Total permanence risk buffer withholding (tCO2e) 
+BufferPlanned 
+= Buffer withholding for avoiding planned deforestation project activities 
+(tCO2e) 
+BufferUnplanned 
+= Buffer withholding for avoiding unplanned deforestation project activities  
+(tCO2e) 
+BufferWRC 
+= Buffer withholding for WRC project activities (tCO2e) 
+ΔCBSL,Planned 
+= Net GHG emissions in the baseline from planned deforestation (tCO2e) 
+ΔCBSL,Unplanned 
+= Net GHG emissions in the baseline from unplanned deforestation (tCO2e) 
+DCP 
+= Net GHG emissions within the project area in the project scenario 19F19 (tCO2e) 
+EFC,i,t 
+= Emission from fossil fuel combustion in stratum i in year t (tCO2e) 
+N2Odirect-i,t 
+= Direct N2O emission as a result of nitrogen application on the alternative 
+land use within the project boundary in stratum i in year t (tCO2e) 
+Buffer% 
+= Buffer withholding percentage20F20 (percent) 
+NERWRC 
+= Total net GHG emission reductions in the WRC project up to year t* (tCO2e) 
+i 
+1, 2, 3, …M strata (unitless) 
+t 
+= 1, 2, 3, …t* time elapsed since the start of the REDD+ project activity 
+(years) 
+8.4.5 Uncertainty Analysis 
+Project must use Module X-UNC to combine uncertainty information and conservative estimates 
+and produce an overall uncertainty estimate of the total net GHG emission reductions. The 
+estimated cumulative net anthropogenic GHG emission reductions must be adjusted at each 
+point in time to account for uncertainty as indicated in Module X-UNC. Module X-UNC calculates 
+ 
+19 The project emissions must be divided between the emissions arising from the respective project areas for 
+planned and unplanned deforestation. 
+20 Buffer withholding percentages are based on the project’s overall risk classification, the percentage of carbon 
+credits generated by the approved project activity that must be deposited into the AFOLU pooled buffer account to 
+cover non-permanence related project risks. Buffer withholding percentage must be calculated using T-BAR. 
+Different percentages will likely be calculated for each of the baseline types as relevant. 
+ 
+VM0007, v1.8 
+38 
+an adjusted value for NERREDD+ for any point in time. This Adjusted_NERREDD+ must be the basis of 
+calculations at each point in time in Equation (19). 
+8.4.6 Calculation of Verified Carbon Units 
+To estimate the number of Verified Carbon Units (VCUs) for the monitoring period t = t2 – t1, this 
+methodology uses the following equation: 
+𝑉𝐶𝑈𝑡= (𝐴𝑑𝑗𝑢𝑠𝑡𝑒𝑑_𝑁𝐸𝑅𝑅𝐸𝐷𝐷+,𝑡2 − 𝐴𝑑𝑗𝑢𝑠𝑡𝑒𝑑_𝑁𝐸𝑅𝑅𝐸𝐷𝐷+,𝑡1) − 𝐵𝑢𝑓𝑓𝑒𝑟𝑇𝑜𝑡𝑎𝑙 
+(16) 
+Where:  
+𝑽𝑪𝑼𝒕 
+= Number of Verified Carbon Units for the monitoring period t = t2 - t1 
+(VCU) 
+𝑨𝒅𝒋𝒖𝒔𝒕𝒆𝒅_𝑵𝑬𝑹𝑹𝑬𝑫𝑫+,𝒕𝟐 = Total net GHG emission reductions of the REDD+ project activity up 
+to year t2 and adjusted to account for uncertainty (tCO2e) 
+𝑨𝒅𝒋𝒖𝒔𝒕𝒆𝒅_𝑵𝑬𝑹𝑹𝑬𝑫𝑫+,𝒕𝟏 = Total net GHG emission reductions of the REDD+ project activity up 
+to year t1 and adjusted to account for uncertainty (tCO2e) 
+𝑩𝒖𝒇𝒇𝒆𝒓𝑻𝒐𝒕𝒂𝒍 
+= Total permanence risk buffer withholding (tCO2e) 
+ 
+The allowable uncertainty under this methodology is +/- 15% of NERREDD+ at the 90% confidence 
+level. Where this precision level is met, no deduction is necessary:  
+𝐴𝑑𝑗𝑢𝑠𝑡𝑒𝑑_𝑁𝐸𝑅𝑅𝐸𝐷𝐷+ = 𝑁𝐸𝑅𝑅𝐸𝐷𝐷+ 𝑁𝐸𝑅𝑊𝑅𝐶.  
+(17) 
+Where uncertainty exceeds 15% of NERREDD+, the deduction must be equal to the amount that the 
+uncertainty exceeds the allowable level. The adjusted value for NERREDD+ to account for 
+uncertainty must be calculated as: 
+Adjusted_NERREDD+ = (NERREDD + NERWRC) × (100 −NER(REDD+ERROR) + 15) 
+(18) 
+Where:  
+Adjusted_NERREDD+ 
+= 
+Total net GHG emission reductions of the REDD+ project activities 
+up to year t* and adjusted to account for uncertainty (tCO2e) 
+NERREDD 
+= 
+Total net GHG emission reductions of the REDD project activity up 
+to year t* (tCO2e) 
+NERWRC 
+= 
+Total net GHG emission reductions of the WRC project activity up to 
+year t* (tCO2e) 
+ 
+VM0007, v1.8 
+39 
+NERREDD+_ERROR 
+= 
+Cumulative uncertainty for the REDD+ (REDD and WRC) project 
+activities up to year t* (percent) 
+= 
+ 
+ 
+For details see Module X-UNC.

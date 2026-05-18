@@ -1,0 +1,93 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology.  
+Alternate wetting and drying (AWD) 
+A system of cultivating irrigated lowland rice using controlled and intermittent irrigation cycles 
+according to a periodic drainage and re-flooding schedule (i.e., alternating flooded and non-
+flooded field conditions by multiple (more than one) drainage events during the cultivation 
+period) in addition to end-of-season drainage. This water management technique uses less 
+water than the usual system of continuously flooded irrigation in the crop field.  
+Avoided biomass burning 
+Residue management system in which residue (i.e., rice straw) is not burned after harvest 
+Baseline control site 
+Defined area that is managed according to pre-project (baseline) practices (as set out in the 
+schedule of activities) for direct measurement of CH4 using flux chambers and that is 
+representative of the land and management practices in one or more quantification units 
+Continuous flooding  
+A system of cultivating irrigated lowland rice where fields have standing water throughout the 
+rice growing season and are drained only shortly before the maturing growth stage and for 
+harvesting the rice (i.e., end-of-season drainage) 
+Controlled irrigation 
+A type of water management where the project has irrigation systems in place that allow for 
+controlled management of the water regime (i.e., the project farmer has control of the water 
+flow rate, flooding duration, etc.) 
+Cultivation pattern 
+The set of activities and machinery operations used to cultivate rice in the project area. This 
+requires describing quantitative and qualitative details related to the implementation of the 
+project activities and management practices (e.g., time, duration, rate, and frequency of wet 
+(flooded) and dry (non-flooded) periods, machinery operations, fertilization practices, and weed 
+and pest control) 
+Cultivation period 
+The period of time that begins with pre-planting preparation in rice fields and ends at the 
+harvest event 
+ 
+VM0051, v1.0 
+ 
+ 
+8
+Direct seeded rice (DSR) 
+A system of cultivating irrigated lowland rice in which seeds, either pre-germinated or dry, are 
+broadcast or sown directly in the field under dry or wetland conditions. No transplanting 
+process is involved. DSR reduces the duration of flooding periods compared to transplanted 
+rice with continuous flooding. For DSR, the field must be dry before seeding and remain dry 
+during sowing until the seed has germinated so that viable, young plantlets can withstand 
+shallow flooding (at the two–four leaf stage). 
+Digital monitoring, reporting, and verification (DMRV) tools 
+Tools used to enable digital capture, analysis, tracking, and dissemination of data to enable 
+monitoring, reporting, and verification 
+Historical look-back period 
+The time period prior to the project start date covering at least three years of rice cultivation 
+and a complete crop rotation, if any. The historical look-back period is used to produce the 
+schedule of activities. 
+Liming 
+The application of calcium- and magnesium-rich materials such as lime or limestone to soil to 
+neutralize soil acidity 
+Methanotrophs 
+Organisms that occur naturally or are introduced to an environment and metabolize CH4 to 
+obtain their energy, thereby removing CH4 from their environment 
+Quantification unit 
+The unit below the project level and the unit at which GHG emission reductions and carbon 
+dioxide removals and associated uncertainty are estimated using the selected quantification 
+approach. Depending on the sampling design, the quantification unit may be a stratum, a 
+cluster of fields, or another unit or group of units.  
+Sample unit 
+Unit at which measurements are taken during gas sampling under Quantification Approach 2 
+Scaling factor  
+A numerical multiplier that is applied to an emission factor to align it with observed data from 
+specific national or regional conditions. It is used to minimize biases, refine calculations, or 
+downscale global emission factors. 
+Schedule of activities 
+An annual schedule of historical management activities (e.g., irrigation, fertilizer usage, and 
+biomass amendments) applied in the baseline and derived from the historical look-back period. 
+The schedule is determined following the data requirements given in Box 1. 
+ 
+VM0051, v1.0 
+ 
+ 
+9
+Single drainage 
+A system of cultivating irrigated lowland rice using a controlled and intermittent irrigation cycle 
+(i.e., fields have a single drainage event and period during the cropping season at any growth 
+stage) in addition to the end-of-season drainage 
+Soil methanogenesis 
+Microbial process that produces methane (CH4) gas in soils when microorganisms break down 
+organic matter under anoxic conditions, such as in waterlogged soils 
+Stratification 
+The act of dividing the project area into relatively homogeneous strata. Stratification can occur 
+at the project level and within a quantification unit. 
+Stratum 
+A discrete area in which biophysical factors are more homogeneous than they are across the 
+project area as a whole 
+Water regime 
+The water management system used within a rice production system (i.e., the irrigation 
+method)

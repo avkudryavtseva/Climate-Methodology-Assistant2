@@ -1,0 +1,39 @@
+6 BASELINE SCENARIO 
+6.1 
+Determination of the Most Plausible Baseline Scenario 
+The baseline scenario must be determined using the latest version of CDM tool AR-Tool02 
+Combined tool to identify the baseline scenario and demonstrate additionality for A/R CDM 
+project activities. This tool has been designed for CDM A/R project activities, and is used in this 
+methodology noting the following: 
+ 
+Since projects using this methodology are eligible to apply the activity method for 
+demonstrating additionality (see Section 7.1 below), all elements of the tool related to 
+additionality must be disregarded. 
+6.2 
+Reassessment of the Baseline Scenario 
+The project proponent must reassess the baseline scenario in accordance with the VCS rules.  
+For this reassessment, when applying the Fire Reduction Premium approach specified in 
+Section 8.3, the historic reference period must be extended to include the original reference 
+period and all subsequent monitoring periods up to the beginning of the current monitoring 
+period. The fire reference period must not be extended, as this is a fixed 10-year period ending 
+5 years before the project start date. 
+In addition, the project proponent must, for the duration of the project, re-determine, where 
+applicable, the PDT every 10 years. This reassessment must use the procedure specified in 
+Section Error! Reference source not found.. Data sources must be updated where new 
+information relevant to the project area has become available. 
+ 
+Where the tool refers to:  
+It must be understood as referring to: 
+A/R, afforestation, reforestation, or forestation 
+WRC or WRC/ARR, or restoration 
+Net greenhouse gas removals by sinks 
+Net greenhouse gas emission reductions 
+CDM 
+VCS 
+DOE 
+VVB 
+tCERs, lCERs 
+VCUs 
+ 
+VM0033, v2.1 
+25

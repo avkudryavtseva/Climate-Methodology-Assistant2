@@ -1,0 +1,152 @@
+5 PROJECT BOUNDARY 
+As illustrated in Figure 1 below, the spatial extent of the project boundary encompasses: 
+• 
+The project facility where concrete materials are produced; 
+• 
+The facilities from which the CO2 feedstock is sourced (if not direct air capture); 
+• 
+The facilities where displaced Portland cement is manufactured.   
+ 
+Figure 1: Spatial Boundary of the Project Activity   
+ 
+The greenhouse gases included in or excluded from the project boundary are shown in  
+Table 1 below. 
+Table 1: GHG Sources Included in or Excluded from the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Captured CO2  
+CO2 
+Yes 
+CO2 is the main gas that can be captured by 
+carbon capture and utilization technology  
+CH4 
+No 
+Only CO2 captured and sequestered into 
+concrete is considered for this methodology 
+N2O 
+No 
+Only CO2 captured and sequestered into 
+concrete is considered for this methodology 
+ 
+ 
+VM0043, v1.1  
+ 
+8 
+Other 
+No 
+Other GHGs (HFCs, PFCs, SF6) are not used in 
+this process. 
+GHGs from 
+cement 
+production, 
+including 
+calcination  
+CO2 
+Yes 
+CO2 process emissions occur as a by-product of 
+the calcination process, where a calcium or 
+magnesium carbonate such as limestone is 
+heated with clay to form clinker (primarily 
+calcium oxide) and CO2. The heat required for 
+the calcination process is typically supplied 
+from the combustion of fossil fuels, resulting in 
+the emission of further CO2 
+CH4 
+No 
+Excluded for simplicity, emissions are 
+considered negligible.  
+N2O 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+Other 
+No 
+Other GHGs (HFCs, PFCs, SF6) are not used in 
+this process. 
+Project 
+GHGs from 
+the project 
+facility 
+ 
+CO2 
+Yes 
+Electricity, combusted natural gas or 
+liquid/solid fuels are the primary energy 
+sources that would be used to power a facility 
+manufacturing concrete products and material. 
+CO2 is the primary emission from that 
+combustion. This relates only to the incremental 
+increase in the use of equipment needed to 
+sequester the CO2. This does not refer to the 
+entire facility itself.  
+CH4 
+No 
+Excluded for simplicity, emissions are 
+considered negligible.  
+N2O 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+Other 
+No 
+Other GHGs (HFCs, PFCs, SF6) are not used in 
+this process. 
+GHGs from 
+cement 
+production 
+CO2 
+Yes 
+CO2 process emissions occur as a by-product of 
+the calcination process, where a calcium or 
+magnesium carbonate such as limestone is 
+heated with clay to form clinker (primarily 
+calcium oxide) and CO2. The heat required for 
+the calcination process is typically supplied 
+from the combustion of fossil fuels, resulting in 
+the emission of further CO2 
+CH4 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+N2O 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+Other 
+No 
+Other GHGs (HFCs, PFCs, SF6) are not used in 
+this process. 
+ 
+GHGs from 
+capturing, 
+compressing 
+and 
+CO2 
+Yes 
+Main GHG associated with the electricity 
+requirements and fossil fuel usage associated 
+with processing captured CO2. Note also that 
+the default factors for transportation emissions 
+ 
+VM0043, v1.1  
+ 
+9 
+transporting 
+CO2 
+(tCO2e/tonne-mile) includes all GHGs from 
+transportation. 
+CH4 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+N2O 
+No 
+Excluded for simplicity, emissions are 
+considered negligible. 
+Other 
+No 
+Other GHGs (HFCs, PFCs, SF6) are not used in 
+this process.

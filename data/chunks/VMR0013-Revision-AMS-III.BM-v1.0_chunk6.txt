@@ -1,0 +1,14 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary of AMS-III.BM. is replaced by the following:1 
+The project boundary is the area in which the users of the infrastructure and/or of the 
+promoted bicycles, tricycles, e-bikes, e-tricycles, and other two- or three-wheeled e-vehicles 
+travel between origins and destinations. 
+Where the project involves the use of e-bikes, e-tricycles, and/or other two- or three-wheeled e-
+vehicles, the project boundary also includes the electric grid and all physically connected power 
+plants that supply electricity to the grid used to recharge the battery from e-bikes, e-tricycles, 
+and other two- or three-wheeled e-vehicles. 
+The baseline emissions include CO2 emissions from different modes of transport that the users 
+of the bicycles, e-bikes, e-tricycles, and other two- or three-wheeled e-vehicles would have taken 
+in the absence of the project activity. Project emissions include CO2 emissions from electricity 
+consumption (e.g., recharging batteries). N2O and CH4 emissions are excluded from the project 
+boundary since they are de minimis.

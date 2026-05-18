@@ -1,0 +1,868 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS  
+8.1 
+Baseline Emissions 
+Baseline emissions from existing ODS or HFC contained in products and/or stockpiles are 
+determined with the following equation:  
+𝐵𝐸𝑦= 𝐵𝐸𝑟𝑒𝑓𝑟,𝑦+ 𝐵𝐸𝑓𝑜𝑎𝑚,𝑦+ 𝐵𝐸𝑝𝑟𝑜𝑝,𝑦+ 𝐵𝐸𝑓𝑖𝑟𝑒,𝑦 
+(1) 
+Where:  
+BEy 
+= Total quantity of baseline emissions from refrigerants, blowing agents, 
+propellants, and fire suppression agents from products and/or 
+stockpiles that would be released into the atmosphere in year y in the 
+absence of the project activity (t CO2e) 
+BErefr,y 
+= Baseline emissions from refrigerants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+BEfoam,y 
+= Baseline emissions from blowing agents that would be released into 
+the atmosphere in year y in the absence of the project activity (t CO2e) 
+BEprop,y 
+= Baseline emissions from propellants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+BEfire,y 
+= Baseline emissions from fire suppression agents that would be 
+released into the atmosphere in year y in the absence of the project 
+activity (t CO2e) 
+ 
+This equation must use the adjusted baseline emission values based on the rate of compliance 
+(CompRy) in accordance with the equations below to reflect gradually increasing compliance of 
+the source country, where relevant. 
+8.1.1 Baseline Emissions from Refrigerants (BErefr,y) 
+Baseline emissions from refrigerants are calculated as follows:  
+VM0016, v2.0 
+18 
+𝐵𝐸𝑟𝑒𝑓𝑟,𝑦= ∑
+((𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦× 𝑉𝑅𝑟𝑒𝑓𝑟,𝑖× 𝐸𝐹𝑉𝑅)
+𝑛
+𝑖=1
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦× 𝑅𝑅𝑟𝑒𝑓𝑟,𝑖,𝑦× 𝐸𝐹𝑅𝑅,𝑟𝑒𝑓𝑟,𝑖)
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦× 𝐷𝑅𝑟𝑒𝑓𝑟,𝑖× 𝐸𝐹𝐷𝑅)) × 𝐺𝑊𝑃𝑟𝑒𝑓𝑟,𝑖 
+(2) 
+100% = 𝑉𝑅𝑟𝑒𝑓𝑟,𝑖+ 𝑅𝑅𝑟𝑒𝑓𝑟,𝑖,𝑦+ 𝐷𝑅𝑟𝑒𝑓𝑟,𝑖 
+(3) 
+Where: 
+BErefr,y 
+= 
+Baseline emissions from refrigerants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+MDESTR,refr,i,y 
+= 
+Quantity of refrigerant i sent for destruction in the project activity in year y (t) 
+VRrefr,i 
+= 
+Proportion of destroyed refrigerant i that would be vented into the 
+atmosphere in the baseline scenario (%) 
+EFVR 
+= 
+Emission factor for destroyed refrigerants that would be vented into the 
+atmosphere in the baseline scenario; equal to one (unitless) 
+RRrefr,i,y 
+= 
+Proportion of refrigerant i that would be used, reused, or remain in storage in 
+the baseline scenario in year y (%)  
+EFRR,refr,i 
+= 
+Emission factor for refrigerant i that would be reused in the baseline 
+scenario (unitless)  
+DRrefr, i 
+= 
+Proportion of destroyed refrigerant i that would also be destroyed in the 
+baseline scenario (%)  
+EFDR 
+= 
+Emission factor for destroyed refrigerants that would also be destroyed in 
+the baseline scenario; equal to zero (unitless) 
+GWPrefr,i 
+= 
+Global warming potential of refrigerant i (t CO2e/t refrigerant)  
+𝐸𝐹𝑅𝑅,𝑟𝑒𝑓𝑟,𝑖= 1 −(1 −𝐿𝑅𝑟𝑒𝑓𝑟,𝑖)
+10 
+(4) 
+Where:  
+EFRR,refr,i 
+= Emission factor for refrigerant i that would be reused in the baseline 
+scenario (unitless) 
+LRrefr,i  
+= Leak rate of destroyed refrigerant i that would be used as refrigerant for 
+existing equipment or remain in storage in the baseline scenario (%) 
+10 
+= Duration for cumulative emission rate (years) 
+Where destruction of refrigerants is mandated by law, statute, or other regulatory framework 
+that applies in the source country, the baseline scenario must be gradually increasing 
+compliance with such law, statute, or other regulatory framework, and the baseline GHG 
+emissions must be calculated as follows:  
+VM0016, v2.0 
+19 
+𝐵𝐸𝑟𝑒𝑓𝑟,𝑎,𝑦= 𝐵𝐸𝑟𝑒𝑓𝑟,𝑦× (1 −𝐶𝑜𝑚𝑝𝑅𝑦) 
+(5) 
+Where:  
+BErefr,a,y 
+= Adjusted baseline emissions from refrigerants, used to calculate reductions in 
+year y (t CO2e) 
+BErefr,y 
+= Baseline emissions from refrigerants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+CompRy 
+= Rate of compliance with law, statute, or other regulatory framework in the 
+source country in year y (%) 
+8.1.2 Baseline Emissions from Blowing Agents (BEfoam,y) 
+Baseline emissions from blowing agents are determined as follows:  
+𝐵𝐸𝑓𝑜𝑎𝑚,𝑦= ∑
+(𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝐵𝐴,𝑖,𝑦) × 𝐸𝑅𝑓𝑜𝑎𝑚,𝑖× 𝐺𝑊𝑃𝑓𝑜𝑎𝑚,𝑖
+𝑛
+𝑖=1
+ 
+(6) 
+Where: 
+BEfoam,y 
+= 
+Baseline emissions from blowing agents that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+MDESTR,foam,i,y 
+= 
+Quantity of blowing agent i contained in refrigerated appliance insulation 
+foam and sent for destruction as intact foam by the project activity in year y 
+(t) 
+MDESTR,BA,i,y 
+= 
+Quantity of concentrated blowing agent i recovered from refrigerated 
+appliance insulation foam and sent for destruction by the project activity in 
+year y (t) 
+ERfoam,i 
+= 
+Proportion of blowing agent i contained in insulation foam of refrigerated 
+appliances that would be released into the atmosphere based on the 
+baseline disposal practice in the source country (%)  
+GWPfoam,i 
+= 
+Global warming potential of blowing agent i (t CO2e/t blowing agent) 
+ 
+𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚,𝑖,𝑦= ∑
+𝑀𝐴𝑃𝑃𝐿𝐼𝐴𝑁𝐶𝐸,𝑓𝑜𝑎𝑚,𝑖,𝑦× (1 −𝐸𝑅𝑟𝑒𝑚𝑜𝑣𝑎𝑙,𝑓𝑜𝑎𝑚,𝑖)
+𝑃
+𝑝=1
+ 
+(7) 
+Where: 
+MDESTR,foam,i,y 
+= 
+Quantity of blowing agent i contained in refrigerated appliance 
+insulation foam and sent for destruction as intact foam by the project 
+activity in year y (t) 
+MAPPLIANCE,foam,i,y 
+= 
+Total quantity of blowing agent i contained in refrigerated appliances 
+from which intact insulation foam is recovered in year y (t) 
+VM0016, v2.0 
+20 
+ERremoval,foam,i 
+= 
+Proportion of blowing agent i contained in intact foam of refrigerated 
+appliances that is released to the atmosphere upon removal from 
+refrigerated appliance (%) 
+P 
+= 
+Total number of refrigerated appliances from which intact insulation 
+foam containing blowing agent i is recovered in year y (unitless) 
+Where destruction of blowing agents by the project activity is mandated by law, statute, or other 
+regulatory framework applying in the source country, the baseline must be gradually increasing 
+compliance with such law, statute, or other regulatory framework, and the baseline GHG 
+emissions must be calculated as follows: 
+𝐵𝐸𝑓𝑜𝑎𝑚,𝑎,𝑦= 𝐵𝐸𝑓𝑜𝑎𝑚,𝑦× (1 −𝐶𝑜𝑚𝑝𝑅𝑦) 
+(8) 
+Where:  
+BEfoam,a,y 
+= 
+Adjusted baseline emissions from blowing agents, used to calculate 
+reductions in year y (t CO2e) 
+BEfoam,y 
+= 
+Baseline emissions from blowing agents that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+CompRy 
+= 
+Rate of compliance with law, statute, or other regulatory framework in 
+the source country in year y (%) 
+8.1.3 Baseline Emissions from Fire Suppression Agents (BEfire,y) 
+Baseline emissions from fire suppression agents are determined as follows:  
+𝐵𝐸𝑓𝑖𝑟𝑒,𝑦= ∑
+((𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦× 𝑉𝑅𝑓𝑖𝑟𝑒,𝑖× 𝐸𝐹𝑉𝑅)
+𝑛
+𝑖=1
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦× 𝑅𝑅𝑓𝑖𝑟𝑒,𝑖,𝑦× 𝐸𝐹𝑅𝑅,𝑓𝑖𝑟𝑒,𝑖)
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦× 𝐷𝑅𝑓𝑖𝑟𝑒,𝑖× 𝐸𝐹𝐷𝑅)) × 𝐺𝑊𝑃𝑓𝑖𝑟𝑒,𝑖 
+(9) 
+100% = 𝑉𝑅𝑓𝑖𝑟𝑒,𝑖+ 𝑅𝑅𝑓𝑖𝑟𝑒,𝑖,𝑦+ 𝐷𝑅𝑓𝑖𝑟𝑒,𝑖 
+(10) 
+Where: 
+BEfire,y 
+= 
+Baseline emissions from fire suppression agents that would be released 
+into the atmosphere in year y in the absence of the project activity (t CO2e) 
+MDESTR,fire,i,y 
+= 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y (t)  
+VRfire,i 
+= 
+Proportion of destroyed fire suppression agent i that would be vented into 
+the atmosphere in the baseline scenario (%) 
+EFVR 
+= 
+Emission factor for destroyed fire suppression agents that would be vented 
+into the atmosphere in the baseline scenario; equal to one (unitless) 
+VM0016, v2.0 
+21 
+DRfire,i 
+= 
+Proportion of fire suppression agent i destroyed by the project activity that 
+would also be destroyed in the baseline scenario (%) 
+EFDR 
+= 
+Emission factor for fire suppression agents destroyed by the project 
+activity which would also be destroyed in the baseline; equal to zero 
+(unitless) 
+RRfire,i,y 
+= 
+Proportion of fire suppression agent i that would be used, reused, or 
+remain in storage in the baseline scenario in year y (%)  
+EFRR,fire,i 
+= 
+Emission factor for destroyed fire suppression agent i that would be used, 
+reused, or remain in storage in the baseline (unitless)  
+GWPfire,i 
+= 
+Global warming potential of fire suppression agent i (t CO2e/t fire 
+suppression agent)  
+ 
+𝐸𝐹𝑅𝑅,𝑓𝑖𝑟𝑒,𝑖= 1 −(1 −𝐿𝑅𝑓𝑖𝑟𝑒,𝑖)
+10 
+(11) 
+Where:  
+EFRR,fire,i 
+= 
+Emission factor for destroyed fire suppression agent i that would be 
+used, reused, or remain in storage in the baseline (unitless) 
+LRfire,i  
+= 
+Leak rate of destroyed fire suppression agent i that would be used as a 
+fire suppression agent in new or existing equipment or remain in storage 
+in the baseline scenario (%) 
+10  
+= 
+Duration for cumulative emission rate (years) 
+Where destruction of fire suppression agents by the project activity is mandated by law, statute, 
+or other regulatory framework applying in the source country, the baseline must be gradually 
+increasing compliance with such law, statute, or other regulatory framework, and the baseline 
+GHG emissions must be calculated as follows:  
+𝐵𝐸𝑓𝑖𝑟𝑒,𝑎,𝑦= 𝐵𝐸𝑓𝑖𝑟𝑒,𝑦× (1 −𝐶𝑜𝑚𝑝𝑅𝑦) 
+(12) 
+Where:  
+BEfire,a,y 
+= 
+Adjusted baseline emissions from fire suppression agents used to 
+calculate reductions in year y (t CO2e) 
+BEfire,y 
+= 
+Baseline emissions from fire suppression agents that would be released 
+into the atmosphere in year y in the absence of the project activity 
+(t CO2e) 
+CompRy 
+= 
+Rate of compliance with law, statute, or other regulatory framework in 
+the source country in year y (%) 
+8.1.4 Baseline Emissions from Propellants (BEprop,y) 
+Baseline emissions from propellants are determined as follows:  
+VM0016, v2.0 
+22 
+𝐵𝐸𝑝𝑟𝑜𝑝,𝑦= ∑
+((𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦× 𝑉𝑅𝑝𝑟𝑜𝑝,𝑖× 𝐸𝐹𝑉𝑅)
+𝑛
+𝑖=1
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦× 𝑅𝑅𝑝𝑟𝑜𝑝,𝑖,𝑦× 𝐸𝐹𝑅𝑅,𝑝𝑟𝑜𝑝,𝑖)
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦× 𝐷𝑅𝑝𝑟𝑜𝑝,𝑖× 𝐸𝐹𝐷𝑅)) × 𝐺𝑊𝑃𝑝𝑟𝑜𝑝,𝑖 
+(13) 
+100% = 𝑉𝑅𝑝𝑟𝑜𝑝,𝑖+ 𝑅𝑅𝑝𝑟𝑜𝑝,𝑖,𝑦+ 𝐷𝑅𝑝𝑟𝑜𝑝,𝑖 
+(14) 
+Where: 
+BEprop,y 
+= 
+Baseline emissions from propellants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+MDESTR,prop,i,y 
+= 
+Quantity of propellant i sent for destruction by the project activity in year 
+y (t)  
+VRprop,i 
+= 
+Proportion of destroyed propellant i that would be vented into the 
+atmosphere in the baseline scenario (%) 
+EFVR 
+= 
+Emission factor for destroyed propellants that would be vented into the 
+atmosphere in the baseline scenario; equal to one (unitless)  
+DRprop,i 
+= 
+Proportion of propellant i destroyed by the project activity that would also 
+be destroyed in the baseline scenario (%)  
+EFDR 
+= 
+Emission factor for propellants destroyed by the project activity that 
+would also be destroyed in the baseline scenario; equal to zero (unitless) 
+RRprop,i,y 
+= 
+Proportion of propellant i that would remain in storage in the baseline 
+scenario in year y (%)  
+EFRR,prop,i 
+= 
+Emission factor for destroyed propellant i that would remain in storage in 
+the baseline scenario (unitless) 
+GWPprop,i 
+= 
+Global warming potential of propellant i (t CO2e/t propellant) 
+ 
+𝐸𝐹𝑅𝑅,𝑝𝑟𝑜𝑝,𝑖= 1 −(1 −𝐿𝑅𝑝𝑟𝑜𝑝,𝑖)
+10 
+(15) 
+Where:  
+EFRR,prop,i 
+= 
+Emission factor for destroyed propellant i that would remain in 
+storage in the baseline scenario (unitless) 
+LRprop,i  
+= 
+Leak rate of destroyed propellant i that would be used as propellant 
+for new products or remain in storage in the baseline scenario (%) 
+10 
+= 
+Duration for cumulative emission rate (years) 
+Where destruction of propellants by the project activity is mandated by law, statute, or other 
+regulatory framework applying in the source country, the baseline must be gradually increasing 
+compliance with such law, statute, or other regulatory framework, and the baseline GHG 
+emissions must be calculated as follows:  
+VM0016, v2.0 
+23 
+𝐵𝐸𝑝𝑟𝑜𝑝,𝑎,𝑦= 𝐵𝐸𝑝𝑟𝑜𝑝,𝑦× (1 −𝐶𝑜𝑚𝑝𝑅𝑦) 
+(16) 
+Where:  
+BEprop,a,y 
+= 
+Adjusted baseline emissions from propellants, used to calculate 
+reductions in year y (t CO2e) 
+BEprop,y 
+= 
+Baseline emissions from propellants that would be released into the 
+atmosphere in year y in the absence of the project activity (t CO2e) 
+CompRy 
+= 
+Rate of compliance with law, statute, or other regulatory framework in 
+the source country in year y (%) 
+8.2 
+Project Emissions 
+Project emissions in year y are those related to the project activity and caused by energy 
+consumption at the aggregation and destruction facilities, ODS or HFC transportation, and ODS 
+or HFC destruction.  
+Project emissions may be calculated by using an overall default emission factor (Option A) or 
+using project-specific data (Option B). 
+Option A: Default emission factor 
+A default emission factor is used to estimate total project emissions. Project proponents using 
+this option are not required to apply Sections 8.2.1 to 8.2.3. 
+The project emissions are calculated as follows: 
+𝑃𝐸𝑦= ∑
+(𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝐵𝐴,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦)
+𝑛
+𝑖=1
+× 𝐸𝐹𝑐𝑜𝑛𝑐+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚,𝑖,𝑦× 𝐸𝐹𝑑𝑖𝑙𝑢𝑡𝑒 
+ 
+(17) 
+Where: 
+PEy 
+= 
+Project emissions in year y (t CO2e) 
+MDESTR,refr,i,y 
+= 
+Quantity of refrigerant i sent for destruction in the project activity in 
+year y (t)  
+MDESTR,BA,i,y 
+= 
+Quantity of concentrated blowing agent i recovered from refrigerated 
+appliance insulation foam and sent for destruction by the project 
+activity in year y (t) 
+MDESTR,fire,i,y 
+= 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y (t)  
+MDESTR,prop,i,y 
+= 
+Quantity of propellant i sent for destruction by the project activity in 
+year y (t)  
+EFconc 
+= 
+Default emission factor for project emissions from concentrated ODS 
+and/or HFC destruction (7.5 tCO2e/t ODS or HFC destroyed) 
+VM0016, v2.0 
+24 
+MDESTR,foam,i,y 
+= 
+Quantity of blowing agent i contained in refrigerated appliance 
+insulation foam and sent for destruction as intact foam by the project 
+activity in year y (t) 
+EFdilute 
+= 
+Default emission factor for project emissions from dilute ODS and/or 
+HFC destruction (75 tCO2e/t ODS or HFC contained in intact foam 
+destroyed) 
+ 
+Option B: Project-specific data 
+Project-specific data is used to estimate total project emissions. Project proponents using this 
+option must apply Sections 8.2.1 to 8.2.3. 
+𝑃𝐸𝑦= 𝑃𝐸𝐸𝑛𝑒𝑟𝑔𝑦𝐶𝑜𝑛𝑠𝑢𝑚𝑝,𝑦+ 𝑃𝐸𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡,𝑦+ 𝑃𝐸𝐷𝑒𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛,𝑦 
+(18) 
+ 
+Where: 
+PEy 
+= 
+Project emissions in year y (t CO2e) 
+PEEnergy_Consump,y 
+= 
+Project emissions from energy consumption at the aggregation facility 
+in year y (t CO2e) 
+PETransport,y 
+= 
+Project emissions from ODS or HFC transportation in year y (t CO2e) 
+PEDestruction,y 
+= 
+Project emissions from ODS or HFC destruction in year y (t CO2e) 
+ 
+8.2.1 Project Emissions from Energy Consumption (PEEnergy_Consump,y) 
+𝑃𝐸𝐸𝑛𝑒𝑟𝑔𝑦𝐶𝑜𝑛𝑠𝑢𝑚𝑝,𝑦= 𝑃𝐸𝐸𝐶,𝑦+ 𝑃𝐸𝐹𝐶,𝑦 
+(19) 
+Where: 
+PEEnergy_Consump,y 
+= 
+Project emissions from energy consumption at the aggregation facility 
+in year y (t CO2e) 
+PEEC,y 
+= 
+Project emissions from grid electricity consumption at the aggregation 
+facility and plasma arc destruction facility in year y (t CO2e) 
+PEFC,y 
+= 
+Project emissions from fossil fuel consumption attributable to the 
+aggregation facility, including third-party fossil fuel used to generate 
+energy for the aggregation facility in year y (t CO2e) 
+Emissions from electricity consumption must be quantified for aggregation facilities and for 
+destruction facilities with plasma arc incinerators in accordance with Equation (20). For other 
+types of destruction facilities, these emissions, and emissions from fossil fuel consumption 
+are assumed to be de minimis, as only a relatively small proportion of ODS or HFC material is 
+fed into the destruction device along with other material with significant fuel value.  
+VM0016, v2.0 
+25 
+𝑃𝐸𝐸𝐶,𝑦= 𝐸𝐶𝐴𝐹,𝑦× 𝐸𝐹𝐴𝐹 𝑔𝑟𝑖𝑑,𝑦× (1 + 𝑇𝐷𝐿𝐴𝐹,𝑦)
++ 𝐸𝐶𝑃𝑙𝑎𝑠𝑚𝑎,𝑦× 𝐸𝐹𝑃𝑙𝑎𝑠𝑚𝑎 𝑔𝑟𝑖𝑑,𝑦× (1 + 𝑇𝐷𝐿𝑃𝑙𝑎𝑠𝑚𝑎,𝑦) 
+(20) 
+Where: 
+PEEC,y 
+= 
+Project emissions from grid electricity consumption at the aggregation
+facility and plasma arc destruction facility in year y (t CO2e 
+ECAF,y 
+= 
+Amount of grid electricity consumed at the aggregation facility and 
+plasma arc destruction facility in year y (MWh) 
+EFAF grid,y 
+= 
+Grid emission factor of the aggregation facility in year y (t CO2e/MWh) 
+TDLAFy 
+= 
+Average technical transmission and distribution losses in the grid for 
+the voltage level at which grid electricity is obtained by the 
+aggregation facility in year y (%) 
+ECPlasma,y 
+= 
+Amount of grid electricity consumed at the plasma arc destruction 
+facility in year y (MWh) 
+EFPlasma grid,y 
+= 
+Grid emission factor of the plasma arc destruction facility in year y 
+(t CO2e/MWh) 
+TDLPlasma, y 
+= 
+Average technical transmission and distribution losses in the grid for 
+the voltage level at which grid electricity is obtained by the plasma 
+arc destruction facility in year y (%) 
+ 
+Project emissions from fuel consumption must be quantified for all aggregation facilities as 
+follows: 
+𝑃𝐸𝐹𝐶,𝑦= ∑𝐹𝐶𝑓,𝑦× 𝐶𝑂𝐸𝐹𝑓,𝑦
+𝑓
+ 
+(21) 
+Where: 
+PEFC,y 
+= 
+Project emissions from fossil fuel consumption attributable to the 
+aggregation facility, including third-party fossil fuel used to generate 
+energy for the aggregation facility in year y (t CO2e) 
+FCf,y 
+= 
+Amount of fossil fuel type f combusted at the aggregation facility or 
+at any third-party facility generating energy for the aggregation 
+facility in year y (mass or volume unit) 
+COEFf,y 
+= 
+CO2 emission coefficient of fossil fuel type f in year y (t CO2e/mass 
+or volume unit)  
+The CO2 emission coefficient (COEFf,y) may be calculated in two different ways, depending on 
+available data. Option A should be used where relevant data are available. 
+Option A: COEFf,y is calculated based on the chemical composition of fossil fuel type f, as 
+follows:  
+Where FCf,y is measured in a mass unit: 
+VM0016, v2.0 
+26 
+𝐶𝑂𝐸𝐹𝑓,𝑦= 𝑤𝐶,𝑓,𝑦× 44
+12 
+(22) 
+Where FCf,y is measured in a volume unit: 
+𝐶𝑂𝐸𝐹𝑓,𝑦= 𝑤𝐶,𝑓,𝑦× 𝜌𝑓,𝑦× 44
+12 
+(23) 
+Where: 
+COEFf,y 
+= 
+CO2 emission coefficient of fossil fuel type f in year y (t CO2e/mass 
+or volume unit)  
+wC,f,y 
+= 
+Weighted average mass fraction of carbon in fuel type f in year y 
+(t C/mass unit of fuel) 
+ρf,y 
+= 
+Weighted average density of fuel type f in year y (mass unit/volume 
+unit of fuel) 
+Option B: COEFf,y is calculated based on net calorific value and CO2 emission factor of fossil fuel 
+type f, as follows:  
+𝐶𝑂𝐸𝐹𝑓,𝑦= 𝑁𝐶𝑉𝑓,𝑦× 𝐸𝐹𝐶𝑂2,𝑓,𝑦 
+(24) 
+Where: 
+COEFf,y 
+= 
+CO2 emission coefficient of fossil fuel type f in year y (t CO2e/mass 
+or volume unit)  
+NCVf,y 
+= 
+Weighted average net calorific value of fossil fuel type f in year y 
+(GJ/mass or volume unit) 
+EFCO2,f,y 
+= 
+Weighted average CO2 emission factor of fossil fuel type f in year y 
+(t CO2e/GJ) 
+8.2.2 Project Emissions from Transportation (PETransport,y) 
+For project emissions due to ODS or HFC transportation, the project proponent must apply the 
+following equation:  
+𝑃𝐸𝑇𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡,𝑦=
+∑(𝐾𝐾𝑇𝑖× 𝐸𝐹𝐾𝐾𝑇𝑖)
+𝑖
+1000
+ 
+(25) 
+Where: 
+PETransport,y 
+= 
+Project emissions from ODS or HFC transportation in year y (t CO2e) 
+KKTi 
+= 
+Kilogram-kilometers traveled for destroyed ODS or HFC i, including any 
+accompanying material and containers, from point of aggregation to 
+destruction (kg-km) 
+EFKKT 
+= 
+CO2 emissions per kilogram-kilometer traveled (kg CO2e/kg-km) 
+1000 
+= 
+Conversion from kilograms to tonnes 
+VM0016, v2.0 
+27 
+8.2.3 Project Emissions from Destruction (PEDestruction,y) 
+𝑃𝐸𝐷𝑒𝑠𝑡𝑟𝑢𝑐𝑡𝑖𝑜𝑛,𝑦= 𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝑂𝐷𝑆,𝐻𝐹𝐶+ 𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝐶𝑂2 + 𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝐼𝑁𝐶𝐼𝑁 
+(26) 
+Where: 
+PEDestruction,y 
+= 
+Project emissions from ODS or HFC destruction in year y (t CO2e) 
+PEDESTR_ODS,HFC 
+= 
+Project emissions from ODS or HFC not destroyed in year y (t CO2e) 
+PEDESTR_CO2 
+= 
+Project emissions of CO2 from oxidation of ODS or HFC in year y (t CO2e) 
+PEDESTR_INCIN 
+= 
+Project emissions of GHGs from incineration of recovered insulation 
+foam in year y, where applicable (t CO2e) 
+ 
+𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝑂𝐷𝑆,𝐻𝐹𝐶= ∑[(𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝐵𝐴,𝑖,𝑦
+𝑖
++ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦
++ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦) × (1 −𝐷𝑅𝐸𝑐𝑜𝑛𝑐)
++ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚,𝑖,𝑦× (1 −𝐷𝑅𝐸𝑑𝑖𝑙𝑢𝑡𝑒)] × 𝐺𝑊𝑃𝑖 
+(27) 
+Where: 
+PEDESTR_ODS,HFC 
+= 
+Project emissions from ODS or HFC not destroyed in year y (t CO2e) 
+MDESTR,refr,i,y 
+= 
+Quantity of refrigerant i sent for destruction in the project activity in year 
+y (t) 
+MDESTR,BA,i,y 
+= 
+Quantity of concentrated blowing agent i recovered from refrigerated 
+appliance insulation foam and sent for destruction by the project 
+activity in year y (t) 
+MDESTR,fire,i,y 
+= 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y (t) 
+MDESTR,prop,i,y 
+= 
+Quantity of propellant i sent for destruction by the project activity in year 
+y (t) 
+MDESTR,foam,i,y 
+= 
+Quantity of blowing agent i contained in refrigerated appliance 
+insulation foam and sent for destruction as intact foam by the project 
+activity in year y, calculated using Equation (7) (t) 
+DREconc 
+= 
+Minimum concentrated destruction efficiency of destruction facility (%) 
+DREdilute 
+= 
+Minimum dilute destruction efficiency of destruction facility (%) 
+GWPi 
+= 
+Global warming potential of ODS or HFC i (t CO2e/t) 
+𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝐶𝑂2 = ∑[(𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦+ 𝑀𝐷𝐸𝑆𝑇𝑅,𝐵𝐴,𝑖,𝑦
+𝑖
++ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦
++ 𝑀𝐷𝐸𝑆𝑇𝑅,𝑝𝑟𝑜𝑝,𝑖,𝑦) × 𝐷𝑅𝐸𝑐𝑜𝑛𝑐
++ (𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚,𝑖,𝑦× 𝐷𝑅𝐸𝑑𝑖𝑙𝑢𝑡𝑒)] × 𝐶𝑅𝑖× 44
+12 
+(28) 
+Where: 
+PEDESTR_CO2 
+= 
+Project emissions of CO2 from oxidation of ODS or HFC in year y (t CO2e) 
+MDESTR,refr,i,y 
+= 
+Quantity of refrigerant i sent for destruction in the project activity in year 
+y (t) 
+VM0016, v2.0 
+28 
+MDESTR,BA,i,y 
+= 
+Quantity of concentrated blowing agent i recovered from refrigerated 
+appliance insulation foam and sent for destruction by the project 
+activity in year y (t) 
+MDESTR,fire,i,y 
+= 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y (t) 
+MDESTR,prop,i,y 
+= 
+Quantity of propellant i sent for destruction by the project activity in year 
+y (t) 
+MDESTR,foam,i,y 
+= 
+Quantity of blowing agent i contained in refrigerated appliance 
+insulation foam and sent for destruction as intact foam by the project 
+activity in year y calculated using Equation (7) (t) 
+DREconc 
+= 
+Minimum concentrated destruction efficiency of destruction facility (%) 
+DREdilute 
+= 
+Minimum dilute destruction efficiency of destruction facility (%) 
+CRi 
+= 
+Carbon ratio of ODS or HFC i (molecular weight C/molecular weight ODS 
+or HFC) 
+44/12 
+= 
+Ratio of molecular weight of CO2 to C  
+ 
+𝑃𝐸𝐷𝐸𝑆𝑇𝑅𝐼𝑁𝐶𝐼𝑁= 𝐹𝑜𝑎𝑚𝑖,𝑦× 𝐸𝐹𝐷𝐸𝑆𝑇𝑅,𝑓𝑜𝑎𝑚 
+(29) 
+Where: 
+PEDESTR_INCIN 
+= 
+Project emissions of GHGs from the incineration of recovered insulation 
+foam in year y (t CO2e) 
+Foami,y 
+= 
+Quantity of refrigerated appliance insulation foam sent for destruction 
+by the project activity in year y (t) 
+EFDESTR,foam 
+= 
+CO2 emissions from incineration of foam pieces (t CO2e/t material 
+combusted) 
+8.3 
+Leakage 
+Leakage emissions may occur where the refrigerant or fire suppression agent would have been 
+reused in the baseline scenario and must be substituted by other chemicals in the project 
+scenario, with gradual release. Where refrigerants and fire suppression agents are destroyed, 
+their continued demand will lead to the consumption of other refrigerant and fire suppression 
+agent chemicals whose production is still legal.  
+Project activities where the baseline scenario is the atmospheric release of the substance or its 
+continued storage in a stockpile (e.g., because it cannot be legally sold) are not required to 
+account for this source of leakage. 
+For project activities where the baseline scenario is recovery and reuse, the project proponent 
+must consider a substitute chemical derived from official published data, research, industry 
+studies (e.g., UNEP Refrigeration and Air Conditioning Technical Options Committee, UNEP Fire 
+Suppression Technical Options Committee), or default values.  
+VM0016, v2.0 
+29 
+The default substitute refrigerant is assumed to be HFC-32. Although other potential substitute 
+refrigerants may include hydrocarbons and hydrofluoroolefins (HFOs) (e.g., HFO-1234yf), HFC-
+32 was selected as a conservative assumption due to its higher GWP. 
+The default substitute fire suppression agent is assumed to be a substance with GWP = 1. 
+Although low or non-GHG (i.e., GWP < 1 or 0) are becoming increasingly used, a conservative 
+assumption is selected as a default. 
+Total leakage emissions are calculated as follows: 
+𝐿𝐸𝑦= 𝐿𝐸𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑦+ 𝐿𝐸𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑦 
+(30) 
+Where: 
+LEy 
+= 
+Leakage emissions in year y (t CO2e) 
+LErefr,substitute,y 
+= 
+Leakage emissions from substitute refrigerant in year y (t CO2e) 
+LEfire,substitute,y 
+= 
+Leakage emissions from substitute fire suppression agent during year 
+y (t CO2e) 
+ 
+ 
+𝐿𝐸𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑦= 
+∑
+∑
+(𝑀𝐷𝐸𝑆𝑇𝑅,𝑟𝑒𝑓𝑟,𝑖,𝑦× 𝑅𝑅𝑟𝑒𝑓𝑟,𝑖,𝑦)
+𝑛
+𝑖=1
+× 𝑇𝐿𝑅𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠× 𝐺𝑊𝑃𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠
+𝑆
+𝑠=1
+ 
+ 
+ 
+(31) 
+Where: 
+LErefr,substitute,y 
+= 
+Leakage emissions from substitute refrigerant in year y (t CO2e) 
+MDESTR,refr,i,y 
+= 
+Quantity of refrigerant i sent for destruction in the project activity in 
+year y (t) 
+RRrefr,i,y 
+= 
+Proportion of refrigerant i that would be used or reused in the baseline 
+scenario in year y (%)  
+TLRrefr,substitute,s 
+= 
+Total proportion of substitute refrigerant s leaked over a 10-year  
+period (%) 
+GWPrefr,substitute,s 
+= 
+Global warming potential of substitute refrigerant s (t CO2e/t) 
+ 
+𝑇𝐿𝑅𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠= 1 −(1 −𝐿𝑅𝑟𝑒𝑓𝑟,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠)
+10 
+(32) 
+VM0016, v2.0 
+30 
+Where: 
+TLRrefr,substitute,s 
+= 
+Total proportion of substitute refrigerant s leaked over a 10-years 
+period (%) 
+LRrefr,substitute,s  
+= 
+Leak rate of substitute refrigerant s in year y (%)  
+10 
+= 
+Duration for cumulative emission rate (years) 
+ 
+𝐿𝐸𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑦= 
+∑
+∑
+(𝑀𝐷𝐸𝑆𝑇𝑅,𝑓𝑖𝑟𝑒,𝑖,𝑦× 𝑅𝑅𝑓𝑖𝑟𝑒,𝑖,𝑦)
+𝑛
+𝑖=1
+× 𝑇𝐿𝑅𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠𝑖× 𝐺𝑊𝑃𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠
+𝑆
+𝑠=1
+ 
+(33) 
+Where: 
+LEfire,substitute,y 
+= 
+Leakage emissions from substitute fire suppression agent during year 
+y (t CO2e) 
+MDESTR,fire,i,y 
+= 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y (t) 
+RRfire,i,y 
+= 
+Proportion of fire suppression agent i that would be used, reused, or 
+remain in storage in the baseline scenario in year y (%)  
+TLRfire,substitute,s 
+= 
+Total proportion of substitute fire suppression agent s leaked over a 
+10-years period (%) 
+GWPfire,substitute,s 
+= 
+Global warming potential of substitute fire suppression agent s 
+(t CO2e/t) 
+ 
+𝑇𝐿𝑅𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠= 1 −(1 −𝐿𝑅𝑓𝑖𝑟𝑒,𝑠𝑢𝑏𝑠𝑡𝑖𝑡𝑢𝑡𝑒,𝑠)
+10 
+(34) 
+Where: 
+TLRfire,substitute,s 
+= 
+Total proportion of substitute fire suppression agent s leaked over a 
+10-years period (%) 
+LRfire,substitute,s  
+= 
+Leak rate of substitute fire suppression agent s (%)  
+10 
+= 
+Duration for cumulative emission rate (years) 
+8.4 
+Net Reductions and Removals 
+Net reductions are calculated as follows:  
+𝐸𝑅𝑦= 𝐵𝐸𝑦−𝑃𝐸𝑦−𝐿𝐸𝑦 
+(35) 
+Where: 
+ERy 
+= 
+Total reductions in year y (t CO2e) 
+BEy 
+= 
+Total quantity of baseline emissions from refrigerants, blowing agents, 
+propellants, and fire suppression agents from products and/or 
+stockpiles that would be released into the atmosphere in year y in the 
+absence of the project activity (t CO2e) 
+VM0016, v2.0 
+31 
+PEy 
+= 
+Project emissions in year y (t CO2e) 
+LEy 
+= 
+Leakage emissions in year y (t CO2e)

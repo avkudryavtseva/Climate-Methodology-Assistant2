@@ -1,0 +1,75 @@
+4 APPLICABILITY CONDITIONS 
+The methodology applies to project activities which reduce the amount of food that would 
+otherwise have left the human food chain by being discarded. Project activities may prevent this 
+loss or waste of food products at different stages in the food chain (e.g., at farm level; during 
+transport; in storage; at a food processing facility, retail outlet, foodservice/hospitality location; in 
+households). 
+The methodology is applicable under the following conditions: 
+1) The project activity must reduce the amount of food lost or wasted compared to the 
+baseline scenario.  
+2) Project activities must introduce or implement one or more changes at any stage of the 
+food’s life cycle.8 The following are examples of project activities that may reduce the 
+amount of food discarded at different stages (not exhaustive):9 
+ 
+6 Ibid. 
+7 What is considered inedible varies among users (e.g., chicken feet are consumed in some food value chains but not 
+others), changes over time, and is influenced by a range of variables including culture, socio-economic factors, availability, 
+price, technological advances, international trade, and geography. In some sectors, inedible parts may also be referred to 
+as by-products or co-products. 
+8 Including farms and agricultural cooperatives, retailers and warehouses, restaurants, canteens, food vendors and other 
+business-to-consumer and food stakeholders directly selling or serving food to end-users and private households 
+9 Taken from ReFED Solutions Database. For more info and additional solutions see: https://insights-
+engine.refed.org/solution-database?dataView=total&indicator=us-dollars-profit  
+ 
+VM0046, v1.0 
+7 
+ 
+(a) 
+Farm level: gleaning; value-added processing; donation coordination and 
+matching; imperfect and surplus produce channels 
+(b) 
+Processing and warehouse level: reduced warehouse handling; intelligent routing; 
+intelligent packaging; improved packaging design; standardized date labels; 
+enhanced demand planning; manufacturing line optimization; food donations 
+(c) 
+Retailer level: dynamic pricing; value-added processing; enhanced demand 
+planning; markdown alert applications; food donations 
+(d) 
+Residential and foodservice/hospitality level: education campaigns; smart 
+refrigerators; lunch improvements; flexible portions; buffet signage 
+3) All recovered food must adhere to relevant food health and safety legislation in the 
+jurisdiction containing the project activity. 
+4) The project activity must divert food away from one of the following FLW destinations: 
+(a) 
+Anaerobic digestion (wet)    
+(b) 
+Anaerobic digestion (dry)   
+(c) 
+Composting   
+(d) 
+Controlled combustion, incineration   
+(e) 
+Landfill without flaring  
+(f) 
+Landfill with flaring  
+(g) 
+Open burning  
+(h) 
+Open dump  
+(i) 
+Sewer / wastewater  
+ 
+This methodology does not apply to:  
+ 
+5) Project activities that shift food from one FLW destination to another (e.g., from landfill to 
+composting10) as this does not reduce the amount of food leaving the human food 
+chain.11  
+ 
+ 
+10 For a methodology that credits these activities please refer to the Clean Development Mechanism (CDM) methodology 
+AMS-III.F. available at https://cdm.unfccc.int/UserManagement/FileStorage/V5BK1NFHM6ORYGI324CD78L0ZA9UJQ  
+11 This focus on “food waste avoidance” aligns with the priority of other FLW reduction targets and programs such as the 
+US EPA’s Food Recovery Hierarchy and UN Sustainable Development Goal 12.3. 
+ 
+VM0046, v1.0 
+8

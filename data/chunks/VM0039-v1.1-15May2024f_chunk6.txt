@@ -1,0 +1,346 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary encompasses the stages from raw material 
+acquisition to product installation and complies with the cradle-to-gate assessment principle 
+(Sinden, 2008).  As shown in Figure 1, the GHG impact of producing an asphalt mixture 
+must be calculated by summing the following emission sources: 
+1) GHGs associated with manufacturing each of the constituent and ancillary materials; 
+2) GHGs from transporting materials from factory to mixing plant; 
+3) GHGs from all forms of energy involved in producing the asphalt at the mixing plant; 
+and 
+4) GHGs from all forms of energy involved in milling the existing pavement and placing 
+new pavement, including relevant transport activities. 
+ 
+ VM0039, v1.1 
+ 
+9 
+ 
+Figure 1: Map of the Asphalt Life-Cycle 
+ 
+Maintenance and excavation of pavement is not included due to the high variability of 
+maintenance practices in each region. Maintenance activities can be classified into 
+preventive maintenance and structural improvement. Given the complexity of maintenance 
+methods, material sources, and equipment use, associated GHG emissions vary 
+significantly. The emission difference can only be captured after the maintenance activities 
+are complete. As the structural performance of FSB and asphalt emulsions are comparable 
+to the baseline HMA method, the frequency of pavement maintenance is generally the same 
+(Bemanian et al., 2006; Morian et al., 2005). There is an insignificant difference in post-
+installation emissions between FSB/asphalt emulsions and HMA. The boundary also 
+excludes GHG emissions associated with the production of capital goods having lifetimes 
+longer than one year and the transportation of employees to and from their normal place of 
+work. 
+5.1 
+Boundary for Baseline Emissions 
+The estimation of baseline emissions for HMA projects begins with the production of raw 
+materials at manufacturer sites and ends with the delivery of the final pavement product to 
+the customer. It includes all energy-consuming activities of equipment and machinery at 
+supplier sites, the hot mix facility, the job site, and associated transportation. The emission 
+sources covered within the system boundary include production materials, manufacturing 
+equipment/vehicles, operation of the plant office, and transport and storage of input 
+materials (Sinden 2008). Specifically, the boundary for HMA systems consists of energy 
+consumption for quarrying/producing the mineral aggregates and bitumen binder, 
+transportation to and at the HMA production plant, storage, heating of the individual 
+components (including aggregates and bitumen binder), mixing, and the transportation and 
+installation of the mix at the job site, as shown in Figure 2. 
+ VM0039, v1.1 
+ 
+10 
+ 
+Figure 2: Diagram of HMA Production and Placement 
+ 
+5.2 
+Boundary for Project Emissions from CCPR Process  
+The estimation of project emissions for CCPR projects begins with the transportation of raw 
+and recycled materials to a central plant and ends with the delivery of the final pavement 
+product to the customer. CCPR projects transport milled materials from an existing jobsite to 
+a central plant where FSB or asphalt emulsions are processed through a pug mill. 
+Production of FSB begins with the crushing of RAP, which diverts waste from landfills. Once 
+the crushed pavement is sized, the unheated RAP is then blended with foamed bitumen (or 
+asphalt emulsions) and a small amount of Portland cement in a cold mixing process. Figure 
+3 shows the major processes included in a CCPR project. The boundary consists of the 
+energy consumption for milling the existing pavement, producing bitumen binder and water, 
+transportation to and at the FSB and asphalt emulsions production plant, heating of 
+bitumen binder, mixing, transportation of materials and resources to the project site, and 
+installation of the mix. 
+ VM0039, v1.1 
+ 
+11 
+ 
+Figure 3: CCPR Project Activities and Associated GHG Sources 
+ 
+Note: Double-lined arrows signify included transportation; dashed-line arrows signify the separation of 
+activities in different locations. 
+5.3 
+Boundary for Project Emissions from CIR and FDR Systems  
+The estimation of project emissions for CIR and FDR projects begins with the transportation 
+of raw materials to a job site and ends with the delivery of the final pavement product to the 
+customer. CIR and FDR use one or more mobile recycling machines for milling, production, 
+and placement in a continuous operation at the pavement site. It reconstructs the roadways 
+by using special equipment to mill up the existing pavement, mix it with hot bitumen oil (or 
+asphalt emulsions) and additives, and then immediately place it back down on the road by 
+permanent placement with a paver and rollers. CIR and FDR allow a paving contractor to 
+use the aggregate from the existing road and, by adding liquid asphalt cement (consisting of 
+under 3% of the total volume), it reduces the emissions of new aggregate materials and new 
+liquid asphalt cement that must be shipped from the producer's plant site. Figure 4 shows 
+the major activities included in CIR and FDR systems. The project boundary includes 
+production of bitumen, water, and cement, operation of recycler and rollers, and 
+transportation and storage of input materials. 
+ 
+ VM0039, v1.1 
+ 
+12 
+ 
+Figure 4: CIR and FDR Project Activities and Associated GHG Sources 
+ 
+5.4 
+GHG Sources Included and Excluded from the Project Boundary  
+The greenhouse gases included in or excluded from the project boundary are shown in Table 
+1. 
+Table 1: GHG Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+HMA (Baseline) 
+Raw 
+material 
+acquisition 
+CO2 
+Yes 
+GHGs are released from energy consumption in 
+material manufacture process 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Raw 
+material 
+transport 
+CO2 
+Yes 
+GHGs are released from fuel consumption for 
+transporting materials from producers to central 
+plant. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+In-plant 
+production 
+CO2 
+Yes 
+GHGs are generated from the usage of natural gas 
+by the drum mixer, plant electricity (including 
+electricity for plant office), and diesel 
+equipment/vehicles operated for producing HMA at 
+the central plant. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+To-site 
+transport 
+CO2 
+Yes 
+GHGs are released from fuel consumption for 
+transporting materials from the central plant to 
+construction site. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Installation 
+CO2 
+Yes 
+GHGs are released from diesel consumption by 
+construction equipment/vehicles, including asphalt 
+paving machine, backhoe, bobcat/loader, 
+sweeper/broom, air compressor, roller, trucks, etc. 
+ VM0039, v1.1 
+ 
+13 
+ 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Maintenance 
+CO2 
+No 
+GHGs from maintenance and rehabilitation are 
+excluded due to uncertain traffic volume, failure 
+type and repair options. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Excavation 
+CO2 
+No 
+GHGs from excavation are excluded due to the 
+uncertainty in determining pavement disposal 
+options (e.g., landfill, recycling, remain in place). 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+CCPR (Project Scenario 1) 
+Raw 
+material 
+acquisition 
+CO2 
+Yes 
+GHGs are released from energy consumption in 
+material manufacture process. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Raw 
+material 
+transport 
+CO2 
+Yes 
+GHGs are released from fuel consumption for 
+transporting materials from producers to the central 
+plant. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+FSB/asphalt 
+emulsions 
+production 
+CO2 
+Yes 
+GHGs are generated from the usage of electricity by 
+plant office, bitumen heater and crusher and diesel 
+equipment/vehicles operated for producing 
+FSB/asphalt emulsions at the central plant. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+To-site 
+transport 
+CO2 
+Yes 
+GHGs are released from fuel consumption for 
+transporting materials from the central plant to the 
+construction site. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Installation 
+CO2 
+Yes 
+GHGs are released from fuel consumption by 
+construction equipment/vehicles, including asphalt 
+paving machine, backhoe, bobcat/loader, 
+sweeper/broom, air compressor, roller, trucks, etc. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Maintenance 
+CO2 
+No 
+GHGs from maintenance and rehabilitation are 
+excluded due to uncertain traffic volume, failure 
+type and repair options. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Excavation 
+CO2 
+No 
+GHGs from excavation are excluded due to the 
+uncertainty in determining pavement disposal 
+options (e.g., landfill, recycling, remain in place). 
+CH4 
+No 
+Not significant 
+ VM0039, v1.1 
+ 
+14 
+ 
+N2O 
+No 
+CIR or FDR (Project Scenario II) 
+Raw 
+material 
+acquisition 
+CO2 
+Yes 
+GHGs are released from energy consumption in 
+material manufacture process. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Raw 
+material 
+transport 
+CO2 
+Yes 
+GHGs are released from fuel consumption for 
+transporting materials from producers to the job 
+site. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+FSB/asphalt 
+emulsions 
+Production & 
+Placement 
+CO2 
+Yes 
+GHGs are released from fuel consumption by 
+construction equipment/vehicles, including, but not 
+limited to a cold recycler (e.g., Wirtgen 3800 CR), a 
+cement spreader, a water truck, a bitumen truck, a 
+vibratory roller and a pneumatic roller. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Maintenance 
+CO2 
+No 
+GHGs from maintenance and rehabilitation are 
+excluded due to uncertain traffic volume, failure 
+type and repair options. 
+CH4 
+No 
+Not significant 
+N2O 
+No 
+Excavation 
+CO2 
+No 
+GHGs from excavation are excluded due to the 
+uncertainty in determining pavement disposal 
+options (e.g., landfill, recycling, remain in place). 
+CH4 
+No 
+Not significant 
+N2O 
+No

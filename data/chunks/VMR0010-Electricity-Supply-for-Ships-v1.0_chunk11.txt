@@ -1,0 +1,20 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+The monitoring tables in the revised methodology are the same as in AMS-III.BP with the 
+following underlined phrases added: 
+• 
+Electricity consumed by the ship i docked at the project berth or anchored off-shore during 
+year y. 
+• 
+The shore-side electricity or off-shore source consumed by the ship i from the source k at 
+the project berth in year y 
+• 
+Shore-side or off-shore electricity supply source k 
+ 
+VMR0010, v1.0 
+ 
+8 
+9.2 
+Description of the Monitoring Plan 
+No change from AMS-III.BP.

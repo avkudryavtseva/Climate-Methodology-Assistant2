@@ -1,0 +1,209 @@
+9 MONITORING 
+Project proponents must follow the monitoring procedures of the most recent version of AMS-
+III.AV. and apply the changes indicated in this section.  
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+EFb,k,CO2 
+Data unit 
+t CO2/TJ 
+ 
+3 For instance, a household that boils water for drinking 10 times per week: 7 times on a traditional three-stone fire 
+(device efficiency = 10%) and 3 times using an improved cookstove (device efficiency = 35%). The household-specific 
+baseline efficiency (ηwb) is calculated as: (0.7 × 10%) + (0.3 × 35%) = 17.5%. 
+ 
+VMR0015, v1.0 
+9 
+Description 
+CO2 emission factor for fuel used by baseline device type k in the 
+baseline scenario 
+Equations 
+(1) 
+Source of data 
+The following data sources may be used, listed in descending order of 
+preference: 
+• 
+Option 1: Project-specific value 
+• 
+Option 2: Regional or national default values 
+• 
+Option 3: Default value from the most recent version of the 
+IPCC Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+Depends on the source of data chosen 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The values must be determined ex ante using one of the following 
+sources: 
+1) Testing in accredited/recognized laboratories: Measurements 
+must be undertaken in line with national or international fuel 
+standards 
+2) Use of national default values 
+3) Use of default values from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories. Values 
+from 2006 are given below: 
+Wood: 112 t CO2/TJ 
+Charcoal:  
+• 
+112 t CO2/TJ (combustion only): Apply where 
+renewable charcoal is used in the project and 
+emissions from production of charcoal are estimated 
+as project emissions (PEfugitive,y) in line with VM0050. 
+• 
+165.22 t CO2/TJ (combustion and charcoal production 
+emissions): Apply where non-renewable biomass 
+charcoal is used in the baseline, or in the baseline 
+and project. 
+IPCC guidelines are a recognized source.  
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+ 
+Data/Parameter 
+EFb,k,nonCO2 
+Data unit 
+t CO2e/TJ 
+Description 
+Non-CO2 emission factor for fuel used by baseline device type k in the 
+baseline scenario 
+ 
+VMR0015, v1.0 
+10 
+Equations 
+(1) 
+Source of data 
+The following data sources may be used, listed in descending order of 
+preference: 
+• 
+Option 1: Project-specific value 
+• 
+Option 2: Regional or national default values 
+• 
+Option 3: Default value from the most recent version of the 
+IPCC Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+Depends on the source of data chosen 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The values must be determined ex ante using one of the following 
+sources: 
+1) Testing in accredited/recognized laboratories: Measurements 
+must be undertaken in line with national or international fuel 
+standards 
+2) Use of national default values 
+3) Use of default values from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories. Values 
+from 2006 are given below: 
+ Wood: 9.46 t CO2e/TJ (AR5 GWP) 
+ Charcoal:  
+• 
+5.865 t CO2e/TJ (combustion only, AR5 GWP) 
+• 
+44.83 t CO2e/TJ (includes charcoal production) 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+AdjLE 
+Data unit 
+fraction 
+Description 
+Adjustment factor to account for leakage related to non-renewable 
+woody biomass saved by the project activity 
+Equations 
+(1) 
+Source of data 
+Procedures from the most recent version of AMS-III.AV. must be applied  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Procedure from the most recent version of methodology AMS-III.AV. 
+ 
+VMR0015, v1.0 
+11 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Parameter fixed at validation  
+ 
+9.2 
+Data and Parameters Monitored 
+Data/Parameter 
+fNRB,i,y 
+Data unit 
+Fraction or % 
+Description 
+Fraction of non-renewable fuel type i used in the absence of the project 
+activity in year y 
+Equations 
+(1) 
+Source of data 
+Where the baseline fuel is woody biomass, one of the following sources 
+must be used: 
+1) Most recent national default values published by the UNFCCC 
+2) Calculated based on CDM TOOL30 and applying an uncertainty 
+discount of 26%4 
+3) Default value from the most recent version of CDM TOOL33 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See “Source of data.” 
+Frequency of 
+monitoring/recording 
+Each crediting period. 
+Project proponents applying draft UNFCCC national default values must 
+apply the updated approved default values in any verification request 
+submitted after UNFCCC approval of the default values.  
+QA/QC procedures to be 
+applied 
+Where using UNFCCC fNRB values, project proponents must report the 
+related uncertainties along with the value in the project description.  
+Purpose of data 
+Calculation of baseline emissions  
+Calculation method 
+N/A 
+Comments 
+fNRB,i,y is equal to one where the baseline fuel is fossil fuel. 
+ 
+ 
+4 For example, if fNRB,i,y calculated based on TOOL30 is 0.60, then the fNRB,i,y applied to GHG emission reduction 
+calculations is 0.60 × (1 − 0.26) = 0.44. The 26% uncertainty discount is derived from 100% uncertainty in fNRB,i,y, 
+assuming a normal distribution. The discount is calculated using a standard deviation of 61% (100%/1.6449) and a 
+one-sided 66.6% confidence interval (61% × 0.4307 = 26%). A fixed uncertainty discount is applied across all projects 
+that use TOOL30 to calculate fNRB,i,y. 
+ 
+VMR0015, v1.0 
+12 
+9.3 
+Description of the Monitoring Plan 
+All monitoring requirements of AMS-III.AV. and applied tools must be followed in addition to the 
+following requirements: 
+1) Both the baseline and project survey questionnaires must contain a survey question that 
+allows the project proponent to capture any instances of interactive effects occurring 
+between a safe drinking water system/device and improved thermal energy generation 
+technologies in a residence or institution. The survey results related to this aspect must be 
+applied proportionally across the population of households to determine the emission 
+reductions.  
+2) The project proponent must compile data on each distributed device that is derived from 
+the total sales record, with project technologies differentiated by different project 
+scenarios. These data must be differentiated into sections based on the results of the 
+applicable monitoring studies for each project scenario, so that GHG emission reductions 
+can be calculated appropriately, section by section. The information captured for each 
+project device included in the project activity must include, at a minimum: 
+a) Date of sale 
+b) Geographic area of sale 
+c) Model/type of project technology sold/distributed 
+d) Name, telephone number (where available), and address of recipient 
+e) Unique alphanumeric ID or GPS coordinates of each device that is sold/distributed

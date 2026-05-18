@@ -1,0 +1,652 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to Avoiding Unplanned Deforestation project activities and is 
+applicable globally under the following conditions: 
+1) Baseline activities include planned or unplanned logging for timber, fuel-wood 
+collection, charcoal production, agriculture or grazing activities as long as the category 
+is Avoiding Unplanned Deforestation according to the most recent VCS Standard. 
+2) Project activities include one or a combination of the eligible categories defined in the 
+description of the methodology scope (Table 1 and Appendix 1).  
+3) The project area includes one or a combination of forest types, such as, but not limited 
+to, old-growth forest, degraded forest, secondary forests, planted forests or agro-
+forestry systems meeting the definition of “forest.” 
+4) At the project start, the project area includes only land qualifying as “forest” for a 
+minimum of 10 years prior to the project start date. 
+5) The project area may include forested wetlands (such as bottomland forests, floodplain 
+forests, mangrove forests) where they do not grow on peat (as defined in Section 0).  
+This methodology is not applicable under the following conditions: 
+6) The project area includes forested wetlands growing on peat (e.g., peat swamp forests). 
+5 PROJECT BOUNDARY (STEP 1) 
+The purpose of this step is to define the spatial and temporal boundaries, carbon pools and 
+sources of greenhouse gas (other than carbon stock changes) in the project. 
+5.1 
+Spatial Boundaries 
+Define the boundaries of the following spatial features: reference region, project area, leakage 
+belt, leakage management zones and forest. The reference region is the largest unit of land. 
+The project area, leakage belt and leakage management zones are subsets of the reference 
+region. The criteria used to define their boundaries must be described and justified in the PD. 
+The project proponent must provide digital (vector-based) files of these features in a format 
+specified by the most recent version of the VCS Standard. 
+5.1.1 Reference Region 
+The boundary of the reference region is the spatial delimitation of the analytic domain from 
+which information about rates, agents, drivers and patterns of land use and land cover change 
+(LU/LC change) will be obtained, projected into the future, and monitored. 
+ 
+VM0015, v1.2 
+ 
+13 
+The reference region should contain strata with agents, drivers and patterns of deforestation 
+that in the 10-year period prior to the start date of the proposed AUD project activity are similar 
+to those expected to exist within the project area. A geographic area is relevant for determining 
+the baseline scenario of the project area where it represents a credible proxy for future 
+deforestation patterns in the project area. 
+The boundary of the reference region must be defined as follows: 
+1) The reference region must be a single contiguous area that encompasses the project area 
+and the leakage belt. 
+2) The reference region must be larger than the project area. For projects equal to or larger 
+than 100 000 ha, the reference region must be five to seven times larger than the project 
+area. For projects smaller than 100 000 ha, the reference region must be 20-40 times the 
+size of the project area.7  
+3) The boundaries of the reference region must be unbiased and coincide with a combination 
+of natural and administrative boundaries so that land use and land cover related policies 
+are consistent across the reference area. Forests located in the same geography should 
+not be arbitrarily excluded. High deforestation areas should not be arbitrarily included in 
+the reference region. The rationale behind the reference region delineation must be 
+described in the PD. 
+4) Where a project area includes an entire forest island, the reference region must include 
+other islands or forested landscapes with similar conditions.  
+5) Where the current situation within the project area is expected to change (e.g., because of 
+population growth, infrastructure development or any other plausible reason), the 
+reference region must be divided into strata, each representing proxies for the chrono-
+sequence of current and future conditions within the project area. The boundary of such 
+strata may be static (fixed during a baseline validity period) or dynamic8 (changing every 
+year), depending on the modeling approaches used. 
+Once the boundary of the reference region is delineated, the project must demonstrate, using 
+verifiable data, that the conditions determining the likelihood of deforestation within the project 
+area are similar, or expected to become similar, to those found in the reference region.  
+The project area must be 100 percent forested at the project start date. A 5-km buffer (leakage 
+belt) surrounding the project area should be delineated to allow demonstration of similarity 
+between the reference region and non-forested areas adjacent to the project area. Alternatively, 
+the area may be delineated using mobility analysis. Where mobility analysis has been used to 
+ 
+7  Following Brown et al. (2007) 
+8 With shifting boundaries, according to modeled changes at the level of driver variables such as population, 
+infrastructure and others to be determined by the project proponent. 
+ 
+VM0015, v1.2 
+ 
+14 
+delineate the leakage belt, the same analysis should be used to demonstrate the likelihood of 
+deforestation within the project area. 
+Similarity of deforestation risk in the reference region and project area must be demonstrated 
+using three criteria: the agents and drivers of deforestation, landscape configuration and 
+ecological conditions and socio-economic and cultural conditions: 
+1) The main agents and all drivers of deforestation expected to cause deforestation within 
+the project area in the absence of the proposed AUD project activity must exist or have 
+existed elsewhere in the reference region. The following requirements must be met: 
+a) Deforestation agent groups (as identified in Section 6.2.1) expected to encroach 
+into the project area exist or have existed and caused deforestation elsewhere in 
+the reference region during the historical reference period. 
+b) Settlement density (settlements/km2) and road density (m/km2) in the reference 
+region at the start of the historical reference period is the same, less than or 
+does not exceed by more than 20 percent the settlement density surrounding the 
+project area, at the project start date. Where new or improved infrastructure (e.g., 
+roads, railroads, bridges, hydroelectric reservoirs) is expected to be developed 
+near or inside the project area,9 the reference region includes a stratum where 
+such infrastructure was built in the past and where the impact on forest cover 
+was similar to that expected from new or improved infrastructure in the project 
+area. Where the project area is adjacent to navigable rivers, their density (m/km2) 
+in the reference region is the same, less than or does not exceed by more than 
+20 percent the navigable river density in and surrounding the project area. 
+c) Any spatial deforestation driver considered relevant according to Section 6.2.2 
+(e.g., resettlement programs, mining and oil concessions) exists or has existed 
+elsewhere in the reference region. The historical impact of such drivers is similar 
+to that expected in the project area. 
+Agents and drivers that are present in the reference region, but unlikely to be present in 
+the project area must be identified, and the area affected by them removed from the 
+reference region. For example, since planned deforestation in the baseline case is 
+excluded from the project area, designated and planned deforestation must also be 
+excluded from the reference region. 
+2) The following landscape configuration and ecological conditions must be satisfied: 
+a) At least 90 percent of the project area has forest classes or vegetation types that 
+exist in at least 90 percent of the rest of the reference region. 
+ 
+9 Areas of planned deforestation in the baseline case must be excluded from the project area. 
+ 
+VM0015, v1.2 
+ 
+15 
+b) At least 90 percent of the project area is within the elevation range of at least 90 
+percent of the rest of the reference region. 
+c) The average slope of at least 90 percent of the project area is within ±10 percent 
+of the average slope of at least 90 percent of the rest of the reference region. 
+d) The average annual rainfall in at least 90 percent of the project area is within 
+±10 percent of the average annual rainfall of at least 90 percent of the rest of 
+the reference region. 
+e) At least 90 percent of the project area has soil types that exist in at least 90 
+percent of the reference region.  
+3) The following socio-economic and cultural conditions must be met: 
+a) The legal status of the land (e.g., private, forest concession, conservation 
+concession) prevalent in the reference region is demonstrated to be similar to 
+that expected to be prevalent in the project area under the baseline case. Where 
+the legal status of the project area is a unique case, demonstrate that legal 
+status is not biasing the baseline of the project area (e.g., by demonstrating that 
+access to the land by deforestation agents is similar to other areas with a 
+different legal status). 
+b) The land-tenure system prevalent in the project area in the baseline case is 
+prevalent in the reference region.  
+c) Current and projected classes of land use in the project area are found elsewhere 
+in the reference region. 
+d) The project area is governed by the same policies, legislation and regulations that 
+apply in the reference region. 
+e) The proportion of urbanized and agriculture-based population within the 
+reference region is within 10 percent of the proportion in the areas surrounding 
+the project area.  
+Any differences in land tenure or legal status systems between the project area and 
+reference region must not affect the drivers of deforestation and degradation or the 
+operation of the agents of deforestation and degradation. 
+At baseline reassessment, the project must demonstrate that the reference region remains a 
+credible proxy of deforestation patterns in the project area during the new baseline validity 
+period. The same conditions as above must be met. Any changes to the reference region that 
+lead to less conservative baseline GHG emissions should be justified by the revised analysis of 
+agents and drivers and demonstrated using verifiable evidence.    
+ 
+VM0015, v1.2 
+ 
+16 
+5.1.2 Project Area 
+The project area is the area(s) of land under control of the project proponent and where the 
+project activities will be carried out. The project area must be exclusively forest land at the 
+project start date. 
+Any area affected or expected to be affected by planned deforestation under the baseline 
+scenario must be excluded from the project area. Planned deforestation may only be included 
+in the project area where it is a project activity and accounted for in the project GHG emissions. 
+The project area must include areas projected to be deforested in the baseline case and may 
+include some other areas that are not threatened according to the first baseline assessment 
+(see Figure 1). Such areas will not generate VCUs, but they may be included where the project 
+proponent considers that future baseline reassessments are likely to indicate future 
+deforestation threats that it is not possible to demonstrate at the time of validation. 
+Where less than 80 percent of the total proposed area of the project is under the project 
+proponent’s control at validation, new discrete units of land may be integrated into an existing 
+project area where included in the monitoring report at the time of the first verification. Refer to 
+the most recent version of the VCS Standard for the full rules and requirements regarding 
+control over the entire project area at validation. 
+The boundary of the project area must be unambiguously defined as follows: 
+1) Name (or names, as appropriate) of the project area; 
+2) Physical boundary of each discrete area of land included in the project area in a file 
+format specified by the VCS Standard; 
+3) Description of current land tenure and ownership, including any legal arrangement 
+related to land ownership and the AUD project activity; and 
+4) List of the project participants and brief description of their roles in the proposed AUD 
+project activity. 
+5.1.3 Leakage Belt 
+Leakage is subject to MRV-A in an area called the “leakage belt” in this methodology. 
+The leakage belt is the land area(s) surrounding or adjacent to the project area where baseline 
+activities may be displaced due to the project activities implemented in the project area.  
+Two methods may be used to delineate the leakage belt: opportunity cost analysis (Option I) or 
+mobility analysis (Option II). 
+The leakage belt boundary must be reassessed at the end of each baseline validity period, as 
+opportunity costs and mobility parameters are likely to change over time. It must also be 
+reassessed when a VCS AFOLU project is registered that is located in the project’s leakage belt 
+area as specified in Section 5.1.3.3. Changes in the leakage belt boundary must be reported 
+ 
+VM0015, v1.2 
+ 
+17 
+and verified as a PD deviation. Any time the leakage belt boundary is reassessed, the baseline 
+emissions must be recalculated to reflect the change. 
+Where opportunity costs or mobility parameters are projected for each future year, the 
+boundary of the leakage belt that is adopted for the whole duration of the baseline validity 
+period must be that projected for the last year of the baseline validity period. 
+5.1.3.1 Option I:  Opportunity Cost Analysis 
+This option is applicable where economic profit is an important driver of deforestation. To 
+demonstrate that Option I is applicable, use historical records to show that at least 80 percent 
+of the area deforested in the reference region (or some of its strata) during the historical 
+reference period has occurred at locations where deforestation was profitable (i.e., for at least 
+one product, PPxl ≥ 1). Alternatively, use published studies, surveys and other credible and 
+verifiable sources of information. If Option I is not applicable, use Option II. 
+Where the main motivation is economic profit, agents not allowed to deforest within the project 
+area will shift deforestation outside the project area only if doing so brings economic benefits 
+to them. Based on this rationale, leakage may only occur on land outside the project area 
+where the total cost of establishing and growing crops or cattle and transporting the products to 
+the market is lower than the price of the products (i.e., opportunity costs are > 0). To identify 
+this land area, do the following: 
+1) List the main land uses, such as cattle ranching and/or crops, that deforestation 
+agents are likely to implement within the project area in the baseline case. 
+2) Find credible and verifiable sources of information on the following variables: 
+a) S$x = Average selling price per tonne of main product Px (or product mixture in 
+case of agro-forestry or mixed production systems) that would be established in 
+the project area in the baseline case (e.g., meat, crop type A, crop type B) 
+b) SPxl = Most important selling points (spatial locations) for each main product Px 
+in the reference region 
+c) PCxi = Average in situ production costs per tonne of product. Stratify the 
+reference region as necessary in i strata, as production costs may vary 
+depending on local conditions (e.g., soil, technology available to the producer) 
+d) TCv = Average transport cost per kilometer for one tonne of product Px 
+transported on different types of land uses (e.g., pasture, cropland, forest), 
+roads, railroads and navigable rivers using the most typical transport 
+technology available to the producer 
+Note – for simplicity, current prices and costs may be used to project opportunity costs. Price 
+and cost projections must only be used only where reliable and verifiable sources of 
+information are available. 
+3) Using a geographic information system (GIS), generate for each main product a surface 
+representing the minimum transport cost of one tonne of product to the most important 
+ 
+VM0015, v1.2 
+ 
+18 
+selling points within the reference region. Do this by considering the most common 
+transport technology available to deforestation agents. 
+4) For each main product, add to the surface created in (3) above the average in situ cost 
+for producing one tonne of product. The result is a surface representing the total cost 
+of producing and bringing to the market one tonne of product.  
+5) For each main product, subtract from the average price of one ton of product the total 
+cost surface created in (4) above. The result is a surface representing potential 
+profitability of each product.  
+Note – where several products may be produced at the same site, the maximum value of all 
+potential profitability surfaces will represent the opportunity cost of conserving the forest. 
+6) The leakage belt is the area where the potential profitability surface created in (5) has 
+a positive value at the last year of the baseline validity period. 
+The above procedure may be summarized as follows: 
+A land unit (pixel or polygon l) is inside the leakage belt where the potential profitability (PPxl) of 
+at least one product is positive, where PPxl is calculated as follows: 
+𝑃𝑃𝑥𝑙= 𝑆$𝑥−𝑃𝐶𝑥𝑖−∑
+(𝑇𝐷𝑣∗𝑇𝐶𝑣)
+𝑉
+𝑣=1
+                                                                                       
+(1) 
+Where: 
+PPxl 
+= 
+Potential profitability of product Px at location l (pixel or polygon) ($/t) 
+S$x 
+= 
+Selling price of product Px ($/t) 
+PCxi 
+= 
+Average in situ production costs for one tonne of product Px in stratum i ($/t) 
+TCv 
+= 
+Average transport cost per kilometer for one tonne of product Px on land, river  
+or road of type v ($/t/km) 
+TDv 
+= 
+Transport distance on land, river or road of type v (km) 
+v 
+= 
+1, 2, 3 …, V type of surface on which transport occurs (dimensionless) 
+Note – Option I assumes deforestation agents in the project area will not displace their 
+activities beyond the reference region, where other forested areas with potentially positive 
+opportunity costs may exist. Demonstrate that this assumption is credible using expert opinion, 
+participatory rural appraisal, literature, and/or other verifiable sources of information. Where 
+the evidence collected is not convincing, use Option II (mobility analysis).  
+5.1.3.2 Option II: Mobility Analysis 
+Mobility analysis may always be used but must be used where Option I is not applicable (i.e., 
+where less than 80 percent of the area deforested in the reference region (or some of its 
+strata) during the historical reference period has occurred at locations where deforesting was 
+profitable). In Option II, the potential mobility of deforestation agents is assessed using multi-
+criteria analysis. The following steps must be applied: 
+1) Using historical data, expert opinion, participatory rural appraisal, literature and/or 
+other verifiable sources of information, list all relevant criteria that facilitate (at least 
+ 
+VM0015, v1.2 
+ 
+19 
+one criterion) and constrain (at least one criterion) the mobility of the main 
+deforestation agents identified in Section 6.2.1. The overall suitability of the land for 
+the deforestation agents’ activities must be considered.  
+2) For each criterion, generate a map using GIS. 
+3) Using multi-criteria analysis, determine the boundary of the leakage belt. Justify any 
+assumption and weight assigned to the individual criteria. 
+4) Methods used to perform the analysis must be transparently documented and 
+presented to the validation/verification body (VVB) at validation. 
+5) The assumptions made for the analysis must be supported by historical data. 
+5.1.3.3 Consideration of Other VCS AFOLU Projects 
+Where the leakage belt area of the proposed AUD project includes the area or part of the areas 
+of other VCS AFOLU projects, do the following to avoid double counting of emissions: 
+1) Exclude the project area of the other VCS AFOLU project(s) from the leakage belt area 
+of the proposed AUD project.  
+a) The exclusion must enter into force at the registration date of the other project 
+b) Carbon accounting must consider the exclusion of the project area of the other 
+project beginning with the start date of the other projects  
+c) An excluded area must again be included in the leakage belt area of the 
+proposed AUD project at the time the other project has not verified its emission 
+reductions for more than five consecutive years, or when it ends its project 
+crediting period under the VCS. 
+2) Where the leakage belt overlaps with the leakage belt of other VCS AFOLU projects, do 
+the following: 
+a) Identify the carbon pools and sources of GHG emissions that are monitored by 
+the other projects. For common carbon pools and sources of GHG emissions 
+only, the boundary of the leakage belt may be modified as further explained 
+below. 
+b) Analyze the overlapping area(s) with the proponents of each of the other VCS 
+AFOLU projects and come to an agreement with them on the location of the 
+boundaries of the different leakage belts, so that there are no overlaps or gaps 
+between the different leakage belt areas as well as carbon pools and GHG 
+sources. 
+c) As an indicative rule, the percentage of forest land area within the leakage belt 
+of a project relative to the total forest area of all leakage belts must be similar 
+to the percentage of baseline deforestation of the project relative to the total 
+baseline deforestation of all projects:  
+%𝐿𝐾𝐵𝐴 =  𝐵𝐿𝐷𝐴 / (𝐵𝐿𝐷𝐴 +  𝐵𝐿𝐷𝐵 + … +  𝐵𝐿𝐷𝑁) 
+ 
+ 
+(2a) 
+%𝐿𝐾𝐵𝐵 =  𝐵𝐿𝐷𝐵 / (𝐵𝐿𝐷𝐴 +  𝐵𝐿𝐷𝐵 + … +  𝐵𝐿𝐷𝑁) 
+ 
+ 
+(2b) 
+… 
+ 
+VM0015, v1.2 
+ 
+20 
+%𝐿𝐾𝐵𝑁 =  𝐵𝐿𝐷𝑁 / (𝐵𝐿𝐷𝐴 +  𝐵𝐿𝐷𝐵 + … +  𝐵𝐿𝐷𝑁) 
+ 
+ 
+(2n) 
+Where: 
+%LKBA 
+= 
+Percentage of overlapping leakage belts area assigned to  
+Project A (%) 
+%LKBB 
+= 
+Percentage of overlapping leakage belts area assigned to 
+Project B (%) 
+%LKBN 
+= 
+Percentage of overlapping leakage belts area assigned to  
+Project N (%) 
+BLDA 
+= 
+Total area of projected baseline deforestation during the  
+baseline validity period of Project A (see PD of project A) (ha) 
+BLDB 
+= 
+Total area of projected baseline deforestation during the  
+baseline validity period of Project B (see PD of project B) (ha) 
+BLDN 
+= 
+Total area of projected baseline deforestation during the  
+baseline validity period of Project N (see PD of Project N) (ha) 
+Note – the proponents of the different projects must agree on the criteria used to define 
+the boundaries of their leakage belts in the overlapping areas and are not required to use 
+the above rule. However, where they decide to use this rule, the area of the overlapping 
+leakage belts assigned to Project A must be the closest to the boundary of Project A; that 
+assigned to Project B must be the closest to the boundary of Project B and so on (the area 
+of the overlapping leakage belts assigned to Project N must be the closest to the boundary 
+of Project N). 
+d) The final boundary of the leakage belt of each project is subject to validation 
+and periodic verification. A project may report a smaller leakage belt only where 
+the part that is excluded is included in another VCS-registered project’s leakage 
+belt. 
+e) Where the proponents of the different projects disagree on splitting the 
+overlapping leakage belt area, each project must include the overlapping areas 
+in its leakage belt. 
+f) 
+A “leakage belt agreement” between the proponents of the different projects 
+must be signed and presented to the VVB at validation/verification. The 
+agreement must include maps of the agreed leakage belts, and each project 
+must have a digital copy of these maps in the projection and GIS software 
+formats used in each project. 
+g) Where a project ends or has not completed a verification for more than five 
+consecutive years, the other projects participating in the “leakage belt 
+agreement” must amend the agreement to ensure that the whole area of the 
+originally overlapping leakage belts is always subject to MRV-A. The 
+amendment is subject to VVB verification. If no amendment is made, the 
+proposed project must include in its leakage belt the land area that is no longer 
+subject to MRV-A by any another VCS project. 
+ 
+VM0015, v1.2 
+ 
+21 
+5.1.4 Leakage Management Zones 
+These are non-forest areas located outside the project boundary in which the project proponent 
+intends to implement activities (such as afforestation, reforestation or enhanced crop and 
+grazing land management) that will reduce the risk of activity displacement leakage. Such 
+areas must be delineated according to existing management plans or other plans related to the 
+proposed AUD project activity that must be made available to the VVB at validation. The 
+boundary of leakage management zones must be clearly defined and digital (vector-based) files 
+in any format specified by the VCS Standard must be provided. A clear description must 
+accompany the file, and the metadata must contain all necessary projection reference data. 
+The boundary of the leakage management zone must be reassessed and validated at each 
+baseline validity period.  
+5.1.5 Forest 
+The boundary of the forest is dynamic and will change over time. It must be defined using an 
+explicit and consistent forest definition over different time periods. 
+In the baseline case, changes in the boundary of forest land are projected. The ex post 
+boundary of forest land in the project area and leakage belt will be subject to periodic MRV. 
+To define the forest boundary, specify: 
+1) The definition of forest that used for measuring deforestation during the project 
+crediting period 
+2) The minimum mapping unit (MMU). The MMU of LULC maps created using remote 
+sensing imagery must not be larger than one hectare irrespective of forest definition. 
+An initial forest cover map is required to report only gross deforestation going forward. It should 
+depict the locations where forest land exists at the project start date. The baseline projections 
+in Section 8.1.3 will generate one such map for each future year of the baseline validity period 
+and, optionally, the project crediting period. 
+Areas covered by clouds or shadows must be analyzed by complementing the analysis of optical 
+sensor data with non-optical sensor data. However, where some obscured areas remain for 
+which no spatially explicit and verifiable information on forest cover is available nor for which it 
+is possible to collect data (using ground-based or other methods), such areas must be excluded 
+(masked out). This exclusion is either: 
+a) Permanent, unless it may be reasonably assumed that these areas are covered by 
+forests (e.g., due to their location); or 
+b) Temporary, where information is available for the historical reference period but not for 
+a specific monitoring period. In this case, the area with no information must be 
+excluded from the calculation of net GHG emission reductions for the current 
+monitoring period, but not for subsequent periods when information may become 
+available again. When information becomes available again, and the land appears with 
+ 
+VM0015, v1.2 
+ 
+22 
+vegetation parameters below the thresholds for defining “forest,” the land should be 
+considered as “deforested.” 
+5.2 
+Temporal Boundaries 
+Define the temporal boundaries listed below.  
+5.2.1 Start and End Dates of the Historical Reference Period 
+The historical reference period start date should not be more than 10 years before the project 
+start date. The end should be as close as possible to the project start date.  
+5.2.2 Start Date of the AUD Project Activity Crediting Period 
+The length of the project crediting period is set out in the most recent version of the VCS 
+Program Definitions.   
+5.2.3 Start and End Dates of the First Baseline Validity Period 
+The baseline validity period is set out in the most recent VCS Standard. The start and end dates 
+must be defined.  
+5.2.4 Monitoring Period 
+The minimum duration of a monitoring period is one year, and the maximum duration is one 
+baseline validity period. 
+5.3 
+Carbon Pools 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 2. 
+Table 2: Carbon Pools Included in or Excluded from the Boundary of the Proposed AUD 
+Project Activity 
+Carbon pools  
+Included/TBD/ 
+Excluded 
+Justification/Explanation of choice  
+Above-ground 
+biomass 
+Tree: Included 
+Carbon stock change in this pool is always significant. 
+Non-tree: TBD 
+Must be included in categories where the baseline final 
+land cover is perennial crop 
+Below-ground 
+biomass+ 
+TBD 
+Optional  
+Dead wood+ 
+TBD 
+Mandatory if this carbon pool is greater in the baseline 
+final land cover (post-deforestation) than project scenario, 
+and unless demonstrated insignificant. Otherwise, can be 
+conservatively omitted 
+ 
+VM0015, v1.2 
+ 
+23 
+Carbon pools  
+Included/TBD/ 
+Excluded 
+Justification/Explanation of choice  
+Harvested wood 
+products+ 
+Included 
+To be included where significant  
+Litter 
+TBD 
+Optional –conservative to exclude  
+Soil organic 
+carbon+ 
+TBD 
+Recommended where forests are converted to cropland. 
+Not to be measured in conversions to pastures or 
+perennial crop according to the latest version of the VCS 
+Methodology Requirements 
+ 
+TABLE NOTES 
+TBD 
+To be decided by the project proponent; may be excluded only where exclusion does not lead 
+to a significant overestimation of the net GHG emission reductions of the AUD project activity. 
++ 
+The VCS Methodology Requirements require methodologies to consider the decay of carbon 
+in soil carbon, belowground biomass, dead wood and harvested wood products. The 
+immediate release of carbon from these pools in the baseline case must not be assumed. 
+ 
+The significance of pools must be determined as per the latest VCS Methodology 
+Requirements. It must be assessed ex ante or at baseline reassessment for a specific baseline 
+validity period, as well as at verification for a specific monitoring period. Appendix 2 should be 
+used to test significance of pools. 
+Carbon pools that are expected to decrease their stocks in the project scenario compared to 
+the baseline must be included where their exclusion leads to a significant overestimation of the 
+net GHG emission reductions generated during the baseline validity period. 
+Where a carbon pool is included in the baseline accounting, it must also be included in project 
+scenario and leakage accounting. 
+Carbon pools considered insignificant according to the latest VCS Methodology Requirements 
+may always be neglected. 
+Above-ground tree biomass must always be included because it is in this pool that the greatest 
+carbon stock change will occur. 
+Non-tree biomass must be included where the carbon stock in this pool is likely to be relatively 
+large in the baseline compared to the project scenario, such as when short-rotation woody 
+corps are commonly planted in the region where the project area is located. The significance 
+criterion must apply. 
+Below-ground tree biomass is recommended for inclusion, as it usually represents between 15 
+and 30 percent of above-ground biomass. 
+ 
+VM0015, v1.2 
+ 
+24 
+Harvested wood products must be included where removal of timber is associated with 
+significantly more carbon stored in long-term wood products in the baseline than the project 
+scenario, and where the pool is included in the project scenario. The significance criterion must 
+apply. When included, the short-lived fraction (decaying in less than 3 years) is assumed to 
+decay immediately at the year of deforestation (t = t*); the medium-lived fraction (decaying in 
+3–100 years) is assumed to decay over a 20-year period; and the long-lived fraction is assumed 
+to never decay (i.e., it does not result in emissions).     
+The exclusion of a carbon pool is conservative in most cases except where the carbon stock in 
+the pool is higher in the baseline than in the project scenario. 
+The inclusion of a carbon pool is recommended (but not mandatory) where the pool is likely to 
+represent an important proportion (more than 10 percent) of the total carbon stock change 
+attributable to the project activity (“expected magnitude of change”). 
+For excluded pools, briefly explain why the exclusion is conservative. 
+Where the exclusion of a carbon pool is not conservative, demonstrate that the exclusion will 
+not lead to a significant overestimation of the net GHG emission reductions. Where the 
+exclusion is significant, the pool must be included. 
+In most cases the same carbon pools must be considered for all categories of LU/LC change. 
+However, different carbon pools may be included for different categories of LU/LC change 
+depending on “significance,” “conservativeness” and “expected magnitude of change.” For 
+instance, harvested wood products may only be considered in the categories where this pool 
+exists. 
+Within a LU/LC-change category, the same carbon pools must be selected for the two classes 
+involved. Table 68 in Appendix 4: Methods to Estimate Emissions from Enteric Fermentation 
+and Manure Management0 provides an indication of the level of priority for including different 
+carbon pools depending on the LU/LC change category. 
+There is further guidance on the selection of carbon pools in the most recent version of the 
+GOFC-GOLD REDD sourcebook; details are given in Appendix 3. 
+5.4 
+Sources of GHG Emissions 
+The two sources of GHG emissions listed in Table 3 are considered in this methodology. 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+25 
+Table 3: Sources and GHG to be Included in or Excluded from the Boundary of the 
+Proposed AUD Project Activity 
+Sources 
+Gas 
+Included/TBD/ 
+Excluded 
+Justification/Explanation of choice 
+Biomass burning 
+CO2 
+Excluded 
+Counted as carbon stock change 
+CH4 
+TBD 
+See guidance below 
+N2O 
+Excluded 
+Considered insignificant* according to the 
+VCS Methodology Requirements 
+Livestock emissions 
+CO2 
+Excluded 
+Not a significant* source 
+CH4 
+TBD 
+See guidance below 
+N2O 
+TBD 
+See guidance below 
+ 
+TABLE NOTES 
+TBD 
+To be decided by the project proponent; may be excluded only where exclusion does not lead 
+to a significant overestimation of the net GHG emission reductions of the AUD project activity. 
+* 
+Carbon pools and sources that account for more than 5 percent of the total GHG benefits 
+generated must be considered “significant.” To determine significance, Appendix 2 must be 
+used. 
+Emissions sources that are expected to increase in the project scenario compared to the 
+baseline must be included where their exclusion leads to a significant overestimation of the 
+total net GHG emission reductions generated during the baseline validity period. 
+Sources considered insignificant according to the latest VCS Methodology Requirements may 
+always be neglected. 
+The inclusion of a source is recommended (but not mandatory) where the source is likely to 
+represent an important proportion (more than 10 percent) of the total emissions reductions 
+attributable to the project activity (“expected magnitude of change”). 
+A source may only be excluded where the omission is conservative or the source is insignificant. 
+Sources of GHG emissions that are not significant according to the ex ante assessment do not 
+need to be monitored ex post. 
+For excluded sources, briefly explain why the exclusion is conservative. 
+In the baseline scenario, non-CO2 emissions from fires used to clear forests may be counted 
+where sufficient data are available for estimation. However, accounting for these emissions 
+ 
+VM0015, v1.2 
+ 
+26 
+may be conservatively omitted. GHG emissions from land uses implemented on deforested 
+lands (including from biomass burning) are conservatively omitted in this methodology. 
+In the project scenario, it is reasonable to assume that the project activity, including when 
+harvest activities are planned (such as logging for timber, fuel-wood collection and charcoal 
+production), produces less GHG emissions than the baseline activities implemented prior to 
+and after deforestation on the deforested lands. Therefore, excluding certain sources of GHG 
+emissions, such as fossil fuel consumption, will not cause an overestimation of net GHG 
+emission reductions. However, non-CO2 emissions from forest fires must be counted in the 
+project scenario where they are significant. 
+In leakage estimation, GHG emissions of sources attributable to leakage prevention measures 
+(e.g., those implemented in leakage management zones) and that increase compared to pre-
+existing GHG emissions count as leakage and should be estimated and counted where they are 
+significant. Non-CO2 emissions from displaced baseline activities, which are conservatively 
+omitted in the baseline, may be ignored, as they would be similar to baseline emissions in the 
+worst-case scenario. However, where non-CO2 emissions from forest fires used to clear forests 
+are counted in the baseline, they must also be counted in the estimation of activity 
+displacement leakage.

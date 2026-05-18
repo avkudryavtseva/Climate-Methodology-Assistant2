@@ -1,0 +1,28 @@
+6 BASELINE SCENARIO 
+The baseline scenario is the continuation of manufacturing ready-mix or pre-cast concrete 
+products through traditional processes (i.e., not using CO2 capture and utilization technology 
+for reduced cement use). The project proponent must demonstrate that the CO2 used as 
+feedstock is released to or remains in the atmosphere in the baseline scenario and that the 
+project does not divert it from other uses.  
+Project proponents must source CO2 from sources that would have otherwise been emitted 
+or remained in the atmosphere. Examples of ineligible sources include but are not limited to 
+the following:  
+1) CO2 taken from a well, which is connected to a geologic reservoir, where the CO2 
+would have otherwise stayed underground;  
+2) CO2 captured from an industrial source where that CO2 would have otherwise been 
+captured and then injected into a geologic reservoir; and  
+3) CO2 that is diverted from other utilization applications.   
+4) CO2 generated for the purpose of capture  
+If a project proponent were to take CO2 from such sources, then it cannot claim emission 
+reductions from the injection and mineralization of CO2 into concrete.  In addition, the 
+amount of CO2 from an unknown or ineligible source that is supplied to the project but lost 
+and not mineralized must be considered a project emission, as determined in Section 
+8.2.5.   
+ 
+ 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+10

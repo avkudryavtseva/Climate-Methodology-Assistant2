@@ -1,0 +1,819 @@
+5 
+PROJECT BOUNDARY 
+5.1 
+Project 
+The project proponent shall identify all GHG sources and sinks (SS) relevant to the project such as: 
+ 
+Production of electricity  
+ 
+Maintenance, construction and decommissioning 
+ 
+Decomposition of solid waste in landfills. 
+The process set out in Diagram 1 identifies, illustrates and organizes SS for a typical project applicable 
+under this methodology. Table 1 describes each SS identified in Diagram 1, discusses the SS relevance 
+and characterizes the SS as controlled, related or affected by the project activity.  
+Since this methodology has been written to work for various types of project activities, one single project 
+boundary cannot be provided. The project proponent shall use the requirements set out in this section to 
+clearly define the most appropriate boundary for each grouping of client facilities with appropriate 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+20 
+justifications for the inclusion or exclusion of SS. This shall include unique geo-coordinates if the projects 
+are implemented across several dispersed locations. 
+For energy efficiency activities, it is important to note that the site boundaries are determined by whether 
+the project proponent elects to quantify using “Option A – Isolation Parameter Measurement” or “Option B 
+– Whole Facility Measurement.” 
+If Option A, Isolation Parameter Measurement, is selected, savings are determined by measuring the 
+energy use of the ECM affected system, rather than the entire building. As such the boundary chosen is 
+the ECM affected system. In this case, clear justification must be provided at the Territory level by the 
+project proponent that the ECM affected system would have no material impact on the operation and 
+emissions of the whole or remaining facility. Functional equivalence and unit of productivity adjustments 
+for the ECM affected system must be made to the baseline of the system. 
+If Option B, Whole Facility Measurement, is selected, energy use for the entire facility is measured and 
+any savings are calculated accordingly and therefore the boundary chosen is the entire facility. In this 
+case, clear justification must be provided at the Territory level by the project proponent that the entire 
+building’s baseline meets functional equivalence and has been adjusted by units of productivity. 
+Regardless of which option is selected, the project energy use calculations shall be done according to the 
+methodology documents in IPMVP’s “Concepts and Options for Determining Energy and Water Savings 
+(Volume 1)” (EVO, 2010). For waste diversion activities, the project proponent must use “Whole Facility 
+Measurement” to determine the site boundaries. This means that if the project proponent is including 
+waste diversion activities, then an isolated component of the facility cannot be used, the entire facility’s 
+facility and waste stream must be included in the boundary. The project and baseline element life cycle 
+charts are shown in Diagrams 1 and 2, respectively. Project documentation shall include diagrams that 
+disclose the locations and processes of metering equipment used in determining the mass energy flows.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+21 
+Diagram1: Project Element Life Cycle Chart 
+ 
+ 
+Table 1: Project Life Cycle SS Descriptions 
+SS 
+Description 
+Controlled, 
+Related or 
+Affected 
+Upstream Before Project 
+P1 Development 
+and Processing of 
+Unit Material Inputs 
+The material inputs to the unit process need to be transported, developed 
+and/or processed prior to the unit process. This may require any number of 
+mechanical, chemical or biological processes. All relevant characteristics of 
+the material inputs would need to be tracked to prove functional equivalence 
+with the baseline scenario. 
+Related 
+P2 Building 
+Equipment 
+GHG emissions arise from the manufacturing process of the equipment to 
+implement the ECMs and conventional building/facility operation in the 
+project. Such emissions are likely associated with the fossil fuels and 
+electricity consumed during the manufacturing process. 
+Related 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+22 
+P4 Commissioning 
+of Site 
+The development of the site (technically onsite before project) and 
+installation of equipment result in GHG emissions, primarily from the use of 
+fossil fuels and electricity during this process. 
+Related 
+Upstream During Project 
+P5 Fuel Production 
+& Delivery 
+The production and distribution of fuel used during building/facility 
+operations result in GHG emissions. The volume and type of fuel shall be 
+required for GHG emission calculations, as is the distribution distance. 
+Related 
+P6 Electricity 
+Generation & 
+Delivery 
+Building/facility operations could require significant amounts of electricity. 
+The generation and distribution of electricity results in GHG emissions.  
+Related 
+Onsite During Project 
+P7 Building/System 
+Energy 
+Consumption (with 
+ECMs) 
+Energy (including fossil fuel and electricity) is likely required on‐site to 
+operate the building/facility. Equipment utilizing this energy could include 
+boilers, lighting systems, HVAC Systems, ventilation systems, equipment, 
+etc. 
+Controlled 
+P8 Maintenance 
+The facility and systems within the facility likely requires maintenance. GHG 
+emissions arise from the use of fuels and electricity in maintenance 
+procedures. 
+Controlled 
+P9 Unit Operation: 
+Biological/Chemical
+/Mechanical 
+Processes  
+Greenhouse gas emissions may occur that are associated with the 
+operation and maintenance of the biological processes (biological, chemical, 
+and mechanical) within the unit at the project site. All relevant characteristics 
+of the biological processes would need to be identified. 
+Controlled 
+P10 Energy 
+Consumption from 
+Waste Processing 
+Energy may be required to power waste processing or handling equipment 
+(i.e. compacters, etc.) 
+Controlled 
+Downstream During Project 
+P11 Disposal of 
+Equipment 
+The disposal of some materials/equipment which compose all or a 
+component of the ECM or waste diversion systems may result in GHG 
+emissions. 
+Related 
+P12 Development 
+and Processing of 
+Unit Material 
+Outputs 
+The material outputs from the unit process need to be transported, 
+developed, and/or processed subsequent to the unit process. This may 
+require any number of mechanical, chemical or biological processes. All 
+relevant characteristics of the material outputs would need to be identified to 
+prove functional equivalence with the baseline scenario. 
+Related 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+23 
+P14 Waste 
+Decomposition and 
+Methane Release 
+Waste may decompose in the disposal facility (typically a landfill site) 
+resulting in the production of methane. A methane collection and destruction 
+system may be in place at the disposal site. If such a system is active in the 
+landfill or the area of the landfill where this material is being disposed, then 
+its characteristics must be identified and the efficiency (ie, percent of total 
+methane generation that is capture and destroyed) must be accounted for in 
+a reasonable manner. Disposal site characteristics, mass disposed at each 
+site, and methane collection and destruction system characteristics may 
+need to be identified. 
+Related 
+P16 Energy 
+Consumed from 
+alternative 
+processing of 
+waste/use 
+Energy may be consumed by the alternative processing waste diversion 
+activity. The related energy inputs for fueling this equipment are identified 
+under this SS, for the purpose of calculating the resulting GHG emissions. 
+Related 
+P17 Process 
+Emissions from 
+Alternative 
+Processing of 
+Waste 
+This SS encompasses any process emissions associated with the new 
+method of handling waste. Any process emissions related to the alternative 
+use or disposal of the solid waste must be measured or estimated. All 
+relevant characteristics of these processes would need to be identified. 
+Related 
+Downstream After Project 
+P12 Decommission 
+of Site 
+Once the facility is no longer operational, the site may need to be 
+decommissioned. This may involve the disassembly of the equipment, 
+demolition of on-site structures, disposal of some materials, environmental 
+restoration, re-grading, planting or seeding, and transportation of materials 
+off-site. Greenhouse gas emissions would be primarily attributed to the use 
+of fossil fuels and electricity used to power equipment required to 
+decommission the site. 
+Related 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+24 
+5.2 
+Baseline 
+All SS relevant to the baseline, including on-site, upstream and downstream SS shall be identified. 
+The process set out in Diagram 2 identifies, illustrates and organizes SS for a typical baseline applicable 
+under this methodology. Table 2 describes each SS identified in Diagram 2, discusses the SS relevance 
+and characterizes the SS as controlled, related, or affected by the project activity. 
+Diagram 2: Baseline Life Cycle Chart 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+25 
+Table 2: Baseline Element Life Cycle SS Descriptions 
+SS 
+Description 
+Controlled, 
+Related or 
+Affected 
+Upstream During Baseline 
+B1 Development and 
+Processing of Unit 
+Material Inputs 
+The material inputs to the unit process need to be transported, developed 
+and/or processed prior to the unit process. This may require any number of 
+mechanical, chemical or biological processes. All relevant characteristics of 
+the material inputs would need to be identified to prove functional 
+equivalence with the baseline scenario. 
+Related 
+B2 Building 
+Equipment 
+GHG emissions arise from the manufacturing process of the equipment to 
+implement the ECMs and conventional building/facility operation in the 
+project. Such emissions are likely associated with the fossil fuels and 
+electricity consumed during the manufacturing process. 
+Related 
+B4 Commissioning 
+of Site 
+The development of the site (before project) and installation of equipment 
+results in GHG emissions, primarily from the use of fossil fuels and 
+electricity during this process. 
+Related 
+Upstream Before Baseline 
+B5 Fuel Production 
+& Delivery 
+The production and distribution of fuel used during building/facility 
+operations results in GHG emissions. The volume and type of fuel shall be 
+required for GHG emission calculations, as is the distribution distance. 
+Related 
+B6 Electricity 
+Generation & 
+Delivery 
+Building/facility operations could require significant amounts of electricity. 
+The generation and distribution of electricity results in GHG emissions. 
+Related 
+Onsite During Baseline 
+B7  Building/System 
+Energy Consumption 
+(without ECMs) 
+Energy (including fossil fuel and electricity) is likely required on‐site to 
+operate the building/facility. Equipment utilizing this energy could include 
+boilers, lighting systems, HVAC Systems, ventilation systems, equipment, 
+etc. 
+Controlled 
+B8 Maintenance 
+The facility and systems within the facility likely requires maintenance. GHG 
+emissions arise from the use of fuels and electricity in maintenance 
+procedures. 
+Controlled 
+B9 Unit Operation: 
+Biological/Chemical/
+Mechanical 
+Processes  
+GHG emissions may occur that are associated with the operation and 
+maintenance of the biological processes (biological, chemical, and 
+mechanical) within the unit at the project site. All relevant characteristics of 
+the biological processes would need to be identified. 
+Controlled 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+26 
+B10 Energy 
+Consumption from 
+Waste Processing 
+Energy may be required to power waste processing or handling equipment 
+(i.e. compacters, etc.) 
+Controlled 
+Downstream During Baseline 
+B11 Disposal of 
+Equipment 
+The disposal of some materials/equipment which compose all or a 
+component of the ECM or waste diversion systems may result in GHG 
+emissions. 
+Related 
+B12 Development 
+and Processing of 
+Unit Material Outputs 
+The material outputs from the unit process need to be transported, 
+developed, and/or processed subsequent to the unit process. This may 
+require any number of mechanical, chemical or biological processes. All 
+relevant characteristics of the material outputs would need to be identified to 
+prove functional equivalence with the baseline scenario. 
+Related 
+B14 Waste 
+Decomposition and 
+Methane Release 
+Waste may decompose in the disposal facility (typically a landfill site) 
+resulting in the production of methane. A methane collection and destruction 
+system may be in place at the disposal site. If such a system is active in the 
+landfill or the area of the landfill where this material is being disposed, then 
+its characteristics must be identified and the efficiency (ie, percent of total 
+methane generation that is capture and destroyed) must be accounted for in 
+a reasonable manner. Disposal site characteristics and mass disposed of at 
+each site may need to be identified. 
+Related 
+Downstream After Baseline 
+B15 Decommission 
+of Site 
+Once the facility is no longer operational, the site may need to be 
+decommissioned. This may involve the disassembly of the equipment, 
+demolition of on-site structures, disposal of some materials, environmental 
+restoration, re-grading, planting or seeding, and transportation of materials 
+off-site. Greenhouse gas emissions would be primarily attributed to the use 
+of fossil fuels and electricity used to power equipment required to 
+decommission the site. 
+Related 
+ 
+5.3 
+SS Selection 
+Each of the SS from the project and baseline scenario shall be compared and evaluated as to their 
+relevancy. The justification for the potential exclusion or conditions upon which the SS may be excluded 
+is provided in Table 3. Negligible emissions have been defined as being less than 1% of the project’s 
+lifetime emissions (calculated on an annual basis). Where the SS are to be excluded, they must fall below 
+this threshold. Table 3 includes a generalized assessment that is expected to be accurate for most 
+facilities. However, the project proponent must make an assessment for their specific project and may 
+only exclude emissions that do not exceed the 1% threshold.  
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+27 
+Table 3: Process for Selection of SS 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+ 
+B1 Development and 
+Processing of Unit 
+Material Inputs 
+CO2 
+[Excluded] 
+Expected to be excluded as they must be 
+functionally equivalent to allow for the application 
+of the methodology. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+B2 Building 
+Equipment 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+manufacturing of building equipment are 
+expected to be negligible over the lifetime of the 
+project. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+ 
+B4 Commissioning of 
+Site 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+site development are expected to be negligible 
+given the minimal site development typically 
+required. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+B5 Fuel Production & 
+Delivery 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+fuel production and delivery are expected to be 
+greater under the baseline scenario. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+B6 Electricity 
+Generation & Delivery 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+electricity generation and delivery are expected 
+to be greater under the baseline scenario. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+B7  Building/System 
+Energy Consumption 
+(without ECMs) 
+CO2 
+Included 
+Must be included as part of baseline if energy 
+efficiency actions are included in the project 
+activity since this SS is fundamental to 
+quantifying the baseline for EE emission 
+reductions under this methodology. 
+CH4 
+Included 
+N2O 
+Included 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+28 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+B8 Maintenance 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+baseline and project scenarios would involve 
+immaterial difference in energy consumed for 
+maintenance activities. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+B9 Unit Operation: 
+Biological/Chemical/ 
+Mechanical 
+Processes 
+CO2 
+Included 
+Must be included, though can be excluded if 
+prescribed to be functionally equivalent. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+B10 Energy 
+Consumption from 
+Waste Processing 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+facility or group of facilities is not quantifying 
+emission reductions associated with waste 
+diversion activities and if the ECM activities 
+would not affect the energy consumed for waste 
+processing at the Territory level. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+B11 Disposal of 
+Equipment 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+disposal of equipment are expected to be 
+negligible. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+B12 Development and 
+Processing of Unit 
+Material Outputs 
+CO2 
+[Excluded] 
+Expected to be excluded as they must be 
+functionally equivalent to allow for the application 
+of the methodology. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+ 
+B14 Waste 
+Decomposition and 
+Methane Release 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+facility or group of facilities is not quantifying 
+emission reductions associated with waste 
+diversion activities and if the ECM activities 
+would not affect the amount methane emitted 
+CH4 
+Included 
+N2O 
+Included 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+29 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+from decomposition. 
+ 
+ 
+ 
+B15 Decommission of 
+Site 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+equipment disposal are expected to be 
+negligible. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+Project 
+P1 Development and 
+Processing of Unit 
+Material Inputs 
+CO2 
+[Excluded] 
+Expected to be excluded as they must be 
+functionally equivalent to allow for the application 
+of the methodology. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+P2 Building 
+Equipment 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+the manufacture of building equipment are 
+expected to be negligible over the lifetime of the 
+project. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+ 
+P4 Commissioning of 
+Site 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+site development are expected to be negligible 
+given the minimal site development typically 
+required. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+P5 Fuel Production & 
+Delivery 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+fuel production and delivery are expected to be 
+greater under the baseline scenario. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+P6 Electricity 
+Generation & Delivery 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+fuel production and delivery are expected to be 
+CH4 
+[Excluded] 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+30 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+N2O 
+[Excluded] 
+greater under the baseline scenario. 
+ 
+ 
+ 
+P7 Building/System 
+Energy Consumption 
+(with ECMs) 
+CO2 
+Included 
+Must be included as part of baseline if energy 
+efficiency actions are included in the project 
+activity. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P8 Maintenance 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+baseline and project scenario operations would 
+involve immaterial difference in energy 
+consumed for maintenance activities. If however 
+maintenance activities included major overhauls 
+that would not have been included in the 
+baseline scenario, evidence must be provided by 
+the project proponent to show the SS is below 
+the negligible emissions threshold. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P9 Unit Operation: 
+Biological/Chemical/M
+echanical Processes 
+CO2 
+Included 
+Must be included, though can be excluded if 
+prescribed to be functionally equivalent. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P10 Energy 
+Consumption from 
+Waste Processing 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+facility or group of facilities is not quantifying 
+emission reductions associated with waste 
+diversion activities and if the ECM activities 
+would not affect the energy consumed for waste 
+processing. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P11 Disposal of 
+Equipment 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+disposal of equipment are expected to be 
+negligible 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+31 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+ 
+ 
+ 
+P12 Development and 
+Processing of Unit 
+Material Outputs 
+CO2 
+[Excluded] 
+Expected to be excluded as they must be 
+functionally equivalent to allow for the application 
+of the methodology. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+ 
+P14 Waste 
+Decomposition and 
+Methane Release 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+facility or group of facilities is not quantifying 
+emission reductions associated with waste 
+diversion activities and if the ECM activities 
+would not affect the amount methane emitted 
+from decomposition. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+ 
+P16 Energy 
+Consumed from 
+Alternative Processing 
+of Waste / Use 
+CO2 
+Included 
+Must be included, though can only be excluded if 
+the facility or group of facilities is not quantifying 
+emission reductions associated with alternative 
+processing of waste / use in the project scenario 
+at the Territory level. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P17 Process 
+Emissions from 
+Alternative Processing 
+of Waste 
+CO2 
+Included 
+Must be included, though can be excluded if the 
+facility or group of facilities is not quantifying 
+emission reductions associated with the 
+alternative processing of waste at the Territory 
+level. 
+CH4 
+Included 
+N2O 
+Included 
+ 
+ 
+ 
+P18 Decommission of 
+Site 
+CO2 
+[Excluded] 
+Expected to be excluded since emissions from 
+decommissioning are not expected to differ 
+highly between the baseline and project 
+scenarios. 
+CH4 
+[Excluded] 
+N2O 
+[Excluded] 
+ 
+ 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+32

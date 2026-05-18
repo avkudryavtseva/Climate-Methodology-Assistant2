@@ -1,0 +1,44 @@
+6  
+PROCEDURE FOR DETERMINING THE BASELINE SCENARIO AND 
+DEMONSTRATING ADDITIONALITY 
+Regardless of the specific project type being proposed, the project proponent must follow the step-wise 
+approach specified in the CDM Combined Tool to Identify the Baseline Scenario and Demonstrate 
+Additionality to identify the baseline scenario and demonstrate additionality. The tool shall be applied with 
+baseline alternatives and project scenarios categorized by project units. The cost savings associated with energy 
+efficiency shall be included in the investment analysis. 
+When selecting the baseline period for waste diversion and energy efficiency activities, the 
+appropriateness of baseline period shall be analyzed for the two activities separately. While one baseline 
+period for both may be deemed appropriate, it is also possible that different baseline periods and 
+approaches are required for the different activities. As one example, the best unit of productivity for the 
+waste diversion baseline period may be different from that for the energy efficiency baseline period 
+depending on the selected unit of productivity and the quality of data available for each.  
+The baseline scenario shall be determined by analyzing, at minimum, the following potential alternatives: 
+a. 
+Each business owner proactively exceeds the current regulations and decreases their per 
+unit energy consumption. Additionally, each business owner could also purchase new 
+capital equipment prior to the natural turnover rate of their existing stock, for the purposes 
+of energy efficiency savings, without installing the added monitoring equipment as 
+required to quantify GHG emission reductions. This step is essentially the implementation 
+of the energy efficiency project activity without carbon financing.   
+b. 
+Each business owner proactively puts into place a system to treat waste in a manner 
+other than anaerobic decomposition in a landfill. This step is essentially the 
+implementation of the waste diversion project activity without carbon financing.  
+c. 
+The government or industrial sector enforces minimum building codes, not only for new 
+facilities but for the current stock of buildings. These codes could mandate certain levels 
+of efficiency or waste handling that could achieve the anticipated results of this protocol 
+without the use of VCUs. 
+d. 
+The continuation of the current situation (ie, no project activity or other alternatives 
+undertaken). Comparable outputs of the project – constant energy intensity per 
+production unit and anaerobic decomposition of waste in landfill – will continue. Currently, 
+technologies/ practices that provide outputs/services of comparable qualities, properties 
+and application areas as the proposed project activity, are not incentivized and are not 
+introduced to the market for dispersed client facilities. These facilities do not have the 
+economies of scale necessary to develop and operate the necessary monitoring systems 
+to achieve affordable gains similar to the goals of this protocol. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+33

@@ -1,0 +1,529 @@
+38 
+CP 
+Charcoal production 
+ 
+This methodology uses the notation icl (= 1, 2, 3, … Icl) to indicate “initial” (pre-deforestation) 
+classes, which are all forest classes; and fcl (= 1, 2, 3, … Fcl) to indicate “final” (post-deforestation) 
+classes. All classes (“initial” and “final”) must be listed in Table 6. 
+8.1.1.3 Definition of Land Use and Land Cover Change Categories 
+Identify all LU/LC change categories that might occur in the project area and leakage belt 
+during the project crediting period in both the baseline and project cases. This may be done by 
+analyzing a land-use change matrix that combines the LU/LC classes previously defined. 
+List the resulting LU/LC change categories in Table 6 and Table 7. 
+Table 6: Potential Land Use and Land Cover Change Matrix 
+IDcl 
+Initial LU/LC class 
+i1 
+i2 
+i… 
+In 
+Final LU/LC 
+class 
+f1 
+i1/f1 
+i2/f1 
+i…/f1 
+In/F1 
+f2 
+i1/f2 
+i2/f2 
+i…/f2 
+In/F2 
+f… i1/f… 
+i2/f… 
+i…/f3 
+In/F… 
+Fn I1/Fn 
+I2/Fn 
+I…/Fn 
+In/Fn 
+ 
+Table 7: List of Land Use and Land Cover Change Categories 
+IDct 
+Name 
+Trend 
+in 
+Carbon 
+Density 
+Presence 
+in 
+Activity in 
+Baseline 
+Case  
+Name 
+Trend 
+in 
+Carbon 
+Density 
+Presence 
+in 
+Activity in 
+Project 
+Case 
+LG FW CP 
+LG FW CP 
+i1/f1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i1/f2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i1/f… 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i2/f1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+VM0015, v1.2 
+ 
+39 
+IDct 
+Name 
+Trend 
+in 
+Carbon 
+Density 
+Presence 
+in 
+Activity in 
+Baseline 
+Case  
+Name 
+Trend 
+in 
+Carbon 
+Density 
+Presence 
+in 
+Activity in 
+Project 
+Case 
+LG FW CP 
+LG FW CP 
+i2/f2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i2/f… 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i…/f1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i…/f2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+i…/f… 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+8.1.1.4 Analysis of Historical Land-Use and Land-Cover Change 
+Using the data collected in Section 8.1.1.1, divide the reference region in polygons17 
+representing the LU/LC classes and LU/LC change categories defined in Sections 8.1.1.2 and 
+8.1.1.3. In the project area, LU/LC change analysis is required to exclude any area with forests 
+that are less than 10 years old at the project start date. 
+Use existing LU/LC or LU/LC change maps where the classes and categories are well described 
+in these maps; the same classes and categories may be used in Sections 8.1.1.2 and 8.1.1.3.  
+Where processed data of good quality are not available, unprocessed remotely sensed data 
+must be analyzed to produce LU/LC maps and LU/LC change maps. Given the heterogeneity of 
+methods, data sources and image processing software, LU/LC change detection should be 
+performed by trained interpreters. 
+Typically, LU/LC change analysis involves pre-processing, interpretation and classification and 
+post-processing. 
+Pre-processing 
+Pre-processing typically includes: 
+1) Geometric corrections to ensure that images in a time series properly overlay each 
+other and other GIS maps used in the analysis (i.e., for post-classification stratification). 
+The average location error between two images should be less than one pixel. 
+2) Cloud and shadow removal using additional data (e.g., radar, aerial photographs, field-
+surveys) 
+ 
+17 Raster or grid data formats are allowed. 
+ 
+VM0015, v1.2 
+ 
+40 
+3) Radiometric corrections may be necessary (depending on the change-detection 
+technique used) to ensure that similar objects have the same spectral response across 
+multi-temporal datasets. 
+4) Reduction of haze, as needed 
+See the most recent version of the GOFC-GOLD sourcebook for REDD or consult experts and 
+literature for further guidance on pre-processing techniques. 
+Duly record all pre-processing steps for later reporting. 
+Interpretation and Classification 
+Two main categories of change detection exist and may be used (see 2019 Refinements to the 
+IPCC 2006 Guidelines, Chapter 3A.2.4): 
+1) Post-classification change detection: Two LU/LC maps are generated for two different 
+time points and then compared to detect LU/LC changes. The techniques are 
+straightforward but are also sensitive to inconsistencies in interpretation and 
+classification of LU/LC classes. 
+2) Pre-classification change detection: These are more sophisticated approaches to LU/LC 
+change detection that require more data pre-processing (i.e., radiometric corrections). 
+The basic approach is to compare by statistical methods the ground spectral response 
+using two datasets acquired at different dates to detect locations where a change has 
+occurred. Different patterns of spectral change are allocated to specific LU/LC change 
+categories. This approach is less sensitive to interpretation inconsistencies but the 
+methods involved are less straightforward and require access to the original 
+unclassified remotely sensed data. 
+As several methods are available to derive LU/LC and LU/LC change maps from multi-temporal 
+datasets, this methodology does not prescribe any specific method.  
+• 
+Automated classification methods are preferred because the interpretation is more 
+efficient and repeatable than visual interpretation. 
+• 
+Independent interpretation of multi-temporal images should be avoided (but is not 
+forbidden). 
+• 
+Interpretation is usually more accurate when it focuses on change detection with 
+interdependent assessment of two multi-temporal images together. Image 
+segmentation followed by supervised object classification may be effective. 
+• 
+Minimum mapping unit size must not be more than one hectare irrespective of forest 
+definition. 
+• 
+See the most recent version of the GOFC-GOLD sourcebook on REDD or consult experts 
+and literature for further guidance on methods to analyze LU/LC change using remotely 
+sensed data. 
+Duly record all interpretation and classification steps for later reporting. 
+ 
+VM0015, v1.2 
+ 
+41 
+Post-processing 
+Post-processing includes the use of non-spectral data to further stratify LU/LC classes with 
+heterogeneous carbon density into LU/LC classes with homogenous carbon density. Post-
+classification stratification may be performed efficiently using GIS. 
+LiDAR and other remote sensing technologies. when combined with field-surveys, may be used 
+under this methodology. Some forest types (e.g., broadleaved forest, coniferous forests, 
+mangroves) may be accurately discriminated using remotely sensed data only. 
+For LU/LC classes where further stratification using remote sensing techniques is not possible 
+and the classes are likely to encompass a broad range of carbon density classes, further 
+stratification should be based on any of the following: 
+1) Biophysical criteria (e.g., climate or ecological zone, soil and vegetation type, elevation, 
+rainfall, slope, aspect);18 
+2) Disturbance indicators (e.g., vicinity to roads; forestry concession areas);  
+3) Age (for plantations and secondary forests); 
+4) Land management categories (e.g., protected forest, indigenous reserve); and/or 
+5) Other criteria relevant to distinguish carbon density classes. 
+See the most recent version of the GOFC-GOLD sourcebook for REDD and IPCC (2006) Volume 
+4 for further guidance on stratification. The criteria finally used should be reported 
+transparently in the PD and referenced to in Table 5. Some iteration between Sections 8.1.1.2, 
+8.1.1.3 and this section may be necessary. 
+Duly record all post-processing steps for later reporting. 
+At the end of Step 3 (Section 8.1.1), the following products must be prepared for the reference 
+region (including the project area): 
+1) Forest cover maps showing “forest” land and “non-forest” land at different dates over 
+the historical reference period. Forest cover maps must be developed for a minimum of 
+three distinct years representing the beginning, midpoint and end of the historical 
+reference period. All of the following apply to the project’s forest cover maps:  
+a) Intervals between forest cover maps should be as similar in duration as data 
+availability allows;  
+b) To allow for subdivision of the historical reference period into a calibration 
+period and a confirmation period, an odd number of forest cover maps must be 
+used; and 
+c) Good practice in remote sensing analysis must be followed. 
+2) A land-use and land-cover map for at least the most recent date (2 years from the 
+project start date) depicting the LU/LC classes defined in Section 8.1.1.2.  
+ 
+18 IPCC 2006 Guidelines for National GHG Inventories provides default climate and soil classification schemes in Annex 
+3A.5 and guidance on stratifying LU/LC areas in Section 3.3.2. 
+ 
+VM0015, v1.2 
+ 
+42 
+3) A deforestation map for each sub-period analyzed. These maps are generated from 
+successive forest cover maps and must include the following land cover change 
+categories: forest remaining forest, forest to non-forest (deforestation), non-forest 
+remaining non-forest, and non-forest to forest. Where possible, the forest to non-forest 
+category must be separated into planned and unplanned deforestation to enable 
+exclusion of planned deforestation from the reference region as required in Section 
+5.1.1. Where relevant, deforestation maps must identify areas of mangrove and peat 
+forest. 
+4) A land use and land cover change map for at least the most recent period analyzed 
+(three to five years) depicting the LU/LC change categories defined in Section 8.1.1.3. 
+In most cases, this map will be prepared by combining the Deforestation Map of the 
+most recent period (three to five years) with the most recent Land Use and Land Cover 
+Map. 
+5) A land-use and land-cover change matrix for at least the most recent period analyzed, 
+derived from the LU/LC change map or the Deforestation Map and the post-
+deforestation land-use data mentioned above, showing activity data for each LU/LC 
+change category. See Appendix 5 for an example of an LU/LC change matrix. 
+8.1.1.5 Map Accuracy Assessment 
+A verifiable accuracy assessment of the maps produced in the previous step is necessary to 
+produce a credible estimate of the historical deforestation area.19 The requirements for 
+accuracy assessment are: 
+1) The accuracy must be estimated on a class-by-class (LU/LC map) and, where 
+applicable, category-by-category (LU/LC change map) basis, respectively.  
+2) Accuracy must be assessed based on visual sampling of high-resolution imagery as a 
+reference. High-resolution (≤5-meter resolution) imagery must be used where available. 
+A number of sample points on the map and their corresponding correct classification 
+(as determined by ground surveys or interpretation of higher resolution data as 
+collected in Section 8.1.5.1) may be used to create an error matrix with the diagonal 
+showing the proportion of correct classification and the off-diagonal cells showing the 
+relative proportion of misclassification of each class or category into the other class or 
+categories. Based on the error matrix (also called confusion matrix), a number of 
+accuracy indices may be derived (see e.g., Congalton (1991) and Pontius (2000)). 
+3) The minimum overall accuracy of the forest cover map must be 90 percent. 
+4) The minimum classification accuracy of each class or category in the land use and land 
+cover map and land use and land cover change map, respectively, must be 80 percent. 
+Where the classification of a class or category is lower than 80 percent: 
+ 
+19 See Chapter 5 of IPCC 2003 GPG, Chapter 3A.2.4 of IPCC 2006 Guidelines and the most recent version of the GOFC-
+GOLD Sourcebook on REDD for guidance on map accuracy assessment. 
+ 
+VM0015, v1.2 
+ 
+43 
+a) Consider merging the class/category with other classes/categories;20 or 
+b) Exclude from the forest cover map the forest-classes that are causing the 
+greatest confusion with non-forest classes according to the error matrix (e.g., 
+initial secondary succession and heavily degraded forest may be difficult to 
+distinguish from certain types of grassland or cropland, such as agro-forestry 
+and silvo-pastoral systems not meeting the definition of “forest”). This implies 
+conservatively reducing the area of the forest cover map. 
+5) Both commission errors (false detection of a class/category, such as “deforestation”) 
+and omission errors (non-detection of actual class/category, such as “deforestation”) 
+should be estimated and reported. 
+6) Where ground-truthing data are not available for time periods in the past, the accuracy 
+may be assessed only at the most recent date for which it is possible to collect ground-
+truthing data. 
+Where the map accuracy assessment requires merging or eliminating classes or categories 
+to achieve the required map accuracy, the definitions in the previous sub-sections must be 
+adjusted accordingly. The final maps and the class/category definitions must be consistent. 
+8.1.2 Estimation of Land Cover and Land Cover Change Areas 
+Estimation of land cover and land cover change areas must not be derived from uncorrected 
+pixel counts of land cover or land cover change maps. A bias correction must be applied to the 
+area estimates based on the accuracy assessment and using standard best practice methods 
+(for example, GFOI Methods and Guidance document, v2.0, page 136, Box 24 or v3.0, page 
+185, Box 32). The estimation of land cover and land cover change areas results in mean area 
+estimates, each including an uncertainty estimate representing sampling error. as a two-sided 
+90 percent confidence interval. The uncertainty estimates must be reported in hectares and as 
+a percentage of the area estimate.  
+The bias-corrected estimate of the land cover change area must be conservatively discounted 
+to reduce the risk of overestimation: 
+Conservatively discounted unplanned deforestation area = bias-corrected area 
+estimate × (1–discount factor)  
+The discount factors must be based on the uncertainty, U%, of the estimate to be discounted 
+(i.e., the half-width of the two-sided 90 percent confidence interval as a percentage of the 
+mean estimate). The discount factors are given by the following:  
+1) Where the uncertainty is less than or equal to 10 percent of the mean, the discount 
+factor is zero percent.  
+2) The uncertainty must not exceed 20 percent.  
+ 
+20 The tradeoff of merging classes or categories is that carbon estimates will be subject to a higher degree of variability. 
+ 
+VM0015, v1.2 
+ 
+44 
+3) Where the uncertainty is more than 10 percent and less than 20 percent of the mean: 
+𝐷𝐹 = (𝑈%/𝑡𝛼=10%) × 𝑡𝛼=66.67 
+Where: 
+DF  
+= 
+Discount factor (%)  
+U%  
+= 
+Percentage uncertainty of the area of the reference region classified as  
+unplanned deforestation through plot sampling (i.e., the half-width of 
+the 90 percent confidence interval as a percentage of the mean 
+estimate) (%)  
+t  
+= 
+Values from the t distribution (tα=10% is the t value for the two-sided 90  
+percent confidence interval, approximately 1.6449; tα=66.67% is the t 
+value for a one-sided 66.67 percent confidence interval, approximately 
+0.4307) (dimensionless) 
+8.1.2.1 Preparation of a Methodology Annex to the PD 
+LU/LC change analysis is an evolving field and will be performed several times during the 
+project crediting period. A consistent time series of LU/LC change data must emerge from this 
+process. 
+In general, the same source of remotely sensed data and data analysis techniques must be 
+used within a period for which the baseline is fixed (baseline validity period). However, if 
+remotely sensed data have become available from new and higher resolution sources (e.g., 
+from a different sensor system) during this period, these may be used where the images based 
+on interpretation of the new data overlap the images based on interpretation of the old data by 
+at least one year and the images cross calibrate to acceptable levels based on commonly used 
+methods in the remote sensing community.  
+The risk of introducing artifacts from method change must be minimized to achieve a 
+consistent time series. For this reason, the detailed methodological procedures used in pre-
+processing, classification, post-classification processing and accuracy assessment of the 
+remotely sensed data must be carefully documented in an annex to the PD. This annex must be 
+public or sufficient information must be provided in the PD to enable an external reviewer to 
+assess the quality of the data. In particular, the following information must be documented: 
+1) Data sources and pre-processing:  
+a) Type, resolution, source, and acquisition date of the remotely sensed data (and 
+other data) used 
+b) Geometric, radiometric and other corrections performed, where relevant 
+c) Spectral bands and indexes used (such as NDVI) 
+d) Projection and parameters used for geo-referencing the images 
+e) Error estimate of the geometric correction 
+f) Software and software version used to perform pre-processing tasks 
+2) Data classification and post-processing:  
+a) Definition of the LU/LC classes and LU/LC change categories 
+ 
+VM0015, v1.2 
+ 
+45 
+b) Classification approach and classification algorithms 
+c) Coordinates and description of the ground-truthing data collected for training 
+purposes 
+d) Ancillary data used in the classification, where relevant 
+e) Software and software version used to perform the classification 
+f) Additional spatial data and analysis used for post-classification analysis, 
+including class subdivisions using non-spectral criteria, where relevant 
+3) Classification accuracy assessment:  
+a) Accuracy assessment technique used  
+b) Coordinates and description of the ground-truth data collected for classification 
+accuracy assessment 
+c) Post-processing decisions made based on the preliminary classification 
+accuracy assessment, where relevant 
+d) Final classification accuracy assessment 
+8.1.3 Projection of Future Deforestation (Step 4) 
+This step is the core of the baseline methodology. Its objective is to locate in space and time 
+the baseline deforestation expected to occur in the reference region during the first baseline 
+validity period and, optionally, the project crediting period. 
+8.1.3.1 Projection of the Quantity of Future Deforestation 
+This section is used to determine the quantity of baseline deforestation (in hectares) for each 
+future year within the reference region. 
+Where appropriate, the reference region may be stratified according to the findings of Section 
+8.1.1 and different deforestation rates estimated for each stratum. Where the reference region 
+is stratified, the rationale for the stratification must be explained and a map of the strata 
+provided. Briefly summarize the stratification criteria and the strata using Table 8. 
+Table 8: Stratification of the Reference Region 
+Stratum ID 
+Description 
+Area at year 
+1 
+2 
+… 
+T 
+IDi Name 
+ha 
+ha 
+ha 
+ha 
+ 1 
+  
+  
+  
+  
+  
+  
+ 2 
+  
+  
+  
+  
+  
+  
+ .. 
+  
+  
+  
+  
+  
+  
+ n 
+  
+  
+  
+  
+  
+  
+ IRR   
+  
+  
+  
+  
+  
+ 
+VM0015, v1.2

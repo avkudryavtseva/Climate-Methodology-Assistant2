@@ -1,0 +1,57 @@
+1 
+SOURCES 
+The methodology uses the latest version of the following tools and guidance: 
+• 
+VMD0038, Campus-Wide Module 
+• 
+VMD0039, LEED-Certified Buildings Module 
+• 
+US Environmental Protection Agency’s ENERGY STAR Portfolio Manager® program1 
+• 
+US Environmental Protection Agency’s ENERGY STAR Target Finder tool2 
+• 
+Clean Air Cool Planet Campus Carbon Calculator3 
+• 
+CDM-EB67-A06-GUID Guidelines for sampling and surveys for CDM project activities 
+and programme of activities 
+The methodology is based on approaches used in the following methodologies: 
+• 
+VM0008 Weatherization of Single and Multifamily Homes (version 1.1) 
+• 
+NM0302 Emission reductions in the cement production facilities of Holcim Ecuador S.A. 
+(proposed CDM methodology) 
+The follow have also supported the development of the methodology: 
+• 
+The American College and University Presidents’ Climate Commitment (ACUPCC) 
+GHG inventory reports4 
+• 
+Efficiency Valuation Organization’s International Performance Measurement and 
+Verification Protocol (IPMVP) for guidance on methods determining energy savings 
+(EVO-1000-1, 2010)5 
+• 
+USGBC’s LEED certification protocols6  
+• 
+Portfolio Manager supporting documentation7 
+ 
+                                                          
+1 EPA. 2013: http://www.energystar.gov/buildings/facility-owners-and-managers/existing-buildings/use-portfolio-
+manager 
+2 EPA. 2013: http://www.energystar.gov/index.cfm?c=new_bldg_design.bus_target_finder 
+3 CACP. Aug, 2013: http://cleanair-coolplanet.org/campus-carbon-calculator/ 
+4 ACUPCC. 2013: http://rs.acupcc.org/ 
+5 EVO. 2010: http://www.evo-world.org/index.php?option=com_content&view=article&id=272&Itemid=379&lang=en 
+6 USGBC. 2013: http://new.usgbc.org/leed7 EPA. Nov, 2011. “Methodology for Greenhouse Gas Inventory 
+Calculations” http://www.energystar.gov/ia/business/evaluate_performance/Emissions_Supporting_Doc.pdf?f655-
+cb13 
+7 EPA. Nov, 2011. “Methodology for Greenhouse Gas Inventory Calculations” 
+http://www.energystar.gov/ia/business/evaluate_performance/Emissions_Supporting_Doc.pdf?f655-cb13 
+EPA. Mar, 2011. “ENERGY STAR Performance Ratings – Technical Methodology” 
+http://www.energystar.gov/ia/business/evaluate_performance/General_Overview_tech_methodology.pdf?9d9b-0c2d 
+EPA. Jul, 2013. “Portfolio Manager Technical Reference: ENERGY STAR Score” 
+http://www.energystar.gov/buildings/tools-and-resources/portfolio-manager-technical-reference-energy-star-score 
+http://www.energystar.gov/index.cfm?c=evaluate_performance.bus_portfoliomanager_model_tech_desc 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 6

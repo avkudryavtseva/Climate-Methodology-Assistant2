@@ -1,0 +1,21 @@
+158614
+GAL 
+10.18
+kg/gal 
+1614.69
+ 
+Natural gas 
+ 
+DTH 
+53.02
+kg/MMBtu
+0.00 
+ 
+Recycled oil
+ 
+GAL 
+9.99
+kg/gal 
+0.00 
+Equipment & Vehicles 
+Diesel fuel

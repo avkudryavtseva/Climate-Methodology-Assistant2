@@ -1,0 +1,1245 @@
+9 MONITORING 
+9.1 Data and Parameters Available at Validation 
+Data / Parameter 
+𝑮𝑬𝑰𝒋 
+Data unit 
+MJ head-1 d-1  
+Description 
+Average gross energy intake for a specific animal group 
+Equations 
+(3),(4) 
+Source of data 
+Records and data from livestock operator or associated partners for 
+three continuous years of historical data prior to the initiation of the 
+project or from national/regional statistical accounts.  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Gross energy intake (𝐺𝐸𝐼𝑗) can be calculated by multiplying dry matter 
+intake by the energy density of the feedstuff using Equation (4). 
+The energy density of diets is calculated based on their fat content, 
+therefore the livestock operator or associated partners must know the 
+fat content of the diets. 
+Parameter to be updated with any change in feeding regime. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Calculated based on measured daily dry matter intake (DMI) and energy 
+density 
+ 
+Data / Parameter 
+𝑫𝑴𝑰𝒋 
+Data unit 
+kg dry matter head-1 d-1 
+Description 
+Average dry mass of feed consumed by an animal in a given day 
+Equations 
+(4) 
+Source of data 
+Records and data from livestock operator or associated partners for 
+three continuous years of historical data prior to the initiation of the 
+project or from national/regional statistical accounts.  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+Data must be provided by the livestock operator or associated partners 
+for each animal group. The farm records must document the average 
+daily dry matter intake (DMI) for each animal group in the project.  
+ 
+VM0041, Version 2.0 
+19 
+measurement methods 
+and procedures applied 
+Parameter to be updated with any changes in feeding regime. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Required to calculate gross energy intake in Equation (3) 
+ 
+Data / Parameter 
+𝒀𝒎𝒋 
+Data unit 
+dimensionless 
+Description 
+Percentage of gross energy from feed converted to methane by each 
+animal group 
+Equations 
+(3) 
+Source of data 
+National or regional and population specific 𝑌𝑚 values should be used 
+where available, to better reflect population characteristics of the 
+ruminants. 
+Default values provided in Table 4 (Appendix 3) may be used as an 
+alternative where regional values are not available. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Most national environmental agencies or similar government and 
+research institutions have accurate peer-reviewed studies that provide 
+𝑌𝑚 values. Therefore, these values must be preferred and used where 
+direct applicability can be demonstrated. The IPCC default values for 
+𝑌𝑚 (Table 4 in Appendix 3) are provided for different animal categories 
+and can be used when no respective values are available from country-
+specific research. 
+Table 4 provides 𝑌𝑚 values derived from cattle with diets containing 
+various levels of neutral detergent fibers (NDF) and digestible energy 
+(DE). The NDF values of the feed used in the project must be available 
+in order to use Table 4. Detailed information can be found in Appendix 
+3. 
+The IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized, and the data provided in the guidelines are 
+peer-reviewed. 
+Parameters from any source (e.g., IPCC or national agencies) must 
+apply the most conservative value of any uncertainty component. 
+Parameters to be updated for each crediting period where new data 
+exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+ 
+VM0041, Version 2.0 
+20 
+Data / Parameter 
+𝑵𝑫𝑭𝒋 
+Data unit 
+Percentage dry matter 
+Description 
+Forage quality index 
+Equations 
+None 
+Source of data 
+Records and data from livestock operator or associated partners for 
+three continuous years of historical data prior to the initiation of the 
+project or from national/regional statistical accounts.  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Data must be provided for each animal group by the livestock operator 
+or associated partners. Assessment of the quality of forage is typically 
+provided by the farmer’s nutritionist when formulating rations for the 
+animals. 
+NDF values are used to determine 𝑌𝑚. Detailed information can be 
+found in Appendix 3. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+𝑬𝑫 
+Data unit 
+MJ kg-1  
+Description 
+Energy content of dry matter 
+Equations 
+(4) 
+Source of data 
+Default value or farm-specific data 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Farm-specific values should be used, where available. Otherwise, use 
+the following typical energy density values: 
+1) 19.10 MJ kg-1 for diets including edible oils with fat content in the 
+range of 4 to 6% 
+2) 18.45 MJ kg-1 for diets including edible oils with fat content below 
+4% 
+Parameters to be updated for each crediting period where new data 
+exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+ 
+VM0041, Version 2.0 
+21 
+Comments 
+N/A 
+ 
+Data / Parameter 
+𝑬𝑪 
+Data unit 
+MJ kg-1  
+Description 
+Energy content of methane 
+Equations 
+(3) 
+Source of data 
+Default value taken from 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories7 
+Value applied 
+55.65 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This is a standard property of methane (at 101.3 kPa, 15 °C). The IPCC 
+Guidelines for National Greenhouse Gas Inventories is internationally 
+recognized, and the data provided in the guidelines are peer-reviewed. 
+Parameters to be updated for each crediting period where new data 
+exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+𝑬𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 
+Data unit 
+kg CH4 
+Description 
+Enteric methane emission factor for each animal group 
+Equations 
+(1) 
+Source of data 
+Calculated using Equations (2), (3), or (5) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+To allow flexibility for potential projects, this methodology provides 
+different options to calculate baseline emissions. 
+For Options 2 and 3, the first step in collecting data should be to 
+investigate existing national statistics, national industry sources, 
+published research, and statistics from international environmental 
+agencies or the FAO. 
+ 
+7 Volume 4, Chapter 10, Section 10.3.2. Available at https://www.ipcc-nggip.iges.or.jp/public/2006gl/vol4.html. 
+ 
+VM0041, Version 2.0 
+22 
+Most national environmental agencies or similar government and 
+research institutions have accurate peer-reviewed data on emission 
+factors and 𝑌𝑚 for each animal group. Where no data are available, on-
+site farm measurements can be performed (baseline Option 1). 
+Direct enteric methane measurements for ruminants must be 
+conducted using state of the art technologies, which are well 
+documented in the scientific literature and peer-reviewed publications; 
+see examples in Table 3 in Appendix 2. 
+Parameters from any source (e.g., IPCC, national agencies, or direct 
+measurement) must apply the most conservative value of the 
+uncertainty component. 
+Parameters to be updated for each crediting period where new data 
+exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Where methane emissions are directly measured, the project proponent 
+or associated partner must demonstrate experience in methane 
+measurement technologies (i.e., at least one team member must be a 
+professional in the area of animal science, livestock health, or nutrition 
+who has an M.Sc. or Ph.D. and working/research experience in the 
+relevant discipline). 
+ 
+Data / Parameter 
+𝑮𝑾𝑷 
+Data unit 
+dimensionless 
+Description 
+Global warming potential of methane over 100-year time horizon 
+Equations 
+(1),(6) 
+Source of data 
+IPCC defaults to be taken from the most recent IPCC reports 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized and the data provided in the guidelines are 
+peer reviewed. 
+To be updated for each crediting period where new data exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+𝑷𝑬𝒋 
+ 
+VM0041, Version 2.0 
+23 
+Data unit 
+kg CH4 head-1 d-1 
+Description 
+Average project enteric CH4 emissions calculated by direct 
+measurements using the chosen technology on farm i during the 
+monitoring period 
+Equations 
+(7) 
+Source of data 
+Measured for each animal group. Data records and study report of farm 
+operations. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+To quantify the project enteric CH4 emissions, an animal sample for 
+each group is selected for direct measurement. The project proponent 
+must describe the required sampling protocols against objective 
+conditions. Sampling protocols must include sufficient numbers and 
+sampling times to account for diurnal and postprandial variation in CH4, 
+as outlined in Appendix 2. 
+All CH4 measurement techniques are subject to experimental variation 
+and random errors, which must be taken into account when reporting 
+the final enteric CH4 emission value. Detailed information can be found 
+in Appendix 2. 
+Parameter to be updated for each crediting period or where the value is 
+no longer representative (e.g., due to changes in feeding regime, animal 
+type, weight, production phase, geographic region, and management 
+practices), in which case new data must be collected. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+As direct measurements of methane emissions are required, the project 
+proponent or associated partner must demonstrate experience in 
+methane measurement technologies (i.e., at least one team member 
+must be a professional in the area of animal science, livestock health, 
+or nutrition who has an M.Sc. or Ph.D. and working/research experience 
+in the relevant discipline). 
+ 
+Data / Parameter 
+𝑬𝑹𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒋 
+Data unit 
+Percentage 
+Description 
+Enteric emission reduction factor 
+Equations 
+(6),(7) 
+Source of data 
+Provided by the feed manufacturer for each animal group or calculated 
+using Equation (7)(6). Data records and study report of farm 
+operations. 
+ 
+VM0041, Version 2.0 
+24 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+For Equation (6), the default percentage value is determined from a 
+meta-analysis published in a reputable journal (Option 1). 
+For Equation (7), the project proponent must provide evidence to 
+demonstrate the percentage enteric CH4 reduction for each animal 
+group (Option 2). During verification, the project proponent will need to 
+provide the scientific protocol and the results of the measurements. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+𝑬𝑭𝑷𝒓𝒐𝒅𝒖𝒄𝒕𝒊𝒐𝒏𝒊,𝒋 
+Data unit 
+kg CH4 head-1 d-1 
+Description 
+Average project enteric CH4 emissions calculated by direct 
+measurements using the chosen technology on farm i during the 
+monitoring period 
+Equations 
+(2) 
+Source of data 
+Measured for each animal group. Data records and study report of farm 
+operations. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+To quantify the project enteric CH4 production per animal, samples for 
+each group are selected to be directly measured (Option 1). The project 
+proponent must describe the required sampling protocols relevant to 
+the project context. Sampling protocols must include sufficient numbers 
+and sampling times to account for diurnal and postprandial variation in 
+CH4 emissions. In animal studies, the preferred scientific method is the 
+calculation of sample size by power analysis (Charan and Kantharia, 
+2013). More detail is provided in Appendix 2. 
+All CH4 measurement techniques are subject to experimental variation 
+and random errors, which must be taken into account when reporting 
+the final enteric CH4 emission value. Detailed information on reporting 
+such errors can be found in Appendix 2. 
+Parameter to be updated for each crediting period or where the value is 
+no longer representative (e.g., due to changes in feeding regime, animal 
+type, weight, production phase, geographic region, and management 
+practices), in which case new data must be collected. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+As direct measurements of methane emissions are required, the project 
+proponent or associated partner must demonstrate experience in 
+ 
+VM0041, Version 2.0 
+25 
+methane measurement technologies (i.e., at least one team member 
+must be a professional in the area of animal science, livestock health, 
+or nutrition who has an M.Sc. or Ph.D. and working/research experience 
+in the relevant discipline). 
+ 
+Data / Parameter 
+𝑬𝑭𝒊,𝒋 
+Data unit 
+kg CH4 head-1 d-1 
+Description 
+Average enteric CH4 emissions factor for each animal in group j during 
+the monitoring period 
+Equations 
+(5) 
+Source of data 
+National or regional and population specific factors should be used 
+where available, to better reflect population characteristics of the 
+ruminants. Default values provided in Appendix 4 may be used as an 
+alternative where regional values are not available. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+National or regional specific 𝐸𝐹 values should be used, where available, 
+to reflect ruminant characteristics. Where using peer-reviewed literature 
+to obtain these values, data must be drawn from reputable journals on 
+the Science Citation Index Expanded. Where area-specific values are 
+not available, default values provided in Appendix 4 may be used. 
+Parameters from any source (e.g., IPCC or national agencies) must 
+apply the most conservative value of the uncertainty component (i.e., a 
+50% reduction must be applied to values taken from Appendix 4), in 
+order to account for uncertainty. 
+Parameter to be updated for each crediting period for which new data 
+exist. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+9.2 Data and Parameters Monitored 
+Data / Parameter: 
+𝑵𝒊,𝒋 
+Data unit: 
+Number of animals (head) 
+Description: 
+Mean number of head in each animal group j consuming a feed 
+ingredient during the monitoring period on farm i 
+Equations 
+(2),(3),(5)(4),(7),(11),(12) 
+ 
+VM0041, Version 2.0 
+26 
+Source of data: 
+Data records of livestock operations using the feed ingredient. Farm 
+records. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Farm inventory data must be calculated as the average number of 
+animals in each group, taking into account animal entry and exit 
+movements from the group. This is a weighted average approach using 
+the animal head × days factor, as demonstrated in the example below.  
+ 
+Days on feed 
+Number of head 
+1 
+100 
+2 
+100 
+3 
+103 
+Total = 3 
+Mean = 101 
+Frequency of 
+monitoring/recording: 
+Single value depending on the number of head in each animal group 
+using the feed ingredient. Measured by averages calculated from 
+annual records. 
+QA/QC procedures to be 
+applied: 
+Each farm record must list the number of animals in each group. 
+Management and monitoring system to be established by the project 
+proponent at the start of project. System may include data recording 
+and verification procedures. 
+Purpose of data: 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Calculation of emission reductions 
+Calculation method: 
+N/A 
+Comments: 
+Monitoring is established at the feed purchaser level. An appropriate 
+and unique identification system for the purchasers, including e.g., 
+project participant name, tax identification number, number of animals 
+in each group, unique invoice number and date, would avoid double 
+counting of emissions reductions claimed. 
+At the time of reporting, baseline and project emissions must be 
+calculated based on livestock population, climatic conditions, and other 
+factors specific to the project and time period. 
+ 
+Data / Parameter: 
+𝑫𝒂𝒚𝒔𝒊,𝒋 
+Data unit: 
+d 
+Description: 
+Number of days during which project activity is implemented in animal 
+group j on farm i 
+Equations 
+(2),(3),(5),(7) 
+Source of data: 
+Data records of livestock operations using project feed ingredient 
+ 
+VM0041, Version 2.0 
+27 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+None 
+Frequency of 
+monitoring/recording: 
+Once for start date of ingredient feeding and once for end date of 
+ingredient feeding, for each animal group j 
+QA/QC procedures to be 
+applied: 
+Management and quality control system to be established by the 
+project proponent at the start of the project. System may include data 
+recording and verification procedures. 
+The number of days may be less than 365. For example, in the case of 
+young cattle, the number of days represents the length of stay in 
+specific animal group j. 
+Purpose of data: 
+Calculation of baseline emissions 
+Calculation of emission reductions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝒋 
+Data unit: 
+Animal group 
+Description: 
+Animals at each farm i must be grouped based on a homogeneous 
+ruminant population characteristic 
+Equations 
+(1),(2),(3),(4),(5),(6),(7),(11),(12) 
+Source of data: 
+Data records of livestock operations using project feed ingredient 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Ruminant population characterization: Methane emissions from 
+ruminants vary by animal type, weight, production phase (e.g., pregnant 
+or lactating), feed type, and seasonal conditions. Accounting for these 
+variations in a ruminant population throughout the year is important to 
+accurately characterize annual emissions. 
+Project proponents must provide evidence at validation and each 
+verification that emissions estimates are based on a homogeneous 
+population and the herd size and individual animal characteristics 
+remain constant for a given period. An example of the detailed 
+characterization required for each livestock species is given in the 
+2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories.8 
+ 
+8 Volume 4, Chapter 10, Table 10.1. Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html. 
+ 
+VM0041, Version 2.0 
+28 
+Frequency of 
+monitoring/recording: 
+Once for validation and at least once per monitoring period 
+QA/QC procedures to be 
+applied: 
+Management and quality control system to be established by the 
+project proponent at the start of the project. System may include data 
+recording and verification procedures. 
+Purpose of data: 
+Calculation of baseline emissions 
+Calculation of emission reductions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑭𝑴 
+Data unit: 
+kg month-1 
+Description: 
+Amount of feed ingredient purchased by farm i during the monitoring 
+period 
+Equations 
+(8),(10) 
+Source of data: 
+Data records of livestock operations purchasing project feed ingredient 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Monitoring is established at the feed purchaser level. An appropriate 
+and unique identification system for the purchasers is required, 
+including e.g., client name, unique invoice number and date, feed 
+purchase receipts, weights, and/or feed delivery records.  
+Delivery notes and invoices must be reconciled between buyer and 
+seller to verify the integrity of records. 
+Sales records must be cross-checked with both buyer and seller of the 
+feed ingredient to make sure that records are consistent. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Management and quality control system to be established by the 
+project proponent at the start of the project. System may include data 
+recording and verification procedures. 
+Farm records or data managed by a third party showing both complete 
+feed purchased monthly and manufactured complete feed delivered to 
+each group. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Must be measured in order to determine monthly volumes of the feed 
+ingredient purchased 
+ 
+VM0041, Version 2.0 
+29 
+ 
+Data / Parameter: 
+𝑬𝑭𝑷 
+Data unit: 
+tCO2e kg-1 
+Description: 
+Emission factor for production of feed ingredient. GHG emitted per 
+kilogram of feed ingredient. Includes all activities involved at the 
+manufacturer’s facility for the production of the feed ingredient. 
+Equations 
+(9) 
+Source of data: 
+Records and documentation provided by the feed manufacturer 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Calculated using Equation 9 
+Frequency of 
+monitoring/recording: 
+Monthly 
+QA/QC procedures to be 
+applied: 
+If these values are not available, they should be developed using 
+secondary data from databases listed in Table 1 in the FAO 
+Environmental Performance of Feed Additives in Livestock Supply 
+Chains.9 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑬𝑭𝑻𝒊 
+Data unit: 
+tCO2 
+Description: 
+Emission factor for transportation of feed ingredient to the feed mill or 
+directly to farm i during the monitoring period. GHG emitted per 
+kilogram of feed. 
+Equations 
+(10) 
+Source of data: 
+Records and documentation provided by the feed manufacturer 
+ 
+9 FAO (2020) Environmental Performance of Feed Additives in Livestock Supply Chains – Guidelines for Assessment, v1, 
+Livestock Environmental Assessment and Performance Partnership (FAO LEAP). Available at 
+https://doi.org/10.4060/ca9744en. 
+ 
+VM0041, Version 2.0 
+30 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Calculated using Equation 10 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+The project proponent must provide evidence to demonstrate the level 
+of emissions during the monitoring period. If these values are not 
+available, they should be developed using Section 6.5 of the FAO 
+Environmental Performance of Feed Additives in Livestock Supply 
+Chains.10 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑸𝒆𝒍𝒆𝒄 
+Data unit: 
+MWh kg-1 
+Description: 
+Quantity of electricity used by production facility and supplied by the 
+grid per kilogram of feed ingredient produced 
+Equations 
+(9) 
+Source of data: 
+Documentation and date provided by the feed manufacturer 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Electric utility bills provided by the manufacturer. 
+For the production of the feed ingredient, the manufacturer must 
+provide the electricity consumption at the specific production line used 
+to manufacture the monthly quantity of feed ingredient. 
+Alternatively, where product line-level data are not available, the 
+manufacturer can use a ratio based on the percentage of the total 
+volume produced by the facility that is represented by the feed 
+ingredient. 
+Frequency of 
+monitoring/recording: 
+Monthly 
+ 
+10 FAO (2020) Environmental Performance of Feed Additives in Livestock Supply Chains – Guidelines for Assessment, 
+v1, Livestock Environmental Assessment and Performance Partnership (FAO LEAP). Available at 
+https://doi.org/10.4060/ca9744en. 
+ 
+VM0041, Version 2.0 
+31 
+QA/QC procedures to be 
+applied: 
+To confirm the production of feed ingredient, monthly production output 
+data must be available to the manufacturer. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑸𝒇𝒇 
+Data unit: 
+Volume or kg fuel kg feed ingredient-1 
+Description: 
+Quantity of fossil fuel used (L, m3, or other, for each type of fuel) at the 
+production facility per kilogram of feed ingredient produced 
+Equations 
+(9) 
+Source of data: 
+Report provided by the feed manufacturer 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Fossil fuel invoices provided by the manufacturer. 
+For production of the feed ingredient, the manufacturer must provide 
+the quantity of fossil fuel used at the specific production line to 
+manufacture the monthly quantity of feed ingredient. 
+Alternatively, where product line-level data are not available, the 
+manufacturer can use a ratio based on the percentage of the total 
+volume produced by the facility that is represented by the feed 
+ingredient. 
+Frequency of 
+monitoring/recording: 
+Monthly 
+QA/QC procedures to be 
+applied: 
+To confirm the production of the feed ingredient, monthly production 
+output data must be available to the manufacturer. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑬𝑭𝒆𝒍𝒆𝒄 
+Data unit: 
+kg CO2 MWh-1 
+ 
+VM0041, Version 2.0 
+32 
+Description: 
+Emission factor for electricity 
+Equations 
+(9) 
+Source of data: 
+Country-specific emission factors for grid electricity from a reputable 
+regional or national source. Otherwise, from an international 
+organization such as the International Energy Agency (IEA). 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context.  
+Estimation and reference values must be obtained from the relevant 
+national GHG inventory. The value used must be consistent with the 
+source of generation. In the absence of local or regional data, reference 
+values may be obtained from the most recent version of the IPCC 
+Guidelines for National Greenhouse Gas Inventories. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+N/A 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+The latest approved version of the CDM Tool to Calculate the Emission 
+Factor for an Electricity System11 may be used to determine 𝐸𝐹𝑒𝑙𝑒𝑐 
+where national or state/province data are not available.  
+ 
+Data / Parameter: 
+𝑭𝑪𝒂 
+Data unit: 
+TJ volume-1 or kg of fuel-1 
+Description: 
+Energy content per unit of fuel type a 
+Equations 
+(9) 
+Source of data: 
+Regional or national default values from recognized sources or IPCC 
+reports 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+These values must be based on well-documented, reliable sources (e.g., 
+national energy balances, government publications, industry 
+ 
+11 Available at https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-07-v7.0.pdf. 
+ 
+VM0041, Version 2.0 
+33 
+associations, World Resources Institute (WRI)/World Business Council 
+for Sustainable Development (WBCSD) GHG Protocol). 
+In the absence of local or regional data, reference values must be 
+obtained from the most recent version of the IPCC Guidelines for 
+National Greenhouse Gas Inventories. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+N/A 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑬𝑭𝒂 
+Data unit: 
+kg GHG (CO2, CH4, N2O) per L, m3, or other 
+Description: 
+Emission factor for fuel combustion type a 
+Equations 
+(9) 
+Source of data: 
+Regional or national default values from recognized sources or IPCC 
+reports 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources (e.g., 
+national energy balances, government publications, industry 
+associations, WRI/WBCSD GHG Protocol). 
+In the absence of local or regional data, reference values must be 
+obtained from the most recent version of the IPCC Guidelines for 
+National Greenhouse Gas Inventories. 
+Purpose of data: 
+Calculation of project emissions 
+ 
+VM0041, Version 2.0 
+34 
+Calculation method: 
+N/A 
+Comments: 
+This parameter may be updated over the course of the crediting period 
+(as a project description deviation) where more recent information 
+becomes available. 
+ 
+Data / Parameter: 
+𝑻𝑬𝑭 
+Data unit: 
+tCO2 kg-1 km-1 
+Description: 
+Emission factor values for mode of transport m 
+Equations 
+(10) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reduction); and the process by which the data have been peer-reviewed 
+(preferred). 
+Frequency of 
+monitoring/recording: 
+Monthly 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑫𝒊 
+Data unit: 
+km 
+Description: 
+Total distance travelled by transport mode m for farm i 
+ 
+VM0041, Version 2.0 
+35 
+Equations 
+(10) 
+Source of data: 
+Data provided by the project proponent or manufacturer 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Distance travelled by transport mode m delivering feed ingredient 
+consumed during the monitoring period to the project location, farm i. 
+Where the feed ingredient goes through a feedmill, then the distance to 
+the feedmill, rather than to the farm, must be measured. 
+Frequency of 
+monitoring/recording: 
+Monthly 
+QA/QC procedures to be 
+applied: 
+N/A 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Where there is a reliable, published life cycle analysis (LCA) for the 
+production and transport of the feed ingredient, this element may not 
+be needed. 
+ 
+Data / Parameter: 
+𝑽𝑺𝒊,𝒋 
+Data unit: 
+kg head-1 yr-1 
+Description: 
+Annual average volatile solid excretion per animal group j on farm i  
+Equations 
+(11) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reduction); and the process by which the data have been peer-reviewed 
+(preferred) or proposed by national recommendations for cattle nutrient 
+requirements. If regionally specific data cannot be collected or derived, 
+default volatile solid excretion rates from the 2019 Refinement to the 
+ 
+VM0041, Version 2.0 
+36 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories12 may 
+be used. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑨𝑾𝑴𝑺𝒊,𝒋,𝑺 
+Data unit: 
+dimensionless 
+Description: 
+Fraction of total annual VS for animal group j on farm i that is managed 
+in manure management system S 
+Equations 
+(11),(12) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reduction); and the process by which the data have been peer-reviewed 
+(preferred). If regionally specific data cannot be collected or derived, 
+default regionally specific 𝐴𝑊𝑀𝑆 fractions can be found in the 2019 
+Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories.13 
+Frequency of 
+monitoring/recording: 
+Annual 
+ 
+12 Volume 4, Chapter 10, Table 10.13a. Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html. 
+13 Volume 4, Chapter 10, Annex 10A.2, Tables 10A.6 through 10A.9. Available at https://www.ipcc-
+nggip.iges.or.jp/public/2019rf/vol4.html. 
+ 
+VM0041, Version 2.0 
+37 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑬𝑭𝒊,𝒋,𝑺 
+Data unit: 
+g CH4 kg-1 
+Description: 
+Emission factor for direct CH4 emissions from manure management 
+system S by animal group j on farm i 
+Equations 
+(11) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reduction); and the process by which the data have been peer-reviewed 
+(preferred). If regionally specific data cannot be collected or derived, 
+default values can be derived from the 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories.14 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+ 
+14 Volume 4, Chapter 10, Table 10.14. Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html. 
+ 
+VM0041, Version 2.0 
+38 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑵𝒆𝒙𝒊,𝒋 
+Data unit: 
+kg N head-1 yr-1 
+Description: 
+Annual nitrogen excretion for animal group j on farm i 
+Equations 
+(12) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reductions); and the process by which the data have been peer-
+reviewed (preferred). If regionally specific data cannot be collected or 
+derived, default nitrogen excretion rates from the 2019 Refinement to 
+the 2006 IPCC Guidelines for National Greenhouse Gas Inventories15 
+may be used. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+𝑬𝑭𝟑(𝑺) 
+Data unit: 
+kg N2O-N kg N-1 
+ 
+15 Volume 4, Chapter 10, Table 10.19. Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html. 
+ 
+VM0041, Version 2.0 
+39 
+Description: 
+Emission factor for direct N2O emissions from manure management 
+system S 
+Equations 
+(12) 
+Source of data: 
+Regional or national default values from recognized sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Default values must be sourced from recognized, credible sources and 
+be geographically and temporally relevant to the project context. 
+These values must be based on well-documented, reliable sources. The 
+range of appropriate data must be documented, and the chosen data 
+must be justified, using criteria that include data source (recognized 
+and authoritative sources); geographic, temporal, and technological 
+specificity; conservativeness (i.e., does not overestimate emission 
+reduction); and the process by which the data have been peer-reviewed 
+(preferred). If regionally specific data cannot be collected or derived, 
+default N2O emission factors from the 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories16 may be 
+used. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Where more than one recognized source is available, the most 
+appropriate source must be selected, based on data quality indicators 
+including technological appropriateness, regional specificity, and 
+vintage of the data. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+9.3 Description of the Monitoring Plan 
+The project proponent must establish, maintain, and apply a monitoring plan and GHG 
+information system that includes criteria and procedures for obtaining, recording, compiling, 
+and analyzing data, parameters, and other information important for quantifying and reporting 
+GHG emissions. Where measurement and monitoring equipment is used, the project proponent 
+must ensure that the equipment is calibrated according to current good practice (e.g., relevant 
+industry standards). 
+The project proponent must be able to demonstrate that the ruminants for which it is claiming 
+emission reductions have been fed with the appropriate quantity of feed ingredient. In order to 
+ 
+16 Volume 4, Chapter 10, Table 10.21. Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html. 
+ 
+VM0041, Version 2.0 
+40 
+do so, project proponents must provide detailed feeding records as per manufacturer 
+instructions (Applicability Condition 3c) for each farm as well as proof of purchase of an 
+appropriate quantity of the feed ingredient. Proof of purchase may be provided through delivery 
+receipts and invoices, which must contain batch information or other identification information, 
+that can trace the feed ingredient back to the manufacturer. 
+All necessary documents must be collected and centrally stored by the project proponent and 
+be available for verification at any time. The data subject to monitoring and required for 
+verification must be archived and stored in electronic format by the project proponent for at 
+least two years after initial verification.

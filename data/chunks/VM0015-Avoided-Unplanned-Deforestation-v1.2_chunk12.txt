@@ -1,0 +1,1580 @@
+3 
+  
+  
+  
+  
+ 
+ 
+T 
+  
+  
+  
+  
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+65 
+Method 2: Modeling 
+The future spatial distribution of post-deforestation LU/LC classes is determined using a spatial 
+model. Two modeling techniques may be used: 
+1) Projection of LU/LC change categories: Some deforestation modeling tools may be 
+used to project several LU/LC change categories simultaneously, instead of just the 
+broad category of “deforestation” (see Figure 6). 
+ 
+ 
+In such cases, non-forest classes are determined by each projected category of change. 
+Methods discussed in Section 8.1.3.20 must be used to select the most accurate 
+prediction map. 
+ 
+2) Suitability modeling: 
+a) Factors that determine the suitability of each main post-deforestation LU/LC 
+class, such as soil type, elevation and slope (as selected and justified by the 
+project proponent) must be identified. 
+b) The suitability of the spatial location of each post-deforestation LU/LC class is 
+determined using multi-criteria analysis. At each spatial location, the class with 
+the highest suitability value is assumed to be that which deforestation agents 
+will implement in the absence of the AUD project activity. 
+c) Show the results obtained in maps and summarize the results in Table 17, Table 
+18 and Table 19 above (Table 17 is optional). Note that by using Method 2, 
+each post-deforestation LU/LC class fcl will represent one and only one “zone” z 
+(i.e., fcl = z). 
+Figure 6: Broad Categories of Land Use and Land Cover Change 
+Intact forest 
+Cropland 
+Grassland 
+Wetland 
+Settlement 
+Other Land 
+Forest Land 
+Non-Forest Land 
+Forest 
+Regeneration 
+Forest 
+Degradation 
+Deforestation 
+Degraded forest 
+Managed forest 
+ 
+VM0015, v1.2 
+ 
+66 
+d) The model must demonstrably comply with statistical good practice, with 
+evidence of this provided to the VVB at validation. 
+8.1.4.3 Calculation of Baseline Activity Data Per LU/LC Change Category 
+This sub-step is only applicable in conjunction with Method 2 described above. The goal of this 
+sub-step is to identify the categories of LU/LC change (ct) and the activity data of each of these 
+categories. This is performed as follows: 
+3) Combine the maps showing the polygons of forest classes (icl) that would be 
+deforested during each future year produced in Section 8.1.3.20 with the map showing 
+the post-deforestation LU/LC classes (fcl) prepared in Section 8.1.4.2.  
+4) From the combined datasets produce a new set of maps showing the polygons of 
+LU/LC change categories (ct) for each future year. Some spatial modeling tools are able 
+to produce these maps directly. 
+5) Extract from the maps produced above the number of hectares (i.e., activity data) 
+corresponding to each future year.  
+6) Summarize the results in Table 20 (optional), Table 21 and Table 22 for the baseline 
+validity period and, optionally, for the project crediting period. 
+Table 20: Baseline Activity Data for LU/LC Change Categories (ct) in the Reference 
+Region 
+Activity data per LU/LC change category ct in the reference 
+region 
+Total baseline 
+deforestation  
+in the reference region 
+IDct 
+1 
+2 
+… 
+Ict 
+Name > 
+  
+  
+  
+  
+ABSLRRt 
+ABSLRR 
+  
+annual 
+cumulative 
+Project 
+year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+67 
+Table 21: Baseline Activity Data For LU/LC Change Categories (ct) in the Project Area 
+Activity data per LU/LC category ct within the project area  
+Total baseline 
+deforestation in the 
+project area 
+IDct 
+1 
+2 
+… 
+Ict 
+Name > 
+  
+  
+  
+  
+ABSLPAt 
+ABSLPA 
+  
+annual 
+cumulative 
+Project 
+year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+Table 22: Baseline Activity Data For LU/LC Change Categories (ct) in the Leakage Belt 
+Activity data per LU/LC category ct within the leakage belt  
+Total baseline 
+deforestation  
+in the leakage belt 
+IDct 
+1 
+2 
+… 
+Ict 
+Name > 
+  
+  
+  
+  
+ABSLLKt 
+ABSLLK 
+  
+annual 
+cumulative 
+Project 
+year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+ 
+VM0015, v1.2 
+ 
+68 
+8.1.5 Estimation of Baseline Carbon Stock Changes and Non-CO2 Emissions (Step 6) 
+8.1.5.1 Estimation of Baseline Carbon Stock Changes 
+Before calculating the baseline carbon stock changes, the average carbon stock (t CO2e/ha) of 
+each LU/LC class must be estimated. 
+Estimation of the Average Carbon Stocks of Each LU/LC Class 
+Average carbon stocks must be estimated only for: 
+i) 
+Forest classes existing within the project area;31   
+ii) 
+Forest classes existing within the leakage belt;32 
+iii) 
+Post-deforestation classes projected to exist in the project area in the baseline case;  
+iv) 
+Post-deforestation classes projected to exist in the leakage belt in the project case; and 
+v) 
+Non-forest classes existing in leakage management zones. 
+Collect existing carbon-stock data for these classes from local published studies and existing 
+forest and carbon inventories. Take additional field measurements for classes for which there is 
+insufficient information. Follow the guidance below. 
+1) Assess the existing data collected and, where appropriate, use them. It is likely that 
+some existing data may be used to quantify the carbon stocks of one or more classes. 
+These data may be derived from a forest inventory or scientific studies. Analyze these 
+data and use them where the following criteria are fulfilled: 
+a) The data have been measured less than 10 years ago; 
+b) The data are derived from multiple measurement plots; 
+c) All species above a minimum diameter breast height (DBH), which must be no 
+more than 30 cm, are included in the inventories; and 
+d) Data are sampled with good coverage of the classes over which they will be 
+extrapolated. 
+Existing data that meet the above criteria must only be applied across the classes from 
+which they were representatively sampled. See the latest version of the GOFC-GOLD 
+sourcebook on REDD and Gillespie et al. (1992) for methods to analyze these data. 
+2) Collect missing data. For classes for which no existing data are available, data must be 
+obtained from field measurement or use conservative estimates from the literature. 
+ 
+31 In most cases the forest classes existing within the project area at the project start date will remain the same in the 
+baseline case. However, where certain areas within the project boundary are subject to baseline degradation due to 
+unsustainable logging, fuel wood collection, charcoal production and other reasons, the decrease in carbon stocks must 
+be projected. Where carbon stocks are subject to enhancement, the projection is conservatively omitted. 
+32 In most cases the forest classes in the leakage belt at the project start date will remain the same in the baseline 
+case. However, where certain areas within the leakage belt are subject to enhancement in the baseline case, carbon 
+stocks must be projected for each year. Where carbon stocks are subject to baseline degradation, projecting the 
+changes in carbon stocks is optional and may be conservatively omitted. 
+ 
+VM0015, v1.2 
+ 
+69 
+a) Field measurements: Where locations of future deforestation are known at the 
+time of field measurements, sample sites should be located where 
+deforestation is expected, in order to achieve maximum accuracy of carbon 
+stock estimates. Design the sampling framework and conduct field 
+measurements following the guidance of Appendix 3 (see also Chapter 4.3 of 
+GPG LULUCF and the sourcebook for LULUCF by Pearson et al., 2005). 
+Summarize the sampling design in the PD and provide a map and coordinates 
+of all sampled locations. 
+b) Literature estimates: Carbon stock estimates in similar ecosystems derived 
+from local studies, literature and IPCC default values may be used33 where the 
+accuracy and conservativeness of the estimates are demonstrated. Where 
+default values are used, the lowest limit of the range or the single value 
+(reduced by 30 percent) given in the literature source for the forest classes and 
+the upper value (or the value increased by 30 percent) given for non-forest 
+classes must be used. 
+3) Calculate the carbon stocks in each forest class present in the project area prior to the 
+year of baseline deforestation. Carbon stocks and boundaries of the forest classes are 
+assumed to remain the same for all years preceding the year when baseline 
+deforestation is projected to occur (t < t*), except in the following cases: 
+a) Where in the baseline case the forest within certain polygons of the project 
+area is degrading and losing carbon stocks, a map sequence showing the 
+spatial and temporal sequence of forest classes with successively smaller 
+carbon stocks must be prepared to account for the degradation occurring prior 
+to deforestation. Where the boundary of the degrading forest classes is fixed 
+(i.e., does not change over time), it is sufficient to show the estimated changes 
+in carbon stocks in Table 23 and Table 25 below. To do the projection, use 
+credible and verifiable sources of data from existing studies, or measure field 
+plots in degraded forests of different known age. 
+b) Where in the baseline case carbon stocks in the forest within certain polygons 
+of the project area are increasing, such changes in carbon stocks are 
+conservatively omitted. 
+c) Where carbon stocks in the project area are decreasing more in the project 
+than in the baseline case (e.g., when the project activity involves logging for 
+timber, fuel-wood collection or charcoal production in areas not subject to such 
+activities in the baseline case), this must be accounted in the project case. 
+d) Where logging activities are present in the baseline, the harvested wood 
+product carbon pool must be estimated and, if significantly higher in the 
+baseline than in the project scenario, it must be accounted.  
+ 
+33 Attention must be paid to data units. In this methodology, calculations are in t CO2e while IPCC tables often provide 
+data in t C (1 t C = 44/12 t CO2e). 
+ 
+VM0015, v1.2 
+ 
+70 
+e) Carbon stocks in the harvested wood products carbon pool must be estimated 
+as the sum of planned and unplanned harvesting activities in the baseline case 
+and the additional volume harvested prior to the deforestation event in year t* 
+(where applicable). 
+Report the results of estimations in Table 23 (estimated values) and Table 25 (values 
+used in calculations after considering uncertainty discounts according to (6) below). 
+4) Calculate the carbon stocks in each forest class present in the leakage belt prior to the 
+year of baseline deforestation (t = t*). Carbon stocks and boundaries of the forest 
+classes are assumed to remain the same for all years preceding the year in which the 
+baseline deforestation is projected to occur (t < t*), except in the following cases: 
+a) Where in the baseline case the forest within certain polygons of the leakage 
+belt is degrading and losing carbon stocks, changes in carbon stocks may be 
+conservatively omitted and preparing a map sequence is optional for these 
+polygons.  
+Report the results of the estimations in Table 23 (estimated values) and Table 25 
+(values used in calculations after considering uncertainty discounts according to (6) 
+below). 
+ 
+VM0015, v1.2 
+ 
+ 
+Table 23: Carbon Stocks Per Hectare of Initial Forest Classes icl Existing in the Project Area and Leakage Belt – Estimated 
+Values 
+In this table, forest classes not undergoing degradation in the baseline have a constant carbon stock value each year. 
+Project year t 
+Initial forest class icl 
+ 
+Name 
+ 
+IDicl 
+ 
+Average carbon stock per hectare 90% CI 
+Cabicl 
+Cbbicl 
+Cdwicl 
+Clicl 
+CSOCicl 
+Cwpicl 
+Total carbon stocks in wood products harvested at 
+year t* (year in which deforestation occurs) 
+Ctoticl 
+Short lived  
+(0–3 years) 
+Medium lived 
+(3–100 years) 
+Long lived 
+(>100 years) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
+  
+  
+ 
+ 
+ 
+For space reasons, only the sum of CWPicl is shown in the table above. This is the sum of two components, as shown in Table 24 below. 
+ 
+VM0015, v1.2 
+ 
+72 
+Table 24: Cwpicl Components Summed In Table 23 
+Project year t 
+Average carbon stock per hectare 90% CI 
+Cwpicl 
+C stock in wood products of planned and 
+unplanned baseline activities (degradation) 
+Cwpicl (2) 
+C stock in wood products extracted in addition to 
+those extracted in planned/unplanned 
+degradation activities in case of deforestation 
+(t = t*) 
+Cwpicl (3) 
+Total carbon stocks in wood products supposed 
+to be harvested at year t* (year in which 
+deforestation occurs) 
+Short lived  
+(0–3 years) 
+Medium lived 
+(3–100 years) 
+Long lived 
+(>100 years) 
+Short lived  
+(0-3 years) 
+Medium lived 
+(3-100 years) 
+Long lived 
+(>100 years) 
+Short lived  
+(0-3 years) 
+Medium lived 
+(3-100 years) 
+Long lived 
+(>100 years) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+73 
+Table 25: Carbon Stocks Per Hectare of Initial Forest Classes icl Existing in the Project Area and Leakage Belt – Values After 
+Discounting for Uncertainty 
+Project year t 
+Initial forest class icl 
+ 
+Name 
+ 
+IDicl 
+ 
+Average carbon stock per hectare 90% CI 
+Cabicl 
+Cbbicl 
+Cdwicl 
+Clicl 
+CSOCicl 
+Cwpicl 
+Total carbon stocks in wood products in post-
+deforestation land uses are considered 
+insignificant 
+Ctoticl 
+Short lived  
+(0-3 years) 
+Medium lived 
+(3-100 years) 
+Long lived 
+(>100 years) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+C stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Notes  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The space “Notes” in Table 25 is intended to insert explanations (or references to explanations) describing how uncertainties have been 
+considered. 
+ 
+VM0015, v1.2 
+ 
+74 
+Where: 
+Cabicl 
+= 
+Average carbon stock per hectare in above-ground biomass carbon pool  
+of class icl (t CO2e/ha) 
+Cbbicl 
+= 
+Average carbon stock per hectare in below-ground biomass  
+carbon pool of class icl (t CO2e/ha) 
+Cdwicl 
+= 
+Average carbon stock per hectare in dead wood biomass carbon pool of  
+class icl (t CO2e/ha) 
+Clicl 
+= 
+Average carbon stock per hectare in litter carbon pool of class icl (t  
+CO2e/ha) 
+Csocicl 
+= 
+Average carbon stock per hectare in soil organic carbon pool of class  
+icl (t CO2e/ha) 
+Cwpicl 
+= 
+Average carbon stock per hectare accumulated in the harvested wood  
+products carbon pool between project start and the year of  
+deforestation of class icl (t CO2e/ha) 
+Ctoticl 
+ 
+= 
+Average carbon stock per hectare in all accounted carbon pools in class  
+icl (t CO2e/ha) 
+Note – in the baseline case, Cwpcl must be subtracted from the sum of the other pools in the 
+calculation of Ctotcl 
+5) Calculate the long-term (20 year) average carbon stocks of post-deforestation classes. 
+These classes often do not have stable carbon stock because different land uses may 
+be implemented in a time sequence or because the land use after deforestation 
+implies changes in carbon stocks over time (e.g., in tree plantations). The carbon stock 
+of post-deforestation classes must be estimated as the long-term (20 years) average 
+and may be determined from measurements in plots of known age, from long-term 
+studies or from other verifiable sources.  
+For each post-deforestation LU/LC class, report the calculation of the long-term (20-
+year) average carbon stock using Table 26. 
+6) Do an uncertainty assessment of all carbon stock estimates. Where the uncertainty of 
+the total average carbon stock (Ctotcl) of class cl is less than 10 percent of the average 
+value, the average carbon stock value may be used. Where the uncertainty is higher 
+than 10 percent, the lower boundary of the 90 percent confidence interval must be 
+used in calculations for initial forest classes in the project area and final non-forest 
+classes in the leakage belt, and the higher boundary of the 90 percent confidence 
+interval used for initial forest classes in the leakage belt and final non-forest classes in 
+the project area. 
+7) Calculate the area-weighted average carbon stocks of the post-deforestation LU/LC 
+classes existing within each zone using Table 27. 
+ 
+VM0015, v1.2 
+ 
+75 
+Table 26: Long-Term (20-Year) Average Carbon Stocks Per Hectare of Post-Deforestation LU/LC Classes Present in the 
+Reference Region 
+Project year t 
+Post deforestation class fcl 
+ 
+Name 
+ 
+IDfcl 
+ 
+Average carbon stock per hectare 90% CI 
+Cabfcl 
+Cbbfcl 
+Cdwfcl 
+Clfcl 
+CSOCfcl 
+Cwpfcl34 
+Ctotfcl 
+Short lived  
+(0-3 years) 
+Medium lived 
+(3-100 years) 
+Long lived 
+(>100 years) 
+ 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+Average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+average 
+stock 
+(t CO2e/ 
+ha) 
+90% CI 
+(t CO2e/ 
+ha) 
+t* 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t* + 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t* + 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+t* + 19 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Average 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Average to be 
+used in 
+calculations 
+(after uncertainty 
+discount) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+34 This is the total carbon stock in wood products that are expected to be harvested at year t* (year in which deforestation occurs). 
+ 
+VM0015, v1.2 
+ 
+76 
+Table 27: Long-Term (20-Year) Area-Weighted Average Carbon Stock Per Zone35 
+Zone 
+Post -deforestation LU/LC classes fcl 
+Average weighted long-term (20-year) 
+average carbon stocks per zone z 
+Name 
+ 
+Na
+me 
+ 
+IDfcl 
+1 
+IDfcl Fcl 
+IDz 
+Na
+me 
+C stock (t CO2e/ha) 
+C stock (t CO2e/ha) 
+C stock (t CO2e/ha) 
+ 
+ 
+Ca
+bfcl 
+Cb
+bfcl 
+Cdwfcl 
+Cl
+fcl 
+CSO
+Cfcl 
+Cw
+pfcl 
+Ca
+bfcl 
+Cbbfcl 
+Cd
+wfcl 
+Cl
+fcl 
+CSO
+Cfcl 
+Cw
+pfcl 
+Ca
+bz 
+Cb
+bz 
+Cd
+wz 
+Cl
+z 
+CSO
+Cz 
+C
+wp
+z 
+Ct
+otz 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Z 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+35 Insert as many fcl classes as needed. Where Method 2 (modeling) is used in Section 8.1.4.2, each zone has only one post-deforestation class fcl. 
+ 
+VM0015, v1.2 
+ 
+77 
+Calculation of Emission Factors 
+This methodology uses default linear functions to account for the decay in carbon stock in 
+initial forest classes (icl) and increase in carbon stock in post-deforestation classes (fcl). This is 
+done as follows: 
+1) For above-ground biomass: 
+a) Initial forest classes (icl): immediate release of 100 percent of the carbon stock 
+(as estimated in Table 25) is assumed to happen during year t = t* (year when 
+deforestation occurs). 
+b) Post-deforestation classes (fcl) (or their area-weighted average per zone z): 
+linear increase from 0 t CO2e/ha in year t = t* to 100 percent of the long-term 
+(20-year) average carbon stock (as estimated in Table 27) in year t = t*+ 9 is 
+assumed to happen in the 10-year period following deforestation (i.e., 1/10th 
+of the final carbon stock is accumulated each year). 
+2) For below-ground biomass: 
+a) Initial forest classes (icl): an annual release of 1/10th of the initial carbon 
+stock (as estimated in Table 25) is assumed to happen each year between 
+t = t* and t = t*+ 9.  
+b) Post-deforestation classes (fcl) (or their area-weighted average per zone z): 
+linear increase from 0 t CO2e/ha in year t = t* to 100 percent of the long-term 
+(20-year) average carbon stock (as estimated in Table 27) in year t = t*+ 9 is 
+assumed to happen in the 10-year period following deforestation (i.e., 1/10th 
+of the final carbon stock is accumulated each year). 
+3) For litter: 
+a) Initial forest classes (icl): immediate release of 100 percent of the carbon stock 
+(as estimated in Table 25) is assumed to happen at the end of year t = t*. 
+b) Post-deforestation classes (fcl) (or their area-weighted average per zone z): a 
+linear increase from 0 t CO2e/ha in year t = t* to 100 percent of the long-term 
+(20-year) average carbon stock (as estimated in Table 27) in year t = t*+ 9 is 
+assumed to happen in the 10-year period following deforestation (i.e., 1/10th 
+of the final carbon stock is accumulated each year). 
+4) For dead wood: 
+a) Initial forest classes (icl): an annual release of 1/10th of the initial carbon 
+stock (as estimated in Table 25) is assumed to happen each year between 
+t = t* and t = t*+ 9.  
+b) Post-deforestation classes (fcl) (or their area-weighted average per zone z): a 
+linear increase from 0 t CO2e/ha in year t = t* to 100 percent of the long-term 
+(20-year) average carbon stock (as estimated in Table 27) in year t = t*+ 9 is 
+assumed to happen in the 10-year period following deforestation (i.e., 1/10th 
+of the final carbon stock is accumulated each year). 
+5) For wood products: 
+a) Initial forest classes (icl), three fractions are considered: 
+ 
+VM0015, v1.2 
+ 
+78 
+i) 
+Fraction decaying in less than three years: This short-lived fraction is 
+assumed to be completely released during year t* (i.e., 100 percent of 
+the stock estimated in Table 25). 
+ii) 
+Fraction decaying between 3 and 100 years: This medium-lived fraction 
+is assumed to decay linearly in 20 years (i.e., 1/20th of the stock 
+estimated in Table 25 each year). 
+iii) 
+Fraction decaying in more than 100 years: This long-lived fraction is 
+assumed to never decay (i.e., it is never released into the atmosphere). 
+b) Post-deforestation classes (fcl) (or their area-weighted average per zone z): it is 
+assumed that carbon stocks in wood products are always insignificant (i.e., 
+carbon stock in all wood products is zero).  
+6) For soil organic carbon: 
+a) It is assumed that in a 20-year period, the carbon stock changes from that 
+estimated for initial forest classes (icl) (in Table 25) to that estimated for post-
+deforestation classes fcl (or their area-weighted average per zone z). The 
+change occurs linearly and may be either a decrease or an increase. 
+7) Where carbon stocks in the soil organic carbon pool are included in the baseline, 
+activity data must be calculated per category (ct) because the linear decay (or increase) 
+function is category-dependent. If Method 2 (modeling) was used in Section 8.1.4.2, 
+Table 20, Table 21 and Table 22 provide the information on activity data per category 
+ct. If Method 1 was used, categories must be defined from initial forest classes icl to 
+zones z. Use Table 28 and Table 29 to describe these categories and combine the Map 
+of Zones of Post-Deforestation Land Uses with the map of initial forest classes and the 
+annual maps of projected deforestation to calculate activity data of these categories 
+(ctz). Report the results in Table 30, Table 31 and Table 32. Do this at least for the 
+baseline validity period and the project area and leakage belt and, optionally, for the 
+entire project crediting period and for the reference region. 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+79 
+Table 28: Potential Land Use and Land Cover Change Matrix 
+Initial LU/LC Class icl 
+IDcl 
+1 
+2 
+… 
+… 
+… 
+Fcl 
+  
+IDz 
+Name 
+B1 
+B2 
+… 
+B4 
+B5 
+B50 
+Zone z 
+1 
+Zone 1 
+i1/z1 
+i2/z1 
+i…/z1 
+i4/z1 
+i5/z1 
+iFcl/z1 
+2 
+Zone 2 
+i1/z2 
+i2/z2 
+i…/z2 
+i4/z2 
+i5/z2 
+iFcl/z2 
+… 
+Zone .. 
+i1/z… 
+i2/z… 
+i…/z… 
+i4/z… 
+i5/z… 
+iFcl/z… 
+… 
+Zone … 
+i1/z4 
+i2/z4 
+i…/z4 
+i4/z4 
+i5/z4 
+iFcl/z4 
+… 
+Zone … 
+i1/z5 
+i2/z5 
+i…/z5 
+i4/z5 
+i5/z5 
+iFcl/z5 
+Z 
+Zone Z 
+i1/zZ 
+i2/zZ 
+i…/zZ 
+i4/zZ 
+i5/zZ 
+iFcl/zZ 
+ 
+Table 29: List of Land Use and Land Cover Change Categories (ctz) 
+LU/LC Change Category 
+Initial Forest Class 
+Post-Deforestation Zone 
+IDctz 
+Name 
+IDicl 
+Name 
+IDicl 
+Name 
+1 
+ZoneCat1 
+1 
+B1 
+1 
+Zone 1 
+2 
+ZoneCat2 
+1 
+B1 
+2 
+Zone 2 
+… 
+ZoneCat3 
+1 
+B1 
+… 
+Zone 3 
+ctz 
+ZoneCat4 
+1 
+B1 
+4 
+Zone 4 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+80 
+Table 30: Annual Areas Deforested in Each Category ctz Within the Reference Region in 
+the Baseline Case (Baseline Activity Data Per Category ctz)36 
+  
+Activity Data Per LU/LC Category ctz Within the 
+Reference Region 
+Total Baseline 
+Deforestation in the 
+Reference Region 
+IDct > 
+1 
+2 
+3 
+… 
+ctz 
+ABSLRRt 
+ABSLRR 
+Name > 
+ZoneCat1 
+ZoneCat2 
+ZoneCat3 
+ZoneCat4 
+ZoneCat5 
+Annual 
+Cumulative 
+Project year 
+t 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+0 
+  
+  
+  
+  
+  
+ 
+ 
+1

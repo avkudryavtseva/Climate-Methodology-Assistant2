@@ -1,0 +1,22 @@
+2 SOURCES 
+This methodology is based on the following methodologies: 
+• 
+Climate Action Reserve (CAR) methodology US Ozone Depleting Substances Project 
+Protocol 
+• 
+Climate Action Reserve (CAR) methodology Article 5 Ozone Depleting Substances 
+Project 
+• 
+RAL Deutsches Institut für Gütesicherung Quality Assurance and Test Specifications for 
+the Demanufacture of Refrigeration Equipment 
+This methodology uses the most recent versions of the following VCS modules and tools: 
+• 
+VT0008 Additionality Assessment 
+• 
+VT0011 Electricity System Emission Factors 
+• 
+VMD0048 Activity Method for the Determination of Additionality for Recovered and 
+Stockpiled ODS Refrigerants 
+ 
+VM0016, v2.0 
+6

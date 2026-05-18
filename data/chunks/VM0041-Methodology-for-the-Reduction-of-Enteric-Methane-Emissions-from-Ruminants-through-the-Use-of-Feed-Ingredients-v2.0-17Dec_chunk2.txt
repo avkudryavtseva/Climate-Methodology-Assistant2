@@ -1,0 +1,26 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Activity Method 
+Crediting Baseline 
+Project Method 
+This methodology provides procedures to estimate enteric methane (CH4) emission reductions 
+generated from the suppression or inhibition of methanogenesis, achieved by the introduction 
+of a feed ingredient into ruminant diets. This methodology considers emission reductions only 
+from enteric fermentation. 
+Feed ingredients applicable under this methodology reduce CH4 emissions by directly acting on 
+the population of methanogenic archaea in the rumen, or by suppressing CH4 production 
+through modification of the rumen environment, thus limiting methanogenesis. 
+Depending on the location in which a project is implemented and the availability of data, this 
+methodology provides three approaches to the quantification of baseline emissions and two 
+approaches to the quantification of project emissions. Specifically, the quantification of 
+baseline emissions may be performed using data from either on-site direct measurements, or 
+by applying one of two different Intergovernmental Panel on Climate Change (IPCC)-
+recommended methods to model emissions using country-specific or peer-reviewed biometric 
+ 
+VM0041, Version 2.0 
+5 
+data. The quantification of project emissions may be performed using data from either on-site 
+direct measurements, or by applying a published emission reduction factor derived by meta-
+analysis.

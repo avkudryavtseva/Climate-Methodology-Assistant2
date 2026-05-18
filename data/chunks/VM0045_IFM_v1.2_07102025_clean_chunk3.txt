@@ -1,0 +1,35 @@
+3 DEFINITIONS 
+Composite baseline 
+A group of constituent baseline plots representing the baseline scenario, located outside of the 
+project area. A composite baseline is paired to each sample unit used to monitor the project 
+scenario and is updated over time to establish a dynamic performance benchmark for 
+additionality and crediting baselines. Each composite baseline is derived as the optimally 
+weighted k-nearest neighbor combination of plots that matches the initial conditions of its 
+paired project sample unit.  
+Constituent baseline plot 
+An individual sample plot representing the baseline scenario, located outside of the project 
+area, that constitutes a component of one or more composite baselines 
+Donor pool 
+A population of potential sample plots located outside of the project area, from which 
+constituent baseline plots are sourced. The donor pool is a representatively sampled, 
+continuously measured national or sub-national forest inventory.  
+Project sample unit 
+A permanent forest inventory plot (either fixed area or variable radius plot) used as the primary 
+sample unit selected for measuring and monitoring carbon stock change and emissions in the 
+project scenario. “Plot” and “sample unit” are used interchangeably within this methodology. A 
+sample unit may constitute a collection of plots (e.g., a cluster), provided that the collection of 
+plots is sampled from within a single stand. Sample units are paired with a composite baseline. 
+Stand1 
+A contiguous, defined area composed of trees sufficiently uniform in age-class distribution, 
+composition, and structure and growing on a site of sufficiently uniform quality to be a 
+distinguishable unit. Relevant in accounting as the primary building block (i.e., a minimum 
+mapping unit of variable size) for quantifying project area and identifying areas subject to 
+harvest or disturbance. 
+ 
+1 Definition adapted from Helms, J. A. ed. 1998. Dictionary of Forestry. Society of American Foresters.  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+7

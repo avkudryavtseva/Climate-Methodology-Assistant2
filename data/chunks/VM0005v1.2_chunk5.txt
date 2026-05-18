@@ -1,0 +1,169 @@
+5 
+PROJECT BOUNDARY 
+5.1 
+Land eligibility and Geographic boundaries 
+No land use change is occurring in the project area: it is forest land remaining forest land. Where the 
+activity takes place in a country that has adopted a forest definition under the Kyoto Protocol, those 
+thresholds must be adhered to. Otherwise, the definition used in the national GHG Inventory must be 
+used. 
+Only areas that have been designated, sanctioned or approved for such activities (eg, as logging 
+concessions or plantations) by the national or local regulatory bodies are eligible for crediting under the 
+VCS Improved Forest Management (IFM) category. This will be determined according to the legally 
+sanctioned logging laws, regulations and codes of practice of the relevant national or sub-national 
+regulatory authority. These laws may be defined in absolute terms (hectares) or via prescription 
+(relative per cent). Areas within the project area, where logging has been prohibited due to 
+environmental, cultural or other reasons, must be determined through maps and spatial analysis and be 
+excluded from the estimations of emission reductions or removals. 
+The boundary of the IFM activity must be clearly delineated and defined and include only land 
+qualifying as “forest”.  
+Project proponents must clearly define the spatial boundaries of a project so as to facilitate accurate 
+measuring, monitoring, accounting, and verifying of the project’s emissions reductions and removals. 
+The IFM project activity may contain more than one discrete area of land. Each discrete area of land 
+must have a unique geographical identification. 
+When describing physical project boundaries (for both the project areas and, if any, the reference area), 
+the following information must be provided per discrete area: 
+• 
+Name of the project area (including compartment numbers, local name (if any) 
+• 
+Unique identifier for each discrete parcel of land 
+• 
+Map(s) of the area in digital format) 
+• 
+Geographic coordinates obtained from a GPS or from a geo-referenced digital map) 
+• 
+Total land area 
+• 
+Details of forest land rights holder and user rights 
+Following the VCS definition of market leakage, the geographic boundaries for leakage from market 
+effects are those of the country in which the project area occurs. 
+In this methodology, the project area (the geographic area in which the project activity is implemented) 
+may exceed the area eligible for carbon accounting, ie, the forest area protected against relogging, 
+rehabilited, or both. This may exclude areas that do not contain merchantable timber and/or that are 
+inaccessible for legislative, technical or economic reasons. A justification for the in- or exclusion of 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 8 
+ 
+areas within the project area must be provided in the project description of the actual project applying 
+this methodology. 
+A reference area is an area that is representative of the project area in the baseline scenario and thus 
+meets the criteria set out by the applicability conditions (minimum size) and those elaborated below 
+(similarity to project area), where the volume of biomass that would have been removed from the 
+project area over the lifetime of the project can be assessed. 
+5.2 
+Temporal boundaries 
+The temporal boundary for projects applying this methodology is equal to the project crediting period.  
+Project proponents must determine the project crediting period, the project crediting period start date 
+and the project start date and provide verifiable evidence when the 1st monitoring period started and 
+when the project begins to reduce or avoid GHG emissions. 
+5.3 
+Carbon pools 
+The carbon pools that must be included and that may be excluded from the project boundary are shown 
+in Table 1. 
+Carbon pools and emissions sources may be neglected, ie, accounted as zero, if the application of the 
+most recent version of the “Tool for testing significance of GHG emissions in A/R CDM project 
+activities”5 leads to the conclusion that the pool or emission source (see Table 2) is insignificant.  
+Table 1: Selection and justification of carbon pools 
+Carbon pools 
+Selected  
+Justification/Explanation of choice 
+Above-ground tree 
+biomass 
+Yes 
+Major carbon pool assumed to significantly decrease in 
+the baseline, or increase in the project, or both. 
+Above-ground non-tree 
+biomass 
+No 
+Pool need not to be measured because it is not subject to 
+significant changes or potential changes are transient in 
+nature.  
+Below-ground biomass 
+Optional 
+Major carbon pool assumed to significantly decrease in 
+the baseline, or increase in the project, or both. Not 
+accounting for below-ground biomass is conservative. 
+Dead wood 
+Yes 
+Carbon pool likely to decrease as a result of the project 
+                                                     
+5 Available at: http://cdm.unfccc.int/methodologies/ARmethodologies/tools/ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 9 
+ 
+activity. Accounting for dead wood as zero in the with-
+project scenario is conservative. Accounting for dead 
+wood occurring prior to re-logging as zero is 
+conservative. 
+Litter 
+No 
+Conservative approach - unlikely to decrease as a result 
+of the project activity, or increase in the baseline 
+Soil organic carbon 
+No 
+Conservative approach - unlikely to decrease as a result 
+of the project activity, or increase in the baseline 
+Wood products 
+Yes  
+Carbon pool likely to decrease as a result of the project 
+activity. Accounting for wood products as zero in the with-
+project scenario is conservative. 
+ 
+5.4 
+Greenhouse gases 
+The emissions sources included in or excluded from the project boundary are shown in Table 2. In 
+addition, insignificance of sources can be determined by the tool referred to above.  
+Table 2: Gases considered from emissions by sources other than resulting from changes in 
+stocks in carbon pools 
+Gas 
+Sources 
+Selected 
+Justification/explanation of choice 
+Carbon 
+dioxide 
+(CO2) 
+Combustion of fossil fuel in 
+vehicles / machinery 
+Yes or No 
+Included subject to materiality if 
+relogging is the baseline activity 
+Removal of herbaceous 
+vegetation 
+ 
+No 
+Excluded based on VCS guidance 
+Methane 
+(CH4) 
+Combustion of fossil fuel in 
+vehicles / machinery 
+Yes or No 
+Included as CO2 equivalent emission if 
+relogging is the baseline activity 
+Burning of biomass 
+No 
+Not included – no burning allowed; not 
+accounting for methane emissions in the 
+baseline scenario is conservative 
+Nitrous 
+oxide (N2O) 
+Combustion of fossil fuel in 
+vehicles / machinery 
+Yes or No 
+Included as CO2 equivalent emission if 
+relogging is the baseline activity 
+Nitrogen based fertilizer 
+No 
+Not included – no use of fertilizer allowed 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 10 
+ 
+Burning of biomass 
+No 
+Not included – no burning allowed; not 
+accounting for N2O emissions in the 
+baseline scenario is conservative

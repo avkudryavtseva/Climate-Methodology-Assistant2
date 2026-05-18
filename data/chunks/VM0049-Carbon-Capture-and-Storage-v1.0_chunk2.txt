@@ -1,0 +1,58 @@
+1 SOURCES 
+This methodology uses the most recent versions of the following VCS Program modules and 
+tools1: 
+Capture Modules 
+• 
+VMD0056 Removals from CO2 Capture from Air (Direct Air Capture) 
+• 
+VMD00XX Emission Reductions or Removals from CO2 Capture from Bioenergy 
+Combustion 
+• 
+VMD00XX Emission Reductions or Removals from CO2 Capture from Bioproduction 
+Processes 
+• 
+VMD00XX Emission Reductions from CO2 Capture from Post-combustion Flue Gases in 
+Fossil Fuel Power and Heat Generation 
+• 
+VMD00XX Emission Reductions from CO2 Capture from Industrial Processes 
+• 
+VMD00XX Emission Reductions from CO2 Capture from Oil and Gas Production and 
+Processing 
+• 
+VMD00XX Emission Reductions from CO2 Capture from Precombustion Processes in 
+Fossil Fuel Power and Heat Generation 
+• 
+VMD00XX Emission Reductions from CO2 Capture from Oxyfuel Combustion in Fossil 
+Fuel Power and Heat Generation 
+Transport Module 
+• 
+VMD0057 Project Emissions from CO2 Transport for CCS Projects 
+Storage Module 
+• 
+VMD0058 Project Emissions from CO2 Storage in Saline Aquifers and Depleted 
+Hydrocarbon Reservoirs  
+• 
+VMD00XX Project Emissions from CO2 Storage via Geological Mineralization 
+Other Modules/Tools/Requirements 
+• 
+VT00XX Differentiating Reductions and Removals in CCS Projects  
+• 
+VT00XX Accounting non-VCS CO2 in CCS Projects 
+• 
+Geologic Carbon Storage (GCS) Non-Permanence Risk Tool 
+• 
+GCS Requirements 
+ 
+1 Modules labelled as “VMD00XX” and Tools labelled as “VT00XX” are under development  
+ 
+VM0049, v1.0 
+ 
+5 
+This methodology uses the most recent versions of the following Clean Development 
+Mechanism (CDM) tools: 
+• 
+CDM TOOL01 Tool for Demonstration and Assessment of Additionality 
+• 
+CDM TOOL06 Methodological Tool: Project Emissions from Flaring 
+• 
+CDM TOOL27 Investment Analysis

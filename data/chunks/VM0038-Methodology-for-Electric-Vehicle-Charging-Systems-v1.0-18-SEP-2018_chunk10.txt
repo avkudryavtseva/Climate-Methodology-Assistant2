@@ -1,0 +1,271 @@
+10  
+REFERENCES 
+US Environmental Protection Agency (2017). eGRID2014v2 Summary Table.  
+US Department of Energy (2018). Model Year 2016 Fuel Economy Guide.  
+Idaho National Laboratory. The EV Project. Retrieved from https://avt.inl.gov/project-type/ev-
+project 
+Zhou, Y. Light Duty Electric Drive Vehicles Monthly Sales Updates. Retrieved from Argonne 
+National Laboratory: https://www.anl.gov/energy-systems/project/light-duty-electric-drive-vehicles-
+monthly-sales-updates 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+53
+APPENDIX 1: CALCULATION OF BASELINE DEFAULT VALUES FOR THE US AND 
+CANADA 
+This appendix outlines the basis for the calculation of the optional default values used in the baseline 
+emission calculations for U.S. LDV and HDV projects, and Canadian HDV projects. Values used to 
+calculate the default value results were presented to the VVB via a separate Excel workbook during the 
+approval process of the methodology. 
+Projects must apply the default value using units for EF (CO2 or CO2e) consistent with their project 
+boundary choices, consistent across all project activity sources. 
+ 
+LDV Weighted Averages in the United States 
+Weighted averages for LDVs are based upon: 
+ 
+The total number of each BEV and PHEV model on the road by end of 2015, based upon 
+cumulative US sales data for 2010-2015 sourced from Argonne National Laboratories’ monthly 
+emails and web site42 
+ 
+Kwh/100 mile and MPG ratings sourced from www.fueleconomy.gov or the 2016 Fuel Economy 
+Guide, https://www.fueleconomy.gov/feg/pdfs/guides/FEG2016.pdf 
+ 
+Gasoline was the fuel which the comparable fossil fuel cars consumed 
+The simple weighted average has been calculated for each applicable fleet (BEV+PHEV and BEV) based 
+upon the number of EV models of each type on the road by end of 2015 multiplied by its corresponding 
+kwh/100 mile value (AFEC) and equivalent fossil fuel vehicle’s MPG value (MPG), which are listed in the 
+table below.  
+Table A1: LDV Project Default Value Table 
+Applicable fleet 
+AFECiy  
+MPGjy 
+EFjy 
+L1/L2 (BEV and PHEV average) 
+33.32 
+29.18 
+19.56 lbs CO2/gal = 0.0088 tCO2/gal  
+or 0.0088 tCO2e/gal 
+DCFC (BEV average) 
+31.88 
+29.10 
+19.56 lbs CO2/gal = 0.0088 tCO2e/gal 
+or 0.0088 tCO2e/gal 
+ 
+HDV Weighted Averages in the United States 
+Each of these e-bus and e-truck weighted averages are based upon: 
+ 
+The total number of each e-bus and e-truck models on the road in the US by beginning of 2017, 
+based upon on data sourced from IHS Markit  
+                                                 
+42 Argonne National Lab’s (ANL) monthly emails uses data sourced from the hybridcars.com web site: 
+http://www.hybridcars.com/december-2016-dashboard/  The main ANL web link is found here including the email 
+address for the database manager: https://www.anl.gov/energy-systems/project/light-duty-electric-drive-vehicles-
+monthly-sales-updates 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+54
+ 
+The corresponding GWV classification for each model of e-bus and e-truck on the road, based 
+upon data sourced from IHS Markit 
+ 
+Kwh/mile data sourced for e-buses from commercial sources (confidential) and for e-trucks from 
+Smith Electric and NREL reports for e-delivery truck vehicles as follows: 
+o 
+http://insideevs.com/smith-electric-vehicles-distance-energy-consumption/   
+o 
+http://www.nrel.gov/docs/fy17osti/66382.pdf  
+ 
+Average MPG ratings for the corresponding class of MDV/HDV, as sourced from independent 
+academic sources, specifically: https://www.nap.edu/read/12845/chapter/4#18 
+ 
+Diesel fuel was the dominant baseline bus and truck fuel 
+The simple weighted average is calculated for each applicable fleet (e-bus and e-truck) based upon the 
+number of EV models of each type on the road by beginning of 2017 multiplied by its corresponding 
+kwh/100 mile value (AFEC) and equivalent GWV class of fossil fuel vehicle’s average MPG value (MPG), 
+which are listed in the table below. 
+Table A2: HDV Project Default Value Table 
+Applicable fleet 
+AFECiy  
+MPGjy 
+EFjy 
+e-buses 
+300 
+4.34 
+22.4 lbs CO2/gal = 0.0102 tCO2/gal 
+or 0.0102 tCO2e/gal 
+e-trucks 
+140 
+8.60 
+22.4 lbs CO2/gal = 0.0102 tCO2e/gal 
+or 0.0102 tCO2e/gal 
+LDV Weighted Averages in Canada 
+These weighted averages are based upon: 
+ 
+The total number of each BEV and PHEV model on the road by end of 2016, based upon 
+cumulative Canada data; kwh/100 mile and MPG ratings, all sourced from Natural Resources 
+Canada 
+ 
+Gasoline was the fuel which the comparable fossil fuel cars consumed 
+The simple weighted average has been calculated for each applicable fleet (BEV+PHEV and BEV) based 
+upon the number of EV models of each type on the road by beginning of 2017 multiplied by its 
+corresponding kwh/100 mile value (AFEC) and equivalent fossil fuel vehicle’s MPG value (MPG), which 
+are listed in the table below. 
+Table A3: LDV Project Default Value Table for Canada 
+Applicable fleet 
+AFECiy  
+MPGjy 
+EFjy 
+L1/L2 (BEV and PHEV average) 
+35.44  
+29.65 
+19.56 lbs CO2/gal = 0.0088 tCO2/gal 
+or 0.0088 tCO2e/gal 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+55
+DCFC (BEV average) 
+33.00 
+27.71 
+19.56 lbs CO2/ga = 0.0088 tCO2/gall 
+or 0.0088 tCO2e/gal 
+ 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+56
+APPENDIX 2: GUIDANCE FOR DESIGN OF ADEQUATE METERING SYSTEMS FOR AI PROJECTS 
+This appendix outlines guidance for the design and application of metering systems of charging systems 
+to adequately measure electricity exchanges when associated infrastructure (AI) is incorporated into 
+projects when they apply to the determination of project emissions, as shown in Figure A1.  If associated 
+infrastructure is incorporated into the project boundary, PE equations 7, 8, or 9 are applicable. 
+Figure A1: Examples of Associated Infrastructure and Electricity Flows 
+ 
+When incorporating associated infrastructure, the charging system’s metering system must adequately 
+and accurately measure and trace the net electricity kwh provided to the charging system (i.e., deliveries 
+minus receipts) from all electricity sourced from and returned to the grid, and the dedicated renewables. 
+This may include dedicated renewable energy (e.g., on site) delivered to the EV directly and/or via on-site 
+batteries, and net of kwh returned back to such sources from the EV batteries. 
+ 
+Note that metering systems for associated infrastructure can include “downstream” meters close to the 
+EV, such as those provided by DCFC onboard meters (and referenced specifically in the ED parameter 
+for kwh delivered by a charger to the EV which applies to the BE calculations), and “upstream” meters, 
+located grid-side such as meters monitoring electricity (in kwh) delivered to the on-site batteries (which 
+could be designed/applied to measure the kwh which a charger consumes in the EC parameter 
+measurements which applies to the PE calculations).   
+Where the system’s meters are located further “upstream”, in order to not include any electricity lost to the 
+EV charging system, any electricity sourced from associated infrastructure sources (notably from solar 
+and the on-site battery) but delivered outside the EV charging system (e.g. delivered to the grid or the 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+57
+local building when the on-site battery is used as a back up generator source), must be sensibly taken 
+into account for quantification. This includes the following examples: 
+1) Where the metered kwh to the on-site battery is located “upstream” on the grid side (rather than 
+downstream of the on-site battery in the charger where electricity delivered to the EV is 
+measured), any electricity that the on-site battery provides back to the grid, or its building in a 
+given year must be measured and subtracted -- as LECijy -- since these kwh represent losses to 
+the overall charging system and do not result in EV miles driven. 
+2) Where the on-site battery is not connected to the grid or building (i.e., it does not serve as a 
+power back up system), then the on-site battery does not need to be accounted for as a separate 
+source, since it merely acts as a flow through for the grid and renewables sources. Any electricity 
+received from the EV would also be returned to the EV. Therefore, the on-site battery would 
+supply electricity consistent with the change in stored power between the year’s starting and end 
+points which, compared to the kwh supplied by the grid and/or dedicated renewables, would be 
+de minimis. 
+3) Any transfer of electricity from the EV to the onsite battery represent internal flows within the 
+system and can be set aside since the electricity must either be returned downstream to the EV 
+at a later date or tracked via LEC if subsequently delivered back to the grid via the on-site battery. 
+Therefore, transfers of electricity from the EV to the onsite battery can be set aside. 
+4) Projects must be able to measure or sensibly estimate the electricity supplied from the grid and/or 
+from dedicated renewable sources to the charger system and this may be a subset of the total 
+electricity from this source. For example, the electricity delivered to the charging system may be 
+less than the total electricity generated by the onsite renewables if these renewables also provide 
+power back to the grid within a particular associated infrastructure system43. Similarly, the total 
+grid electricity delivered to the system may be shared across both the EV charger if delivered 
+directly while also supplying in parallel electricity to the on-site battery – the former contributing to 
+NEC from the grid source and latter to NEC for the on-site battery. 
+Where the systems meters are located “downstream”, in order to not include any electricity lost to the EV 
+charging system, any electricity sourced from associated infrastructure sources must be sensibly taken 
+into account for quantification. This includes the following examples: 
+1) Although upstream-metering, (the measurement of kwh consumed by the chargers for parameter 
+EC), typically applies for the PE calculations, the calculation of PE values can be made using 
+downstream meters located in the chargers’ internal systems provided appropriate efficiency 
+factors are applied to take account of chargers’ own electricity consumption. Where downstream 
+measurement of PE is applied: 
+ 
+For PE calculations using downstream metering, consistent with the guidance in the 
+parameter boxes for EC, ECTOD, NEC and NECT, efficiency factors must be applied to 
+                                                 
+43 At a future date, projects may wish to consider issuing GHG credits for the subset of kwh delivered from the 
+dedicated renewables to the grid (but not to the EV charger) using methodologies such as AMS-I.F 
+https://cdm.unfccc.int/methodologies/DB/9KJWQ1G0WEG6LKHX21MLPS8BQR7242  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+58
+account for potential efficiency losses due to the chargers’ own kwh consumption. For L2s, 
+such efficiency losses are de minimis44 and so no efficiency factor is applied in the L2 EC, 
+ECTOD, NEC and NECT parameter applications (since “downstream” meters would have de 
+minimis variances with upstream meters). For DCFCs, if kwh data is sourced from 
+“downstream” meters located within their own DCFCs internal smart meter systems 
+(assuming as needed across these parameters that these smart meters are capable of 
+differentiating inter alia the net kwh delivered to the EV’s from each source s during time 
+period t), then to establish the PE equation electricity consumed by the DCFC charger a 
+DCFC default efficiency factor of 92.3% is applied to these internal smart DCFC metered kwh 
+readings (i.e., using approach A in the parameter boxes)).   
+ 
+Alternatively, DCFCs can use approach B applying “upstream” meter kwh measurements 
+which are on the grid-side of the DCFC units/AI (e.g., for each source s and time period t).   
+ 
+However, often relative to time-of-day periods t for NECT and ECTOD measurements, it is a 
+DCFC’s own “downstream” internal “smart” meters which have the most sophisticated 
+metering capabilities for such time-of-day applications (whereupon approach A would be 
+followed and the DCFC default efficiency factor applied).  
+ 
+For DCFC using approach A, the default efficiency value applied would be the “downstream” 
+smart meter’s reading divided by the efficiency factor of 0.923 in order to estimate the kwh 
+consumed by the DCFC fast charger on an “upstream kwh consumed” basis (as needed for 
+the PE equations).  
+ 
+If a project can demonstrate a more accurate efficiency factor for their particular DCFC 
+systems (for example due to improvements in DCFC technology efficiencies over time), this 
+updated accurate efficiency factor may be substituted for the 92.3% default efficiency value. 
+2) Where meters are located downstream for the measurement of NEC pertaining to the on-site 
+battery, then the electricity measured must already be net of any LEC losses from the on-site 
+battery to the grid – and thus LEC must be set at zero. This basis for such on-site battery net 
+electricity measurements would be consistent with DCFC’s measurement systems which track 
+the electricity exchanges close the point of delivery to the EV. Additionally, for downstream 
+metering, the electricity provided by the EV to the onsite battery must be measured for the 
+calculation of NEC for the on-site battery (that is, it cannot be set aside for downstream metering). 
+3) Where the EV is delivering vehicle-to-grid (V2G) services where electricity from the car’s on-
+board battery is returned directly to the grid, these EV-sourced electricity are netted out in the 
+grid-sourced net-kwh (that is, in the calculation of NEC for the grid source s).  
+4) Where charging systems include simple associated infrastructure settings, such as residences 
+using L1/L2 systems where “upstream” metering systems apply and where the associated 
+infrastructure system elements can be limited (e.g. no on-site battery).  
+Note that the quantification of emissions from project associated infrastructure systems can be 
+simplified using sensible estimates. For example, where a household residence has a solar panel 
+                                                 
+44 Per INL: https://avt.inl.gov/evse-type/ac-level-2  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+59
+that is grid-connected – which, while its total solar kwh production and grid-sales are metered, 
+does not have a separate sub-meter to establish the solar kwh supplied to the EV charging 
+system specifically -- it is acceptable to assume that the kwh delivered to the EV charger is the 
+same weighted average as the solar/grid kwh mix the household itself consumed (i.e., sources 
+whose electricity would have been separately metered). Utility-style modeling is also acceptable 
+for settings where only the net electricity consumption/generation is measured for a household in 
+order to establish the electricity delivered by both the grid and the on-site renewables and thus 
+the required weighted average.

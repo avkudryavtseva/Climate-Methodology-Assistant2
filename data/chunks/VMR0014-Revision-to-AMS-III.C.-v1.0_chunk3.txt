@@ -1,0 +1,20 @@
+2 SOURCES 
+This methodology revision applies to CDM methodology AMS-III.C.: Emission Reductions by 
+Electric and Hybrid Vehicles. Project proponents must use this methodology revision in 
+conjunction with the most recent version of AMS-III.C.  
+Project proponents using this methodology revision must make the following tool replacements 
+throughout AMS-III.C.:  
+• 
+TOOL21 Demonstration of additionality of small-scale project activities is replaced with 
+VCS tool VT0008 Additionality Assessment 
+• 
+TOOL05 Baseline, project and/or leakage emissions from electricity consumption and 
+monitoring of electricity generation (which uses TOOL07 Tool to calculate the emission 
+factor for an electricity system) is replaced with VT0011 Electricity System Emission 
+Factors 
+ 
+ 
+ 
+VMR0014, v1.0 
+ 
+5

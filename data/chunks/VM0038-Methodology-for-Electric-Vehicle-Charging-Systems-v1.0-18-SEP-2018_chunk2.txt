@@ -1,0 +1,29 @@
+2  
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+ Projects eligible to apply module VMD0049: Activity method 
+ All other projects: Project method  
+Crediting Baseline 
+Project method 
+This methodology applies to the charging of electric vehicles (EVs) through EV charging systems, 
+including their associated infrastructure, whose GHG emission reductions are achieved through 
+the displacement of emissions from conventional fossil fuel vehicles used for passenger and 
+freight transportation as a result of the electricity delivered by the project chargers. 
+This methodology provides easy-to-use monitoring parameters to quantify emission reductions, 
+and also establishes default factors for the estimation of certain parameters for projects located in 
+the United States and Canada as an alternative to project-specific calculations.  
+Finally, this methodology is applicable globally, and provides a positive list for determining 
+additionality for regions with less than five percent market penetration of electric vehicles. The 
+positive list is found in VCS module VMD0049 Activity Method for Determining Additionality of 
+Electric Vehicle Charging Systems.  
+ 
+ 
+                                                 
+1 This methodology was based on AMS.III.C.,version 15.0. See CDM website: 
+https://cdm.unfccc.int/methodologies/index.html  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+5

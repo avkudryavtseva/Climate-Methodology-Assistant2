@@ -1,0 +1,108 @@
+7 ADDITIONALITY 
+Project proponents applying this methodology must determine additionality using the 
+procedure described below: 
+Step 1: Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules 
+and requirements regarding regulatory surplus set out in the latest version of the VCS 
+Standard. 
+Step 2: Performance Benchmark 
+There are three strata of performance benchmarks for additionality based on project types 
+and one-way distances between the HMA plant and job site. 
+Stratum 1 is for patching projects with hauling distance less than 40 miles, while Stratum 2 
+is for patching projects with hauling distance greater than 40 miles. Stratum 3 is for 
+roadway projects. The performance benchmarks for all three strata are summarized in Table 
+2. Appendix 1 describes the calculation of the performance benchmark for additionality. 
+Where a project emits less than the relevant predetermined benchmark set out below, the 
+project is deemed to be additional. This is determined by comparing the project emission 
+intensity (derived from Section 8.2) to the additionality performance benchmark. 
+ 
+Table 2: Performance Benchmark for Patching Projects and Roadway Projects (2014) 
+Stratum 
+Project 
+type 
+Hauling 
+distance 
+Additionality performance 
+benchmark 
+1 
+Patching 
+≤ 40 miles 
+121.9 kgCO2e/t 
+2 
+Patching 
+> 40 miles 
+142.4 kgCO2e/t 
+3 
+Roadway 
+Undefined 
+95.1 kgCO2e/t 
+Note: 1 kgCO2e per tonne of output = 0.001 tCO2e per tonne of output 
+The additionality performance benchmark is adjusted annually based on the expected 
+changes in the use of RAP3. Based on NAPA (2017), the use of RAP in HMA is expected to 
+increase by 1.1% every year. This increase can reduce carbon emissions by 0.1kgCO2e/t 
+ 
+ 
+3 An increased use of RAP can reduce GHG emissions due to the use of more recycled materials thus reducing the 
+need for mining, processing, and transporting crushed stone and bitumen binder. 
+ VM0039, v1.1 
+ 
+16 
+ 
+(NAPA, 2012). Therefore, as shown in Table 3, the performance benchmark decreases by 
+0.1kgCO2e/t annually. 
+Table 3: Performance Benchmarks from 2014 to 2025 
+ 
+Patching Project 
+(<40mile) 
+Patching Project 
+(>40mile) 
+Roadway Project 
+2014 
+121.9 
+142.4 
+95.1 
+2015 
+121.8 
+142.3 
+95.0 
+2016 
+121.7 
+142.2 
+94.9 
+2017 
+121.6 
+142.1 
+94.8 
+2018 
+121.5 
+142.0 
+94.7 
+2019 
+121.4 
+141.9 
+94.6 
+2020 
+121.3 
+141.8 
+94.5 
+2021 
+121.2 
+141.7 
+94.4 
+2022 
+121.1 
+141.6 
+94.3 
+2023 
+121.0 
+141.5 
+94.2 
+2024 
+120.9 
+141.4 
+94.1 
+2025 
+120.8 
+141.3 
+94.0 
+Note: Unit is kgCO2e/t, where 1 kgCO2e per tonne of output = 0.001 tCO2e per tonne of output

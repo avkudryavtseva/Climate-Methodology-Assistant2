@@ -1,0 +1,5 @@
+4 APPLICABILITY CONDITIONS 
+All applicability conditions of the most recent version of ACM0001 and any tools applicable to 
+the project activity must be met, taking into account the replacements outlined in Table 1. 
+Applicability conditions of tools that are not relevant to the project activity do not need to be 
+met.

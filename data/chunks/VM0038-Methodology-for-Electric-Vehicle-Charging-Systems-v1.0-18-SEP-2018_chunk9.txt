@@ -1,0 +1,1770 @@
+9  
+MONITORING 
+Project proponents must follow the monitoring procedures provided below, noting that Sections 
+9.1., 9.2 and 9.3 below set out parameters and requirements for monitoring projects.  
+ 
+Data and Parameters Available at Validation 
+In addition to the parameters given below, estimates for project parameters EF, AFEC, MPG, EV, 
+EVR, MPGa,I,y and ED, which are found in section 9.2, will also be provided as needed at 
+validation. 
+ 
+Data / Parameter: 
+IRi 
+Data unit 
+Number 
+Description 
+Technology improvement factor for applicable fleet i in year y for 
+default value BE calculations. 
+                                                 
+21 Therefore, to determine ERFy, project proponents must assess projects that introduce EV fleets both based on 
+their location and applicable fleet category to address any potential double counting between GHG credits issued for 
+such projects which introduce fleets of EVs  and the GHG credits issued for this EV charging system project.  
+22 This is allowed as private and closed charging networks, even if publicly owned, are not subject to the risk that EV 
+fleets with issued certified GHG credits would have access to its charging network, and the EV fleets that do use the 
+network have not issued separate GHG credits of their own. Public charging system operating as open networks 
+would not normally be able to demonstrate such lack of access and therefore must determine if a discount factor 
+must be applied. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+21
+Equations 
+1 
+Source of data 
+CDM AMS-III.C which uses the same discount rate in baseline 
+calculations 
+Value applied 
+If baselines are calculated using updated BEy parameters for each 
+project year y, IRi = 1 
+If default values are used for these BEy parameter calculations, 
+For LDV applicable fleets, IRi = 1 
+For HDV applicable fleets, IRi = 0.99 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+If the baseline is calculated each year using the applicable fleet 
+and conventional fleet statistics in each project year y, then no 
+technology improvement rates need to be applied (since annual 
+accurate data is used each year) IRi,y is therefore set to be 1. 
+IRi when applied to LDV projects using default values is 1 because 
+default values for MPG factors use individual, specific MPG figures 
+for each fossil fuel vehicle comparable to each EV model in the 
+applicable fleet (see Appendix 1).  These MPG figures only 
+change substantially when a fossil fuel model is re-
+designed/updated by manufacturers which takes place on a 7-10 
+year cycle: this timeframe is longer than the Verra five year update 
+cycle for parameter updates.    
+IRi when applied to HDV projects using default values is 0.99 
+because the defaults values use market-wide, class based 
+comparable MPG factors for default calculations rather than 
+individual, specific MPG figures for the fossil fuel vehicles 
+comparable to each EV model (see Appendix 1) provided that: 
+ This 0.99 improvement rate is applied to each calendar year.  
+ This rate is taken to be 0.99 consistent with the IR default in 
+CDM-III.C.    
+ For project year 1, IR^(y-1) must be 1 (since any number to 
+power 0 is 1). 
+See justification in MPG below. 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+For LDV projects, the default equivalent MPG are taken from 
+specific comparable vehicles (rather than classes of vehicles) 
+whose MPG are only likely to change with major model upgrades 
+(and thus remain steady for many years).   
+  
+ 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+22
+ 
+Data and Parameters Available at Verification 
+Data / Parameter: 
+EFj,f,y 
+Data unit 
+tCO2 or CO2e/gallon 
+Description 
+Emission factor for the fossil fuel f used by the fossil fuel vehicles 
+deemed comparable to each EV in applicable fleet i in year y 
+Equations 
+1 
+Source of data 
+Use values from credible international or national government 
+sources such as, for the US, the EPA emissions factor23. 
+Value applied 
+For LDV projects located in the US and Canada: 
+L1/L2 (BEV and PHEV average) = 0.0088 tCO2 or 0.0088 tCO2e 
+per gallon 
+DCFC (BEV average) = 0.0088 tCO2 or 0.0088 tCO2e per gallon 
+For HDV projects located in the US: 
+e-buses = 0.0102 tCO2 or 0.0102 tCO2e per gallon 
+e-trucks = 0.0102 tCO2 or 0.0102 tCO2e per gallon 
+Projects must apply the default value using units (CO2 or CO2e) 
+consistent with their project boundary choices, consistent across 
+all project activity sources. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+International and national government transportation fuel emission 
+rates have been widely established and peer reviewed. 
+US & Canada default values calculated in Appendix 1. 
+Note that if countries provide EF fuel emission factors using 
+slightly different units such as CO2 per liter simple conversions 
+must be made during validation One common conversation from 
+CO2 per liter to CO2 per gallon is given below: 
+CO2 per gallon = CO2 per liter * 3.785 
+Based upon conversion factors of: 
+1 gall = 3.785 liters 
+ 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Calculated annually, based on the fuels consumed by the fossil 
+fuel vehicles deemed comparable to the EV models on the road 
+each year in the applicable fleet, unless default values for 
+baseline calculations for LDVs and/or HDVs are used. 
+ 
+ 
+ 
+                                                 
+23 https://www.epa.gov/sites/production/files/2015-11/documents/emission-factors_nov_2015.pdf  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+23
+Data / Parameter: 
+AFECiy 
+Data unit 
+kwh/100 miles 
+Description 
+Weighted average electricity consumption per 100 miles rating for 
+EVs in applicable fleet i in project year y 
+Equations 
+1 and 2 
+Source of data 
+Calculated in Equation 2 
+Value applied 
+For LDV projects located in the US: 
+L1/L2 (BEV and PHEV average) = 33.32  
+DCFC (BEV average) = 31.88 
+For HDV projects located in the US: 
+e-buses = 300 
+e-trucks = 140 
+For LDV projects located in Canada: 
+L1/L2 (BEV and PHEV average) = 35.44 
+DCFC (BEV average) = 33.00 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Analysis calculations can be found in Appendix 1. 
+Changes in the value of AFECiy are very gradual over time.  
+Default values for AFECiy must be updated each 5 years alongside 
+the activity method updates 
+US & Canada default values calculated in Appendix 1. 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Calculations for AFEC for open networks (where the exact EV 
+models charging are not known) must be established using such 
+data sources which must be compiled on a national basis (that is, 
+for example, the number of BEV’s of each model on the road in 
+the US for open DCFC networks). Calculations for AFEC for 
+closed networks (e.g. where the composition and operating 
+characteristics of both the applicable and comparable fleets are 
+known and documented, such as with transit agency e-bus fleets) 
+may be made using the specific composition of these fleets (that 
+is, for example, EVR must be the number of e-buses on the road 
+for that particular transit agency fleet). 
+For both open and closed networks, the individual EV model’s EV 
+ratings (kwh/100 miles) must be used as applicable to the 
+government rating agencies from which they have been sourced, 
+(e.g. nationally for US; supra-nationally for EU), including in the 
+periodic update of default values. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+24
+Note again that if EVs are rated using slightly different variables 
+such as kwh/100 km in Europe simple conversions must be made 
+during validation. One common conversation from kwh/100km to 
+kwh/100 miles is given below: 
+kwh per 100 miles = kwh per 100km *  0.6215 
+Based upon conversion factors of: 
+100 km = 62.15 miles 
+ 
+Data / Parameter: 
+MPGiy 
+Data unit 
+miles per gallon 
+Description 
+Weighted average miles per gallon rating for fossil fuel vehicles 
+deemed comparable to each EV in applicable fleet i in project year 
+y 
+Equations 
+1 and 3 
+Source of data 
+Derived in Equation 3 
+Value applied 
+For LDV projects located in the US: 
+L1/L2 (BEV and PHEV average) = 29.18  
+DCFC (BEV average) = 29.10 
+For HDV projects located in the US: 
+e-buses = 4.34 
+e-trucks = 8.60 
+For LDV projects located in Canada: 
+L1/L2 (BEV and PHEV average) = 29.65 
+DCFC (BEV average) = 27.71 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+US & Canada default values calculated in Appendix 1 
+For LDV projects, changes in the value of MPGiy are very gradual 
+over time given that a particular EV model’s comparable fossil fuel 
+vehicle rating must remain relatively steady for many years until 
+the vehicle is significantly re-engineered. Thus for LDV projects, 
+the default equivalent MPG’s are taken from specific comparable 
+vehicles (rather than classes of vehicles) whose MPG’s are only 
+likely to change with major model upgrades (and thus remain 
+static for many years).   
+For HDV projects, the class average MPG has been taken as the 
+source data (see Appendix 1) so the discount rate IRi of 0.99 must 
+still apply. 
+Default values for MPGiy must be updated each 5 years with the 
+activity method updates. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+25
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Consistent with guidance provided in AFEC above, weighted 
+average is calculated for project year y based upon the number of 
+EVs of each EV model type a in applicable fleet i on the road in 
+project year y (EVRaiy) combined with the mile per gallon ratings 
+for each of these EV model’s comparable fossil fuel vehicle 
+(MPGa,I,y). 
+Calculations for comparable fleet’s average MPG for open 
+networks (where the exact EV models charging are not known) 
+must be established using such data sources which must be 
+compiled on a national basis (that is, for example, the number of 
+BEV’s of each model on the road in the US for open DCFC 
+networks).  
+Calculations for these fleet’s MPG for closed networks (e.g. where 
+the composition and operating characteristics of both the 
+applicable and comparable fleets are known and documented, 
+such as with transit agency e-bus fleets) may be made using the 
+specific composition of these fleets (that is, for example, EVR must 
+be the number of e-buses on the road for that particular transit 
+agency fleet). 
+For HDV closed networks, if the composition and operating 
+characteristics of both the applicable and comparable fleets are 
+known and documented (e.g. for transit agency EV charging 
+infrastructure where the MPG’s for the agency’s own baseline bus 
+operations can be established as the agency’s comparable fleet of 
+fossil fuel buses) using any of the CDM AMS-III.C Approach 1, 
+Options 1 – 5, paragraphs 32 - 37. 
+For both open and closed networks, the individual fossil fuel 
+model’s MPG ratings must be used as applicable to the 
+government rating agencies from which they have been sourced 
+(e.g., nationally for US; supra-nationally for EU), including in the 
+periodic update of default values. 
+MPGiy is calculated annually unless the default values for baseline 
+calculations for LDVs and/or HDVs is used following Equation 4, 
+which employs the default value DMPGiy. 
+US & Canada default values calculated in Appendix 1. 
+If standard emission values are provided using different 
+parameters (such as CO2/km as fossil fuel vehicle emission 
+factors in Europe) conversions to given variable units will be 
+made. One common conversation from liters per 100 km to miles 
+per gallon is given below: 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+26
+MPG = 235.24 / liters per 100 km 
+Based upon conversion factors of: 
+1 gall = 3.785 liters 
+100 km = 62.15 miles 
+ 
+Data / Parameter: 
+EVaiy 
+Data unit 
+kwh/100 miles 
+Description 
+Electricity kwh consumption per 100 miles rating for EV model a 
+within applicable fleet i in project year y 
+Equations 
+2 
+Source of data 
+Use values from credible national governmental sources such as 
+the ratings for the US provided by US DoE Fuel Economy 
+program24.  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+National, governmental ratings provide independent third party 
+public source. 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+See guidance for AFEC above. 
+For both open and closed networks, the EVaiy ratings must be 
+used as applicable to the government rating agencies from which 
+they have been sourced, e.g. nationally for US; supra-nationally 
+for EU.  
+ 
+Data / Parameter: 
+EVRaiy 
+Data unit 
+Cumulative number of EVs 
+Description 
+Total number of EV model a within applicable fleet i on the road by 
+project year y 
+Equations 
+2 and 3 
+Source of data 
+Use values from credible national governmental sources such as 
+the statistics provided for the US provided by the Argonne National 
+Laboratory’s monthly email updates25  
+                                                 
+24 https://www.fueleconomy.gov/feg/evsbs.shtml  
+25 Such as the U.S. E-Drive vehicle monthly updates_February 2017 provided via email by ANL. The main ANL web 
+link is found here including the email address for the database manager: https://www.anl.gov/energy-
+systems/project/light-duty-electric-drive-vehicles-monthly-sales-updates 
+25 https://www.fueleconomy.gov/feg/pdfs/guides/FEG2016.pdf  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+27
+Closed networks may also use the number of EV’s on the road 
+using their known composition and operating characteristics of the 
+applicable fleets they serve. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Argonne National Laboratory is an independent, trusted 
+government source of EV data for the US market.  
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+This value is calculated for project year y based upon the 
+cumulative number of EVs of each EV model type a in applicable 
+fleet i on the road by project year y, consistent with AFEC 
+guidance above. 
+In the USA, statistics for the number of EVs on the road by model 
+type is available from several sources including Argonne National 
+Laboratory, in their monthly emails26, which draws upon data from 
+hybridcars.com27. 
+ 
+Data / Parameter: 
+MPGa,I,y 
+Data unit 
+miles/gallon 
+Description 
+Mile per gallon rating for fossil fuel vehicle model(s) deemed 
+comparable to EV model a from applicable fleet i in project year y 
+Equations 
+3 
+Source of data 
+See guidance for MPGiy above. 
+Use values from credible national government sources such as the 
+US rating found in the 2016 Fuel Economy Guide28  
+For both open and closed networks, the MPG a,I,y ratings must be 
+used as applicable to the government rating agencies from which 
+they have been sourced (e.g., nationally for US; supra-nationally 
+for EU.)  
+Value applied 
+N/A 
+                                                 
+26 See U.S. E-Drive vehicle monthly updates_February 2017 provided via email by ANL.   
+https://www.anl.gov/energy-systems/project/light-duty-electric-drive-vehicles-monthly-sales-updates 
+27 Argonne National Lab’s (ANL) monthly emails uses data sourced from the hybridcars.com web site: 
+http://www.hybridcars.com/december-2016-dashboard/  The main ANL web link is found here including the email 
+address for the database manager: https://www.anl.gov/energy-systems/project/light-duty-electric-drive-vehicles-
+monthly-sales-updates 
+28 https://www.fueleconomy.gov/feg/pdfs/guides/FEG2016.pdf  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+28
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+National governmental ratings such as those found in the US Fuel 
+Economy Guides for the US market are independent, trusted 
+government sources of fuel consumption ratings.  
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+If standard emission values are provided using parameters which 
+already incorporate fuel emission factors such as CO2/km ratings 
+for fossil fuel vehicle emission factors in Europe then conversions 
+to the appropriate combination of variables must be made to 
+establish equivalence to the parameters in these equations. 
+For example, in Europe, fossil fuel vehicle are rated in terms of 
+CO2 per km (given here as EFEU).  Therefore, if the EV ratings 
+are still given as kwh per 100 miles, then such a conversion would 
+be: CO2 per mile = EFj,f,y / MPGa,I,y = EFEU / 0.62. 
+ 
+Data / Parameter: 
+EDi,y 
+Data unit 
+Kwh/year 
+Description 
+Quantity of electricity delivered to EV’s by project chargers serving 
+applicable fleet i in project year y 
+Equations 
+1 
+Source of data 
+kwh delivered to EV’s for project charging network using systems’ 
+actual or estimated kwh values, as below. 
+Note that for L2 chargers, the electricity delivered, ED, will be 
+considered the same as electricity consumed by the chargers EC 
+since L2’s are highly efficient chargers with de minimis losses due 
+to their own power consumption. (i.e. ED = EC) 
+For DCFC, baseline emission calculations must use ED which 
+must be based upon the kwh delivered to the EV’s which is what 
+the chargers’ own internal smart DCFC’s meter measure.    
+(By contrast, for project emissions measurements which are based 
+on the electricity consumed by the DCFC (where efficiency losses 
+can be more material) kwh data can be sourced either A) from this 
+ED provided that a DCFC efficiency factor is applied or B) from 
+kwh data metered on the grid-side of the charging system and any 
+associated AI.  See EC, ECTOD, NEC and NECT parameter 
+boxes below for PE applications.) 
+Value applied 
+Measured value based on kwh delivered by charging systems in 
+year y 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+29
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The kwh delivered by the charging systems for each applicable 
+fleet i must be sourced using the following hierarchy, where 
+projects must apply first those listed highest on the list: 
+1) Actual kwh sourced using smart charger measurement 
+systems or (for L2’s only) on-site grid electricity meters 
+2) Estimates for a project’s dumb network charger segments 
+based upon the portions of the project which has available 
+such smart network project averages or utility-style project 
+user survey data applicable to these same segments (e.g. for 
+each applicable fleet across comparable segments (public, 
+workplace, residential etc))  
+3) Investments to upgrade chargers to provide actual “smart” 
+data results by installing technologies which effectively retrofit 
+metering29  
+4) Use of reasonable regionally applicable pilot project data (such 
+as local utility project results) for non-metered project chargers 
+that don’t have smart actual measurements when this pilot 
+data reasonably corresponds to comparable utilization rates to 
+those in the project 
+5) In the US, use of the Department of Energy/Idaho National 
+Laboratory’s (DoE/INL) EV Project data30 to apply average 
+kwh per charging event data which is provided across a) 
+different settings (public, residential, non-private residential) 
+and b) for each US state 
+For #2 and 4, validator reviews must consider whether projects are 
+applying “smart”/utility/pilot project data using an appropriate 
+project segmentation basis, so that there is a reasonably 
+comparable basis upon which chargers operate in the “dumb” and 
+“smart” segments.  This comparability provides a reasonable basis 
+upon which to apply the representative smart segment averages to 
+the corresponding dumb segments of the project.  
+ 
+Use calibrated electricity meters/smart charging system 
+measurement systems. Calibration must be conducted according 
+to the equipment manufacturer’s specifications. 
+Frequency of 
+monitoring/recording 
+Measured actual data must be monitored and recorded on at least 
+an annual basis; monitoring periods for metered data can be 
+consistent with utility reports.  Estimated consumption can be 
+                                                 
+29 For example, EMotorWerks Juicebox 
+30 https://avt.inl.gov/project-type/ev-project  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+30
+made on annual basis from sources which monitor using 
+measured/actual or metered sources per the hierarchy above. 
+QA/QC procedures to be 
+applied 
+The consistency of metered electricity consumption should be 
+cross-checked with receipts from electricity purchases where 
+applicable 
+Purpose of Data 
+Calculation of baseline emissions 
+Calculation method: 
+ 
+Comments 
+N/A 
+ 
+ 
+Data / Parameter: 
+ECi,y 
+Data unit 
+Kwh/year 
+Description 
+Quantity of electricity consumed by project chargers serving 
+applicable fleet i in project year y 
+Equations 
+4 
+Source of data 
+kwh consumption for project charging network using systems’ 
+actual or estimated kwh values, as below  
+Note that for L2 chargers, the electricity consumed EC will be 
+considered the same as electricity delivered to the EV’s by the 
+chargers, ED, since L2’s are highly efficient chargers with de 
+minimis losses due to their own power consumption. (i.e. ED = 
+EC) 
+For DCFC, EC must be based upon the kwh consumed by the 
+charging system (since efficiency losses can be more material for 
+DCFC’s).  DCFC EC data can therefore either be sourced via: A) 
+ED, the chargers’ own internal smart DCFC’s meter data, provided 
+that a DCFC efficiency factor of 92.3% is applied to the smart 
+charger metered data31 or B) meters which are on the grid-side of 
+the DCFC units/AI 
+If a project can demonstrate to validators a more accurate 
+efficiency factor for their particular DCFC systems (for example 
+due to improvements in DCFC technology efficiencies over time) 
+this updated accurate efficiency factor may be substituted for the 
+92.3% default efficiency value. 
+Value applied 
+Measured value based on kwh consumed by charging systems in 
+year y 
+For DCFC, using approach A, ECi,y = EDi,y/0.923 
+                                                 
+31 The 92.3% DCFC efficiency factor is derived from Idaho National Lab powerpoint findings as reviewed with the 
+VVB. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+31
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The kwh consumed by the charging systems for each applicable 
+fleet i must be sourced using the following hierarchy, where 
+projects must apply first those listed highest on the list: 
+1) Actual kwh consumed using smart charger measurement 
+systems or on-site electricity meters  
+2) Estimates for a project’s dumb network charger segments 
+based upon the portions of the project which has available 
+such smart network project averages or utility-style project 
+user survey data applicable to these same segments (e.g. for 
+each applicable fleet across comparable segments  (public, 
+workplace, residential etc))  
+3) Investments to upgrade chargers to provide actual “smart” data 
+results by installing technologies which effectively retrofit 
+metering32  
+4) Use of reasonable regionally applicable pilot project data (such 
+as local utility project results) for non-metered project chargers 
+that don’t have smart actual measurements when this pilot 
+data reasonably corresponds to comparable utilization rates to 
+those in the project 
+5) In the US, use of the Department of Energy/Idaho National 
+Laboratory’s (DoE/INL) EV Project data33 to apply average kwh 
+per charging event data which is provided across a) different 
+settings (public, residential, non-private residential) and b) for 
+each US state 
+For #7 and 9, validator reviews must consider whether projects are 
+applying “smart”/utility/pilot project data using an appropriate 
+project segmentation basis, so that there is a reasonably 
+comparable basis upon which chargers operate in the “dumb” and 
+“smart” segments.  This comparability provides a reasonable basis 
+upon which to apply the representative smart segment averages to 
+the corresponding dumb segments of the project.  
+Use calibrated electricity meters/smart charging system 
+measurement systems. Calibration must be conducted according 
+to the equipment manufacturer’s specifications. 
+Frequency of 
+monitoring/recording 
+Measured actual data must be monitored and recorded on at least 
+an annual basis; monitoring periods for metered data can be 
+consistent with utility reports.  Estimated consumption can be 
+made on annual basis from sources which monitoring using 
+measured/actual or metered sources. 
+                                                 
+32 For example, EMotorWerks Juicebox 
+33 https://avt.inl.gov/project-type/ev-project  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+32
+QA/QC procedures to be 
+applied 
+The consistency of metered electricity consumption should be 
+cross-checked with receipts from electricity purchases where 
+applicable 
+Purpose of Data 
+Calculation of baseline and project emissions 
+Calculation method: 
+ 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFkwi,j,y 
+ 
+Data unit 
+tCO2e/kwh 
+Description 
+Emission factor for the electricity sourced from region j consumed 
+by project chargers serving applicable fleet i in year y 
+Equations 
+4 
+Source of data 
+Use credible government data sources such as, for the US, the 
+regional eGRID emission factors published by EPA34  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The emission factor must be consistent with the region j from 
+which electricity is sourced (e.g. for the US with the utility’s eGRID 
+region35). 
+Published utility specific emission factors are allowed for the kwh 
+consumed from that source consistent with VCS practices which 
+allow well documented more local electricity sources’ GHG 
+emission factors to be applied. 
+Average emission factors (not marginal) must be used  
+Grid-sourced and dedicated renewable kwh is treated as having 
+zero tCO2e/kwh. 
+Biogenic sources used on-site to generate electricity are 
+considered dedicated renewables.  Other on-site biofuels used to 
+generate electricity must apply and justify their own emission 
+factors for the biofuel used, such as those referenced in the same 
+EPA source from which the other fuel emission default factors 
+(EF) were derived36. 
+Frequency of 
+monitoring/recording 
+Annual updates from these published sources 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+                                                 
+34 https://www.epa.gov/energy/emissions-generation-resource-integrated-database-egrid  
+35 https://www.epa.gov/sites/production/files/2017-02/documents/egrid2014_summarytables_v2.pdf  
+36 https://www.epa.gov/sites/production/files/2015-07/documents/emission-factors_2014.pdf 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+33
+Calculation method: 
+Look up value 
+Comments: 
+Region j represents any region from which electricity is sourced, 
+each of which must have a well-documented emissions factor for 
+the electricity provided.   
+For US projects, electricity emissions must be estimated using the 
+EPA regional eGRID emission rates, unless other more accurate 
+local/regional sources are available (e.g. from utilities directly 
+serving the charging network).   
+ 
+Data / Parameter 
+ECTODi,j,t,y 
+Data unit 
+Kwh/time period t 
+Description 
+Quantity of electricity consumed by project chargers sourced from 
+region j serving applicable fleet i during time of day period t in 
+project year y 
+Equations 
+5 
+Source of data 
+kwh consumption for project charging network using systems’ 
+actual values provided these are generated using time-of-day 
+metering 
+The same guidance provided for ECi,y relative to the sources of 
+data for L2 and DCFC apply here.  So L2 data can be sourced 
+from kwh measured as delivered to EV’s or consumed by the 
+chargers since efficiency losses are de minimis.  And DCFC data 
+may either be sourced via A) DCFC’s own internal smart meter 
+systems, provided that a DCFC efficiency factor of 92.3% is 
+applied; or B) meters which are on the grid-side of the DCFC 
+units/AI. 
+Thus again for DCFC, using approach A, the value applied would 
+be ECTODi,j,t,y/0.923 
+If a project can demonstrate to validators a more accurate 
+efficiency factor for their particular DCFC systems (for example 
+due to improvements in DCFC technology efficiencies over time) 
+this updated accurate efficiency factor may be substituted for the 
+92.3% default efficiency value. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The kwh supplied by the charging systems applying time of day 
+calculations in equation 6 must be sourced as follows: 
+1. Using actual time-of-day kwh measurements using smart 
+charger measurement systems or on-site electricity meters, 
+capable of recording/monitoring kwh consumption on at minimum 
+an hourly basis 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+34
+3. Investments to upgrade chargers to provide such time-of-day 
+actual data results are permitted provided they supply comparable 
+hourly reporting  
+ 
+Electricity meters’ calibration must be conducted according to the 
+equipment manufacturer’s specifications. 
+Frequency of 
+monitoring/recording 
+Data must be monitored continuously and recorded on at least an 
+hourly basis. 
+QA/QC procedures to be 
+applied 
+The consistency of metered electricity generation should be cross-
+checked with receipts from electricity purchases where applicable 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+The sum of all such time-of-day time periods, t, must equal 24 in 
+any given full day within the project (i.e. there are no time periods 
+in which electricity is provided but not accounted for within PEy). 
+This is applicable only if PE emissions are to be calculated on a 
+time-of-day basis. 
+ 
+Data / Parameter 
+EFkwTODj,j,t,y 
+Data unit 
+tCO2e/kwh 
+Description 
+Emission factor for the electricity sourced from region j consumed 
+by project chargers serving applicable fleet i during time of day 
+period t in year y 
+Equations 
+5 
+Source of data 
+Use credible governmental or regional utility data sources such 
+as, for the US, those published in the US by ISO’s which rely upon 
+utilities’ hourly fuel consumption figures (e.g. see PJM 
+publications37) 
+Time of day estimates for electricity emission factors, EFkwi,j,t,y 
+must be drawn from credible, applicable sources (e.g. the regional 
+ISO or applicable utility generation sources).   
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+If EFkwTODj,j,y has already been published by utilities in region j 
+on an hourly basis, then these figures must be used. 
+Since hourly EFkwTOD publications may not readily be available, 
+if in region j utilities or ISOs are publishing time of day emission 
+factors on a basis other than hourly, then projects may use this 
+other basis provided it is accepted by validators as reasonable (for 
+                                                 
+37 http://www.monitoringanalytics.com/data/marginal_fuel.shtml 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+35
+example PJM publishes on-peak and off-peak emission factors) in 
+order to accommodate ISO/utility gradual improvements in best 
+practices for time of day emission factor reporting38. 
+If in region j, the ISO provides fuel consumption data on an hourly 
+basis, EFkwTODj,j,y may be estimated on a weighted average 
+basis using equation 6  
+Grid-sourced and dedicated renewable kwh is treated as having 
+zero tCO2e/kwh 
+Biogenic sources used on-site to generate electricity are 
+considered dedicated renewables.  Other on-site biofuels used to 
+generate electricity must apply and justify their own emission 
+factors for the biofuel used, such as those referenced in the same 
+EPA source from which the other fuel emission default factors 
+(EF) were derived39.   
+Frequency of 
+monitoring/recording 
+Source data (for emission factor EFkwTODj,j,y) must be monitored 
+continuously and recorded on at least an hourly or prevailing best 
+practice basis.   
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+If EFkwTODj,j,y is estimated using hourly fuel consumption reports 
+(e.g. from an ISO), the weighted average calculations are given in 
+equation 6 
+Comments: 
+The sum of all such time-of-day time periods, t, must equal 24 in 
+any given full day within the project (i.e. there are no time periods 
+in which electricity is provided but not accounted for within PEy). 
+This is applicable only if PE emissions are to be calculated on a 
+time-of-day basis 
+ 
+Data / Parameter 
+EFkwFj,j,t,f, y 
+Data unit 
+tCO2e/kwh 
+Description 
+Emission factor applicable for the fuel type f used to generate the 
+kwh during time of day period t sourced from region j consumed 
+by project chargers serving applicable fleet i in year y 
+Equations 
+6 
+                                                 
+38 There are no utility/ISO EFkw hourly published rates yet available (only fuel consumption rates) but as the PJM on-
+peak/off-peak publications indicate such TOD rates will become more accessible over time 
+39 https://www.epa.gov/sites/production/files/2015-07/documents/emission-factors_2014.pdf  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+36
+Source of data 
+Use credible governmental or regional utility data sources such 
+as, for the US, those published in the US by ISO’s which rely upon 
+utilities’ hourly fuel consumption figures (e.g. see PJM 
+publications40) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+If in region j, the ISO provides fuel consumption data on an hourly 
+basis, EFkwFj,j,t,f,y may be estimated on a weighted average basis 
+using equation 6 as follows:  
+ Projects must combine the hourly fuel consumption figures 
+(typically given as the percentage of each type of fuel 
+consumed that hour (50% coal, 50% natural gas)) with the 
+emission factors for these same fuels to create a weighted 
+average emission rate for each hourly period. 
+ Emission rates for each fuel must be drawn from the same 
+(e.g. the ISO) or consistent publication sources for region j 
+(noting that these need not be generated on an hourly basis 
+but must be updated on at least an annual basis) 
+Frequency of 
+monitoring/recording 
+Each fuel’s emission rate need not be generated on an hourly 
+basis but averages must be generated on at least an annual 
+basis. 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a time-of-
+day basis using utility/ISO hourly fuel consumption inputs 
+ 
+Data / Parameter 
+F%ijtfy  
+Data unit 
+% 
+Description 
+Percentage of fuel type f used to generate the kwh DURING 
+EACH time of day period t, sourced from region j and consumed 
+by project chargers serving applicable fleet I in year y 
+Equations 
+6 
+Source of data 
+Use credible governmental or regional utility data sources such 
+as, for the US, those published in the US by ISO’s which rely upon 
+utilities’ hourly fuel consumption figures (e.g. see PJM 
+publications41) 
+                                                 
+40 http://www.monitoringanalytics.com/data/marginal_fuel.shtml 
+41 http://www.monitoringanalytics.com/data/marginal_fuel.shtml 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+37
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The hourly fuel consumption figures are typically given as the 
+percentage of each type of fuel consumed that hour (50% coal, 
+50% natural gas)). 
+Frequency of 
+monitoring/recording 
+This fuel sourced parameter data must be monitored and recorded 
+on at least an hourly basis. 
+Since the emission factors for each fuel type f need not be 
+generated on an hourly but can be supplied on an annual basis, 
+the percentage of each fuel type f used to generate the kwh during 
+each time period will be supplied for each such time period. 
+QA/QC procedures to be 
+applied 
+Typically a look up value 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a time-of-
+day basis using utility/ISO hourly fuel consumption inputs 
+ 
+Data / Parameter 
+NECi,j,s,y 
+Data unit 
+kwh/year 
+Description 
+Electricity consumed by project chargers supplied from associated 
+infrastructure source s net of any kwh EV/charger returned to this 
+same source within region j serving applicable fleet i in project 
+year y 
+Equations 
+7 
+Source of data 
+Net kwh consumption/generation for project chargers must be 
+secured for each associated infrastructure source (whether 
+derived from the grid, dedicated renewables or the on-site battery) 
+as actual net kwh values using chargers’ adequate metering 
+systems 
+The same core guidance provided for ECi,y relative to the sources 
+of data for L2 and DCFC apply here.  So L2 data can be sourced 
+from kwh measured as delivered to EV’s by the charger meter or 
+as the kwh consumed by the chargers from a grid-based source 
+since losses are de minimis.  And DCFC data may either be 
+sourced via A) DCFC’s own internal smart meter systems capable 
+of differentiating the net kwh delivered to the EV’s from each 
+source s, provided that a DCFC efficiency factor of 92.3% is 
+applied; or B) meters which are on the grid-side of the DCFC 
+units/AI for each source s. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+38
+Thus again for DCFC, using approach A, the value applied would 
+be NECi,j,s,y /0.923 
+If project can demonstrate to validators a more accurate efficiency 
+factor for their particular DCFC systems (for example due to 
+improvements in DCFC technology efficiencies over time) this 
+updated accurate efficiency factor may be substituted for the 
+92.3% default efficiency value. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Projects must track the net kwh consumption/generation for 
+charging systems from across all potential associated 
+infrastructure sources, s, (whether grid, dedicated renewable 
+sources, on-site battery), net of kwh supplied back from the EV 
+battery to such sources, using the charger’s metering system to 
+track such net kwh calculations. 
+To apply equation 7, such net kwh values must be sourced as 
+follows: 
+1) Using actual kwh consumption and generation 
+measurements using on-site or smart chargers’ metering 
+systems, capable of recording/monitoring kwh both 
+consumed and generated on at minimum a yearly basis 
+2) Investments to upgrade chargers to provide such net 
+metered actual data results are permitted provided they 
+supply comparable reporting  
+Associated infrastructure sources, s, for which NEC is calculated 
+include:  
+ 
+grid-connected electricity from region j 
+ 
+and/or dedicated renewable energy generated on-site 
+(including RE sourced from direct transmission lines) 
+ 
+and/or the EV vehicle’s on-board battery 
+Each of the grid and renewables sources, s, must have a well-
+documented emissions factor for the electricity sourced and/or 
+dispatched 
+Project metering systems’ calibration must be conducted 
+according to the equipment manufacturer’s specifications. 
+Projects must incorporate adequate metering systems when 
+applying Eq 7.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+Measured actual data must be monitored and recorded on at least 
+an annual basis. 
+Monitoring periods for metered net data can be consistent with 
+reports which the charging systems’ metering system provides.   
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+39
+QA/QC procedures to be 
+applied 
+The consistency of net metered electricity generation should be 
+cross-checked with receipts and invoices from electricity 
+purchases and sales where applicable 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+The charging system’s metering system must adequately and 
+accurately measure and traces such electricity deliveries and 
+receipts from these associated infrastructure sources, (including 
+for example electricity sourced from/returned to the grid, on-
+site/dedicated renewables, on-site batteries, EV batteries). 
+Applicable only if PE emissions are to be calculated on a net 
+metered basis integrating multiple associated infrastructure 
+sources, s. 
+Note: time of day, hourly monitoring of EV charging/associated 
+infrastructure deliveries and receipts is not a necessary 
+requirement to apply Equation 7.  For combined associated 
+infrastructure metering and time of day PE estimates, see 
+parameters for equation 9. 
+ 
+Data / Parameter 
+EFkwAIi,,j,s,y 
+Data unit 
+(tCO2e/kwh) 
+Description 
+Emission factor for the net electricity from each associated 
+infrastructure source s within region j consumed by project 
+chargers serving applicable fleet i in year y 
+Equations 
+7 
+Source of data 
+Each of associated infrastructure source, s, must have a well-
+documented emissions factor for the electricity it supplies and/or 
+dispatches as follows: 
+ 
+Grid-connected electricity from region j must follow the 
+same procedures as for parameter EFkwi,j,y in Equation 4 
+(see above) 
+ 
+Dedicated renewable energy generated on-site, including 
+renewable energy sourced via direct transmission lines, 
+must set emission factors at zero 
+ 
+On-site storage batteries must assume the weighted 
+average emission factor based upon the proportionate net 
+consumption of grid and dedicated renewable energy at 
+the charging system (see equation 8) 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+40
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+For grid-connected electricity, see procedures for parameter 
+EFkwi,j,y in Equation 4 
+For dedicated renewables, emission factors are set at zero. 
+For on-site storage batteries, the calculations are given in 
+equation 8. 
+ 
+Projects must incorporate adequate metering systems when 
+applying Eq 7 and 8.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+Annual, per procedures for parameter EFkwi,j,y in Equation 4 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+For on-site batteries see equation 8
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a net 
+metered basis integrating multiple associated infrastructure 
+sources, s. 
+Note: time of day, hourly monitoring of EV charging/associated 
+infrastructure deliveries and receipts is not a necessary 
+requirement to apply Equation 7.  For combined associated 
+infrastructure metering and time of day PE estimates, see 
+parameters for equation 9. 
+ 
+Data / Parameter 
+LECj,,j,y 
+ 
+Data unit 
+kwh/year 
+Description 
+Electricity provided to the grid and/or building from on-site storage 
+battery within region j serving applicable fleet i in project year y 
+(kwh/year) 
+Equations 
+7 
+Source of data 
+From on-site battery/charging system’s adequate measurement 
+systems 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+LEC arises if on-site batteries provide kwh back to the grid or local 
+building (for example if used as back up generators/sources of 
+power).  These kwh are not supplied to the EV charging system 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+41
+and do not result in EV miles drive and so are deducted out in Eq 
+7. 
+Projects must incorporate adequate metering systems when 
+applying Eq 7.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+Project metering systems’ calibration must be conducted 
+according to the equipment manufacturer’s specifications. 
+Frequency of 
+monitoring/recording 
+Measured actual data must be monitored and recorded on at least 
+an annual basis. 
+QA/QC procedures to be 
+applied 
+The consistency of such kwh should be cross-checked with other 
+information sources where applicable 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a net 
+metered basis integrating multiple associated infrastructure 
+sources, s. 
+Note: time of day, hourly monitoring of EV charging/associated 
+infrastructure deliveries and receipts is not a necessary 
+requirement to apply Equation 7.  For combined associated 
+infrastructure metering and time of day PE estimates, see 
+parameters for equation 9. 
+ 
+Data / Parameter 
+EFkwonsitebatti,j,s,y  
+Data unit 
+(tCO2e/kwh) 
+Description 
+Emission factor for the electricity from the on-site batteries as 
+associated infrastructure sources s within region j consumed by 
+project chargers serving applicable fleet i in year y 
+Equations 
+8 
+Source of data 
+See data sources for Equation 8 variables below 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The emission factors for the on-site battery as an associated 
+infrastructure source are calculated using the net weighted 
+average of the grid and on-site renewable emission factors given 
+using equation 8 
+ 
+On-site storage batteries must assume the weighted 
+average emission factor based upon the proportionate net 
+consumption of grid and dedicated renewable energy at 
+the charging system (using equation 8) 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+42
+Projects must incorporate adequate metering systems when 
+applying Eq 8.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+As for equation 8 variables below 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a metered 
+basis integrating multiple associated infrastructure sources, s. 
+ 
+Data / Parameter 
+ECBi,j,z,y 
+Data unit 
+kwh/year 
+Description 
+Electricity consumed by on-site battery from associated 
+infrastructure sources z, which comprise only the grid-connected 
+and dedicated renewable sources, within region j serving 
+applicable fleet i in project year y 
+Equations 
+8 
+Source of data 
+As for NECi,j,s,y in equation 7 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+As for NECi,j,s,y in equation 7 
+Projects must incorporate adequate metering systems when 
+applying Eq 8.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+In particular, metering systems must need to measure the kwh 
+delivered to the onsite battery from grid and/or renewable sources 
+as distinct from those delivered directly to the EV charger from the 
+grid and/or dedicated renewable sources 
+Frequency of 
+monitoring/recording 
+As for NECi,j,s,y in equation 7 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+As for NECi,j,s,y in equation 7 
+Comments: 
+Applicable only if PE emissions are to be calculated on a metered 
+basis integrating multiple associated infrastructure sources, s, 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+43
+when these sources are grid-connected electricity and dedicated 
+renewable energy. 
+ 
+Data / Parameter 
+EFkwAI-Zj,,j,z,y  
+Data unit 
+(tCO2e/kwh) 
+Description 
+Emission factor for the electricity from the associated 
+infrastructure sources, z, which comprise only the grid-connected 
+and dedicated renewable sources, within region j consumed by on 
+site battery serving applicable fleet i in year y 
+Equations 
+8 
+Source of data 
+As for EFkwAIj,,j,s,y for grid connected and renewable energy in 
+equation 7 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+As for EFkwAIj,,j,s,y for grid connected and renewable energy in 
+equation 7 
+Projects must incorporate adequate metering systems when 
+applying Eq 8.  Guidance for the design/application of such 
+metering systems is provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+As for EFkwAIj,,j,s,y for grid connected and renewable energy in 
+equation 7 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+As for EFkwAIj,,j,s,y for grid connected and renewable energy in 
+equation 7 
+Comments: 
+Applicable only if PE emissions are to be calculated on a metered 
+basis integrating multiple associated infrastructure sources, s, 
+when these sources are grid-connected electricity and dedicated 
+renewable energy. 
+ 
+Data / Parameter 
+NECTi,j,s,t,y 
+ 
+Data unit 
+Kwh/time period t 
+Description 
+Electricity consumed by project chargers supplied from associated 
+infrastructure source s net of any kwh EV/charger returned to this 
+same source during time-of-day period t, within region j serving 
+applicable fleet i in project year y  
+Equations 
+9 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+44
+Source of data 
+Net electricity consumed by project chargers during time-of-day 
+period t from associated infrastructure sources s, within region j 
+serving applicable fleet i in project year y 
+The same core guidance provided for ECi,y relative to the sources 
+of data for L2 and DCFC apply here.  So L2 data can be sourced 
+from kwh measured as delivered to EV’s by the charger meter or 
+as the kwh consumed by the chargers from a grid-based source 
+since losses are de minimis.  And DCFC data may either be 
+sourced via A) DCFC’s own internal smart meter systems capable 
+of differentiating the net kwh delivered to the EV’s from each 
+source s during time period t, provided that a DCFC efficiency 
+factor of 92.3% is applied; or B) meters which are on the grid-side 
+of the DCFC units/AI for each source s and time period t. 
+Thus again for DCFC, using approach A, the value applied would 
+be NECTi,j,s,t,y /0.923 
+If a project can demonstrate to validators a more accurate 
+efficiency factor for their particular DCFC systems (for example 
+due to improvements in DCFC technology efficiencies over time) 
+this updated accurate efficiency factor may be substituted for the 
+92.3% default efficiency value. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Follow those for parameters ECi,j,t,y in equation 5 and NECi,j,s,y in 
+equation 7  
+Projects must incorporate adequate metering systems when 
+applying Eq 9.  Guidance for the design/application of such 
+metering systems, considered as applied to each time period t, is 
+provided in Appendix 2. 
+In addition, for time of day applications of associated infrastructure 
+calculations pertaining to the NECT for an on-site battery’s kwh 
+delivered to the EV charger, metering must be applied “upstream”, 
+on the grid-side of the on-site battery.  That is for the calculation of 
+NECT for an on-site battery, Eq 9 must, using upstream meters, 
+calculate the kwh delivered to EV chargers via the on-site battery 
+from grid and/or dedicated renewable sources during the time of 
+day period t taking into account when these kwh are actually 
+delivered to the on-site battery (not when delivered from this 
+battery to the EV charger) since the GHG impacts for these kwh 
+arise on the grid system when they are first delivered into this 
+associated infrastructure system (that is are delivered to the on 
+site battery) 
+For these applications, kwh supplied by the EV to the on-site 
+battery can be set aside (since they return to the EV at a later 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+45
+date) unless, during a given time period t, the LEC less the kwh 
+received by the on site battery from grid and renewable sources 
+less the on-site battery’s stored kwh is greater than zero – that is 
+LEC is so large that it must have drawn upon the kwh delivered to 
+the on-site battery from the EV 
+In the context of these NECT calculations for the on-site battery, it 
+should be noted that the kwh supplied from the grid to the EV 
+charging system directly – and those kwh supplied by the EV back 
+to the grid – during any time period t are still considered 
+separately in the calculation of NECT for the grid. 
+Frequency of 
+monitoring/recording 
+Follow those for parameters ECi,j,t,y in equation 5 and NECi,j,s,y in 
+equation 7 
+QA/QC procedures to be 
+applied 
+Follow those for parameters ECi,j,t,y in equation 5 and NECi,j,s,y in 
+equation 7 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Follow those for parameters ECi,j,t,y in equation 5 and NECi,j,s,y in 
+equation 7 
+Applicable only if PE emissions are to be calculated on a time-of-
+day basis when also incorporating charging systems’ associated 
+infrastructure sources on a metered basis. 
+ 
+Data / Parameter 
+EFkwTOD-AIi,j,s,t,y 
+ 
+Data unit 
+tCO2e/kwh 
+Description 
+Emission factor for the electricity from associated infrastructure 
+source s within region j consumed by project chargers serving 
+applicable fleet i during time-of-day period t in year y  
+Equations 
+9 
+Source of data 
+Follow those for parameters EFkwTODj,,j,t,y in equation 5 and 
+EFkwAIj,,j,s,y in equation 7 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Follow those for parameters EFkwTODj,,j,t,y in equation 5 and 
+EFkwAIj,,j,s,y 
+in equation 7 
+Projects must incorporate adequate metering systems when 
+applying Eq 9.  Guidance for the design/application of such 
+metering systems, considered as applied to each time period t, is 
+provided in Appendix 2. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+46
+Frequency of 
+monitoring/recording 
+Follow those for parameters EFkwTODj,,j,t,y in equation 5 and 
+EFkwAIj,,j,s,y in equation 7 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+Follow those for parameters EFkwTODj,,j,t,y in equation 5 and 
+EFkwAIj,,j,s,y in equation 8 
+Comments: 
+Follow those for parameters EFkwTODj,,j,t,y in equation 5 and 
+EFkwAIj,,j,s,y in equation 8 
+Applicable only if PE emissions are to be calculated on a time-of-
+day basis when also incorporating charging systems’ associated 
+infrastructure sources on a net metered basis. 
+ 
+Data / Parameter 
+LECTj,,j,t, y  
+Data unit 
+kwh/time period t 
+Description 
+Electricity provided to the grid and/or building from on-site storage 
+battery during time-of-day period t within region j serving 
+applicable fleet i in project year y (kwh/year) 
+Equations 
+9 
+Source of data 
+From on-site battery/charging system’s adequate measurement 
+systems 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project metering systems’ calibration must be conducted 
+according to the equipment manufacturer’s specifications. 
+Projects must incorporate adequate metering systems when 
+applying Eq 9.  Guidance for the design/application of such 
+metering systems, considered as applied to each time period t, is 
+provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+Measured actual data must be monitored and recorded on at least 
+an annual basis. 
+QA/QC procedures to be 
+applied 
+The consistency of such kwh should be cross-checked with other 
+information sources where applicable 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a net 
+metered basis integrating multiple associated infrastructure 
+sources, s. 
+ 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+47
+Data / Parameter 
+EFkwTODonsitebatti,j,s,t,y  
+Data unit 
+tCO2e/kwh 
+Description 
+Emission factor for the electricity from the on-site battery during 
+time-of-day period t (both on-site infrastructure and EV on-board 
+batteries) associated infrastructure source s within region j 
+consumed by project chargers serving applicable fleet i in year y 
+Equations 
+9 
+Source of data 
+See data sources for Equation 8 variables above 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The emission factors for one associated infrastructure source -- 
+for the on-site battery -- are calculated using the net weighted 
+average of the grid and on-site renewable emission factors given 
+using equation 8, but this time applied for each time-of-day period 
+t 
+On-site storage battery must assume the weighted average 
+emission factor based upon the proportionate net consumption of 
+grid and dedicated renewable energy at the charging system 
+(using equation 9 applied during each time of day period basis) 
+Projects must incorporate adequate metering systems when 
+applying Eq 9.  Guidance for the design/application of such 
+metering systems, considered as applied to each time period t, is 
+provided in Appendix 2. 
+Frequency of 
+monitoring/recording 
+Consistent with the practices applied for monitoring the 
+EFkwTOD-AIi,j,s,t,y in equation 9 
+QA/QC procedures to be 
+applied 
+As for equation 8 variables 
+Purpose of data 
+Calculation of project emissions 
+Calculation method: 
+ 
+Comments: 
+Applicable only if PE emissions are to be calculated on a metered 
+basis integrating multiple associated infrastructure sources, s, on 
+a time-of-day basis. 
+ 
+Data / Parameter 
+Dy 
+Data unit 
+% 
+Description 
+Discount factor to be applied in year y 
+Equations 
+10 and 11 
+Source of data 
+See data sources for data parameters in equation 13 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+48
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Discount factor applied if GHG credits have been issued in the 
+project region for GHG credits issued for projects that introduce 
+EV fleets (e.g. using the CDM AMS-III.C EV fleet methodology) 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method: 
+Look up value 
+Comments: 
+If there are no GHG credits issued for projects that introduce EV 
+fleets in the project region, Dy must be 1 (ie there is no discount 
+applied).  Private networks can also demonstrate that D = 1 if 
+there is no access to chargers beyond a defined set of EV’s for 
+which it can be demonstrated that no GHG credits from projects 
+that introduce EV fleets have been issued.  See guidance in 
+section 8.4 regarding open and closed networks. 
+If GHG credits have been issued for projects that introduce EV 
+fleets for a region larger than the proposed EV charging project 
+(e.g. the project introducing EVs is US-wide while the EV charging 
+system project is confined to one state), then a sensible pro-rata 
+share of the GHG credits issued to projects that introduce EV 
+fleets can be made (e.g. using the pro-rata number of EV’s on the 
+road in the EV charging system project state compared to the total 
+in the US, using sources such as ZEVFacts.com). 
+  
+Data / Parameter 
+ERCy 
+ 
+Data unit 
+tCO2e 
+Description 
+Sum of GHG credits issued by all projects under this 
+methodology (or others which support the introduction of EV 
+charging systems) across this project’s applicable fleet i 
+categories within this total project region in project year y-1  
+ 
+Equations 
+11 
+Source of data 
+VCS (and other voluntary and regulated credit registries if they 
+develop similar EV charging system methodologies), with GHG 
+credits issued from EV charging system projects within this same 
+project’s region (e.g. for complementary charging networks)  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+49
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Simple tallies of the total GHG credits issued from EV charging 
+system project year 1 through year y-1 within this project’s region 
+These GHG credits include those issued under this VCS charging 
+system methodology (or similar ones developed by other 
+certification groups) whose credits arise within the same region as 
+this project but cover credits issued from complementary charging 
+network systems (e.g. workplace chargers from a complementary 
+project located in the same region as this project’s residential 
+chargers). 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method: 
+Look up values 
+Comments: 
+N/A 
+ 
+Data / Parameter 
+ERFy 
+Data unit 
+tCO2e 
+Description 
+Sum of GHG credits issued by all projects under methodologies 
+which support the introduction of EV fleets (e.g., CDM AMS.III.C) 
+within this project’s same total region where the applicable fleet i 
+categories are the same for both this EV charging system project 
+and projects introducing EV fleets, in project year y-1 
+Equations 
+11 
+Source of data 
+VCS and other voluntary and regulated credit registries, with GHG 
+credits issued from projects that introduce EV fleets within the 
+project region  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Simple tallies of the total GHG credits issued for projects that 
+introduce EV fleets within this project’s region from project year 1 
+through year y-1  
+These GHG credits are those issued under EV fleet 
+methodologies such as CDM AMS-III.C whose credit potentially 
+double count with those issued through EV charging system 
+projects where the applicable fleet of the EV charging system 
+project include those that were introduced in the EV fleet project 
+Frequency of 
+monitoring/recording 
+Annual 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+50
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method: 
+ 
+Comments: 
+If GHG credits have been issued projects introducing EV fleets for 
+a region larger than the proposed EV charging system project 
+(e.g. the project introducing EVs s US-wide while the EV charging 
+system project is confined to one state), then a sensible pro-rata 
+share of the GHG credits issued to the project that introduced EV 
+fleets can be made (e.g. using the pro-rata number of EV’s on the 
+road in the EV charging system project state compared to the total 
+in the US, using sources such as ZEVFacts.com). 
+ 
+9.3       Description of the Monitoring Plan 
+The project proponent must establish, maintain and apply a monitoring plan and GHG information 
+system that includes criteria and procedures for obtaining, recording, compiling and analyzing 
+data, parameters and other information important for quantifying and reporting GHG emissions. 
+All data collected as part of monitoring should be archived electronically and be kept at least for 
+two years after the end of the last project crediting period. All data must be monitored unless 
+indicated otherwise in the tables above. 
+Project reporting must include the following information for EV charging systems included in a 
+project: 
+For activities monitored once up-front during project validation or as new project activity instances 
+are admitted to a grouped project during verification: 
+1) Inventory and geographic location for each EV charging system included in the project. 
+2) Where EV charging systems’ AI is utilized to provide electricity to EVs, in order to store 
+and dispatch electricity to and from multiple sources, both on site and regionally, the 
+monitoring plan must include plans for how data will be processed from the AI’s metering 
+systems (e.g., meters/sub-meters and/or associated measurement systems). Guidance 
+for such metering is provided in Appendix 2. 
+3) Review of any previously issued VCUs for EV charging projects to verify that there is no 
+overlap of ownership with chargers included in the project description, for example, using 
+the unique EV charging identifiers supplied in the project description’s EV charging 
+system inventory. For grouped projects, such verification must apply to any new project 
+activity instances and for new chargers subsequently added to the grouped project (e.g., 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+51
+by referencing the unique EV charging identifiers for these new project activity instances 
+in project monitoring reports). 
+4) Review of any previously issued EV fleet credits to confirm the value established for the 
+discount factor, Dy. 
+For activities monitored each year during verification for credit issuance: 
+1) Data on electricity consumption consistent with guidance provided in the parameter 
+boxes above for each EV charger, which must be reported in a consistent manner with 
+supporting data, such as invoices or utility or on site meter records. Where projects 
+include LDV and HDV applicable fleets, electricity consumption must be monitored 
+separately.  
+2) Supporting documentation used to determine parameters for use in quantification of 
+annual baseline emissions if default factors (per Appendix 1) are not used. 
+The project proponent must establish and apply quality management procedures to manage data 
+and information. Written procedures must be established for each measurement task outlining 
+responsibility, timing and record location requirements. Record keeping practices must include:  
+ 
+Electronic recording of values of logged parameters for each monitoring period 
+ 
+Offsite electronic back-up of all logged data  
+ 
+Maintenance of all documents and records in a secure and retrievable manner for at least 
+two years after the end of the project crediting period.  
+Quality assurance/quality control procedures must also be applied to add confidence that all 
+measurements and calculations have been made correctly. These may include, but are not 
+limited to: 
+ 
+Protecting monitoring equipment (sealed meters and data loggers) 
+ 
+Protecting records of monitored data (hard copy and electronic storage) 
+ 
+Checking data integrity on a regular and periodic basis (manual assessment, comparing 
+redundant metered data, and detection of outstanding data/records) 
+ 
+Comparing current estimates with previous estimates to identify any abnormal readings 
+ 
+Providing sufficient training to project participants to install and maintain project devices  
+ 
+Establishing minimum experience and requirements for operators in charge of project 
+and monitoring 
+ 
+Performing recalculations to make sure no mathematical errors have been made 
+ 
+ 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+52

@@ -1,0 +1,7 @@
+3 DEFINITIONS 
+The definitions in AMS-III.BA. and the latest version of the VCS Program Definitions apply for 
+this methodology, unless this methodology or the VCS Program Definitions indicate otherwise.  
+ 
+VMR0008, v1.0 
+ 
+5

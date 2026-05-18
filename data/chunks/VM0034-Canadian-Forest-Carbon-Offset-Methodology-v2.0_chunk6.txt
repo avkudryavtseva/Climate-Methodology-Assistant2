@@ -1,0 +1,10 @@
+6 
+BASELINE SCENARIO 
+In order to calculate the net emission reductions and/or removal enhancements that have 
+resulted from a particular project, it is necessary to identify and select a baseline scenario 
+representing what would have most likely occurred within the project area in the absence of the 
+project. Within this methodology, baselines are determined on a project-specific basis, such that 
+each project proponent must prepare and justify their own baseline estimates, following the 
+guidance given in the methodology. 
+Steps for determining the baseline scenario are given in Section 7.1 below, as part of the 
+procedure for determining additionality.

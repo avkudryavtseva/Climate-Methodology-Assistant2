@@ -1,0 +1,63 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. Project 
+proponents using this methodology must:  
+1) Demonstrate regulatory surplus;  
+2) Conduct an investment analysis and/or identify implementation barriers; and  
+3) Demonstrate that the project activity is not common practice.  
+ 
+VMR0004, v2.0 
+ 
+9 
+7.1 
+Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent versions of the VCS 
+Standard and VCS Methodology Requirements. 
+The regulatory surplus must be assessed for each of the energy efficiency measures included 
+in the project activity. 
+7.2 
+Investment Analysis and Implementation Barriers 
+The project proponent must conduct either an investment analysis (Section 7.2.1) or a barrier 
+analysis (Section 7.2.2). Project proponents may choose to apply both analyses to further 
+strengthen the additionality demonstration. 
+7.2.1 Investment Analysis 
+When applying this step, project proponents must conduct an “investment comparison 
+analysis” following the procedures and requirements of the “Investment Analysis” section of the 
+most recent version of the VT0008 Additionality Assessment. The project scenario must be 
+compared to the baseline scenario described in Section 6. 
+7.2.2 Barrier Analysis 
+When applying this step, project proponents must follow the procedures and requirements of 
+the “Barrier Analysis” section of the most recent version of the VT0008 Additionality 
+Assessment.  
+Under this methodology, such barriers are limited to: 
+1) Commercial/legal barrier: The “owner/tenant” contractual issue may be a barrier to 
+implementation of energy efficiency measures in vehicles. For example, this is typical in 
+the case of car rental company fleets, where the car renter buys the fuel and the owner 
+makes the vehicle investment. Many taxi fleets are also managed in this manner, 
+especially in developing countries, with taxi drivers paying a fixed daily rent per vehicle. 
+The same is true in the case of leased vehicles typical in the trucking business. For 
+projects facing the commercial/legal barrier, project proponents must demonstrate that 
+the contractual relationship between the parties does not provide an incentive for any 
+party to implement the project activity. 
+2) Aggregation barrier: In order to make efficiency projects feasible, an aggregation 
+mechanism may be required. Aggregation parties are generally business associations, 
+efficiency-driven institutions, or providers of technology solutions for efficiency 
+improvements. The cost of establishing and maintaining such an aggregation mechanism 
+can be a significant barrier that can be offset with carbon credit revenues. 
+ 
+VMR0004, v2.0 
+ 
+10 
+Note — Projects may choose to demonstrate additional implementation barriers using the list of 
+barriers provided in the most recent version of the VT0008 Additionality Assessment. However, 
+as a minimum requirement, project proponents must demonstrate additionality through the 
+existence of at least one of the barriers listed above or an investment analysis. Other barriers 
+may further strengthen the additionality demonstration but are not sufficient on their own. 
+7.3 
+Common Practice 
+The project proponent must demonstrate that the market penetration rate of each of the 
+planned project measures is individually less than 20% for the types of vehicles included in the 
+fleets. Penetration rates are assessed for the specific vehicle categories in which the measures 
+are implemented, not for the entire fleet. Sources of data for market penetration rates may 
+include independent studies, information from business associations, or other publicly 
+available information.

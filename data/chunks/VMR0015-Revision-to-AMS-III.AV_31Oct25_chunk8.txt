@@ -1,0 +1,19 @@
+7 ADDITIONALITY 
+Paragraph 12 of AMS-III.AV must be replaced by the following:  
+12) The additionality of a project activity must be demonstrated by applying the most recent 
+version of one of the following tools appropriate to the project scale:2 
+a) VT0008 Additionality Assessment (for any projects) 
+b) CDM TOOL21 Demonstration of Additionality of Small-scale Project Activities 
+(for projects with annual GHG emission reductions of up to 60 kt CO2e in any 
+year of the crediting period) 
+c) CDM TOOL19 Demonstration of Additionality of Microscale Project Activities (for 
+projects with annual GHG emission reductions of up to 20 kt CO2e in any year of 
+the crediting period) 
+ 
+ 
+2 Project proponents may demonstrate additionality by applying a tool indicated for use at a larger scale than the project 
+activity, but not one indicated for use at a smaller scale than the project activity. For example, a project with 50 kt CO2e 
+annual reductions may apply TOOL21 or VT0008, but not TOOL19. 
+ 
+VMR0015, v1.0 
+7

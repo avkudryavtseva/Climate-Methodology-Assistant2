@@ -1,0 +1,16 @@
+13 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+21 Nov 2025 
+Initial version 
+The following updates to ACM0001 are included: 
+• Adoption of VT0009 Combined Baseline and Additionality Assessment and 
+VT0010 Emissions from Electricity Consumption and Generation (and 
+associated tool VT0011 Electricity Systems Emission Factors) 
+• Inclusion of positive list (adapted from CDM TOOL32) 
+• Requirements for projects transitioning from AMS-III.G. to VMR0016 
+• Inclusion of monitoring parameter for the installed capacity (reporting-only) 
+• Other minor improvements

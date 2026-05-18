@@ -1,0 +1,738 @@
+10 REFERENCES 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. Waveland Press. 
+Bird, D. N., N. Pena, H. Schwaiger, and G. Zanchi. 2010. Review of Existing Methods for Carbon 
+Accounting. CIFOR Occasional Paper (54). 
+Cline, M. G. 1944. “Principles of soil sampling.” Soil Science 58 (4): 275–88. 
+Cochran, W. G. 1977. Sampling Techniques. John Wiley & Sons. 
+Ducey, M. J., M. S. Williams, J. H. Gove, S. Roberge, and R. S. Kenning. 2013. “Distance-limited 
+perpendicular distance sampling for coarse woody debris: Theory and field results.” Forestry 86 
+(1): 119–28. https://doi.org/10.1093/forestry/cps059 
+Ferraro, P. J., and M. M. Hanauer. 2014. “Advances in measuring the environmental and social 
+impacts of environmental programs.” Annual Review of Environment and Resources 39: 495–
+517. https://doi.org/10.1146/annurev-environ-101813-013230 
+Harmon, M. E., C. W. Woodall, B. Fasth, J. Sexton, and M. Yatkov. 2011. Differences Between 
+Standing and Downed Dead Tree Wood Density Reduction Factors: A Comparison Across Decay 
+Classes and Tree Species. Research Paper NRS-15. US Department of Agriculture, Forest Service. 
+Holdridge, L. R. 1967. Life Zone Ecology. Tropical Science Center. Data available at: 
+http://iridl.ldeo.columbia.edu/SOURCES/.ECOSYSTEMS/.Holdridge/present+.life-
+zone/downloadsGeoTiff.html 
+IPCC. 2003. Good Practice Guidance for Land Use, Land-use Change and Forestry. Institute for 
+Global Environmental Strategies (IGES). https://www.ipcc.ch/publication/good-practice-guidance-
+for-land-use-land-use-change-and-forestry/ 
+IPCC. 2006. 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Institute for Global 
+Environmental Strategies (IGES). 
+IPCC. 2019. Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Volume 4. IPCC. https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. Forest Mensuration. John Wiley & 
+Sons. 
+Mathur, A., A. P. Chikkatur, and A. D. Sagar. 2007. “Past as prologue: An innovation-diffusion 
+approach to additionality.” Climate Policy 7 (3): 230–9. 
+https://doi.org/10.1080/14693062.2007.9685651 
+Nelson, D. W., and L. E. Sommers. 1996. “Total carbon, organic carbon, and organic matter.” In 
+Methods of Soil Analysis. Part 3 Chemical Methods, edited by A. L. Page, P. A. Helmke, R. H. 
+Loeppert, et al. American Society of Agronomy and Soil Science Society of America. (pp. 961–
+1010).  
+ 
+VM0047, v1.1 
+65 
+Olson, D. M., E. Dinerstein, E. D. Wikramanayake, et al. 2001. “Terrestrial ecoregions of the world: 
+A new map of life on earth. A new global map of terrestrial ecoregions provides an innovative tool 
+for conserving biodiversity.” BioScience 51 (11): 933–8. https://doi.org/10.1641/0006-
+3568(2001)051[0933:TEOTWA]2.0.CO;2 
+Petersen, R. G., and L. D. Calvin. 1986. “Sampling.” In Methods of Soil Analysis: Part 1 Physical 
+and Mineralogical Methods, edited by A. Klute. American Society of Agronomy and Soil Science 
+Society of America. 
+Schumacher, B. A. 2002. Methods for the Determination of Total Organic Carbon (TOC) in Soils 
+and Sediments. US Environmental Protection Agency.  
+Souza Jr, C. M., D. A. Roberts, and M. A. Cochrane. 2005. “Combining spectral and spatial 
+information to map canopy damage from selective logging and forest fires.” Remote Sensing of 
+Environment 98 (2–3): 329–43. https://doi.org/10.1016/j.rse.2005.07.013 
+Van Wagner, C. E. 1968. “The line intersect method in forest fuel sampling.” Forest Science 14 
+(1): 20–6. https://doi.org/10.1093/forestscience/14.1.20 
+Warren, W. G., and P. F Olsen. 1964. “A line intersect technique for assessing logging waste.” 
+Forest Science 10 (3): 267–76. https://doi.org/10.1093/forestscience/10.3.267 
+Wendt, J. W., and S. Hauser. 2013. “An equivalent soil mass procedure for monitoring soil organic 
+carbon in multiple soil layers.” European Journal of Soil Science 64 (1): 58–65. 
+https://doi.org/10.1111/ejss.12002 
+Williams, M. S., and J. H. Gove. 2003. “Perpendicular distance sampling: An alternative method 
+for sampling downed coarse woody debris.” Canadian Journal of Forest Research 33 (8): 1564–
+79. https://doi.org/10.1139/x03-056 
+Williams, M. S., H. T. Valentine, J. H. Gove, and M. J. Ducey. 2005. “Additional results for 
+perpendicular distance sampling.” Canadian Journal of Forest Research 35 (4): 961–6. 
+https://doi.org/10.1139/x05-023 
+ 
+ 
+ 
+VM0047, v1.1 
+66 
+APPENDIX 1: PERFORMANCE METHOD 
+A1.1 Applicability Conditions 
+This appendix is applicable where all the following conditions are met: 
+1) The project meets all applicability conditions detailed in Section 4 of this methodology. 
+2) The project activities will produce vegetative cover allowing for clear spatial delineation of the 
+project area.  
+3) The project’s performance benchmark is updated at each verification or every five years, 
+whichever comes first. 
+A1.2 Baseline Scenario 
+The baseline scenario is represented by the business-as-usual growth of carbon stocks in aboveground 
+biomass, as observed on representative remotely sensed control plots located outside of any registered 
+AFOLU project area. This approach creates the most plausible baseline scenario because remote 
+sensing provides continual and quantifiable observations of changes in aboveground biomass allowing 
+for the real-time comparison of project and baseline.  
+The business-as-usual changes in vegetation cover are represented by the performance benchmark, 
+which is equal to the ratio of average change in stocking index (SI) of control plots to project plots. The 
+control plots are appropriately matched to the project plots based on similar biophysical, social, and 
+political conditions, and historic stock trends (see Section A1.4). SI in control plots is detected using 
+remote sensing and does not need direct field measurement. The baseline is established at every 
+verification period through the application of an updated performance benchmark. The application of 
+the performance benchmark, as explained below, effectively excludes crediting of project activities that 
+may be expected to be implemented without carbon incentives, based on comparative outcomes. It also 
+ensures that credited projects produce performance improvements relative to the business-as-usual 
+case (represented by the crediting baseline). 
+Note – All project and control plots referenced in this appendix are remotely sensed and will therefore be 
+referred to as “project plots” and “control plots” from here onwards in Appendix 1. 
+A1.3 Performance Benchmark 
+The performance benchmark is determined by comparing the average rate of increase in the stocking 
+index (SI) between project and control plots in Equation (A8). Equation (A7) demonstrates common 
+practice additionality. A performance benchmark is developed for each project area, or in the case of 
+grouped projects, a separate performance benchmark is developed for each annual cohort of 
+instances. Performance benchmarks are monitored ex-post, hence are dynamic. The approach to select 
+control plots outlined below constitutes a matching approach widely used in impact evaluation in the 
+ 
+VM0047, v1.1 
+67 
+environmental field (Ferraro & Hanauer 2014). Matching approaches are not expected to produce exact 
+matches for individual land parcels, but rather to produce robust estimates of impact for sample 
+“populations” of matched pairs (controls and treatments).  
+An ex-ante estimate of the performance benchmark must be calculated referencing a value of ΔSIcontrol,t 
+using the stocking indices for the historic period t = −10 to t = 0 for the selected control plots (derived in 
+Section A1.4). The project slope is derived from the growth and yield curve procedure provided in ex-ante 
+calculations (see Section 8.7). 
+Assessing plots using remote sensing does not involve direct estimation and reporting of carbon stocks. 
+Remote sensing is used only to estimate relative stock change between control and project plots. 
+Accounting of removals is treated in Section 8 and is dependent on direct field measurement. 
+A1.4 Procedure to Define the Performance Benchmark 
+The steps for establishing the performance benchmark must be documented in the project description 
+in sufficient detail so that they can be repeated and validated. The location of all stocking index project 
+and control plots must also be included in the project description. All of the following steps must be fully 
+documented as part of the monitoring plan for project and control plots, as described in Section 9.3. 
+Description of the Monitoring Plan.  
+ 
+Step 1: Select Project Plots 
+The following must be performed for each annual cohort separately.  
+1) Divide the entire project annual cohort area into equal-sized, contiguous, non-overlapping units 
+(project plots) with area ranging from 0.01 hectares (10 × 10 m) to 10 hectares. At least 75% of 
+each unit must be within the project area boundary. Project plots may be represented by 
+individual pixels or aggregates of pixels. 
+2) Select a representative sample of n = 30 or more project plots across the project area using 
+random sampling.  
+Note – If the project is stratified or is a grouped project where new instances are added in subsequent 
+years, individual strata may contain fewer than 30 plots, provided the total sample size is at least 30 and 
+each stratum is used to establish a separate performance benchmark. 
+ 
+Step 2: Select Control Plots for Each Project Plot 
+1) Select donor pool area: 
+Define donor pool area from within which control plots may be sourced, applying the criteria 
+listed in Table A1. The process to determine the eligible control area is implemented with a 
+series of GIS overlays. The project may include other spatially explicit, categorical drivers of 
+carbon regeneration or reforestation (e.g., land cover classifications), provided their inclusion is 
+ 
+VM0047, v1.1 
+68 
+justified on a theoretically sound or empirically demonstrated basis (e.g., peer-reviewed study). 
+Any geospatial datasets included must have a resolution no coarser than 30 × 30 meters and 
+must match or be finer than the resolution of the project plots used as units of analysis (see Step 
+1(1) above). 
+Table A1. Required factors and source data to delineate donor pool and pixel selection, 
+evaluated for time t = 0. Time variant geospatial layers used must be current as of t = 0, ±5 years. 
+Matching Criteria 
+Description 
+Jurisdictional 
+boundary 
+Where the project area is within a subnational jurisdiction either registered under 
+Jurisdictional and Nested REDD+ (JNR) or delineated by the national or 
+subnational government for reporting REDD+ (e.g., delineated as a discrete Forest 
+Reference Emission Level), the relevant jurisdictional boundary is the subnational 
+jurisdiction (no lower than the second administrative level from the national level). 
+Otherwise, the jurisdictional boundary used is the national boundary.  
+Source: the GIS layer for the jurisdictional boundary must be from a published or 
+official national government source. 
+Ecoregion 
+The donor pool area must exclude any areas not within the same ecoregion 
+(biome level) as the project. 
+Policy environment 
+The donor pool area must exclude any areas of the jurisdictional boundary 
+(defined above) with presence/absence of any operating national or subnational 
+government-funded policy/program providing incentives for tree planting that 
+differs from that in the project area (e.g., USDA Conservation Reserve Program) 
+Outside any 
+registered AFOLU 
+project 
+Optionally, and as available, the donor pool area may exclude boundaries of any 
+AFOLU projects registered under a carbon offset program. 
+Source: kml files from project registries (e.g., Verra Registry) 
+Land tenure 
+All land tenure classifications present in the project area must be represented in 
+the donor pool. 
+Exclude any areas with different land tenure classification than the project area. 
+Land tenure classification should be sourced from published or official 
+government sources. 
+At a minimum, land tenure classification must distinguish between public and 
+private lands. More precise classifications (e.g., Indigenous reserves, concessions, 
+private industrial lands) may be used where available. 
+Source: published or official government source 
+Distance from 
+project plot 
+Exclude areas beyond a 100 km radius of the centroid of the project plot. 
+ 
+ 
+ 
+ 
+ 
+VM0047, v1.1 
+69 
+2) Evaluate project and control plots: 
+Once the donor pool area has been delineated by applying the factors in Table A1, it is divided 
+into non-overlapping units of equal size and not exceeding ±20% of the mean size of project 
+plots.  
+Quantify historic and initial conditions of SI via a time series analysis for a representative 
+sample of control and project plots (Table A2). For each control plot, calculate a multivariate 
+distance metric relative to each project plot, MD (e.g., Euclidean distance, Mahalanobis 
+distance), across the vector of covariates. The vector of covariates must include stocking 
+indices from at least three time points as described in Table A2.  
+Table A2. Required covariates for matching control plots to project plots (detailed guidance on 
+each covariate provided in Section A1.5) 
+Matching covariate 
+Description 
+SIt=0, SIt=−10, etc.  
+Covariates used for evaluating the multivariate distance between control and 
+project plots must include stocking indices from three or more time points 
+during the historic period. At minimum, stocking indices from each of the 
+following periods must be selected: 
+• 
+Between t = −10 and t = −8 
+• 
+Between t = −8 and t = −1  
+• 
+At t = 0 
+ 
+3) Match control and project plots: 
+To match control plots with project plots, apply a k-nearest neighbor optimal matching approach 
+without replacement (i.e., control plots may not be matched to multiple project sample plots). The 
+number of control plots matched to each project plot (k) is selected by the project proponent. k 
+must be kept constant for each match (e.g., if k=5 for project plot A, k must remain 5 for the 
+project lifetime).  
+Select the k control plots with the lowest multivariate distance metric values and derive relative 
+weights, that sum to 1, proportional to the inverse of the multivariate distance metric value.  
+Where: 
+Wcontrol,i,j 
+= Weight of control plot j matched to project plot i (value between 0 and 1; 
+dimensionless) 
+MDi,j 
+= Multivariate distance of control plot j relative to project plot i 
+(dimensionless) 
+ܹ௖௢௡௧௥௢௟,௜,௝=
+݁−ெ஽೔,ೕ
+∑
+݁−ெ஽೔,ೕ
+௡೔,ೕ
+௝=1
+ 
+ 
+(A1) 
+ 
+VM0047, v1.1 
+70 
+ni,j 
+= Number of control plots matched to project plot i (equal to k at project 
+start date) 
+Step 3: Evaluate Match Quality and Finalize Matching 
+For the sample population of matched pairs (project plots and matched sets of control plots), evaluate 
+match quality and finalize matching. 
+For each included matching stocking index covariate, u, calculate the standardized difference of means 
+(SDM) as follows: 
+ܵܦܯ= |ݒ̅௪௣,u −ݒ௕௦௟,u| √(ߪ௪௣,௩
+2
++ ߪ௕௦௟,௩
+2
+2
+)
+⁄
+ 
+(A2) 
+Where: 
+SDM 
+= Standardized difference of means 
+ܸ௪௣,௨ 
+= Mean value of covariate u in the population of project plots 
+ܸ௕௦௟,௨ 
+= Mean value of weighted sums of covariate u in the population of matched sets 
+of control plots 
+ߪ௪௣,௩
+2
+ 
+= Sample variance of covariate v in the population of project plots 
+ߪ௕௦௟,௩
+2
+ 
+= Weighted sample variance of covariate v in the population of control plots 
+Overall match results are deemed valid where SDM for each covariate is less than or equal to 0.25. 
+Where the overall match is deemed valid, the final selection of control plots and their respective weights 
+are then fixed, and Universal Transverse Mercator (UTM) coordinates recorded, for the duration of the 
+crediting period. Where the overall match is not deemed valid, Steps 1, 2, and 3 are repeated after:  
+1) progressively expanding the radius of the donor pool in 100 km increments, and/or  
+2) decreasing the k-value for all project plots, until a valid overall match is achieved. 
+ 
+Step 4: Monitor Control and Project Plots 
+The performance benchmark is derived from monitoring the stocking index (SI) in control and project 
+plots.  
+In each control and project plot, assess and record initial SI value. At each monitoring event, remove 
+any control plots deemed invalid due to their location in areas no longer matching the project area in 
+terms of being either: 
+1) subject to any operating subnational government-funded program providing incentives for tree 
+planting, implemented during the evaluation period, to which the project area is not subject; or 
+2) within the boundaries of any AFOLU projects registered under a carbon offset program 
+(optional). 
+ 
+VM0047, v1.1 
+71 
+Where a control plot has been deemed invalid, the plot is excluded and replaced from the donor pool 
+selected in Step 2. Weights of the control plots must be recalculated to sum to 1. For each remaining 
+valid control and project plot, re-evaluate SI, consulting the most recent imagery (see SI parameter 
+table for guidance on temporal constraints on imagery sourcing). 
+Step 5. Derive and Evaluate Slopes for Time Series of Stocking Indices 
+Assemble accumulated time series of ΔSIcontrol,t  and ΔSIwp,t values from time t = 0 to time t, estimated 
+across the sample populations of project and control plots. The derivation of SI for the monitoring interval 
+must include at minimum two, annual time steps: t and t = 0. Observations from all previous verifications 
+must also be included. 
+To be included in the dataset, SI values must be available at time t for project plot i, and all of its matched 
+control plots i,j. Where SI values for plots within a matched set are not available at time t (e.g., due to 
+cloud cover or temporary sensor issues), the matched set of project and control plots must not be used in 
+the derivation of ΔSIcontrol,t and ΔSIwp,t at time t. A minimum of n = 30 project plots must be obtained for a 
+representative sample of the area.  
+The rate of increase in stocking index in the control (ΔSIcontrol,t) and project (ΔSIwp,t) plots is calculated in 
+Equations (A5) and (A6) as the slope of the weighted least squares regression (WSLR) of the 
+accumulated time series of SI values for the respective population of plots. 
+Weights of SI values for control plots in the time series are calculated as follows: 
+ܹ௖௢௡௧௥௢௟,௜,௝,௧= ܹ௖௢௡௧௥௢௟,௜,௝× 
+1
+∑
+݊_ݎݏ௧
+௧
+௧=0
+  
+(A3) 
+ 
+Where: 
+Wcontrol,i,j,t 
+= Weight of control plot j matched to project plot i at time t (dimensionless) 
+Wcontrol,i,j 
+= Weight of control plot j matched to project plot i (value between 0 and 1; 
+dimensionless) 
+n_rst 
+= Number of project plots with (k) matched control plots with values assessed 
+at time t 
+ 
+Weights of SI values for project plots in the time series are calculated as follows: 
+ܹ௪௣,௜,௧= 
+1
+∑
+݊_ݎݏ௧
+௧
+௧=0
+ 
+(A4) 
+Where: 
+Wwp,i,t 
+= Weight of project plot i at time t (dimensionless) 
+n_rst 
+=  Number of project plots with matched control plots (i,j) with values 
+assessed at time t 
+ 
+VM0047, v1.1 
+72 
+WSLR is used to derive ∆SIcontrol,t in Equation (A5) and ∆SIwp,t in Equation (A6). These equations 
+estimate the slope of stocking index over time by calculating the weighted covariance between time and 
+stocking index, divided by the weighted variance of time. 
+∆ܵܫ௖௢௡௧௥௢௟,௧
+= 
+∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧× ݐ× ܵܫ௖௢௡௧௥௢௟,௜,௝,௧)
+௜,௝
+− ∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧× ݐ)
+௜,௝
+× ∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧× ܵܫ௖௢௡௧௥௢௟,௜,௝,௧)
+௜,௝
+∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧)
+௜,௝
+∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧× ݐ2)
+௜,௝
+− (∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧
+݅,݆
+× ݐ))
+2
+∑(ܹ௖௢௡௧௥௢௟,௜,௝,௧)
+௜,௝
+ 
+(A5) 
+Where: 
+ΔSIcontrol,t 
+= 
+Slope of stocking index of control plots over time 
+Wcontrol,i,j,t  
+= 
+Weight of control plot j matched to project plot i, at time t 
+SIcontrol,i,j,t 
+= 
+Stocking index of control plot j matched to project plot i, at time t 
+t 
+= 
+1, 2, 3, …, t years elapsed since the project start date 
+ 
+In Equation (A5), weights of control plots Wcontrol,i,j,t are calculated using Equation (A1), which reflects the 
+relative representativeness of each control plot, and Equation (A3), which adjusts these weights over time 
+based on the cumulative number of matched control plots. These weights are applied in the regression to 
+reflect confidence in the quality of observation matching, based on pre-project conditions, and moderate 
+the relative influence of each individual control plot observation as the data set grows over time.  
+Note – Unlike some WLSR applications, these weights are not derived from estimation of residual error 
+variance. 
+∆ܵܫ௪௣,௧= 
+∑(ܹ௪௣,௜,௧× ݐ× ܵܫ௪௣,௜,௧)
+௜
+−∑(ܹ௪௣,௜,௧× ݐ)
+௜
+× ∑(ܹ௪௣,௜,௧× ܵܫ௪௣,௜,௧)
+௜
+∑(ܹ௪௣,௜,௧)
+௜
+∑(ܹ௪௣,௜,௧× ݐ2)
+௜
+ −(∑(ܹ௪௣,௜,௧× ݐ)
+௜
+)
+2
+∑(ܹ௪௣,௜,௧)
+௜
+ 
+(A6) 
+Where: 
+ΔSIwp,t 
+= 
+Slope of stocking index of project plots over time 
+Wwp,i,t  
+= 
+Weight of project plot i at time t 
+SIwp,i,t 
+= 
+Stocking index of project plot i at time t 
+t 
+= 
+1, 2, 3, …, t years elapsed since the project start date 
+ 
+In Equation (A6), weights of project plots Wwp,i,t are calculated using the assigned weights from Equation 
+(A4), which scale the cumulative number of project plots included in the analysis from t = 0 to time t. This 
+ensures that all project plot observations are weighted equally while normalizing their relative influence 
+as the number of observations grows over time. 
+The significance of the difference between ΔSIcontrol,t and ΔSIwp,t is evaluated with a Z test to assess 
+common practice additionality, as follows: 
+ 
+VM0047, v1.1 
+73 
+ܼ= 
+Δܵܫ௪௣,௧− Δܵܫ௖௢௡௧௥௢௟,௧
+√ܵܧΔௌூ_௪௣,௧
+2
++ ܵܧΔௌூ_௖௢௡௧௥௢௟,௧
+2
+ 
+ 
+(A7) 
+Where: 
+Z 
+= Z value (unitless) 
+ΔSIcontrol,t 
+= Weighted average annual increase (slope) in stocking index SI in control plots 
+through time t 
+ΔSIwp,t 
+= Weighted average annual increase (slope) in stocking index SI in project plots 
+through time t 
+ܵܧΔௌூ_௪௣,௧
+2
+ 
+= Squared standard error of the average annual increase (slope) in stocking 
+index SI in project plots through time t 
+ܵܧΔௌூ_௖௢௡௧௥௢௟,௧
+2
+ 
+= Squared standard error of the average annual increase (slope) in stocking 
+index SI in control plots through time t 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Where the absolute value of Z is equal to or exceeds 1.96, parameters ΔSIcontrol,t and ΔSIwp,t are 
+deemed significantly different. 
+Projects that harvest as part of the project activity must reference the most recent version of the VCS 
+Standard and follow the requirement for applying a long-term average. 
+Step 6: Derive Performance Benchmark 
+The performance benchmark is calculated by either pathway (a) or (b) as follows: 
+a) Where parameters ΔSIcontrol,t and ΔSIwp,t are not significantly different (|Z| < 1.96, see 
+above), PBt is set equal to 1 and Equation (A8) is not applicable. 
+b) Where parameters ΔSIcontrol,t and ΔSIwp,t are significantly different (|Z| ≥ 1.96, see above), 
+calculate the performance benchmark according to Equation (A8).  
+ܲܤ௧= ∆ܵܫ௖௢௡௧௥௢௟,௧× 
+1
+Δܵܫ௪௣,௧
+ 
+(A8) 
+Where: 
+PBt 
+= Performance benchmark for the monitoring interval ending at year t 
+(dimensionless)  
+ΔSIcontrol,t 
+= Average annual increase in stocking index, SI, in control plots through year 
+t 
+ΔSIwp,t 
+= Average annual increase in stocking index, SI, in project plots through year 
+t 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Where the slope coefficient of the control plots (ΔSIcontrol,t) is insignificant (P > 0.05) or less 
+than zero, ΔSIcontrol,t is set equal to zero in Equation (A8). 
+ 
+VM0047, v1.1 
+74 
+ 
+A1.5 Data and Parameters Monitored 
+Data/Parameter 
+SIcontrol,t  
+SIwp,t 
+Data unit 
+unspecified 
+Description 
+Stocking index in scenario (control plot j or project plot i) at time t 
+Equations 
+(A5) (A6) 
+Source of data 
+SI is an unspecified remote sensing metric with demonstrated correlation 
+with terrestrial aboveground carbon stocks (e.g., normalized difference 
+fraction index18 from Landsat imagery, average canopy height derived 
+from LiDAR, or percentage canopy cover interpreted from aerial imagery).  
+Variability due to seasonality must be minimized (e.g., by setting a target 
+data collection period at the project start and collecting all monitoring 
+imagery from within that period). The target period should coincide with 
+minimal seasonal phenological variation and where passive remote 
+sensors are employed this should coincide with months of lowest cloud 
+cover. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Spatial scale/mapping unit: Divide the entire project area into equal-sized 
+polygons from 0.01 hectares (10 × 10 m) to 10 hectares in area. At least 
+75% of each polygon must be located within the project area boundary. 
+Project plots may be represented by individual pixels or aggregates of 
+pixels. 
+Frequency of 
+monitoring/recording 
+At least annually 
+QA/QC procedures to be 
+applied 
+The remote sensing metric applied must be: 
+1) significantly correlated with terrestrial carbon stocks, at least 
+with aboveground biomass, as previously demonstrated in 
+published or peer-reviewed studies; or  
+2) validated with direct measurements from the project region 
+(collected from within the project ecoregion; ecoregion defined 
+at the biome level following Olson et al. 2001). 
+Processing and analysis of remote sensing data must apply established 
+best practices, such as those found in:  
+ 
+18 Souza Jr, C. M., D. A. Roberts, and M. A. Cochrane. 2005. “Combining spectral and spatial information to map canopy 
+damage from selective logging and forest fires.” Remote Sensing of Environment 98 (2–3): 329–43. 
+https://doi.org/10.1016/j.rse.2005.07.013 
+ 
+VM0047, v1.1 
+75 
+Global Forest Observations Initiative. 2020. Integration of Remote-
+Sensing and Ground-based Observations for Estimation of Emissions 
+and Removals of Greenhouse Gases in Forests: Methods and 
+Guidance from the Global Forest Observations Initiative, edition 3.0. 
+U.N. Food and Agriculture Organization.19  
+Mitchell, A. L., A. Rosenqvist, and B. Mora. 2017. “Current remote 
+sensing approaches to monitoring forest degradation in support of 
+countries measurement, reporting and verification (MRV) systems for 
+REDD+.” Carbon Balance and Management 12: 9. 
+https://doi.org/10.1186/s13021-017-0078-9 
+In edition 3.0, GFOI endorses using biomass and biomass change maps 
+“as a source of auxiliary data for increasing the precision of estimates of 
+emissions, removals and/or emissions and removals factors based on 
+ground plot reference data” as well as indicating that “[i]n the absence of 
+ground data, global biomass maps can be used as sources of reference 
+data for estimating biomass.” (in Chapter 4.3.1.2). 
+Purpose of data 
+Selection of control plots and derivation of performance benchmark for 
+the area-based approach 
+Calculation method 
+Dependent on remote sensing metric used 
+Comments 
+SI may be derived using different remote sensing metrics for the selection 
+of control plots and for monitoring the performance benchmark. It is 
+expected that the same remote sensing technology may not be available 
+for both the historical analysis (selection of control plots) and monitoring 
+ex-post.  
+The same remote sensing metric must be used for monitoring SI ex-post 
+in both control plots and project sample plots. Where more accurate 
+remote sensing metrics become available over time, the remote sensing 
+metric used for monitoring SI ex-post may be changed when all the 
+following apply: 
+a) The new metric offers equivalent or better accuracy (in terms of 
+terrestrial carbon stocks). 
+b) The new metric can be harmonized with the previous metric, 
+applying procedures from peer-reviewed literature20 to ensure 
+data continuity and remove sources of misalignment (e.g., 
+geometric, radiometric, and/or spectral artifacts) introduced by 
+the new metric. 
+c) 
+The procedure to harmonize the new metric incorporates 
+temporally coincident observations of both (previous and new) 
+remote sensing metrics from the project and control plots from 
+ 
+19 Available at: https://www.fs.usda.gov/research/treesearch/61714 
+20 For example https://www.usgs.gov/landsat-missions 
+ 
+VM0047, v1.1 
+76 
+within an overlap interval of at least two years, or as prescribed 
+by the procedure. 
+The location of all stocking index project and control plots must be 
+included in the project description.  
+ 
+VM0047, v1.1 
+77 
+APPENDIX 2: TESTING THE SIGNIFICANCE 
+OF CARBON POOLS AND GHG SOURCES 
+This appendix outlines a stepwise procedure for determining the significance of decreases in optional 
+carbon pools and GHG emission sources (Es). All Es may be deemed de minimis and excluded from 
+quantification if their combined impact (in t CO2e) is less than 5% of the total amount of carbon removal 
+expected from the project, see Step 1, Equation (A9). Where the combined significance of optional pools 
+and emissions sources is greater than 5% proceed to Step 2 Equation (A10) to determine which 
+individual carbon pools and GHG emissions sources must be included.  
+Note: – Leakage is excluded from this calculation as it must be accounted for regardless of the amount 
+of quantified leakage emissions.  
+Step 1: Determine Combined Significance of Es  
+ܥܴܵ=
+∑ܧ௦
+ܥܴ 
+(A9) 
+ 
+1) Where CSR < 0.05 (i.e., less than 5%), all optional sources are deemed de minimis. 
+2) Where CSR ≥ 0.05, proceed to Step 2 to determine which decreases in carbon pools and GHG 
+emissions must be included.  
+Step 2: Determine Significance of Individual Es  
+For each Es, calculate its relative contributions (RCEs) to the total carbon pool decrease and GHG 
+emissions sources (Es): 
+ܴܥா௦= ܧ௦
+∑ܧ௦
+ 
+(A10) 
+Where: 
+RCEs 
+= Relative contribution of each source s to the sum of project and leakage 
+GHG emissions 
+Es 
+= GHG project emissions, and decreases in carbon pools (tCO2e) 
+s 
+= 1, 2, 3, …, S sources of project GHG emissions (excluding leakage) and 
+decreases in carbon pools 
+CSR 
+= Combined significance ratio 
+CR 
+= Total carbon dioxide removals expected from the project (tCO2e) 
+Es 
+= Project emissions and decreases in optional carbon pools (tCO2e) 
+s 
+= 1, 2, 3, …, S sources of project GHG emissions and decreases in carbon 
+pools 
+ 
+VM0047, v1.1 
+78 
+1) Order Es according to their ranks from largest source to smallest.  
+2) Add the sources starting from the largest. Stop when the cumulative total equals or exceeds 95%.  
+3) Include all the sources that add up to, or exceed, 95%. 
+4) Any remaining sources (those that make up the last 5%) may be excluded, but only if their 
+combined impact is also less than 5% of total CR. If not, keep adding sources until that condition is 
+met. 
+ 
+ 
+ 
+VM0047, v1.1 
+79 
+APPENDIX 3: UNCERTAINTY EQUATIONS 
+FOR CHANGING SAMPLING 
+APPROACHES 
+ 
+Section 8.5.1 shows how uncertainty deductions under the area-based approach are calculated when 
+projects use one inventory approach across the entire crediting period. This appendix provides the 
+stepwise approach for calculating the uncertainty deduction (UNCt) in the area-based approach when a 
+project proponent switches sampling approaches, for example where a project proponent uses 
+independent measurements (e.g., temporary plots) between t = 0 and an intermediate time t1, and then 
+switches to permanent plots (i.e., dependent measurements) from t1 to any future time t. 
+Step 1: Quantify the Standard Error for the First Inventory Period 
+For the interval between t = 0 and t1, using independent plots (uncorrelated errors): 
+ܵܧ∆஼,௧0 →௧1 = √ܵܧ௧=0
+2
++ ܵܧ௧1
+2   
+(A11) 
+Where: 
+ܵܧ∆஼,௧0 →௧1 
+= Standard error of mean carbon stock for the first inventory period (t CO2e) 
+ܵܧ௧=0 
+= Standard error of mean carbon stock estimate at time t = 0 (t CO2e) 
+ܵܧ௧1 
+= Standard error of mean carbon stock estimate at time t1 (t CO2e) 
+ 
+Step 2: Quantify the Standard Error for the Second Inventory Period 
+For the interval between t1 and t, using permanent plots (correlated errors): 
+ܵܧ∆஼,௧1 →௧= √ܵܧ௧1
+2 + ܵܧ௧
+2 −(2 × ߩ× ܵܧ௧1 × ܵܧ௧)  
+(A12) 
+Where: 
+ܵܧ∆஼,௧1 →௧ 
+= Standard error of mean carbon stock for the subsequent inventory period (t CO2e) 
+ܵܧ௧1 
+= Standard error of mean carbon stock estimate at time t1 (t CO2e) 
+ܵܧ௧ 
+= Standard error of the mean carbon stock estimate at time t (t CO2e) 
+ρ 
+= Correlation coefficient between measurements at t1 and ݐ 
+ 
+ 
+ 
+VM0047, v1.1 
+80 
+Step 3: Compute Total Standard Error Across the Full Period 
+Assuming independent estimates across the two inventory periods (i.e., the t0→t1 period and the t1→t 
+period are operationally distinct): 
+ܵܧ∆஼௧0 →௧= √ܵܧ∆஼,௧0 →௧1
+2
++ ܵܧ∆஼,௧1 →௧
+2
+  
+(A13) 
+∆ܥ௧0→௧= ܥ௧− ܥ௧0 
+(A14) 
+Step 4: Calculate the Total Carbon Stock Change Across the Full Period 
+Or, if desired, express additively: 
+∆ܥ௧0→௧= ∆ܥ௧0→௧1 + ∆ܥ௧1→௧ 
+(A15) 
+ 
+Step 5: Quantify the Final Uncertainty Deduction 
+ܷܰܥ௧= MIN (100%, MAX (0, (ܶ × ܵܧ∆ܥݐ0→ݐ
+∆ܥݐ0→ݐ
+ ) −0.10) × 100) 
+(A16) 
+ 
+ 
+ 
+ 
+VM0047, v1.1

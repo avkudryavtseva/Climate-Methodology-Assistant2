@@ -1,0 +1,51 @@
+7 ADDITIONALITY 
+Additionality must be demonstrated following the procedures provided in the most recent 
+version of AMS-III.BM, with Section 5.3.2, “Other activities,” paragraph 19 replaced by the 
+following:2 
+19.  Other activities that do not satisfy the conditions under paragraph 18 are considered 
+additional if they comply with one of the following: 
+a) For projects that classify as type 7 (introduction of e-bikes) with a market 
+penetration of e-bikes among bicycles in use in the city below or equal to 1.5%. The 
+market penetration is based on the number of annual bicycle trips undertaken in the 
+city or based on the stock of bicycles. 
+b) For projects that classify as type 7 (introduction of other two- or three-wheeled e-
+vehicles) with a market penetration of other two- or three-wheeled e-vehicles among 
+other two- or three-wheeled vehicles in use in the city below or equal to 1.5%. The 
+market penetration is based on the number of annual trips of other two- or three-
+wheeled vehicles undertaken in the city or based on the stock of other two- or three-
+wheeled vehicles. The market penetration must be assessed by comparing the 
+project e-vehicle type with comparable vehicles.3  
+c) For projects that classify as type 9 (introduction of e-bikes in business-oriented 
+activities) with a market penetration of e-bikes among bicycles for business-oriented 
+activities in use in the city below or equal to 1.5%. The market penetration is based 
+on the number of annual bicycle trips undertaken in the city or based on the stock of 
+bicycles for business-oriented activities. 
+d) For projects that classify as type 9 (introduction of other two- or three-wheeled e-
+vehicles) with a market penetration of other two- or three-wheeled e-vehicles among 
+other two- or three-wheeled vehicles for business-oriented activities in use in the city 
+below or equal to 1.5%. The market penetration is based on the number of annual 
+trips of other two- or three-wheeled e-vehicles undertaken in the city or based on the 
+stock of other two- or three-wheeled e-vehicles for business-oriented activities. 
+e) It is demonstrated, through the application of the most recent version of the CDM 
+TOOL21 Demonstration of additionality of small-scale project activities or Step 2 of 
+the VCS tool VT0008 Additionality Assessment,4 that at least one barrier would 
+prevent the implementation of the project activity.  
+ 
+2 Other options from AMS-III.BM. are not applicable. 
+3 For example, e-motorcycles must be compared to conventional motorcycles, excluding bicycles and three-wheeled vehicles. 
+4 The VCS tool VT0008 Additionality Assessment aims to align with ICVCM’s CCP requirements. If VT0008 is applied, all steps 
+2a) to 2d) of the tool must be applied. 
+ 
+VMR0013, v1.0 
+ 
+8 
+When assessing the investment barrier with TOOL21, the analysis must be 
+conducted from the perspective of the bike parking area or bicycle-sharing station 
+operator/investor. This includes assessing all relevant costs and revenues, such as: 
+• 
+Revenue from parking fees and other sources (e.g., advertising) 
+• 
+Costs for rent, maintenance, security, and personnel 
+• 
+Land-related expenses, including purchase price, opportunity cost, or fair 
+market value

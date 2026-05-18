@@ -1,0 +1,228 @@
+2 
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+ 
+2.1 
+Project Activities 
+The project activities eligible to apply this methodology include any that manipulate number and 
+type of domestic livestock grazing animals (e,g cattle, sheep, horses, goats, camels, llamas, 
+alpacas, guanacos, or buffalo) and/or grouping, timing and season of grazing (eg, continuous 
+unrestricted, planned rotational, bunched herd rotational or other means of restricting livestock 
+access to forage in order to allow vegetation response) in ways that sequester  soil carbon and/or 
+reduce methane emissions. Altering fire frequency and/or intensity, (eg, shifting from late season 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 5 
+to early season burning or changing prescribed burn schedules from one every other year to one 
+every five years) in ways that increase carbon inputs to soil, is also an included activity. Increased 
+fire may be used to shift plant species composition such that net carbon sequestration in soil 
+increases (eg, conducting a single burn to shift vegetation from shrubs to grasses), but the net 
+increase in SOC must compensate for any losses in woody biomass and increases in methane 
+(CH4) and nitrous oxide (N2O) emissions. Grassland restoration activities to improve livestock 
+forage density (eg seeding of legumes or perennial grasses) that do not involve mechanical 
+tillage of soil are allowed. 
+It is expected that such project activities will occur on grasslands that have historically 
+experienced SOC loss.  As these areas would continue to maintain low levels or further loss of 
+SOC in the absence of the project, it is therefore expected that other carbon pools, such as 
+aboveground carbon pools or biomass, will have relatively little change. The loss of SOC in the 
+baseline prior to the project start date may be caused by fires that occur frequently enough to 
+reduce SOC, or overgrazing that is expected to continue in the absence of the project. 
+Some grasslands (eg, savannas and open woodlands) may feature significant aboveground 
+woody plant biomass that exceeds five percent of the soil carbon pool. Some woody biomass, 
+largely in the form of shrubs or small trees, can reduce grass density and soil carbon. 
+Management fires to reduce this woody cover might therefore reduce carbon in the aboveground 
+woody biomass pool but compensate by increasing grass production and total carbon 
+sequestration in soil.[1] Such scenarios are allowable under this methodology. 
+2.2 
+Quantification Approach 
+Projects may rely on measured or modeled approaches (see Table 1 below):  
+Measured approach: Emission reductions are quantified following a period in which enhanced soil 
+sequestration and/or reduced methane emissions can be demonstrated. Such projects have a 
+reduced uncertainty compared to those following a modeled approach, but projects that include 
+soil sequestration activities may claim and verify emission reductions only after increases in soil 
+carbon can be detected (likely every five or more years, depending on the productivity of the site).  
+Modeled approach: Emission reductions are quantified using a validated model after 
+demonstrating management activities, which are known to sequester carbon and/or reduce 
+methane emissions, have been implemented. Reduced emissions from sequestration and 
+reduced methane emissions associated with these activities are then estimated by models with 
+acceptable precision which have been validated for the project and re-calibrated at regular 
+intervals thereafter (5-10 years, depending on the productivity of the site).  
+Modeled approaches have higher uncertainty due to the uncertainty in the parameters used to 
+calculate emissions and removals and the uncertainty in whether model calculations actually 
+describe changes in sequestration and reduced emissions. Consequently, verified modeled 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 6 
+emission reductions will likely be reduced due to uncertainty deductions. However, because 
+activities may be demonstrated annually, emission reductions may be verified annually, if desired.  
+This modeling approach requires the use of soil carbon models that have been published in peer-
+reviewed journal articles. Models must have been validated with independent data. Data used to 
+validate the model must have been published in a peer-reviewed journal article and independent 
+from data used to build the model. Soil carbon models describe how the density of soil organic 
+carbon (SOC) changes as a result of biogeochemical processes and soil characteristics (eg, soil 
+texture and type, pH, temperature, and moisture) and modifications in the capture of CO2 and 
+production of carbon-containing root and shoot biomass by plants. This aboveground and 
+belowground biomass may undergo one of several fates:  
+1)  Conversion back to CO2 by combustion during fire,  
+2)  Consumption and respiration by grazing animals,  
+3)  Decomposition and respiration by microbes in soil and/or in the guts of invertebrate 
+decomposers, or  
+4)  Remaining as SOC from decomposed plant material or grazing animal dung.  
+As would be expected for such a complicated process, such models usually require the input of 
+many parameters that need to be measured or obtained from the literature. When choosing which 
+approach to take, the project proponent must consider carefully its ability to obtain necessary 
+parameter measurements and to validate the chosen model for their project area. 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 7 
+Table 1: Summary of Measured vs Modeled Approaches 
+ 
+Table 1 summarizes the procedures for applying either the measured approach or the modeled 
+approach. While there are additional steps to using the modeled approach compared to the 
+measured approach, the project proponent may monitor activities and calculate emission 
+reductions more frequently (eg every 1-2 years as opposed to every 5-10 years) with the 
+measured approach. 
+2.3 
+Baseline and Project Emissions and Reductions 
+The project proponent must demonstrate baseline conditions for the 10 years prior to the project 
+start date, including:  
+1) land uses,  
+2) fire histories such as the number of times, sections or strata of the project area burned 
+and when these fires occurred, and  
+Frequency
+Frequency
+Demonstration of SOC impoverishing activities
+Demonstration of SOC impoverishing activities
+Measurements
+Build Model
+* Choose model
+* Measure/find parameters
+* Accuracy assessment of prediction
+* Predict initial SOC
+Every 5‐10 
+years
+Every 1‐2
+years
+Verified Carbon Unit Calculation at Verification
+Every 5‐10 
+years
+Every 1‐2
+years
+Model Re‐calibration
+Every 5‐10 
+years
+* Measure SOC
+* Assessment of prediction
+* Model adjustment
+* Methane
+* Uncertainty analysis
+* Claim VCU's
+* Measure/find parameters
+Modeled Approach
+* Calculate SOC from model
+* Measure grazing animal numbers
+* Calculate methane emissions
+* Uncertainty analysis
+* Initial SOC
+* Past grazing animal numbers
+* Forage quality
+* Past fire frequency
+* Conduct activities
+* Measure/find parameters
+* Monte Carlo analysis for uncertainty
+* Measure project  fire frequency
+Measured Approach
+* Uncertainty analysis
+* Methane
+*Claim VCU’s
+* Uncertainty analysis
+Measurements
+Project Scenario
+Baseline
+* Conduct activities
+* Measure SOC
+* Animal numbers during crediting period
+* Forage quality during crediting period
+* Uncertainty analysis and deduction 
+* Initial SOC
+* Past grazing animal numbers
+* Forage quality
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 8 
+3) grazing livestock animal numbers from detailed records such as surveys of livestock 
+owners, past aerial surveys or ground censuses of livestock animals. These data are 
+necessary to assess baseline methane emissions from enteric fermentation.  
+Baseline conditions may be determined from analysis of past satellite images, such as MODIS 
+Burned Area Product maps to assess fire histories or with other satellite imagery such as 
+Landsat, with demonstrated suitability from peer-reviewed scientific papers and/or from data from 
+the project area to detect vegetation types and trends. Interpretation of satellite images during the 
+project crediting period coupled with ground assessments of the occurrence of fire at multiple 
+sampling stations is needed for verification of fire-abatement activities. 
+For the project scenario, both the modeled and measured approaches require sampling of soils 
+and measurement of bulk density and SOC. If using the modeled approach, the soil sample depth 
+is determined by the model (eg, 20 – 100 cm). This sampling will occur at the start of the project 
+and be used to establish the baseline scenario. Likewise, for both approaches, ground censuses, 
+household surveys, and/or aerial surveys of grazing animal numbers broken out by species, sex, 
+and age are needed to determine baseline methane emissions and project reductions (or 
+increases).  
+The measured approach simply calculates the difference in SOC at each verification event since 
+the project start date or previous verification event. Note that sufficient time must pass between 
+verification events to detect changes in SOC (eg, five or more years, depending on productivity in 
+the project area). The initial and subsequent measurements of SOC occur at each of many 
+permanent sampling stations located in different subareas (strata) within the project area that 
+differ strongly in current or past vegetation, soil types or management activities. The sum of the 
+differences in SOC, called ∆SOC, at each sampling station across the project area reflects net 
+GHG emission reductions and removals from the soil carbon pool.  
+If a modeled approach is used, measurements of parameters, or information used to obtain 
+parameter values, must be available to be input into a peer-reviewed, published, and accuracy-
+tested (at least once) model of soil carbon dynamics (eg, SNAP[2] CENTURY[3, 4]], EPIC[4], or the 
+Hurley Pasture[5] models). The model must include parameters impacted by project activities (eg, 
+grazing intensity and fire frequency) as well as critical factors affecting carbon inputs and outputs 
+to soil (eg, soil texture, climate, and plant characteristics that affect decomposition). The specific 
+factors needed will depend on the model used, as some models, such as CENTURY, require 
+more than 20 factors, while others, like SNAP, require only five factors. To ensure that a model 
+predicts changes in emissions or removals accurately and precisely enough to achieve a 
+sufficiently low uncertainty in estimated changes in carbon stocks from project activities, the 
+chosen model must be tested to demonstrate it is appropriate for use in the project area. Such a 
+test uses site condition and management history data to predict carbon stocks that reflect the 
+consequence of past management actions and conditions, such as rainfall, plant species 
+composition, grazing intensity and fire history. This predicted carbon stock is compared to 
+current, measured carbon stocks and the accuracy and precision of the predictions must be 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 9 
+demonstrated within subareas (strata) of the project area that differ strongly in past conditions or 
+in management activities. The details of the model test are presented in section 8.1.3.3.   
+Following the model test, soil carbon dynamics are modeled for the project area to estimate the 
+maximum SOC that would likely have occurred for the 10 years prior to the project start date, as 
+the baseline SOC. The same model is then used to calculate an expected future equilibrium SOC 
+under proposed project activities, the time in years to reach this equilibrium, and the average 
+annual increment in SOC sequestration expected under the proposed project activities. The 
+statistics of variation needed to calculate uncertainties for each parameter in the model are also 
+required in order to determine an overall uncertainty in the model calculations of SOC through a 
+Monte Carlo simulation analysis. Uncertainty in the difference between maximum SOC in the past 
+10 years and an expected future equilibrium SOC will be used to determine any potential 
+uncertainty deduction (section 8.4.4). 
+2.4 
+Leakage 
+Emissions from leakage primarily occur from the displacement of current activities inside the 
+project area to areas outside the project area. For this proposed methodology, leakage would 
+occur primarily by displacement of livestock to other grazing lands in which grazing would result 
+in loss of soil carbon and/or increased methane emissions. Such displacement is limited by the 
+applicability conditions for the methodology, but where displacement does occur leakage 
+emissions must be quantified according to the procedures within the methodology.

@@ -1,0 +1,66 @@
+53 
+DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+3 Dec 2010 
+Initial version  
+v1.1 
+7 Sep 2011 
+The REDD Methodology Framework was updated to limit the reassessment of the 
+unplanned baseline scenario to every 10 years. The methodology was also 
+incremented to reflect a revision to the module for estimation of baseline carbon 
+stock changes and greenhouse gas emission from unplanned deforestation (BL-UP), 
+v2.0, which was approved under the VCS Program on 7 September 2011. 
+v1.2 
+31 Jul 2012 
+Table 2 was removed to avoid confusion with Table 1. Table 1 is now the exclusive 
+source in the methodology for determining included/excluded pools. 
+v1.3 
+20 Nov 2012 
+The REDD Methodology Framework was updated to include avoided planned 
+degradation as an allowable activity: 
+Removed the applicability condition “where post-deforestation land use constitutes 
+reforestation this module must not be used” 
+Renamed “planned deforestation” to “planned deforestation and planned 
+degradation” 
+Added the text “hereafter in this module, “deforestation” refers to both 
+deforestation and planned degradation” 
+A correction made to Equation 8 to appropriately calculate the total VCUs available 
+for issuance. 
+v1.4 
+3 May 2013 
+Applicability condition for unplanned deforestation “where post-deforestation land 
+use constitutes reforestation this module must not be used” was removed. 
+Equations 4, 5 and 6 were revised to appropriately account for the buffer. 
+v1.5 
+9 Mar 2015 
+Updated to include REDD+ project activities on peatlands, as well as activities that 
+include ARR. 
+Methodology now includes six new modules: VMD0041 BL-ARR, VMD0042 BL-PEAT, 
+VMD0043 LK-ARR, VMD0044 LK-ECO, VMD0045 M-ARR, and VMD0046 M-PEAT. 
+v1.6 
+8 Sep 2020 
+Updated to include CIW and RWE project activities on tidal wetlands.  
+Methodology now includes three new modules: VMD0050 BL-TW, VMD0051 M-TW 
+and VMD0052 ADD-AM. 
+v1.7 
+27 Nov 2023 
+Excluded forest degradation and carbon stock enhancement in secondary forests 
+that would have converted under the baseline as an eligible activity. 
+Updated:  
+• References for the duration of baseline validity and historical reference periods 
+to the VCS Standard and VCS Methodology Requirements, respectively 
+• The estimation of uncertainty to be consistent with the VCS Methodology 
+Requirements, v4.4 
+• Document references 
+Made minor editorial corrections. 
+v1.8 
+X May 2024 
+Excluded ARR as an eligible project activity. Updated references to modules 
+VMD0041 BL-ARR, VMD0043 LK-ARR, and VMD0045 M-ARR throughout the 
+methodology. 
+ 
+VM0007, v1.8 
+54

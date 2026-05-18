@@ -1,0 +1,74 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to tidal wetland restoration project activities (tidal wetland restoration 
+as defined in Section 3 above) under the following applicability conditions: 
+1) Project activities which restore tidal wetlands (including seagrass meadows, per this 
+methodology’s definition of tidal wetland) are eligible. 
+2) Project activities may include any of the following, or combinations of the following: 
+a) Creating, restoring and/or managing hydrological conditions (e.g., removing tidal 
+barriers, improving hydrological connectivity, restoring tidal flow to wetlands or 
+lowering water levels on impounded wetlands) 
+b) Altering sediment supply (e.g., beneficial use of dredge material or diverting river 
+sediments to sediment-starved areas)  
+c) Changing salinity characteristics (e.g., restoring tidal flow to tidally restricted 
+areas) 
+d) Improving water quality (e.g., reducing nutrient loads leading to improved water 
+clarity to expand seagrass meadows, recovering tidal and other hydrologic 
+flushing and exchange, or reducing nutrient residence time) 
+e) (Re-)introducing native plant communities (e.g., reseeding or replanting) 
+f) 
+Improving management practice(s) (e.g., removing invasive species, reduced 
+grazing) 
+3) Prior to the project start date, the project area: 
+a) Is free of any land use that could be displaced outside the project area, as 
+demonstrated by at least one of the following, where relevant:  
+ 
+VM0033, v2.1 
+11 
+i) The project area has been abandoned for two or more years prior to the 
+project start date; or  
+ii) Use of the project area for commercial purposes (i.e., trade) is not profitable 
+as a result of salinity intrusion, market forces or other factors. In addition, 
+timber harvesting in the baseline scenario within the project area does not 
+occur; or  
+iii) Degradation of additional wetlands for new agricultural sites within the 
+country will not occur or is prohibited by enforced law. 
+OR 
+b) Is under a land use that could be displaced outside the project area), although in 
+such case baseline emissions from this land use must not be accounted for, and 
+where degradation of additional wetlands for new agricultural/aquacultural sites 
+within the country will not occur or is prohibited by enforced law.  
+OR 
+c) Is under a land use that will continue at a similar level of service or production 
+during the project crediting period (e.g., reed or hay harvesting, collection of 
+fuelwood, subsistence harvesting). 
+The project proponent must demonstrate (a), (b) or (c) above based on verifiable 
+information such as laws and bylaws, management plans, annual reports, annual 
+accounts, market studies, government studies or land use planning reports and 
+documents. 
+4) Live tree vegetation may be present in the project area and may be subject to carbon 
+stock changes (e.g., due to harvesting) in both the baseline and project scenarios. 
+5) The prescribed burning of herbaceous and shrub aboveground biomass (cover burns) 
+as a project activity may occur. 
+6) Where the project proponent intends to claim emission reductions from reduced 
+frequency of peat fires, project activities must include a combination of rewetting and 
+fire management. 
+7) Where the project proponent intends to claim emission reductions from reduced 
+frequency of peat fires, it must be demonstrated that a threat of frequent on-site fires 
+exists, and the overwhelming cause of ignition of the organic soil is anthropogenic (e.g., 
+drainage of the peat, arson).  
+8) In strata with organic soil, afforestation, reforestation, and revegetation (ARR) activities 
+must be combined with rewetting. 
+ 
+This methodology is not applicable under the following conditions: 
+ 
+VM0033, v2.1 
+12 
+1) Project activities qualify as IFM or REDD. 
+2) Baseline activities include commercial forestry. 
+3) Project activities lower the water table, unless the project converts open water to tidal 
+wetlands, or improves the hydrological connection to impounded waters. 
+4) Hydrological connectivity of the project area with adjacent areas leads to a significant 
+increase in GHG emissions outside the project area. 
+5) Project activities include the burning of organic soil. 
+6) Nitrogen fertilizer(s), such as chemical fertilizer or manure, are applied in the project 
+area during the project crediting period.

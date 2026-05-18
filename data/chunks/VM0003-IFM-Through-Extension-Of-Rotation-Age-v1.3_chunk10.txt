@@ -1,0 +1,66 @@
+10 REFERENCES 
+Brown, S. (1997). Estimating biomass and biomass change of tropical forests: A primer. FAO 
+Forestry Paper 134. Available at: http://www.fao.org/docrep/W4095E/W4095E00.htm  
+ 
+32 Typically, citations for sources of data used should include: the report or paper title, publisher, page numbers, 
+publication date, etc. (or a detailed web address). Where web-based reports are cited, hard copies must be included as 
+annexes in the project description if there is any likelihood such reports may not be permanently available. 
+ 
+VM0003, v1.3  
+ 
+57 
+ 
+Cairns, M. A., Brown, S., Helmer, E. H., & Baumgardner, G. A. (1997). Root biomass allocation in 
+the world’s upland forests. Oecologia, 111, 1–11. https://doi.org/10.1007/s004420050201 
+Chambers, R. (1992). Rural appraisal: Rapid, relaxed, and participatory. Discussion Paper 311, 
+Institute of Development Studies. Available at: 
+https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/774 
+Harmon, M. E., & Sexton, J. (1996). Guidelines for measurements of woody detritus in forest 
+ecosystems. US LTER Publication No. 20. US LTER Network Office, University of Washington. 
+IPCC (2003). Good practice guidance for land use, land use change and forestry – Section 4.3. 
+Available at: http://www.ipcc-
+nggip.iges.or.jp/public/gpglulucf/gpglulucf_files/Chp4/Chp4_3_Projects.pdf 
+Lowe, R., & Cieszewski, C. (2005). Comparison of Programs Used for FIA Inventory Information 
+Dissemination and Spatial Representation, p.216-221 in 2003 Proceedings of the Fifth Annual 
+Forest Inventory and Analysis Symposium. General Technical Report GTR-WO-69. U.S. 
+Department of Agriculture Forest Service, New Orleans, LA. 
+https://www.nrs.fs.usda.gov/pubs/gtr/gtr_wo069/gtr_wo069_215.pdf   
+Pearson, T., Walker, S., & Brown, S. (2005). Sourcebook for land use, land-use change and 
+forestry projects. Winrock International and the World Bank Biocarbon Fund. Available at: 
+https://openknowledge.worldbank.org/handle/10986/16491 
+Smith, J., Heath, L., Skog, K., & Birdsey, R., 2006. Methods for calculating forest ecosystem and 
+harvested carbon with standard estimates for forest types of the United States. General 
+Technical Report GTR-NE-343. U.S. Department of Agriculture, Forest Service, Northeastern 
+Research Station, Newtown Square, PA. 219 pp. https://doi.org/10.2737/NE-GTR-343   
+Theis, J, & Grady, H. (1991). Participatory rapid appraisal for community development. Save the 
+Children Fund. 
+UNFCCC (2008). Executive Board of the Clean Development Mechanism 42nd meeting report. 
+Available at: http://cdm.unfccc.int/EB/042/eb42rep.pdf 
+UNFCCC (2008). Executive Board of the Clean Development Mechanism 44th meeting report. 
+Available at: http://cdm.unfccc.int/EB/044/eb44rep.pdf 
+UNFCCC CDM (2007). Tool for testing significance of GHG emissions in A/R CDM project 
+activities. Available at: http://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-
+tool-04-v1.pdf 
+UNFCCC CDM (2008). Tool for the demonstration and assessment of additionality. Available at: 
+http://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-01-v5.2.pdf 
+ 
+VM0003, v1.3  
+ 
+58 
+ 
+UNFCCC CDM (2009). Tool for calculation of the number of sample plots for measurements 
+within A/R CDM project activities. Available at: 
+http://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-03-v2.pdf 
+Van Wagner, C. E. (1968). The line intersect method in forest fuel sampling. Forest Science, 
+14(1), 20–26.  
+Waddell, K. L. (2002). Sampling coarse woody debris for multiple attributes in extensive 
+resource inventories. Ecological Indicators, 1(3), 139–153. https://doi.org/10.1016/S1470-
+160X(01)00012-7 
+Warren, W. G., & Olsen, P. F. (1964). A line intersect technique for assessing logging waste. 
+Forest Science, 10(3), 267–276.  
+Winjum, J. K., Brown, S., & Schlamadinger, B. (1998). Forest harvests and wood products: 
+Sources and sinks of atmospheric carbon dioxide. Forest Science, 44(2), 272–284.  
+ 
+ 
+ 
+VM0003, v1.3

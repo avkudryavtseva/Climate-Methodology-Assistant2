@@ -1,0 +1,76 @@
+92 
+ 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+11 Feb 2011 
+Initial version released. 
+v1.1 
+10 Nov 2011 
+Updates: 
+• 
+In Equation (7) parameter CEX,i,k|BSL was clarified to be the mean carbon 
+stock of extracted timber per unit area in stratum I, for wood product type k. 
+• 
+Section 4.1.2, was clarified that only individual trees, species and strata 
+which were to be harvested in the baseline scenario may be modeled for on-
+going forest growth in the project scenario. 
+• 
+Equation 21 was modified to clarify that net greenhouse gas emissions in 
+the project scenario are a result of the sum of emission from disturbance 
+minus the annual carbon stock change in the aboveground biomass of trees 
+due to forest growth. 
+• 
+Parameter BECFR was clarified to have the unit t.d.m m-3. 
+v1.2 
+27 Mar 2013 
+The methodology was updated to comply with Section 4.5.3 of the VCS AFOLU 
+Requirements, v3.2, which requires methodologies to set out criteria and 
+procedures to reliably establish the pattern of carbon loss in the baseline 
+scenario. Specifically, the methodology has been updated to account for a 10-
+year linear decay of the dead wood pool, an immediate release of the wood 
+waste and short-term wood product pools and a 20-year linear decay of the 
+medium-term wood product pool.   
+v1.3 
+28 Apr 2016 
+Inclusion of emissions from: 
+• 
+Cleared biomass as a result of forestry infrastructure such as forestry roads, 
+skidtrails and log landings 
+• 
+Residual stand damage 
+• 
+Fossil fuel combustion in forestry and wood processing machinery  
+v1.4 
+24 Oct 2024 
+Minor revisions, including the following changes: 
+• 
+Separation of GHG emission reduction and carbon dioxide removals 
+under section 8 of quantification of GHG Emission Reductions and 
+Carbon removals 
+• 
+Restriction of ongoing forest growth accounting to individual trees, 
+species, strata and tree stands to be harvested under the baseline 
+scenario 
+• 
+Modified applicability condition to exclude planted forests 
+• 
+Modified applicability condition to restrict baseline scenario activity to 
+selective logging 
+• 
+Correction of requirement for accounting for carbon stock increase 
+associated with forest growth 
+  
+ 
+VM0010, v1.4 
+93 
+• 
+Corrections to equations 12, 14, 16, 19, 23, 24, 25, 26, 32 and 34. 
+Equation 40 for total leakage now removed, and new equations 40, 41, 
+43, and 44 added for quantification of GHG Emission Reductions and 
+Carbon removals, and associated VCUs. 
+• 
+Title changed to “Improved Forest Management: Conversion from 
+Logged to Protected Forest”

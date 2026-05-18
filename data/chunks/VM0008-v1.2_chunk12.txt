@@ -1,0 +1,23 @@
+55 
+DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+7 Dec 2010 
+Initial version  
+v1.1 
+10 Oct 2012 
+Revised to conform with VCS requirements for standardized methods.  
+v1.2 
+4 June 2025 
+• 
+Adoption of the most recent VCS methodology template 
+• 
+Inclusion of HP and HPWH as appliances in Category C and fuel 
+switching in Category A/B approach 2, and Category C and D  
+• 
+Inclusion of leakage emissions from HCFC leaks from appliances 
+• 
+Adoption of VCS tools VT0008 Additionality Assessment and VT0011 
+Electricity System Emission Factors to replace the CDM tools

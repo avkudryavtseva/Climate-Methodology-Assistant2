@@ -1,0 +1,7 @@
+5 PROJECT BOUNDARY  
+The project boundary must be determined following the procedure provided in the latest version 
+of AM0057. 
+ 
+ 
+VMR0009, v1.0 
+6

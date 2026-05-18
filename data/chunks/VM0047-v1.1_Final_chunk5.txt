@@ -1,0 +1,175 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to ARR activities that establish, increase, or restore vegetative cover. 
+Eligible project activities may involve direct planting, seeding, or assisted natural regeneration 
+techniques, provided they lead to a measurable increase in vegetative cover. The applicability 
+conditions for the area-based and census-based approaches are mutually exclusive. Each project 
+activity instance must fully meet the applicability conditions of either the area-based approach or 
+the census-based approach. A project may incorporate multiple instances that apply different 
+approaches, provided that those instances are clearly separated by a minimum 10-meter buffer 
+within the project boundary.  
+4.1 
+General Applicability Conditions  
+The following applicability conditions must be met by all projects using this methodology (area-
+based, census-based, or a combination of both approaches):  
+1) Project activities increase vegetative cover.  
+2) Where area-based and census-based approaches are used together, they are applied in 
+non-overlapping areas defined at the project start (see Section 5 on the delineation of 
+spatial boundaries to ensure non-overlap). 
+3) For lands enrolled in a project, the quantification approach is selected at the project start 
+date and used for the entire project crediting period.  
+4) The project start date is documented as the earliest of the following: 
+a) The date on which site preparation activities began; 
+b) The land use change date 
+5) Where projects take place on organic soils or wetlands, ARR activities are developed 
+using a multiple project activity design, applying this methodology to account for 
+aboveground biomass and using a Wetland Restoration and Conservation methodology 
+(e.g., VM0036 Methodology for Rewetting Drained Temperate Peatlands) to account for 
+other carbon pools. 
+ 
+ 
+ 
+VM0047, v1.1 
+9 
+4.2 
+Area-based Approach Applicability Conditions  
+The following applicability conditions must be met by all projects using the area-based approach: 
+1) Project activities involve direct planting activities (e.g., manual planting, broadcast 
+seeding), indirect activities associated with assisted natural regeneration (e.g., liana 
+cutting, weed management, or barriers that prevent animal grazing), or a combination of 
+direct and indirect activities.  
+2) Project proponents establish a t = 0 carbon stock estimate for all significant carbon 
+pools. The method for establishing t = 0 estimates depends on the activity that initiates 
+the project start date.2 
+a) Where the project start date is initiated by site preparation (e.g., clearing invasive 
+species), the following conditions must be met: 
+i) 
+Before site preparation, project proponents establish t = 0 carbon stock 
+estimates for all significant carbon pools3. 
+ii) To ensure accuracy, t = 0 estimates are established no more than two years 
+before the start date (e.g., if the start date is 2025, plots must have been 
+established no earlier than 2023). 
+iii) Where plot-based measurements are not established before site preparation, 
+a remote sensing-based estimate found in Section 8.2.1.2 may be used, but 
+only for pre-existing woody biomass.  
+Note – Remote sensing estimates are only eligible to use for estimates of pre-existing 
+aboveground and belowground biomass and must not be used to establish a t = 0 estimate for 
+any other carbon pool (e.g., SOC, dead wood). Where any other significant carbon pool is 
+impacted during site preparation (e.g., SOC impacted due to plowing at depth greater than 25 
+cm, or the removal of dead wood offsite) and a t = 0 measurement was not established, the 
+project is ineligible. 
+b) Where the project start date is defined by a land use change date or where the 
+project start did not include site preparation that caused a significant decrease in 
+carbon stocks in monitored carbon pools (e.g., pit planting without clearing existing 
+vegetation) the following conditions must be met: 
+i) 
+The project proponent establishes t = 0 estimates within two years after the 
+project start date (e.g., if the start date is 2025, plots must be established by 
+2027). 
+ 
+2 Establishment of project plots does not constitute the project start date. 
+3 This includes allowing the removal of dead wood offsite as long as a t=0 measurement is established and the removal is 
+accounted for as an immediate project emission.  
+ 
+VM0047, v1.1 
+10 
+ii) Plot-based sampling occurs for all significant carbon pools.  
+iii) Evidence is provided to demonstrate that site preparation did not involve 
+clearing, burning, or mechanical disturbance of existing vegetation that would 
+significantly reduce monitored carbon pools. Evidence may include, but is not 
+limited to, georeferenced photos, field survey data, satellite imagery, and 
+signed attestations from landowners. 
+3) Leakage must be monitored and quantified using VMD0054. It must not be assumed to 
+be de minimis.  
+4.3 
+Census-based Approach Applicability Conditions 
+The following applicability conditions must be met by all projects using the census-based 
+approach: 
+1) The project activity only includes direct planting. 
+2) The pre-project land use is maintained throughout the project lifetime (e.g., where 
+projects occur on agricultural land, agricultural production continues). 
+3) Planting density does not exceed 50 planting units per hectare. The planting density limit 
+applies proportionally to the size of each instance:  
+a) Where an instance is less than one hectare or includes part of a hectare (e.g., 0.50 
+ha or 1.50 ha, respectively), the planting density is scaled proportionally to the size 
+of the instance. For example, an instance of 0.50 hectares may include no more 
+than 25 planting units.  
+b) In instances larger than one hectare, planting is dispersed to maintain compliance 
+with the 50 planting units per hectare limit across the entire instance (e.g., in a 10-
+hectare instance, up to 500 planting units may be planted, but must not be 
+concentrated in a single hectare or portion of the instance).  
+4) The establishment of a complete census of all planting units marks the start of the 
+project and is t = 0. The census is conducted to establish N, the total number of planting 
+units. Only planting units planted by the project proponent are included in the census. 
+Existing vegetation is not included in the census and does not count toward the 50 
+planting units per hectare density threshold. 
+5) Where planting units have died, plantings may be replanted provided N does not exceed 
+50 live planting units per hectare established by the project activity.  
+6) Individual planting units of woody biomass are clearly defined (e.g., tree, shrub, bamboo 
+clump) and identifiable in the field. One of the following identification approaches must 
+be used:  
+ 
+VM0047, v1.1 
+11 
+a) GPS points: Project proponents must ensure that the spacing between individual 
+planting units is greater than or equal to the positional accuracy of the Global 
+Positioning System (GPS) units used for geolocating each planting unit. For example, 
+if the positional accuracy of the GPS is five meters, the minimum spacing between 
+planting units must be greater than or equal to five meters. 
+b) Physical markers: Each planting unit must be marked with a durable, in-field 
+physical identifier bearing a unique ID. These markers must be clearly visible and 
+easily located during verification activities. 
+7) Where a planting unit cannot be located during a monitoring event, it is conservatively 
+assumed that the planting unit has died.  
+8) The project activity occurs:  
+a) within an area with less than 10% pre-existing woody biomass cover; and/or 
+b) in an area subject to continuous cropping,4 or in “settlements” or “other lands” land 
+use categories.5  
+9) Soil disturbance from project activities6 (e.g., site preparation) meets the following 
+conditions: 
+a) Soil disturbance is permitted only at the time of planting. Where replanting or 
+additional waves of planting occur, soil disturbance is permitted under the same 
+conditions. 
+b) Planting techniques that cause localized soil disturbance, such as pit planting, may 
+exceed a depth of 25 cm. 
+c) Where planting involves soil inversion (e.g., plowing), the depth must not exceed 25 
+cm (such as that caused by a moldboard plow) and may only occur once during the 
+project crediting period.7  
+ 
+ 
+4 Cultivation of an agricultural crop on the same site year after year, without any periods of fallow exceeding one season, 
+demonstrated over 10 or more years prior to the project start date. 
+5 Land use category as defined by the IPCC Guidelines for National Greenhouse Gas Inventories Volume 4, Chapter 3. 
+6 In accordance with Section 4.3(2) above, the pre-project land use must be maintained throughout the project lifetime. 
+Plowing and other soil disturbance may continue as part of ongoing land use activities (e.g., agricultural production) where 
+they are not associated with the project activity. Only soil disturbance directly related to ARR activities is subject to the 
+restrictions outlined in Section 4.3(9). 
+7 Where a census-based project occurs on lands used for agriculture or other purposes where soil inversion is required, soil 
+inversion for purposes other than planting trees may continue and would not be considered part of the project activity.  
+ 
+VM0047, v1.1 
+12 
+4.4 
+Exclusion Conditions 
+The conditions specified below highlight eligibility conditions where clarification is often needed. 
+These exclusion conditions are not exhaustive. Project proponents are responsible for ensuring 
+full compliance with all VCS Program rules and requirements in addition to respecting the 
+exclusion conditions. For example, where projects take place on land that was degraded within 
+10 years of the project start date, exclusion conditions are specified in Section 3.19 of the VCS 
+Standard, v4.7.8 
+4.4.1 Area-based Approach Exclusions 
+This methodology is not applicable for projects using the area-based approach under the 
+following conditions: 
+1) The project occurs on lands that have met the definition of managed forest at any point 
+in the 10-year period immediately preceding the project start date.  
+2) Clearing of pre-existing woody biomass involves timber harvesting or results in 
+degradation of native ecosystems.   
+3) The project is planting fewer than 50 planting units per hectare and could use the 
+census-based approach. 
+4.4.2 Census-based Approach Exclusions 
+This methodology is not applicable for projects using the census-based approach under the 
+following conditions: 
+1) Woody biomass, which serves a similar purpose as the planting units in the project, has 
+been removed within the last 10 years (confirmed via pre-project photos and/or 
+attestation). 
+2) Soil disturbance from the project activity involves soil inversion to a depth exceeding 25 
+cm (e.g., that would result from a moldboard plow).

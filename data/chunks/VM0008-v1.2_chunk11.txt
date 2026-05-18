@@ -1,0 +1,1551 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+ 
+Monitoring parameters for the performance benchmark for Category A and B 
+Parameter Unit 
+Parameter description 
+Source 
+Frequency 
+a 
+Percent 
+Average performance, 
+defined as the annual 
+average percent savings in 
+weather normalized energy 
+consumption in dwellings 
+within the same building 
+stock 
+Calculated from regional or national 
+statistics for at least the three most 
+recent 12 month periods for which data 
+are available from dwellings within the 
+same building stock. A sample of the 
+dwellings may be used. Percent savings 
+are calculated by comparing year 1 to 
+year 2 and year 2 to year 3.31  
+Once per 
+project 
+crediting 
+period 
+σ 
+- 
+Standard deviation of the 
+annual percent savings  
+Calculated from regional or national 
+statistics used to calculate the average 
+performance. 
+Once per 
+project 
+crediting 
+period 
+ 
+ 
+ 
+Monitoring parameters for the performance benchmark for Category C 
+Parameter Unit 
+Parameter Description 
+Source 
+Frequency 
+a 
+kWh/appliance 
+Average performance, 
+defined as the annual 
+average energy 
+Calculated from regional or 
+national statistics for at least 
+the recent 12 month period for 
+Once per 
+project 
+ 
+31 Year 1, year 2 and year 3 may be non-consecutive. For example: Year 1 data may cover 2019, year 2 data may cover 2021, 
+and year 3 may cover 2024. 
+ 
+VM0008, v1.2 
+38 
+or 
+Btu/appliance 
+consumption by existing 
+appliances, of the same 
+appliance type 
+which data are available. A 
+sample of the dwellings may be 
+used.  
+crediting 
+period 
+σ 
+- 
+Standard deviation of the 
+annual energy consumption 
+of existing appliances 
+Calculated from regional or 
+national statistics used to 
+calculate the average 
+performance.  
+Once per 
+project 
+crediting 
+period 
+ 
+ 
+Monitoring parameters for the adjusted consumption approach, pre- and post-retrofit audit 
+approach, control group approach, and mobile homes approach 
+Parameter Unit 
+Parameter 
+Description 
+Source 
+Frequency 
+ElecCO2 
+t CO2e/kWh 
+Grid emission 
+factor for the 
+regional electricity 
+source 
+Obtained from a recognized 
+authority; or calculated by the 
+project proponent based on raw 
+data obtained from a local, or 
+national electric utility. 
+This parameter may be 
+available at validation or 
+may change throughout 
+the project crediting 
+period. 
+Calj 
+GJ/mass or 
+GJ/volume 
+Calorific value of 
+fuel type j 
+Local, regional or national data. 
+Where unavailable, IPCC default 
+values must be used. 
+Once per project 
+crediting period 
+FCO2j 
+t CO2e/GJ 
+CO2e emission 
+factor for fuel type 
+j 
+(baseline fuel) 
+Local, regional or national data. 
+Where unavailable, IPCC default 
+emission factors must be used. 
+Once per project 
+crediting period  
+ 
+ 
+ 
+Monitoring parameters for replacement of Appliances 
+Parameter Unit 
+Parameter 
+Description 
+Source 
+Frequency 
+ElecCO2 
+t 
+CO2e/kWh 
+Grid emission 
+factor for the 
+regional electricity 
+source 
+Obtained from a recognized 
+authority; or calculated by the 
+project based on raw data 
+obtained from a local, or national 
+electric utility. 
+This parameter could be 
+available at validation or 
+it could change 
+throughout the project 
+crediting period 
+EFf, CO2 
+t 
+CO2e/Btu 
+Emission factor for 
+energy source f 
+Obtained from a recognized 
+authority; or calculated by the 
+project based on raw data 
+Once per project 
+crediting period  
+ 
+VM0008, v1.2 
+39 
+obtained from a local or national 
+utility/credible source. 
+9.2 
+Data and Parameters Monitored 
+Monitoring parameters for the performance benchmark for Category A and B 
+Data/ 
+Parameter 
+Data unit Description  
+Source of 
+data 
+Frequency of 
+monitoring 
+ELpre,i 
+Btu/m2 
+Pre-retrofit energy load of dwelling i 
+Energy audit 
+Once 
+ELpost,i 
+Btu/m2 
+Post-retrofit energy load of dwelling 
+i 
+Energy audit 
+Once 
+ 
+Monitoring parameters for the performance benchmark for Category C 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency 
+of 
+monitoring 
+arc, k 
+kWh/appliance or Btu/appliance 
+or credible efficiency 
+metric/appliance (e.g., AFEU, 
+SEER, CEER, ERR COP for HP, 
+UEF for HPWH) 
+Annual energy 
+consumption of the 
+replacement 
+appliance, type k 
+Nameplate, or 
+manufacturer’s 
+specification sheet; 
+Once 
+ 
+Monitoring parameters for the adjusted consumption approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Elecb,i 
+kWh/yr 
+Electricity consumed in 
+the year prior to project 
+implementation in 
+dwelling i 
+(baseline consumption) 
+Electricity bills for 12 months pre-
+retrofit. Bills for a sample of the 
+dwellings in the same building 
+stock must be monitored, or bills 
+may be collected for all dwellings 
+in the project. 
+Once 
+Elecp,y,i 
+kWh/yr 
+Electricity consumed by 
+the project in year y for 
+dwelling i 
+Post-retrofit electricity bills  
+Collected 
+monthly, 
+recorded 
+annually 
+Fb,i,j 
+Mass or 
+volume per 
+Fuel type j consumed in 
+the year prior to project 
+Pre-retrofit fuel bills covering a 
+twelve month period. Bills for a 
+Once 
+ 
+VM0008, v1.2 
+40 
+Monitoring parameters for the adjusted consumption approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+dwelling 
+per year 
+implementation for 
+dwelling i 
+(baseline consumption) 
+sample of the dwellings in the 
+same building stock must be 
+monitored, or bills may be 
+collected for all dwellings in the 
+project. 
+Fp,y,i,j 
+Mass or 
+volume per 
+dwelling 
+per year 
+Fuel type j consumed by 
+the project in year y for 
+dwelling i 
+Post- retrofit fuel bills covering a 
+twelve month period32,33 
+Annually 
+ECFy 
+- 
+Electricity correction 
+factor for year y 
+The ECF is only to be 
+applied in the equation 
+if it is negative.  
+Calculated by the project based on 
+national energy statistics. 
+Applied 
+annually  
+CDDy 
+Degree 
+days 
+Cooling degree days for 
+year y 
+Regional statistics 
+Annually 
+CDDb 
+Degree 
+days 
+Cooling degree days in 
+the year prior to project 
+implementation 
+Regional statistics 
+Once 
+HDDy 
+Degree 
+days 
+Heating degree days for 
+year y 
+Regional statistics 
+Annually 
+HDDb 
+Degree 
+days 
+Heating degree days in 
+the year prior to project 
+implementation 
+Regional statistics 
+Once 
+J 
+- 
+Number of fuel types 
+Project proponent database 
+Annually 
+I 
+- 
+Number of retrofitted 
+dwellings 
+Project proponent database 
+Annually 
+C 
+- 
+Continued operation of 
+the installed measures 
+This parameter will be monitored in 
+the sample of dwellings selected 
+Annually 
+ 
+32 Fuel consumption must be based on fuel purchased as reflected in the billing. Some households may store some fuel, or 
+refill the tank before it is empty. However, the fuel storage level will become inconsequential over time as any fuel 
+purchased to fill the fuel tank above the storage level will be consumed and therefore reflected in the billing upon refueling. 
+Any remaining differences in the filling level, before Project implementation and at the end of the Project lifetime, of 
+individual households will cancel each other out over the entire sample of Dwellings.  
+33 In the case where consumed energy for each household cannot be measured separately or in the case of district heating, 
+the temperature in/out and water discharge (flow rate) of the heating system must be monitored. Fuel consumption 
+monitoring must take place using the utility company fuel inventory for that specific district heating system. 
+ 
+VM0008, v1.2 
+41 
+Monitoring parameters for the adjusted consumption approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+for quality assurance monitoring. 
+Non-operational measures must be 
+excluded from reduction 
+calculations. 
+anp,k,y 
+- 
+Replaced appliance of 
+type k not properly 
+disposed of in year y 
+Disposal documentation and 
+project proponent database  
+Annually 
+Edem.pre,k 
+kW 
+Electricity demand of 
+appliance k before 
+replacement 
+Nameplate, or manufacturer’s 
+specification sheet, or direct 
+metering of the appliance 
+Once pre-
+replacement 
+hk 
+Hours 
+Annual working hours of 
+appliance k 
+Sampling, consumer surveys, or 
+common practice based on local, 
+regional, or national data34 
+Once, may be 
+updated 
+RCCa 
+Grams 
+The refrigerant charge 
+capacity of the cooling 
+appliance not properly 
+disposed of. 
+Manufacturer’s specification sheet 
+on the cooling appliance. 
+Once 
+R 
+- 
+Type of refrigerant used 
+in the cooling appliance. 
+Manufacturer’s specification sheet 
+on the cooling appliance.  
+Once 
+- 
+Mass or 
+volume per 
+dwelling 
+per year 
+Quality assurance 
+sample group of fuel 
+consumption within the 
+dwelling  
+Fuel bills covering a twelve month 
+period. Bills for the sample group 
+sample of dwellings in the same 
+building stock must be monitored. 
+Annually, for 2 
+years 
+- 
+kWh/yr 
+Quality assurance 
+sample group of 
+electricity consumption 
+within the dwelling 
+Electricity bills covering a twelve 
+month period. Bills for the sample 
+group sample of dwellings must be 
+monitored.  
+Annually, for 2 
+years 
+ak,y,OPS 
+- 
+Number of appliances of 
+each appliance type k 
+installed and in 
+operation during project 
+year y 
+Project proponent database 
+Annual 
+ 
+34  For example, in the United States, the US Department of Energy publishes annual operating hours of common household 
+appliances in the Buildings Energy Data Book. This information is publically available at 
+http://buildingsdatabook.eren.doe.gov/TableView.aspx?table=2.1.16  
+ 
+VM0008, v1.2 
+42 
+Monitoring parameters for the adjusted consumption approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+RCCinstalleda 
+Grams 
+Charge capacity of 
+refrigerant gas of 
+installed cooling or heat 
+pump appliance a 
+Manufacturer’s specification sheet 
+on the cooling or heat pump 
+appliance 
+Once 
+LR%k,y 
+% 
+Annual leakage rate of 
+refrigerant gas R used in 
+installed appliance type 
+k 
+Common practice rates based on 
+local, regional or national data 
+Once 
+ 
+ 
+Monitoring parameters for pre- and post-retrofit audit approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Elecb,i 
+kWh/yr 
+Electricity consumed in 
+the year prior to project 
+implementation in 
+dwelling i (baseline 
+consumption) 
+Electricity bills for 12 months 
+pre-retrofit. Bills for a sample of 
+the dwellings in the same 
+building stock must be 
+monitored, or bills may be 
+collected for all dwellings in the 
+project. 
+ 
+Once 
+Edem,pre,i  
+kW 
+Electricity demand pre-
+retrofit for dwelling i 
+Pre-retrofit audit report 
+Once 
+Edem,post,i 
+kW 
+Electricity demand post-
+retrofit for dwelling i 
+Post-retrofit audit report 
+Once 
+Fb,i,j 
+Mass or volume 
+per dwelling per 
+year 
+Fuel type j consumed in 
+the year prior to project 
+implementation for 
+dwelling I (baseline 
+consumption) 
+Pre-retrofit fuel bills covering a 
+twelve month period. Bills for a 
+sample of the dwellings in the 
+same building stock must be 
+monitored, or bills may be 
+collected for all dwellings in the 
+project. 
+Once 
+Hload,pre,i 
+kWh/m2/HDD 
+GJ/m2/HDD 
+Heat load pre-retrofit for 
+dwelling i 
+Pre-retrofit audit report 
+Once 
+ 
+VM0008, v1.2 
+43 
+Monitoring parameters for pre- and post-retrofit audit approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Hload,post,i 
+kWh/m2/HDD 
+GJ/m2/HDD 
+Heat load post-retrofit 
+for dwelling i 
+Post-retrofit audit report 
+Once 
+ECFy 
+- 
+Electricity correction 
+factor for year y 
+Calculated by the project based 
+on national energy statistics. 
+Applied 
+annually 
+CDDy 
+Degree days 
+Cooling degree days for 
+year y 
+Regional statistics. Use localized 
+data when available 
+Annually 
+CDDb 
+Degree days 
+Cooling degree days in 
+the year prior to project 
+implementation 
+Regional statistics. Use localized 
+data when available 
+Once 
+HDDy 
+Degree days 
+Heating degree days for 
+year y 
+Regional statistics. Use localized 
+data when available 
+Annually 
+HDDb 
+Degree days 
+Heating degree days in 
+the year prior to project 
+implementation 
+Regional statistics. Use localized 
+data when available 
+Once 
+J 
+- 
+Number of fuel types 
+Project proponent database 
+Annually 
+I 
+- 
+Number of retrofitted 
+dwellings 
+Project proponent database 
+Annually 
+S 
+- 
+Number of sample 
+dwellings 
+Pre- and Post-retrofit audit 
+reports 
+Once 
+anp,k,y 
+- 
+Replaced appliance of 
+type k not properly 
+disposed of in year y 
+Disposal documentation and 
+project proponent database  
+Annually 
+hk 
+Hours 
+Annual working hours of 
+appliance k 
+Sampling, consumer surveys, or 
+common practice based on 
+local, regional or national data 
+Once, may be 
+updated 
+Edem.pre,k 
+kW 
+Electricity demand of 
+appliance k before 
+replacement 
+Nameplate, or manufacturer’s 
+specification sheet, or direct 
+metering of the appliance 
+Once pre-
+replacement 
+RCCa 
+Grams 
+The refrigerant charge 
+capacity of the cooling 
+appliance not properly 
+disposed of. 
+Manufacturer’s specification 
+sheet on the cooling appliance 
+Once 
+R 
+- 
+Type of refrigerant used 
+in the cooling appliance 
+Manufacturer’s specification 
+sheet on the cooling appliance  
+Once 
+ 
+VM0008, v1.2 
+44 
+Monitoring parameters for pre- and post-retrofit audit approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+ak,y,OPS 
+- 
+Number of appliances 
+of each appliance type k 
+installed and in 
+operation during project 
+year y 
+Project proponent database 
+Annual 
+RCCinstalleda 
+Grams 
+Charge capacity of 
+refrigerant gas of 
+installed cooling or heat 
+pump appliance a 
+Manufacturer’s specification 
+sheet on the cooling or heat 
+pump appliance 
+Once 
+LR%k,y 
+% 
+Annual leakage rate of 
+refrigerant gas R used 
+in installed appliance 
+type k 
+Common practice rates based 
+on local, regional, or national 
+data 
+Once 
+ 
+Monitoring parameters for control group approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+ElecSG,y,b 
+kWh/yr 
+Mean electricity 
+consumed by sample 
+group dwellings in 
+building stock b in year y  
+Electricity bills 
+Monitored monthly, 
+calculated annually 
+ElecCG,y,b 
+kWh/yr 
+Mean electricity 
+consumed by control 
+group dwellings in 
+building stock b in year y  
+Electricity bills 
+Monitored monthly, 
+calculated annually 
+FSG,y,j,b 
+Mass or 
+volume per 
+dwelling per 
+year 
+Mean fuel type j 
+consumed by sample 
+group dwellings in 
+building stock b in year y 
+Fuel bills 
+Monitored monthly 
+or as fuel is 
+delivered, totaled 
+annually 
+FCG,y,j,b 
+Mass or 
+volume per 
+dwelling per 
+year 
+Mean fuel type j 
+consumed by control 
+group dwellings in 
+building stock b year y 
+Fuel bills 
+Monitored monthly 
+or as fuel is 
+delivered, totalled 
+annually 
+J 
+- 
+Number of fuel types 
+Project proponent database 
+Annually 
+ 
+VM0008, v1.2 
+45 
+Monitoring parameters for control group approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Ib 
+- 
+Number of dwellings in 
+building stock b 
+Project proponent database 
+Annually 
+anp,k,y 
+- 
+Replaced appliance of 
+type k not properly 
+disposed of in year y 
+Disposal documentation 
+and project proponent 
+database  
+Annually 
+hk 
+hours 
+Annual working hours of 
+appliance k 
+Sampling, consumer 
+surveys, or common 
+practice based on local, 
+regional, or national data 
+Once, may be 
+updated 
+Edem,pre,k 
+kW 
+Electricity demand of 
+appliance k before 
+replacement  
+Nameplate, manufacturer’s 
+specification sheet, or 
+direct metering of the 
+appliance 
+Once pre-
+replacement 
+RCCa 
+Grams 
+The 
+refrigerant 
+charge 
+capacity of the cooling 
+appliance 
+not 
+properly 
+disposed of. 
+Manufacturer’s 
+specification sheet on the 
+cooling appliance 
+Once 
+R 
+- 
+Type of refrigerant used 
+in the cooling appliance. 
+Manufacturer’s 
+specification sheet on the 
+cooling appliance 
+Once 
+ak,y,OPS 
+- 
+Number of appliances of 
+each appliance type k 
+installed and in operation 
+during project year y 
+Project proponent database 
+Annual 
+RCCinstalleda 
+Grams 
+Charge capacity of 
+refrigerant gas of 
+installed cooling or heat 
+pump appliance a 
+Manufacturer’s 
+specification sheet on the 
+cooling or heat pump 
+appliance 
+Once 
+LR%k,y 
+% 
+Annual leakage rate of 
+refrigerant gas R used in 
+installed appliance type k 
+Common practice rates 
+based on local, regional, or 
+national data 
+Once 
+ 
+ 
+VM0008, v1.2 
+46 
+Monitoring parameters for replacement of appliances 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Ef,dem,pre,k 
+Btu/hour 
+Note: if there is no 
+fossil fuel switching, 
+kW may be used, 
+substituting Edem,pre,k 
+for Ef,dem,pre,k and 
+substituting ElecCO2 
+for EFCO2 in Equation 
+(17). Substitute 
+parameters are 
+given in tables 
+above 
+Energy demand of 
+appliance k using energy 
+source f pre-replacement 
+Nameplate, 
+manufacturer’s 
+specification sheet, 
+or direct metering of 
+the appliance.  
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition  in Section 
+4 applies.  
+Once, pre- 
+replacement 
+Ef,dem,post,k 
+Btu/hour 
+Note: if there is no 
+fossil fuel switching, 
+kW may be used, 
+substituting Edem,post,k 
+for Ef,dem,post,k and 
+substituting ElecCO2 
+for EFCO2 in Equation 
+(17) 
+Substitute 
+parameters are 
+given in this and 
+other tables  
+Energy demand of 
+appliance k using energy 
+source f post-replacement 
+Nameplate, 
+manufacturer’s 
+specification sheet, 
+or direct metering of 
+the appliance 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in Section 
+4 applies 
+Once, post- 
+replacement 
+Edem,post,k 
+kWh 
+Electricity demand of 
+appliance k post-
+replacement 
+Nameplate, 
+manufacturer’s 
+specification sheet, 
+or direct metering of 
+the appliance 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in Section 
+4 applies 
+Once, post- 
+replacement 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in 
+Section 4 applies  
+EFf,pre, CO2 
+t CO2e/Btu 
+Emission factor for energy 
+source f applicable pre 
+project activity, as defined, 
+as applicable, for ElecCO2 
+and/or EFf, CO2 
+Obtained from a 
+recognized authority; 
+or calculated by the 
+project based on raw 
+data obtained from a 
+local or national 
+As defined for 
+the applicable 
+ElecCO2 and/or 
+EFf, CO2 
+ 
+ 
+VM0008, v1.2 
+47 
+Monitoring parameters for replacement of appliances 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Note – EFf,pre,CO2 and 
+EFf,post,CO2  are calculated 
+using the procedures for 
+EFf,CO2 which are given in 
+Equation (9b) as emission 
+factor for energy source f 
+(t CO2e/Btu). 
+Note – When baseline and 
+project appliances use 
+electricity as their energy 
+source f, Ef,dem,pre,k and 
+Ef,dem,post,k can be supplied 
+in kWh, whereupon 
+EFf,pre/post,CO2 must then be 
+substituted by ElecCO2, 
+(applied appropriately pre 
+and/or post) using the grid 
+emission factor per 
+Equation (5).  
+utility/credible 
+source. 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in 
+Section 4 applies  
+ 
+ 
+EF f,post, CO2 
+t CO2e/Btu 
+Emission factor for energy 
+source f  applicable post 
+project activity,  defined, 
+as applicable, for ElecCO2 
+and/or EFf, CO2 
+Note – EFf,pre,CO2 and 
+EFf,post,CO2  are calculated 
+using the procedures for 
+EFf,CO2 which are given in 
+Equation (9b) as emission 
+factor for energy source f 
+(t CO2e/Btu). 
+Note – When baseline and 
+project appliances use 
+electricity as their energy 
+source f, Ef,dem,pre,k and 
+Ef,dem,post,k can be supplied 
+in kWh, whereupon 
+EFf,pre/post,CO2 must then be 
+substituted by ElecCO2, 
+(applied appropriately pre 
+and/or post) using the grid 
+Obtained from a 
+recognized authority; 
+or calculated by the 
+project based on raw 
+data obtained from a 
+local or national 
+utility/credible 
+source. 
+As defined for 
+the applicable 
+ElecCO2 and/or 
+EFf, CO2 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in 
+Section 4 applies  
+ 
+ 
+VM0008, v1.2 
+48 
+Monitoring parameters for replacement of appliances 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+emission factor per 
+Equation (5).  
+ 
+ 
+ElecCO2 
+t CO2e/kWh 
+Grid emission factor for 
+the regional electricity 
+source 
+Obtained from a 
+recognized authority; 
+or calculated by the 
+project based on raw 
+data obtained from a 
+local, or national 
+electric utility. 
+This parameter 
+could be 
+available at 
+validation or it 
+could change 
+throughout the 
+project crediting 
+period 
+EFf, CO2 
+t CO2e/Btu 
+Emission factor for energy 
+source f 
+Obtained from a 
+recognized authority; 
+or calculated by the 
+project based on raw 
+data obtained from a 
+local or national 
+utility/credible 
+source. 
+Once per project 
+crediting period  
+hkpre, hkpost 
+hours 
+Annual working hours of 
+appliance k, pre and post 
+retrofit 
+Sampling, consumer 
+surveys, or common 
+practice based on 
+local, regional or 
+national data. 
+Note that for HP 
+HPWH modelling, 
+Applicability 
+Condition in Section 
+4 applies 
+Once, may be 
+updated  
+Corrk 
+- 
+Correction factor for the 
+failed operation of type of 
+appliance k 
+Surveys conducted by 
+project proponent, 
+other proponent 
+operation data, or 
+common practice 
+rates based on local, 
+regional, or national 
+data 
+Within the first 
+year of 
+installation and 
+in years 1, 4, 
+and 7 thereafter 
+ 
+VM0008, v1.2 
+49 
+Monitoring parameters for replacement of appliances 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+anp,k,y 
+- 
+Replaced appliance of type 
+k not properly disposed of 
+in year y 
+Disposal 
+documentation and 
+project proponent 
+database  
+Annually 
+RCCa 
+Grams 
+Refrigerant charge 
+capacity of the cooling 
+appliance not properly 
+disposed of 
+Manufacturer’s 
+specification sheet 
+on the cooling or heat 
+pump appliance 
+Once 
+R 
+- 
+Type of refrigerant used in 
+the cooling appliance. 
+Manufacturer’s 
+specification sheet 
+on the cooling or heat 
+pump appliance  
+Once 
+K 
+- 
+Number of appliance type 
+Project proponent 
+database 
+Once 
+ak 
+- 
+Number of appliances of 
+each appliance type k 
+Project proponent 
+database 
+Once 
+ak,y,OPS 
+- 
+Number of appliances of 
+each appliance type k 
+installed and in operation 
+during project year y 
+Project proponent 
+database 
+Annual 
+RCCinstalleda 
+Grams 
+Charge capacity of 
+refrigerant gas of installed 
+cooling or heat pump 
+appliance a 
+Manufacturer’s 
+specification sheet 
+on the cooling or heat 
+pump appliance 
+Once 
+LR%k,y 
+% 
+Annual leakage rate of 
+refrigerant gas R used in 
+installed appliance type k 
+Common practice 
+rates based on local, 
+regional, or national 
+data 
+Once 
+ 
+Monitoring parameters for mobile homes approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Hj,load,pre,i 
+kWh/m2/HDD 
+GJ/m2/HDD 
+Heat load of 
+mobile dwelling i 
+Calculating the heat load by 
+applying a heat load formula 
+with default values derived 
+from reliable regional energy 
+Once 
+ 
+VM0008, v1.2 
+50 
+Monitoring parameters for mobile homes approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+to be replaced 
+from fuel type j 
+consumption data or best 
+practice heat load modeling 
+based on the specification 
+sheet provided by the 
+manufacturer.  
+Hj,load,post,i 
+kWh/m2/HDD 
+GJ/m2/HDD 
+Heat load of 
+replacement 
+dwelling i from 
+fuel type j 
+Calculated using best 
+practice heat load modeling 
+based on the specification 
+sheet provided by the 
+manufacturer.  
+Once 
+HDDy 
+Degree days 
+Heating degree 
+days in year y 
+Regional statistics 
+Annually 
+CDDy 
+Degree days 
+Cooling degree 
+days in year y 
+Regional statistics 
+Annually 
+Spre,i 
+m2 
+Size of dwelling i 
+to be replaced 
+Project proponent database 
+Once for each 
+dwelling 
+Spost,i 
+m2 
+Size of 
+replacement 
+dwelling i 
+Disposal documentation and 
+project proponent database  
+Once for each 
+dwelling 
+Ef,dem,pre,k 
+Btu/hour 
+Note: if there is no fossil 
+fuel switching, kW may 
+be used, substituting 
+Edem,pre,k for Ef,dem,pre,k and 
+substituting ElecCO2 for 
+EFCO2 in Equation (17). 
+Substitute parameters 
+are given in tables 
+above 
+Electricity 
+demand of 
+appliance k using 
+energy source f 
+before 
+replacement  
+Nameplate, or 
+manufacturer’s specification 
+sheet, or direct metering of 
+the appliance 
+Note that for HP HPWH 
+modeling, Applicability 
+Condition  in Section 4 
+applies 
+Once pre-
+replacement 
+Ef,dem,post,k 
+Btu/hour 
+Note: if there is no fossil 
+fuel switching, kW may 
+be used, substituting 
+Edem,post,k for Ef,dem,post,k 
+and substituting ElecCO2 
+for EFCO2 in Equation 
+(17). 
+Energy demand 
+of appliance k 
+using energy 
+source f post-
+replacement 
+Nameplate, or 
+manufacturer’s specification 
+sheet, or direct metering of 
+the appliance 
+Note that for HP HPWH 
+modelling, Applicability 
+Condition  in Section 4 
+applies 
+Once post- 
+replacement 
+ 
+VM0008, v1.2 
+51 
+Monitoring parameters for mobile homes approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+Substitute parameters 
+are given in tables 
+above. 
+hk-pre 
+hk-post 
+Hours 
+Annual working 
+hours of 
+appliance k, pre 
+and post retrofit 
+Sampling, consumer 
+surveys, or common practice 
+based on local, regional, or 
+national data 
+Note that for HP HPWH 
+modelling, Applicability 
+Condition  in Section 4 
+applies 
+Once, may be 
+updated  
+Corrk 
+- 
+Correction factor 
+for the failed 
+operation of type 
+of appliance k 
+Surveys conducted by 
+project proponent, other 
+proponent operation data, 
+or common practice rates 
+based on local, regional, or 
+national data 
+Within the first 
+year of 
+installation and 
+in three-year 
+intervals 
+thereafter 
+anp,k,y 
+- 
+Replaced 
+appliance of type 
+k not properly 
+disposed of in 
+year y 
+Disposal documentation and 
+project proponent database  
+Annually 
+RCCa 
+Grams 
+The refrigerant 
+charge capacity 
+of the cooling 
+appliance not 
+properly 
+disposed of 
+Manufacturer’s specification 
+sheet on the cooling or heat 
+pump appliance 
+Once 
+R 
+- 
+Type of 
+refrigerant used 
+in the cooling 
+appliance. 
+Manufacturer’s specification 
+sheet on the cooling or heat 
+pump appliance  
+Once 
+I 
+- 
+Number of 
+retrofitted 
+dwellings 
+Project proponent database 
+Annually 
+ak,y,OPS 
+- 
+Number of 
+appliances of 
+each appliance 
+type k installed 
+Project proponent database 
+Annual 
+ 
+VM0008, v1.2 
+52 
+Monitoring parameters for mobile homes approach 
+Data/ 
+Parameter 
+Data unit 
+Description  
+Source of data 
+Frequency of 
+monitoring 
+and in operation 
+during project 
+year y 
+RCCinstalleda 
+Grams 
+Charge capacity 
+of refrigerant gas 
+of installed 
+cooling or heat 
+pump appliance 
+a 
+Manufacturer’s specification 
+sheet on the cooling or heat 
+pump appliance 
+Once 
+LR%k,y 
+% 
+Annual leakage 
+rate of 
+refrigerant gas R 
+used in installed 
+appliance type k 
+Common practice rates 
+based on local, regional, or 
+national data 
+Once 
+ 
+ 
+ 
+ 
+ 
+VM0008, v1.2 
+53 
+APPENDIX 1: EXAMPLES OF RELEVANT 
+DATA FOR BUILDING STOCK 
+The following status quo description for residential buildings in the US serves solely to provide 
+examples of relevant data for the establishment of the same building stock and its particular 
+performance benchmark. The following example case information does not limit the applicability of the 
+performance method to the US. Each performance benchmark must be calculated relative to each 
+same building stock and its particular geographical boundary. 
+Relative to the US, studies show:  
+• 
+In 2005, the US housing stock was found to be comprised of dwellings classified by 
+household type as follows: single family (71.7%), multi-family (22.0%) and mobile homes 
+(6.2%) (DOE Building Energy Data Book 2010, Table 2.2.2). 
+• 
+In 2005, the following average energy intensities were found in each building stock: single 
+family, 106.6 million Btu per household; multi-family, 64.1 million Btu per household; mobile 
+homes, 70.4 million Btu per household (DOE Building Energy Data Book 2010, Table 2.1.11). 
+• 
+In 2008, the breakdown in energy use in US residential buildings was approximately: natural 
+gas, 35%; petroleum, 6%, coal, 35%, renewables, 8%; and nuclear, 14%. Projected values are 
+not expected to vary by more than ±5% from 2008 to 2035 (DOE Building Energy Data Book 
+2010, Table 2.1.2). 
+• 
+There are “significant and persistent barriers” to implementing energy efficiency measures in 
+the US including structural, behavioral, and availability barriers (McKinsey 2009). 
+• 
+Rates of US residential energy efficiency program penetration range broadly from 16% to 
+0.5% or less (American Council for an Energy Efficiency Economy, 2011). On average, less 
+than 5% of homes in the US have undergone an energy-efficiency retrofit (Gigaton Throwdown 
+2009). 
+• 
+Residential sector energy use is projected to increase at 0.4% per year under a business-as-
+usual scenario between 2008 and 2020 (McKinsey 2009).  
+• 
+A typical residence uses up to 40% more energy than it needs to operate economically 
+(Gigaton Throwdown 2009). 
+• 
+Worldwide residential energy use increased 19% between 1990 and 2005 (International 
+Energy Agency 2008). 
+• 
+Only weatherization measures that systematically address the thermal envelope or 
+significantly improve the efficiency of end-use appliances are likely to enable a project to 
+exceed a performance benchmark: 
+o 
+Evaluations of physical weatherization measures in residential dwellings demonstrate 
+savings of around 20-30%. See, for example: Oak Ridge National Laboratories, 
+ORNL/CON-493, 2005; and Cadmus Group, Efficiency Maine Trust Home Energy Savings 
+Program Final Evaluation Report, 2011.  
+ 
+VM0008, v1.2 
+54 
+o 
+By comparison, evaluations of behavior change programs (e.g., providing information to 
+encourage occupants to turn off unneeded lighting and equipment) demonstrate levels 
+of energy savings ranging from levels not statistically different than 0 to energy savings 
+levels of up to about 3%. See, for example: Navigant, Evaluation Report: OPOWER SMUD 
+Pilot Year 2, 2011; and Energy Center of Wisconsin, Focus on Power-PowerCost Monitor 
+Study, 2010.  
+ 
+VM0008, v1.2

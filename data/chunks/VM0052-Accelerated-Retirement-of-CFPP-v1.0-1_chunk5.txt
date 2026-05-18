@@ -1,0 +1,117 @@
+4 APPLICABILITY CONDITIONS 
+This methodology is applicable to project activities that reduce GHG emissions through the 
+accelerated retirement of grid-connected CFPPs paired with renewable electricity. 
+4.1 
+Just Transition 
+This methodology is applicable under the following conditions related to just transition:   
+1) A just transition plan developed in accordance with VMD0061 is available at the time of 
+validation of the project description. 
+2) The plan in Section 4.1(1) is fully funded through sources other than the revenues 
+generated from the sale of Verified Carbon Units (VCUs).  
+ 
+2 Adapted from US Energy Information Administration: 
+https://www.eia.gov/tools/glossary/index.php?id=reserve_margin#:~:text=Reserve%20margin%20(operating)%3A%20T
+he,a%20percentage%20of%20total%20capability. 
+ 
+VM0052, v1.0 
+9 
+4.2 
+CFPP Retirement 
+This methodology is applicable under the following conditions related to CFPP retirement: 
+3) CFPP construction began prior to 31 December 2021.3  
+4) The CFPP is connected to the grid. 
+5) Where in a regulated electricity market, the CFPP is owned by either a regulated utility 
+or an independent power producer (IPP). 
+6) The CFPP has a single long-term (at least 20 years) power purchase agreement (PPA) 
+fully executed prior to 31 December 2023:  
+a) in a regulated electricity market, with a system operator or a regulated utility off-
+taker. 
+b) in a deregulated electricity market, with an eligible counterparty with obligations 
+as a load-serving entity, such as a distribution company, power trader, government 
+agency, or power retailer.  
+7) At validation and at the accelerated retirement date, the CFPP has positive annual net 
+income after tax over the three most recent years and positive fair value, determined 
+using a methodology that meets International Financial Reporting Standards for 
+accounting (e.g., IFRS 13 Fair Value Measurement). 
+8) At validation, where the CFPP is owned by a state-owned utility company, both the utility 
+and the host country have a publicly available commitment to not build new CFPPs and 
+to not increase existing CFPP capacity in their jurisdiction. 
+9) At validation, where the CFPP is owned by an IPP, the IPP has a publicly available 
+commitment to not build new CFPPs, and to not increase existing CFPP capacity under 
+their control.  
+10) The system operator, utility, distribution company, or other government entity (as 
+applicable) has issued a letter that confirms the accelerated retirement will not have a 
+material negative effect on consumer prices, access to electricity, grid stability, and 
+energy supply security, based on a reliability assessment and rate impact analysis. 
+11) At validation, the host country’s most recent Nationally Determined Contribution (NDC) 
+includes one or more of the following commitments:4 
+ 
+3This date coincides with the adoption of the Glasgow Climate Pact at the 26th United Nations Framework Convention on 
+Climate Change Conference of the Parties (UNFCCC COP 26), which includes the phase-out and phase-down of fossil 
+fuel. This threshold is set to prevent the eligibility of new CFPPs that were developed with the expectation that carbon 
+finance would be available in the future to enable their retirement (i.e., preventing perverse incentives). The COP26 
+outcome is available here: https://unfccc.int/sites/default/files/resource/cma2021_10_add1_adv.pdf  
+ 
+ 
+VM0052, v1.0 
+10 
+a) Power sector-wide decarbonization targets, either as absolute targets or intensity-
+based, or 
+b) Increased share of renewable energy in total electricity mix, either as an absolute 
+increase in renewable energy capacity or percentage of renewable energy in the 
+grid.  
+12) At validation, the host country must have either:  
+c) Submitted a Long-Term Low Greenhouse Gas Emission Development Strategy (LT-
+LEDS)5 to the UNFCCC, or 
+d) Published a power sector, energy transition, or economy wide decarbonization 
+strategy or policy that supports the transition towards a less carbon intensive 
+economy.  
+This methodology is not applicable under the following conditions:  
+13) The CFPP is deactivated or repurposed to continue to combust fossil fuels, including co-
+firing biomass with coal or gas. 
+14) The CFPP is a mine-mouth power plant.  
+15) The CFPP is a captive power plant. 
+4.3 
+Paired Renewable Electricity 
+This methodology is applicable under the following conditions related to paired renewable 
+electricity: 
+16) The project proponent has a plan, available at validation, for pairing the retired CFPP 
+generation capacity fully or partially with new renewable electricity generation that: 
+a) exports electricity to the grid. 
+b) covers at least 10% of the retired CFPP generation capacity on an annual basis at 
+the project start date. 
+c) covers at least 40% of the retired CFPP generation capacity by the end of the 
+initial crediting period.  
+17) The renewable electricity pairing plan includes a list of renewable electricity plants that 
+are paired to accelerated CFPP retirement including: 
+a) name, type, capacity, and location of each renewable electricity power plant, and 
+b) planned commercial operations start date. 
+ 
+5 LT LEDS can be accessed here: https://unfccc.int/process/the-paris-agreement/long-term-strategies 
+ 
+VM0052, v1.0 
+11 
+18) The paired renewable electricity is generated by one or a combination of the following 
+sources: 
+a) Solar power plant with or without battery energy storage systems (BESS) 
+b) On-shore and/or offshore wind power plant with or without BESS 
+c) Hydropower plant (run-of-river or individual plant net output capacity limited to 15 
+MW)  
+d) Geothermal power plant 
+e) Tidal/wave power plant 
+f) 
+Landfill gas power plant 
+g) Biogas power plant, including biogas from wastewater treatment 
+h) Waste-to-energy (WtE) power plant, including waste incineration 
+i) 
+Biomass-fired power plant that complies with requirements and procedures 
+established for biomass in the most recent version of CDM ACM00066 
+Note – Only renewable electricity power plants included in the pairing plan available at 
+validation are eligible (i.e., no new paired renewable electricity plants can be added through 
+revisions or PD deviations, etc.) . Any design changes to renewable electricity power plants 
+included in the pairing plan (e.g., modification to installed capacity) during project execution 
+require a project description deviation and reassessment of additionality and the baseline 
+retirement date. This does not permit changes of technology (e.g., solar PV instead of wind). 
+Note – This methodology aligns with net zero transition and avoids lock-in of fossil fuel 
+combustion or other GHG-intensive systems. Projects are not required to conduct further 
+assessments regarding compatibility with net zero transition for eligibility.

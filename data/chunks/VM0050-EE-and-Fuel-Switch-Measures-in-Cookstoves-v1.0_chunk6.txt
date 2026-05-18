@@ -1,0 +1,120 @@
+5 PROJECT BOUNDARY 
+The project boundary includes the project devices, the geographical site where they are located, 
+and the locations from which baseline and project fuels are sourced. 
+Where project devices use electricity, the project boundary also includes the electricity 
+generation, transmission, and distribution system. 
+The GHG sources included in or excluded from the project boundary are shown in Table 1. 
+ 
+VM0050, v1.0  
+ 
+11 
+Methane and nitrous oxide may be significant sources of GHG emissions especially where 
+charcoal, biomass fuels, and biomass residues are used. The project proponent must assess 
+the significance of such fuel emissions and apply the de minimis criterion in line with the most 
+recent version of the VCS Methodology Requirements to determine which sources must be 
+included. 
+Emissions from fuel production13 and transportation may be ignored where they are higher in 
+the baseline than the project scenario.  
+Table 1: GHG sources included in or excluded from the project boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Thermal energy 
+generation  
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for some fuels 
+N2O 
+Yes 
+May be significant for some fuels 
+Production of 
+charcoal fuel14  
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for charcoal 
+N2O 
+Yes 
+May be significant for charcoal 
+Project 
+Thermal energy 
+generation  
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for some fuels 
+N2O 
+Yes 
+May be significant for some fuels 
+Transport of fuel 
+(where 
+applicable) 
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for some fuels 
+N2O 
+Yes 
+May be significant for some fuels 
+Production of fuel 
+(where 
+applicable) 
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for some fuels 
+N2O 
+Yes 
+May be significant for some fuels 
+Self-generated 
+electricity (non-
+renewable energy 
+for backup) 
+CO2 
+Yes 
+Major source 
+CH4 
+Yes 
+May be significant for some fuels 
+N2O 
+Yes 
+May be significant for some fuels 
+Grid electricity 
+generation and 
+distribution 
+CO2 
+Yes 
+Major source 
+CH4 
+No 
+Negligible 
+N2O 
+No 
+Negligible 
+ 
+ 
+13 For example, energy use for renewable biomass processing, such as shredding and compacting in the case of 
+briquetting, may be considered to be equivalent to the upstream emissions associated with the processing of a 
+displaced fossil fuel and hence may be disregarded. 
+14 Includes fugitive emissions from charcoal production. Production of fossil fuels is not considered, which is 
+conservative. 
+ 
+VM0050, v1.0  
+ 
+12 
+For non-renewable biomass fuels, the project proponent must provide a kml file delimiting the 
+geographic area(s) of origin of the biomass fuel used in the project and a description of how 
+that area is defined.

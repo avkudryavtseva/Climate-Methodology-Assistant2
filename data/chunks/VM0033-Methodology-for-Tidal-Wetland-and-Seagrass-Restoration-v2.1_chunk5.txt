@@ -1,0 +1,708 @@
+5 PROJECT BOUNDARY 
+5.1 
+Temporal Boundaries 
+ Peat depletion time (PDT) 
+Drained peat is subject to oxidation and subsidence and areas with peat at t = 0 may lose all 
+peat before the end of the crediting period. The time at which all peat has disappeared, or at 
+which the peat depth reaches a level where no further oxidation or other losses occur (e.g., at 
+the average water table depth), is referred to as the PDT. Projects that do not quantify 
+reductions of baseline emissions (i.e., those which limit their accounting to GHG removals in 
+biomass and/or soil) need not estimate PDT. 
+PDT (tPDT-BSL,i) for a stratum in the baseline scenario limits the period during which the project is 
+eligible to claim soil emission reductions from rewetting, and is estimated at the project start 
+date for each stratum i as: 
+tPDT-BSL,i = Depthpeat,i,t0 / Ratepeatloss-BSL,I  
+ 
+ 
+ 
+ 
+ 
+ (1) 
+Where: 
+tPDT-BSL,I 
+= PDT in the baseline scenario in stratum i (in years elapsed since the project 
+start date); yr 
+Depthpeat,i,t0 
+= Average organic soil depth above the drainage limit in stratum i at the 
+project start date; m 
+Ratepeatloss-BSL,i 
+= Rate of organic soil loss due to subsidence and fire in the baseline scenario 
+in stratum i; a conservative (high) value must be applied that remains 
+constant over the time from t = 0 to PDT; m yr-1. 
+i 
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+ 
+ 
+VM0033, v2.1 
+13 
+If tPDT-BSL,i falls within the crediting period, subsequent organic carbon loss from remaining 
+mineral soil may be estimated as well using the procedure for SDT in Section 5.1.2. 
+Organic soil depths, depths of burn scars and subsidence rates must be derived from the data 
+sources described in Section Error! Reference source not found.. Water table depth is 
+assessed, if relevant, following procedures in Section 9.3.11. 
+If tPDT-BSL,i falls within the Crediting Period, subsequent organic carbon loss from remaining 
+mineral soil may be estimated as well using the procedure for SDT in Section 5.1.2, below. 
+ Soil organic carbon depletion time (SDT) 
+Projects that do not quantify reductions of baseline emissions (i.e., those which limit their 
+accounting to GHG removals in biomass and/or soil) need not estimate SDT. 
+SDT (tSDT-BSL,i) for a stratum in the baseline scenario limits the period during which the project is 
+eligible to claim emission reductions from restoration, and is estimated at the project start date 
+for each stratum i as follows: 
+For strata with eroded soils: 
+tSDT-BSL,i = 5 years 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+For strata with soils exposed to an aerobic environment through excavation or drainage, use the 
+following equation. 
+tSDT-BSL,i = CBSL,i,t0 / RateCloss-BSL,i  
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+Where: 
+tSDT-BSL,i   
+= SDT in the baseline scenario in stratum i (in years elapsed since the  
+ 
+  
+project start date); yr 
+CBSL,i,t0   
+= Average organic carbon stock in the baseline scenario in mineral soil in  
+ 
+  
+stratum i at the project start date; t C ha-1 (see Equation 10) 
+RateCloss-BSL,i 
+= Rate of soil organic carbon loss due to oxidation in the baseline scenario  
+ 
+  
+in stratum i; a conservative (high) value must be applied that remains  
+ 
+  
+constant over the time from t = 0 to SDT; t C ha-1 yr-1.  
+i 
+  
+= 1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+The project proponent must determine the depth (Depthsoil,i,t0 in Equation 12 below) over which 
+CBSL,i,t0 is determined. Note that a shallower depth will lead to a shorter, and more conservative, 
+SDT. Where SDT is not determined, no reductions of baseline emissions from mineral soil may 
+be claimed. 
+ 
+VM0033, v2.1 
+14 
+Extrapolation of RateCloss-BSL,i over the project crediting period must account for the possibility of 
+a non-linear decrease of soil organic carbon over time, including the tendency of organic carbon 
+concentrations to approach steady-state equilibrium. For this reason, a complete loss of soil 
+organic carbon may not occur in mineral soils. This steady-state equilibrium must be 
+determined conservatively. 
+In case of alternating mineral and organic horizons, RateCloss-BSL,i may be determined for all 
+individual horizons. This also applies to cases where an organic surface layer of less than 10 
+cm exists or in cases where the soil is classified as organic but its organic matter depletion is 
+expected within the project crediting period and oxidation of organic matter in an underlying 
+mineral soil may occur within this period. 
+SDT is conservatively set to zero for project sites drained more than 20 years prior to the 
+project start date. SDT is also conservatively set to zero where significant soil erosion occurs in 
+the baseline scenario (significant defined as >5% of RateCloss-BSL,i). 
+With respect to the estimation of SDT, the accretion of sediment in the baseline scenario is 
+conservatively excluded. 
+5.2 
+Geographic Boundaries 
+ General 
+The project proponent must define the geographic boundaries of the project area at the 
+beginning of project activities. The project proponent must provide the geographic coordinates 
+of lands (including sub-tidal seagrass areas, where relevant) included in the project area to 
+facilitate accurate delineation of the project area. Remotely sensed data, published topographic 
+maps and data, land administration and tenure records and/or other official documentation 
+that facilitates clear delineation of the project area must be used. 
+The project activity may contain more than one discrete area of land. Each discrete area of land 
+must have a unique geographical identification. 
+When describing physical project boundaries, the following information must be provided for 
+each discrete area: 
+• 
+Name of the project area (including compartment numbers, local name (if any)). 
+• 
+Unique identifier for each discrete parcel of land. 
+• 
+Map(s) of the area (preferably in digital format). 
+• 
+The project area must be geo-referenced and provided in digital format in accordance 
+with VCS rules. 
+• 
+Total area. 
+• 
+Details of land rights holder and user rights. 
+ 
+VM0033, v2.1 
+15 
+ Stratification 
+Where the project area at the project start date is not homogeneous, stratification may be 
+carried out to improve the accuracy and the precision of carbon stock and GHG flux estimates. 
+Where stratification is employed, different stratifications may be required for the baseline and 
+project scenarios in order to achieve optimal accuracy of the estimates of net GHG emission 
+reductions and removals. 
+Strata may be defined based on soil type and depth (including eligibility as assessed below), 
+water table depth, vegetation cover and/or vegetation composition, salinity, land type (open 
+water, channel, and unvegetated sand or mudflat) or expected changes in these characteristics. 
+Strata must be spatially discrete and stratum areas must be known. Areas of individual strata 
+must sum to the total project area. Strata must be identified with spatial data (e.g., maps, GIS 
+coverage, classified imagery, sampling grids) from which the area can be determined 
+accurately. Land use/land cover maps in particular must be ground-truthed and less than 10 
+years old, unless it can be demonstrated that the maps are still accurate. Strata must be 
+discernible taking into account good practice with respect to accuracy requirements for the 
+definition of strata limits and boundaries. The type of spatial data must be indicated and 
+justified in the project description. 
+The project area may be stratified ex ante, and this stratification may be revised ex post for 
+monitoring purposes. Established strata may be merged if reasons for their separate 
+establishment are no longer meaningful, or have proven irrelevant to key variables for 
+estimating net GHG emission reductions and removals. Baseline stratification must remain 
+fixed until a reassessment of the baseline scenario occurs. Stratification in the project scenario 
+must be reviewed at each monitoring event prior to verification and revised if necessary. 
+The sub-sections below specify further requirements and guidance with respect to stratification 
+in certain scenarios.  
+Areas with organic soil 
+The project proponent must use VCS module VMD0016 Methods for Stratification of the Project 
+Areas in order to stratify project areas that include organic soil. 
+Seagrass meadows 
+Given the tendency of seagrasses to respond differently under different light and depth 
+regimes, the project proponent may differentiate between seagrass meadow sections that 
+occur at different depths given discrete, or relatively abrupt, bathymetric and substrate 
+changes. 
+For seagrass meadow restoration projects in areas with existing seagrass meadows, the project 
+proponent must quantify the percentage of meadow expansion that can be attributed to the 
+restoration effort but that is not the result of direct planting or seeding. Existing meadows 
+ 
+VM0033, v2.1 
+16 
+(unless smaller in area than 5% of the total project area) must be excluded from the calculation 
+of project emissions, even in cases where the restored meadow enhances carbon 
+sequestration rates in existing meadows. 
+New seagrass meadows that result from natural expansion must be contiguous with restored 
+meadow plots in order to be included in project accounting, unless the project proponent 
+demonstrates that non-contiguous meadow patches originated from restored meadow seeds. 
+This may be performed via genetic testing or estimated as a percentage of new meadow in non-
+contiguous plots and observed no less than four years after the project start date. 3 This 
+percentage must not exceed the proportion of restored meadow area relative to the total extent 
+of seagrass meadow areal, and the project proponent must demonstrate the feasibility of 
+current-borne seed dispersal from the restored meadow. In cases where a restored meadow 
+coalesces with an existing meadow(s), the project proponent must delineate the line at which 
+the two meadows are joined. The project proponent may use either aerial observations showing 
+meadow extent or direct field observations. 
+Native ecosystems 
+In order to claim emission removals from ARR or WRC activities, the project proponent must 
+provide evidence in the project description that the project area was not cleared of native 
+ecosystems to create GHG credits. Such proof is not required where such clearing took place 
+prior to the 10-year period prior to the project start date. Areas that do not meet this 
+requirement must be excluded from the project area. 
+Stratification of vegetation cover for adoption of the default SOC accumulation rate 
+The default factor for SOC accumulation rate may only be applied to non-seagrass tidal wetland 
+systems with a crown or vegetation cover of at least 15%, with a linearly discounted factor for 
+areas with a crown or vegetation cover of less than 50% (see Sections 8.1.4.2.3 and 8.2.4.2.1). 
+For the baseline scenario, crown or vegetation covers must be based on a time series of 
+vegetation composition. For the project scenario, crown or vegetation cover mapping must be 
+performed according to established methods in scientific literature. 
+Stratification of salinity for the accounting of CH4 
+Tidal wetlands may be stratified according to salinity for the purpose of estimating CH4 
+emissions. Threshold values of salinity for mapping salinity strata are specified in Section 
+8.1.4.5.4. 
+Areas with unrestricted tidal exchange will maintain salinity levels similar to the tidal water 
+source, while those with infrequent tidal flooding will not (in which case the use of channel 
+water salinity levels is not reliable). For such areas it is therefore recommended to stratify 
+according to the frequency of tidal exchange. 
+ 
+3 McGlathery et al. (2012) 
+ 
+VM0033, v2.1 
+17 
+Procedures for the measurement of salinity levels are specified in Section 9.3.8. 
+Stratification of water bodies lacking tidal exchange 
+The area of ponds, ditches or similar bodies of water within the project area must be measured 
+and treated as separate strata when they do not have surface tidal water exchange. CH4 
+emissions from these features may be excluded from GHG accounting if the area of these 
+features does not increase in the project scenario. 
+ 
+Sea level rise 
+When defining geographic project boundaries and strata, the project proponent must consider 
+expected relative sea level rise and the potential for expanding the project area landward to 
+account for wetland migration, inundation and erosion.  
+For both the baseline and project scenarios, the project proponent must provide a projection of 
+relative sea level rise within the project area based on IPCC regional forecasts or peer-reviewed 
+literature applicable to the region. In addition, the project proponent may also utilize expert 
+judgment4. Global average sea level rise scenarios are not suitable for determining the changes 
+in wetlands boundaries. Therefore, if used, IPCC most-likely global sea level rise scenarios must 
+be appropriately downscaled to regional conditions that include vertical land movements, such 
+as subsidence. 
+Whether degradation occurs in the baseline scenario or restoration occurs in the project 
+scenario, the assessment of potential wetland migration, inundation and erosion with respect 
+to projected sea level rise must account for topographical slope, land use and management, 
+sediment supply and tidal range. The assessment may use published data from the project 
+area, expert judgment or both. Please note that the VCS AFOLU Non-Permanence Risk Tool 
+must be used to assess the risk of erosion and inundation caused by sea level rise on carbon 
+stocks in the project scenario. 
+When assessing the potential for tidal wetlands to migrate horizontally, one must consider the 
+topography of the adjacent land and any migration barriers that may exist. In general, and on 
+coastlines where wetland migration is unimpaired by infrastructure, concave-up slopes may 
+cause ‘coastal squeeze’, while straight or convex-up gradients are more likely to provide the 
+space required for lateral movement. 
+The potential for tidal wetlands to rise vertically with sea level rise is sensitive to suspended 
+sediment loads in the system. A sediment load of >300 mg/l has been found to balance high-
+end IPCC scenarios for sea level rise (Orr et al. 2003, Stralsburg et al. 2011). French (2006) 
+and Morris et al. (2012) suggest that the findings of Orr et al. 2003 from the San Francisco 
+Bay could be used elsewhere5. French (2006) indicates that at 250 mg/l, sea level rise of 15 
+ 
+4 Requirements for expert judgment are provided in Section 9.3.3. 
+5 Orr et al. 2003, Stralberg et al. 2011 
+ 
+VM0033, v2.1 
+18 
+mm is balanced at a tidal range of 1 m or greater. Therefore, for marshes with a tidal range 
+greater than 1 m, the project proponent may use >300 mg/l as a sediment load threshold 
+above which wetlands are not predicted to be submerged. The project proponent may use lower 
+threshold values for tidal range and sediment load where justified. The vulnerability of tidal 
+wetlands to sea level rise and conversion to open water is also related to tidal range. In general, 
+the most vulnerable tidal wetlands are those in areas with a small tidal range, those with 
+elevations low in the tidal frame and those in locations with low suspended sediment loads. 
+The VCS AFOLU Non-Permanence Risk Tool must be used to assess the risk of erosion and 
+inundation caused by sea level rise on carbon stocks in the project scenario. In the baseline 
+scenario, the project proponent may conservatively assume that part of the project area 
+submerges, with cessation of GHG removal from the atmosphere as a consequence. If the 
+project is not claiming emissions due to erosion in the baseline scenario, the project proponent 
+may conservatively assume that part of the project area erodes. For areas that submerge 
+without erosion, the loss of SOC may be assumed to be insignificant in both the baseline and 
+project scenarios. 
+The projection of wetland boundaries within the project area must be presented in maps 
+delineating these boundaries from the project start date until the end of the project crediting 
+period, at intervals appropriate to the rate of change due to sea level rise, and at t = 100. 
+Procedures for estimating the risk of project area submergence due to relative sea level rise are 
+provided in the VCS AFOLU Non-Permanence Risk Tool. 
+Estimation of area of eroded strata 
+Tidal wetlands may be subject to two forms of erosion: a) Seaward edges of wetlands are 
+subject to migration due to changes in local sea level, regional sediment delivery, and impacts 
+of human actions (e.g., nearby excavation of shipping channels); b) In sheltered settings, away 
+from open shores, wetlands may also erode internally through channel enlargement if sediment 
+supply for wetland accretion is insufficient to keep pace with sea-level rise. 
+Projections of future erosion must take into account scaling of wetland retreat against 
+projections of accelerated sea-level rise, any modification to sediment supply and human 
+action. 
+Channel densities (surface area of channel per surface area of wetland) greater than 20% 
+and/or changes in wetland vegetation consistent with increased duration or depth of flooding is 
+an indication that the wetland may not be keeping pace with sea level. Similarly, a decline in 
+surface elevation relative to a datum of mean high water surface spring elevation in the interior 
+of the tidal wetland is an indication of wetland sensitivity to sediment supply under conditions 
+of sea-level rise. Sites with an annual average suspended sediment load in flooding waters of 
+>300 mg/l may be considered resilient to sea-level rise in terms of surface accretion. The 
+project proponent should take into account these indicators of wetland potential sensitivity to 
+ 
+VM0033, v2.1 
+19 
+sea-level rise when considering whether to extend the eroded area strata to include marsh 
+interior. 
+Because such projections are driven by conditions specific to individual project settings, expert 
+knowledge from an experienced geomorphologist / coastal engineer must be utilized for 
+complex projects. 
+ Ineligible wetland areas  
+For projects quantifying CO2 emission reductions, project areas which do not achieve a 
+significant difference (≥ 5%) in cumulative carbon loss over a period of 100 years beyond the 
+project start date are not eligible for crediting based on the reduction of baseline emissions, 
+and these areas must be mapped. 
+The maximum quantity of GHG emission reductions which may be claimed from the soil carbon 
+pool is limited to the difference between the remaining soil organic carbon stock in the project 
+and baseline scenarios after 100 years (total stock approach), or the difference in cumulative 
+soil organic carbon loss in both scenarios over a period of 100 years since the project start 
+date (stock loss approach). The project proponent must calculate this maximum quantity ex 
+ante using conservative parameters and following one of the options below. 
+1. Total stock approach 
+The difference between soil organic carbon stock in the project scenario and baseline scenario 
+at t = 100 is estimated as: 
+𝐶𝑊𝑃𝑆−𝐵𝑆𝐿,𝑡100 = ∑
+(𝐶𝑊𝑃𝑆,𝑖× 𝐴𝑊𝑃𝑆,𝑖,𝑡100)
+𝑀𝑊𝑃𝑆
+𝑖=0
+−∑
+(𝐶𝐵𝑆𝐿,𝑖,𝑡100 × 𝐴𝐵𝑆𝐿,𝑖,𝑡100)
+𝑀𝐵𝑆𝐿
+𝑖=0
+ 
+ 
+(3) 
+CWPS,i,t100 requires no adjustment for leakage since the applicability conditions of this 
+methodology are structured to ensure leakage emissions do not occur, as explained in Section 
+8.3. 
+The difference between organic carbon stock in the project scenario and baseline scenario at 
+t  = 100 (CWPS-BSL,t100) is significant if: 
+∑
+(𝐶𝑊𝑃𝑆,𝑖,𝑡100 × 𝐴𝑊𝑃𝑆,𝑖,𝑡00)
+𝑀𝑊𝑃𝑆
+𝑖=0
+≥1.05 × ∑
+(𝐶𝐵𝑆𝐿,𝑖,𝑡100 × 𝐴𝐵𝑆𝐿,𝑖,𝑡100)
+𝑀𝐵𝑆𝐿
+𝑖=0
+      
+ 
+(4) 
+For organic soil: 
+CWPS,i,t100 = Depthpeat-WPS,i,t100 × VC × 10  
+ 
+ 
+ 
+ 
+ 
+(6) 
+CBSL,i,t100 = Depthpeat-BSL,i,t100 × VC × 10  
+ 
+ 
+ 
+ 
+ 
+(7) 
+𝐷𝑒𝑝𝑡ℎ𝑝𝑒𝑎𝑡−𝐵𝑆𝐿,𝑖,𝑡,100 = 𝐷𝑒𝑝𝑡ℎ𝑝𝑒𝑎𝑡,𝑖,𝑡,0 −∑
+𝑅𝑎𝑡𝑒𝑝𝑒𝑎𝑡𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑖,𝑡
+𝑡=100
+𝑡=1
+ 
+ 
+ 
+(8) 
+ 
+VM0033, v2.1 
+20 
+𝐷𝑒𝑝𝑡ℎ𝑝𝑒𝑎𝑡−𝑊𝑃𝑆,𝑖,𝑡,100 = 𝐷𝑒𝑝𝑡ℎ𝑝𝑒𝑎𝑡,𝑖,𝑡,0 −∑
+𝑅𝑎𝑡𝑒𝑝𝑒𝑎𝑡𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑖,𝑡
+𝑡=100
+𝑡=1
+ 
+ 
+ 
+(9) 
+For mineral soil: 
+𝐶𝐵𝑆𝐿,𝑖,𝑡100 = 𝐶𝐵𝑆𝐿,𝑖,𝑡0 −∑
+𝑅𝑎𝑡𝑒𝐶𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑖,𝑡
+𝑡=100
+𝑡=1
+ 
+ 
+ 
+ 
+ 
+ 
+(1.0) 
+𝐶𝑊𝑃𝑆,𝑖,𝑡100 = 𝐶𝐵𝑆𝐿,𝑖,𝑡0 −∑
+𝑅𝑎𝑡𝑒𝐶𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑖,𝑡
+𝑡=100
+𝑡=1
+  
+ 
+ 
+ 
+ 
+(11) 
+CBSL,i,t0 = Depthsoil,i,t0 × VC × 10  
+ 
+ 
+ 
+ 
+ 
+ 
+(12) 
+ 
+Where a conservative constant rate of subsidence or carbon loss is applied, a possible negative 
+outcome must be substituted by zero. 
+The carbon content of organic or mineral soil may be taken from measurements within the 
+project area, or from literature involving the project area or similar areas. 
+ 
+2. Stock loss approach 
+The project proponent may also calculate the maximum quantity based on cumulative soil 
+organic carbon loss up to t = 100 as follows: 
+𝐶𝑊𝑃𝑆−𝐵𝑆𝐿,𝑡,100 = ∑
+(𝐶𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑖,𝑡100
+𝑀𝐵𝑆𝐿
+𝑖=1
+× 𝐴𝐵𝑆𝐿,𝑖) −∑
+(𝐶𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑖,𝑡,100 
+𝑀𝑊𝑃𝑆
+𝑖=1
+× 𝐴𝑊𝑃𝑆,𝑖) 
+(13) 
+For organic soil: 
+𝐶𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑡,100 = 10 × ∑
+(𝑅𝑎𝑡𝑒𝑝𝑒𝑎𝑡𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑖,𝑡
+100
+𝑖=1
+× 𝑉𝐶) 
+ 
+ 
+ 
+ 
+(14) 
+𝐶𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑡,100 = 10 × ∑
+(𝑅𝑎𝑡𝑒𝑝𝑒𝑎𝑡𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑖,𝑡
+100
+𝑖=1
+× 𝑉𝐶) 
+ 
+ 
+ 
+ 
+(15) 
+For mineral soil: 
+𝐶𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑡,100 = 10 × ∑
+(𝑅𝑎𝑡𝑒𝐶𝑙𝑜𝑠𝑠−𝐵𝑆𝐿,𝑖,𝑡
+100
+𝑖=1
+× 𝑉𝐶) 
+ 
+ 
+ 
+ 
+(16) 
+𝐶𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑡,100 = 10 × ∑
+(𝑅𝑎𝑡𝑒𝐶𝑙𝑜𝑠𝑠−𝑊𝑃𝑆,𝑖,𝑡
+100
+𝑖=1
+× 𝑉𝐶) 
+ 
+ 
+ 
+ 
+(17) 
+ 
+Where: 
+CWPS-BSL,t100 
+= Difference between soil organic carbon stock in the project scenario and  
+ 
+ 
+baseline scenario at t = 100; t C ha-1 
+CWPS,i,t100 
+= Soil organic carbon stock in the project scenario in stratum i at t = 100 ; t  
+ 
+ 
+C ha-1 
+CBSL,i,t100 
+= Soil organic carbon stock in the baseline scenario in stratum i at t = 100; t C 
+ha-1 
+AWPS,i,t100 
+= Area of project stratum i at t = 100; ha 
+ABSL,i,t100 
+= Area of baseline stratum i at t = 100; ha 
+ 
+VM0033, v2.1 
+21 
+Depthpeat-WPS,i,t100 = Average organic soil depth in the project scenario in stratum i at t = 100; m 
+Depthpeat-BSL,i,t100 = Average organic soil depth in the baseline scenario in stratum i at t = 100; m 
+VC 
+ 
+= Volumetric organic carbon content in organic or mineral soil; kg C m-3 
+Depthpeat,i,t0 
+= Average organic soil depth above the drainage limit in stratum i at the project 
+start date; m 
+Ratepeatloss-BSL,i,t 
+= Rate of organic soil loss due to subsidence and fire in the baseline scenario 
+in stratum i in year t; m yr-1.  
+Ratepeatloss,WPS,i,t 
+= Rate of organic soil loss due to subsidence in the project scenario in stratum 
+i in year t; m yr-1.  
+CBSL,i,t0  
+= Soil organic carbon stock in the baseline scenario in mineral soil in stratum i 
+at the project start date; t C ha-1 
+RateCloss-BSL,i,t 
+= Rate of organic carbon loss in mineral soil due to oxidation in the baseline 
+scenario in stratum i in year t; t C ha-1 yr-1.  
+RateCloss,WPS,i,t 
+= Rate of organic carbon loss in mineral soil due to oxidation in the project 
+scenario in stratum i in year t; t C ha-1 yr-1. This value is conservatively set to 
+zero as loss rates are likely to be negative. This parameter must be reassessed 
+when the baseline is reassessed.  
+Depthsoil,i,t0 
+= Mineral soil depth in stratum i at the project start date (as in Equation 12); m 
+Closs-BSL,i,t100 
+Cumulative soil organic carbon loss in the baseline scenario in stratum i at  
+ 
+ 
+t = 100; t C ha-1 
+Closs-WPS,i,t100 
+= Cumulative soil organic carbon loss in the project scenario in stratum i at  
+ 
+ 
+t = 100; t C ha-1 
+i 
+ 
+= 1, 2, 3 …MBSL strata in the baseline scenario 
+t100 
+ 
+= 100 years after the project start date 
+ Buffer zones 
+Where established, buffer zones must be mapped in accordance with the VCS rules. 
+5.3 
+Carbon Pools 
+The carbon pools included in and excluded from the project boundary are shown in Table 1 
+below. 
+Carbon pools may be deemed de minimis and do not need to be accounted for if together the 
+omitted decrease in carbon stocks or increase in GHG emissions (Table 2) amounts to less than 
+5% of the total GHG benefit generated by the project. Peer reviewed literature or the CDM tool 
+AR-Tool04 Tool for testing significance of GHG emissions in A/R CDM project activities may be 
+used to determine whether decreases in carbon pools are de minimis. 
+Table 1: Selection and justification of carbon pools 
+Carbon Pool 
+Included? 
+Justification/Explanation 
+Aboveground tree biomass 
+Yes 
+Major carbon pool may significantly increase 
+or decrease in both the baseline and project 
+ 
+VM0033, v2.1 
+22 
+scenarios, in the case of establishment or 
+presence of tree vegetation. 
+Aboveground tree biomass in the baseline 
+scenario must be included. 
+Aboveground tree biomass in the project 
+scenario may be included or conservatively 
+omitted. 
+Aboveground non-tree 
+biomass 
+Yes 
+Carbon stock in this pool may increase in the 
+baseline scenario and may increase or 
+decrease in the project scenario. 
+Below-ground biomass 
+Yes 
+Major carbon pool may significantly increase in 
+the baseline, or decrease in the project, or 
+both, in case of presence of tree vegetation. 
+Below-ground biomass in the baseline 
+scenario must be included. 
+Below-ground biomass in the project scenario 
+may be included or conservatively omitted. 
+Litter 
+Yes 
+This pool is optional for WRC methodologies. 
+Litter is only included indirectly in association 
+with the quantification of herbal mass. 
+Dead wood 
+Yes 
+This pool is optional for WRC methodologies. 
+Soil 
+Yes 
+The soil organic carbon stock may increase 
+due to the implementation of the project 
+activity. 
+Wood products 
+Yes 
+Carbon stock in this pool may increase in the 
+project scenario. 
+ 
+5.4 
+Sources of Greenhouse Gases 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 2 
+below. 
+GHG sources may be deemed de minimis and do not have to be accounted for if together the 
+omitted decrease in carbon stocks (Table 1) or increase in GHG emissions amounts to less than 
+5% of the total GHG benefit generated by the project. Peer-reviewed literature or the CDM tool 
+AR-Tool04 Tool for testing significance of GHG emissions in A/R CDM project activities may be 
+used to determine whether increases in emissions are de minimis. 
+ 
+VM0033, v2.1 
+23 
+Table 2: GHG Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+The production of 
+methane by microbes 
+CH4 
+Yes 
+May be conservatively excluded in the 
+baseline scenario. 
+Denitrification/nitrification 
+N2O 
+Yes 
+May be conservatively excluded in the 
+baseline scenario. 
+Burning of biomass and 
+organic soil 
+CO2 
+Yes 
+Implicitly included in the Fire 
+Reduction Premium approach. 
+CH4 
+Yes 
+Implicitly included in the Fire 
+Reduction Premium approach. 
+N2O 
+Yes 
+Implicitly included in the Fire 
+Reduction Premium approach. 
+Fossil fuel use 
+CO2 
+Yes 
+May be conservatively excluded in the 
+baseline scenario. 
+CH4 
+No 
+Conservatively excluded in the 
+baseline scenario. 
+N2O 
+No 
+Conservatively excluded in the 
+baseline scenario. 
+Project 
+The production of 
+methane by microbes 
+CH4 
+Yes 
+Potential major source of emissions in 
+the project in low salinity and 
+freshwater areas.  
+Denitrification/nitrification 
+N2O 
+Yes 
+May increase as a result of the project 
+activity.  
+Burning of biomass 
+CO2 
+Yes 
+CO2 is addressed in carbon stock 
+change procedures. 
+CH4 
+Yes 
+Potential major source of fire 
+emissions. 
+N2O 
+Yes 
+Potential major source of fire 
+emissions. 
+Fossil fuel use 
+CO2 
+Yes/No 
+Potential major source of emissions in 
+an RWE project scenario where 
+movement of soil material with 
+machines and trucks occurs. 
+Not included in a project scenario 
+where planting or sowing occurs 
+without soil movement (e.g., mangrove 
+planting). 
+CH4 
+No 
+Not a significant source of emissions 
+in project fuel use. 
+N2O 
+No 
+Not a significant source of emissions 
+in project fuel use. 
+ 
+VM0033, v2.1 
+24

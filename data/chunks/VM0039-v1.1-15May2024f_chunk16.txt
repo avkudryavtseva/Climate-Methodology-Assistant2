@@ -1,0 +1,361 @@
+5336 
+GAL 
+10.21
+kg/gal 
+54.48 
+ 
+Gasoline 
+ 
+GAL 
+8.78
+kg/gal 
+0 
+Line Power 
+Electricity 
+297000
+kWh 
+0.51
+kg/kWh 
+150.80 
+Subtotal 
+ 
+ 
+ 
+ 
+ 
+1819.98 
+Raw Material Delivery 
+ 
+ 
+ 
+ 
+ 
+ 
+Distance 
+Round 
+Fuel use 
+Emission factor 
+tCO2e 
+ VM0039, v1.1 
+ 
+46 
+ 
+Bitumen Fleet Delivery 
+65 km 
+185.8 
+1 gal/mi 
+10.2
+kg/gal 
+153.00 
+Crushed Rock Fleet Delivery
+11 km 
+3047.2 
+1 gal/mi 
+10.2
+kg/gal 
+424.64 
+Sand Rock Fleet Delivery 
+31 km 
+297.3 
+1 gal/mi 
+10.2
+kg/gal 
+116.75 
+Subtotal 
+ 
+ 
+ 
+ 
+ 
+694.39 
+Total emissions, tCO2e 
+8394.01 
+ 
+Emission intensity, kgCO2e/t 
+ 
+99.39 
+ 
+Table A 2: Summary of GHG Emissions from Hot Mix Facilities and Their Upstream Raw Material 
+Productions 
+GHG emissions from sampling facilities, kgCO2e/t HMA 
+ 
+ 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+13 
+14 
+15 
+16 
+Avg 
+Raw 
+material 
+69.6 68.1 65.6 56.8 
+56.3 47.8 44.8 48.9 42.4 44.7 53.3 60.1 55.9 54.4 
+48.6 47.2 54.0 
+In-plant 
+21.6 18.6 25.3 14.5 
+17.5 20.8 15.4 2.4 
+10.4 16.7 17.4 17.5 19.9 22 
+19.5 14.7 17.1 
+Delivery 
+8.2 
+5.2 
+8.4 
+40.7 
+2.8 
+12.7 15.9 8.1 
+8.2 
+11.6 11.8 11.0 21.2 33.6 
+22.1 18.1 15.0 
+Total 
+99.4 91.9 99.3 111.9 76.8 81.3 76.2 59.4 60.8 72.9 82.4 88.5 96.9 110.1 90.2 80.0 86.1 
+ 
+The emissions associated with to-site delivery and on-site installation were estimated through the 
+survey of patching and roadway projects. Ten HMA patching projects were surveyed to calculate 
+baseline emissions for patching projects. For each project, the operation information for trucks, which 
+deliver the hot mix to the job site and carry the RAP from the job site to the central plant, was obtained 
+from truck driver reports. The truck driver reports recorded the time in and out from the job site for 
+each truck, total mileage travelled, and gallons of diesel used by each truck. The recorded information 
+was then used for estimating the GHG emissions from the trucks when transporting the recycled 
+materials/products and loading/dumping the materials at both the job site and the central plant. The 
+operation of the rest of the equipment/vehicles was obtained from the contractor’s daily report in terms 
+of total labor hours. 
+Three out of ten projects were selected for a manual assessment of the utilization rate of each 
+individual piece of equipment7. The percentage utilization (PU) was calculated using the effective 
+operation time divided by the total labor hours. The average PU values are 0.55 for the asphalt-milling 
+ 
+ 
+7 The patch work was located at the Howard Crossing Apartment, Ellicott City, MD. The sizes of the three patches were 
+884 square feet, 6,969 square feet and 10,080 square feet. 
+ VM0039, v1.1 
+ 
+47 
+ 
+machine; 0.10 for the backhoe; 0.10 for the bobcat/loader; 0.4 for the sweeper/broom; 0.10 for the 
+excavator; 0.33 for the paver and 0.45 for the roller. Different equipment utilization levels will produce 
+different amounts of GHG emissions. According to a study by Lewis et al. (2009), the emission rate of 
+idling equipment is about one quarter of the emission rate of the operating equipment. This difference 
+was simplified and incorporated into the emission calculation as an average conversion factor (CF), 
+which equals PU+0.25(1-PU). Calculation equations for equipment emissions during on-site installation 
+are provided below, and the estimation results are displayed in Table A3. 
+The on-site installation EI (EII) is calculated as follows: 
+EI] = EFST × HRST
+Project amount 
+(A6) 
+Where: 
+EII
+=
+Emission intensity of pavement installation (kgCO2e/t)
+EFEQ
+=
+Equipment emission factor (kgCO2e/hour)
+HREQ
+=
+Equipment operation hours (hour)
+Project amount
+=
+Amount of HMA installed (t)
+ 
+HRST = HRW^ × CF 
+(A7)
+Where: 
+HREQ
+=
+Equipment operation hours (hour)
+HRLA
+=
+Labor hours (hour)
+CF
+=
+Conversion factor
+Baseline emissions for roadways are generated from the Project Emission Estimator (PE-2). PE-2 
+collected and organized construction and rehabilitation data from 11 Michigan Department of 
+Transportation HMA pavement, re-construction, rehabilitation, and maintenance projects throughout 
+the State of Michigan in 2011. The amount of GHG emissions from each project is summarized in Table 
+A4. 
+ 
+Results show that the emissions from the hot mix facility and its upstream raw material production 
+range from 59.4kgCO2e/t HMA to 111.9kgCO2e/t HMA with an average value of 86.1kgCO2e/t HMA; 
+the emissions from HMA installation in patching projects range from 42.7 kgCO2e/t to 135.2 kgCO2e/t 
+with an average value of 64.6 kgCO2e/t; the emissions from HMA installation projects performed on 
+roadways range from 4.5 kgCO2e/t to 145.1 kgCO2e/t with an average value of 55.7 kgCO2e/t. 
+ 
+ VM0039, v1.1 
+ 
+48 
+ 
+Table A 3: GHG Emissions from HMA Installation in Patching Projects 
+ 
+EF 
+(g/h/hp) 
+hp 
+Conversion 
+factor 
+Operation hours of sampled projects 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Milling 
+887.1 
+150 0.66 
+7.2 
+31.8 8.9 
+0 
+7.9 
+10.9 0 
+0 
+5.3 
+6.2 
+Backhoe 
+1025.8 
+80 
+0.33 
+3.5 
+0 
+4.3 
+0 
+3.9 
+5.3 
+3.4 
+3.9 
+2.6 
+3.0 
+Loader 
+1025.8 
+142 0.33 
+7.1 
+31.0 8.7 
+11.7 7.8 
+10.7 6.8 
+3.9 
+5.2 
+6.1 
+Sweeper 
+940.9 
+115 0.55 
+12.1 
+12.1 14.8 19.8 13.2 18.1 11.5 13.2
+4.4 
+10.4
+Paver 
+984.7 
+130 0.50 
+5.4 
+9.7 
+6.7 
+17.9 5.9 
+8.2 
+10.4 5.9 
+3.9 
+4.7 
+Roller 
+1025.6 
+45 
+0.59 
+6.4 
+11.4 15.8 42.3 14.1 19.3 18.5 14.1
+9.4 
+5.5 
+Truck (on-
+site) 
+886.6 
+255 1 
+15.5 
+99.8 0.1 
+0.1 
+4 
+8 
+0.1 
+0.17
+10.6 0.1 
+Truck (off-
+site) 
+10.2 
+kg/mile 
+mile 1 
+530 
+0 
+410
+731
+898
+372
+838
+1008 956
+657
+Placed HMA, t 
+ 
+ 
+100 
+727
+195
+291
+195
+218
+245
+329 
+339
+140
+Delivery distance, mile 
+ 
+ 
+66 
+23 
+26 
+31 
+58 
+21 
+43 
+38 
+35 
+59 
+GHG (kgCO2e/t) 
+ 
+ 
+135.2 47.3 52.6 53.3 79.1 59.6 54.3 42.7 45.0 76.5 
+ 
+Table A 4: GHG Emissions from HMA Replacement on Roadways 
+ 
+ 
+US-131 
+US-31 
+US-41 
+I-69 
+M-20 
+M-55 
+M-28 
+US-41 
+Asphaltic materials t 
+20428 
+74784 
+19512 
+23250 
+23250 
+10939 
+891 
+13261 
+Equip. emission 
+tCO2 
+252.1 
+874.7 
+1287.5 
+3373 
+303.3 
+48.9 
+127.1

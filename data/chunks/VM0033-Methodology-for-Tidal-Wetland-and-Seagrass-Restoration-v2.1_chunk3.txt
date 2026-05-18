@@ -1,0 +1,118 @@
+3 DEFINITIONS 
+In addition to the definitions set out in VCS document Program Definitions, the following 
+definitions apply to this methodology: 
+Allochthonous Soil Organic Carbon 
+Soil organic carbon originating outside the project area and being deposited in the project area 
+ 
+Autochthonous Soil Organic Carbon 
+Soil organic carbon originating or forming in the project area (e.g., from vegetation) 
+ 
+Carbon Preservation Depositional Environment (CPDE) 
+Type of sub-aquatic sediment deposition environment that impacts the amount of deposited 
+organic carbon that is preserved. Carbon preservation is affected by mineral grain size, 
+sediment accumulation and burial rates, O2 availability in the overlying water column and 
+sediment hydraulic conductivity. 
+ 
+VM0033, v2.1 
+8 
+ 
+Degraded wetland 
+A wetland which has been altered by human or natural impact through the impairment of 
+physical, chemical and/or biological properties, and in which the alteration has resulted in a 
+reduction of the diversity of wetland-associated species, soil carbon or the complexity of other 
+ecosystem functions which previously existed in the wetland  
+ 
+Deltaic Fluidized Mud 
+A Carbon Preservation Depositional Environment (CPDE) type. This subaquatic depositional 
+environment is characterized by sediment accumulation rates generally greater than 0.4 g 
+sediment per cm2 per year in deltaic settings, consisting primarily of fluidized (unconsolidated) 
+fine-grain materials. Surface sediments may be re-suspended by waves and tides, but 
+deposited organic matter will be buried. Examples of these can be found in the Amazon and 
+Mississippi deltas. 
+ 
+Extreme Accumulation Rate 
+A Carbon Preservation Depositional Environment (CPDE) type. This subaquatic depositional 
+environment is characterized by accumulation rates generally greater than 1 g sediment per 
+cm2 per year resulting in rapid and long-term burial of deposited sediments. Examples of these 
+systems can be found in the Ganges-Brahmaputra and Rhone River deltas. 
+ 
+Impounded Water  
+A pool of water formed by a dam or pit 
+ 
+Marsh 
+A subset of wetlands characterized by emergent soft-stemmed vegetation adapted to saturated 
+soil conditions1  
+ 
+Mineral Soil 
+Soil that is not organic 
+ 
+Mudflat 
+A subset of tidal wetlands consisting of soft substrate not supporting emergent vegetation  
+ 
+Normal marine 
+A Carbon Preservation Depositional Environment (CPDE) type. This is a depositional 
+environment that does not meet the definition of the other four defined conditions (i.e., deltaic 
+fluidized mud, extreme accumulation rate, oxygen depletion zone, or small mountainous river). 
+ 
+1 There are many different kinds of marshes, ranging from the prairie potholes to the Everglades, coastal to inland, freshwater 
+to saltwater, but the scope of this methodology is limited to tidal marshes. Salt marshes consist of salt-tolerant and dwarf 
+brushwood vegetation overlying mineral or organic soils.  
+ 
+VM0033, v2.1 
+9 
+Normal marine environments typically have low sedimentation rates and high O2 availability in 
+overlying sediments. 
+ 
+Open Water 
+An area in which water levels do not fall to an elevation that exposes the underlying substrate 
+ 
+Organic Soil 
+Soil with a surface layer of material that has a sufficient depth and percentage of organic carbon 
+to meet thresholds set by the IPCC (Wetlands supplement) for organic soil. Where used in this 
+methodology, the term peat is used to refer to organic soil. 
+ 
+Oxygen (O2) Depletion Zone 
+A Carbon Preservation Depositional Environment (CPDE) type. This is a depositional 
+environment with low O2 levels in water overlying sediments due to restricted hydrologic 
+circulation or impaired water quality that leads to hypoxic or anaerobic conditions (including 
+euxinic and semi-euxinic). 
+ 
+Salinity Average 
+The average water salinity value of a wetland ecosystem used to represent variation in salinity 
+during periods of peak CH4 emissions (e.g., during the growing season in temperate ecosystems) 
+ 
+Salinity Low Point 
+The minimum water salinity value of a wetland ecosystem used to represent variation in salinity 
+during periods of peak CH4 emissions (e.g., during the growing season in temperate ecosystems) 
+ 
+Seagrass Meadow 
+An accumulation of seagrass plants over a mappable area2 
+ 
+Small Mountainous River 
+A Carbon Preservation Depositional Environment (CPDE) type. This is a depositional 
+environment from which the sediment is supplied from small mountainous rivers, most 
+commonly found in tectonically active margins and small steep gradients. Sediment 
+accumulation rates are generally greater than 0.27 g sediment per cm2 per year. Examples of 
+these systems can be found in the rivers flowing from the island of Taiwan and the Eel River of 
+California. 
+ 
+Tidal Wetland 
+A subset of wetlands under the influence of the wetting and drying cycles of the tides (e.g., 
+marshes, seagrass meadows, tidal forested wetlands, and mangroves). Sub-tidal seagrass 
+ 
+2 This definition includes both the biotic community and the geographic area where the biotic community occurs. Note that 
+the vast majority of seagrass meadows are sub-tidal, but a percentage are intertidal.  
+ 
+VM0033, v2.1 
+10 
+meadows are not subject to drying cycles but are still included in this definition. 
+ 
+Tidal Wetland Restoration 
+Re-establishing or improving the hydrology, salinity, water quality, sediment supply and/or 
+vegetation in degraded or converted tidal wetlands. For the purpose of this methodology, this 
+definition also includes activities that create wetland ecological conditions on uplands under the 
+influence of sea level rise or activities that convert one wetland type to another or activities that 
+convert open water to wetland. 
+ 
+Water Table Depth 
+Depth of sub-soil or above-soil surface of water, relative to the soil surface

@@ -1,0 +1,236 @@
+11 
+UNCERTAINTY AND QUALITY MANAGEMENT 
+Quality management procedures are required for the management of data and information, including 
+the assessment of uncertainty, relevant to the project and baseline scenarios. As far as practical, 
+uncertainties related to the quantification of GHG emission reductions and removals by sinks should be 
+reduced. 
+To help reduce uncertainties in the accounting of emissions and removals, this methodology uses 
+whenever possible the proven methods from the GPG-LULUCF, GPG-2000, and the IPCC’s Revised 
+2006 Guidelines. As well, tools and guidance from the CDM Executive Board on conservative 
+estimation of emissions and removals are also used. Despite this, potential uncertainties still arise from 
+the choice of parameters to be used. Uncertainties arising from, for example, biomass expansion 
+factors (BEFs) or wood density, would result in uncertainties in the estimation of both baseline net GHG 
+removals by sinks and the actual net GHG removals by sinks - especially when global default values 
+are used. 
+It is recommended that project proponent identifies key parameters that would significantly influence 
+the accuracy of estimates. Local values that are specific to the project circumstances should then be 
+obtained for these key parameters, whenever possible. These values should be based on: 
+• 
+Data from well-referenced peer-reviewed literature or other well-established published 
+sources;29 or, 
+                                                     
+29   Typically, citations for sources of data used should include: the report or paper title, publisher, page numbers, 
+publication date etc (or a detailed web address). If web-based reports are cited, hardcopies should be included 
+as annexes in the project description if there is any likelihood such reports may not be permanently available. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 81 
+ 
+• 
+National inventory data or default data from IPCC literature that has, whenever possible and 
+necessary, been checked for consistency against available local data specific to the project 
+circumstances; or 
+• 
+In the absence of the above sources of information, expert opinion may be used to assist with 
+data selection. Experts will often provide a range of data, as well as a most probable value for 
+the data. The rationale for selecting a particular data value should be briefly noted in the project 
+description. For any data provided by experts, the project description must also record the 
+expert’s name, affiliation, and principal qualification as an expert (eg, that they are a member of 
+a country's national forest inventory technical advisory group) as well as a 1-page summary CV 
+for each expert consulted, included in an annex. 
+In choosing key parameters, or making important assumptions based on information that is not specific 
+to the project circumstances, such as in use of default data, project proponents should select values 
+that will lead to an accurate estimation of net GHG removals by sinks, taking into account uncertainties. 
+If uncertainty is significant, project proponents should choose data such that it indisputably tends to 
+under-estimate, rather than over-estimate, net GHG removals by sinks. 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 82 
+ 
+APPENDIX 1:  TABLE FOR REPORTING THE CALCULATION OF TOTAL VCUS THROUGH NET CARBON STOCK CHANGES AND 
+GREENHOUSE GAS EMISSION REDUCTIONS 
+ 
+ 
+ 
+ 
+ 
+ ΔCBSL  
+Δ CWPS  
+Δ CLK  
+Δ CIFM  
+Project  
+year 
+Calendar  
+year 
+Carbon stock  
+changes 
+ 
+ GHG emissions 
+Carbon stock  
+changes 
+ 
+GHG emissions 
+Carbon stock 
+changes 
+ GHG emissions 
+Carbon stocks 
+ 
+  
+annual 
+cumulative 
+annual 
+cumulative 
+annual 
+cumulative 
+annual 
+cumulative 
+annual 
+cumulative 
+annual cumulative 
+annual cumulative 
+annual cumulative 
+Nr 
+yr 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+tCO2e 
+1 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+3 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+… 
+  
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+N 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 83 
+ 
+DOCUMENT HISTORY 
+ 
+Version 
+Date 
+Comment 
+v1.0  
+23 Nov 2010 
+Initial version released 
+v1.1 
+24 Aug 2011 
+Updates  
+1) Equation (7) of the wood products section is updated to correct for 
+the error of applying carbon stocks in an equation intended for 
+fractions (%). This makes the equations (8) and (9) redundant and 
+they have been removed. 
+2) Equation (51) for the calculation of VCU’s is updated to correct for 
+the error of applying the buffer withholding percentage to GHG 
+emissions and removals.  
+3) Various typographical errors: 
+a. Reference to section 3.4.7 instead of 3.4.6 on page 17; 
+b. delta symbols in table 3; and,  
+c. other corrections 
+v1.2 
+23 Jul 2013 
+Updates 
+1) Procedures to account for the decay of carbon from the dead wood 
+and harvested wood products pools have been included. 
+2) Minor edits to language were made (eg, the term ‘must’ has been 
+used for required procedures).

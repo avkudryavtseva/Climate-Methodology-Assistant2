@@ -1,0 +1,359 @@
+117 
+QR 
+Quantity of harvestable timber to be claimed on upcoming project verification.  
+Expressed in m3. 
+N/A 
+QN 
+Quantity of harvestable timber supply remaining in the market.  Expressed in m3. 
+N/A 
+Method for deriving a substitutability parameter (γ)  
+There are two key factors to consider when determining the substitutability parameter. The first is 
+the tree species breakdown of the project area, and the second is cross-species product 
+substitutability of each given species.78  For example, how many cedar products can be replaced 
+with pine products? 
+A project proponent must use a representative and validated sample of tree species harvest 
+makeup for their project area. If a substitution parameter is then calculated for this representative 
+sample, on average it is going to be accurate (representative) of a project in this area.  When 
+utilizing this approach, we are mainly concerned with “specialty woods” that are more difficult to 
+substitute; such as cedar or cypress. The contribution to total harvest of these specialty woods is 
+combined with species specific substitutability to create a weighted average for the substitutability 
+parameter.  The weighted average is then applied to the leakage equation, reducing leakage from 
+a project by the weighted average (represented as a percentage) of its original level. 
+Weighted Substitution Parameter 
+ 
+ 
+ 
+ 
+ 
+ 
+Equation 43 
+γ = ∑
+T)
+;
+)•.
+× S) 
+            [43] 
+Where: 
+Parameter 
+Description 
+Default Value 
+γ 
+Substitution Parameter –  
+  A parameter introduced into the referenced leakage equation to 
+take into account specialty woods. 
+N/A 
+i 
+A specific tree type 
+N/A 
+n 
+Number of tree types within the project. Dimensionless. 
+N/A 
+Ti 
+Tree type i’s share of project’s total marketable tree volume. 
+Expressed in %. 
+N/A 
+Si 
+Substitutability of tree type i 
+N/A 
+ 
+78 Refer to Provincial Base Case Approach for the Coastal Market for an example of the application of the 
+substitutability parameter.  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+118 
+Additional requirements for proponents wishing to estimate their own project specific leakage 
+Where a project-specific approach is taken for deriving any of the parameters noted above, the 
+additional requirements detailed in Table 20 must also be satisfied. 
+Table 20: Additional Requirements for Using Coefficients in the Leakage Equation 
+Variable 
+Comments 
+Supply (e) and 
+Demand (E) 
+Elasticities 
+North American market data must be used when estimating elasticities for the 
+purpose of determining leakage.  
+The price elasticity of total demand of North American must be used if available, 
+otherwise, the price elasticity of total demand (including both domestic demand 
+and import demand) of US must be used as US demand represents the majority 
+of North American demand. 
+The price elasticity of total supply of North American market must be used if 
+available; otherwise an export supply elasticity from Canada to the U.S. may be 
+acceptable.  
+Elasticity estimates used by a project proponent for both supply and demand must 
+be derived from the same data sets and information/ study in order to ensure 
+consistency in derivation and validate their application for estimating project 
+leakage. 
+Both market supply and market demand elasticities used in the  leakage 
+methodology must be long-run elasticity estimates.   
+Carbon 
+sequestration values  
+(CN and CR) 
+ 
+It is difficult/ impossible to predict where exactly CN  occurs in North America and 
+what the justified value would be.   
+Using 1:1 ratio is a conservative approach.  Proponents choosing to develop their 
+own leakage value must use a value of 1 for CN and CR in the leakage formula.   
+Preservation 
+Parameter  
+(F) 
+ 
+As projects will vary in size and correspondingly to the market share of timber in 
+the offset area, the preservation parameter can be derived to reflect the specific 
+size of a project.   
+This co-efficient has a minimal effect in the leakage equation but if estimated 
+appropriately can offer a more specific overall leakage estimate for any given 
+project. 
+Proponents wishing to estimate this parameter must demonstrate the harvest 
+potential (or forgone harvest since the last verification period) that their respective 
+project has in terms of total North American timber sales over the previous year. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+119 
+Substitutability 
+Parameter  
+(γ) 
+ 
+Proponents must follow the substitution guidelines given above when calculating 
+their own substitution parameter. 
+Proponents must demonstrate the tree species contribution/makeup within their 
+project area. 
+Proponents must demonstrate the substitutability of tree species in terms of 
+potential wood products.  
+Proponents must apply long-run, own- and cross-price elasticities of demand for 
+substitutable wood products in North American market to derive the 
+substitutability parameters. 
+Market leakage (Option 3) 
+When using Option 3, project proponents must provide justification and evidence of how the 
+leakage discount factor is determined. 
+The outcome of the VCS Leakage Discount Factor determination, provided in the Table 2 of the 
+VCS Methodology Requirements document, will be equal to the value for LEFM in the following 
+equation. Table 2 is only eligable for IFM activities.  
+Equation 44 
+LE>,* = max{0, LEF> × TPE*}      [44] 
+ 
+Where: 
+ 
+Parameter 
+Description 
+Default Value 
+LEM,t 
+Total increase in project emissions due to market leakage from all 
+affected carbon pools and sources during reporting period t. 
+Expressed in tCO2e. 
+N/A 
+LEFM 
+Market leakage factor, expressing the percentage of the total 
+increase in project emissions due to market leakage during reporting 
+period t.  Expressed in %. 
+N/A 
+TPEt 
+The total project emissions reductions, considering all pools and 
+sources during reporting period t. Expressed in tCO2e. See Equation 
+34. 
+N/A 
+ 
+8.5  
+Net GHG Emission Reductions and Removals 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+120 
+The equations for calculating total project and baseline emission reductions and/or removals are 
+given in section 8 above.  The net GHG emission reductions and removal  calculation is shown in 
+Equation 45 below. 
+ 
+Equation 45 
+NPE* = TPE* − TBE* − LE-'.[,* 
+ 
+ 
+ 
+[45] 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+NPEt 
+Net GHG emissions reductions and removals of the project during 
+reporting period t. Expressed in tCO2e. 
+N/A 
+TPEt 
+The total project emissions reductions, considering all pools and 
+sources during reporting period t. Expressed in tCO2e.  
+N/A 
+TBEt 
+The total baseline emissions reductions, considering all pools and 
+sources during reporting period t. Expressed in tCO2e 
+N/A 
+LEPE16,t 
+The amount of GHG, emitted from Leakage affected carbon pools 
+during reporting period t. Only relevant for CO2; otherwise, set to 
+zero.  Expressed in tCO2e. 
+N/A 
+8.5.1 
+Net change in carbon stocks 
+For quantifying the number of buffer credits to be withheld in the AFOLU pooled buffer account, 
+net change in carbon stocks must be calculated using Equation 46. 
+Equation 46 
+NTR*  = ∆TR--,* − ∆TR0-,*                      [46] 
+Where: 
+Parameter 
+Description 
+Default Value 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+121 
+ 
+NTRt 
+Net change in carbon stocks during reporting period . Expressed in 
+tCO2e. 
+N/A 
+ 
+∆TRPP,t 
+The net incremental GHG removals by project pools achieved by 
+the project during reporting period t. A net increase in total 
+removals is expressed as a positive number.  Expressed in tCO2e. 
+N/A 
+ 
+∆TRBP,t 
+The net incremental GHG removals by baseline pools achieved by 
+the baseline during reporting period t. A net increase in total 
+removals is expressed as a positive number.  Expressed in tCO2e. 
+N/A 
+8.5.2 
+Long Term Averaging  
+Where ARR or IFM projects are to be validated with the VCS Program, and where the project 
+scenario includes harvesting, the maximum number of GHG credits available to the project must 
+not exceed the long term average GHG benefit79.  Under these conditions, proponents must 
+therefore use the methods set out in this methodology to estimate the expected total GHG benefit 
+of the project for each year of a time period identified following the guidance given in the VCS 
+AFOLU Requirements. Specifically, the period over which the long term GHG benefit must be 
+calculated must be established, noting the following: 
+• 
+For ARR or IFM projects undertaking even-aged management, the time period over 
+which the long term GHG benefit is calculated must include at minimum one full 
+harvesting/cutting cycle, including the last harvest/cut in the cycle.  
+• 
+For ARR projects under conservation easements with no intention to harvest after the 
+project crediting period, or for selectively cut IFM projects, the time period over which the 
+long-term average is calculated must be the length of the project crediting period. 
+Equation 47 below, will then be used to calculate the average GHG benefit. 
+ Equation 47 
+[i = ∑
+ NPE*
+;
+*•u
+n
+⁄                           [47] 
+Where: 
+Parameter 
+Description 
+Default Value 
+LA 
+The long term average GHG benefit.  Expressed in tCO2e. 
+N/A 
+ 
+79 See section 3.2.20  of the VCS Standard v4.0 for further details  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+122 
+NPEt 
+Net GHG emissions reductions and removals of the project 
+during reporting period t. Expressed in tCO2e. 
+N/A 
+n 
+Total number of years in the established time period 
+N/A 
+ 8.5.3  VCUs Eligible for Issuance 
+The quantity of VCUs eligible for issuance must be determined using Equation 48. 
+ 
+ 
+Equation 48 
+Credits* = Min (LA, NPE*) −Risk × NTR*  
+ 
+ 
+[48] 
+Where:  
+Parameter 
+Description 
+Default Value 
+Creditst 
+Total amount of credits available for reporting period t.   
+N/A 
+LA 
+The long term average GHG benefit.  Expressed in tCO2e. 
+N/A 
+NPEt 
+Net change in GHG emissions reductions and/or removals for 
+reporting period t.  Expressed in tCO2e. 
+N/A 
+Risk 
+Non-permanence risk rating as determined using the AFOLU 
+Non-Permanence Risk Tool. 
+N/A 
+ 
+NTRt 
+Net change in carbon stocks for reporting period t.  Expressed in 
+tCO2e. 
+N/A 
+Note that where the project is a REDD project, or where ARR or IFM project scenario does not 
+include harvesting, long term averaging will not apply, and therefore the equation will read: 
+Equation 49 
+Credits* = NPE* − (Risk × NTR*)                   [49] 
+ 
+Parameter 
+Description 
+Default Value 
+Creditst 
+Total amount of credits available for reporting period t.   
+N/A 
+NPEt 
+Net change in GHG emissions reductions and/or removals for 
+reporting period t.  Expressed in tCO2e. 
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+123 
+Risk 
+Non-permanence risk rating as determined using the AFOLU 
+Non-Permanence Risk Tool. 
+N/A 
+NTRt 
+Net change in carbon stocks for reporting period t.  Expressed in 
+tCO2e. 
+N/A 
+ 
+ 
+ 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+124

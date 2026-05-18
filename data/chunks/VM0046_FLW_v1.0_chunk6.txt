@@ -1,0 +1,116 @@
+5 PROJECT BOUNDARY 
+The project boundary includes the jurisdiction(s) where: 
+1) The mass of food that would have been wasted (i.e., sent to an FLW destination) in the 
+baseline scenario (i.e., FLW flows) is generated (i.e., FLW source); 
+2) The baseline scenario FLW destinations are located; and 
+3) The recovered food is used or consumed due to the project activities.  
+Baseline emission sources 
+The main baseline emissions accounted for under this methodology are associated with the 
+treatment of food at the FLW destination. Emissions from transport activities of FLW flows to the 
+FLW destination may be accounted for with available evidence and collected or inferred from 
+available data.  
+Project emission sources 
+GHG emissions from recovered food transport, processing, packaging, storage, distribution, and 
+any other project GHG emission source not included in the baseline scenario must be included. 
+Other GHG emissions from eventual discards of recovered food and from co-product 
+displacement in FLW destinations with valorization must be included as leakage emissions (see 
+Section 8.3). An illustrative diagram is presented in Figure 1. 
+ 
+Emissions that do not change between the project and baseline scenarios are excluded from the 
+project boundary. These may include emissions associated with food storage, handling, 
+preparation and consumption, such as refrigeration or freezing, cooking, digestion of food and 
+treatment of human excreta. 
+ 
+Figure 1: Simplified schematic diagram of the project boundary 
+ 
+ 
+VM0046, v1.0 
+9 
+ 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 1. 
+Table 1: GHG sources included in or excluded from the project boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Food treatment at 
+FLW destination 
+CO2 
+No 
+Biogenic CO2 emissions from food are 
+assumed to be climate-neutral and are 
+therefore excluded. 
+CH4 
+Yes 
+Biogenic CH4 emissions are a major GHG 
+source of emissions in the treatment of 
+FLW  
+N2O 
+Yes 
+N2O emissions may arise from landfill, 
+combustion, and digestate application.  
+Transportation of 
+FLW and recovered 
+food  
+CO2 
+Yes 
+CO2 emitted from the combustion of fossil 
+fuels consumed to transport FLW and 
+recovered food must be included. Indirect 
+CO2 emitted from electricity production to 
+charge the batteries of electric vehicles 
+must be included  
+CH4 
+Optional 
+De minimis, therefore may be excluded 
+N2O 
+Optional 
+Project 
+Recovered food 
+processing and 
+other activities 
+(electricity and fossil 
+fuel consumption) 
+CO2 
+Yes 
+CO2 may be emitted from the generation 
+of electricity and fossil fuels consumed 
+during the processing of recovered food. 
+CH4 
+Optional 
+De minimis, therefore may be excluded 
+N2O 
+Optional 
+Recovered food 
+processing (biogenic 
+emissions of 
+recovered food) 
+CO2 
+No 
+Biogenic CO2 emissions from food are 
+assumed to be climate-neutral and are 
+therefore excluded  
+CH4 
+Yes 
+Must be included if produced during the 
+processing of recovered food  
+ 
+N2O 
+Yes 
+Additional 
+ingredients, 
+packaging, and 
+chemicals  
+CO2 
+Yes 
+Any other GHG derived from the use of 
+ingredients, food additives, chemicals and 
+packaging materials used for the 
+processing, storage, handling, packaging, 
+and distribution of the recovered food 
+must be included 
+CH4 
+Yes 
+N2O 
+Yes

@@ -1,0 +1,63 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to improved rice cultivation practices that decrease net emissions of 
+CH4, N2O, and/or CO2. The methodology is globally applicable.  
+This methodology is applicable under the following conditions: 
+1) Projects implement improved irrigation management practices that result in CH4 
+emission reductions from methanogenesis (i.e., “main project activities”), including at 
+least one of the following:  
+a) Single drainage and/or a shortened period of flooded condition 
+b) Alternate wetting and drying (AWD)  
+c) Use of direct seeded rice (DSR)  
+Note – Projects may implement additional activities to further reduce CH4 emissions and/or 
+reduce N2O and/or CO2 emissions (i.e., “optional project activities”), including use of 
+methanotrophs, introduction of short-duration or low-emission rice cultivars where project 
+proponents ensure no material changes in carbon inputs to the system through root biomass, 
+avoided biomass burning (of rice residues), reductions in fossil fuel use, improvements in 
+nitrogen management (i.e., reduction in total nitrogen applied and/or the use of nitrification 
+inhibitors or slow-release nitrogen fertilizers), and application of biochar to soils. 
+ 
+VM0051, v1.0 
+ 
+ 
+10 
+2) Projects introducing or implementing quantitative adjustments (e.g., decrease in 
+fertilizer application rate or fossil fuel use) exceed 5% of the pre-existing value 
+calculated as the average value over the historical look-back period, developed for the 
+baseline schedule of activities (see Section 6).  
+3) The project rice fields are equipped with controlled irrigation and drainage facilities, 
+such that appropriate flooded/non-flooded soil conditions can be established and 
+desired emission reductions can be achieved. 
+4) The introduced project activities are not subject to any local regulatory restrictions as 
+per the most recent requirements of the VCS Standard. 
+5) The project area has not been cleared of native ecosystems within the 10 years 
+immediately preceding the project start date. 
+6) The project fields maintain the same number of rice cultivation periods per year as in 
+the historical look-back period (e.g., no shift from three to two growing seasons). 
+This methodology is not applicable under the following conditions: 
+7) Practices are introduced that result in material declines in SOC stocks due to declines 
+in the carbon input rate to soils (e.g., increased rice straw removal, decreased 
+application rate of manure or compost, and introduction of new cultivars known to have 
+a materially smaller root system than the cultivar(s) used in the baseline)2  
+8) Rice is grown under upland,3 rainfed or deep-water,4 or non-irrigated lowland rice 
+production systems. 
+9) Projects change off-season (i.e., outside of the rice cultivation period) management 
+practices (e.g., fertilizer application rates, tillage, crop rotations and crop types, and/or 
+deviation of livestock management from historical off-season management practices). 
+The following exceptions apply: 
+a) Avoided crop residue burning after harvest (during the off-season)  
+b) Reducing the flooding period prior to the start of the cultivation period only on 
+fields that have no crop rotations (i.e., fields exclusively dedicated to flooded 
+rice production) 
+ 
+2 Projects that seek credits for SOC stock increases or employ practices that may result in material declines in SOC must 
+use VM0042. 
+3 A type of water regime in which fields have well-drained soils without surface water accumulation and are never 
+flooded for a significant period of time 
+4 A type of water regime in which fields are flooded for a significant period of time and water inputs depend solely on 
+precipitation with no controlled irrigation systems 
+ 
+VM0051, v1.0 
+ 
+ 
+11
+10) Projects seek to credit CO2 removals due to the use of biochar.5

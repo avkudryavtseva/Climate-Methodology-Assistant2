@@ -1,0 +1,349 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+This methodology proposes three approaches to the quantification of baseline emissions and 
+two approaches to the quantification of project emissions, the applicability of each depending 
+on data availability.  
+Figure 1 outlines the steps involved in determining baseline and project emissions. The steps 
+are listed below and explained in more detail in the following sections. 
+ 
+Figure 1: Decision Tree for Determining CH4 Emissions from Enteric Fermentation 
+ 
+8.1 Baseline Emissions 
+Emissions in the baseline scenario are estimated as the sum of annual emissions from enteric 
+fermentation according to the following equation: 
+𝐵𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖= ∑
+[𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗]
+𝑛
+𝑗=1
+ × 𝐺𝑊𝑃
+1000 
+(1) 
+Where:  
+𝐵𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖 = Total baseline CH4 emissions from livestock enteric fermentation on farm i (tCO2e) 
+ 
+VM0041, Version 2.0 
+11 
+Where the project activity includes multiple farms, emissions in the baseline 
+scenario are estimated as the sum of annual emissions from each farm i as 
+∑
+[𝐵𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖]
+𝑛
+𝑖=1
+ 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗= Enteric CH4 emissions factor for animal group j during the monitoring period  
+(kg CH4) 
+𝐺𝑊𝑃 
+ = Global Warming Potential of methane (dimensionless) 
+This methodology provides three options for determining the enteric emission factor 
+(𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑗). Depending on the availability of relevant project data and measurements, the 
+project proponent must choose the most appropriate of the following options for each animal 
+group. 
+𝑬𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 Option 1 
+Option 1 calculates the enteric emission factor for each animal group by using direct enteric 
+CH4 measurements to estimate the CH4 production per animal group per day (enteric emissions 
+production factor, 𝐸𝐹𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛𝑖,𝑗). The enteric emissions production factor for each animal 
+group measured by the chosen technology must be available at validation. Using Option 1, the 
+enteric emission factor for each animal group is calculated as follows: 
+𝐄𝐅𝐄𝐧𝐭𝐞𝐫𝐢𝐜𝐢,𝐣= 𝐄𝐅𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧𝐢,𝐣× 𝐍𝐢,𝐣× 𝐃𝐚𝐲𝐬𝐢,𝐣 
+(2) 
+Where: 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗      = Enteric CH4 emissions factor for animal group j during the monitoring period  
+(kg CH4) 
+𝐸𝐹𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛𝑖,𝑗 = Mean enteric emissions production factor for animal group j during the baseline 
+or monitoring period (on-site direct measurement by chosen technology, see 
+Appendix 2) (kg CH4 head-1 d-1) 
+𝐷𝑎𝑦𝑠𝑖,𝑗  
+= Number of days spent on farm i by each animal in group j during the  
+monitoring period (d) 
+𝑁𝑖,𝑗 
+= Average number of head in each animal group j on farm i in the monitoring  
+period (head) 
+The baseline emissions production factor (𝐸𝐹𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛) may be measured prior to project 
+implementation with a sample for each animal group subsequently included in the project. 
+Alternatively, a control group for each animal group can be used during project implementation, 
+thus allowing baseline monitoring and project monitoring to occur simultaneously. The control 
+group is used as a baseline measure and is identical to all other animals with the exception 
+that it does not receive the feed ingredient. Once determined, 𝐸𝐹𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 remains fixed for the 
+project crediting period. See Appendix 2 for further details regarding direct methane 
+measurement technologies and procedures. 
+Farm-specific data (e.g., gross energy intake, DMI, and nutrient composition) from two 
+consecutive years prior to project implementation must be provided during validation. These 
+ 
+VM0041, Version 2.0 
+12 
+data may be given per group of animals and will be used to demonstrate that the baseline 
+measured using Option 1 does not represent a biased event compared to prior conditions at 
+the farm, and therefore 𝐸𝐹𝑃𝑟𝑜𝑑𝑢𝑐𝑡𝑖𝑜𝑛 reflects average activity of the project location. 
+𝑬𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 Option 2 
+Option 2 provides procedures to calculate the enteric emission factor for each animal group by 
+applying an IPCC Tier 2 method, using the following equation: 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗= [𝐺𝐸𝐼𝑗× 𝑌𝑚𝑗
+100 × 𝑁𝑖,𝑗× 𝐷𝑎𝑦𝑠𝑖,𝑗] × 𝐸𝐶−1 
+(3) 
+Where: 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗  = Enteric CH4 emissions factor for animal group j during the monitoring period (kg  
+CH4) 
+𝐺𝐸𝐼𝑗 
+= Average gross energy intake (GEI) per animal group j on farm i (MJ head-1 d-1) 
+𝑌𝑚𝑗              = Conversion factor indicating the proportion of GEI converted to enteric CH4 
+energy by animal group j (see Appendix 3); energy of CH4 as a percentage of 
+gross energy (dimensionless). 
+𝐷𝑎𝑦𝑠𝑖,𝑗 
+= Number of days3 spent on farm i by each animal in group j during the monitoring  
+period (d) 
+𝑁𝑖,𝑗  
+= Average number of head in animal group j on farm i in the monitoring  
+period (head) 
+𝐸𝐶  
+= Energy content of methane (55.65 MJ kg-1) 
+Gross energy intake (GEI) is calculated by multiplying dry matter intake (DMI) by the energy 
+density of the feedstuff, using the following equation: 
+𝐺𝐸𝐼𝑗 = [𝐷𝑀𝐼𝑗 × 𝐸𝐷] 
+(4) 
+Where: 
+𝐷𝑀𝐼𝑗  = Average dry mass of feed consumed by animal group j in a given day (kg head-1 d-1) 
+𝐸𝐷  
+= Average energy density of dry matter (MJ kg-1). Default values of 19.10 MJ kg-1 for  
+diets including edible oils with fat content in the range of 4 to 6% or 18.45 MJ kg-1 for 
+diets including edible oils with fat content below 4% may be used. 
+𝑬𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 Option 3 
+Option 3 is only suitable for animal species listed in Appendix 4, and where the project 
+proponent does not have the required data for Option 2. The enteric emission factor for each 
+animal group is calculated as follows: 
+ 
+3 The number of days could be less than 365. For example, in the case of young cattle, the number of days represents 
+the length of stay in a specific group. 
+ 
+VM0041, Version 2.0 
+13 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗= ∑[𝐸𝐹𝑖,𝑗× 𝑁𝑖,𝑗× 𝐷𝑎𝑦𝑠𝑖,𝑗]
+𝑖
+ 
+(5) 
+Where: 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗 = Enteric CH4 emissions factor for animal group j during the monitoring period (kg 
+CH4) 
+𝐸𝐹𝑖,𝑗 
+= Average enteric CH4 emissions factor for animal group j during the monitoring  
+period (national or regional specific factors, or those provided in Appendix 4) (kg 
+CH4 head-1 d-1) 
+𝐷𝑎𝑦𝑠 
+= Number of days spent on farm i by each animal in group j during the monitoring  
+period (d) 
+𝑁𝑖,𝑗 
+= Average number of head in animal group j on farm i in the monitoring period  
+(head) 
+8.2 Project Emissions 
+Emissions in the project scenario are estimated as the sum of annual emissions from enteric 
+fermentation, and from the production, transport, and application of the ingredient, according 
+to the following equation: 
+𝑃𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖 = ∑
+[𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗] × [1 −𝐸𝑅𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑗] × [𝐺𝑊𝑃
+1000] + 𝐸𝐹𝑀𝐸𝑖
+𝑛
+𝑗=1
+ 
+(6) 
+Where: 
+𝑃𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖 = Total project enteric CH4 emissions from livestock enteric fermentation on farm i,  
+and from the production and transport of the ingredient used during the monitoring 
+period (tCO2e) 
+Where the project activity includes multiple farms, emissions in the project 
+scenario are estimated as the sum of annual emissions from each farm i as 
+∑
+[𝑃𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖] 
+𝑛
+𝑖=1
+ 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗 = Enteric CH4 emissions factor for each animal group j during the monitoring period,  
+determined using Equations (2), (3), or (4) (kg CH4) 
+𝐸𝑅𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑗= Enteric CH4 emissions reduction factor (default value or determined percentage).  
+Percentage reduction in enteric CH4, due to feed ingredient, per animal in group j 
+during the monitoring period 
+𝐸𝐹𝑀𝐸𝑖 
+= Total emissions associated with manufacturing and transport of the feed  
+ingredient for farm i during the monitoring period (tCO2e) 
+𝐺𝑊𝑃 
+ = Global Warming Potential of methane (dimensionless) 
+8.2.1 Enteric Methane Emissions Reduction Factor 
+There are two options for calculating the enteric methane emissions reduction factor. 
+ 
+VM0041, Version 2.0 
+14 
+𝑬𝑹𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 Option 1 
+Apply the enteric emission reduction factor (%) of the feed ingredient and calculate the 
+emissions using Equation (5). The enteric emission reduction factor must be established 
+through a meta-analysis of at least three peer-reviewed publications in reputable journals that 
+are listed in the Science Citation Index Expanded. The efficacy of feed additives is influenced by 
+dose, diet, production system, type of animal, and random variation. Therefore, a meta-analysis 
+that considers these factors is necessary to obtain efficacy estimates within the range of the 
+data used for the meta-analysis. The conditions of the project must not deviate greatly from the 
+conditions under which the enteric methane emissions reduction factor is determined in the 
+meta-analysis of published results. This applies to both the categorical parameters (e.g., animal 
+type) and variable parameters (e.g., DMI, digestible energy, NDF, housing). In the meta-analysis, 
+meta-regressions for ERF can be derived to correct for measured variables within a project that 
+are outside the 95% confidence interval (e.g., ERF = a × DMI + b). Where there are significant 
+differences in the project parameters that cannot be adjusted for in the meta-analysis, the 
+project must use Option 2. 
+𝑬𝑹𝑭𝑬𝒏𝒕𝒆𝒓𝒊𝒄𝒊,𝒋 Option 2 
+Determine the enteric methane emissions reduction factor for each animal group by performing 
+direct enteric methane measurements to estimate the methane production per animal group 
+per day while consuming the feed ingredient during the monitoring period. The project 
+proponent can perform direct enteric methane measurements (following the guidelines in 
+Appendix 2) during the first monitoring period, to be validated and eligible for use during the 
+entire project crediting period, provided no significant project parameters (e.g., feeding regime, 
+animal type, weight, production phase, conditions) have changed. The enteric emission 
+reduction factor of the feed supplement will be quantified using Equation (7), by comparing 
+actual project performance to enteric emission factors determined when quantifying baseline 
+emissions (Option 1 in Section 8.1). 
+𝐸𝑅𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗= 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗−(𝑃𝐸𝑖,𝑗× 𝑁𝑗× 𝐷𝑎𝑦𝑠𝑖,𝑗)
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗
+× 100 
+(7) 
+Where: 
+𝐸𝑅𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗  = Enteric CH4 emissions reduction factor for animal group j on farm i (default  
+percentage value) 
+𝐸𝐹𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖,𝑗 
+= Enteric CH4 emissions factor for animal group j, determined using Options 1, 2,  
+or 3 in Section 8.1 (kg CH4) 
+𝑃𝐸𝑖,𝑗 
+= Average enteric emissions production factor for animal group j on farm i during  
+the monitoring period (on-site direct measurement by chosen technology4) (kg  
+ 
+4 See Appendix 2, Table 3 
+ 
+VM0041, Version 2.0 
+15 
+CH4 head-1 d-1) 
+𝑁𝑖,𝑗  
+= Average number of head in animal group j on farm i in the monitoring period  
+(head) 
+𝐷𝑎𝑦𝑠𝑖,𝑗  
+= Number of days spent on farm i by each animal in group j during the monitoring  
+period (d) 
+8.2.2 GHG Emissions from Feed Ingredient Manufacturing and Transport 
+Emissions from the feed ingredient are estimated by including all GHG sources from 
+manufacturing and transport. Accounting for these GHG sources is not required for a project 
+where such emissions are shown to be de minimis.5 Otherwise, these emissions must be 
+estimated as follows: 
+𝐸𝐹𝑀𝐸𝑖= 𝐹𝑀𝑖× 𝐸𝐹𝑃
+1000
++ 𝐸𝐹𝑇𝑖 
+(8) 
+Where: 
+𝐸𝐹𝑀𝐸𝑖 = Total emissions associated with manufacturing and transport of the feed ingredient 
+for farm i during the monitoring period (tCO2e) 
+𝐹𝑀𝑖      = Amount of feed ingredient purchased by farm i during the monitoring period (kg) 
+𝐸𝐹𝑃      = Emission factor for production of feed ingredient (kg CO2e kg-1) 
+𝐸𝐹𝑇𝑖     = Emissions from transport to farm i of total feed ingredient consumed during the  
+monitoring period (tCO2e) 
+Project emissions from the production of the feed ingredient at the manufacturer’s production 
+facility are calculated as: 
+𝐸𝐹𝑃= (𝑄𝑒𝑙𝑒𝑐× 𝐸𝐹𝑒𝑙𝑒𝑐) + (𝑄𝑓𝑓𝑎× 𝐹𝐶𝑎× 𝐸𝐹𝑎)   
+(9) 
+Where: 
+𝑄𝑒𝑙𝑒𝑐 = Quantity of electricity from the grid used per kilogram of feed ingredient production 
+during the monitoring period (MWh kg-1); to be determined by the feed ingredient 
+manufacturer 
+𝐸𝐹𝑒𝑙𝑒𝑐= Emissions factor for electricity6 (kg CO2 MWh-1) 
+𝑄𝑓𝑓𝑎  = Quantity of fossil fuel type a used per kilogram of feed ingredient production during the 
+monitoring period (volume or kg fuel kg feed ingredient-1); to be determined by the feed 
+ingredient manufacturer 
+ 
+5 The pool or source may be excluded only if it is determined to be insignificant using appropriate approved tools for 
+significance testing (e.g., the CDM Tool for Testing Significance of GHG Emissions in A/R CDM Project Activities, v01. 
+Available at http://cdm.unfccc.int/EB/031/eb31_repan16.pdf). 
+6 If national or state/province values are not available, the latest approved version of the CDM Tool to Calculate the 
+Emission Factor for an Electricity System may be used to determine 𝐸𝐹𝑒𝑙𝑒𝑐. Available at 
+https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-07-v2.pdf/history_view. 
+ 
+VM0041, Version 2.0 
+16 
+𝐹𝐶𝑎    = Energy content per unit of combusted fuel type a (TJ volume-1 or kg fuel-1) 
+𝐸𝐹𝑎    = Emission factor of fuel type a (kg CO2e TJ-1) 
+Project emissions from the transport of the feed ingredient to the project site are calculated as: 
+𝐸𝐹𝑇𝑖= 𝑇𝐸𝐹𝑚𝑖× 𝐷𝑖× 𝐹𝑀𝑖   
+(10) 
+Where: 
+𝑇𝐸𝐹𝑚𝑖 = CO2 emitted by transport mode m per kilogram of feed ingredient delivered to and 
+consumed on farm i during the monitoring period (t CO2 kg-1 km-1) 
+𝐷𝑖      = Distance travelled by transport mode m delivering feed ingredient consumed on farm i 
+during the monitoring period (km) 
+𝐹𝑀𝑖   = Amount of feed ingredient purchased by farm i during the monitoring period (kg) 
+8.2.3 GHG Emissions from Shifts in Manure Decomposition Due to Application of Feed 
+Ingredient 
+If the feed ingredient is documented to significantly impact manure nutrient composition and 
+related methane emissions from manure decomposition (p ≤ 0.05), project emissions must be 
+calculated as follows: 
+𝐶𝐻4 = ∑
+(𝑁𝑖,𝑗× 𝑉𝑆𝑖,𝑗× 𝐴𝑊𝑀𝑆𝑖,𝑗,𝑆× 𝐸𝐹𝑖,𝑗,𝑆) × 0.001
+𝑖,𝑗,𝑆
+  
+(11) 
+Where: 
+𝐶𝐻4          = CH4 emissions from manure decomposition (kg CH4 y-1) 
+𝑁𝑖,𝑗           = Average number of head in animal group j on farm i in the monitoring period (head) 
+𝑉𝑆𝑖,𝑗         = Annual average excretion of volatile solids VS by animal group j on farm i (kg  
+head-1 y-1 
+𝐴𝑊𝑀𝑆𝑖,𝑗,𝑆= Fraction of total annual VS from animal group j that is managed in manure system 
+S on farm i (dimensionless) 
+𝐸𝐹𝑖,𝑗,𝑆       = Emission factor for direct CH4 emissions from manure management system S by 
+animal group j on farm i (g CH4 kg VS-1) 
+If the feed ingredient is documented to significantly impact manure nutrient composition and 
+related nitrous oxide emissions from manure decomposition, project emissions must be 
+calculated as follows: 
+𝑁2𝑂= [∑[∑(𝑁𝑖,𝑗× 𝑁𝑒𝑥𝑗× 𝐴𝑊𝑀𝑆𝑖,𝑗,𝑆)
+𝑖,𝑗
++ 𝑁𝑐𝑑𝑔(𝑆)] × 𝐸𝐹3(𝑆)
+𝑆
+] × 44
+28  
+(12) 
+Where: 
+𝑁2𝑂 
+   = Direct N2O emissions from manure decomposition (kg N2O y-1) 
+ 
+VM0041, Version 2.0 
+17 
+𝑁𝑖,𝑗  
+   = Average number of head in animal group j on farm i (head) 
+𝑁𝑒𝑥𝑗  
+   = Annual average N excretion per head in group j (kg N head-1 y-1) 
+𝐴𝑊𝑀𝑆𝑖,𝑗,𝑆= Fraction of total annual VS from animal group j managed in manure system S on 
+farm i 
+𝑁𝑐𝑑𝑔(𝑆)     = Annual nitrogen input via co-digestate, where S is anaerobic digestion (kg N y-1)  
+𝐸𝐹3(𝑆)       = Emission factor for direct N2O emissions from system S (kg N2O-N kg N-1) 
+44
+28  
+    = Conversion of N2O-N emissions to N2O emissions 
+8.3 Leakage 
+In the context of this methodology, leakage could potentially consist of a change in the number 
+of animals in the livestock operation due to impacts on livestock performance from introducing 
+the feed ingredient, thereby necessitating changes in livestock populations in non-project 
+operations to fulfill market demand. While feed ingredients are generally expected to have an 
+insignificant impact on livestock performance, some studies demonstrate enhancements (e.g., 
+Kinley et al., 2020). However, any resulting productivity improvements are not expected to 
+impact emissions reductions and thus do not need to be accounted for. Additionally, due to the 
+economics of livestock production, it is unlikely that the costs and risks associated with 
+increasing or decreasing the number of animals in the operation is justified from the minimal 
+expected changes in animal performance alone. Therefore, leakage is considered to be zero. 
+8.4 Net GHG Emission Reductions and Removals 
+Net GHG emission reductions are calculated as follows: 
+𝐸𝑅𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖= ∑
+[𝐵𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖−𝑃𝐸𝐸𝑛𝑡𝑒𝑟𝑖𝑐𝑖]
+𝑛
+𝑖=1
+  
+(13) 
+Where: 
+EREnterici = Total GHG emission reductions due to project activities during the monitoring period 
+(tСО2e) 
+BEEnterici = Total baseline enteric CH4 emissions from livestock enteric fermentation on farm i 
+during the monitoring period (tCO2e) 
+PEEnterici = Total project enteric CH4 emissions from livestock enteric fermentation on farm i, and 
+from the production, transport and application of the ingredient used during the 
+monitoring period (tCO2e) 
+ 
+VM0041, Version 2.0 
+18

@@ -1,0 +1,1376 @@
+10 
+MONITORING 
+10.1 General 
+The monitoring plan must contain at least the following sections: 
+• 
+Monitoring of stock changes and greenhouse gas emissions in the baseline (only under certain 
+conditions) 
+• 
+Monitoring of project carbon stock changes and greenhouse gas emissions 
+• 
+Monitoring of leakage carbon stock changes and greenhouse gas emissions 
+• 
+Estimation of ex-post total net carbon stock changes and greenhouse gas emissions. 
+This must include the following elements: 
+• 
+A description of each monitoring task to be undertaken, and the technical requirements 
+• 
+Parameters to be measured 
+• 
+Data to be collected and data collection techniques 
+• 
+Frequency of monitoring 
+• 
+Quality Assurance and Quality Control (QA/QC) procedures 
+• 
+Data archiving procedures 
+• 
+Roles, responsibilities and capacity of monitoring team and management 
+All data collected as part of monitoring should be archived electronically and be kept at least for 2 years 
+after the end of the last project crediting period. One hundred percent of the data should be monitored if 
+not indicated otherwise in the tables below. All measurements should be conducted according to 
+relevant standards. In addition, the monitoring provisions in the tools referred to in the most recent 
+version of the CDM methodology AR-ACM0002, Version 1 or its replacement must apply.  
+Data archiving must take both electronic and paper forms, and copies of all data must be provided to 
+each project participant. All electronic data and reports must also be copied on durable media such as 
+CDs and copies of the CDs are stored in multiple locations. The archives must include: 
+• 
+Copies of all original field measurement data, laboratory data, data analysis spreadsheet; 
+• 
+Estimates of the carbon stock changes in all pools and non-CO2 GHG and corresponding 
+calculation spreadsheets; 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 52 
+ 
+• 
+GIS products; 
+• 
+Copies of the measuring and monitoring reports 
+When applying all relevant equations provided in this methodology for the ex-ante estimation of net 
+anthropogenic GHG removals by sinks, project proponents must provide transparent estimations for the 
+parameters that are monitored during the project crediting period. These estimates must be based on 
+measured or existing published data where possible and project proponents should retain a 
+conservative approach: that is, if different values for a parameter are equally plausible, a value that 
+does not lead to over-estimation of net anthropogenic GHG removals by sinks must be selected.19  
+10.2 Monitoring of Regrowth in the Baseline Scenario 
+When monitoring regrowth in the baseline scenario using a reference area, the monitoring plan must 
+provide specific monitoring procedures. These procedures must follow the same approach as provided 
+below for the monitoring of the with-project scenario. Thus, the monitoring plan is to provide 
+(justifications for) sampling frequency, sample size and field procedures for monitoring regrowth of 
+residual forest in the baseline scenario. 
+Data and Parameters Not Monitored in the Baseline  
+Data / parameter: 
+Ai 
+Data unit: 
+Ha 
+Description: 
+Area of stratum i 
+Source of data: 
+Equation (2) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+GHGBSL-E 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Greenhouse gas emissions as a result of relogging within the project boundary 
+                                                     
+19 AR-ACM0002, Version 1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 53 
+ 
+in stratum i 
+Source of data: 
+Equation (2) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+AREL,i 
+Data unit: 
+Ha 
+Description: 
+Area relogged in baseline stratum i 
+Source of data: 
+Equation (3) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Charvest,i 
+Data unit: 
+t C ha-1 
+Description: 
+Carbon stock in harvested timber in stratum i 
+Source of data: 
+Equation (3) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Cdamage,i 
+Data unit: 
+t C ha-1 
+Description: 
+Carbon loss due to damage to the residual stand in stratum i 
+Source of data: 
+Equation (3) 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 54 
+ 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+Accounting for Cdamage as zero in the baseline scenario is conservative 
+ 
+Data / parameter: 
+CWP100,i,t 
+Data unit: 
+t C ha-1 
+Description: 
+Post-relogging carbon stock stored in long-term wood products (stock 
+remaining in wood products after 100 years)  in the baseline scenario in 
+stratum i 
+ 
+Source of data: 
+Equation (3),(7a) and (8) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CWP20,i,t 
+Data unit: 
+t C ha-1 
+Description: 
+Post-relogging carbon stock stored in short-term and medium-term wood 
+products (stock is expected to be emitted over 20 years with a linear decay 
+function) in the baseline scenario in stratum i at year t 
+Source of data: 
+Equation (3),(7b) and (8) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CDW,I,t 
+Data unit: 
+t C ha-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 55 
+ 
+Description: 
+Post-relogging carbon stock in dead wood in the baseline scenario (stock 
+emitted is quantified over 10 years with a linear decay function) in stratum i at 
+year t 
+Source of data: 
+Equation (3) and (8) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+If CDW for the project area cannot be derived from peer-reviewed literature, 
+data can be obtained using appropriate measurement techniques applied in 
+areas for which it can be shown that they are representative for the project 
+area. 
+ 
+Data / parameter: 
+Vharvest,j,i 
+Data unit: 
+m3 ha-1 yr-1 
+Description: 
+Volume of timber harvested in the baseline scenario of species j in stratum i  
+Source of data: 
+Equation (4) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Dj 
+Data unit: 
+t d.m. m-3 
+Description: 
+Basic wood density for species j 
+Source of data: 
+Equation (4) 
+Values for Dj can be taken from tables generally used in the local or regional 
+timber and forest industry, or from peer-reviewed literature applicable to the 
+region. If no species-specific values for Dj are available, the average value 
+across all species can be used, increased by 20% to ensure a conservative 
+(higher) estimate of CWPi,t. 
+The source of data must be chosen with priority from higher to lower  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 56 
+ 
+preference as follows:  
+(a) National and species-specific or group of species-specific (eg, from  
+national GHG inventory);  
+(b) (Group of) Species-specific from neighbouring countries with similar 
+conditions. Sometimes b) might be preferable to a);  
+(c) Globally species-specific or group of species-specific (eg, IPCC  
+GPG-LULUCF 2003). 
+Measurement 
+procedures (if any): 
+NA 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CF 
+Data unit: 
+t d.m.-1 
+Description: 
+Carbon fraction of dry matter 
+Source of data: 
+IPCC default value 0.5 
+Measurement 
+procedures (if any): 
+NA 
+Any comment: 
+ 
+ 
+ 
+Data / parameter: 
+fdamage 
+Data unit: 
+Dimensionless  
+Description: 
+Factor for damage to the residual stand caused by relogging 
+Source of data: 
+Equation (5) 
+Determined using appropriate measurement techniques such as those 
+described in the project description of the Noel Kempff Mercado Climate Action 
+Project (NKM-CAP), version 02.02, dated 7/11/2005, or other similar 
+established emission quantification approaches. Alternatively, peer reviewed 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 57 
+ 
+literature may be used to derive fdamage from areas for which it can be shown 
+that they are representative for the project area or general fdamage proxies for 
+natural Evergreen Tropical Rainforests for conventional and/or Reduced 
+Impact Logging (eg, Pulkki (1997)). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CXB,ty,i 
+Data unit: 
+t CO2-e ha-1 
+Description: 
+Mean stock of extracted biomass carbon by class of wood product ty from 
+stratum i 
+Source of data: 
+Equation (6) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Vex,ty,j,i 
+Data unit: 
+m3  
+Description: 
+Volume of timber extracted from within stratum i (does not include slash left 
+onsite) by species j and wood product class ty 
+Source of data: 
+Equation (6) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+ty 
+Data unit: 
+No dimension 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 58 
+ 
+Description: 
+Wood product class (eg, sawnwood, wood-based panels, other industrial 
+roundwood, paper and paper board, and other) 
+Source of data: 
+Equation (6) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+Wood product classes are used to account for long-term storage of carbon in 
+wood products. The share of timber ending up in the various wood product 
+classes needs to be determined. In case no reliable assumptions can be made 
+as to the timber classes of the harvested wood and its end use, general 
+information from Forest Departments from that area reflecting breakdown of 
+timber classes as they are normally harvested from this forest type and area 
+may be used (eg, plywood, round logs, sawn timber, etc.). 
+ 
+Data / parameter: 
+wwty 
+Data unit: 
+No dimension 
+Description: 
+The fraction immediately emitted through mill inefficiency 
+Source of data: 
+Published paper of Winjum et al. 199820 (used in Equation (7a)) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+slpty 
+Data unit: 
+No dimension 
+Description: 
+Fraction of wood products that will be emitted to the atmosphere within 5 years 
+of timber harvest 
+                                                     
+20  Winjum, J.K., Brown, S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks 
+of atmospheric carbon dioxide. Forest Science 44: 272-284 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 59 
+ 
+Source of data: 
+Published paper of Winjum et al. 199824 (used in Equation (7b)) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+foty 
+Data unit: 
+No dimension 
+Description: 
+Fraction of wood products that will be emitted to the atmosphere between 5 
+and 100 years of timber harvest 
+Source of data: 
+Published paper of Winjum et al. 199824 (used in Equation (7b)) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CBSLpre,i 
+Data unit: 
+t C ha-1 
+Description: 
+Pre-relogging carbon stock in above-ground tree biomass in the baseline 
+scenario in stratum i 
+Source of data: 
+Equation (8) 
+Measurement 
+procedures (if any): 
+CBSLpre,i can be determined on the basis of previously conducted fieldwork or 
+surveys or peer-reviewed proxies in the reference area or can be 
+approximated in case of a reference area as follows: 
+CBSLpre,i  = CBSLpost,i   + Charvest,i + Cdamage,I 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CBSLpost,i 
+Data unit: 
+t C ha-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 60 
+ 
+Description: 
+Post-relogging carbon stock in above-ground tree biomass in the baseline 
+scenario in stratum i 
+Source of data: 
+Equation (8) 
+Measurement 
+procedures (if any): 
+CBSLpost,i can be estimated using the method outlined in (Estimation of ∆CP,i,t). 
+Any comment: 
+ 
+ 
+Data / parameter: 
+BSDW,l,sp,i 
+Data unit: 
+t d.m. 
+Description: 
+Biomass of standing dead tree l from sample plot sp in stratum i  
+Source of data: 
+Equation (10) and (11) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+BDia 
+Data unit: 
+cm 
+Description: 
+Basal diameter of standing dead tree 
+Source of data: 
+Field measurements in sample plots. Used in Equation (10) and (11) 
+Measurement 
+procedures (if any): 
+Measured at ground level. Measure all trees above some minimum BDia in the 
+sample plots, typically > 10 cm.  
+Any comment: 
+ 
+ 
+Data / parameter: 
+TDSDW 
+Data unit: 
+cm 
+Description: 
+Top diameter of standing dead tree / from sample plot sp in stratum i 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 61 
+ 
+Source of data: 
+Field measurements in sample plots. Used in Equation (10) and (11) 
+Measurement 
+procedures (if any): 
+Height measured from ground level to either the top of a standing bole or to the 
+base of crown if crown is persistent. Height is measured either directly or by 
+using an instrument such as a clinometers, relascope or laser inventory 
+instrument.  
+Any comment: 
+ 
+ 
+Data / parameter: 
+HSDW 
+Data unit: 
+cm 
+Description: 
+Height of standing dead tree 
+Source of data: 
+Field measurements in sample plots. Used in Equation (10) and (11) 
+Measurement 
+procedures (if any): 
+Height measured from ground level to either the top of a standing bole or to the 
+base of crown if crown is persistent. Height is measured either directly or by 
+using an instrument such as a clinometers, relascope or laser inventory 
+instrument.  
+Any comment: 
+ 
+ 
+Data / parameter: 
+DDW,dc 
+Data unit: 
+t d.m. m-3 
+Description: 
+Mean wood density of dead wood in the density class (dc) – sound (1), 
+intermediate (2), and rotten (3); t d.m. m-3 
+Source of data: 
+Equation (10) and (11) 
+The source of data must be chosen with priority from higher to lower 
+preference as follows: 
+(a) Research publications relevant to the project area; 
+(b) National species-specific or group of species-specific (eg, from National 
+GHG inventory); 
+(c) Species-specific or group of species-specific from neighboring countries 
+with similar conditions. Sometimes (b) may be preferable to (a); 
+(d) Global species-specific or group of species-specific (eg, IPCC GPG-
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 62 
+ 
+LULUCF). 
+Species-specific dead wood densities may not always be available, and may 
+be difficult to apply with certainty to decomposed wood and in the typically 
+species rich forests of the humid tropics, hence it is acceptable practice to use 
+dead wood densities developed for forest types. 
+Measurement 
+procedures (if any): 
+Project-specific determination of density is most likely necessary, requiring 
+collection of representative samples from 10-20 trees from each decomposition 
+class.  
+Dead wood samples are cut in discs and thickness and diameter measured to 
+estimate green volume. Samples are oven dried (70o C) to a constant weight in 
+the laboratory, and density calculated as dry weight (g) per unit green volume 
+(cm3). 
+Any comment: 
+Basic wood density for dominant species DS when j=DS 
+ 
+Data / parameter: 
+VLDW 
+Data unit: 
+m3 ha-1 
+Description: 
+Volume of lying dead wood per unit area in stratum i 
+Source of data: 
+Field measurements in sample plots. Used in Equation (14) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Dian,i,t 
+Data unit: 
+m3 ha-1 
+Description: 
+Diameter of piece n of dead wood along the transect in stratum i 
+Source of data: 
+Field measurements in sample plots. Used in Equation (14) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 63 
+ 
+ 
+Data / parameter: 
+BLDW,i,t 
+Data unit: 
+t d.m. ha-1 
+Description: 
+Biomass of lying dead wood per unit area in stratum i 
+Source of data: 
+Field measurements in sample plots. Used in Equation (15) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+VLDW,i,t 
+Data unit: 
+m3 ha-1 
+Description: 
+Volume of lying dead wood per unit area in stratum i 
+Source of data: 
+Field measurements in sample plots. Used in Equation (15) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+D%,i 
+Data unit: 
+% yr-1 
+Description: 
+Projected annual proportion of land that will be logged in stratum i at year t. If 
+actual annual proportion is known and documented (eg, 25% per year for 4 
+years), set to proportion 
+Source of data: 
+Used in Equation (17) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 64 
+ 
+Data / parameter: 
+Ebiomass 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to the removal of the biomass itself at year t 
+Source of data: 
+Remote imagery (photographs or satellite) or by using a reported percentage 
+that is typical for the area. 
+Measurement 
+procedures (if any): 
+To estimate the emissions from the removal of the biomass area has to be 
+multiplied by an average carbon stock value per hectare that is representative 
+of the project area. 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Efelling 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to the use of equipment for removal of the biomass on the area 
+dedicated to infrastructure  
+Source of data: 
+Determined in Section 9.1 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Egrading 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to road grading  
+Source of data: 
+Determined in Section 9.1 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 65 
+ 
+Data / parameter: 
+Eharvesting 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to harvesting 
+Source of data: 
+Determined in Section 9.1 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Eextraction 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to extraction of timber from the forest to the log landings 
+Source of data: 
+Determined in Section 9.1 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Etransport 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to the transport of the timber from the log landings to point of 
+onward sale/transport 
+Source of data: 
+Determined in Section 9.1 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 66 
+ 
+Data and Parameters Monitored in the Baseline 
+Data / parameter: 
+∆Ctree-exist,i, 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Net carbon stock change in existing tree vegetation21 in the baseline scenario 
+in stratum i 
+Source of data: 
+Equation (2) 
+Determined in Section 9.1 of methodology.  
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+10.3 Monitoring of Project Implementation  
+Information must be provided, and recorded in the project description, to establish that: 
+(a) The geographic position of the project boundary is recorded for all areas of land:  
+a. The geographic coordinates of the project boundary (and any stratification inside the 
+boundary) are established, recorded and archived. This can be achieved by field 
+survey (eg, using GPS), or by using georeferenced spatial data (eg, maps, GIS 
+datasets, orthorectified aerial photography or georeferenced remote sensing images). 
+(b) Commonly accepted principles of forest inventory and management are implemented: 
+a. Standard operating procedures (SOPs) and quality control/quality assurance (QA/QC) 
+procedures for forest inventory including field data collection and data management 
+must be applied. Use or adaptation of SOPs already applied in national forest 
+monitoring, or available from published handbooks, or from the IPCC GPG LULUCF 
+2003, is recommended; 
+b. Apply SOPs, especially, for actions likely to minimize soil disturbances in those 
+circumstances in which site preparation or planting involves soil disturbance capable to 
+increase soil erosion above the baseline value; 
+                                                     
+21 With DBH ≥ 5 cm. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 67 
+ 
+c. The project plan, together with a record of the plan as actually implemented during the 
+project must be available for validation or verification, as appropriate.22 
+10.4 Monitoring of project carbon stock changes and greenhouse gas emissions 
+10.4.1 Updating of Strata 
+Stratification of the project area into relatively homogeneous units can either increase the measuring 
+precision without increasing the cost unduly, or reduce the cost without reducing measuring precision 
+because of the lower variance within each homogeneous unit. Project proponents should present in the 
+project description an ex-ante stratification of the project area or justify the lack of it. The number and 
+boundaries of the strata defined ex-ante may change during the project crediting period (ex post).  
+The ex-post stratification must be updated because of the following reasons: 
+• Unexpected disturbances occurring during the project crediting period (eg, due to fire, pests or 
+disease outbreaks), affecting differently various parts of an originally homogeneous stratum; 
+• Forest management activities (cleaning, planting, thinning, harvesting, coppicing, re-planting) that 
+are implemented in a way that affects the existing stratification. 
+Established strata may be merged if the reasons for their establishment have disappeared.23 
+10.4.2 Sampling Framework 
+The sampling framework, including sample size, plot size, plot shape, and determination of plot location 
+should be specified in the project description.24 
+To determine the sample size and allocation among strata, this methodology uses the latest version of 
+the tool for the “Calculation of the number of sample plots for measurements within A/R CDM project 
+activities”25, approved by the CDM Executive Board. The targeted precision level for biomass estimation 
+within each stratum is ± 10% of the mean at a 95% confidence level. 
+10.4.3 Measuring and estimating carbon stock changes and GHG emissions over time 
+The change in carbon stocks must be estimated by taking measurements in plots at each monitoring 
+event. Monitoring events must take place at intervals of 5, or preferably 3 years.  
+                                                     
+22 This paragraph has been amended after AR-ACM0002 (ie, is not copied verbatim). 
+23 AR ACM0002, Version 01 
+24 Except for this sentence the entire Section 8.2.2 has been copied verbatim from AR-ACM0002. 
+25 Available at: <http://cdm.unfccc.int/> 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 68 
+ 
+Data and parameters not monitored in the Project Scenario  
+Data / parameter: 
+BEF 
+Data unit: 
+dimensionless 
+Description: 
+Biomass expansion factor for the conversion of annual net increment (including 
+bark) in stem biomass to total above-ground tree biomass increment for 
+species j 
+Source of data: 
+The source of data must be chosen with priority from higher to lower 
+preference as follows: 
+a. Existing local and species-specific or group of species-specific; 
+b. National and species-specific or group of species-specific (eg from 
+national GHG inventory) 
+c. Species-specific or group of species-specific from neighbouring 
+countries with similar conditions (might be preferable to b under certain 
+conditions) 
+d. Climatic zone and forest type (eg IPCC literature: Table 3A.1.10 of the 
+GPG-LULUCF (IPCC 2003) and Table 4.5 of the AFOLU Guidelines 
+(IPCC 2006) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+• BEFs are age dependent, and use of average data may result in  
+significant errors for both young and old stands—as BEFs are usually large for 
+young stands and quite small for old stands; 
+ 
+• BEFs in IPCC literature and national inventory are usually applicable to 
+closed canopy forest. If applied to individual trees growing in open field it is 
+recommended that the selected BEF be increased by a further 30%.26 
+                                                     
+26   Applying a 30% increase to the BEF for solitary trees in severely logged over forest when estimating regrowth 
+after logging in the baseline is leading to conservative estimates of carbon benefits of the project because it 
+reduces net emissions in the baseline. In the project scenario less incidences of solitary trees will occur 
+because the canopy will remain intact to a larger degree in comparison to the baseline. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 69 
+ 
+ 
+Data / parameter: 
+R 
+Data unit: 
+t root d.m. t-1 shoot d.m. 
+Description: 
+Root:shoot ratio appropriate to species or forest type / biome 
+Source of data: 
+The source of data must be chosen with priority from higher to lower 
+preference as follows: 
+a. Existing local and species-specific or group of species-specific; 
+b. National and species-specific or group of species-specific (eg from 
+national GHG inventory) 
+c. Species-specific or group of species-specific from neighbouring 
+countries with similar conditions (might be preferable to b under certain 
+conditions) 
+d. Climatic zone and forest type (eg IPCC literature: Table 3A.1.8 of the 
+GPG-LULUCF (IPCC 2003) and Table 4.4 of the AFOLU Guidelines 
+(IPCC 2006) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+Guideline for conservative choice of default values: 
+- If in the sources of data mentioned above, default data are available for 
+conditions that are similar to the project (same vegetation genus; same 
+climate zone; similar forest type), then mean values of default data 
+may be used and considered conservative.  
+- A root:shoot ratio for mature forest must be selected. Usually the 
+root:shoot ratio for young trees is greater than for old trees. Applying a 
+root:shoot ratio for mature forest is conservative, because it 
+underestimates carbon in young trees in the project scenario (which 
+are more abundant as a result of enrichment planting).  
+ 
+ 
+Data / parameter: 
+CF 
+Data unit: 
+t d.m.-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 70 
+ 
+Description: 
+Carbon fraction of dry matter 
+Source of data: 
+IPCC default value 0.5. Used in Equation (39). 
+Measurement 
+procedures (if any): 
+NA 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Dj 
+Data unit: 
+t d.m. m-3 
+Description: 
+Basic wood density for species j 
+Source of data: 
+Values for Dj can be taken from tables generally used in the local or regional 
+timber and forest industry, or from peer-reviewed literature applicable to the 
+region. If no species-specific values for Dj are available, the average value 
+across all species can be used, increased by 20% to ensure a conservative 
+(higher) estimate of CWPi,t. 
+The source of data must be chosen with priority from higher to lower  
+preference as follows:  
+(a) National and species-specific or group of species-specific (eg, from  
+national GHG inventory);  
+(b) (Group of) Species-specific from neighbouring countries with similar 
+conditions. Sometimes b) might be preferable to a);  
+(c) Globally species-specific or group of species-specific (eg, IPCC  
+GPG-LULUCF 2003). 
+Measurement 
+procedures (if any): 
+NA 
+Any comment: 
+ 
+ 
+Data / parameter: 
+fi(X, Y …) 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 71 
+ 
+Data unit: 
+t d.m. tree-1 
+Description: 
+Allometric equation for species j linking, for example, diameter at breast height 
+(DBH) and tree height (H) to above-ground biomass of living trees 
+Source of data: 
+Used in Equation (39). Whenever available, use allometric equations that are 
+species-specific or group of species-specific, provided the equations have 
+been derived using a wide range of diameters and heights, based on datasets 
+that comprise at least 20 trees. Otherwise, default equations from IPCC 
+literature, national inventory reports or published peer-reviewed studies may be 
+used—such as those provided in Tables 4.A.1 to 4.A.3 of the GPG-LULUCF 
+(IPCC 2003). 
+Measurement 
+procedures (if any): 
+NA 
+Any comment: 
+If default allometric equations are available for conditions that are similar to the 
+project (same vegetation genus; same climate zone; similar forest type), then 
+the equation may be used and considered conservative. Otherwise, it is 
+necessary either to use conservatively assessed values, or to verify the 
+applicability of the equation if mean predicted values are to be used.   
+Allometric equations can be verified by:   
+• Selecting at least 5 trees covering the range of DBH existing in the project 
+area, and felling and weighing the above-ground tree biomass to determine the 
+total (wet) weight of the stem and branch components;  
+• Extracting and immediately weighing sub-samples from each of the wet stem 
+and branch components, followed by oven drying at 70ºC to determine dry 
+biomass;  
+• Determining the total dry weight of each tree from the wet weights and the 
+averaged ratios of wet and dry weights of the stem and branch components.  
+If the biomass of the harvested trees is within about ±10% of the mean values 
+predicted by the selected default allometric equation, and is not biased—or if 
+biased is wrong on the conservative side (ie, use of the equation results in an 
+under- rather than over-estimate of project net anthropogenic removals by 
+sinks)—then mean values from the default equation may be used. (IPCC Good 
+Practice Guidance for LULUCF, 2003, Section 4.3.3.5.1, under direct approach 
+step 3) 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 72 
+ 
+Data and Parameters Monitored in Project Scenario 
+Data / parameter: 
+Ai,t 
+Data unit: 
+Ha 
+Description: 
+Area of stratum i at year t 
+Source of data: 
+Monitoring of strata and stand boundaries must be done preferably using a 
+Geographical Information System (GIS), which allows for integrating data from 
+different sources (including GPS coordinates and Remote Sensing data). Used 
+in Equation (35) 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Asp,i 
+Data unit: 
+Ha 
+Description: 
+Total area of all sample plots in stratum i 
+Source of data: 
+Field measurements. Used in Equation (38). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+DBH 
+Data unit: 
+cm 
+Used in equations: 
+ 
+Description: 
+Diameter at breast height of tree 
+Source of data: 
+Field measurement in sample plots 
+Measurement 
+procedures (if any): 
+Typically measured 1.3 m above ground. Measure all the trees above 5 cm 
+DBH in the permanent sample plots. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 73 
+ 
+ 
+Any comment: 
+For ex-ante estimations, tree dimension variables (eg, diameter at breast 
+height (DBH) and possibly height (H)) should be estimated for tree species j in 
+stratum i, at year t using a growth model based on these tree dimensions. 
+ 
+Data / parameter: 
+H 
+Data unit: 
+m 
+Description: 
+Height of tree 
+Source of data: 
+Field measurement in sample plots 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+For ex-ante estimations, tree dimension variables (eg, diameter at breast 
+height (DBH) and possibly height (H)) should be estimated for tree species j in 
+stratum i, at year t using a growth model based on these tree dimensions. 
+ 
+Data / parameter: 
+Dian,i,t 
+Data unit: 
+cm 
+Description: 
+Diameter of piece n of dead wood along the transect in stratum i, at year t 
+Source of data: 
+Field measurements in sample plots 
+Measurement 
+procedures (if any): 
+Lying dead wood can be sampled using the line intersect method (Harmon and 
+Sexton 199627). Two 50-meter lines are established bisecting each sample plot 
+and the diameters of the lying dead wood (≥ 10 cm diameter) intersecting the 
+lines are measured. 
+Any comment: 
+ 
+                                                     
+27  Harmon, M.E. and J. Sexton. (1996) Guidelines for measurements of woody detritus in forest ecosystems. US 
+LTER Publication No. 20. US LTER Network Office, University of Washington, Seattle, WA, USA. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 74 
+ 
+ 
+Data / parameter: 
+BDia 
+Data unit: 
+cm 
+Description: 
+Basal diameter of standing dead tree 
+Source of data: 
+Field measurements in sample plots 
+Measurement 
+procedures (if any): 
+Measured at ground level. Measure all trees above some minimum BDia in the 
+sample plots, typically > 10 cm.  
+Any comment: 
+ 
+ 
+Data / parameter: 
+HSDW 
+Data unit: 
+cm 
+Description: 
+Height of standing dead tree 
+Source of data: 
+Field measurements in sample plots 
+Measurement 
+procedures (if any): 
+Height measured from ground level to either the top of a standing bole or to the 
+base of crown if crown is persistent. Height is measured either directly or by 
+using an instrument such as a clinometers, relascope or laser inventory 
+instrument.  
+Any comment: 
+ 
+ 
+Data / parameter: 
+N 
+Data unit: 
+dimensionless 
+Description: 
+Total number of wood pieces intersecting the transect 
+Source of data: 
+Field measurements 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 75 
+ 
+Data / parameter: 
+Vextr 
+Data unit: 
+m3 
+Description: 
+The volume of timber extracted from within the project boundary (does not 
+include slash left onsite), preferably reported by species and wood product 
+class. Where no direct information on volume by wood product class is 
+available (eg, illegal logging) it is acceptable practice to assign gross 
+percentages of volume extracted to wood product classes on the basis of local 
+expert knowledge of harvest activities and markets. 
+ 
+Source of data: 
+Timber harvest records and/or estimates derived from field measurements or 
+remote assessments with aerial photography or satellite imagery. 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+Note that this volume does not include logging slash left onsite (tracked as part 
+of the dead wood pool). Data compilers should also make sure that extracted 
+volumes reported are gross volumes removed (ie, reported volume does not 
+already discount for estimated wood waste, as is often the practice in harvest 
+records) 
+ 
+Data / parameter: 
+t2 and t1 
+Data unit: 
+yr 
+Description: 
+Years of the monitoring activity 
+Source of data: 
+Field measurement in sample plots 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+T = t2 - t1 
+ 
+Data / parameter: 
+∆CP,i,t 
+Data unit: 
+t CO2-e yr-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 76 
+ 
+Description: 
+Net carbon stock change due to forest regrowth and silvicultural interventions 
+in the with-project scenario in stratum i at year t 
+Source of data: 
+Used in Equation (34). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+∆CAGB,i,t 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Net carbon stock change in above-ground tree biomass28 in the with-project 
+scenario in stratum i 
+Source of data: 
+Used in Equation (34) and (35). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+∆CBGB,i,t 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Net carbon stock change in below-ground tree biomass in the with-project 
+scenario in stratum i 
+Source of data: 
+Used in Equation (34) and (40). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+                                                     
+28 With DBH ≥ 5 cm. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 77 
+ 
+ 
+ 
+Data / parameter: 
+∆CDW,i,t 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Net carbon stock change in dead wood in the with-project scenario in stratum i 
+at year t 
+Source of data: 
+Used in Equation (34) and (41). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+∆CWP,i,t 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Net carbon stock change in wood products in the with-project scenario in 
+stratum i at year t 
+Source of data: 
+Used in Equation (34) and (42). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Ebiomassloss,i,t 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+Emissions due to site preparation for project activities in stratum i at year t 
+Source of data: 
+Used in Equation (34). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 78 
+ 
+ 
+Data / parameter: 
+CAGB,l,j,sp,i,t 
+Data unit: 
+t C tree-1 
+Description: 
+Carbon stock in above-ground biomass of tree l of species j in plot sp in 
+stratum i at year t 
+Source of data: 
+Used in Equation (36), (37) and (39). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+Vl,j,sp,i 
+Data unit: 
+m3 tree-1 
+Description: 
+Stem volume of tree l of species j in plot sp in stratum i 
+Source of data: 
+Used in Equation (36). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+Data / parameter: 
+CAGB,,sp,i,t 
+Data unit: 
+t C 
+Description: 
+Carbon stock in trees in plot sp in stratum i at year t 
+Source of data: 
+Used in Equation (37) and (38). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 79 
+ 
+Leakage 
+Data and parameters not monitored (default, documented value, or possibly measured one time) 
+Data / parameter: 
+LFME 
+Data unit: 
+dimensionless 
+Description: 
+Leakage factor for market-effects calculations 
+Source of data: 
+Analysis of issuance of new concessions being assigned within the national 
+boundaries, and associated annual extracted volumes. Used in Equation (44). 
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+Documented history of extracted volumes per hectare of existing concessions 
+can be used as evidence. 
+ 
+Data / parameter: 
+NCS  
+Data unit: 
+t CO2-e ha-1 
+Description: 
+The mean national forest carbon stock  
+Source of data: 
+National statistics from Forest Department or other reliable sources  
+Measurement 
+procedures (if any): 
+ 
+Any comment: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 80 
+ 
+Data and parameters monitored  
+Data / parameter: 
+CBSL 
+Data unit: 
+t CO2-e ha-1 
+Description: 
+Mean carbon stock across strata in all pools in the baseline  
+Source of data: 
+Determined in Section 9.1 of methodology 
+Measurement 
+procedures (if any): 
+ 
+Any comment:

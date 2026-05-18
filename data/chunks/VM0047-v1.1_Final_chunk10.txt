@@ -1,0 +1,355 @@
+31 
+R 
+= Root to shoot ratio (t root d.m./t shoot d.m.) 
+CF 
+= Carbon fraction of dry biomass (t C/t d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+8.3.1.2 Census-based Quantification of Non-Woody Biomass 
+Not applicable (see Table 2). 
+8.3.1.3 Census-based Quantification of Dead Wood 
+Not applicable (see Table 2). 
+8.3.1.4 Census-based Quantification of Litter 
+Not applicable (see Table 2). 
+8.3.1.5 Census-based Quantification of Soil Organic Carbon 
+Not applicable (see Table 2). 
+8.3.2 Census-based Quantification of Emissions from Biomass Burning and Fertilizer Use 
+Project emissions resulting from biomass burning and use of fertilizer in the census-based 
+approach are estimated using Equations (26) - (27) and (15) –(21) to respectively.  
+8.3.2.1 Census-based Quantification of Emissions from Biomass Burning 
+PEbburn,t is estimated using the following equation: 
+ܲܧ௕௕௨௥௡,௧= ∑(ܩܹܲ௚× ܧܨ௚× ܤௐ௉,௧× ܥܱܯܨ× 10−3)
+ீ
+௚=1
+ 
+(26) 
+Where: 
+PEbburn,t 
+= Project emissions due to biomass burning in the monitoring interval 
+ending in year t (t CO2e) 
+GWPg 
+= Global warming potential for gas g (dimensionless) 
+EFg 
+= Emission factor for gas g (kg/t d.m. burned) 
+BWP,t 
+= Average aboveground biomass stock subject to burning in the project 
+scenario in the monitoring interval ending in year t (t d.m.) 
+COMF 
+= Combustion factor (dimensionless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+g 
+= 1, ..., G greenhouse gases (methane and nitrous oxide) (dimensionless) 
+The aboveground stock of planting units subject to burning (estimated from measurements prior 
+to the burn) is estimated by applying the number of planting units (N) as a scaling factor and 
+ 
+VM0047, v1.1 
+32 
+adjusting for the percentage of sampled planting units observed to be visibly burned at each 
+monitoring event. 
+ܤௐ௉,௧= ܰ× (݊௕௨௥௡,௧
+݊௧
+) × ( 1
+ ݊௧−௫
+) × ∑ܤௐ௉−௪௢௢ௗ௬−஺஻,௣௨,௧−௫
+௡೟
+௣௨=1
+ 
+(27) 
+ 
+Where: 
+BWP,t 
+= 
+Average aboveground biomass stock subject to burning in the project 
+scenario in the monitoring interval ending in year t (t d.m./ha) 
+N 
+= 
+Initial population size (number of planting units) 
+nt 
+= 
+Number of planting units sampled in year t (integer) 
+nburn,t 
+= 
+Number of sampled planting units recorded as burned in the 
+monitoring interval ending in year t (integer) 
+BWP-woody-AB,pu,t−x  
+= 
+Estimated biomass stock in aboveground woody biomass in sampled 
+planting unit pu in the project scenario in year t −x (t d.m.) 
+nt−x 
+= 
+Number of planting units sampled in year t – x (integer) 
+t 
+= 
+1, 2, 3, …, t years elapsed since the project start date 
+x 
+= 
+Length of monitoring interval (years) 
+8.3.2.2 Census-based Quantification of Emissions from Fertilizer Application 
+Where nitrogen fertilizer is applied due to the project activity, nitrous oxide emissions are 
+estimated under the census-based approach using Equations (15)–(21) in Section 8.2.2.2. 
+8.4 
+Leakage Emissions 
+Emissions from leakage (LKt) for the area-based approach are accounted using the most recent 
+version of VMD0054. 
+In the census-based quantification approach, LKt is set equal to zero. The requirement that the 
+ARR project activity maintains pre-project agricultural production levels avoids a change in land 
+use and the planting density threshold avoids any significant displacement of a pre-existing land 
+use due to land use changes such that leakage effects are assumed to be de minimis. 
+8.5 
+Uncertainty 
+Uncertainty associated with sample error is quantified and accounted for. Measurement error is 
+addressed through the application of quality assurance and quality control (QA/QC) procedures 
+detailed in Section 9. 
+Note – Estimation of emission sources from biomass burning and nitrogen fertilizer apply 
+conservative parameters and associated uncertainty is set at zero. 
+ 
+VM0047, v1.1 
+33 
+8.5.1 Area-based Quantification of Uncertainty 
+Uncertainty in estimating the project accounting boundary (area) is assumed to be zero and is 
+addressed via complete (and accurate) geographic information system (GIS) boundaries of the 
+project or instance areas, and by applying QA/QC procedures specified in the parameter table for 
+A (Section 9.1). The performance benchmark is assumed to have zero uncertainty. 
+Project proponents must use standard methods to estimate uncertainty when calculating 
+changes in carbon stocks. The formula should be appropriate to the type of measurement used 
+and be applied to each carbon pool p (representing woody biomass, non-woody biomass, dead 
+wood, litter and SOC) included in the project.  
+ 
+ܷܰܥ௧= MIN
+(
+ 100%, MAX 
+(
+ 0,
+(
+ ܶ × 
+√ܵܧ2
+݌,ݐ=0 + ܵܧ2
+݌,ݐ−(2 × ߩ× ܵܧ݌,ݐ=0 × ܵܧ݌,ݐ
+∆ܥ
+ 
+)
+ −0.10
+)
+ × 100
+)
+  
+(28) 
+Where: 
+UNCt 
+= Uncertainty in cumulative removals through year t (%) 
+T 
+= Critical value of a student’s two-tailed t-distribution for significance level 
+α = 0.1 
+SEp,t=0 
+= Standard error of the mean carbon stock estimate at time t = 0 (t CO2e) 
+SEp,t 
+= Standard error of the mean carbon stock estimate at time t (t CO2e) 
+ρ 
+= Correlation coefficient (rho) between carbon stocks at t = 0 and t (used 
+only for permanent plots; term is set to zero for independent 
+measurements between t = 0 and t) 
+∆C 
+= Mean change in carbon stocks between t = 0 and t (t CO2e) 
+ 
+Note – Equation(28) above is applicable to projects that maintain their inventory method 
+throughout the project crediting period. Where projects switch approaches (e.g., independent 
+inventories between t = 0 and t = 5, and then permanent plots are used from t = 5 onwards), the 
+combined uncertainty between periods must be estimated using the steps shown in Appendix 3. 
+8.5.2 Census-based Quantification of Uncertainty 
+Uncertainty in population size (N) is assumed to be zero and is addressed via the requirement for 
+a complete census of planting units. The project method baseline, equal to zero (absence of 
+planting units), is assumed to have zero uncertainty. 
+Uncertainty when estimating changes in carbon stocks is calculated by propagating errors 
+associated with estimates of included pools as follows: 
+ܷܰܥ௧= MIN
+(
+ 100%, MAX 
+(
+ 0,
+(
+ ܶ × 
+√ܵܧ௣,௧
+2 + (ܥ௧௢௧௔௟,௧ × ܷெ,௧
+100)2
+ܥ௧௢௧௔௟,௧
+ 
+)
+ −0.10
+)
+ × 100
+)
+  
+(29) 
+ 
+VM0047, v1.1 
+34 
+Where: 
+UNCt 
+= Uncertainty in cumulative removals through year t (%) 
+UM,t 
+= Percentage uncertainty in population size adjusted for mortality in the 
+project scenario in year t (%) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+T 
+= Critical value of a student’s two-tailed t distribution for significance level 
+α = 0.1 
+SEp,t 
+= Standard error of average woody biomass per planting unit in pool p (here 
+restricted to woody biomass CWP-biomass) in the project scenario at time 
+t (t CO2e) 
+Ctotal,t 
+= Total carbon stock at time t, calculated using Equation (29) (t CO2e) 
+ 
+ܥ௧௢௧௔௟,௧ = ܰ × (1 − ܯݐ) ×  ܥ̅௣௨,௧ 
+(30) 
+Where: 
+N 
+=  Initial population size (number of planting units) 
+Mt 
+=  Mortality through year t (%) 
+ܥ̅௣௨,௧ 
+=  Mean carbon per planting unit at time t (t CO2e) 
+ 
+ܷெ,௧= ܶ× √ܯ௧× (1 −ܯ௧)
+݊௧−1
+×
+1
+1 −ܯ௧
+ 
+(31) 
+ 
+Where: 
+UM,t 
+= Percentage uncertainty in population size adjusted for mortality in the 
+project scenario in year t (%) 
+T 
+= Critical value of a student’s two-tailed t distribution for significance level 
+α = 0.1 
+Mt 
+= Mortality through year t (%) 
+nt 
+= Number of planting units sampled in year t (integer) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+For both census- and area-based quantification approaches, a project is not eligible for crediting 
+(CRt = 0) where the half-width of the two-sided 90% confidence interval exceeds 100% of the 
+carbon dioxide removal estimate. 
+8.6 
+Estimated Carbon Dioxide Removals 
+For monitoring intervals longer than one year, carbon removals are calculated by comparing the 
+carbon stock at the current monitoring year (t) to the carbon stock at t minus the length of the 
+monitoring interval (e.g., t − 5 for a five-year interval). The total removals for the period are then 
+ 
+VM0047, v1.1 
+35 
+divided by the number of years in the monitoring interval (Equation 34) to calculate an annualized 
+value, ensuring equal carbon removals (CRt) are assigned to each year within the monitoring 
+interval. 
+8.6.1 Area-based Quantification of Estimated Carbon Dioxide Removals 
+ܥܴ௧= (ܯܫܰ(Δܥௐ௉,௧,Δܥௐ௉,௧× (1 −ܲܤ௧)) × (1 −ܷܰܥ௧)) −ܲܧ௧−ܮܭ௧
+−((ܯܫܰ(Δܥௐ௉,௧−௫,Δܥௐ௉,௧−௫× (1 −ܲܤ௧−௫)) × (1 −ܷܰܥ௧−௫))
+−ܲܧ௧−௫−ܮܭ௧−௫) 
+(32) 
+Where: 
+CRt 
+= Carbon dioxide removals from the project activity in the monitoring interval 
+ending in year t (t CO2e) 
+∆CWP,t 
+= Project carbon stock change through year t (t CO2e) 
+PBt 
+= Performance benchmark for the monitoring interval ending in year t (%) 
+LKt 
+= Leakage through year t (t CO2e) 
+PEt 
+= Project emissions from biomass burning and fertilizer use in year t (t CO2e) 
+UNCt 
+= Uncertainty in cumulative removals through year t (%) 
+ 
+8.6.2 Census-based Quantification of Estimated Carbon Dioxide Removals 
+Carbon dioxide removals using census-based quantification are calculated with carbon stock 
+changes in the baseline scenario (see Section 6) and leakage (see Section 8.4) implicitly set 
+equal to zero. 
+ܥܴ௧= (Δܥௐ௉,௧× (1 −ܷܰܥ௧)) −(Δܥௐ௉,௧−௫× (1 −ܷܰܥ௧−௫)) −ܲܧ௧ 
+(33) 
+Where: 
+CRt 
+= Carbon dioxide removals from the project activity over the monitoring 
+interval ending in year t (t CO2e) 
+∆CWP,t 
+= Project carbon stock change through year t (t CO2e) 
+PEt 
+= Project emissions from biomass burning and fertilizer use in year t (t CO2e) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Where the project combines area- and census-based quantification approaches, total removals 
+are calculated as the sum of the removals calculated independently for each approach (applied 
+to non-overlapping areas).  
+Where the project activity includes harvesting, the project must also conform to the most recent 
+version of the VCS Standard for applying the long-term average (LTA) GHG benefit as an upper 
+limit on calculated carbon dioxide removals.  
+ 
+VM0047, v1.1 
+36 
+8.6.3 Annualized Carbon Dioxide Removals 
+To calculate annualized carbon dioxide removals (CRannualized), divide the total removals (CRt) in 
+the monitoring interval by the length of the monitoring interval (x): 
+ܥܴ௔௡௡௨௔௟௜௭௘ௗ= ܥܴ௧
+ݔ 
+(34) 
+Where:  
+CRannualized = 
+Annualized carbon dioxide removals (t CO2e/year) 
+CRt 
+= 
+Carbon dioxide removals from the project activity over monitoring interval t 
+(t CO2e) 
+x 
+= 
+Length of the monitoring period (years) 
+8.7 
+Area-based and Census-based Ex-Ante Estimation 
+The project description must include an ex-ante estimation of carbon dioxide removals to 
+demonstrate the expected difference between modeled performance of the project and the 
+projected “no change” baseline (census-based only) or the forecasted performance benchmark 
+(area-based only). The ex-ante estimation must meet the following requirements:  
+1) At validation, ex-ante estimates must be made for the length of the crediting period. 
+Projected changes in biomass must be based on growth and yield models constructed 
+with data and parameters that conservatively represent the project activity. 
+2) Any harvest regimes or forest management activities must be incorporated when 
+modeling the project scenario. 
+3) A minimum uncertainty deduction of 10% must be applied. An uncertainty deduction 
+greater than 10% may be selected by the project proponent if they wish to be more 
+conservative. 
+4) The ex-ante estimate of removals is derived as follows:  
+a) For the area-based approach: Use Equation (1), with parameter ΔCWP-biomass,t from 
+modeled growth and yield values: the output of the growth and yield model must 
+provide an estimate in t C, which provides the value for ΔCWP-biomass,t used in 
+Equation (1). 
+b) For the census-based approach: Use Equation (22) with parameter ΔCWP-woody,t from 
+modeled growth and yield values: the output of the growth and yield model must 
+provide an estimate in t C, which provides the value for ΔCWP-woody,t used in Equation 
+(22) 
+5) The ex-ante baseline is set to zero where the project uses the census-based approach. 
+ 
+VM0047, v1.1 
+37 
+6) Projects using the area-based approach forecast a performance benchmark, which is 
+determined by applying the procedures outlined in Appendix 1 with parameters 
+estimated as follows: 
+a) Expected changes in biomass (t C) over the crediting period are first estimated using 
+a growth and yield model. A regression model based on published studies or 
+validation datasets is then used to convert these biomass estimates into stocking 
+index values to derive ΔSIwp,t. 
+b) The change in stocking index for control plots may be estimated by assuming a 
+linear trend between t = −10 and t = 0, using the slope of that interval as the basis 
+for projecting performance across the crediting period to derive the ex-ante slope for 
+ΔSIcontrol,t. 
+7) All other carbon pools (i.e., SOC) and GHG emission sources may be assumed to be zero, 
+where it is conservative to do so. 
+ 
+ 
+ 
+VM0047, v1.1 
+38

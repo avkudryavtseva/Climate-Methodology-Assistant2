@@ -1,0 +1,92 @@
+3 DEFINITIONS 
+Appliance 
+A household appliance powered by electricity or another fuel source, including but not limited 
+to, a refrigerator, microwave, dishwasher, clothes washer or dryer, space heater, or water 
+heater. It also includes heat pumps for space heating, space cooling, and water heating where 
+their GHG reductions can be determined on a discrete basis (e.g., using building weather 
+adjusted energy modelling systems or HERS audit ratings). Central heating and cooling systems 
+are excluded. An appliance operates as a discrete, standalone unit.  
+Building envelope 
+The exterior thermal boundary of the physical structure of an individual building. Thermal 
+boundary typically includes the ceiling/roof, wall, floor, attic floor, window, or door that 
+separates the habitable, occupiable, and conditioned spaces from the outdoor weather. 
+Cooling degree days (CDD) 
+Measure the cumulative degree difference between the warmer outside temperature and the 
+base temperature of the conditioned space on a daily basis during the cooling season. CDD are 
+determined by summing the daily degree days, which are calculated as the average daily 
+temperature minus the base temperature. The average daily temperature is calculated by 
+summing the daily high temperature and the daily low temperature and dividing by two. The 
+average daily temperature can also be calculated by averaging the daily temperature over 
+shorter time intervals, rather than just the high and low temperature. CDD reported by weather 
+stations are often reported in sixty or thirty minute time intervals. In the US, the cooling base 
+temperature is 78° F. 
+Dwelling 
+A residential unit, including single-family homes, mobile homes, multi-family buildings, 
+apartments within multi-family buildings, or other housing types defined in the CBECS Lodging 
+category. It also includes non-traditional buildings listed under the CBECS Public Order 
+category, such as fire stations, jails, reformatories, or penitentiaries. Beyond traditional multi-
+family housing, multi-family buildings may include commercial residential facilities, such as 
+hotels, dormitories, and nursing homes.1 
+Energy load  
+The sum of the heat load, cooling load and the electricity demand per Dwelling. Heat load 
+means the total fuel consumed, including electricity (in Btus, GJ or kWh) to provide comfort in a 
+conditioned space in a given year. Cooling load means the total electricity, or other fuel type in 
+the case of central cooling systems, consumed (in Btus, GJ or kWh) necessary to remove heat 
+from the conditioned space to provide comfort in a given year.  
+ 
+1 In the United States, multi-family buildings that are over three stories above grade are considered commercial under the 
+ASHRAE building standard 90.1-2004. These are also covered by the methodology. 
+ 
+VM0008, v1.2 
+6 
+Fuel switching  
+A change in the energy or fuel source (e.g., switching from natural gas to electricity) 
+Heat Pump Appliance 
+ 
+An air sourced heat pump (both self-contained and central systems), split heat pump 
+heating/cooling system, heat pump water heater, or geothermal2 heat pump direct exchange 
+heating/cooling system. 
+Heating degree days (HDD)  
+Measure the cumulative degree difference between the colder outside temperature and the 
+base temperature of the conditioned space on a daily basis during the heating season. HDD are 
+determined by summing the daily degree days, which are calculated as the base temperature 
+minus the average daily temperature.3 The average daily temperature is calculated by summing 
+the daily high temperature and the daily low temperature and dividing by two. The average daily 
+temperature can also be calculated by averaging the daily temperature over shorter time 
+intervals, rather than just the high and low temperature. HDD reported by weather stations are 
+often reported in sixty or thirty minute time intervals. In the US, the base temperature is 65°F. 
+In the UK, the base temperature is 15°C.  
+R-value  
+A measurement of thermal resistance as expressed by a recognized authority, such as the U.S. 
+Department of Energy, or the American Society of Heating, Refrigerating and Air-conditioning 
+Engineers (ASHRAE). The R-value of insulation in the floor, walls, ceiling, skirting or any other 
+element will depend on the thickness and specific material of the installed insulation.  
+Same building stock  
+Dwellings 1) in the same state, province, or region, 2) in the same category (single family or 
+multi-family), and 3) inhabited by the same income group (low-income, middle-income or high-
+income) as defined by a recognized authority.4  
+U-value  
+The thermal conductance of a material or, in other words, the total heat transmission in GJ per 
+square meter per hour with a 1°C temperature difference between the inside and the outside. 
+The U-value of the window is the inverse of the R-value or 1/R. The U-value for the make and 
+ 
+2 As distinct from large scale geothermal energy/electricity power production systems (e.g 
+https://www.nrel.gov/research/re-geo-elec-
+production.html#:~:text=The%20steam%20comes%20from%20reservoirs,more%20below%20the%20earth's%20surfac
+e.&text=The%20steam%20rotates%20a%20turbine,flash%20steam%2C%20and%20binary%20cycle.) 
+3 For example, a winter day (24 hours) has a low daily temperature of 20°F and a high daily temperature of 35°F. The total 
+HDD for that day are calculated as: 65°F (base temperature) – ((35°F+20°F)/2). The HDD for that day are 37.5. If, the next 
+day is slightly warmer and the daily low is 30°F and the daily high is 38°F, then the HDD for that day are 31. The cumulative 
+HDD for the two days are 68.5. HDD for the heating season are cumulative. 
+4 In the US, The Department of Health and Human Services issues guidelines that define the term “low-income” as a multiple 
+of the income level defined as poverty level on an annual basis. For example, the 2009 poverty level was $10,400 for a single 
+person, and $21,200 for a family of four. Households are considered low income if their household income is no more than 
+200% of poverty level. 
+ 
+VM0008, v1.2 
+7 
+model of a window can often be found on a window manufacturer’s specification sheet 
+included with the window.  
+Weatherization  
+Energy efficiency measures in dwellings. Weatherizing refers to the act of installing energy 
+efficiency measures in dwellings.

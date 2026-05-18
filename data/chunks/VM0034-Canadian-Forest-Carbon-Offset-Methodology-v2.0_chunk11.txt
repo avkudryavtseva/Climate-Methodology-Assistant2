@@ -1,0 +1,600 @@
+9 
+MONITORING 
+9.1  
+Data and Parameters Available at Validation 
+Data / Parameter 
+ LEFM 
+ 
+Data unit 
+% 
+Description 
+Market leakage factor, expressing the percentage of the total 
+increase in project emissions due to market leakage during 
+reporting period t. 
+Equations 
+Eq. 38, 39 and 41 
+Source of data 
+In the case of equations 38 or 39, LEFM data for the province 
+of BC is provided by the BC Provincial Leakage Base Case 
+(See Appendix A).  In the case of other provinces, project 
+proponents must use the guidance of Appendix A to tailor 
+project specific LEFM values.  In the case of equation 41, LEFM 
+equals the value of the VCS Leakage Discount Factor 
+provided on the VCS AFOLU Requirements document. 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+For option 1 , projects located in BC province may use default 
+values from table 17.  For option  2, project developer must 
+use values resulting from Equation 40.   For option 3, project 
+developpers must use default values from Table 2 of the VCS 
+VCS Methodology Requirements V4.0.  
+Purpose of data 
+Calculation of leakage 
+Comments 
+Default factors for this variable may be subject to periodic re-
+assessment 
+ 
+ 
+Data / Parameter 
+CR & CN 
+Data unit 
+tC 
+Description 
+Carbon sequestration per unit of forest 
+Equations 
+Eq. 41 
+Source of data 
+Conservative estimate based on generally higher productivity 
+of Canada  forests, and the unknown location of market 
+leakage. 
+Value applied 
+1 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+125 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Conservative estimate based on the generally higher 
+productivity of Canada 's forests, and the unknown location of 
+market leakage. 
+Purpose of data 
+Calculation of leakage 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+dqx, qx 
+Data unit 
+Factor 
+Description 
+Own and cross price elasticities of demand for softwood 
+lumber prices 
+Equations 
+Appendix B 
+Source of data: 
+Nagubadi, R.V., Zhang, D., Prestemon, J.P., and Wear, D.N. 
+2004. “Softwood Lumber Products in the United States: 
+Substitutes, Complements, or Unrelated?”. Forest Science 
+51(4):416-426.  and  Hseu, J-S., and Buongiorno, J. 1993. 
+“Price elasticities of substitution between species in the 
+demand of US softwood lumber imports from Canada”. 
+Canadian Journal of Forest Research 23:591-597. 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+The Nagubandi et. al. paper is a peer reviewed, widely cited 
+study of price elasticities in the US market for broad classes of 
+softwood lumber, and was the most appropriate reference 
+found for these variables 
+Purpose of data 
+Calculation of leakage 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+e 
+Data unit 
+% 
+Description 
+Supply price elasticity 
+Equations 
+Eq.41 
+Source of data 
+Song, N., et al., 2011. “U.S. softwood lumber demand and 
+supply estimation using cointegration in dynamic equations”. 
+Journal of Forest Economics. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+126 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Song et.al was identified as the most recent, appropriate 
+paper for determining elasticities for BC forest products in the 
+NA market. 
+Purpose of data 
+Calculation of leakage 
+Comments 
+None 
+ 
+Data / Parameter 
+E 
+Data unit 
+% 
+Description 
+Demand price elasticity 
+Equations 
+Eq.41 
+Source of data 
+Song, N., et al., 2011. “U.S. softwood lumber demand and 
+supply estimation using cointegration in dynamic equations”. 
+Journal of Forest Economics. 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Song et.al was identified as the most recent, approriate paper 
+for determining elasticities for Canada forest products in the 
+NA market. 
+Purpose of data 
+Calculation of leakage 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+EF1 
+Data unit 
+Tonne N2O-N / tonne N input 
+Description 
+Emission Factor for N additions from fertilizers,  
+Equations 
+Eq. 17 
+Source of data 
+Table 11.1, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.01 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+127 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+EF4 
+Data unit 
+tN2O-N / (tNH3-N + tNOx-N volatilised). 
+Description 
+Emission Factor for N2O emissions from atmospheric 
+deposition of N on soils and water surfaces, tonne  N2O-N / 
+tonne N input 
+Equations 
+Eq. 21 
+Source of data 
+Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.01 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+  
+Data / Parameter 
+EF5 
+Data unit 
+tN2O-N / tN in leaching or runoff. 
+Description 
+Emission factor for N2O-N emissions from N leaching and 
+runoff, tonne  N2O / tonne N input 
+Equations 
+Eq. 22 
+Source of data 
+Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.0075 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+fC, wood 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+128 
+Data unit 
+Tonne / tonne 
+Description 
+The fraction of the dry mass of wood, excluding bark, that is 
+carbon.   
+Equations 
+Eq. 40 
+Source of data 
+IPCC GPG for LULUCF Equation 3.2.3 
+Value applied 
+0.5 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+FracGASF 
+Data unit 
+(tNH3-N + tNOx-N volatilised)/tN applied 
+Description 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for 
+synthetic fertilizers 
+Equations 
+Eq. 21 
+Source of data: 
+Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.1 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied: 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+Data / Parameter 
+FracGASM 
+Data unit 
+(tNH3-N + tNOx-N volatilised)/tN applied 
+Description 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for 
+organic fertilizers 
+Equations 
+Eq. 21 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+129 
+Source of data 
+Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.2 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+FracLEACH-(H) 
+Data unit 
+tN/tN added or deposited by grazing animals. 
+Description 
+Fraction of N lost by leaching and runoff.  
+Equations 
+Eq. 22 
+Source of data 
+Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for 
+National GHG Inventories 
+Value applied 
+0.3 (if soil water holding capacity is exceeded) or 0 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Default factor given for this variable in the IPCC Guidelines 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+None 
+ 
+ 
+Data / Parameter 
+GWPj 
+Data unit 
+Dimensionless 
+Description 
+Global warming potential of gas j 
+Equations 
+Eq. 5 
+Source of data 
+IPCC  
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+Values found in Table 4 (p.22) of The Science of Climate 
+Change, Contribution of Working Group 1 to the Second 
+Assessment Report of the IPCC must be used (time horizon -
+100 years). 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+130 
+Purpose of data 
+Calculation of baseline and project emissions, and leakage 
+Comments 
+None 
+ 
+Data / Parameter 
+HWPCH4fX,t-y 
+Data unit 
+tCO2e / t wood biomass delivered 
+Description 
+The factor for the amount of CH4 (accounted as CO2e) emitted 
+in a given year, equal to the number of years between harvest 
+and time t, for products used in area X, where X is either North 
+America (NA) or offshore (O) 
+Equations 
+Eq. 30 
+Source of data 
+Values given in tables 14 and 15, derived from Dymond 2012 
+and Winjum et al 1998 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+The Dymond paper represents the most recent, BC focussed 
+assessment of C storage in HWP for North American markets, 
+while the Winjum et.al. paper is the best available source for 
+offshore markets. For other provinces, default values  must be 
+calculated accordig Dymond procedures.  Other models may 
+also be suitable to determinate HWP default value .If other 
+models are used, VVA must be justified by considering the 
+appropriateness of the selected models.  
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+Default factors for this variable may be subject to periodic re-
+assessment 
+ 
+ 
+Data / Parameter 
+HWPfNA,t-y 
+Data unit 
+% 
+Description 
+The factor for the percentage of CO2 remaining after the 
+number of years between harvest and time t, for products 
+used in North America 
+Equations 
+Eq. 4 
+Source of data 
+Derived from Caren C. Dymond, Forest carbon in North 
+America: annual storage and emissions from British 
+Columbia's harvest 1965 - 2065, Carbon Balance and 
+Management 7:8, 2012,  and K.E. Skog, Sequestration of 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+131 
+carbon in harvested wood products for the United States, 
+Forest Products Journal 58(6):56-72. (2008) 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+The Dymond paper represents the most recent, BC focussed 
+assessment of C storage in HWP for North American markets. 
+For other provinces, default values  must be calculated 
+accordig Dymond procedures.  Other models may also be 
+suitable to determinate HWP default value .If other models are 
+used, VVA must be justified by considering the 
+appropriateness of the selected models.  
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+Default factors for this variable may be subject to periodic re-
+assessment 
+ 
+Data / Parameter 
+HWPfO,t-y 
+Data unit 
+% 
+Description 
+The factor for the percentage of CO2 remaining after the 
+number of years between harvest and time t, for products 
+used offshore 
+Equations 
+Eq. 4 
+Source of data 
+Derived from Caren C. Dymond, Forest carbon in North 
+America: annual storage and emissions from British 
+Columbia's harvest 1965 - 2065, Carbon Balance and 
+Management 7:8, 2012,    Jack K. Winjum, Sandra Brown and 
+Bernhard Schlamadinger, Forest Harvests and Wood 
+Products: Sources and Sinks of Atmospheric Carbon Dioxide, 
+Forest Science 44:2, 1998 and K.E. Skog, Sequestration of 
+carbon in harvested wood products for the United States, 
+Forest Products Journal 58(6):56-72. (2008) 
+Value applied 
+Various 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied: 
+The Dymond (2012) paper represents the most recent, BC 
+focussed assessment of C storage in HWP for North American 
+markets, while the Winjum et.al. paper is the best available 
+source for key factors for offshore markets. For other 
+provinces, default values  must be calculated following the 
+procedures propossed by the Dymond (2012) paper.  Other 
+models may also be used to determinate HWP default values, 
+following conditions mentioned on section 8.1.1.2.  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+132 
+Purpose of data 
+Calculation of baseline and project emissions. 
+Comments 
+Default factors for this variable may be subject to periodic re-
+assessment 
+ 
+ 
+Data / Parameter 
+Tx 
+Data unit 
+% 
+Description 
+Timber harvesting volume proportion for species x by region 
+for BC 
+Equations 
+Appendix A 
+Source of data 
+BC Government data on timber harvest by region 
+Value applied 
+Values given in Appendix E in the case of BC. For option 2 of 
+how to calculate LEFM% when project areas  have proportions 
+of tree species that differ from the regional averages 
+(established in Appendix E)  or when areas in other provinces 
+other than BC, it is recommended that project proponents 
+utilize the guidance given in this document (Appendix A) and 
+tailor/refine the leakage updating timber harvesting volume 
+proportion for specie x by project’s region according to 
+scientific availlable data.   
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+BC government data provides the definitive record of harvest 
+activities within the province. For projects in other provinces, 
+project developer must use data of recor of harvest activities 
+in the project area or region.This, demostraring that the data is 
+reliable and from relevant peer reviewed literature to ascertain 
+its validity. 
+Purpose of data 
+Calculation of leakage 
+Comments 
+None 
+ 
+Data / Parameter 
+wdfs 
+Data unit 
+t/m3 
+Description 
+Wood density for species or groups of species s 
+Equations 
+Eq. 2  
+Source of data 
+J.S. Gonzalez. Wood density of Canadian tree species. 
+Edmonton: Forestry Canada, Northwest Region, Northern 
+Forestry Centre,1990, Inform. Rept. NOR-X-315 
+Value applied 
+Various 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+133 
+Justification of choice of data 
+or description of 
+measurement methods and 
+procedures applied 
+The Gonzalez study is a published meta-study reviewing a 
+wide range of research results for wood densities. 
+Purpose of data 
+Calculation of baseline and project emissions, and leakage 
+Comments 
+None 
+9.1.1:  Default Factors Subject to Periodic Re-Assessment 
+For projects within the province of BC, a number of default factors are given for use various 
+equations.  The default factors shown in Table 21, below, are specific to this methodology, and 
+are subject to periodic re-assessment, as laid out in the most recent version of the VCS 
+document “Methodology Approval Process”.   
+Table 21: Default Factors Subject to Periodic Re-Assessment 
+Variable 
+Description 
+Equation 
+HWPf 
+Percentage of CO2 remaining in use and 
+landfill in wood products 
+5 
+HWPCH4ft 
+CH4 emissions from landfills

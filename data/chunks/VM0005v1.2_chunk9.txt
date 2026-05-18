@@ -1,0 +1,3376 @@
+9 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+9.1 
+Baseline Emissions 
+9.1.1 
+General Approach 
+The baseline scenario is characterized by emissions from relogging, which in the with-project scenario 
+are avoided, or an absent or limited regrowth of the residual forest, which in the with-project scenario 
+may be enhanced, or a combination of these two. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 12 
+ 
+If relogging occurs in the baseline scenario, the volume of biomass that would have been removed from 
+the project area over the lifetime of the project can either be determined by: 
+1. Harvesting levels, defined in terms of cubic meters, as determined in advance and reflected 
+for example in management plans for the project area; or 
+2. Post-relogging carbon stocks in a reference area.  
+In the first case above, the baseline net GHG emissions are estimated based on available information 
+on the volume of timber removed and damage to the residual stand due to relogging, carbon storage in 
+dead wood and harvested wood products, regrowth and project emissions. 
+‘Harvested volume’ or ‘volume of timber removed’ (Vharvest,i,j:) is measured as cubic meters removed 
+from the forest and as reported in available information mostly based on for instance truck loads of 
+timber that have been transported off-site. Most often timber is measured at the landing / yard before 
+loading and freight bills accompany the timber to the place where it is transported to. Volumes are 
+normally measured by authorities such as the Forest Department, or as a minimum inspected by such 
+authorities, after which volumes of timber are reported. Volumes are normally calculated on the basis of 
+diameter measurement on both sides of the log at the landing / yard with calipers and the length of the 
+log, and specified per species. 
+In the second case, net emissions are estimated as the pre-relogging carbon stock minus the post-
+relogging carbon stock in biomass, dead wood and harvested wood products, taking also into account 
+regrowth and project emissions. 
+Regrowth, if any, of the residual stand may be estimated on the basis of existing, peer-reviewed 
+literature, quantifying regrowth in comparable areas, or in a reference area. 
+If a reference area is used for the estimation of baseline net GHG emissions or removals, this area is 
+selected through the identification of areas where degradation and loss of biomass from relogging is 
+expected to be similar to what would occur in the project area. Justification must be provided in the 
+project description that the selected reference area is representative for the project area in the baseline 
+scenario, and that the management of the reference area is not affected by its selection as such. The 
+latter can be based on documented evidence that the planning of relogging occurred prior to the 
+assignment as reference area by the IFM project proponent. 
+Alternatively, a sample of reference areas can be taken. The reference areas together must meet the 
+criteria set out by the applicability conditions (minimum size) and those elaborated in this section 
+(similarity to project area). 
+If emissions due to avoided timber harvesting in the baseline are determined based on activity levels in 
+a reference area, project proponents must demonstrate that the quantification of avoided emissions in 
+the with-project scenario is taking into account: 
+a. Similarity of strata and timber quantities: 
+Similar strata in the project area and in the reference area will have similar quantities of timber, and 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 13 
+ 
+therefore, it can reasonably be assumed that logging intensities in those strata in the project area are 
+the same as the logging intensity that took place in the reference area;  
+b. Areas for infrastructure establishment: 
+The same percentages of land are likely to be liberated for roads and log landings in the project area 
+compared with the reference area; and, 
+c. Areas that do not contain merchantable timber and/or, are inaccessible for legislative, 
+technical or economic reasons: 
+Such areas must be excluded from the area for which the changes in carbon stocks are estimated 
+because they would have remained untouched in the baseline in any case. 
+Similarity of the reference area(s) to the project area can be demonstrated through meeting the 
+following conditions, based on own measurements, literature recourses, datasets or a combination of 
+these: 
+• 
+Supporting comparable quantities of pre-relogging carbon stocks in above-ground woody 
+biomass, or tree biomass with DBH ≥ 5 cm, and dead wood before relogging and comparable 
+predicted yields of commercial timber (all ±20%). If project proponents conservatively choose 
+not to account for dead wood in the with-project scenario, similarity for the dead wood carbon 
+pools between the reference area and the project area does not need to be demonstrated. In 
+case of a larger difference than 20%, the project proponent must demonstrate that due to a 
+larger or smaller carbon stock in above-ground tree biomass and/or dead wood in the reference 
+area compared to the project area the value for relogging carbon stock losses is at least 
+underestimated and thus a conservative result for the net GHG benefits of the project is 
+obtained (eg, if biomass in forest in the reference area is greater than in the project area and 
+relogging rates will be the same). Supporting documentation may include geo-referenced data 
+in one or more of the following: management and/or logging plans, measurement data, peer-
+reviewed literature, maps and/or remotely sensed footage; and 
+• 
+Having been subjected to the same management regime for first-round logging, as evidenced 
+in management and/or logging plans; and 
+• 
+Having comparable legal rights and harvesting rights. 
+This methodology accounts for carbon stock in above-ground tree biomass (AGB), below-ground 
+biomass (BGB – optional), dead wood (DW) and carbon stored in wood products (WP). However, 
+CBSLpre,i and CBSLpost,i below refer only to the AGB and DW carbon pools. These stocks are estimated 
+through fieldwork, possibly combined with carbon stock determination methods using aerial 
+photography or remote sensing, or the use of peer-reviewed default factors for the project area. Below-
+ground biomass is not included in the calculation of ΔCREL,i,t because that would result into an 
+overestimation of CO2 emissions due to relogging in the baseline scenario.  
+The net baseline GHG emissions and removals can be estimated through one of the two following 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 14 
+ 
+approaches: 
+1. Using Pre-relogging A-spatial Data; and, 
+2. Using Post-relogging Mid to High Resolution Spatial Data. 
+In both cases, the net CO2 equivalent emissions in the baseline will be determined as: 
+(
+)
+t
+E
+BSL
+M
+i
+t
+i
+exist
+tree
+t
+i
+REL
+t
+t
+BSL
+GHG
+C
+C
+C
+BSL
+,
+1
+,
+,
+,
+,
+*
+1
+−
+=
+−
+=
++
+∆
++
+∆
+=
+∆
+∑
+∑
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+Where: 
+Parameter 
+Description 
+Unit 
+ΔCBSL 
+Net CO2 equivalent emissions in the baseline scenario up to 
+year t* 
+t CO2-e 
+ΔCREL,i,t 
+Net carbon stock change due to relogging in the baseline 
+scenario in stratum i at year t 
+t CO2-e yr-1 
+∆Ctree-exist,i,t 
+Net carbon stock change in existing tree vegetation6 in the 
+baseline scenario in stratum i at year t 
+t CO2-e yr-1 
+GHGBSL-E,t 
+Greenhouse gas emissions as a result of relogging within the 
+project boundary in stratum i at year t 
+t CO2-e yr-1 
+i 
+1, 2, 3 …MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+9.1.2 
+Pre-relogging A-spatial Data for ΔCREL,i,t 
+Estimates of the levels of forest degradation and therefore biomass loss can be obtained based on a-
+spatial information contained in either management or logging plans, harvesting records, or in legal 
+documentation for the concession. Preferably this information relates to the project area, but if such 
+information is not available it can be obtained from a reference area, provided that similarity 
+requirements as described above are met or that it results in an underestimated value of relogging 
+carbon stocks losses and thus a conservative result for the net GHG benefits for the project. Loss of 
+biomass is estimated through predicted volumes of timber removals per hectare combined with 
+                                                     
+6  
+With DBH ≥ 5 cm. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 15 
+ 
+estimates of damage to the residual stand and carbon storage in wood products. The estimated post-
+relogging carbon stock in dead wood at year t is quantified as being emitted over 10 years with a linear 
+decay function, following the procedure described in the VCS AFOLU Requirements v3.3, section 4.5.3.  
+ 
+(
+) (
+)
+(
+)
+12
+44
+10
+1
+20
+1
+ 
+C
+10
+,
+,
+,
+,
+20
+,
+,
+20
+,
+,
+,
+,
+20
+i
+WP100,
+,
+,
+,
+,
+,
+,
+,
+,
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+×
++
+
+
+
+
+
+
+×
+×
++
++
+−
+−
++
+×
+=
+∆
+∑
+∑
+−
+−
+t
+t
+t
+i
+DW
+t
+i
+REL
+t
+t
+t
+i
+WP
+t
+i
+REL
+t
+i
+WP
+t
+i
+DW
+i
+damage
+i
+harvest
+t
+i
+REL
+t
+i
+REL
+C
+A
+C
+A
+C
+C
+C
+C
+A
+C
+ 
+ 
+(3) 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+ΔCREL,i,t 
+Net carbon stock change due to relogging in the baseline 
+scenario in stratum i at year t 
+t CO2-e yr-1 
+AREL,i,t 
+Area relogged in baseline stratum i at year t 
+ha yr-1 
+Charvest,i 
+Carbon stock in harvested timber in stratum i 
+t C ha-1 
+Cdamage,i 
+ 
+Carbon loss due to damage to the residual stand in stratum i 
+t C ha-1 
+CDW,I,t 
+Post-relogging carbon stock in dead wood in the baseline 
+scenario (stock emitted is quantified over 10 years with a linear 
+decay function) in stratum i at year t 
+t C ha-1 
+CWP100,i 
+Post-relogging carbon stock stored in long-term wood products 
+(stock remaining in wood products after 100 years) in the 
+baseline scenario in stratum i 
+t C ha-1 
+CWP20,i,t 
+Post-relogging carbon stock stored in short-term and medium-
+term wood products (stock emitted is quantified over 20 years 
+with a linear decay function) in the baseline scenario in stratum 
+i at year t 
+t C ha-1 
+i  
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+44/12 
+The ratio of molecular weight of carbon dioxide to carbon 
+t CO2-e t C-1 
+ 
+If no relogging occurs, ΔCREL,i,t is equal to zero and Equation 3 does not need to be used.  
+The actual or predicted volume of timber to be harvested from each stratum, is estimated via the below 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 16 
+ 
+equations. 
+Carbon Stock in Harvested and Damaged Wood 
+∑
+=
+×
+×
+=
+S
+j
+j
+j
+i
+harvest
+i
+harvest
+CF
+D
+V
+C
+1
+,
+,
+,
+)
+(
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+Where: 
+Parameter 
+Description 
+Unit 
+Charvest,i 
+Carbon stocks in harvested timber in the baseline scenario in 
+stratum i 
+t C ha-1 
+Vharvest,i,j 
+Volume of timber harvested in the baseline scenario of species 
+j in stratum i  
+m3 ha-1 yr-1 
+Dj 
+Basic density of the harvested wood of species j  
+ 
+t d.m. m-3 
+CF 
+Carbon fraction of dry matter7  
+t d.m.-1 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+j 
+1, 2, 3 … S tree species 
+ 
+ 
+Cdamage,i = Charvest,i × fdamage 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+Cdamage,i 
+Loss of carbon due to damage to the residual stand in the 
+baseline scenario, in stratum i 
+t C ha-1  
+Charvest,i 
+Carbon stocks in harvested timber in the baseline scenario in 
+stratum i  
+t C ha-1 
+fdamage 
+Factor for damage to the residual stand caused by relogging 
+ 
+                                                     
+7  
+ 
+IPCC default value = 0.50 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 17 
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+ 
+Cdamage represents all carbon in damaged biomass, including dead wood, resulting from logging. 
+Accounting for Cdamage as zero in the baseline scenario is therefore conservative and in this case 
+accounting for CDW can be omitted as well. If project proponents want to account for Cdamage, both 
+Cdamage and CDW must be estimated.  
+fdamage must be determined using appropriate measurement techniques such as those described in the 
+project description of the Noel Kempff Mercado Climate Action Project (NKM-CAP), version 02.02, 
+dated 7/11/2005, or other similar established emission quantification approaches. Alternatively, peer 
+reviewed literature may be used to derive fdamage from areas for which it can be shown that they are 
+representative for the project area or general fdamage proxies for natural Evergreen Tropical Rainforests 
+for conventional and/or Reduced Impact Logging (eg, Pulkki (1997)). 
+If CDW for the project area cannot be derived from peer-reviewed literature, data can be obtained using 
+appropriate measurement techniques applied in areas for which it can be shown that they are 
+representative for the project area. The method for estimating the carbon stock in dead wood from field 
+measurements is outlined below. 
+Harvested Wood Products 
+In line with the VCS guidelines on wood products, long-term storage in this pool is accounted for using 
+the below equations. In case no reliable assumptions can be made as to the timber classes of the 
+harvested wood and its end use, general information from Forest Departments from that area reflecting 
+breakdown of timber classes as they are normally harvested from this forest type and area may be 
+used (eg, plywood, round logs, sawn timber, etc.).  
+This methodology follows the conceptual framework detailed in Winjum et al. (1998).8
+ 
+Step 1: Estimate the biomass carbon of the volume extracted by wood product type ty at year t from 
+within the project boundary: 
+(
+)
+∑
+=
+×
+×
+×
+=
+S
+j
+j
+t
+i
+j
+ty
+ex
+i
+t
+i
+ty
+XB
+CF
+D
+V
+A
+C
+1
+,
+,
+,
+,
+,
+,
+,
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) 
+ 
+                                                     
+8  
+Winjum, J.K., Brown, S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks 
+of atmospheric carbon dioxide. Forest Science 44: 272-284 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 18 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+CXB,ty,i,t 
+Mean stock of extracted biomass carbon by class of wood 
+product ty from stratum i at year t 
+t C ha-1 
+Ai 
+Total area of stratum i 
+ha 
+Vex,ty,j,i,t 
+Volume of timber extracted from within stratum i (does not 
+include slash left onsite) by species j and wood product class ty 
+at year t 
+m3 
+Dj 
+Mean wood density of species j 
+t d.m.m-3 
+CF 
+Carbon fraction of biomass 
+t C t-1 d.m. 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+j 
+1, 2, 3 … S tree species 
+ 
+ty 
+Wood product class – defined here as sawnwood, wood-based 
+panels, other industrial roundwood, paper and paper board, 
+and other 
+ 
+ 
+Mean wood density of species (Dj) 
+Values for Dj can be taken from tables generally used in the local or regional timber and forest industry, 
+or from peer-reviewed literature applicable to the region. If no species-specific values for Dj are 
+available, the average value across all species can be used, increased by 20% to ensure a 
+conservative (higher) estimate of CWP100,i,t and CWP20,i,t below. 
+Step 2: Estimate the proportion of biomass carbon extracted at year t that remains sequestered in long-
+term wood products after 100 years, and estimate the proportion of biomass carbon extracted at year t 
+that is expected to be emitted from short-term and medium-term wood products over 20 years with a 
+linear decay function.  
+t
+i
+WP
+o
+p
+oir
+w
+s
+ty
+t
+i
+ty
+XB
+t
+i
+WP
+C
+ww
+C
+C
+ty
+,
+,
+20
+,
+,
+,
+,
+,
+,
+,
+,
+,
+100
+)
+1(
+∑
+−
+−
+×
+=
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(7a)  
+(
+)
+(
+)
+(
+)
+(
+)
+∑
+×
+−
+×
++
+×
+=
+ty
+o
+p
+oir
+w
+s
+ty
+ty
+t
+i
+ty
+XB
+ty
+t
+i
+ty
+XB
+t
+i
+WP
+fo
+slp
+C
+slp
+C
+C
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+20
+1
+  
+ 
+ 
+ 
+(7b) 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 19 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+CWP100,i,t 
+Carbon stock in long-term wood products pool (stock remaining 
+in wood products after 100 years) in stratum i at year t 
+t C ha-1 
+CWP20,i,t 
+Post-relogging carbon stock in short-term and medium-term 
+wood products pool (stock emitted is quantified over 20 years 
+with a linear decay function) in the baseline scenario in stratum 
+i at year t 
+t C ha-1 
+CXB,ty,i,t 
+Mean stock of extracted biomass carbon by class of wood 
+product ty from stratum i at year t 
+t C ha-1 
+wwty 
+Wood waste fraction. The fraction immediately emitted through 
+mill inefficiency 
+ 
+slpty 
+Fraction of wood products that will be emitted to the 
+atmosphere within 5 years of timber harvest 
+ 
+foty 
+Fraction of wood products that will be emitted to the 
+atmosphere between 5 and 100 years of timber harvest 
+ 
+ty 
+Wood product class – defined here as sawnwood, wood-based 
+panels, other industrial roundwood, paper and paper board, 
+and other 
+ 
+i 
+1, 2, 3, … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+Wood waste fraction (wwty): 
+Winjum et al. (1998) indicate that the proportion of extracted biomass (CXB,ty) that is oxidized (burning or 
+decaying) from the production of commodities to be equal to 19% for developed countries and 24% for 
+developing countries. The fraction wwty is therefore equal to 0.19 for developed countries and 0.24 for 
+developing countries.  
+Short-lived proportion (slp) 
+Winjum et al. (1998) give the following proportions for wood products with short-term (<5 yr) uses (slp) 
+after which they are retired and oxidized (applicable internationally): 
+ 
+  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 20 
+ 
+Wood Product Class 
+slp 
+Sawnwood 
+0.2 
+Woodbase panels 
+0.1 
+Other industrial roundwood 
+0.3 
+Paper and Paperboard 
+0.4 
+The methodology makes the assumption that all other classes of wood products are 100% oxidized 
+within 5 years.  
+Additional oxidized fraction (fo) 
+Winjum et al. (1998) gives annual oxidation fractions for each class of wood products split by forest 
+region. This methodology uses the fractions for tropical wood products, projected over 95 years to give 
+the additional proportion that is oxidized between the 5th and 100th years after initial harvest:  
+ 
+Wood Product Class 
+fo (tropical) 
+Sawnwood 
+0.84 
+Woodbase panels 
+0.97 
+Other industrial roundwood 
+0.99 
+Paper and paperboard 
+0.99 
+ 
+9.1.3 
+Post-relogging Mid to High Resolution Spatial Data for ΔCREL,i,t 
+Where available, spatial data from a reference area that has undergone relogging can be combined 
+with field sampling to produce post-relogging values of remaining biomass and dead wood. In case a 
+sample of various reference areas is taken, the equation below provides for the calculations to be 
+performed for each stratum i in these reference areas. The outcome of the equation must be the 
+weighted average across similar strata in all reference areas, where the weighing factor is the total area 
+of stratum i in each of the reference areas. 
+(
+)
+(
+)
+(
+)
+(
+)
+12
+44
+10
+1
+20
+1
+C
+10
+,
+,
+,
+,
+,
+,
+20
+,
+,
+20
+,
+,
+,
+,
+20
+i
+WP100,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+×
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+−
+×
++
+
+
+
+
+
+
+×
+×
++
++
++
+−
++
+−
+×
+=
+∆
+∑
+∑
+−
+−
+t
+t
+t
+i
+DWpre
+t
+i
+DW
+t
+i
+REL
+t
+t
+t
+i
+WP
+t
+i
+REL
+t
+i
+WP
+t
+i
+DWpre
+t
+i
+DW
+i
+BSLpost
+i
+BSLpre
+t
+i
+REL
+t
+i
+REL
+C
+C
+A
+C
+A
+C
+C
+C
+C
+C
+A
+C
+  
+(8) 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 21 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CREL,i,t 
+Net carbon stock change due to relogging in the baseline 
+scenario in stratum i at year t 
+t CO2-e yr-1 
+AREL,i,t 
+Area relogged in baseline stratum i at year t 
+ha yr-1 
+CBSLpre,i 
+Pre-relogging carbon stock in above-ground biomass in the 
+baseline scenario in stratum i 
+t C ha-1 
+CDWpre,I,t 
+Pre-relogging carbon stock in dead wood (stock emitted is 
+quantified over 10 years with a linear decay function) in stratum 
+i at year t  
+t C ha-1 
+CBSLpost,i 
+Post-relogging carbon stock in above-ground biomass in the 
+baseline scenario in stratum i 
+t C ha-1 
+CDW,i,t 
+Post-relogging carbon stock in dead wood in the baseline 
+scenario (stock emitted is quantified over 10 years with a linear 
+decay function in stratum i at year t 
+t C ha-1 
+CWP100,i 
+Carbon stock in long-term wood products pool (stock remaining 
+in wood products after 100 years) in stratum i at year t 
+t C ha-1 
+CWP20,i,t 
+Post-relogging carbon stock in short-term and medium-term 
+wood products pool (stock emitted over 20 years with a linear 
+decay function) in the baseline scenario in stratum i at year t 
+t C ha-1 
+i  
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+44/12 
+The ratio of molecular weight of carbon dioxide to carbon 
+t CO2-e t C-1 
+ 
+If no relogging occurs, ΔCREL,i,t is equal to zero and Equation 8 does not need to be used. 
+Pre-relogging Carbon Stocks in Above-ground Tree Biomass  
+Above-ground tree biomass carbon stocks prior to relogging (CBSLpre,i) can be determined on the basis 
+of previously conducted fieldwork or surveys or peer-reviewed proxies in the reference area. They can 
+be estimated using the method outlined in Estimation of ∆CAGB,i,t. 
+In case data for CBSLpre,i cannot be obtained from the reference area (eg, because relogging has already 
+occurred throughout the reference area), such information may also be obtained from parts of the 
+project area that have not been treated with silvicultural techniques. Or, in case for the reference area 
+data on CBSLpost,i and harvesting levels are available, CBSLpre,i can be approximated by the following 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 22 
+ 
+equation: 
+CBSLpre,i = CBSLpost,i + Charvest,i + Cdamage,i 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(9) 
+Values for Charvest,i and Cdamage,i must be obtained from management or logging plans, harvesting 
+records and peer-reviewed literature as described previously. 
+Post-relogging Carbon Stocks in Above-ground Tree Biomass 
+CBSLpost,i can be estimated using the method outlined in Estimation of ∆ CAGB,i,t below. 
+Carbon Stock in Dead Wood 
+Estimating the baseline carbon stocks in dead wood as a result of relogging comprises of two 
+components – standing dead wood and lying dead wood, both of which are estimated through field 
+measurements within permanent sample plots. The methods for each of these two components are 
+detailed below. Accounting for dead wood occurring prior to relogging as zero is conservative. 
+Standing Dead Wood 
+Step 1: Standing dead trees must be measured using the same techniques and criteria (eg, minimum 
+DBH) used for measuring living trees, taking account of equations provided in Step 3. Stumps must be 
+inventoried as if they are very short standing dead trees. 
+Step 2: The decomposition class (not to be confused with dead wood density class) of the dead tree 
+must be recorded and the standing dead wood is categorized under two decomposition classes: 
+1. Tree with branches and twigs that resembles a live tree (except for leaves); 
+2. Tree with signs of decomposition (other than loss of leaves) including loss of twigs, branches, 
+or crown. 
+Step 3: Biomass is estimated using an allometric equation or BEF calculation for live trees in the 
+decomposition class 1; with no outward signs of decomposition (ie, twigs remaining) wood density is 
+assumed to be comparable to live tree. Calculations for dealing with above-ground tree biomass are 
+described above. In decomposition class 2, the estimate of biomass should be limited to the main trunk 
+(bole) of the tree, in which case the biomass is calculated converting volume to biomass using the 
+appropriate dead wood density class. Volume is estimated as either the volume of a cone if the top 
+diameter cannot be measured (and is assumed to be zero), or a cylinder if the top diameter can be 
+measured directly or by using an instrument such as a relascope or laser inventory instrument. 
+Height/length is determined as either the total height in case of a standing bole or the height at the base 
+of the crown if the crown is persistent9. 
+                                                     
+9  
+It is conservative and, therefore, acceptable to take the normal species’ wood densities in case dead wood 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 23 
+ 
+For decomposition class 2, the biomass of standing dead trees is estimated as: 
+dc
+DW
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+l
+SDW
+D
+H
+BDia
+B
+,
+,
+,
+,
+,
+2
+,
+,
+,
+,
+,
+,
+,
+,
+200
+3
+1
+×
+×
+
+
+
+
+
+
+×
+×
+=
+π
+ 
+ 
+ 
+ 
+ 
+(10) 
+Where: 
+Parameter 
+Description 
+Unit 
+BSDW,l,sp,i,t 
+Biomass of standing dead tree l from sample plot sp in stratum 
+i at year t;  
+t d.m. 
+BDiaSDW,l,sp,i,t 
+Basal diameter of standing dead tree l from sample plot sp in 
+stratum i at year t; 
+cm 
+HSDW,l,sp,i,t 
+Height of standing dead tree l from sample plot sp in stratum i 
+at year t 
+m 
+DDW,dc 
+Mean wood density of dead wood in the density class (dc) – 
+sound (1), intermediate (2), and rotten (3); 
+t d.m. m-3 
+sp  
+1, 2, 3 … Pi sample plots in stratum i  
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3 … years elapsed since the start of the project activity 
+ 
+l 
+1, 2, 3 … Ni,sp,t standing dead trees in sample plot sp of stratum 
+i at year t 
+ 
+ 
+or (where top diameter is measured): 
+dc
+DW
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+l
+SDW
+D
+H
+TD
+BDia
+B
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+200
+×
+×
++
+=
+ 
+ 
+ 
+ 
+(11) 
+Where: 
+Parameter 
+Description 
+Unit 
+BSDW,l,sp,i,t 
+Biomass of standing dead tree l from sample plot sp in stratum 
+t d.m. 
+                                                                                                                                                                       
+density classes are not known. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 24 
+ 
+i at year t;  
+BDiaSDW,l,sp,i,t 
+Basal diameter of standing dead tree l from sample plot sp in 
+stratum i at year t; 
+cm 
+TDSDW,l,sp,i,t 
+Top diameter of standing dead tree l from sample plot sp in 
+stratum i at year t 
+cm 
+HSDW,l,sp,i,t 
+Height of standing dead tree l from sample plot sp in stratum i 
+at year t 
+m 
+DDW,dc 
+Mean wood density of dead wood in the density class (dc) – 
+sound (1), intermediate (2), and rotten (3); 
+t d.m. m-3 
+sp  
+1, 2, 3 … Pi sample plots in stratum i  
+ 
+I 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+T 
+1, 2, 3 … years elapsed since the start of the project activity 
+ 
+l 
+1, 2, 3 … Ni,sp,t standing dead trees in sample plot sp of stratum 
+i at year t 
+ 
+ 
+In selecting one of the 2 approaches provided above, project proponents must ensure that in the 
+baseline scenario conservative estimates for dead wood are obtained. 
+Step 4: Estimate total carbon stock in standing dead trees present in the sample plot sp in stratum i at 
+year t. 
+∑
+=
+=
+t
+i
+sp
+N
+l
+t
+i
+sp
+l
+SDW
+t
+i
+sp
+SDW
+B
+B
+,
+,
+1
+,
+,
+,
+,
+,
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(12) 
+Where: 
+Parameter 
+Description 
+Unit 
+BSDW,sp,i,t 
+Biomass of standing dead wood in sample plot sp in stratum i 
+at year t; 
+t d.m 
+BSDW,l,sp,i,t 
+Biomass of standing dead tree l in sample plot sp in stratum i at 
+year t; 
+t d.m 
+sp  
+1, 2, 3 … Pi sample plots in stratum i  
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 25 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+Nsp,i,t 
+Number of standing dead trees in sample plot sp of stratum i at 
+year t 
+ 
+l 
+1, 2, 3 … Ni,sp,t standing dead trees in sample plot sp of stratum 
+i at year t 
+ 
+ 
+Step 5: Estimate the mean biomass stock per unit area in standing dead wood for each stratum at year 
+t: 
+∑
+=
+×
+=
+iP
+sp
+t
+i
+sp
+SDW
+t
+i
+sp
+t
+i
+SDW
+B
+A
+B
+1
+,
+,
+,
+,
+,
+,
+,
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(13) 
+Where: 
+Parameter 
+Description 
+Unit 
+BSDW,i,t 
+Biomass of standing dead wood in stratum i at year t 
+t d.m. ha-1 
+BSDW,sp,i,t 
+Biomass of standing dead wood in sample plot sp in stratum i 
+at year t 
+t d.m 
+Asp,I,t 
+Total area of all sample plots in stratum i in year t 
+ha 
+sp  
+1, 2, 3 … Pi sample plots in stratum i  
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Lying Dead Wood 
+Step 1: Lying dead wood can be sampled using the line intersect method of Harmon and Sexton 
+(1996)10 or other peer reviewed and published methods. Harmon and Sexton prescribe two 50-meter 
+lines to be established bisecting each sample plot and the diameters of the lying dead wood (≥ 10 cm 
+diameter) intersecting the lines are measured. 
+                                                     
+10  Harmon, M.E. and J. Sexton. (1996) Guidelines for measurements of wood detritus in forest ecosystems. US 
+LTER Publication No. 20. US LTER Network Office, University of Washington, Seattle, WA, USA. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 26 
+ 
+Step 2: The dead wood is assigned to one of the three density states (sound, intermediate and rotten) 
+using the ‘machete test’, as recommended by IPCC Good Practice Guidance for LULUCF (2003), 
+Section 4.3.3.5.3. 
+Step 3: The volume of lying dead wood per unit area is estimated using the equation (Warren and 
+Olsen 1964)11 as modified by Van Wagner (1968)12 separately for each density state: 
+L
+Dia
+V
+N
+n
+t
+i
+n
+t
+i
+LDW
+×
+
+
+
+
+
+
+×
+=
+∑
+=
+8
+1
+2
+,
+,
+2
+,
+,
+π
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(14) 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+VLDW,i,t 
+Volume of lying dead wood per unit area in stratum i at year t 
+m3 ha-1 
+Dian,i,t 
+Diameter of piece n of dead wood along the transect in stratum 
+i at year t 
+cm 
+n 
+1, 2, 3 … N wood pieces intersecting the transect 
+ 
+L 
+Length of the transect  
+m 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+To convert this to a mass per unit area multiply the volumes of each density state by their respective 
+wood densities as outlined below: 
+Step 4: Volume of lying dead wood must be converted into biomass using the following relationship: 
+∑
+=
+×
+=
+3
+1
+,
+,
+,
+,
+,
+dc
+dc
+DW
+t
+i
+LDW
+t
+i
+LDW
+D
+V
+B
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(15) 
+ 
+                                                     
+11  Warren, W.G. and Olsen, P.F. (1964) A line intersect technique for assessing logging waste. Forest Science 10: 
+267-276. 
+12  Van Wagner, C.E. (1968). The line intersect method in forest fuel sampling. Forest Science 14: 20-26. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 27 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+BLDW,i,t 
+Biomass of lying dead wood per unit area in stratum i at year t 
+t d.m. ha-1 
+VLDW,i,t, 
+Volume of lying dead wood per unit area in stratum i at year t 
+m3 ha-1 
+DDW,dc 
+Mean wood density of dead wood in the density class (dc) – 
+sound (1), intermediate (2), and rotten (3) 
+t d.m. m-3 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Total carbon stock in dead wood for each stratum is then calculated as the sum of standing and lying 
+dead wood components. 
+(
+)
+(
+)
+DW
+t
+i
+LDW
+t
+i
+SDW
+t
+i
+DW
+CF
+B
+B
+C
+×
++
+=
+,
+,
+,
+,
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(16) 
+Where: 
+Parameter 
+Description 
+Unit 
+CDW,i,t 
+Carbon stock of dead wood in stratum i at year t 
+t C ha-1 
+BSDW,i,t 
+Biomass of standing dead wood in stratum i at year t 
+t d.m. ha-1 
+BLDW,i,t 
+Biomass of lying dead wood in stratum i at year t 
+t d.m. ha-1 
+CFDW 
+0.5 Default carbon fraction of dry matter in dead wood 
+t C t d.m.-1 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Carbon stocks in Wood Products 
+The procedure to determine the carbon stocks stored in wood products in the baseline scenario is 
+provided in the previous section. 
+9.1.4 
+Logging rate 
+To estimate the baseline net carbon loss for the entire project area, the total net loss of carbon in the 
+baseline scenario for relogged strata as estimated using one of the above methods, must be multiplied 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 28 
+ 
+with the rate at which logging would have occurred across the project area. Where a management plan 
+exists outlining the phasing of logging activities for either the project area, or the reference area, that 
+management plan may be used. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(17) 
+Where: 
+Parameter 
+Description 
+Unit 
+Ai,t 
+Area logged in stratum i at year t  
+ha 
+D%i,t 
+Projected annual proportion of land that will be logged in 
+stratum i at year t. If actual annual proportion is known and 
+documented (eg, 25% per year for 4 years), set to proportion 
+% yr-1 
+ATOT,i 
+Total area logged in stratum i 
+ha 
+i 
+1, 2, 3 …MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+Where no rate is available, it can be established through an examination of a reference area. This is 
+done using the below equation: 
+ 
+D%planned,i,t =
+D%pn,i
+Yrspn
+ 
+  
+ 
+  
+n
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+  
+pn=1
+pn*
+∑
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(18) 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+D%planned,i,t 
+Projected annual proportion of land that will be logged in 
+stratum i at year t. If the actual annual proportion is known and 
+documented (eg, 25% per year for 4 years), set to proportion 
+% yr-1 
+D%pn,i 
+Percent of logged area in land parcel pn in stratum i of the 
+% 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 29 
+ 
+reference area  
+Yrspn 
+Number of years over which relogging occurred in land parcel 
+pn in the reference area 
+yr 
+pn 
+1, 2, 3 … pn* land parcels in the reference area 
+ 
+n 
+Total number of land parcels examined 
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+ 
+9.1.5 
+Forest Regrowth 
+If no or insignificant regrowth occurs following first and subsequent logging, eg, due to the complete 
+colonization by climbers and vines, this must be demonstrated by sampling above-ground carbon 
+stocks in woody biomass in a time series of logging coupes (eg, in tranversal studies). The length of the 
+time series must not be shorter than 75% of the length of the project crediting period. 
+When accounting for regrowth, ex-ante estimates of tree biomass regrowth in the baseline can be 
+based on peer-reviewed literature providing values for regrowth from comparable residual forest types 
+in comparable areas. 
+If regrowth occurs in the baseline scenario this is assumed to be small compared to regrowth in the 
+with-project scenario. Furthermore, regrowth in the relogged residual stand is assumed to be smaller 
+than regrowth in the pre-relogged residual stand. Therefore, as a conservative approach, the regrowth 
+in the baseline case is estimated as the regrowth of the pre-relogged residual forest applied to the 
+entire area of the stratum, despite any relogging in that stratum. 
+Estimates of changes in carbon stocks due to regrowth of tree biomass in the baseline, can be obtained 
+from a (part of a) reference area that has not been relogged, or from parts of the project area that have 
+not been treated with silvicultural techniques, as follows: 
+∑
+=
+−
+−
+∆
+×
+=
+∆
+S
+j
+t
+i
+j
+exist
+tree
+t
+i
+t
+i
+exist
+tree
+C
+A
+C
+1
+,
+,
+,
+,
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(19) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆Ctree-exist,i,t 
+Change in carbon stock in existing tree vegetation13 in the 
+t CO2-e yr-1 
+                                                     
+13 With DBH ≥ 5 cm. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 30 
+ 
+baseline in stratum i at year t 
+Ai,t 
+Area of baseline stratum i at year t 
+ha 
+∆Ctree-exist,j,i,t 
+Change in carbon stock in existing tree vegetation in the 
+baseline in species j in stratum i at year t 
+t CO2-e ha-1 yr-1 
+j 
+1, 2, 3 … S tree species 
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+∆Ctree-exist,j,i,t  is estimated as follows: 
+t
+i
+j
+BB
+exist
+tree
+t
+i
+j
+AB
+exist
+tree
+t
+i
+j
+exist
+tree
+C
+C
+C
+,
+,
+,
+,
+,
+,
+,
+,
+,
+−
+−
+−
+−
+−
+∆
++
+∆
+=
+∆
+ 
+ 
+ 
+ 
+ 
+ 
+(20) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆Ctree-exist,j,i,t 
+Change in carbon stock in existing tree vegetation in the 
+baseline in species j in stratum i at year t 
+t CO2-e ha-1 yr-1 
+∆Ctree-exist-AB,j,i,t 
+Change in above-ground carbon stock in trees in the baseline 
+in species j in stratum i at year t 
+t CO2-e ha-1 yr-1 
+∆Ctree-exist-BB,j,i,t 
+Change in below-ground carbon stock in trees in the baseline 
+in species j in stratum i at year t 
+t CO2-e ha-1 yr-1 
+j 
+1, 2, 3 … S tree species 
+ 
+i 
+1, 2, 3 … MBSL strata in the baseline scenario 
+ 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+To estimate ∆Ctree-exist-AB,j,i,t  see subsection: “Changes in C Stock in Above-ground Tree Biomass”. The 
+inclusion of below-ground biomass is optional. If below-ground biomass is included, ∆Ctree-exist-BB,j,i,t  can 
+be estimated as in subsection: “Changes in C Stock in Below-ground Tree Biomass”. 
+9.1.6 
+Estimation of the Carbon Stock in Trees at t0 
+The carbon stock in tree biomass at t0 is defined as CAGB,i,t (plus optionally below-ground biomass by 
+using a root:shoot ratio as defined above) at t0 and can be estimated as follows.  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 31 
+ 
+1.  As CBSL,pre,i  
+2.  Based on an inventory of above-ground tree carbon stocks from Parts of the project area that 
+have not been treated with silvicultural techniques.  
+9.1.7 
+Baseline Activity Emissions 
+A number of emission sources can arise from the implementation of baseline activities. Project 
+proponents may choose to omit accounting for those sources as that leads to conservative estimates of 
+the overall carbon benefits of the project. 
+Possible emission sources include, but may not be limited to: timber harvesting/logging operations, 
+emissions due to infrastructure establishment, log extraction and transport of logs to the wharf for 
+export or to the local sawmill or to the local depot for onwards sale.  
+This methodology does not foresee in the quantification of emissions due to timber procession, whether 
+it is grid or generator powered. 
+Therefore, the emissions associated with activities in the baseline are estimated as: 
+GHGBSL-E,t = Eclearing,t + Eharvesting,t + Eextraction,t + Etransport,t 
+ 
+ 
+ 
+ 
+ 
+(21) 
+Where: 
+Parameter 
+Description 
+Unit 
+GHGBSL-E,t 
+Baseline emissions from sources in the baseline scenario at 
+year t 
+t CO2-e yr-1 
+Eclearing,t 
+Emissions due to the new establishment of infrastructure such 
+as the construction of roads or log landings for baseline logging 
+at year t 
+t CO2-e yr-1 
+Eharvesting,t 
+Emissions due to the harvesting operations such as felling and 
+debranching, etc. at year t 
+t CO2-e yr-1 
+Eextraction,t 
+Extraction of logs from the tree stump to the log landing at year 
+t 
+t CO2-e yr-1 
+Etransport,t 
+Emissions due to transport of the logs from the log landing to 
+the wharf for export, the sawmill, or to the depot for onward 
+sale at year t 
+t CO2-e yr-1 
+t 
+1, 2, 3, … t* years elapsed since the project start 
+ 
+ 
+Eclearing,t: Emissions due to clearing of the area for infrastructure establishment 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 32 
+ 
+Emissions due to the establishment of infrastructure such as the construction of roads and log landings 
+is estimated by considering the emissions due to the removal of biomass, the emissions from the 
+equipment used to remove the biomass and the emissions from the equipment used to grade the roads 
+(fuel emissions). 
+Eclearing,t = Ebiomass,t + Efelling,t + Egrading,t  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22) 
+Where: 
+Parameter 
+Description 
+Unit 
+Eclearing,t 
+Emissions due to the establishment of infrastructure at year t 
+t CO2-e yr-1 
+Ebiomass,t 
+Emissions due to the removal of the biomass itself at year t 
+t CO2-e yr-1 
+Efelling,t 
+Emissions due to the equipment use for felling the biomass 
+(fuel emissions) at year t 
+t CO2-e yr-1 
+Egrading,t 
+Emissions due to the equipment used for the grading of the 
+roads (fuel emissions) at year t 
+t CO2-e yr-1 
+ 
+To determine the emissions due to the removal of the biomass present at locations where infrastructure 
+is being established, the area used for such purposes needs to be determined. This can be done on the 
+basis of remote imagery (photographs or satellite) or by using a reported percentage that is typical for 
+the area. Such a percentage has to be derived from peer-reviewed literature applicable to the area, or 
+from Pulkki (1997) who reported for conventional logging in Evergreen Tropical Rainforests, a 
+conservative percent of area cleared for infrastructure of 12%.14   
+To estimate the emissions from the removal of the biomass the area can be multiplied by an average 
+carbon stock value per hectare that is representative of the project area. 
+Emissions due to the loss of biomass from felling is quantified as follows: 
+Ebiomass,t = Cbiomass × Ainfrastructure,t × (44/12) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(23) 
+ 
+ 
+                                                     
+14  Pulkki, R.E. (1997). Literature synthesis on logging impacts in moist tropical forests. FAO Working Paper 
+GFSS/WP/06. Here a range of 12-17% is reported and hence for the baseline scenario a value of 12% is 
+considered conservative. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 33 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+Ebiomass,t 
+Emissions due to the removal of the biomass on the area 
+dedicated to infrastructure at year t 
+t CO2-e yr-1 
+Cbiomass 
+Carbon in biomass lost due to the clearing for infrastructure 
+t C ha-1 
+Ainfrastructure,t 
+Area designated for infrastructure at year t 
+ha yr-1 
+44/12 
+The ratio of molecular weight of carbon dioxide to carbon 
+t CO2-e t C-1 
+ 
+Cbiomass equals the area-weighed CBSLpre, see Equation 45. 
+Efelling,t: emissions due to the use of equipment for the removal of the biomass 
+Emissions due to the use of equipment for the removal of biomass are quantified as follows: 
+Efelling,t = FCequip × EFfuel × Vinfrastructure,t  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(24) 
+Where: 
+Parameter 
+Description 
+Unit 
+Efelling,t 
+Emissions due to the use of equipment for removal of the 
+biomass on the area dedicated to infrastructure at year t 
+t CO2-e yr-1 
+FCequip 
+Fuel consumption of equipment employed for felling 
+kL m-3 
+EFfuel 
+Fuel emission factor 
+t CO2-e kL-1 
+Vinfrastructure,t 
+Volume of trees felled to clear the area designated for 
+infrastructure at year t 
+m3 yr-1 
+ 
+Egrading,t: emissions due to the use of equipment for the grading of the roads 
+Emissions due to the use of equipment for grading roads are quantified as follows: 
+Egrading,t = FCgrader × EFfuel × Ainfrastructure,t 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(25) 
+ 
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 34 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+Egrading,t 
+Emissions due to road grading at year t 
+t CO2-e yr-1 
+FCgrader 
+Fuel consumption of equipment employed for road grading 
+kL ha-1 
+EFfuel 
+Fuel emission factor 
+t CO2-e kL-1 
+Ainfrastructure,t 
+Area designated for infrastructure at year t 
+ha yr-1 
+ 
+Eharvesting,t: emissions due to the extraction of logs from the forest 
+Emissions are estimated as: 
+Eharvesting,t = FCequip × EFfuel × Vharvested,t  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(26) 
+Where: 
+Parameter 
+Description 
+Unit 
+Eharvesting,t 
+Emissions due to harvesting at year t 
+t CO2-e yr-1 
+FCequip 
+Fuel consumption of the equipment employed for harvesting 
+kL m-3 
+EFfuel 
+Fuel emission factor 
+t CO2-e kL-1 
+Vharvested,t 
+Volume harvested at year t 
+m-3 yr-1 
+ 
+Volume harvested in the baseline is determined through Section 9.1.  
+This methodology in Section 9.1 facilitates the quantification of the volume harvested in two ways: 
+• 
+On the basis of a-spatial data in a pre-relogging situation in the project area (for instance 
+on the basis of information in a management plan); or, 
+• 
+By the determination of the four components after relogging has occurred in a reference 
+area for which similarity to the project area is demonstrated.  
+This quantification exercise determines amongst other the relationship between cubic meters of timber 
+removed/harvested in the baseline. The correlation between the two baseline options and the project 
+area is established by analyzing the logging rates in the various strata in the baseline, determination of 
+the same strata in the project area, and the application of the stratum specific logging rates to the strata 
+in the project area. This is a valid approach because the reference area is subjected to strict selection 
+criteria that ascertain similarity to the project area. That parameter value determined by this approach is 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 35 
+ 
+also used in this section as the harvested volume. 
+Alternatively, Eharvesting,t can be determined on the basis of fuel consumed by the company for the 
+purpose of its felling and debranching activities. 
+As default fuel consumption (FC) 1.28 – 1.73 liter per m3 can be used. For new and efficient machinery 
+the parameter value of 1.28 can be applied. For old and inefficient machinery 1.73 must be used. 
+Eextraction,t: emissions due to the extraction of the timber 
+Timber extraction from the forest to the log landing can be conducted with various types of machines. 
+This methodology provides a quantification approach for extraction with medium sized bulldozers for 
+transport to road side and trucks or trailers for transport to the log landings.  
+Emissions from log extraction and transport to log landing are estimated as: 
+Eextraction,t = (Dextr_total / Efffuel) × EFfuel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(27) 
+Dextr_total = Daver extrac × Ntrucks × 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(28) 
+Ntrucks = Vextr / Captruck 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(29) 
+Where: 
+Parameter 
+Description 
+Unit 
+Eextraction,t 
+Emissions due to extraction of timber from the forest to the log 
+landings at year t 
+t CO2-e yr-1 
+Dextr_total 
+Total timber extraction distance 
+km 
+Efffuel 
+Fuel efficiency for medium-sized bulldozers/trucks/trailers 
+km kL-1 
+EFfuel 
+Fuel emission factor 
+t CO2-e kL-1 
+Daver extrac 
+Average extraction distance of logs from stump to log landing 
+km 
+Ntrucks 
+Number of trucks 
+ 
+Vextr 
+Volume of timber extracted from the forest 
+m-3 
+Captruck 
+Capacity of the truck 
+m3 truck-1 
+ 
+Default parameter values for medium sized bulldozers are estimated to be similar to those of truck and 
+trailers. The defaults, including those for associated emission factors and fuel efficiency are derived 
+from Kinjo et al. (2005) as cited in Carbon Planet (2009) and are: truck / trailer load capacity (10 m3 
+truck-1); EFfuel (2.9 t CO2-e kL-1); and, Efffuel (3000 km kL-1). 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 36 
+ 
+Etransport,t: emissions due to the transport of the logs from the log landing to the point of onward transport 
+(eg, to a wharf in case of export) or point of (local) sale 
+Emissions from log extraction and transport to log landing are estimated as: 
+Etransport,t = (Dtrans_total / Efffuel) x EFfuel 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(30) 
+Dtrans_total = Daver trans x Ntrucks x 2  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(31) 
+Ntrucks = Vtrans / Captruck 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(32) 
+Where: 
+Parameter 
+Description 
+Unit 
+Etransport,t 
+Emissions due to the transport of the timber from the log 
+landings to point of onward sale/transport at year t 
+t CO2-e yr-1 
+Dtrans_total 
+Total timber transport distance 
+km 
+Efffuel 
+Fuel efficiency for medium-sized bulldozers/trucks/trailer 
+km kL-1 
+EFfuel 
+Fuel emission factor 
+t CO2-e kL-1 
+Daver trans 
+Average transport distance of logs log landing to point of 
+onward sale/transport 
+km 
+Ntrucks 
+Number of trucks 
+ 
+Vtrans 
+Volume of timber transported 
+m-3 
+Captruck 
+Capacity of the truck 
+m3 truck-1 
+ 
+9.2 
+Project Emissions 
+The net greenhouse gas emission reduction and removals in the with-project scenario must be 
+estimated using the equations in this section. When applying these equations for the ex-ante estimation 
+of total net GHG emission reduction by the IFM project activity, project proponents must provide 
+estimates of the values of those parameters that are not available before the start of the project 
+crediting period and commencement of monitoring activities. Project proponents must retain a 
+conservative approach in making these estimates. 
+GHG emissions and removals in the with-project scenario are related to regrowth of the residual forest, 
+silvicultural interventions such as climber cutting, liberation thinning, enrichment planting and/or 
+harvesting, or a combination of these activities, and project implementation activities, such as the ones 
+listed in Section 9.1.7. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 37 
+ 
+Net CO2 equivalent emissions in the with-project scenario (WPS) are estimated as: 
+∑∑
+=
+−
+=
++
+∆
+=
+∆
+*
+1
+,
+1
+,
+,
+t
+t
+t
+E
+WPS
+M
+i
+t
+i
+P
+WPS
+GHG
+C
+C
+WPS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(33) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CWPS 
+Net CO2 equivalent emissions in the with-project scenario up 
+to year t* 
+t CO2-e yr-1 
+∆CP,i,t 
+Net carbon stock change due to forest regrowth and 
+silvicultural interventions in the with-project scenario in stratum 
+i at year t 
+t CO2-e yr-1 
+GHGWPS-E,t 
+Greenhouse gas emissions related to project implementation 
+at year t 
+t CO2-e yr-1 
+ 
+9.2.1 
+Net carbon stock changes due to forest regrowth and silvicultural interventions 
+Estimation of ∆CP,i,t 
+Net carbon stock changes due to forest regrowth and silvicultural interventions in the with-project 
+scenario are estimated as follows: 
+∆CP,i,t  = ∆CAGB,i,t + ∆CBGB,i,t + ∆CDW,i,t + ∆CWP,i,t – Ebiomassloss,i,t 
+ 
+ 
+ 
+ 
+(34) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CP,i,t 
+Net carbon stock change due to forest regrowth and 
+silvicultural interventions in the with-project scenario in stratum 
+i at year t 
+t CO2-e yr-1 
+ 
+∆CAGB,i,t  
+ 
+Net carbon stock change in above-ground tree biomass15 in 
+the with-project scenario in stratum i at year t 
+t CO2-e yr-1 
+ 
+                                                     
+15 With DBH ≥ 5 cm. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 38 
+ 
+∆CBGB,i,t  
+ 
+Net carbon stock change in below-ground tree biomass in the 
+with-project scenario in stratum i at year t 
+t CO2-e yr-1 
+ 
+∆CDW,i,t 
+Net carbon stock change in dead wood in the with-project 
+scenario in stratum i at year t 
+t CO2-e yr-1 
+ 
+∆CWP,i,t 
+Net carbon stock change in wood products in the with-project 
+scenario in stratum i at year t 
+t CO2-e yr-1 
+ 
+Ebiomassloss,i,t 
+Emissions due to site preparation for project activities in 
+stratum i at year t 
+t CO2-e yr-1 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+i 
+1, 2, 3 … MWPS strata in the with-project scenario 
+ 
+ 
+Accounting for dead wood in the with-project scenario as zero is conservative. Accounting for wood 
+products in the with-project scenario as zero is conservative. 
+Estimation of ∆CAGB,i,t  
+The changes in the carbon stock in above-ground tree biomass within the project boundary are 
+estimated using the following approach: 
+∆CAGB,i,t = Ai,t x (CAGB,i,t – CAGB,i,t-T) x 44/12 / T 
+ 
+ 
+ 
+ 
+ 
+ 
+(35) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CAGB,i,t 
+Net carbon stock change in above-ground tree biomass in stratum 
+i at year t 
+t CO2-e  
+ 
+CAGB,i,t 
+Carbon stock in above-ground tree biomass in stratum i at year t 
+t C ha-1 
+t 
+ 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+i 
+1, 2, 3 … MWPS strata in the with-project scenario 
+ 
+44/12 
+Ratio of molecular weights of CO2 and carbon 
+t CO2-e t C-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 39 
+ 
+Ai,t 
+Area of stratum i at year t 
+ha 
+T 
+Number of years between monitoring times tm and tm-1 
+ 
+ 
+ 
+Changes in C Stock in Above-ground Tree Biomass16 
+The mean carbon stock in above-ground tree biomass per unit area is estimated for each stratum on 
+the basis of field measurements in permanent sample plots. Two methods are available: the Biomass 
+Expansion Factors (BEF) method and the Allometric Equations method.  
+BEF method  
+Step 1: Determine on the basis of available data, eg, volume tables (ex ante) and measurements (ex 
+post) the diameter at breast height (DBH, at typically 1.3 m above-ground level), and also preferably 
+height (H), of all the trees above some minimum DBH in the permanent sample plots. The exact tree 
+dimensions to be measured will be specified by the information obtained in Step 2. 
+Step 2: Estimate the stem volume of trees based on available equations or yield tables (if locally 
+derived equations or yield tables are not available use relevant regional, national or default data as 
+appropriate).   
+It is possible to combine Steps 1 and 2 if volume tables allow for deriving average volume of trees, or 
+field instruments (eg, a relascope) that measure the volume of each tree directly are applied.  
+Step 3: Choose BEF  
+Step 4: Convert the stem volume of trees into carbon stock in above-ground tree biomass via basic 
+wood density, the BEF and the carbon fraction: 
+CAGB,l,j,i,sp,t = VI,j,i,sp,t × Dj × BEFj × CFj  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(36) 
+ 
+ 
+ 
+                                                     
+16  This section, with the Biomass Expansion Factors (BEF) method and the Allometric Equations method, 
+including a number of additional steps to expand AGB to include below-ground biomass, etc., are part of 
+several CDM EB approved methodologies, including for instance AR-ACM0002. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 40 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+CAGB,l,j,i,sp,t 
+Carbon stock in above-ground biomass of tree l of species j in plot 
+sp in stratum i at year t 
+t C tree-1  
+ 
+VI,j,sp,t 
+Stem volume of tree l of species j in plot sp in stratum i at year t 
+m3 tree-1  
+ 
+Dj 
+Basic wood density of species j 
+t d.m. m-3 
+BEFj 
+Biomass expansion factor for conversion of stem biomass to 
+above-ground tree biomass for species j 
+ 
+CFj 
+Carbon fraction17 of biomass for tree species j 
+t C t d.m.-1  
+l 
+1, 2, 3 … Nj,i,sp,t individual trees of species j in sample plot sp in 
+stratum i at year t 
+ 
+i 
+1, 2, 3 … MWPS strata in the with-project scenario 
+ 
+j 
+1, 2, 3 … SWPS tree species in the with-project scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Step 5: Calculate carbon stock in above-ground biomass of all trees present in plot sp in stratum i at 
+time t (ie, summation over all trees l by species j followed by summation over all species j present in 
+plot sp). 
+∑∑
+=
+=
+=
+WPS
+t
+sp
+i
+j
+S
+j
+N
+l
+t
+sp
+i
+j
+l
+AGB
+t
+sp
+i
+AGB
+C
+C
+1
+1
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(37) 
+ 
+ 
+ 
+                                                     
+17 IPCC default = 0.5 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 41 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+CAGB,i,sp,t 
+Carbon stock in above-ground biomass of trees on plot sp of 
+stratum i at time t 
+t C 
+CAGB,l,j,i,sp,t 
+Carbon stock in above-ground biomass of tree l of species j in plot 
+sp in stratum i at time t 
+t C tree-1 
+l 
+1, 2, 3 … Nj,i,sp,t individual trees of species j in sample plot sp in 
+stratum i at year t 
+ 
+i 
+1, 2, 3 … MWPS strata in the with-project scenario 
+ 
+j 
+1, 2, 3 … SWPS tree species in the with-project scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Step 6: Estimate the mean carbon stock in above-ground tree biomass for each stratum: 
+∑
+=
+=
+i
+i
+P
+sp
+t
+sp
+i
+AGB
+sp
+t
+i
+AGB
+C
+A
+C
+1
+,
+,
+,
+,
+,
+1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(38) 
+Where: 
+Parameter 
+Description 
+Unit 
+CAGB,i,t 
+Above-ground carbon stock in trees in stratum i at year t 
+t C ha-1  
+CAGB,i,sp,t  
+Above-ground carbon stock in trees on plot sp of stratum i at year t 
+t C 
+Asp,i  
+Total area in all sample plots in stratum i 
+ha 
+sp 
+1, 2, 3 … Pi sample plots in stratum i in the with-project scenario  
+ 
+i 
+1, 2, 3 … MWPS strata in the project scenario 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Allometric Equations Method 
+Step 1: Proceed as in Step 1 of the BEF Method. The exact tree dimensions to be measured will be 
+specified by the equation selected in Step 2. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 42 
+ 
+Step 2: Select or develop an appropriate allometric equation (if possible species-specific, or if not, from 
+a similar species). 
+If default allometric equations are available for conditions that are similar to the project (same 
+vegetation genus; same climate zone; similar forest type), then the equation may be used and 
+considered conservative. Otherwise, it is necessary either to use conservatively assessed values, or to 
+verify the applicability of the equation if mean predicted values are to be used.   
+When allometric equations developed from a biome-wide database, such as those in Annex 4A.2, 
+Tables 4.A.1and 4.A.2 of GPG LULUCF, or updated in IPCC 2006 Guidelines for AFOLU, are used, 
+allometric equations can be verified by: 
+• 
+Selecting at least 5 trees covering the range of DBH existing in the project area, and felling and 
+weighing the above-ground tree biomass to determine the total (wet) weight of the stem and 
+branch components; 
+• 
+Determining the total dry weight of each tree from the wet weights and the averaged ratios of 
+wet and dry weights of the stem and branch components. 
+If the biomass of the harvested trees is within about ±10% of the mean values predicted by the selected 
+default allometric equation, and is not biased—or if biased is wrong on the conservative side (ie, use of 
+the equation results in an under- rather than over-estimate of project net anthropogenic removals by 
+sinks)—then mean values from the default equation may be used. (IPCC Good Practice Guidance for 
+LULUCF, 2003, Section 4.3.3.5.1, under direct approach Step 3). 
+When allometric equations are used that are not developed from a biome-wide database as mentioned 
+above, a one-sided t-test (with alpha = 0.05) should be applied to determine whether the biomass 
+predicted by the allometric equation does not exceed the biomass from the harvested trees. To obtain 
+biomass from the harvested trees, the same procedure as described above should be used. 
+Step 3: Estimate carbon stock in above-ground biomass for each individual tree l of species j in the 
+sample plot located in stratum i using the selected or developed allometric equation applied to the tree 
+dimensions determined in Step 1, and sum the carbon stocks in the sample plot: 
+j
+N
+l
+j
+t
+sp
+i
+j
+AGB
+CF
+Y
+X
+f
+C
+sp
+j
+×
+= ∑
+=
+,...)
+,
+(
+,
+1
+,
+,
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(39) 
+Where: 
+Parameter 
+Description 
+Unit 
+CAGB,j,i,sp,t 
+Carbon stock in above-ground biomass of trees of species j on 
+sample plot sp of stratum i at year t;  
+t C  
+ 
+CFj  
+Carbon fraction of dry matter for species or type j 
+t C t-1 d.m. 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 43 
+ 
+ 
+fj(X, Y, …)  
+  
+Allometric equation for species j linking measured tree dimension 
+variables (eg, diameter at breast height (DBH) and possibly height 
+(H)) to above-ground biomass of living trees 
+t d.m. tree-1 
+ 
+i 
+1, 2, 3 … MP strata in the with-project scenario 
+ 
+j 
+1, 2, 3 … SWPS tree species in the with-project scenario 
+ 
+l 
+ 
+1, 2, 3 … Nj,i,sp,t individual trees of species j in sample plot sp in 
+stratum i at year t 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+ 
+Step 4: Estimate the mean carbon stock in above-ground tree biomass for each stratum, as per the 
+BEF method. 
+Estimation of ∆CBGB,i,t  
+The annual changes in below-ground tree biomass are estimated for each stratum on the basis of 
+above-ground tree biomass. By using a root:shoot ratio, below-ground biomass is calculated from 
+above-ground biomass, following Equation (40) below. Calculation of the parameter ∆CAGB,i,t is 
+described in “Estimation of ∆CAGB,i,t”.  
+∆CBGB,i,t = ∆CAGB,i,t × Rj   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(40) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CBGB,i,t 
+ 
+Net carbon stock change in below-ground tree biomass in the 
+with-project scenario in stratum i at year t 
+t CO2 yr-1  
+ 
+∆CAGB,i,t 
+Net carbon stock change in above-ground tree biomass in the 
+with-project scenario in stratum i at year t 
+t CO2 yr-1 
+ 
+Rj 
+Root:shoot ratio for tree species j 
+t root d.m. t-1 
+shoot d.m. 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 44 
+ 
+ 
+i 
+1, 2, 3 … MWPS strata in the with-project scenario 
+ 
+ 
+9.2.2 
+Changes in carbon stocks in dead wood 
+Carbon stock changes in the project are monitored using the stock change method: 
+∆CDW,i,t = (CDW,i,t – CDW,i,t-T) / T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(41) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CDW,i,t 
+Annual net carbon stock change in dead wood for stratum i, at year 
+t; 
+t CO2-e ha-1 yr-1 
+ 
+CDW,i,t 
+Carbon stock in dead wood for stratum i, at year t; 
+t CO2-e ha-1 
+i 
+1, 2, 3 … MP strata in the with-project scenario  
+ 
+t 
+ 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+T 
+Number of years between monitoring times tm and tm-1 
+ 
+ 
+9.2.3 
+Changes in carbon stocks in wood products 
+Carbon stock changes in the project are monitored using the stock change method: 
+∆CWP,i,t = (CWP,i,t – CWP,i,t-T) / T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(42) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CWP,i,t 
+Annual net carbon stock change in wood products for stratum i at 
+year t; 
+t CO2-e ha-1 yr-1 
+CWP,i,t 
+Carbon stock in wood products for stratum i at year t; 
+t CO2-e ha-1 
+i 
+1, 2, 3 … MP strata in the with-project scenario  
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 45 
+ 
+t 
+1, 2, 3 … t* years elapsed since the start of the project activity 
+ 
+T 
+Number of years between monitoring times tm and tm-1 
+ 
+ 
+9.2.4 
+Emissions due to site preparation for project activities 
+If any site preparation occurs for liberation thinning and enrichment planting, then Ebiomassloss must be 
+estimated when significant, using the most recent version of the CDM approved methodological tool 
+“Estimation of emissions from clearing, burning and decay of existing vegetation due to implementation 
+of an A/R CDM project activity”18. 
+If however, the emissions due to changes in carbon stock in tree vegetation due to site preparation are 
+insignificant they may be ignored. The removal of herbaceous vegetation (including climbers and vines) 
+is deemed an insignificant emissions source and therefore is not accounted for in the with-project 
+scenario. 
+9.2.5 
+GHG emissions as a result of the implementation of the project activity  
+There are various sources of emissions resulting from the general project implementation. These can 
+include, but may not be limited to: 
+• 
+Emissions due to administration, data-processing, and/or operating field station(s): grid or 
+generator powered electricity; 
+• 
+Emissions due to travel of project staff (ground transport, flights, etc.); 
+• 
+Emissions due to travel and transport of external visitors (eg, auditing companies, 
+consultants, etc.) 
+This will require information on kL fuel combusted, energy consumption or efficiency rates, km travelled, 
+emission factors for various types of fuels, emissions associated with electricity generation, etc. 
+Approaches for estimating GHGWPS-E are similar to those for GHGBSL-E. 
+9.3 
+Leakage 
+9.3.1 
+Identification of sources of leakage 
+Leakage is defined as any increase in greenhouse gas emissions that occurs outside a project’s 
+boundary (but within the same country), that is measurable and attributable to the project activity. Its 
+                                                     
+18  Available at: <http://cdm.unfccc.int/> 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 46 
+ 
+effects on all carbon pools must be assessed and significant effects taken into account when estimating 
+net emission reductions. 
+The applicability conditions determine that: “biomass burning, fuel gathering, removal of litter, or 
+removal of dead wood do not occur in the baseline scenario and in the with-project scenario within the 
+project boundary”. Therefore, this methodology only provides for the determination of leakage due to 
+market effects. 
+∆CLK = ∆CLK-ME 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(43) 
+9.3.2 
+Quantification of leakage due to market effects 
+Option 1: This methodology applies to project activities, which reduce harvest levels in comparison with 
+the baseline and possible reference areas. Therefore, the following leakage credit adjustment can be 
+applied. 
+ 
+Project Action 
+Leakage Risk 
+Leakage credit adjustment (discount) 
+Substantially reduce harvest 
+levels permanently (eg, RIL 
+activity that reduces timber 
+harvest by 25% or more across 
+the project area; or, a forest 
+protection/no logging project) 
+ 
+Moderate to High 
+Depends on where 
+timber harvest is likely to 
+be shifted 
+Depends on where timber harvest is 
+likely to be shifted to: 
+• Similar carbon dense forests 
+within the country: 40% 
+• Less carbon dense forests within 
+the country: 20% 
+• More carbon dense forests within 
+country: 70%  
+• Out of country: 0% (according  
+to stated VCS and CDM policy 
+of not accounting for 
+international leakage) 
+ 
+∆CLK-ME = LFME × ∆CREL  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(44) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CLK-ME 
+Total GHG emissions due to market-effects leakage 
+t CO2-e  
+LFME 
+Leakage factor for market-effects calculations 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 47 
+ 
+∆CREL 
+Emissions from relogging displaced through implementation of the 
+project activities across strata 
+t CO2-e   
+ 
+LFME, the leakage factor, depends upon where in the country logging might be increased, as a result of 
+a decrease in timber supply from the project area. 
+LFME = 0  if it can be demonstrated to the verifier that no market-effects leakage will occur within 
+national boundaries, eg, if no new concessions are being assigned AND annual extracted volumes per 
+hectare in existing concessions have not increased in comparison to previously documented and 
+projected and authorised extraction levels within existing concessions in the host country. 
+LFME = 0.4    
+if CBSLpre  = NCS 
+ 
+ 
+ 
+ (if CBSLpre ≤ NCS × 1.15 and ≥ NCS × 0.85)  
+ 
+LFME = 0.7    
+if CBSLpre  < NCS × 0.85  
+LFME = 0.2    
+if CBSLpre  > NCS × 1.15  
+Where: 
+Parameter 
+Description 
+Unit 
+LFME 
+Leakage factor for market-effects calculations 
+ 
+NCS 
+The mean national forest carbon stock 
+t C ha-1 
+CBSLpre 
+Pre-relogging mean carbon stock in above-ground tree biomass 
+across strata in the baseline scenario 
+t C ha-1 
+ 
+Estimating CBSLpre involves area-weighting the stocks across the strata: 
+(
+)
+∑
+∑
+=
+=
+×
+=
+BSL
+BSL
+M
+i
+i
+REL
+M
+i
+i
+REL
+i
+BSLpre
+BSLpre
+A
+A
+C
+C
+1
+,
+1
+,
+,
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(45) 
+Where: 
+Parameter 
+Description 
+Unit 
+CBSLpre 
+Mean carbon stock across strata in all pools selected in the 
+t C ha-1 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 48 
+ 
+baseline 
+CBSLpre,i 
+Carbon stock in all pools selected in the baseline in stratum i 
+t C ha-1 
+AREL,i 
+Area relogged in baseline stratum i 
+ha 
+I 
+1, 2, 3 …MBSL strata in the baseline scenario 
+ 
+MBSL 
+The total number of strata in the baseline scenario 
+ 
+ 
+∆CREL equals emissions from harvests displaced through implementation of the project activities as 
+quantified in Sections 9.1.3 or 9.1.4, summed across strata. 
+Option 2: Instead of applying the default market leakage effect discount above, project proponents may 
+opt to estimate the project’s market leakage effect across the entire country and/or use analysis(es) 
+from other similar projects to justify a different market leakage value. 
+9.4 
+Summary of GHG Emission Reduction and/or Removals 
+The total net GHG benefits from the IFM project activity (∆CIFM) are calculated as the result of the total 
+carbon loss in the baseline scenario (∆CBSL) and the net removals through the enhancement of forest 
+growth due to liberation thinning and enrichment planting (∆CWPS), minus any potential leakage (∆CLK) 
+that might occur. 
+∆CIFM = ∆CBSL – ∆CWPS – ∆CLK  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(46) 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CIFM 
+Total net GHG emission reductions from the IFM project activity up 
+to year t 
+t CO2-e  
+ 
+∆CBSL 
+Sum of the carbon stock changes and greenhouse gas emissions 
+under the baseline scenario up to year t 
+t CO2-e  
+ 
+∆CWPS 
+Sum of the carbon stock changes and greenhouse gas emissions 
+under the with-project scenario up to year t 
+t CO2-e  
+ 
+∆CLK 
+ 
+Sum of the carbon stock changes and greenhouse gas emissions 
+due to leakage up to year t 
+t CO2-e  
+ 
+ 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 49 
+ 
+∆CIFM must be corrected for uncertainty, as follows: 
+2
+2
+_
+WPS
+BSL
+y
+Uncertaint
+y
+Uncertaint
++
+=
+ERROR
+IFM
+C
+  
+ 
+ 
+ 
+(47) 
+Where: 
+Parameter 
+Description 
+Unit 
+CIFM_ERROR 
+Total uncertainty for IFM project activity 
+% 
+ 
+UncertaintyBSL 
+Total uncertainty in baseline scenario 
+% 
+ 
+UncertaintyWPS 
+Sum of the carbon stock changes and greenhouse gas emissions 
+under the with-project scenario up to year t 
+% 
+ 
+ 
+The procedure for estimating CIFM_ERROR  must be in accordance with the most recent version of the 
+Tool for Estimating Uncertainty in IFM Project Activities. 
+If CIFM_ERROR ≤ 10% of ∆CIFM, t then no deduction must result for uncertainty. 
+If CIFM_ERROR > 10% of ∆CIFM, t then the modified value for ∆CIFM, t to account for uncertainty must be: 
+t
+IFM
+ERROR
+IFM
+C
+C
+,
+_
+100
+100
+×
+−
+=
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(48) 
+ 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+∆CIFM, t 
+Total net GHG emission reductions from the IFM project activity 
+up to year t 
+t CO2-e  
+CIFM_ERROR 
+Total uncertainty for IFM project activity 
+% 
+ 
+Calculation of Verified Carbon Units 
+The number of Verified Carbon Units is calculated as follows: 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 50 
+ 
+(
+)
+2
+_
+1
+,
+2
+,
+2
+100
+100
+t
+ERROR
+IFM
+t
+IFM
+t
+IFM
+t
+holding
+Bufferwith
+C
+C
+C
+VCU
+−
+
+
+
+
+
+
+−
+×
+∆
+−
+∆
+=
+         (49)
+ 
+ 
+Where: 
+Parameter 
+Description 
+Unit 
+VCU,t2 
+Number of Verified Carbon Units at year t2 
+ 
+∆CIFM, t1 
+Total net GHG emission reductions from the IFM project activity 
+up to year t1 
+t CO2-e  
+∆CIFM, t2 
+Total net GHG emission reductions from the IFM project activity 
+up to year t2 
+t CO2-e  
+CIFM_ERROR 
+Total uncertainty for IFM project activity 
+% 
+ 
+Bufferwithholdin
+gt2 
+ The number of VCU’s to be withheld in the VCS AFOLU Pooled 
+Buffer Account at year t2 
+ 
+ 
+The percentage to be withheld in the VCS AFOLU Pooled Buffer Account is to be determined using the 
+VCS Tool for AFOLU Non-Permanence Risk Analysis and Buffer Determination. This percentage is to 
+be multiplied with the carbon stock changes within the project boundary at year t2 in order to obtain the 
+parameter Bufferwithholdingt2 .  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 51

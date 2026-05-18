@@ -1,0 +1,49 @@
+3 
+DEFINITIONS 
+For the purpose of this methodology, the following definitions apply: 
+Commercial fleet - 10 or more vehicles owned by a single company and used for business 
+purposes. 
+Direct measurement – Direct measurement of fuel consumption in the project activity 
+corresponds to a measurement that registers the data that will be utilized in the emission 
+reduction calculation with no treatment (i.e., no statistical estimation or conversion can be used to 
+find the fuel consumption in liters). 
+Emergency gasoline - gasoline consumed in cases of ethanol temporary unavailability in specific 
+gas stations. 
+Ethanol - fuel produced from renewable biological resources such as plant biomass. 
+Flex-fuel vehicle - a flexible-fuel vehicle (FFV) is an automobile that can alternate between at 
+least two sources of fuel, such as gasoline or ethanol blends in any proportion. 
+Fuel consumption pattern - proportion of gasoline to ethanol used in the flex-fuel vehicles of the 
+project proponent commercial fleets in the baseline scenario. 
+Greenfield – any new project activity instance, corresponding to an existent flex-fuel vehicles 
+fleet, with insufficient history under the monitoring conditions specified by the project activity. 
+Indirect measurement – Indirect measurement of fuel consumption in the project activity 
+corresponds to a measurement of a data registry that needs to be converted to the unit that will 
+be used for the emission reduction calculation, or the measurement of a sample group that will be 
+used to estimate the consumption of the whole fleet.  
+Lifecycle emissions - The aggregate quantity of greenhouse gas emissions (including direct and 
+significant indirect emissions such as land use changes), related to the full fuel lifecycle, including 
+all stages of fuel and feedstock production and distribution, from feedstock generation or 
+extraction through the distribution, delivery and use of the finished fuel by the final consumer.1 
+Opportunity cost - The cost of an alternative that must be forgotten when the fleet owner 
+decides to adhere the project activity (e.g., the benefits from the flexible alternative (the choice for 
+the cheapest fuel type) that the fleet owner is giving up when opting for the exclusive 
+consumption of ethanol). 
+Regional Grouping - is a multivariable method that aims at classifying a sample of subjects (or 
+objects) on the basis of a set of measured variables. 
+Renewable materials - any natural resources of economic value that can be replaced or 
+replenished fast enough so that the supply continues to be available in time. In the case of fuels, 
+renewable materials are those whose source can be cultivated and/or replaced by human activity 
+(e.g. wheat, corn, sugar beets, sugar cane and molasses). 
+                                                          
+1  The definition of lifecycle emissions was adapted from the United States Energy Independence and Security 
+Act of 2007 (EISA), retrieved from the United States Environmental Protection Agency (EPA), available at: 
+http://www.epa.gov/oms/renewablefuels/420f10006.htm#footnotes  
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 8
+Start-up Gasoline - gasoline reserved for the ignition of ethanol engines at low temperatures in 
+flex-fuel technologies, located in a separate reservoir of around 1 liter.  
+Vehicle owner - company responsible for the operational control of the vehicle.

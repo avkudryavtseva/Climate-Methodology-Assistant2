@@ -1,0 +1,63 @@
+1 SOURCES 
+This methodology is based on the VCS Jurisdictional and Nested REDD+ (JNR) Framework v4.0 
+and the following methodologies:  
+• 
+VM0006 Methodology for Carbon Accounting for Mosaic and Landscape-scale REDD 
+Projects, v2.2 
+• 
+VM0007 REDD+ Methodology Framework (REDD+ MF), v1.6 
+• 
+VM0009 Methodology for Avoided Ecosystem Conversion, v3.0 
+• 
+VM0015 Methodology for Avoided Unplanned Deforestation, v1.1 
+• 
+VM0037 Methodology for Implementation of REDD+ Activities in Landscapes Affected by 
+Mosaic Deforestation and Degradation, v1.0 
+This methodology uses the latest versions of the following modules and tools: 
+• 
+Activity-type accounting modules: 
+o 
+VMD0055 Estimation of Emissions Reductions from Avoiding Unplanned 
+Deforestation (AUDef)  
+o 
+Other activity-type accounting modules covering planned deforestation and 
+unplanned degradation or other REDD activities not covered in AUDef (e.g., Avoiding 
+Planned Deforestation, APDef, and Avoiding Unplanned Forest Degradation, AUDeg) 
+• 
+Tools: 
+o 
+VCS AFOLU Non-Permanence Risk Tool 
+o 
+VCS VT0001 Tool for the Demonstration and Assessment of Additionality in VCS 
+AFOLU Project Activities 
+o 
+CDM Methodological Tool: Estimation of Direct N2O Emission from Nitrogen 
+Fertilization (E-NA) 
+This methodology uses the estimation procedures described in the following modules for 
+estimating carbon stocks in relevant pools, leakage, direct emissions and monitoring:1 
+• 
+VMD0001 Estimation of Carbon Stocks in Above- and Belowground Biomass in Live Tree 
+and Non-tree Pools (CP-AB) 
+ 
+1 Where these modules refer to external documents (e.g., IPCC guidelines) and such documents are updated, the 
+most recent version of the document must be used. 
+ 
+VM0048, v1.0 
+2 
+• 
+VMD0002 Estimation of Carbon Stocks in the Dead Wood Pool (CP-D) 
+• 
+VMD0003 Estimation of Carbon Stocks in the Litter Pool (CP-L) 
+• 
+VMD0004 Estimation of Carbon Stocks in the Soil Organic Carbon Pool (CP-S) 
+• 
+VMD0005 Estimation of Carbon Stocks in the Long-term Wood Products Pool (CP-W) 
+• 
+VMD0011 Estimation of Emissions from Market-effects (LK-ME) 
+• 
+VMD0013 Estimation of Greenhouse Gas Emissions from Biomass and Peat Burning (E–
+BPB) 
+• 
+VMD0014 Estimation of Emissions from Fossil Fuel Combustion (E-FFC) 
+• 
+VMD0016 Methods for Stratification of the Project Area (X-STR)

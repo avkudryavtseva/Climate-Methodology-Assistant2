@@ -1,0 +1,57 @@
+6 BASELINE SCENARIO 
+The baseline scenario is the pre-project situation in which the food is not ultimately consumed by 
+people and is sent to any FLW destination (see Figure 1). Project proponents must identify the 
+FLW destination where pre-project FLW flows ended up. Next, project proponents must specify 
+ 
+VM0046, v1.0 
+10 
+ 
+the characteristics of the treatment technology at the FLW destination to which the recovered 
+food would otherwise have gone. 
+All FLW flows covered by the project activities must be characterized in terms of mass (i.e., 
+expressed as pounds, kilograms, tons, or metric tons [tonnes]) and water or dry matter (DM) 
+content, which affects the calculation of avoided GHG emissions (see Section 8). FLW flows must 
+also be mapped to the FLW source(s) and FLW destination(s) prior to the project start date. 
+Project proponents must demonstrate that food would have been discarded and exited the 
+human food chain in the absence of the project and quantify GHG emissions in the baseline 
+scenario based on evidence. This will require information on the following:  
+• 
+Data to calculate, estimate or infer the FLW flows. Including their characteristics (e.g., 
+food type, classified using the Codex General Standard for Food Additives [GSFA] 
+categories) such that the FLW flows are accounted for and reported in line with the 
+requirements of the FLW Standard;  
+• 
+Description of the activity that generates FLW and its location; 
+• 
+Description of the FLW destination and its location, as well as the characteristics of the 
+treatment technology at the FLW destination to which the recovered food would 
+otherwise have gone; and 
+• 
+Transport methods and transport distances from the FLW source to FLW destination, 
+either measured or otherwise inferred from available information using conservative 
+assumptions. 
+ 
+The following data considerations must be addressed: 
+• 
+Credible evidence such as contractual agreements and waste management records (in-
+house, or ideally externally verified) must be provided to show that the food recovered by 
+the project activity, was previously sent to the FLW destinations used to calculate the 
+baseline scenario. 
+• 
+For project activities that divert FLW to an animal feed destination, the project proponent 
+must provide credible evidence that the animals consuming this feed stay in the human 
+food chain, e.g., vendor sales records. 
+The time period considered when calculating the food diverted from an FLW destination and the 
+related GHG emissions is one calendar year (365 days). If dealing with FLW flows that vary over 
+the course of a year, project proponents are required to follow the guidance on sampling and 
+scaling data in the FLW Standard and follow the principle of conservativeness. Moreover, where 
+FLW flows vary from year to year (e.g., on agricultural lands where weather has a significant 
+impact on yield) or in the case of an anomalous year (e.g., because of serious disruptions due to 
+a natural disaster or a pandemic such as COVID-19), project proponents must apply a three-year 
+average.  
+ 
+ 
+ 
+ 
+VM0046, v1.0 
+11

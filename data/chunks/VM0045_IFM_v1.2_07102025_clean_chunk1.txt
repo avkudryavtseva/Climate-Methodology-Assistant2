@@ -1,0 +1,45 @@
+1 SUMMARY DESCRIPTION 
+Additionality, Crediting Method, and Mitigation Outcome 
+ 
+Additionality 
+Performance Method  
+Crediting Baseline 
+Performance Method  
+Mitigation Outcome 
+Reductions and Removals 
+  
+This methodology is applicable to a wide range of improved forest management (IFM) practices 
+and employs standardized approaches for demonstration of additionality and derivation of 
+project baselines to simplify application of the methodology. 
+The focus of accounting is on estimation of greenhouse gas (GHG) emissions and/or carbon 
+stock change in permanent plots, not on estimation of stocks per se, therefore improving the 
+precision of reported GHG emission reductions and/or carbon dioxide removals. 
+The methodology employs a broad monitoring and accounting framework that captures the 
+GHG impacts of IFM practices aimed at avoiding emissions (from harvest or natural 
+disturbance) or enhancing sequestration. Projects may apply a combination of practices 
+implemented together in the same area. 
+Examples of potential activities include enrichment planting, release of natural regeneration via 
+management of competing vegetation, stand irrigation and/or fertilization, reducing timber 
+harvest levels, deferring harvest/extending rotations or cutting cycles, designating reserves, 
+and altering fire severity via fuel load treatments.  
+For all activities, the methodology uses a matching approach to construct a quasi-experimental 
+design with matched pairs of treatments (project) and controls (baseline), with baseline plots 
+sourced from existing continuously measured national or sub-national forest inventory data. 
+Carbon stock change is directly monitored in permanent sample units representing the project 
+and baseline scenarios. The baseline is represented by a collection of sample plots outside of 
+the project area that match the initial conditions of each paired project plot. Ex-post monitoring 
+of the baseline in this way provides a more robust estimate of impacts compared to model- or 
+default-driven approaches, which reflect the effects of exogenous factors like climate and 
+timber markets on achieved GHG emission reductions. 
+Most IFM methodologies are dependent on long-term projections using forest growth and yield 
+models. An important distinguishing feature of this methodology is that no forest growth and 
+yield modeling is required to quantify GHG emission reductions and/or carbon dioxide 
+removals. This methodology uses a dynamic performance benchmark approach, where the 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+6 
+baseline scenario is represented by constituent baseline plots that are continuously monitored, 
+paired with sample units representing the project scenario.

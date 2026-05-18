@@ -1,0 +1,1137 @@
+30 
+LEFM 
+Provincial leakage estimates 
+38 
+For these factors, updated peer reviewed sources of information or methods used in the 
+derivation of the factor may become available.
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+134 
+  
+9.2  
+Data and Parameters Monitored 
+Data / Parameter 
+ALb, t 
+Data unit 
+Tonnes of biomass. 
+Description 
+The quantity of biomass of type b combusted during reporting 
+period t. 
+Equations 
+Eq. 25 
+Source of data 
+Field measurement 
+Description of measurement 
+methods and procedures to 
+be applied 
+Project proponents must propose and justify an approach for 
+determining the total mass of biomass combusted during 
+controlled burning events during a reporting period. The 
+approach must be based on the guidance given for Approach B 
+in VCS module VMD0031 Estimation of Emissions from 
+Burning. 
+Frequency of 
+monitoring/recording 
+For each combustion event. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation Method 
+See VCS module VMD0031 Estimation of Emissions from 
+Burning. 
+Comments 
+  
+ 
+Data / Parameter 
+ALf,t 
+Data unit 
+Tonnes 
+Description 
+The quantity of fertilizer of type f applied during period t 
+Equations 
+Eq. 8 
+Source of data 
+Fertilizer purchase and inventory records 
+Description of 
+measurement methods and 
+procedures to be applied 
+Standard accounting practices:  inventory at beginning of the 
+period plus purchases during the period less inventory at the 
+end of the period 
+Frequency of 
+monitoring/recording 
+Annually or every reporting period, whichever is longer. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+135 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation of purchases plus inventory of fertilizer type f at the 
+beginning of the period, less inventory at the end of the period, 
+or other appropriate accounting method. 
+Comments 
+  
+ 
+Data / Parameter 
+ALf,e,t 
+Data unit 
+Volumetric measure (eg, l, m3, etc.) or mass measure (kg, t, 
+etc.) with appropriate conversion 
+Description 
+The quantity of fuel of type f combusted in equipment/vehicle 
+type e during reporting period t. 
+Equations 
+Eq. 16 
+Source of data 
+Monitoring of fuel consumption 
+Description of 
+measurement methods and 
+procedures to be applied 
+Fuel consumption records by type of equipment or vehicle and 
+fuel type.  Alternatively, records by fuel type only may be used.  
+Records may be in various forms, as long as they directly relate 
+to amount of fuel consumed and are not estimates. 
+Frequency of 
+monitoring/recording 
+Continuous 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+ALff, t 
+Data unit 
+Tonnes 
+Description 
+The quantity of forest biomass combusted during forest fires 
+occurring during reporting period, from both anticipated 
+disturbance events that have been modeled in the project and 
+baseline and unanticipated loss events that are monitored. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+136 
+Equations 
+Eq.27 
+Source of data 
+Calculation based on measurement or modelling of key factors.   
+Description of 
+measurement methods and 
+procedures to be applied 
+Measurement of area impacted and estimation of biomass 
+quantities in the area prior to the fire event from forest 
+inventories. Measured or modeled percentage of biomass 
+consumed in fire event.  Proponents must utilize the guidance 
+given for Approach B  in VCS module VMD0031: Estimation of 
+Emissions from Burning to make these estimations. 
+Frequency of 
+monitoring/recording 
+For each combustion event. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+See VCS module VMD0031 Estimation of Emissions from 
+Burning. 
+Comments 
+  
+ 
+Data / Parameter 
+ALH, t 
+Data unit 
+t, or other unit with appropriate conversion factor to t 
+Description 
+The quantity of harvested wood product H produced from wood 
+harvested during reporting period t. 
+Equations 
+Eq. 29 
+Source of data 
+Harvest monitoring 
+Description of 
+measurement methods and 
+procedures to be applied 
+Derived from scaling records.  Standard scaling methods 
+consistent with or comparable to those contained in the BC 
+Scaling Manual must be used. 
+Frequency of 
+monitoring/recording 
+Every time harvesting is conducted. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation of data from scaling records 
+Comments 
+  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+137 
+ 
+Data / Parameter 
+ALm,t 
+Data unit 
+Persons, items or tonnes, as appropriate 
+Description 
+The quantity of materials, equipment, inputs, and personnel 
+transported by mode m during reporting period t. 
+Equations 
+Eq. 12 
+Source of data 
+Monitoring of proponent activities 
+Description of 
+measurement methods and 
+procedures to be applied 
+Data sourced from management records of project proponents 
+for transportation by the proponent or contractors working within 
+the project area.  Includes transportation outside of the project 
+area where used to access the project area. 
+Frequency of 
+monitoring/recording 
+Continuous tracking 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation from management records 
+Comments 
+  
+ 
+ 
+Data / Parameter 
+Cm,g, t 
+Data unit 
+Tonnes  
+Description 
+Total quantity of material, equipment, input, or personnel g 
+transported using transport mode m during reporting period t.   
+Equations 
+Eq. 13, 14 
+Source of data 
+Purchase and personnel records (both proponent and 
+subcontractors). 
+Description of 
+measurement methods and 
+procedures to be applied 
+Based on sales invoices, personnel records.  Where the same 
+type of good is transported different distances to arrive at the 
+project or baseline site, they must be treated as separate goods 
+for the purposes of this calculation. 
+Frequency of 
+monitoring/recording 
+Continuous (as sales invoices are received) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+138 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation from management records 
+Comments 
+  
+ 
+Data / Parameter 
+Dm,g 
+Data unit 
+Kilometers 
+Description 
+Transport distance for material, equipment, input, or personnel g 
+using transport mode m. 
+Equations 
+Eq. 13, 14 
+Source of data 
+Routing information from shippers or drivers, estimation from 
+shipping estimates or maps. 
+Description of 
+measurement methods and 
+procedures to be applied 
+Estimate based on shipping routes and route distance tools (eg, 
+internet-based maps, etc.) 
+Frequency of 
+monitoring/recording 
+Annually or every reporting period, whichever is longer. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+EFb,j 
+Data unit 
+t / t of biomass 
+Description 
+The emission factor for GHG j and biomass type b (eg, tonnes 
+CH4 per tonne of brush burned). 
+Equations 
+Eq. 25 
+Source of data 
+BC Reporting Regulation, National Inventory Reports, or other 
+peer reviewed sources relevant to the project site conditions.  
+Where more site specific data is not available, values from the 
+IPCC GPG LULUCF (Table 3A.1.16) may be used. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+139 
+Description of 
+measurement methods and 
+procedures to be applied 
+Monitored from identified external sources.  See section 8.1.2.6 
+for more detail. 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+EFf,j 
+Data unit 
+t / t 
+Description 
+The emission factor for GHG j and fertilizer type f.  Note: it is 
+likely that fertilizer production emission factors may only be 
+available in units of CO2e. 
+Equations 
+Eq. 8 
+Source of data 
+Various potential sources, as described in section 8.2.2.3 
+Description of 
+measurement methods and 
+procedures to be applied 
+Monitored from identified external sources.  See section 8.1.2.2 
+for more detail 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+EFf,e,j 
+Data unit 
+t / unit of fuel 
+Description 
+The emission factor for GHG j, fuel type f and equipment/vehicle 
+type e (eg, tonnes CO2 per L diesel]. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+140 
+Equations 
+Eq. 16 
+Source of data 
+Emission factors approved for use in BC, shown in section 
+8.1.2.5 above. 
+Description of 
+measurement methods and 
+procedures to be applied 
+Monitored from identified external sources.  See section 8.1.2.5 
+for more detail 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+EFff,j 
+Data unit 
+t / t 
+Description 
+The emission factor for GHG j applicable to forest fires. 
+Equations 
+Eq. 27 
+Source of data 
+BC Reporting Regulation, National Inventory Reports, or other 
+peer reviewed sources.  In the absence of such guidance, the 
+emission factors from the IPCC GPG LULUCF Table 3A.1.16 
+may be used 
+Description of 
+measurement methods and 
+procedures to be applied 
+Monitored from identified external sources.  See section 8.1.2.8 
+for more detail 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+141 
+Data / Parameter 
+EfH,j 
+Data unit 
+t / t 
+Description 
+The emission factor for GHG j and harvested wood product H 
+produced (eg, CO2 per quantity of raw harvested wood 
+converted to wood product H) 
+Equations 
+Eq. 29 
+Source of data 
+Standardized emission factors or monitoring of production 
+facilities 
+Description of 
+measurement methods and 
+procedures to be applied 
+Where production facilities are under the control of project 
+proponents, monitored emissions from these facilities must be 
+used.  In other cases, provincially or nationally approved 
+standardized emission factors may be used.  See section 
+8.1.2.10 for more detail 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+Efm,j 
+Data unit 
+t / unit 
+Description 
+The emission factor for GHG j and transportation mode m 
+Equations 
+Eq. 12, 13, 14 
+Source of data 
+Emission factors approved for use in BC, shown in section 
+8.1.2.4 above. 
+Description of 
+measurement methods and 
+procedures to be applied 
+Emission factors approved for use in BC, shown in section 
+8.1.2.4 above. 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+142 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+FEm 
+Data unit 
+unit of fuel per distance (eg, l diesel / 100 km).   
+Description 
+Fuel economy of transportation mode m  
+Equations 
+Eq. 13 
+Source of data 
+Vehicle records, or fuel consumption data by vehicle type from 
+recognized sources. 
+Description of 
+measurement methods and 
+procedures to be applied 
+Based on monitored fuel consumption for vehicles controlled by 
+the proponent, or vehicle specifications or default assumptions 
+for the types of vehicles used for vehicles controlled by others. 
+Frequency of 
+monitoring/recording 
+Review every five years or every reporting period, whichever is 
+longer. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+None, or ratio of amount of fuel used to distance traveled, 
+depending on data source. 
+Comments 
+  
+ 
+Data / Parameter 
+∆TRBP,t   
+Data unit 
+tCO2e 
+Description 
+The net incremental GHG removals by pools achieved by the 
+baseline during reporting period t.  
+Equations 
+Eq. 32 
+Source of data 
+Calculated from sampling, or modelled 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+143 
+Description of 
+measurement methods and 
+procedures to be applied 
+Determined using the methods given under either Option A or 
+Option B in Section 8.1.1.1.  The chosen Option and methods 
+must be used consistently for both project emissions, as 
+calculated in Section 8.2, and baseline emissions, as calculated 
+in section 8.2, noting that if Option A is chosen, methods from 
+Option B will also be used to determine GHGj, Baseline Forest Pools, t  
+for times >t=0.  Only relevant for j = CO2; otherwise, set to zero. 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Estimation of baseline emissions. 
+Calculation method 
+Given in Section 8 – depends on the Option chosen and pools 
+accounted. 
+Comments 
+  
+ 
+Data / Parameter 
+∆TRPP,t 
+Data unit 
+tCO2e 
+Description 
+The net incremental GHG removals by project pools achieved 
+by the project during reporting period t. 
+Equations 
+Eq. 34 
+Source of data 
+Calculated from sampling, or modelled 
+Description of 
+measurement methods and 
+procedures to be applied 
+Determined using the methods given under either Option A or 
+Option B in Section 8.1.1.1.  The chosen Option and methods 
+must be used consistently for both project emissions, as 
+calculated in Section 8.2, and baseline emissions, as calculated 
+in section 8.2, noting that if Option A is chosen, methods from 
+Option B will also be used to determine GHGj, Baseline Forest Pools, t  
+for times >t=0.  Only relevant for j = CO2; otherwise, set to zero. 
+Frequency of 
+monitoring/recording 
+Every reporting period 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions. 
+Calculation method 
+Given in Section 8 – depends on the Option chosen and pools 
+accounted. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+144 
+Comments 
+  
+ 
+Data / Parameter 
+Lm,g 
+Data unit 
+Unit of quantity per vehicle 
+Description 
+Cargo load per transport vehicle of mode m. 
+Equations 
+Eq. 13 
+Source of data 
+Industry average loading for identified mode of transportation 
+Description of 
+measurement methods and 
+procedures to be applied 
+Data sourced from transport operator, or transport industry 
+averages where project proponents does not have a direct 
+relationship with the transport contractor. 
+Frequency of 
+monitoring/recording 
+Review every five years or every reporting period, whichever is 
+longer. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+mhs 
+Data unit 
+Tonnes 
+Description 
+Average mass of the harvested wood, minus bark, of a tree of 
+species s 
+Equations 
+Eq. 40 
+Source of data 
+Sampling of harvested trees of each species. 
+Description of 
+measurement methods and 
+procedures to be applied 
+Sampling will typically be of per tree volumes, as part of routine 
+scaling operations.  Sampling must be undertaken to BC 
+Government scaling standards, consistent with BC Scaling 
+Manual. 
+Frequency of 
+monitoring/recording 
+At project commencement, and thereafter where average 
+harvest parameters change 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+145 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Averaging from sampled trees. 
+Comments 
+  
+ 
+Data / Parameter 
+MOFj,t 
+Data unit 
+Tonnes  
+Description 
+Mass of organic fertilizer of type j applied in year t, tonnes. 
+Equations 
+Eq. 20 
+Source of dat 
+Fertilizer purchase and inventory records 
+Description of 
+measurement methods and 
+procedures to be applied 
+Standard accounting practices:  inventory at beginning of the 
+period plus purchases during the period less inventory at the 
+end of the period 
+Frequency of 
+monitoring/recording 
+Annually or every reporting period, whichever is longer. 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation of purchases plus inventory of organic fertilizer type 
+i at the beginning of the period, less inventory at the end of the 
+period, or other appropriate accounting method. 
+Comments 
+  
+ 
+Data / Parameter 
+MSFi,t 
+Data unit 
+Tonnes  
+Description 
+Mass of synthetic fertilizer of type j applied in year t, tonnes. 
+Equations 
+Eq. 19 
+Source of data 
+Fertilizer purchase and inventory records 
+Description of 
+measurement methods and 
+procedures to be applied 
+Standard accounting practices:  inventory at beginning of the 
+period plus purchases during the period less inventory at the 
+end of the period 
+Frequency of 
+monitoring/recording 
+Annually or every reporting period, whichever is longer. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+146 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation of purchases plus inventory of fertilizer type f at the 
+beginning of the period, less inventory at the end of the period, 
+or other appropriate accounting method. 
+Comments 
+  
+ 
+Data / Parameter 
+NCOFj 
+Data unit 
+% (Mass fraction) 
+Description 
+Nitrogen content of organic fertilizer type j applied as specified 
+by the manufacturer/supplier, or determined by laboratory 
+analysis. 
+Equations 
+Eq.20 
+Source of data 
+Estimated 
+Description of 
+measurement methods and 
+procedures to be applied 
+Derived from manufacturer specifications 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+NCSFi 
+Data unit 
+% (Mass fraction) 
+Description 
+Nitrogen content of synthetic fertilizer type i applied as specified 
+by the manufacturer/supplier, or determined by laboratory 
+analysis. 
+Equations 
+Eq. 20 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+147 
+Source of data 
+Estimated 
+Description of 
+measurement methods and 
+procedures to be applied 
+Derived from manufacturer specifications 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions, estimation of baseline 
+emissions 
+Calculation method 
+None 
+Comments 
+  
+ 
+Data / Parameter 
+Vols,y,d 
+Data unit 
+m3 
+Description: 
+The volume of delivered roundwood of species s for each wood 
+product destination d, extracted from the project area in year y 
+Equations 
+Eq. 2 
+ 
+Source of data 
+Measured 
+Description of 
+measurement methods and 
+procedures to be applied 
+Accounted from roundwood delivery records from the project 
+area, and market breakdowns for customers. 
+Frequency of 
+monitoring/recording 
+Continuous 
+QA/QC procedures to be 
+applied 
+All data collection and calculation procedures and activities to 
+be reviewed and spot checked by a qualified professional 
+Purpose of data 
+Calculation of project emissions.  Will be estimated or modeled 
+for estimation of baseline emissions. 
+Calculation method 
+Summation from delivery records 
+Comments 
+  
+9.3  
+Monitoring Plan 
+As part of the GHG project description, the proponent must prepare a monitoring plan which will 
+ensure that the data and parameters used in the quantification of SSRs in Section 8, and listed in 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+148 
+tables in section 9.1 and 9.2 (the “variables”) are monitored to standards required to maintain the 
+integrity of estimates of GHG emissions reductions or removals, that monitoring is fully 
+documented, and that appropriate Quality Assurance and Quality Control (QA/QC) procedures, 
+consistent with those laid out in the 2006 IPCC Guidelines for National Greenhouse  Gas 
+Inventories, are followed.   
+Primary monitoring procedures for quantification of each variable are to be based on the relevant 
+quantification and calculation requirements presented in Section 8.  As detailed in Section 8, 
+monitoring of variables may include the use of models, physical field sampling, summation of 
+operational records, and monitoring of relevant research, as specified for that specific variable.  
+These standards represent the minimum monitoring requirements for each variable.  Note that 
+project proponents is expected to fully document project-specific details of the steps that will be 
+taken to monitor each of the variables (eg, specific type of measurement approach used, specific 
+procedure used where there is a choice, etc.) in the full monitoring plan as part of a Project 
+description developed for a their project. 
+For instances in which there is a risk that the primary monitoring procedures may not be able to 
+be followed, either temporarily or permanently (eg, due to monitoring equipment failure, loss of 
+comparable satellite remote sensing products due to satellite failure, etc.), it is recommended that 
+the proponent establish in advance and document in the monitoring plan back-up (contingency) 
+procedures for variables where this is a risk, to ensure continuity of verifiable data.  Such 
+procedures must meet the requirements specified in applicable quantification methods for the 
+variable, presented in this methodology. 
+Where standards and factors from outside sources are used to derive GHG emissions estimates, 
+they must if possible meet the following criteria: 
+• 
+Be publicly available from a reputable and recognized source 
+• 
+Have been subject to competent peer review prior to being made publicly available 
+• 
+Be appropriate for the GHG source or sink concerned 
+• 
+Be current at the time of quantification 
+When standards or factors have a high degree of uncertainty, conservative values must be 
+selected to ensure that quantification does not lead to an over-estimation of GHG emission 
+reductions or removals. 
+The Monitoring Plan must detail how the following will be monitored: 
+• 
+Project implementation 
+• 
+Accounted pools and emissions, as chosen in section 5.2.2 
+• 
+Natural disturbance 
+• 
+Leakage  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+149 
+Prepare a Monitoring Plan describing how these tasks will be implemented. For each task the 
+monitoring plan must include the following sections: 
+ix. 
+Purpose of the monitoring 
+x. 
+Technical description of the monitoring task.  
+xi. 
+Data to be collected. 
+xii. 
+Overview of data collection procedures. 
+xiii. 
+Frequency of the monitoring 
+xiv. 
+Quality control and quality assurance procedure.  
+xv. 
+Data archiving. 
+xvi. 
+Organization and responsibilities of the parties involved in all the above. 
+9.3.1 
+Project Implementation Monitoring 
+The rationale of monitoring project implementation is to document all project activities 
+implemented by the project activity (including leakage prevention measures) that could cause an 
+increase in GHG emissions compared to the baseline scenario. 
+The monitoring plan must detail procedures to: 
+• 
+Describe, date, and geo-reference, as necessary, all measures implemented as part of 
+the project activity by project proponents. 
+• 
+Collect all of the relevant data on the implementation of project activities which is required 
+to estimate carbon stock changes under the project and baseline scenarios, as well as 
+GHG emissions due to leakage prevention measures. Refer to the relevant modules for 
+the variables to be measured. 
+State whether the measures implemented were anticipated in the project description, and if not, 
+describe the reasons for the deviation from the project description. 
+9.3.2 
+Monitoring Accounted Pools and Emissions 
+The monitoring plan must detail: 
+• 
+The estimation, modeling, measurement or calculation approaches to be used in 
+monitoring each variable used to calculate an accounted pool or emission. 
+• 
+How methods and procedures consistent with the requirements given in Section 8 of this 
+methodology will be used to estimate the values of monitored variables. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+150 
+• 
+How a requirement for geographic re-stratification will be identified for monitored 
+variables which vary across the project area, and how the re-stratification will be 
+undertaken. 
+• 
+The monitoring plan must include the following details: 
+• 
+The standards to be used for derivation of data from remote sensing, if remote sensing is 
+to be used.  The standards given must be consistent with those used during the 
+preparation of ex-ante projections. 
+• 
+Procedures to be followed in the case that an improvement of the quality of data and data 
+analysis methods becomes available during the crediting period.  
+9.3.3 
+Monitoring of Natural Disturbances 
+Natural disturbances such as tsunami, sea level rise, volcanic eruption, landslide, flooding, 
+permafrost melting, pest, disease, etc. can impact the area, carbon stocks and non-CO2 GHG 
+emissions of a project. Such changes can be abrupt or gradual and when significant, they must 
+be factored-out from the estimation of ex post net anthropogenic GHG emission reductions.  The 
+monitoring plan must detail the steps to be used to monitor natural disturbance impacts, and 
+factor them out, consistent with the following: 
+• 
+Where natural disturbances reduce the area within which the project activities are 
+undertaken, or within which they have effect, measure the boundary of the polygons lost 
+from the project area and exclude the area within such polygons from the project area in 
+both the baseline and project scenarios. 
+• 
+Where natural disturbances have an impact on carbon stocks, measure the boundary of 
+the polygons where such changes happened and the change in carbon stock within each 
+polygon. Assume that a similar carbon stock change would have happened in the project 
+area under the baseline case (if the polygon is already deforested in the baseline, 
+assume no carbon stock change in the baseline).  
+9.3.4 
+Leakage Monitoring 
+Depending on methods and variables used to estimate sources of leakage in the ex-ante 
+assessment, some variables may be subject to monitoring.  The monitoring plan must detail the 
+methods to be used to monitor these variables relevant to leakage. 
+9.3.5 Monitoring, Assessing, and Managing the Risk of Reversal 
+Proponents must use the latest version of the VCS AFOLU Non-Permanence Risk Tool, and the 
+VCS Non-permanence Risk Report Template. Buffering of issued credits will take place through 
+the established VCS mechanisms, based on these templates. Additionally, in the case of projects 
+within the province of BC, the BC EOR requires that proponents of projects that involve removals 
+by controlled sinks and avoided emissions from controlled reservoirs / pools prepare a risk 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+151 
+mitigation and contingency plan for the purposes of ensuring that the atmospheric effect of 
+removals and avoided emissions from reservoirs / pools endures for at least 100 years (ie, to 
+manage the risk of a reversal of carbon storage achieved by a project).  
+ While the VCS risk assessment and buffer pool described above will form the basis of ensuring 
+permanence, projects are also expected to prepare a Risk Mitigation and Contingency Plan to 
+reduce the risk or scale of emissions from natural and human caused events. 
+As policies and legislation related to GHG emission reductions/removals evolve at the provincial 
+and federal levels, the requirements of this section must be reviewed to ensure that risk mitigation 
+planning is sufficient to ensure compliance with the relevant provincial climate change regulation. 
+9.3.5.1 Risk Mitigation and Contingency Plan 
+The purpose of the Risk Mitigation and Contingency Plan is to minimize the likelihood that a 
+natural or human-induced reversal event will occur up to 100 years into the future from the time 
+an emission offset is created by the project. The plan must address at least the two core types of 
+potential risks: 
+1. Natural disturbances 
+Forests are subject to a variety of natural disturbances that reduce growth and carbon 
+storage. The risk of natural disturbance varies as a result of climate, tree age, tree 
+species, topography and other factors. The exact location and extent of natural 
+disturbances is difficult to predict. Nevertheless, it is possible to estimate the area that 
+may be affected by different types of natural disturbance within a project area. The types 
+of risk of reversal and the risk of each type must be quantified in the Risk Mitigation and 
+Contingency Plan.  
+The plan must include a discussion of the history and level of risks from natural 
+disturbances, taking into account the specific ecosystems and tree species involved in 
+the project.  Consideration must also be given to potential changes in the historical 
+incidence or scale of these risks because of the impacts of climate change, and must 
+identify responses to occurrences of these risks 
+Types of unavoidable risk of reversal that must be considered are: 
+i. 
+Wildfire 
+ii. 
+Disease or insect outbreak   
+iii. 
+Other episodic catastrophic events (eg, wind-throw from hurricane or other wind 
+event) 
+The risk mitigation and contingency plan must identify both pro-active measures to 
+minimize the potential emissions from these risks (for instance, fire response capacity 
+and planning), as well as re-active planning (for instance, salvage of wind-throw, 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+152 
+reforestation of burned areas, etc.).  The plan must also identify the methods that will be 
+used to monitor the extent and severity of risk events which do occur. 
+2. Risks arising from human actions 
+Illegal harvesting must be considered 0% risk for the country. However, other types of 
+human caused risks may include  unplanned harvest, mining activity, or land use change. 
+The risk mitigation plan must address the likelihood of such events, and propose 
+mitigation strategies to minimize the incidence or severity of such events where they are 
+deemed to be possible within the project area. 
+The proponent must also ensure that the project description, and the ex-ante modelling of 
+the project and baseline scenarios, reasonably reflects both the risks and responses 
+identified in the Risk Mitigation and Contingency Plan.  The plan must also identify the 
+monitoring procedures which are to be used to assess the severity of any incidence of 
+human caused risks. 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+153

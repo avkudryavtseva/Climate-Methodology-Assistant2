@@ -1,0 +1,35 @@
+52 
+DOCUMENT HISTORY 
+Version 
+Date 
+Changes 
+v1.0 
+12 Aug 2022 
+Initial version released. 
+v1.1 
+05 Jul 2023 
+• 
+Clarifications to eligible feedstocks in Section 4 
+• 
+Clarifications to eligible land types for soil application in Section 4 
+• 
+Corrections and clarifications to GHG sources included in the project 
+boundary in Table 2 
+• 
+Corrections to equations in Section 8 
+• 
+Clarifications to parameters available at validation in Section 9 
+• 
+Clarifications to standardized activity method reassessment procedures 
+in Appendix 1 
+• 
+Clarifications to the procedures to demonstrate that feedstocks are 
+waste biomass in Appendix 2 
+• 
+General improvements, corrections and clarifications 
+v1.2 
+27 June 2025 
+• 
+Inclusion of Step 3: Investment Analysis for the additionality analysis 
+• 
+Adoption of current VCS methodology template

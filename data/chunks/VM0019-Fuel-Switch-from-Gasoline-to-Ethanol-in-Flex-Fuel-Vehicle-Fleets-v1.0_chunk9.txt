@@ -1,0 +1,546 @@
+9 
+MONITORING 
+9.1 Data and Parameters Available at Validation 
+In addition to the parameters listed in the tables below, the provisions on data and parameters not 
+monitored in the tools referred to in this methodology apply.  
+ 
+ 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 15
+Data Unit / 
+Parameter: 
+Pi,R,BSL 
+Data unit: 
+adimensional 
+Description: 
+Fuel consumption pattern of fleet i in project region R, in the 
+baseline scenario 
+Source of data: 
+Calculated ex ante  
+Justification of choice 
+of data or description 
+of measurement 
+methods and 
+procedures applied: 
+Calculated according to Procedure 8.1.2. 
+ 
+Any comment: 
+ 
+ 
+Data Unit / 
+Parameter: 
+FCgas,i,R,BSL 
+Data unit: 
+liters 
+Description: 
+Total quantity of gasoline consumed by commercial fleet i in 
+project region R during the reference period before the start of 
+the project activity 
+Source of data: 
+Historical values 
+Justification of choice 
+of data or description 
+of measurement 
+methods and 
+procedures applied: 
+The historical fuel consumption of the project proponent's 
+commercial fleets, obtained through direct or indirect 
+measurement of fuel quantity and type, shall be adopted. 
+If direct measurement was used, the respective equipment 
+shall have been regularly calibrated following the manufacture 
+specification.  
+If indirect measurement was used, the Validation/Verification 
+Body has the authority to decide when the measure method 
+adopted by the project activity is robust enough to ensure that 
+the data (type and quantity of fuel consumed) obtained, 
+processed and registered is reliable. 
+In the case of a Greenfield project activity instance or if no 
+sufficient historical data is available, the historical average 
+consumption pattern from the same regional group shall be 
+adopted.  
+Any comment: 
+ 
+ 
+Data Unit / 
+Parameter: 
+FCethanol,i,R,BSL 
+ 
+ 
+Data unit: 
+liters 
+Description: 
+Total quantity of ethanol consumed by commercial fleet i in 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 16
+project region R during the reference period before the start of 
+the project activity 
+ 
+Source of data: 
+Historical values 
+Justification of choice 
+of data or description 
+of measurement 
+methods and 
+procedures applied: 
+The historical fuel consumption of the project proponent's 
+commercial fleets, obtained through direct or indirect 
+measurement of fuel quantity and type, shall be adopted.  
+If direct measurement was used, the respective equipment 
+shall have been regularly calibrated following the manufacture 
+specification.  
+If indirect measurement was used, the Validation/Verification 
+Body has the authority to decide when the measure method 
+adopted by the project activity is robust enough to ensure that 
+the data (type and quantity of fuel consumed) obtained, 
+processed and registered is reliable. 
+In the case of a Greenfield project activity instance or if no 
+sufficient historical data is available, the historical average 
+consumption pattern from the same regional group shall be 
+adopted.  
+Any comment: 
+ 
+9.2 Data and Parameters Monitored 
+Data Unit / Parameter: 
+NCVgas,y 
+Data unit: 
+GJ/L 
+Description: 
+Weighted average net calorific value of gasoline in year y 
+Source of data: 
+The following data sources may be used if the relevant conditions 
+apply:  
+ 
+Data source 
+Conditions for using the 
+data source 
+a) Values provided by the 
+fuel supplier in invoices 
+This is the preferred source 
+b) Measurements by the 
+project proponent 
+If a) is not available 
+c) Regional or national 
+default values 
+If a) and b) are not available. 
+These sources should be 
+based on well documented, 
+reliable sources (such as 
+national energy balances) 
+d) IPCC default values at 
+the upper limit of the 
+uncertainty at a 95% 
+confidence interval as 
+provided in Table 1.2 of 
+Chapter 1 of Vol.2 (Energy) 
+of the 2006 IPCC 
+Guidelines on National 
+If a), b) and c) are not 
+available 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 17
+GHG Inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+For a) and b): Measurements should be undertaken in line with 
+national or international fuel standards.  
+Frequency of 
+monitoring/recording: 
+For a) and b): The NCV should be obtained for each fuel delivery, 
+from which weighted average annual values should be calculated.  
+For c): Review appropriateness of the values annually  
+For d): Any future revision of the IPCC Guidelines should be taken 
+into account  
+QA/QC procedures to be 
+applied: 
+Verify if the values under a), b) and c) are within the uncertainty 
+range of the IPCC default values as provided in Table 1.2, Vol. 2 
+of the 2006 IPCC Guidelines. If the values fall below this range 
+collect additional information from the testing laboratory to justify 
+the outcome or conduct additional measurements. The project 
+proponent must justify the value according to such conditions and 
+the Validation/Verification Body has the authority to decide when 
+the justification is appropriate. The laboratories in a), b) or c) 
+should have ISO 17025 accreditation or justify that they can 
+comply with similar quality standards.  
+Any comment: 
+ 
+ 
+Data Unit / Parameter: 
+NCVethanol,y 
+Data unit: 
+GJ/L 
+Description: 
+Weighted average net calorific value of ethanol in year y. 
+Source of data: 
+The following data sources may be used if the relevant conditions 
+apply: 
+ 
+Data source 
+Conditions for using the 
+data source 
+a) Values provided by the 
+fuel supplier in invoices 
+This is the preferred source 
+b) Measurements by the 
+project proponent 
+If a) is not available 
+c) Regional or national 
+default values 
+If a) and b) are not available. 
+These sources should be 
+based on well documented, 
+reliable sources (such as 
+national energy balances) 
+d) IPCC default values at 
+the upper limit of the 
+uncertainty at a 95% 
+confidence interval as 
+provided in Table 1.2 of 
+Chapter 1 of Vol.2 (Energy) 
+of the 2006 IPCC 
+Guidelines on National 
+If a), b) and c) are not 
+available 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 18
+GHG Inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+For a) and b): Measurements should be undertaken in line with 
+national or international fuel standards  
+Frequency of 
+monitoring/recording: 
+For a) and b): The NCV should be obtained for each fuel delivery 
+from which weighted average annual values should be calculated.  
+For c): Review appropriateness of the values annually.  
+For d): Any future revision of the IPCC Guidelines should be taken 
+into account  
+QA/QC procedures to be 
+applied: 
+Verify if the values under a), b) and c) are within the uncertainty 
+range of the IPCC default values as provided in Table 1.2, Vol. 2 
+of the 2006 IPCC Guidelines. If the values fall below this range 
+collect additional information from the testing laboratory to justify 
+the outcome or conduct additional measurements. The project 
+proponent must justify the value according to such conditions and 
+the Validation/Verification Body has the authority to decide when 
+the justification is appropriate. The laboratories in a), b) or c) 
+should have ISO 17025 accreditation or justify that they can 
+comply with similar quality standards.  
+Any comment: 
+ 
+ 
+Data Unit / Parameter: 
+FCethanol,i,R,y 
+Data unit: 
+liters 
+Description: 
+Ethanol consumption by the commercial fleet i in the project 
+scenario in project region R in year y 
+Source of data: 
+Refueling transactions database 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Direct or indirect measurement of place (gas station), date, type 
+and quantity of fuel used in the project activity. 
+Frequency of 
+monitoring/recording: 
+Every transaction 
+QA/QC procedures to be 
+applied: 
+If direct measurement is used, the respective equipment shall be 
+regularly calibrated following the manufacture specification.  
+If indirect measurement is used, the Validation/Verification Body 
+has the authority to decide when the measure method adopted by 
+the project activity is robust enough to ensure that the data (type 
+and quantity of fuel consumed) obtained, processed and 
+registered is reliable. 
+Any comment: 
+ 
+ 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 19
+Data Unit / Parameter: 
+wC,gas,y 
+Data unit: 
+tC/mass unit of gasoline 
+Description: 
+Weighted average mass fraction of carbon in gasoline in year y. 
+Source of data: 
+The following data sources may be used if the relevant conditions 
+apply: 
+Data source 
+Conditions for using the 
+data source 
+a) Values provided by the fuel 
+supplier in invoices 
+This is the preferred source 
+b) Measurements by the 
+project proponent 
+If a) is not available 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Measurements should be undertaken in line with national or 
+international fuel standards 
+Frequency of 
+monitoring/recording: 
+The mass fraction of carbon should be obtained for each fuel 
+delivery, from which weighted average annual values should be 
+calculated. 
+QA/QC procedures to be 
+applied: 
+Verify if the values under a) and b) are within the uncertainty 
+range of the IPCC default values as provided in Table 1.3, Vol. 2 
+of the 2006 IPCC Guidelines. If the values fall below this range 
+collect additional information from the testing laboratory to justify 
+the outcome or conduct additional measurements. The project 
+proponent must justify the value according to such conditions and 
+the Validation/Verification Body has the authority to decide when 
+the justification is appropriate. The laboratories in b) should have 
+ISO 17025 accreditation or justify that they can comply with similar 
+quality standards. 
+Any comment: 
+Applicable where Option A is used. Preferably the same data 
+source should be used for wC,gas,y and ρgas,y. 
+ 
+Data Unit / Parameter: 
+ρgas,y 
+Data unit: 
+mass unit of gasoline/L 
+Description: 
+Weighted average density of gasoline in year y (mass unit/L) 
+Source of data: 
+The following data sources may be used if the relevant conditions 
+apply: 
+Data source 
+Conditions for using the 
+data source 
+a) Values provided by the fuel 
+This is the preferred source 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 20
+supplier in invoices 
+b) Measurements by the 
+project proponent 
+If a) is not available 
+c) Regional or national default 
+values 
+If a) and b) are not available. 
+These sources should be 
+based on well documented, 
+reliable sources (such as 
+national energy balances) 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Measurements should be undertaken in line with national or 
+international fuel standards 
+Frequency of 
+monitoring/recording: 
+The density of the fuel should be obtained for each fuel delivery, 
+from which weighted average annual values should be calculated. 
+QA/QC procedures to be 
+applied: 
+ 
+Any comment: 
+Applicable where Option A is used. Preferably the same data 
+source should be used for wC,gas,y and ρgas,y. 
+ 
+Data Unit / Parameter: 
+EFCO2,gas,y 
+Data unit: 
+tCO2/GJ 
+Description: 
+Weighted average CO2 emission factor of gasoline 
+Source of data: 
+The following data sources may be used if the relevant conditions 
+apply: 
+Data source 
+Conditions for using the 
+data source 
+a) Values provided by the fuel 
+supplier in invoices 
+This is the preferred source 
+b) Measurements by the 
+project proponent 
+If a) is not available 
+c) Regional or national default 
+values 
+If a) and b) are not available. 
+These sources should be 
+based on well documented, 
+reliable sources (such as 
+national energy balances) 
+d) IPCC default values at the 
+upper limit of the uncertainty 
+at a 95% confidence interval 
+as provided in Table 1.4 of 
+Chapter 1 of Vol.2 (Energy) of 
+If a), b) and c) are not 
+available 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 21
+the 2006 IPCC Guidelines on 
+National GHG Inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+For a) and b): Measurements should be undertaken in line with 
+national or international fuel standards 
+ 
+Frequency of 
+monitoring/recording: 
+For a) and b): The CO2 emission factor should be obtained for 
+each fuel delivery, from which weighted average annual values 
+should be calculated. 
+For c): Review appropriateness of the values annually. 
+For d): Any future revision of the IPCC Guidelines should be taken 
+into account. 
+QA/QC procedures to be 
+applied: 
+ 
+Any comment: 
+Applicable where option B is used. 
+For a): If the fuel supplier does provide the NCV value and the 
+CO2 emission factor on the invoice and these two values are 
+based on measurements for this specific fuel, this CO2 factor 
+should be used. If another source for the CO2 emission factor is 
+used or no CO2 emission factor is provided, Options b), c) or d) 
+should be used. 
+ 
+Data Unit / Parameter: 
+COEFgas,y 
+ 
+Data unit: 
+tCO2/L 
+Description: 
+CO2 emission coefficient of gasoline in year y. 
+ 
+Source of data: 
+Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Calculated according to Procedure 8.1. 
+Frequency of 
+monitoring/recording: 
+ 
+QA/QC procedures to be 
+applied: 
+ 
+Any comment: 
+ 
+ 
+ 
+Data Unit / Parameter: 
+Tff,y 
+Data unit: 
+dimensionless 
+Description: 
+Conversion factor between gasoline and ethanol in year y 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 22
+Source of data: 
+Calculated 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Calculated according to Procedure 8.3. 
+Frequency of 
+monitoring/recording: 
+ 
+QA/QC procedures to be 
+applied: 
+ 
+Any comment: 
+ 
+ 
+Data Unit / Parameter: 
+FCgas, i, y 
+Data unit: 
+L 
+Description: 
+Gasoline consumption by commercial fleet i in the project scenario 
+in year y 
+Source of data: 
+Refueling transactions database 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Direct or indirect measurement of place (gas station), date, type 
+and quantity of fuel used in the project activity. 
+Frequency of 
+monitoring/recording: 
+Every transaction 
+QA/QC procedures to be 
+applied: 
+If direct measurement is used, the respective equipment shall be 
+regularly calibrated following the manufacture specification.  
+If indirect measurement is used, the Validation/Verification Body 
+has the authority to decide when the measure method adopted by 
+the project activity is robust enough to ensure that the data (type 
+and quantity of fuel consumed) obtained, processed and 
+registered is reliable. 
+Any comment: 
+When the FCgas, i, y represents more than 5% of the sum of 
+FCethanol,i,R,y and FCgas, i, y for an individual fleet and year, the 
+project activity instance corresponding to this fleet shall be 
+definitely excluded from the project activity, with no possibility to 
+be reinserted and no right to reduction credits derived from such 
+transgression year. 
+9.3 Description of the Monitoring Plan 
+All data collected as a part of monitoring process should be archived electronically and be kept at 
+least for 2 years after the end of the last project crediting period. 100% of the data should be 
+monitored if not indicated otherwise in the tables above. All direct measurements should be 
+conducted with calibrated measurement equipment according to relevant industry standards. 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 23

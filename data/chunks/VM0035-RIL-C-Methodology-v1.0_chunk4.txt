@@ -1,0 +1,140 @@
+4  
+PROJECT BOUNDARY 
+Geographic boundary 
+The project area is defined as the area over which the project proponent holds authorization to 
+conduct timber harvest over the length of the project crediting period. The area in its entirety must 
+meet the definition of forest (see Section 3 above for definition of forest). The project area may be 
+a subset of the concession holdings of the project proponent, but that the full extent of the project 
+area must be defined at validation.   
+ 
+The boundary of the project area must be clearly delineated and documented with digital maps in 
+the format specified by the VCS rules. 
+Temporal boundary 
+The temporal boundary of the project is set from the project start date, marking the initial harvest 
+on which RIL-C practices are implemented, and the end of the project crediting period.  
+Pools and Sources 
+Table 1 below discusses the carbon pools included in the project boundary. Pools included in the 
+project boundary are restricted to above- and below-ground tree biomass.  
+Table 2 below discusses the emission sources that are included in the project boundary. 
+Emissions from fossil fuel combustion are conservatively excluded. Note that there are no 
+optional pools, and that the included pools/sources (above- and belowground tree biomass) are 
+accounted in both the baseline and project scenarios. 
+ 
+Table 1: GHG Pools Included in or Excluded from the Project Boundary 
+Carbon pools  
+Included? 
+Justification/Explanation 
+Aboveground tree 
+biomass (included in 
+aboveground carbon, 
+AGC) 
+Yes 
+Must be included – represents a significant 
+pool affected by the project activity 
+Aboveground non-tree 
+biomass 
+No 
+Conservatively excluded – this pool is 
+expected to increase relative to the baseline 
+as a result of the project activity (from 
+reduced skidding damage) 
+Belowground biomass 
+Yes 
+Must be included in all cases – represents a 
+significant pool affected by the project activity 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+8 
+ 
+Dead wood (included 
+in aboveground 
+carbon, AGC) 
+Yes  
+Standing and lying dead wood produced by 
+harvest are included. Changes in stocks of 
+pre-existing dead wood are conservatively 
+ignored (further explained below).  
+Harvested wood 
+products 
+No 
+Applicability condition 1 obviates the inclusion 
+of the wood products pool because there is 
+no difference in harvest levels between the 
+baseline and project scenarios.   
+Litter 
+No 
+No significant change is expected in this pool 
+as a result of the project activity 
+Soil 
+No 
+No significant change is expected in this pool 
+as a result of the project activity 
+ 
+Aboveground carbon stocks include both live and dead (standing and lying) pools. Emission 
+reductions quantified for the aboveground carbon pool represent transfer of biomass carbon from 
+live trees to dead wood, followed by steady emissions via decomposition, without explicitly 
+separating the accounting of these elements, as described in Figure 1 below.  
+ 
+ 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+9 
+ 
+Figure 1: Schematic of Pools and Fluxes Incorporated in Aboveground Carbon (AGC) 
+Emissions 
+ 
+Emissions from the dead wood pool included in accounting are from dead wood produced during 
+harvest (ie, slash and new standing dead wood from harvest and collateral damage). This 
+methodology conservatively does not account for changes in pre-existing standing and lying dead 
+wood after harvest; these stocks would be expected to be greater in the project scenario post-
+harvest due to less-impactful RIL-C practices. As RIL-C practices implemented as part of the 
+project activity do not include slash management, salvage harvesting or other planned removal of 
+dead wood, this assumption is further assured. 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+10 
+ 
+Table 2: GHG Emission Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Fossil 
+fuel 
+emissions 
+CO2 
+No 
+Conservatively excluded - project activity is 
+expected to result in lower emissions (from more 
+efficient use of skidders) from use of machinery  
+CH4 
+No 
+Conservatively excluded - project activity is 
+expected to result in lower emissions (from more 
+efficient use of skidders) from use of machinery 
+N2O 
+No 
+Conservatively excluded - project activity is 
+expected to result in lower emissions (from more 
+efficient use of skidders) from use of machinery 
+Project 
+Fossil 
+fuel 
+emissions 
+CO2 
+No 
+Same as for baseline scenario 
+CH4 
+No 
+Same as for baseline scenario 
+N2O 
+No 
+Same as for baseline scenario

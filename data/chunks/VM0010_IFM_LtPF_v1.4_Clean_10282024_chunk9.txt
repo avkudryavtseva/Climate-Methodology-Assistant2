@@ -1,0 +1,1370 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+Calculation of baseline emissions for all land parcels under both the historical and common 
+practice baseline scenarios requires the application of the equations presented in Sections 
+8.1.1 to Section 8.1.6. Table 3 lists the baseline emissions modeled by this methodology. 
+Table 3: Emission Included in Baseline Modeling 
+Nº 
+Included in modelling (All projects) 
+1 
+Emission from wood product conversion 
+2 
+Decomposition of deadwood from harvested trees  
+3 
+Emissions from wood product retirement 
+4 
+Stock change due to regrowth following timber harvest 
+5 
+Decomposition of trees incidentally killed during tree felling  
+Where project proponent accounts for forestry infrastructure: 
+6 
+Decomposition of trees killed through skid trail creation 
+7 
+Decomposition of trees killed through road construction 
+Optional (as omission is conservative): 
+8 
+Emissions from fossil fuels burned in baseline harvesting practices 
+Nº 
+Conservatively excluded from modeling 
+1 
+Emissions through subsequent forest re-entry 
+ 
+Baseline projections are calculated ex-ante and are not adjusted throughout the project 
+crediting period. 
+Section 8.1.1 serves to calculate carbon stocks in commercial timber volumes. Next, baseline 
+emissions are estimated based on the calculation of deadwood (i.e., logging slash) generated in 
+the process of timber harvest and establishment of forestry infrastructure (Section 8.1.2). The 
+emissions resulting from production and subsequent retirement of wood products are derived 
+from timber harvesting (including timber harvesting from the establishment of forestry 
+infrastructure - Section 8.1.3), the combustion of fossil fuels in forestry machinery including 
+mechanized felling, skidding / forwarding /hauling, loading and transporting inside the project 
+area, and processing (Section 8.1.4), minus the rates of forest regrowth post-timber harvest 
+(Section 8.1.5). 
+Baseline commercial timber volumes must be derived for development of the timber harvest 
+plan, and for ex-post accounting of emissions resulting from natural forest disturbances. 
+  
+ 
+VM0010, v1.4 
+18 
+The equations below calculate the total emissions across the project crediting period for each 
+emission source. Total emissions are averaged across the project crediting period to give 
+annual emissions and are multiplied by t* (time elapsed since the start of project activity). Ex-
+post t* is updated, so baseline projections are available for each proposed future verification 
+date. 
+Data for input into these carbon stock change calculations for the baseline scenario must be 
+established from the same data used to create the timber harvesting plan. 
+Depending on which baseline scenario is applied (i.e., historical or common practice), the 
+project proponent must follow either the ‘historical data pathway’ (for the historical baseline 
+scenario) or the ‘common practice data pathway’ (for the common practice baseline scenario) 
+when applying the formulas shown in Sections 8.1.1 to 8.1.6.  
+As a result, the sources for most parameters described in Section 9.1 must be chosen 
+accordingly: 
+• 
+Under the historic data pathway: Where applicable, parameters must be based on the 
+historical logging practices of the baseline agent.  
+• 
+Under the common practice pathway: Where applicable, parameters must be based on 
+data that reflects common practice in the region (e.g., data from other forestry 
+companies in the region, forest management according to the legal requirements, 
+regional default values) that, in quantitative terms, reflect average values regarding 
+forest management. Where data is not readily identifiable as reflecting common 
+practice, the responsible forest department, or another equivalent institution, must 
+confirm that the value in question is considered as being common practice in the 
+region. 
+8.1.1 
+Calculation of carbon stocks in commercial timber volumes 
+This section calculates CHB,j,i|BSL, the mean carbon stock in total harvested biomass in tC ha-1 
+and CEX,j,i|BSL, the mean carbon stock in extracted timber (merchantable timber that leaves the 
+forest) in tC· ha-1. This includes harvested biomass from the clearing of roads, skid trails and log 
+landings, where applicable. The following calculation of merchantable volume of timber per unit 
+area (Vj,i|BSL), that is potentially available for harvest must be based on data from field 
+measurements in sample plots. 
+It is acceptable to use pre-existing forest inventory data7 for this purpose, provided that the pre-
+existing data: 
+a) Represents the project strata; 
+b) Is not more than 10 years old; and, 
+ 
+7 Standard quality control / quality assurance procedures for forest inventory including field data collection and data 
+management shall have been applied to the forest inventory assessment. Sampling data and methods shall be available 
+for verification. Sample sizes shall have been sufficient to ensure inventory estimates are within the 95% confidence 
+intervals with the estimated variance within +/- 15 percent from the mean. 
+  
+ 
+VM0010, v1.4 
+19 
+c) Where forest inventory data is more than 10 years old, the volume estimate derived 
+from the pre-existing data has been validated with limited sampling within the project 
+area. 
+Validation of pre-existing forest inventory data must be carried out via field surveys. For each 
+stratum, mean volume is estimated from sample plots/points measured within the project area 
+using standard forest inventory assessment methods. The number of sample plots will be 
+determined from the application of the most recent version of the CDM tool, Tool for Calculation 
+of the Number of Sample Plots for Measurements within A/R CDM Project Activities8. 
+If the validated estimate of volume is within the 90% confidence interval of the corresponding 
+estimate or greater than the estimate calculated from pre-existing forest inventory data, the 
+pre-existing forest inventory data may be used. If the validation estimate is less than the 
+corresponding estimate calculated from pre-existing forest inventory data, the estimate from 
+pre-existing data cannot be used. 
+Estimation of the merchantable volume of trees must be based on locally derived allometric 
+equations or yield tables. If locally derived equations or yield tables for each species are not 
+available, it is acceptable to use relevant regional, national or default data. 
+Yield tables or allometric equations must be used to convert field measurements of diameter 
+(DBH, at typically 1.3 m [4.3 ft] aboveground level or above buttress where they exist), and total 
+height H of each tree in the sample plots to merchantable volume, Vl,j,i,sp. 
+It is acceptable to combine DBH and allometric equations if field instruments (e.g., a relascope) 
+that estimate the volume of each tree have been used. 
+The estimate of merchantable volume for each species j at the sample plot level will be 
+calculated as: 
+𝑉𝑗,𝑖,𝑠𝑝= ∑𝑉𝑙,𝑗,𝑖,𝑠𝑝
+𝐿
+𝑙=1
+ 
+(1) 
+Where:  
+Vj,i,sp  
+Merchantable volume for species j in stratum i in sample plot sp, m3; 
+Vl,j,i,sp  
+Merchantable volume for tree l of species j in stratum i in sample plot sp; 
+m3 
+l 
+1,2,3…L sequence of individual trees in sample plot; 
+i  
+1,2,3 …M strata; 
+sp 
+1,2,3 …SP sample plots; and 
+j  
+1,2,3 …J tree species. 
+ 
+ 
+8 http://cdm.unfccc.int/methodologies/ARmethodologies/approved_ar.html 
+  
+ 
+VM0010, v1.4 
+20 
+Therefore, the merchantable volume per unit area of species j in stratum i will be calculated as 
+the mean merchantable volume in all sample plots in stratum i: 
+𝑉𝑗,𝑖|𝐵𝑆𝐿= 1
+𝑆𝑃× ∑𝑉𝑗,𝑖,𝑠𝑝
+𝐴𝑠𝑝
+𝑆𝑃
+𝑠𝑝=1
+ 
+(2) 
+Where:  
+Vj,i|BSL 
+Mean merchantable volume per unit area of species j in stratum i in the 
+baseline scenario, m3·ha-1; 
+Vj,i,sp 
+Merchantable volume for species j in stratum i in sample plot sp; m3; 
+Asp  
+Area of sample plot sp, ha; 
+i  
+1, 2, 3 …M strata; 
+sp 
+1, 2, 3 …SP sample plots; and 
+j  
+1, 2, 3 …J tree species. 
+Vj,i|BSL will be used to develop the timber harvest plan (Box 1 above). Based on legal limits, the 
+timber harvest plan sets the allowable mean extracted volume (VEX,j,i|BSL) from this 
+merchantable volume.  
+Further, based on Vj,i|BSL, the timber harvest plan will specify the mean extracted volume that is 
+harvested for the purpose of building forestry infrastructure (VEX,INF,j,i|BSL). 
+Once the timber harvest plan is complete and VEX,j,i|BSL as well as VEX,INF,j,i|BSL are calculated, the 
+Biomass Conversion and Expansion Factor (BCEF) method9,10 must be used to determine the 
+carbon stocks in harvested biomass. 
+This method is appropriate as forest inventory data and allowable harvest must be based on 
+volume estimates to which expansion factors can be readily applied. The selected BCEF must 
+have a minimum DBH compatible with the minimum DBH defined in the timber harvest plan (see 
+Box 1 above). 
+Therefore, the carbon stock of timber harvested per unit area for species j in stratum i will be 
+calculated from this mean volume of extracted timber: 
+𝐶𝐻𝐵,𝑗,𝑖|𝐵𝑆𝐿= (𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿+ 𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖|𝐵𝑆𝐿) × 𝐵𝐶𝐸𝐹𝑅× 𝐶𝐹𝑗 
+(3) 
+ 
+9 Somogyi, Z., E. Cienciala, R. Mäkipää, P. Muukkonen, A. Lehtonen and P.Weiss. (2006) Indirect methods of large-scale 
+forest biomass estimation, Eur.J.ForestRes. 126 (2) pp.197–207. http://dx.doi.org/10.1007/s10342-006-0125-7  
+10 IPCC. (2019) Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Calvo Buendia, E., 
+Tanabe, K., Kranjc, A., Baasansuren, J., Fukuda, M., Ngarize, S., Osako, A., Pyrozhenko, Y., Shermanau, P. and Federici, S. 
+(eds). Published: IPCC, Switzerland.   https://www.ipcc-nggip.iges.or.jp/public/2019rf/index.html . 
+  
+ 
+VM0010, v1.4 
+21 
+Where:  
+CHB,j,i|BSL 
+Mean carbon stock of harvested biomass per unit area for species j in 
+stratum i, tC·ha-1; 
+VEX,j,i|BSL 
+Mean volume of extracted timber per unit area for species j in stratum i, 
+m3·ha-1; 
+𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖|𝐵𝑆𝐿 
+Mean volume of extracted timber for forestry infrastructure per unit 
+area for species j in stratum i, m3·ha-1; 
+BCEFR  
+Biomass conversion and expansion factor applicable to wood removals 
+in the project area, t.d.m m-3; 
+CFj  
+Carbon fraction of biomass for species j, tCt d.m.-1; 
+i  
+1,2,3 …M strata; and 
+j  
+1,2,3 …J tree species. 
+Not all of the harvested biomass leaves the forest because the timber harvested has two 
+components: 1) wood removed to market (extracted timber) and 2) wood remaining in the forest 
+as a result of harvest (see Section 8.1.2). 
+Therefore, the mean carbon stock of extracted timber per unit area for species j in stratum i will 
+be calculated from the mean volume of extracted timber, multiplied by density and carbon 
+fractions: 
+𝐶𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿= (𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿+ 𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖|𝐵𝑆𝐿) × 𝐷𝑗× 𝐶𝐹𝑗 
+(4) 
+Where:  
+CEX,j,i|BSL 
+Mean carbon stock of extracted timber per unit area for species j in 
+stratum i; tC·ha-1; 
+VEX,j,i|BSL 
+Mean volume of extracted timber per unit area for species j in stratum i; 
+in m3·ha-1; 
+𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖,𝑝|𝐵𝑆𝐿 
+Mean volume of extracted timber for forestry infrastructure per unit 
+area for species j in stratum i, m3·ha-1; 
+Dj  
+Basic wood density of species j; t d.m. m-3; 
+CFj  
+Carbon fraction of biomass for species j, tC t d.m.-1; 
+i  
+1,2,3 …M strata; and 
+j  
+1,2,3 …J tree species. 
+  
+ 
+VM0010, v1.4 
+22 
+8.1.2 Calculation of dead wood (logging slash) generated in the process of 
+timber harvest 
+This section calculates ∆CDWSLASH,i,p|BSL. ∆CDWSLASH,i,p|BSL and includes the following: 
+a) The change in carbon stock in dead wood (i.e., logging slash) left on the forest floor 
+following timber harvest in stratum i in land parcel p, using CEX,j,i|BSL and CHB,j,i|BSL as 
+calculated in Section 8.1.1. 
+b) The change in carbon stock in dead wood (i.e., logging slash) that results from residual 
+stand damage (CRSD, j,i|BSL). Residual stand damage is the breaking or uprooting of other 
+neighboring trees during the process of tree felling. Residual stand damage is 
+calculated using the residual stand damage factor FRSD|BSL. 
+c) The change in carbon stock in dead wood (i.e., logging slash) left on the forest floor 
+following the establishment of forestry infrastructure in stratum i in land parcel p. This 
+is calculated using CnotHB,INF,j,i|BSL based on VnotEX,INF,j,i|BSL as defined in the timber 
+harvest plan. This only includes the emissions from entire trees left to decay as a result 
+of forestry infrastructure construction. Emissions from logging slash of trees harvested 
+for consequent processing during the establishment of forestry infrastructure are 
+included under point a) above. 
+The simplifying assumption made is that dead wood left on the forest floor following timber 
+harvest follows a ten-year linear decay function, as permitted by the latest VCS Methodology 
+Requirements. This decay function is applied when the net greenhouse gas 
+emissions/removals are calculated on an annual basis in Equations 10 and 11 below. 
+Therefore, the change in carbon stock in the dead wood pool in stratum i in land parcel p is 
+calculated as the difference between the total carbon stock of the harvested biomass and the 
+carbon stock of the extracted timber, plus the residual stand damage and biomass of trees left 
+to decay as a result forestry infrastructure establishment: 
+∆𝐶𝐷𝑊𝑆𝐿𝐴𝑆𝐻,𝑖,𝑝|𝐵𝑆𝐿= ∑
+[𝐶𝐻𝐵,𝑗,𝑖|𝐵𝑆𝐿−𝐶𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿+ 𝐶𝑅𝑆𝐷,𝑗,𝑖|𝐵𝑆𝐿+ 𝐶𝑛𝑜𝑡𝐻𝐵,𝑖𝑛𝑓,𝑗,𝑖|𝐵𝑆𝐿]
+𝐽
+𝑗=1
+  
+(5) 
+Where:  
+∆CDWSLASH,i,p|BSL 
+Change in carbon stock of dead wood as logging slash resulting from 
+timber harvest per unit area in stratum i in land parcel p, in tC ha-1; 
+CHB,j,i|BSL  
+Mean carbon stock of harvested biomass per unit area for species j in 
+stratum i, tC·ha-1; 
+CEX,j,i|BSL 
+Mean carbon stock of extracted timber per unit area for species j in 
+stratum i, tC·ha-1; 
+𝐶𝑅𝑆𝐷,𝑗,𝑖|BSL 
+Mean carbon stock in timber from residual stand damage per unit area for 
+species j in stratum i, tC·ha-1 
+  
+ 
+VM0010, v1.4 
+23 
+𝐶𝑛𝑜𝑡𝐻𝐵,𝑖𝑛𝑓,𝑗,𝑖|BSL 
+Mean carbon stock of biomass that is not harvested during the 
+establishment of forestry infrastructure per unit area for species j in stratum 
+i, tC·ha-1 
+i  
+1, 2, 3 …M strata; and 
+j  
+1, 2, 3 …J tree species; 
+p 
+1, 2, 3 ...P land parcels. 
+The mean carbon stock in timber from residual stand damage (CRSD,j,i|BSL) is calculated as 
+follows: 
+𝐶𝑅𝑆𝐷,𝑗,𝑖|𝐵𝑆𝐿= 𝐶𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿× 𝐹𝑅𝑆𝐷|𝐵𝑆𝐿  
+(6) 
+Where:  
+𝐶𝑅𝑆𝐷,𝑗,𝑖|BSL 
+Mean carbon stock in timber from residual stand damage per unit area for species j 
+in stratum i, tC·ha-1; 
+𝐶𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿 
+Mean carbon stock of extracted timber per unit area for species j in stratum i, tC·ha-
+1; 
+𝐹𝑅𝑆𝐷|BSL 
+Factor for residual stand damage, dimensionless; 
+i 
+1, 2, 3 …M strata; and 
+j 
+1, 2, 3 …J tree species. 
+The mean of the carbon stock of biomass that is not harvested during the establishment of 
+forestry infrastructure (CnotHB,INF,j,i|BSL) is calculated as follows: 
+𝐶𝑛𝑜𝑡𝐻𝐵,𝑖𝑛𝑓,𝑗,𝑖|𝐵𝑆𝐿 = 𝑉𝑛𝑜𝑡𝐸𝑋,𝑖𝑛𝑓,𝑗,𝑖|𝐵𝑆𝐿× 𝐵𝐶𝐸𝐹𝑅× 𝐶𝐹𝑗 
+(7) 
+Where:  
+𝐶𝑛𝑜𝑡𝐻𝐵,𝑖𝑛𝑓,𝑗,𝑖|BSL  
+Mean carbon stock of biomass that is not harvested during the establishment of 
+forestry infrastructure per unit area for species j in stratum i, tC·ha-1 
+𝑉𝑛𝑜𝑡𝐸𝑋,𝑖𝑛𝑓,𝑗,𝑖|𝐵𝑆𝐿 
+Mean volume of timber that is not extracted for wood processing during the 
+establishment of forestry infrastructure per unit area for species j in stratum i, m3·ha-
+1; 
+𝐵𝐶𝐸𝐹𝑅 
+ 
+Biomass conversion and expansion factor applicable to wood removals in the project 
+area, t.d.m m-3; 
+𝐶𝐹𝑗 
+ 
+Carbon fraction of biomass for species j, tC t d.m.-1 
+i 
+ 
+1, 2, 3 …M strata; and 
+j 
+ 
+1, 2, 3 …J tree species. 
+  
+ 
+VM0010, v1.4 
+24 
+8.1.3 Calculation of baseline carbon sequestered in wood products 
+This section calculates the net carbon stock change resulting from wood product conversion and 
+retirement. 
+In all cases where wood is harvested for conversion to wood products, carbon stock in the 
+wood products pool must be included in the baseline scenario. 
+Carbon stocks treated here are those stocks entering the wood products pool at the time of 
+harvest. 
+All factors are derived from Winjum et al (1998)11. 
+The carbon stock of extracted timber across species is calculated as: 
+𝐶𝐸𝑋,𝑖|𝐵𝑆𝐿= ∑𝐶𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝐽
+𝑗=1
+ 
+(8) 
+Where:  
+CEX,i|BSL 
+Change in carbon stock of extracted wood products resulting from timber 
+harvest per unit area in stratum i, in tC ha-1; 
+CEX,j,i|BSL 
+Mean carbon stock of extracted wood per hectare, tC ha-1; 
+i  
+1, 2, 3 …M strata; and 
+j  
+1, 2, 3 …J tree species. 
+The wood product class(es), k, (i.e., sawnwood, wood-based panels, other industrial roundwood, 
+paper and paper board, and other), that are the anticipated end use of the extracted timber 
+must now be selected. It is acceptable practice to assign gross percentages of volume extracted 
+to wood product classes on the basis of local expert knowledge of harvest activities and 
+markets.  
+In accordance with the latest VCS Methodology Requirements, the amount of carbon stored in 
+wood products that would decay within three (3) years after harvest (i.e., the Wood Waste -WW, 
+and the Short-Lived Fraction -SLF), are assumed to be emitted at the time of harvest.  
+Wood products that are retired between 3 and 100 years after harvest (i.e., the Additional 
+Oxidized Fraction, OF), must be accounted for according to a 20-year linear decay function. This 
+decay function is applied when the net greenhouse gas emissions/removals are calculated on 
+an annual basis as in Equations 10 and 11 below.  
+All other wood product pools are considered to permanently store carbon. 
+ 
+11 https://academic.oup.com/forestscience/article/44/2/272/4626952  
+  
+ 
+VM0010, v1.4 
+25 
+Therefore, the carbon stock of extracted timber that is immediately emitted to the atmosphere 
+at the time of harvest is calculated as: 
+∆𝐶𝑊𝑃0,𝑖|𝐵𝑆𝐿= ∑𝐶𝐸𝑋,𝑖,𝑘|𝐵𝑆𝐿× (𝑊𝑊𝑘+ 𝑆𝐿𝐹𝑘)
+𝑘
+ 
+(9) 
+Where:  
+∆CWP0,i|BSL 
+Carbon stock of extracted timber from stratum i that is assumed to be 
+emitted immediately at the time of harvest, in tC·ha-1; 
+CEX,i,k|BSL 
+Mean carbon stock of extracted timber per unit area in stratum i, for wood 
+product type k, tC·ha-1; 
+WWk 
+ 
+Fraction of biomass carbon from wood waste that is assumed to be emitted 
+to the atmosphere immediately at the time of harvest for wood product k, 
+dimensionless; 12 
+SLFk 
+Fraction of biomass carbon from the short-lived wood product pool that is 
+assumed to be emitted to the atmosphere immediately at the time of harvest 
+for wood product k, dimensionless; 
+i  
+k 
+1,2,3 …M strata; and 
+Wood products (i.e., sawnwood, wood-based panels, other industrial 
+roundwood, paper and paper board, and other). 
+The amount of extracted carbon stock that is assumed to enter the wood products pool that is 
+not immediately emitted at the time of harvest is calculated as per Equation (10) below: 
+𝐶𝑊𝑃𝑖|𝐵𝑆𝐿= ∑(𝐶𝐸𝑋,𝑖,𝑘|𝐵𝑆𝐿− ∆𝐶𝑊𝑃0,𝑖|𝐵𝑆𝐿)
+𝑘
+ 
+(10) 
+Where:  
+CWP,i|BSL 
+Carbon stock of extracted timber from stratum i that is assumed to enter the 
+wood products pool that is not immediately emitted at the time of harvest, in 
+tC·ha-1; 
+CEX,i,k|BSL 
+Mean carbon stock of extracted timber per unit area in stratum i, for wood 
+product type k, tC·ha-1; 
+∆CWP0,i|BSL 
+Carbon stock of extracted timber from stratum i that is assumed to be 
+emitted immediately at the time of harvest, in tC·ha-1; 
+i  
+1,2,3 …M strata; and 
+k 
+Type of wood product (i.e., sawnwood, wood-based panels, other industrial 
+roundwood, paper and paper board, and other). 
+ 
+12 See Section 9.1 for information on data selection. 
+  
+ 
+VM0010, v1.4 
+26 
+Therefore, the carbon stock of wood products assumed to be retired between 3-100 years 
+following harvest is calculated as: 
+∆𝐶𝑊𝑃100,𝑖,𝑝|𝐵𝑆𝐿= ∑(
+𝑘
+𝐶𝑊𝑃,𝑖|𝐵𝑆𝐿× 𝑂𝐹𝑘) 
+(11) 
+Where:  
+∆CWP100,i,p|BSL 
+Carbon stored in wood products that are assumed to be retired between 3 - 
+100 years after harvest from stratum i in land parcel p, tC ha-1; 
+CWP,i|BSL 
+Carbon stock of extracted timber from stratum i that is assumed to enter the 
+wood products pool that is not immediately emitted at the time of harvest, in 
+tC·ha-1; 
+OFk  
+Fraction of biomass carbon for wood product type k that is assumed to be 
+emitted to the atmosphere between 3 and 100 years of timber harvest, 
+dimensionless; 
+i  
+1,2,3 …M strata; 
+k 
+Type of wood product (i.e., sawnwood, wood-based panels, other industrial 
+roundwood, paper and paper board, and other). 
+p 
+1, 2, 3 ...P land parcels. 
+8.1.4 Calculation of baseline emissions from the combustion of fossil fuels in 
+forestry and wood processing machinery 
+The implementation of the baseline activity (selective logging and/or clearcutting from certain 
+operations such as log landings) entails the use of forestry and wood processing machinery, 
+which leads to GHG emissions from fossil fuel combustion. Omission of any or all of the 
+associated GHG emission sources is conservative.  
+The total GHG emissions from fossil fuel combustion in the baseline scenario (CFUEL) is 
+determined from the summation of all the emission sources presented in Table 2 above using 
+the following equation: 
+𝐶𝐹𝑈𝐸𝐿=
+𝐸𝐻𝐴𝑅𝑉𝐸𝑆𝑇+ 𝐸𝐻𝐴𝑈𝐿𝐼𝑁𝐺+𝐸𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇+ 𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺
+44 12
+⁄
+  
+(12) 
+Where:  
+𝐶𝐹𝑈𝐸𝐿 
+ 
+Total carbon emissions associated with the combustion of fossil fuel in forestry and 
+wood processing machinery, in tC 
+𝐸𝐻𝐴𝑅𝑉𝐸𝑆𝑇 
+ 
+Fossil fuel emissions due to harvesting operations such as felling and snigging, in 
+tCO2e; 
+𝐸𝐻𝐴𝑈𝐿𝐼𝑁𝐺 
+ 
+Fossil fuel emissions due to log hauling, in tCO2e; 
+  
+ 
+VM0010, v1.4 
+27 
+𝐸𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇 
+ 
+Fossil fuel emissions due to log transport from collection depot to processing plant, 
+in tCO2e; 
+𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Fossil fuel emissions due to electricity consumption in sawmill, in tCO2e. 
+8.1.4.1 Emissions Due to Harvesting Operations 
+Mechanical harvesting operations of merchantable logs contribute to GHG emissions. This 
+operation in countries containing tropical forests commonly employs chainsaws, while in other 
+regions harvesters are employed13. Fossil fuel emissions from log harvesting are determined 
+using the following procedure:  
+• 
+Step 1: For the common practice in the host country, select the typical equipment type, 
+amount and type of fuel consumed that is used for harvesting. Information on 
+harvesting practices can be found from reports on previous and existing harvesting 
+practices in the host country. Potential sources should be a combination of direct 
+measurements, manufacturer specifications, historical records of the project proponent 
+(or other forest companies) and/or peer reviewed literature values. 
+• 
+Step 2: Find the fuel consumption (in kL m-3) of the selected equipment from the 
+following data sources:  
+o 
+Reports on common practice for harvesting in the host country and/or 
+manufacturers specifications. 
+o 
+Published peer reviewed studies on harvesting operations (e.g., Klvac and 
+Skoupy, 200914 in Appendix 4). 
+o 
+If a range for fuel consumption is provided, the project proponent is required to 
+provide justification for their choice of fuel consumption in the project 
+documents. If no justification can be derived, it is conservative to select the 
+lower end of the range. 
+• 
+Step 3: Select the emission factor associated with the fuel employed for harvesting 
+from IPCC default emission factors for CO2, CH4 and N2O emissions for Off-Road Mobile 
+Sources and Machinery for the Forestry Sector (IPCC, 2006, Volume 2, Chapter 3, 
+Section 3.3.1, Table 3.3.1, p. 3.36). 
+o 
+Guidance for converting the emission factors to a CO2 equivalent (CO2-e) 
+emission factor is provided in Appendix 1: Converting other greenhouse gases 
+to CO2e. 
+o 
+Guidance for unit conversions of fuel emission factors is provided in Appendix 
+2: Converting Units for Fuel Emission Factor. 
+ 
+13 A machine that falls trees and performs two or more functions at the stump or on a felled tree, including delimbing, 
+debarking, bucking, measuring, or chipping (SAF, 2018 Dictionary of Forestry). 
+14 https://www.tandfonline.com/doi/abs/10.1007/s10310-009-0143-7   
+  
+ 
+VM0010, v1.4 
+28 
+• 
+Step 4: Harvesting emissions are calculated following the equation below: 
+𝐸𝐻𝐴𝑅𝑉𝐸𝑆𝑇= 𝐹𝐶𝐻𝐴𝑅𝑉𝐸𝑆𝑇× 𝐸𝐹𝐹𝑈𝐸𝐿× ∑
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝑗,𝑖,𝑝
+× 𝐴𝑖   
+(13) 
+Where:  
+𝐸𝐻𝐴𝑅𝑉𝐸𝑆𝑇 
+ 
+Fossil fuel emissions due to harvesting operations such as felling and snigging, in 
+tCO2e; 
+𝐹𝐶𝐻𝐴𝑅𝑉𝐸𝑆𝑇  
+Fuel consumption of equipment employed for felling and snigging per m3 of 
+merchantable log harvested, in kL m-3; 
+𝐸𝐹𝐹𝑈𝐸𝐿 
+ 
+Fuel emission factor, in tCO2e kL-1; 
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿 
+ 
+Mean volume of extracted timber per unit area for species j in stratum i, m3·ha-1; 
+𝐴𝑖 
+ 
+Logging area in stratum i, in ha; 
+i 
+ 
+1, 2, 3 … M strata;  
+j 
+ 
+1, 2, 3 … J tree species; and 
+p 
+ 
+1,2,3 …P land parcels. 
+8.1.4.2 Emissions Due to Log Hauling 
+Emissions associated with log hauling to the collection depot are calculated using the following 
+procedure:  
+• 
+Step 1: Select the typical equipment type, amount and type of fuel consumed that is 
+employed for hauling based on common practice for harvesting in the host country. 
+Information on harvesting practices can be found from reports on previous and existing 
+harvesting practices in the host country. 
+• 
+Step 2: Find the fuel consumption (in kL m-3) of the selected equipment from reports on 
+common practice for harvesting in the host country and/or manufacturers 
+specifications. If a range for fuel consumption is provided, the Project Proponent is 
+required to provide justification for the choice of fuel consumption factor in the project 
+documents. If no justification can be derived, it is conservative to select the lower end 
+of the range. 
+• 
+Step 3: Select the emission factor associated with CO2, CH4 and N2O emissions for the 
+fuel employed from IPCC default emission factors for Off-Road Mobile Sources and 
+Machinery for the Forestry Sector (IPCC, 2006, Volume 2, Chapter 3, Section 3.3.1, 
+Table 3.3.1, p. 3.36).  
+o 
+Guidance for converting the emission factors to a CO2 equivalent (CO2e) 
+emission factor is provided in Appendix 1: Converting other greenhouse gases 
+to CO2e. 
+  
+ 
+VM0010, v1.4 
+29 
+o 
+Guidance for unit conversions of fuel emission factors is provided in Appendix 
+2: Converting Units for Fuel Emission Factor.  
+• 
+Step 4: Emissions from log hauling are then determined by applying the following 
+equation: 
+𝐸𝐻𝐴𝑈𝐿𝐼𝑁𝐺= 𝐹𝐶𝐻𝐴𝑈𝐿𝐼𝑁𝐺× 𝐸𝐹𝐹𝑈𝐸𝐿× ∑𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝑗,𝑖
+× 𝐴𝑖 
+(14) 
+Where:  
+𝐸𝐻𝐴𝑈𝐿𝐼𝑁𝐺 
+ 
+Fossil fuel emissions due to log hauling, in tCO2e; 
+𝐹𝐶𝐻𝐴𝑈𝐿𝐼𝑁𝐺 
+ 
+Fuel consumption of equipment for hauling one m3 of merchantable log, in kLm-3; 
+𝐸𝐹𝐹𝑈𝐸𝐿 
+ 
+Emissions due to log hauling, in tCO2e kL-1; 
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿 
+ 
+Mean volume of extracted timber per unit area for species j in stratum i, m3·ha-1; 
+𝐴𝑖 
+ 
+Logging area in stratum i, in ha; 
+i 
+ 
+1, 2, 3 …M strata; and 
+j 
+ 
+1, 2, 3 … J tree species. 
+8.1.4.3 Emissions Due to Log Transport 
+Emissions associated with log transport from the collection depot to the processing plant are 
+calculated using the following procedure:  
+• 
+Step 1: Select the vehicle: type, load capacity (in m3 truck-1) and type of fuel consumed 
+for log transport based on common practice for transport in the host country. 
+Information on harvesting practices can be found from reports on previous and existing 
+harvesting practices in the host country.  
+• 
+Step 2: Determine the number of trucks required using the following equation: 
+𝑁𝑇𝑅𝑈𝐶𝐾𝑆−𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇= 
+∑𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝑗,𝑖
+× 𝐴𝑖
+𝐶𝐴𝑃𝑇𝑅𝑈𝐶𝐾
+ 
+(15) 
+Where:  
+𝑁𝑇𝑅𝑈𝐶𝐾𝑆−𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇  
+Number of truck trips required for log transport from collection depot to 
+processing plant; 
+𝐴𝑖 
+ 
+Logging area in stratum i, in ha; 
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿 
+ 
+Mean volume of extracted timber per unit area for species j in stratum i, m3·ha-1; 
+𝐶𝐴𝑃𝑇𝑅𝑈𝐶𝐾 
+ 
+Truck load capacity, in m3 truck-1;  
+i 
+ 
+1, 2, 3 … M strata; and 
+  
+ 
+VM0010, v1.4 
+30 
+j 
+ 
+1, 2, 3 … J tree species; 
+• 
+Step 3: Find the fuel efficiency (in km kL-1) of the selected vehicle from the following 
+data sources: 
+o 
+Manufacturers specifications; 
+o 
+Published peer reviewed studies on harvesting operations (e.g., Kinjo et al., 
+200515);  
+o 
+If a range for fuel efficiency is provided, the Project Proponent is required to 
+provide justification for the choice of fuel efficiency factor in the project 
+documents. If no justification can be derived, it is conservative to select the 
+upper end of the range. 
+• 
+Step 4: Select the emission factor associated with CO2, CH4 and N2O emissions for the 
+fuel employed from IPCC default emission factors for Road Transport (IPCC, 2006, 
+Volume 2, Chapter 3, Section 3.2.1.2, Table 3.2.1-2, p. 3.16-3.21).  
+o 
+Guidance for converting the emission factors to CO2-e emission factor is 
+provided in Appendix 1: Converting other greenhouse gases to CO2e. 
+o 
+Guidance for unit conversions of fuel emission factors is provided in Appendix 
+2: Converting Units for Fuel Emission Factor. 
+• 
+Step 5: Estimate the transport distance from the collection depot to the processing 
+plant using digital maps of the Project Area. If transport route(s) for the baseline 
+scenario must be hypothesized, the Project Proponent is required to provide 
+justification for their derivation of the transport route in the project documents. In 
+addition, to be conservative, the transport route proposed must be the minimum 
+possible route. The total log transport distance can be determined by the following: 
+𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇−𝑇𝑂𝑇𝐴𝐿= 𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇× 𝑁𝑇𝑅𝑈𝐶𝐾𝑆−𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇×  2 
+(16) 
+Where:  
+𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇−𝑇𝑂𝑇𝐴𝐿  
+Total log transport distance in km; 
+𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇 
+ 
+Log transport distance from collection depot to processing plant in km; 
+𝑁𝑇𝑅𝑈𝐶𝐾𝑆−𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇  
+Number of truck trips required for log transport from collection depot to 
+processing plant; 
+2 
+ 
+Constant, indicating return trip; 
+ 
+15 Kinjo, M., Ohuchi, T., Kii, H., and Murase, Y. (2005). “Studies of life cycle assessment of Sugi Lumber,” Journal of the 
+Faculty of Agriculture 50(2), 343-351. 
+  
+ 
+VM0010, v1.4 
+31 
+• 
+Step 6: Emissions due to log transport are then determined by applying the following 
+equation: 
+𝐸𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇= 𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇−𝑇𝑂𝑇𝐴𝐿
+𝐸𝐹𝐹𝑉𝐸𝐻𝐼𝐶𝐿𝐸
+× 𝐸𝐹𝐹𝑈𝐸𝐿 
+(17) 
+Where:  
+𝐸𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇 
+ 
+Emissions due to log transport haulage from felling location to the 
+collection depot/ sawmill, in tCO2e; 
+𝐾𝑀𝑇𝑅𝐴𝑁𝑆𝑃𝑂𝑅𝑇−𝑇𝑂𝑇𝐴𝐿 
+Total log transport distance in km; 
+𝐸𝐹𝐹𝑉𝐸𝐻𝐼𝐶𝐿𝐸 
+ 
+Fuel efficiency for vehicle type, in km kL-1; 
+𝐸𝐹𝐹𝑈𝐸𝐿 
+ 
+Fuel emission factor, in tCO2-e kL-1. 
+8.1.4.4 
+Emissions Due to Timber Processing 
+Emissions resulting from processing, where the processing plant is situated in the project area 
+depend on the electricity source available at the processing site. Electricity can be supplied via 
+the national grid, or where this is not available, supplied via on-site generators. In addition, mill 
+residue/waste may also be used as an energy source during timber processing. 
+To avoid double accounting, if a processing plant utilizes mill residue/waste as an electricity 
+source, then the emissions from electricity generated by mill residue/waste must not be 
+considered here, as these emissions are accounted for under the dead wood pool. 
+If grid electricity is available, then emissions due to processing will be calculated using the 
+following procedure: 
+• 
+Step 1: Select an electricity demand factor for the timber processing facility from the 
+following data sources: 
+o 
+National electricity demand factors in relevant literature for timber processing. 
+Various country specific electricity demand factors have been compiled in 
+Appendix 5. 
+o 
+If a national electricity demand factor is not available, select an electricity 
+demand factor from a country that uses similar timber processing technology to 
+that of the project’s host country.  
+o 
+If a range for the electricity demand factor is provided, the project proponent is 
+required to provide justification for the choice of electricity demand factor in the 
+project documents. If no justification can be derived, it is conservative to select 
+the lower end of the range. 
+• 
+Step 2: Using the volume of merchantable logs, determine the electricity consumption 
+required for the processing mill: 
+  
+ 
+VM0010, v1.4 
+32 
+𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺= ∑𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝑗,𝑖
+× 𝐴𝑖× 𝐸𝐷𝐸𝑀𝐴𝑁𝐷 
+(18) 
+Where:  
+𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Quantity of electricity consumption for processing in kWh; 
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿 
+ 
+Mean volume of extracted timber per unit area for species j in stratum i, 
+m3·ha-1; 
+𝐴𝑖 
+ 
+Logging area in stratum i, in ha; 
+𝐸𝐷𝐸𝑀𝐴𝑁𝐷 
+ 
+Electricity demand for processing per volume processed, in kWh m-3; 
+i 
+ 
+1, 2, 3 … M strata; and 
+j 
+ 
+1, 2, 3 … J tree species. 
+• 
+Step 3: Select an emission factor for electricity for the host country from IEA (2009), 
+CO2 emissions per kWh from electricity and heat generation, pp. 101-103.  
+• 
+Step 4: Apply the following equation to determine the emissions due to processing: 
+𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺= 𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 × 𝐸𝐹𝐸𝐿𝐸𝐶𝑇𝑅𝐼𝐶𝐼𝑇𝑌 
+(19) 
+Where:  
+𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Emissions due to electricity consumption in sawmill, in tCO2e; 
+𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Quantity of electricity consumption for processing in kWh; 
+𝐸𝐹𝐸𝐿𝐸𝐶𝑇𝑅𝐼𝐶𝐼𝑇𝑌 
+ 
+Electricity emission factor for the host country, in tCO2e kWh-1; 
+If grid electricity is not available, and an on-site generator is required to power the processing 
+facility, then calculation of processing emissions is determined from the emissions associated 
+with fuel consumption of the generator. Apply Steps 1 and 2 of Section 8.1.4.4 above to 
+determine the electricity consumption involved for processing. Then use the following 
+procedure: 
+• 
+Step 1: Select the typical load capacity (i.e., 1/4, 1/2, full load), type of fuel consumed, 
+and operating time of the generator employed to power the processing facility. Such 
+data can be obtained from the following data sources: 
+o 
+National reports from the relevant national forestry authority;  
+o 
+Published peer reviewed literature on timber processing for cases of 
+equivalent volumes and processing modes and of a country that uses similar 
+timber processing technology to that of the project’s host country.  
+• 
+Step 2: Determine the power rating of the generator from the electricity required for 
+processing and the operating hours required: 
+  
+ 
+VM0010, v1.4 
+33 
+𝑃𝑅𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅= 𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺
+𝑇𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅
+ 
+(20) 
+Where:  
+𝑃𝑅𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 
+ 
+Power rating of generator or generator size in kW; 
+𝑄𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Annual quantity of electricity consumption for processing in kWh; 
+𝑇𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 
+ 
+Operating time of generator in h; 
+• 
+Step 3: Using a fuel consumption chart for the generator selected for the baseline case, 
+apply the power rating (kW) and an appropriate load capacity (i.e., 1/4, 1/2, full) to 
+determine the fuel consumption (kL h-1) of the generator. Fuel consumption charts can 
+be found from manufacturers of generators (see Appendix 3). 
+• 
+Step 4: Select an emissions factor for the fuel employed in the generator from IPCC 
+(2006), Volume 2, Chapter 2 Stationary Combustion, Table 2.5, p. 2.22. 
+• 
+Step 5: Apply the following equation to determine emissions due to processing 
+𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺= 𝐹𝐶𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 × 𝑇𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 × 𝐸𝐹𝐹𝑈𝐸𝐿 
+(21) 
+Where:  
+𝐸𝑃𝑅𝑂𝐶𝐸𝑆𝑆𝐼𝑁𝐺 
+ 
+Emissions due to electricity consumption in sawmill in tCO2e; 
+𝐹𝐶𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 
+ 
+Fuel consumption per hour of operation of generator, in kL h-1; 
+𝑇𝐺𝐸𝑁𝐸𝑅𝐴𝑇𝑂𝑅 
+ 
+Operating time of generator in h; 
+𝐸𝐹𝐹𝑈𝐸𝐿 
+ 
+Fuel emission factor, in tCO2e kL-1. 
+8.1.5 Change in carbon stocks due to forest regrowth after harvest 
+This section calculates CRG,i,p|BSL, the carbon sequestration resulting from forest regrowth after 
+timber harvest and establishment of forestry infrastructure in stratum i in land parcel p (tC ha-
+1). The carbon sequestration in the baseline scenario resulting from forest regrowth after timber 
+harvest up to year t is equal to the forest regrowth rate of each stratum. 
+Therefore, carbon sequestration resulting from forest regrowth after timber harvest is 
+calculated as: 
+𝐶𝑅𝐺,𝑖,𝑝|𝐵𝑆𝐿=  𝑅𝐺𝑅𝑖× 𝑡∗ 
+(22) 
+Where:  
+CRG,i,p|BSL  
+Carbon sequestration (change in carbon stocks) resulting from forest 
+regrowth after timber harvest and establishment of forestry infrastructure in 
+stratum i in land parcel p at time t*, tC ha-1 
+  
+ 
+VM0010, v1.4 
+34 
+RGRi 
+Regrowth rate of forest post timber harvest and establishment of forestry 
+infrastructure for stratum i, tC ha-1 yr-1; 
+i 
+1,2,3 …M strata 
+p 
+1,2,3 … P land parcels 
+t* 
+1, 2, …, t* years elapsed since the start of the project (years) 
+8.1.6 Calculation of baseline scenario greenhouse gas emissions from 
+change in carbon stocks 
+This section calculates GHGNET|BSL, the net greenhouse gas emissions in the baseline scenario, 
+in tCO2e. 
+The net carbon stock change to be converted to emissions is equal to the carbon stock change 
+as a result of timber harvest, plus the carbon stock change resulting from conversion and 
+retirement of wood products, minus carbon sequestration from forest regrowth after harvest. 
+To generate the annual carbon stock change in the baseline scenario, the total net change in 
+carbon stocks for parcels within is multiplied by the area of forest in the particular age class 
+(i.e., years since harvest in the baseline). 
+The annualized calculations vary between years 1, 2-10; 11-20, and all years since the start of 
+the project activity, depending on which decay functions apply. 
+Therefore, the net change in carbon stock from wood products and logging slash across all 
+parcels within the first year of harvest in the baseline is calculated as: 
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿(1)  = ∑
+𝐴1,𝑖,𝑝
+𝑖,𝑝
+× (∆𝐶𝐷𝑊𝑆𝐿𝐴𝑆𝐻,𝑖,𝑝\𝐵𝑆𝐿/10 + ∆𝐶𝑊𝑃0,𝑖,𝑝\𝐵𝑆𝐿+ ∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿/20)  
+(23) 
+Where:  
+∆CNET|BSL(1) 
+Net change in carbon stock across all parcels in the baseline scenario in the 
+first year since harvest, in tC; 
+∆𝐶𝐷𝑊𝑆𝐿𝐴𝑆𝐻,𝑖,𝑝\𝐵𝑆𝐿 
+Change in carbon stock of dead wood as logging slash resulting from timber 
+harvest per unit area in stratum i in land parcel p, in tC ha-1 (from Equation 5 
+above); 
+∆𝐶𝑊𝑃0,𝑖,𝑝\𝐵𝑆𝐿 
+Carbon stock of extracted timber from stratum i that is assumed to be emitted 
+immediately at the time of harvest, in tC·ha-1 (see equation 9 above); 
+∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿 
+Carbon stored in wood products that is assumed to be retired between 3 - 100 
+years after harvest from stratum i in land parcel p, tC ha-1 (see equation 11 
+above); 
+𝐴1,𝑖,𝑝 
+Area of stratum i in land parcel p that was harvested 1 year ago, ha;  
+  
+ 
+VM0010, v1.4 
+35 
+i 
+1, 2, 3 …M strata; and 
+p 
+1, 2, 3 ...P land parcels harvested within the project crediting period. 
+The net change in carbon stock from wood products and logging slash across all parcels the 
+years 2 – 10 since harvest in the baseline are calculated as: 
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿(2−10) = ∑
+𝐴2−10,𝑖,𝑝
+𝑖,𝑝
+∗ ∑((∆𝐶𝐷𝑊𝑆𝐿𝐴𝑆𝐻,𝑖,𝑝\𝐵𝑆𝐿/10) +  (∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿/20))
+𝑀
+𝑖=1
+ 
+(24) 
+Where:  
+∆CNET|BSL(2-10) 
+Net change in carbon stock across all parcels in the baseline scenario in 
+years 2 - 10 since harvest, in tC; 
+∆𝐶𝐷𝑊𝑆𝐿𝐴𝑆𝐻,𝑖,𝑝\𝐵𝑆𝐿 
+Change in carbon stock of dead wood as logging slash resulting from 
+timber harvest per unit area in stratum i in land parcel p, in tC ha-1 (see 
+equation 5 above); 
+∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿 
+Carbon stored in wood products that is assumed to be retired between 3 - 
+100 years after harvest from stratum i in land parcel p, tC ha-1 (see equation 
+11 above); 
+𝐴2−10,𝑖,𝑝 
+Area of stratum i in land parcel p that was harvested between 2 and 10 
+years ago, ha; 16 
+i 
+1, 2, 3 …M strata; and 
+p 
+1, 2, 3 ...P land parcels harvested within the project crediting period. 
+The net change in carbon stock from wood products across all parcels the years 11 – 20 since 
+harvest in the baseline is calculated as per equation 25 below. Note that, from this point there 
+will be no more emissions quantified from decay of logging slash in these parcels. 
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿(11−20) = ∑
+𝐴11−20,𝑖,𝑝
+𝑖,𝑝
+∗∑(∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿/20)
+𝑀
+𝑖=1
+ 
+(25) 
+Where:  
+∆CNET|BSL(11-20) 
+Net change in carbon stock across all parcels in the baseline scenario in 
+years 11 - 20 since harvest, in tC; 
+∆𝐶𝑊𝑃100,𝑖,𝑝\𝐵𝑆𝐿 
+Carbon stored in wood products that is assumed to be retired between 3 - 
+100 years after harvest from stratum i in land parcel p, tC ha-1; 
+𝐴11−20,𝑖,𝑝 
+Area of stratum i in land parcel p that was harvested between 11 and 20 
+years ago, ha;  
+ 
+16 See Section 9.1 for information on data selection. 
+  
+ 
+VM0010, v1.4 
+36 
+i 
+1, 2, 3 …M strata; and 
+p 
+1, 2, 3 ...P land parcels harvested within the project crediting period. 
+The net change (sequestration) in carbon stock due to forest regrowth across all parcels in all 
+years since harvest in the baseline scenario is calculated according to Equation 26 below. Note 
+that there will be no more emissions quantified from decay of logging slash or wood products. 
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿(1+) = ∑𝐴𝑡∗,𝑖,𝑝
+𝑖
+∗  ∑(∆𝐶𝑅𝐺,𝑖\𝐵𝑆𝐿)
+𝑀
+𝑖=1
+ 
+(26) 
+Where:  
+∆CNET|BSL(1+) 
+Net change in carbon stock due to forest regrowth in all parcels that have been 
+harvested in the baseline scenario, in tC; 
+∆CRG,i,p\BSL 
+Carbon sequestration resulting from forest regrowth after timber harvest in 
+stratum i in land parcel p, tC ha-1; 
+At*,i,p 
+Cumulative area harvested until time t*, ha;17 
+t* 
+1, 2,….10, time elapsed since the start of the project, in years; 
+i 
+1, 2, 3 …M strata; and 
+p 
+1, 2, 3 ...P land parcels harvested within the project crediting period. 
+Therefore, net change in carbon stock across all parcels harvested over each year of the project 
+crediting period in the baseline scenario since the start of the project activity is calculated as:  
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗= ∑[−∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(1) − ∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(2−10) −∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(11−20) + ∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(+1)]
+𝑃
+𝑝=1
+ 
+(27) 
+Where:  
+∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡 
+Net change in carbon stock across all parcels in the baseline scenario in the year 
+t* since the start of the project activity, in tC;  
+∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(1) 
+Net change in carbon stock in the baseline scenario for all parcels p that are 
+within 1 year of harvest in the baseline scenario, in tC;  
+∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(2−10) Net change in carbon stock in the baseline scenario for all parcels p, that were 
+harvested between 2 – 10 years ago in the baseline scenario, in tC;  
+∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(11−20) Net change in carbon stock in the baseline scenario in parcel p, that were 
+harvested between 11 – 20 years ago in the baseline scenario, in tC; 
+∆𝐶𝑁𝐸𝑇,𝑝|𝐵𝑆𝐿(+1) 
+Net change in carbon stock due to forest growth in the baseline scenario for all 
+parcels p that have been harvested in the baseline scenario, in tC; 
+ 
+17 See Data and parameters not monitored (default or possibly measured one time) parameter list for information on data 
+selection. 
+  
+ 
+VM0010, v1.4 
+37 
+t* 
+Time elapsed since the start of the project, in years  
+p 
+1, 2, 3 ...P land parcels harvested within the project crediting period 
+The net carbon stock change in the baseline scenario must be converted to net greenhouse gas 
+emissions and is calculated as: 
+𝐺𝐻𝐺𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗= ∆𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗×∗44
+12 
+(28) 
+Where:  
+GHGNET|BS,t*L 
+Net greenhouse gas emissions in the baseline scenario in the year t* 
+since the start of the project activity, tCO2e; 
+∆CNET|BSL 
+Net change in carbon stock across all parcels in the baseline scenario in 
+the year t* since the start of the project activity, tC; and 
+44/12  
+Ratio of molecular weights of carbon dioxide and carbon, tCO2-e tC-1. 
+8.2 
+Project Emissions  
+This section calculates GHGNET|PRJ, the net greenhouse gas emissions in the project scenario, in 
+tCO2e. 
+Greenhouse gas emissions from Improved Forest Management (IFM) activities implemented in 
+the project scenario must be accounted subject to application of the de minimis rule, as 
+prescribed by the latest VCS Methodology Requirements. Project emissions include the change 
+in carbon stocks of ongoing forest growth, forest disturbances, and illegal logging. As 
+commercial timber harvest and activities that result in forest degradation are not eligible under 
+the methodology in the project scenario, emissions sources from combustion of fossil fuels 
+from vehicles, machinery and equipment are de minimis and not accounted by the methodology 
+in the project scenario. 
+The type and extent of the activities implemented in the project scenario will be described by 
+the project proponent as part of the documentation submitted with the project documents. 
+In accordance with the applicability conditions, the project scenario does not allow commercial 
+timber harvest. As a result, carbon stock changes due to vegetation management and fuel 
+removal will be negligible. 
+Thus, net greenhouse gas emissions in the project scenario will be equal to carbon 
+sequestration through ongoing forest growth minus any emissions resulting from forest 
+disturbance (both illegal logging and natural disturbances). 
+  
+ 
+VM0010, v1.4 
+38 
+Ex-ante and ex-post estimations of natural disturbance for the project scenario must be 
+estimated following Section 8.2.2.1 below18. 
+The potential for illegal extraction of trees from the project area must be assessed ex-ante and 
+ex-post through a participatory rural appraisal (PRA) of the communities in and surrounding the 
+project area following Section 8.2.2.2 option a19. 
+At all subsequent verifications, data collected for monitored parameters for natural disturbance 
+and illegal logging must be included using the equations given under Sections 8.2.2 and 8.2.3 
+below. 
+Under the project scenario, the project proponents must only estimate carbon stock change 
+from forest growth in areas that would have been harvested under the baseline scenario. 
+Ongoing forest growth can only be included for individual trees, species, strata and tree stands 
+to be harvested under the baseline scenario and must reflect the harvesting plan timeframe. 
+During a verification period, ongoing forest growth can only be accounted for in areas that 
+would have been harvested under the baseline scenario, between the baseline year of harvest 
+and the end of the verification period. When forest growth is included in the project scenario 
+net GHG emissions, a detailed sampling plan that follows Section 8.2.1 below must be provided 
+with the project documents.   
+8.2.1 Ongoing Forest Growth in the Project Scenario 
+ 
+This section calculates ΔCAB,t|PRJ annual carbon stock change in aboveground biomass of trees in the 
+project scenario, in tCO2e. 
+8.2.1.1 Allometry 
+ 
+The project proponent must select or develop an appropriate allometric equation for forest type/group 
+of species j (e.g., tropical humid forest or tropical dry forest), or for each species or family j (i.e., group 
+of species) found in the inventory (hereafter referred to as species group), that converts tree 
+dimensions from field timber inventories on sample plots to aboveground biomass of trees. 
+Equation selection or development must follow the criteria described for fj(X,Y...), the aboveground 
+biomass of trees based on allometric equation for species group j based on measured tree variable(s), 
+in the parameters section below. 
+ 
+18 Ex ante estimations of areas burned and naturally disturbed shall be based on historic incidence of fire and natural 
+disturbance in the Project region. 
+19 If the belief is that zero illegal logging will occur within the project boundaries, then ex-ante this parameter may be set to 
+zero if clear infrastructure, hiring and policies are in place to prevent illegal logging. 
+  
+ 
+VM0010, v1.4 
+39 
+8.2.1.2 Sampling and Measurements 
+ 
+Only the individual trees, species and strata which were to be harvested in the baseline scenario are to 
+be measured. Permanent sample plots must be established for each stratum to measure carbon stock 
+changes over time. The number of permanent sample plots per stratum will be determined as 
+described in Section 9.3.5. For the plots with selective harvesting in the baseline scenario, the selected 
+trees must be given a unique ID, and their location must be recorded with a GPS to allow accurate re-
+measurement over time. The measurements should be consistent with the timber management plan, in 
+terms of areas, species, minimum diameters and number of trees to be harvested.  
+The tree dimensions and minimum diameter at breast height (DBH) specified by the selected allometric 
+equation in Section 8.2.1.1 must apply to these trees. 
+Any minimum values employed in inventories are held constant for the duration of the project. 
+8.2.1.3 Determining Sample Plot Carbon Stocks 
+ 
+The carbon stock in aboveground biomass for each individual tree of species group j in the sample plot 
+located in stratum i will be estimated using the selected or developed allometric equation applied to the 
+tree dimensions resulting from Section 8.2.1.2. Therefore, the sum of the carbon stock in each sample 
+plot will be calculated as: 
+𝐶𝐴𝐵,𝑗,𝑖,𝑡,𝑠𝑝|𝑃𝑅𝐽= ∑𝑓𝑗(𝑋, 𝑌… ) × 𝐶𝐹𝑗
+𝐿𝑗,𝑖,𝑠𝑝,𝑡
+𝑙=1
+ 
+(29) 
+Where:  
+CAB,j,i,t,sp|PRJ  
+Carbon stock in aboveground biomass of trees of species j in plot sp in 
+stratum i at time t in the project scenario, tC; 
+CFj  
+Carbon fraction of biomass for tree group j, tC t d.m.-1; 20 
+ fj(X,Y...) 
+Aboveground biomass of trees based on allometric equation for species 
+group j based on measured tree variable(s), t. d.m. tree-1; 21 
+i 
+1, 2, 3, …M strata; 
+j 
+1, 2, 3 … J tree species; 
+l 
+1, 2, 3, … Lj,i,t,sp sequence number of individual trees of species group j in 
+stratum i at time t in sample plot sp; 
+ 
+20 See Section 9.1 for information on data selection (p 51). 
+21 See Section 9.1 for information on data selection (p 51). 
+  
+ 
+VM0010, v1.4 
+40 
+t 
+0, 1, 2, 3, …t* years elapsed since start of the project activity; and 
+sp 
+1, 2, 3 …SP sample plots. 
+8.2.1.4 Determining Stratum Carbon Stocks 
+The total carbon stock in the aboveground biomass of all trees present in sample plot sp in 
+stratum i at time t, must be calculated as: 
+𝐶𝐴𝐵,𝑖,𝑡,𝑠𝑝|𝑃𝑅𝐽= ∑𝐶𝐴𝐵,𝑗,𝑖,𝑡,𝑠𝑝|𝑃𝑅𝐽
+𝐽
+𝑗=1
+ 
+(30) 
+Where:  
+CAB,i,t,sp|PRJ 
+Aboveground biomass carbon stock of all trees of stratum i at time t 
+in sample plot sp in the project scenario, tC; 
+CAB,j,i,t,sp|PRJ 
+Carbon stock in aboveground biomass of trees of species j in stratum i 
+at time t in plot sp in the project scenario, tC; 
+i 
+1, 2, 3, …M strata; 
+j 
+1, 2, 3 … J tree species; and 
+t 
+0, 1, 2, 3, …t* years elapsed since start of the project activity. 
+8.2.1.5 Determining Mean Carbon Stocks 
+Therefore, the mean carbon stock in aboveground biomass for each stratum per unit area is 
+calculated as: 
+𝐶𝐴𝐵,𝑖,𝑡|𝑃𝑅𝐽= 1
+𝑆𝑃× ∑(𝐶𝐴𝐵,𝑖,𝑡,𝑠𝑝|𝑃𝑅𝐽
+𝐴𝑠𝑝
+)
+𝑆𝑃
+𝑠𝑝=1
+ 
+(31) 
+Where:  
+CAB,i,t|PRJ 
+Mean aboveground biomass carbon stock of trees in stratum i at time 
+t, tCˑha-1; 
+CAB,i,t,sp|PRJ 
+Aboveground biomass carbon stock of trees in stratum i at time t in 
+sample plot sp, tC; 
+Asp  
+Area of sample plot sp, ha; 22 
+sp 
+1, 2, 3 … SP sample plots; 
+ 
+22 See Section 9.1 for information on data selection. 
+  
+ 
+VM0010, v1.4 
+41 
+i 
+1, 2, 3 … M strata; and 
+t  
+0, 1, 2, 3 … t* years elapsed since the start of the project activity. 
+8.2.1.6 Determining Carbon Stock Changes 
+The annual carbon stock change ΔCAB,t|PRJ in aboveground biomass of trees in year t, is the 
+difference in mean carbon stock in aboveground biomass between sampling events and, when 
+expressed in tCO2e, is calculated as: 
+∆𝐶𝐴𝐵,𝑡|𝑃𝑅𝐽= ∑
+(𝐴𝑡∗,𝑖,𝑝×
+𝐶𝐴𝐵,𝑖,𝑡2|𝑃𝑅𝐽−𝐶𝐴𝐵,𝑖,𝑡1|𝑃𝑅𝐽
+𝑇
+) ×
+𝑖,𝑝
+44
+12  
+ 
+ 
+ 
+ 
+(32) 
+Where:  
+ 
+ΔCAB,t|PRJ 
+Annual carbon stock change in aboveground biomass of trees in year 
+t, tCO2e yr-1 
+CAB,i,t|PRJ 
+Mean aboveground biomass carbon stock of trees in stratum i at time 
+t, tC ha-1 
+At*,i,p, 
+Cumulative area harvested in stratum i, at time t*, (ha) 
+T 
+Number of years between monitoring time t1 and t2 (T = t2 – t1), years; 
+t1 
+Beginning of the monitoring period or time of harvest event, whichever is later 
+i 
+1, 2, 3, … M  strata 
+t 
+0, 1, 2, 3, … t* years elapsed since start of the project activity 
+p 
+1, 2, 3, ..., P land parcels harvested within the project crediting period; and 
+44/12 
+Ratio of molecular weights of carbon dioxide and carbon, tCO2e tC-1. 
+The carbon stock change in aboveground biomass of trees (ΔCAB,t|PRJ) is the output of this 
+section and is necessary to calculate net greenhouse gas emissions in the project scenario. 
+8.2.2 Forest disturbance in the project scenario 
+This section calculates ∆CDIST_FR,t|PRJ, carbon stock change due to fire disturbance in the project 
+scenario (tCO2e), and ∆CDIST,t|PRJ, carbon stock change due to non-fire natural disturbances in 
+the project scenario (tCO2e). 
+8.2.2.1 Natural disturbance 
+It is a requirement that any greenhouse gas emissions from natural disturbance above de 
+minimis that may occur in the project area are monitored. 
+Estimation of emissions from natural disturbances must be calculated depending on the type of 
+disturbance event. Disturbance due to fire is calculated following Option A, and all non-fire 
+natural disturbances (e.g., wind, disease, pest events) are calculated following Option B. 
+ 
+ 
+  
+ 
+VM0010, v1.4 
+42 
+Option A: Natural Disturbance – Fire 
+For fire damage, it is assumed that a fire burning in the project scenario would also have 
+burned in the baseline scenario. Project emissions are therefore equal to the fire damage to 
+biomass absent in the baseline scenario (harvested and removed), but present in the project 
+scenario. 
+Where fires occur ex post in the project area, the area burned must be delineated. 
+Therefore, based on the IPCC 2006 Inventory Guidelines, estimation of greenhouse gas 
+emissions from biomass burning must be calculated as: 
+∆𝐶𝐷𝐼𝑆𝑇−𝐹𝑅,𝑡|𝑃𝑅𝐽= ∑𝐴𝑏𝑢𝑟𝑛,𝑖,𝑡× 𝐵𝑖,𝑡|𝑃𝑅𝐽× 𝐶𝑂𝑀𝐹𝑖× 𝐺𝑔,𝑖× 10−3 × 𝐺𝑊𝑃𝐶𝐻4
+𝑀
+𝑖=1
+ 
+(33) 
+Where:  
+ΔCDIST_FR,t|PRJ  
+Net greenhouse gas emissions resulting from fire disturbance in year t, tCO2e  
+Aburn,i,t  
+Area burnt in stratum i at time t, ha; 23 
+Bi,t|PRJ  
+Average aboveground biomass stock present in the project scenario but 
+absent in the baseline scenario before burning stratum i, time t; t d. m. ha-1; 
+COMFi  
+Combustion factor for stratum i, dimensionless; 24 
+Gg,i  
+Emission factor for stratum i for methane, g kg-1 dry matter burnt; 25 
+GWPCH4  
+Global warming potential for CH4 (IPCC default: 21), tCO2e tCH4 
+-1; 
+i 
+1, 2, 3 …M strata; and 
+t 
+1, 2, 3, … t* years elapsed since the start of the IFM project activity. 
+The average aboveground biomass stock present in the project scenario, but absent in the 
+baseline scenario before burning for a particular stratum must be calculated as: 
+𝐵𝑖,𝑡|𝑃𝑅𝐽= ∑𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+𝑗
+× 𝐵𝐶𝐸𝐹𝑅 
+(34) 
+Where:  
+Bi,t|PRJ  
+Average aboveground biomass stock present in the project scenario but absent in 
+the baseline before burning for stratum i, time t, t d. m. ha-1; 
+VEX,j,i|BSL 
+Mean volume of extracted timber per unit area for species j in stratum i, m3·ha-1; 
+ 
+23 See Section 9.1 for information on data selection. 
+24 See Section 9.1 for information on data selection. 
+25 See Section 9.1 for information on data selection. 
+  
+ 
+VM0010, v1.4

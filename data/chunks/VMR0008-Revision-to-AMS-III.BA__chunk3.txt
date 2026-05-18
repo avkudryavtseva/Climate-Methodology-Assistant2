@@ -1,0 +1,17 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+The CDM methodology AMS-III.BA. comprises activities for the collection and recycling of E-
+waste performed in dedicated facilities with the aim of recovering materials such as ferrous 
+metals, nonferrous metals, and plastics. E-waste contains rare and precious metals that require 
+specific technologies to extract and refine them. These materials are recovered and processed 
+into secondary materials, thus displacing the production of virgin materials, resulting in energy 
+savings and reduced greenhouse gas emissions.  
+This methodology revision integrates a discount factor to account for uncertainty about the 
+displacement of production of virgin materials caused by the project activity.  
+This methodology must be used with the latest version of AMS-III.BA. The procedures and 
+requirements of AMS-III.BA. must be applied unless indicated otherwise.

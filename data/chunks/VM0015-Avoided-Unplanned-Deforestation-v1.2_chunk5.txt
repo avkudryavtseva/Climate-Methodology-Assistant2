@@ -1,0 +1,288 @@
+6 BASELINE SCENARIO 
+6.1 
+Determination of the Most Plausible Baseline Scenario 
+Determination of the most plausible baseline scenario builds on the outcome of the 
+additionality analysis (Section 7) and must be consistent with the description of conditions prior 
+to the project start date. VT0001 must be used to assess the project additionality. The stepwise 
+approach below must be followed in addition to VT0001 to determine the most plausible 
+baseline scenario.   
+Step A: Reuse the plausible alternative land use scenarios to the REDD project activity that 
+have been listed as an outcome of Sub-step 1b of the additionality tool VT0001.   
+Unless it has been demonstrated that any of these land use scenarios are not credible or do 
+not comply with all mandatory applicable legislation and regulations as required by VT0001 
+Sub-step 1b, the list of plausible alternative land use scenarios must include at least:  
+1) Continuation of the pre-project land use;  
+2) Project activity performed on the land within the project boundary without being 
+registered as a VCS REDD project; and  
+3) Activities similar to the proposed project activity on at least part of the land within the 
+project boundary of the proposed REDD project.  
+ 
+VM0015, v1.2 
+ 
+27 
+Step B(1): Where the VT0001 barrier analysis is used to demonstrate additionality, apply the 
+decision tree in Figure 4 to the list of all alternative land use scenarios from Step 1 that are not 
+prevented by any barrier.   
+Figure 4: Barrier Analysis Decision Tree 
+ 
+Step B(2): Where the VT0001 investment analysis is used to demonstrate additionality, and if at 
+least one land use scenario generates financial benefits other than carbon revenues, select the 
+baseline scenario as below:   
+1) Where VT0001 Option I is used, the baseline scenario is the land use scenario with the 
+lowest costs over the crediting period). Option I may only be applied where the 
+alternative scenarios do not include revenues.   
+2) Where VT0001 Option II is used, the baseline scenario is the most economically or 
+financially attractive land use scenario (i.e., the scenario with the most favorable 
+financial indicator such as internal rate of return).  
+3) Where VT0001 Option III is used and none of the alternative land use scenarios have a 
+financial indicator that meets the benchmark, the baseline scenario is the continuation 
+of the pre-project land use. Where Option III is used and at least one of the land use 
+scenarios has a financial indicator that meets the benchmark, the baseline scenario is 
+the scenario that has the most favorable financial indicator (e.g., internal rate of return, 
+net present value or cost-benefit ratio).  
+ 
+VM0015, v1.2 
+ 
+28 
+Step C: Where barrier analysis is used to demonstrate additionality but does not allow 
+determination of the baseline scenario, implement one of the following:  
+1) An investment analysis following VT0001 Option II (regardless of whether it has been 
+used to demonstrate additionality). Select the most plausible baseline as specified in 
+Step B(2) above; or  
+2) Through qualitative analysis, estimate the baseline GHG emissions for each alternative 
+land use scenario that is not prevented by any barrier. The baseline scenario is the land 
+use scenario that allows for the lowest baseline GHG emissions. Estimates must be 
+based on publicly available default factors and standards, such as the IPCC 2006 
+Guidelines for National GHG Inventories and its 2019 Refinements or the IPCC 2003 
+Good Practice Guidelines for LULUCF. All other data used must be publicly available and 
+must come from recognized, credible sources, such as peer-reviewed literature.    
+Quantification of GHG emissions under the selected baseline scenario must follow the 
+applicable and relevant activity-type module(s).  
+6.2 
+Description of Baseline Scenario (Step 2): Analysis of Agents, Drivers 
+and Underlying Causes of Deforestation and Their Likely Future 
+Development 
+Once the most plausible baseline scenario is determined, it must be described through a 
+detailed analysis of the agents, proximate causes, drivers and underlying causes of 
+deforestation.10 
+Understanding “who” is deforesting and what drives their decision is necessary to understand 
+the risk of activity-shifting leakage and to design effective measures to address deforestation. 
+The analysis of agents and drivers of deforestation is also key to estimate the quantity and 
+location of future deforestation. For example, the analysis must be referenced when selecting 
+the approach to project future deforestation quantity (Section 8.1.3.1) and the variables to be 
+included in the spatialization model (Section 8.1.3.20). 
+The analysis described in this section must be summarized in the PD.  
+The baseline scenario description must be supported by evidence such as existing studies, 
+maps (including the jurisdictional forest cover benchmark map (FCBM) and risk map), expert 
+consultations, field surveys (such as participatory rural appraisal) and other verifiable sources 
+of information.  
+Notwithstanding other rules and requirements, the most plausible baseline scenario described 
+in this section must at minimum be consistent with and referred to when describing the 
+ 
+10 See Angelsen and Kaimowitz (1999) and Chomitz et al. (2006) for comprehensive analysis of deforestation agents 
+and drivers. 
+ 
+VM0015, v1.2 
+ 
+29 
+conditions prior to project initiation, identifying the stakeholders to be engaged and consulted, 
+delineating the reference region (Section 5.1.1), selecting carbon pools and estimating the 
+post-deforestation carbon stocks (Sections 5.3, 5.4 and 8.1.5), delineating the leakage belt 
+(Section 5.1.3), quantifying the risk of leakage (Section 8.3), estimating ex ante project 
+effectiveness at reducing deforestation (Section 8.2.1.1) and assessing the non-permanence 
+internal and external risks following the most recent version of the VCS AFOLU Non-
+Permanence Risk Tool.  
+6.2.1 Identification of Deforestation Agents 
+Identify the main groups of deforestation agents (e.g., farmers, ranchers, loggers) and their 
+relative importance (i.e., the amount of historical LU/LC change that may be attributed to each). 
+Use existing studies, the maps prepared in Step 3 (Section 8.1.1.4), expert consultations, field-
+surveys and other verifiable sources of information, as needed. 
+It may be possible to determine the relative importance of each agent from the LU/LC change 
+matrix developed in Section 8.1.1.4, since each agent usually converts forests for a specific 
+purpose (e.g., cattle ranching, cash-crop production, subsistence farming). 
+Where the relative importance of different agents is spatially correlated (e.g., small farmers are 
+concentrated in hill areas and ranchers on plains), it may be useful to stratify the reference 
+region, the project area and the leakage belt accordingly (in IRR strata), and to continue the 
+baseline assessment for each stratum i separately in order to increase projection accuracy. 
+For each identified agent group, provide the following information: 
+1) Name of the main agent group or agent; 
+2) Brief description of the main social, economic, cultural and other relevant features of 
+each main agent group. Limit the description to aspects that are relevant to understand 
+why the agent group deforested the reference region during the historical reference 
+period and why it is expected to deforest the project area during the baseline validity 
+period; 
+3) Brief assessment of the most likely changes in population size of the identified main 
+agent groups in the reference region, project area and leakage belt; 
+4) Statistics on historical deforestation attributable to each main agent group in the 
+reference region, project area and leakage belt. 
+6.2.2 Identification of Deforestation Drivers 
+For each identified agent group, analyze factors that drive their land use decisions. The goal is 
+to identify the immediate causes of deforestation. 
+Two sets of driver variables must be distinguished: 
+1) Driver variables explaining the quantity (hectares) of deforestation (to be used in 
+Sections 8.1.3.1 and 8.1.3.20, as appropriate), such as: 
+ 
+VM0015, v1.2 
+ 
+30 
+a) Prices of agricultural products; 
+b) Costs of agricultural inputs; 
+c) Population density; and 
+d) Rural wages. 
+2) Driver variables explaining the location of deforestation, also called “predisposing 
+factors” (de Jong 2007; to be used in Section 8.1.3.20), such as: 
+a) Access to forests (such as vicinity to existing roads, railroads, navigable rivers 
+and coastal lines); 
+b) Slope; 
+c) Proximity to markets; 
+d) Proximity to existing or industrial facilities (e.g., sawmills, pulp and paper mills, 
+agricultural products processing facilities); 
+e) Proximity to forest edges; 
+f) Proximity to existing settlements; 
+g) Spatial variables indicating availability within the forest of land with good 
+ecological conditions to expand agricultural activities, such as soil fertility and 
+rainfall; and 
+h) Management category of the land (e.g., national park, indigenous reserve). 
+For each of these two sets of variables: 
+3) List the one to five key driver variables and provide any relevant source of information 
+that provides evidence that each of the identified variables has been a driver of 
+deforestation in the reference region during the historical reference period and is 
+expected to be a driver of deforestation in the project area during the baseline validity 
+period. 
+4) Briefly describe for each main agent group identified in Section 6.2.1 how the key 
+driver variables have and will most likely impact each agent group’s decision to 
+deforest. 
+5) For each identified key driver variable, provide information about its likely future 
+development by providing any relevant source of information. 
+6) For each identified driver variable, briefly describe the project measures that will be 
+implemented to address them,11 where applicable. 
+6.2.3 Identification of Underlying Causes of Deforestation 
+The agents’ characteristics and decisions are themselves determined by broader forces, the 
+underlying causes of deforestation, such as: 
+a) Land-use policies and their enforcement; 
+b) Population pressure; 
+ 
+11 This does not apply to spatial variables such as slope and elevation. 
+ 
+VM0015, v1.2 
+ 
+31 
+c) Poverty and wealth; 
+d) War and other types of conflicts; and 
+e) Property regime. 
+1) List the one to five key underlying causes and cite any relevant source of information 
+that provides evidence that the identified variables have been an underlying cause of 
+deforestation during the historical reference period. 
+2) Briefly describe how each key underlying cause has determined and will most likely 
+determine the key drivers identified in Section 6.2.2 and the decisions of the main 
+agent groups identified in Section 6.2.1. 
+3) For each identified key underlying cause, provide information about its likely future 
+development by citing any relevant source of information. 
+4) For each identified underlying cause, describe the project measures that will be 
+implemented to address them, where applicable.  
+6.2.4 Analysis of Chain of Events Leading to Deforestation 
+Based on the historical evidence collected, analyze the relationships between the main agent 
+groups, key drivers and underlying causes and explain the sequence of events that has typically 
+led to deforestation in the reference region during the historical reference period and will likely 
+lead to future deforestation in the project area during the baseline validity period. Consult local 
+experts, literature and other sources of information as necessary. Briefly summarize the results 
+of this analysis in the PD. 
+6.2.5 Conclusion 
+The analysis of agents and drivers of deforestation must conclude with a statement about 
+whether the evidence available about the most likely future deforestation trend in the reference 
+region and project area is inconclusive or conclusive.   
+“Conclusive” evidence in this methodology means that the hypothesized relationships between 
+agent groups, driver variables, underlying causes and historical levels of deforestation are 
+verifiable through statistical tests, desk studies or other verifiable sources of information, such 
+as documented information provided by local experts, communities, deforestation agents and 
+other groups with good knowledge about the project area and the reference region. 
+Where multiple agents and drivers are present, the evidence obtained for each must be 
+“conclusive” to allow a “conclusive” decision overall. 
+Where the evidence is conclusive, describe the most plausible baseline scenario and state 
+whether the weight of the available evidence suggests that the overall trend in future baseline 
+deforestation rates will be decreasing, approximately constant or increasing. 
+Use the outcome of the analysis to select the approach to project future deforestation quantity 
+(Section 8.1.3). 
+ 
+VM0015, v1.2 
+ 
+32 
+Where the evidence is inconclusive and the historical deforestation trend is decreasing or 
+roughly constant, additional analysis must be carried out such as more literature reviews, 
+expert consultations and additional field surveys, until conclusive evidence on the most likely 
+future deforestation trend is found. Where the historical deforestation trend is increasing and 
+the evidence is inconclusive, the deforestation rate used in the projections must be the average 
+historical rate (see Section 8.1.3.1). Alternatively, additional analysis may be carried out until 
+conclusive evidence is found. 
+Where different strata have been considered in the analysis, a conclusion and statement of 
+trend must be provided for each stratum. For a conservative baseline projection, the project 
+proponent must consider that the agents and drivers of deforestation are realistic and 
+conservative in all scenarios, based on published and reliable data, and consistent with existing 
+on-the-ground actions and enforced laws aimed at avoiding deforestation, such as effective 
+surveillance and law enforcement.  
+6.3 
+Revisiting Baseline Projections for Future Baseline Validity Period 
+Regardless of the approach chosen to establish them, baselines must be revisited over time 
+because agents, drivers and underlying causes of deforestation change dynamically. Frequent 
+and unpredictable updating of the baseline may create serious market uncertainties. Therefore, 
+the baseline must be revisited as set out in the most recent version of the VCS Standard. 
+Where an applicable sub-national or national jurisdictional baseline becomes available, 
+baselines may be reassessed earlier in accordance. Tasks involved in reassessing the baseline 
+are: 
+1) Update information on agents, drivers and underlying causes of deforestation (Section 
+6.3.1). 
+2) Adjust the land use and land cover change component of the baseline (Section 6.3.2). 
+3) Adjust, as needed, the carbon component of the baseline (Section 6.3.3). 
+6.3.1 Update Information on Agents, Drivers and Underlying Causes of Deforestation 
+Information on agents, drivers and underlying causes of deforestation in the reference region 
+must be collected periodically, as these are essential for improving future deforestation 
+projections and the design of the project activity. 
+1) Collect information that is relevant to understand deforestation agents, drivers and 
+underlying causes. 
+2) Redo Step 2 (Section 6.2) at the beginning of each baseline validity period. 
+3) Where a spatial model was used to locate future deforestation, new data on the spatial 
+driver variables used to model the deforestation risk must be collected as they become 
+available. These must be used to create updated spatial datasets and new “Factor 
+Maps” for the subsequent baseline validity period. 
+ 
+VM0015, v1.2 
+ 
+33 
+6.3.2 Adjust the Land Use and Land Cover Change Component of the Baseline 
+6.3.2.1 Adjustment of Annual Areas of Baseline Deforestation 
+At the end of each baseline validity period, the projected annual areas of baseline deforestation 
+for the reference region must be reassessed and eventually adjusted for the subsequent 
+baseline validity period. The adjusted baseline rates must be submitted to a VVB.  
+Adjustments must be made using the processes described in this methodology and the data 
+obtained from monitoring LU/LC changes in the reference region during the previous baseline 
+validity period, updated information on deforestation agents, drivers and underlying cases of 
+deforestation and, where applicable, any updated information on the variables included in the 
+estimation of the projected areas of baseline deforestation. For this assessment, the historic 
+reference period is extended to include the original reference period and all subsequent 
+monitoring periods up to the beginning of the current monitoring period. 
+6.3.2.2 Adjustment of Projected Baseline Deforestation Location 
+Using the adjusted projections for annual areas of baseline deforestation and any improved 
+spatial data for the creation of factor maps included in the spatial model, the location of 
+projected baseline deforestation must be reassessed using the methods explained in this 
+methodology.  
+All areas credited for avoided deforestation in past baseline validity periods must be excluded 
+from the reassessed baseline projections as these areas must not be credited again. To 
+perform this exclusion, use the map of “cumulative areas credited” that was updated in all 
+previous verification events. 
+Note – where the boundary of the leakage belt area was assessed using Eq. (1) or any other 
+spatial model, the boundary of the leakage belt must be reassessed at the end of each 
+baseline validity period using the same methodological approaches as in the first period. This 
+is required until monitoring of leakage becomes unnecessary.12 
+6.3.3 Adjustment of the Carbon Component of the Baseline 
+Adjusting the carbon component of the baseline is not necessary in most cases (see Sections 
+8.2.2.3 and 8.2.2.4 for more detailed guidance). However, improved carbon stock data are 
+likely to become available over time and must be used when reassessing baseline projections. 
+Methods to measure and estimate carbon stocks are described in Appendix 3. 
+ 
+12 Monitoring of leakage becomes obsolete at the date on which another VCS or UNFCCC registered (and VCS-endorsed) 
+program is monitoring, reporting, verifying and accounting emissions from deforestation in a broader area 
+encompassing the project area. 
+ 
+VM0015, v1.2 
+ 
+34

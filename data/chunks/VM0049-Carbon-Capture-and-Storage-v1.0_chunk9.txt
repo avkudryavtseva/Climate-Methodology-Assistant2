@@ -1,0 +1,331 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND CO2 REMOVALS 
+This section establishes overarching quantification approaches for reductions and removals. 
+The approaches and equations in the modules and tools listed in Section 1 relevant to the 
+project activity also apply. 
+8.1 Baseline Emissions 
+Baseline emissions are calculated using Equation (1): 
+𝐵𝐸𝑦= ∑𝑄𝐶𝑂2,𝑖𝑛𝑗𝑒𝑐𝑡𝑒𝑑,𝑖,𝑦
+𝑖
+−∑𝑄𝐶𝑂2,𝑛𝑜𝑛𝑉𝐶𝑆,𝑖𝑛𝑗𝑒𝑐𝑡𝑒𝑑,𝑖,𝑦
+𝑖
+    
+(1) 
+Where: 
+BEy 
+= 
+Baseline emissions in year y (t CO2e) 
+QCO2,injected,i,y 
+= 
+Mass of CO2 injected and monitored at injection point i in year y at the 
+storage site(s), calculated using the equations for QCO2,x in Section 8.1.1 
+(t CO2e) 
+QCO2,nonVCS,injected,i,y = 
+Mass of non-VCS CO2 injected at injection point i in year y at the storage 
+site(s), calculated using the equations for QCO2,x in Section 8.1.1 and the 
+most recent version of VT00XX Accounting Non-VCS CO2 in CCS Projects;3 
+equal to zero where no non-VCS CO2 enters the project boundary (t CO2e) 
+ 
+3 Includes any CO2 streams originating at capture facilities for which a valid baseline scenario is not demonstrated. 
+ 
+VM0049, v1.0 
+ 
+16 
+8.1.1 Methods for CO2 Measurement 
+This subsection provides methods and guidance4 for measuring the amount of CO2 injected for 
+safe and permanent storage. The same methods apply for measuring the amount of CO2 
+captured, transported, received, and leaving the project boundary as applicable. 
+Flow measurements must be performed using either volumetric flow meters or mass flow 
+meters. For supercritical phase CO2, the total volumetric flow measurement can be inaccurate 
+due to impurities. To determine the amount of supercritical CO2, the project proponent must 
+either use a mass flow meter while measuring the concentration of all impurities in the stream 
+that are greater than 0.25% (2500 ppm) by mole fraction, or use a volumetric flow meter while 
+measuring the density and concentration of CO2 in the stream. The cumulative mole fraction of 
+all neglected impurities must not exceed a 2% threshold. 
+Option 1: Measurement Based on Total Mass Flow 
+To determine the quantity of CO2 using total mass flow measurements, the project proponent 
+must multiply the total mass flow by the concentration of CO2 in that flow as per Equation (2).  
+𝑄𝐶𝑂2,𝑥= 𝐹𝑅𝑚𝑎𝑠𝑠,𝑥× %𝐶𝑂2𝑚𝑎𝑠𝑠,𝑥  
+(2) 
+Where: 
+QCO2,x 
+= Mass of CO2 injected, captured, transported, received, or leaving the 
+project boundary measured at flow meter x (t CO2) 
+FRmass,x 
+= Total mass flow measured by mass flow meter x during the monitoring 
+period (tonnes) 
+%CO2mass,x 
+= Mass fraction of CO2 in flow at flow meter x (% mass) 
+The mass fraction used in Equation (2) must be derived from the mole fraction (XCO2) measured 
+by sampling as per Equation (3). 
+%𝐶𝑂2𝑚𝑎𝑠𝑠,𝑥= 𝑀𝐶𝑂2 × 𝑋𝐶𝑂2
+∑
+𝑀𝑘 × 𝑋𝑘
+𝑛
+𝑘=1
+ 
+(3) 
+Where: 
+MCO2 
+= Molar mass of CO2 (g/mol) 
+XCO2 
+= Mole fraction of CO2 in flow at flow meter x (% mole) 
+Mk 
+= Molar mass of component k (g/mol) 
+Xk 
+= Mole fraction of component k in flow at flow meter x (% mole) 
+ 
+4 Based on Section 3 of US EPA (2010). General Technical Support Document for Injection and Geologic Storage of CO2 
+under Subpart RR and UU of the GHGRP 
+ 
+VM0049, v1.0 
+ 
+17 
+n 
+= Number of components in the mixture with a mole fraction greater than 
+0.5% (5000 ppm), or for supercritical conditions greater than 0.25% 
+(2500 ppm) (unitless) 
+Option 2: Measurement Based on Total Volumetric Flow 
+Alternatively, a measured total volumetric flow and corresponding density may be used to 
+determine the CO2 mass for a project activity. This is achieved by multiplying the total 
+volumetric flow at standard temperature and pressure (STP)5 by the concentration of CO2 in the 
+flow and by the density of CO2 at STP as per Equation (4). 
+𝑄𝐶𝑂2,𝑥=  𝐹𝑅𝑣𝑜𝑙,𝑥(𝑆𝑇𝑃) × %𝐶𝑂2𝑣𝑜𝑙,𝑥(𝑆𝑇𝑃) × 𝜌𝐶𝑂2𝑥(𝑆𝑇𝑃)  
+(4) 
+Where: 
+QCO2,x 
+= Mass of CO2 injected, captured, transported, received, or leaving the 
+project boundary measured at flow meter x (t CO2) 
+FRvol,x(STP) 
+= Total volume measured by flow meter x at actual conditions during the 
+monitoring period and converted to STP conditions (m3) 
+%CO2vol,x(STP) 
+= Volumetric fraction of CO2 in flow at flow meter x at STP conditions 
+(% volume) 
+ρCO2x(STP) 
+= Density of CO2 at flow meter x at STP conditions (t CO2/m3) 
+The volumetric CO2 fraction must be derived from the mole fraction (XCO2) measured by 
+sampling and evaluated at STP, as shown in Equation (5). 
+%𝐶𝑂2𝑣𝑜𝑙,𝑥(𝑆𝑇𝑃) =
+𝑋𝐶𝑂2
+∑
+𝑋𝑘
+𝑛
+𝑘=1
+ 
+(5) 
+Where: 
+XCO2 
+= Mole fraction of CO2 in flow at flow meter x (% mole) 
+Xk 
+= Mole fraction of component k in flow at flow meter x (% mole) 
+n 
+= Number of components in the mixture with a mole fraction greater than 
+0.5% (5000 ppm), or for supercritical conditions greater than 0.25% 
+(2500 ppm) 
+Using the operating temperature and pressure, the actual volume of CO2 is converted into STP 
+conditions as per Equation (6).  
+𝐹𝑅𝑣𝑜𝑙,𝑥(𝑆𝑇𝑃) = 𝐹𝑅𝑣𝑜𝑙,𝑥(𝑃,𝑇) × 𝜌𝐶𝑂2𝑥(𝑃,𝑇)
+𝜌𝐶𝑂2𝑥(𝑆𝑇𝑃)
+ 
+(6) 
+Where: 
+FRvol,x(P,T) 
+= Total volume measured by flow meter x at actual conditions (m3)  
+ 
+5 STP must be selected and defined by the project proponent as per industry practice in their geographic location. 
+ 
+VM0049, v1.0 
+ 
+18 
+ρCO2x(P,T) 
+= Density of CO2 at actual conditions at flow meter x (t CO2/m3) 
+ρCO2x(STP) 
+= Density of CO2 at STP conditions at flow meter x (t CO2/m3) 
+8.2 Project Emissions 
+The overarching equation for project emissions is Equation (7):  
+𝑃𝐸𝑦= ∑𝑃𝐸𝐶𝑎𝑝,𝑐,𝑦
+𝑐
++ ∑𝑃𝐸𝑇𝑟𝑎,𝑡,𝑦
+𝑡
++ ∑𝑃𝐸𝑆𝑡𝑜,𝑠,𝑦
+𝑠
+  
+(7) 
+Where: 
+PEy 
+= Project emissions in year y (t CO2e) 
+PECap,c,y 
+= Project emissions from CO2 capture activity c in year y (t CO2e) 
+PETra,t,y 
+= Project emissions from CO2 transport activity t in year y (t CO2e) 
+PESto,s,y 
+= Project emissions from CO2 storage activity s in year y (t CO2e) 
+Quantification procedures for project emissions from capture, transport, and storage are 
+established under the respective modules listed in Section 1. 
+8.3 Leakage Emissions 
+The overarching equation for leakage emissions is Equation (8):  
+𝐿𝐸𝑦= ∑𝐿𝐸𝐶𝑎𝑝,𝑐,𝑦
+𝑐
++ ∑𝐿𝐸𝑇𝑟𝑎,𝑡,𝑦+
+𝑡
+∑𝐿𝐸𝑆𝑡𝑜,𝑠,𝑦
+𝑠
+  
+(8) 
+Where: 
+LEy 
+= 
+Leakage emissions in year y (t CO2e) 
+LECap,c,y 
+= 
+Leakage emissions from CO2 capture activity c in year y (t CO2e) 
+LETra,t,y 
+= 
+Leakage emissions from CO2 transport activity t in year y (t CO2e) 
+LESto,s,y 
+= 
+Leakage emissions from CO2 storage activity s in year y (t CO2e) 
+Quantification procedures for leakage emissions from capture, transport, and storage are 
+established under the respective modules listed in Section 1. 
+8.4 Estimated GHG Emission Reductions and Carbon Dioxide Removals 
+Reductions or removals are generally calculated as per Equation (9): 
+𝐸𝑅𝑦= (𝐵𝐸𝑦−𝑃𝐸𝑦−𝐿𝐸𝑦) × (1 −𝐷𝐹)  
+(9) 
+Where: 
+ERy 
+= 
+Total net reductions or removals in year y (t CO2e) 
+BEy 
+= 
+Baseline emissions in year y as calculated in Equation (1) (t CO2e) 
+ 
+VM0049, v1.0 
+ 
+19 
+PEy 
+= 
+Project emissions in year y as calculated in Equation (7) (t CO2e) 
+LEy 
+= 
+Leakage emissions in year y as calculated in Equation (8) (t CO2e) 
+DF 
+= 
+Discount factor for conservativeness calculated in Equation (13) (%) 
+Projects that achieve both reductions and removals must use the most recent version of 
+VT00XX Differentiating Reductions and Removals in CCS Projects. In such cases, Equation (9) 
+is replaced by Equations (10), (11), and (12).  
+𝐸𝑅𝑦= 𝐸𝑅𝐶𝐴𝑃𝑅,𝑦+ 𝐸𝑅𝐶𝐴𝑃𝐸,𝑦 
+(10) 
+𝐸𝑅𝐶𝐴𝑃𝑅,𝑦= (𝐵𝐸𝐶𝐴𝑃𝑅,𝑦− ∑𝑃𝐸𝐶𝐴𝑃𝑅,𝑔,𝑦
+𝑔
+− ∑𝐿𝐸𝐶𝐴𝑃𝑅,𝑔,𝑦
+𝑔
+) × (1 −𝐷𝐹) 
+(11) 
+𝐸𝑅𝐶𝐴𝑃𝐸,𝑦= (𝐵𝐸𝐶𝐴𝑃𝐸,𝑦 − ∑𝑃𝐸𝐶𝐴𝑃𝐸,𝑔,𝑦
+𝑔
+− ∑𝐿𝐸𝐶𝐴𝑃𝐸,𝑔,𝑦
+𝑔
+) × (1 −𝐷𝐹) 
+(12) 
+Where: 
+ERCAPR,y 
+= 
+Removals in year y (t CO2e) 
+ERCAPE,y 
+= 
+Reductions in year y (t CO2e) 
+BECAPR,y 
+= 
+Baseline emissions associated with removals in year y as calculated in 
+Section 5 of VT00XX Differentiating Reductions and Removals in CCS 
+Projects (t CO2e) 
+PECAPR,g,y 
+= 
+Project emissions from segment g in year y associated with removals as 
+calculated in Section 5 of VT00XX Differentiating Reductions and Removals 
+in CCS Projects (t CO2e) 
+LECAPR,g,y 
+= 
+Leakage emissions from segment g in year y associated with removals as 
+calculated in Section 5 of VT00XX Differentiating Reductions and Removals 
+in CCS Projects (t CO2e) 
+BECAPE,y 
+= 
+Baseline emissions associated with reductions in year y as calculated in 
+Section 5 of VT00XX Differentiating Reductions and Removals in CCS 
+Projects (t CO2e) 
+PECAPE,g,y 
+= 
+Project emissions from segment g in year y associated with reductions as 
+calculated in Section 5 of VT00XX Differentiating Reductions and Removals 
+in CCS Projects (t CO2e) 
+LECAPE,g,y 
+= 
+Leakage emissions from segment g in year y associated with reductions as 
+calculated in Section 5 of VT00XX Differentiating Reductions and Removals 
+in CCS Projects (t CO2e) 
+DF 
+= 
+Discount factor for conservativeness calculated in Equation (13) (%) 
+ 
+8.5 
+Uncertainty 
+This methodology allows project proponents to develop projects using a combination of capture, 
+transportation and storage activities and each may have a different level of inherent 
+uncertainty. As such, the process for determining the uncertainty associated with each project 
+activity is defined in the relevant module under the methodology.  
+ 
+VM0049, v1.0 
+ 
+20 
+8.5.1 Identification and Assessment of Uncertainties  
+For modules that require the project proponent to assess uncertainty, that assessment must 
+follow the steps below. 
+Step 1: Identify Potential Sources of Uncertainty 
+Examine all steps in the GHG calculation process to identify potential sources of uncertainty, 
+including measurement errors, model assumptions, and data quality issues. 
+Step 2: Calculation of Overall Uncertainty (Uoverall) 
+The project proponent must calculate the overall uncertainty in the volume of net reductions 
+and removals using one of the following approaches. 
+• 
+Error Propagation: Use error propagation equations to combine uncertainties from 
+various data sources and measurement errors. Project proponents may follow Volume 
+1, Chapter 3, Section 3.2.3.1 in IPCC (2006) to estimate overall uncertainty.  
+• 
+Monte Carlo Simulations: Employ Monte Carlo simulations for more complex or 
+interdependent data sources to model the probability distributions of inputs and 
+calculate the resulting distribution of the emission estimates. This technique is 
+beneficial when dealing with non-linear relationships or when input variables are not 
+independent. 
+Step 3: Calculation of Discount Factor (DF) 
+The project proponent must apply a discount factor to the calculated net reductions and 
+removals. The discount factor is identified as follows:  
+1) Where the overall uncertainty calculated in Step 2 is unlikely to exceed 10%, the 
+discount factor may be estimated to be zero. 
+2) Where the overall uncertainty calculated in Step 2 is likely to exceed 10%, the discount 
+factor must be calculated with the following equation. 
+𝐷𝐹= 𝑈𝑂𝑣𝑒𝑟𝑎𝑙𝑙
+𝑡𝛼=10%
+× 𝑥 𝑡𝛼=66.6% 
+(13) 
+Where: 
+DF 
+= 
+Discount factor for conservativeness (%) 
+Uoverall 
+= 
+Overall uncertainty (%) 
+tα=10% 
+= 
+t-value for a two-sided 90% confidence interval, equal to (1.6449) 
+tα=66.690% 
+= 
+t-value for a one-sided 66.67% confidence interval, equal to 
+(0.4307) 
+ 
+ 
+VM0049, v1.0 
+ 
+21

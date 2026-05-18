@@ -1,0 +1,195 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary (Figure 1) encompasses the geographic area where: 
+1) Initial waste biomass is sourced; 
+2) Waste biomass is treated through eligible thermochemical technologies for the purpose 
+of biochar production; and 
+3) The final application of biochar in soils or non-soils occurs. 
+ 
+VM0044, v1.2 
+ 
+15 
+ 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 2 
+below. 
+Table 2. GHG sources included in or excluded from the project boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Feedstock production 
+CO2 
+No 
+Excluded. Waste biomass is 
+considered renewable per 
+eligibility conditions. 
+CH4 
+No 
+N2O 
+No 
+Feedstock transportation 
+CO2 
+Yes 
+Only CO2 considered as per 
+CDM TOOL12. 
+CH4 
+No 
+Expected to be de minimis if 
+distance between sourcing site 
+and production facility is less 
+than 200 kilometers.  
+N2O 
+No 
+CO2 
+No 
+Possible emissions from decay 
+or combustion of biomass in 
+CH4 
+No 
+Waste Biomass 
+Sourcing Stage 
+ 
+Production Stage 
+ 
+Application Stage 
+Agricultural waste 
+biomass. 
+Food processing 
+residues. 
+Forestry and other 
+wood processing. 
+Recycling economy. 
+Aquaculture plants. 
+Animal manure. 
+High-carbon fly ash. 
+ Feedstock pre-treatment 
+ Biochar processing 
+High technology 
+production 
+facility. 
+Low technology 
+production 
+facility. 
+Soil application. 
+Non-soil 
+applications.  
+Figure 1. Project boundary 
+ 
+VM0044, v1.2 
+ 
+16 
+Combustion, aerobic and 
+anaerobic decomposition 
+of feedstocks 
+N2O 
+No 
+the absence of project activity 
+are excluded. Baseline 
+emissions are assumed to be 
+zero (a conservative 
+assumption). 
+Project 
+Feedstock production 
+CO2 
+No 
+Purpose-grown crops are 
+ineligible, hence there are no 
+emissions from feedstock 
+production. Waste biomass is 
+also considered renewable per 
+the CDM renewable biomass 
+definition (EB23 Annex 18) and 
+applicability conditions (see 
+Table 1). 
+CH4 
+No 
+N2O 
+No 
+Pyrolysis, or 
+thermochemical 
+conversion (high 
+technology systems) 
+CO2 
+No 
+High technology systems 
+require pollution controls 
+(including avoidance of 
+greenhouse gas emissions) and 
+compliance with the technology 
+criteria. 
+CH4 
+No 
+N2O 
+No 
+Pyrolysis, or 
+thermochemical 
+conversion (low 
+technology systems) 
+CO2 
+No 
+Low technology systems are 
+provided a default emission 
+value based on published 
+literature (Cornelissen et al., 
+2016). 
+CH4 
+Yes 
+N2O 
+No 
+Electricity and/or fossil 
+fuels consumed during 
+eligible thermochemical 
+process 
+CO2 
+Yes 
+Included. Emissions associated 
+directly with project activity. 
+CH4 
+No 
+Excluded as per provisions of 
+CDM TOOL03 and TOOL05.  
+N2O 
+No 
+Biochar transportation 
+CO2 
+Yes 
+Only CO2 considered as per 
+CDM TOOL12. 
+CH4 
+No 
+Expected to be de minimis if 
+distance between production 
+facility and end-use destination 
+is less than 200 kilometers. 
+N2O 
+No 
+Pre-treatment of 
+feedstocks (e.g., grinding, 
+drying) 
+CO2 
+Yes 
+Included. Emissions associated 
+directly with project activity. 
+CH4 
+No 
+Excluded as per provisions of 
+CDM TOOL03 and TOOL05. 
+N2O 
+No 
+Biochar application (e.g., 
+preparation of biochar for 
+final use) 
+CO2 
+Yes 
+Included. Emissions associated 
+directly with project activity. 
+CH4 
+No 
+ 
+VM0044, v1.2 
+ 
+17 
+N2O 
+No 
+Excluded as per provisions of 
+CDM TOOL03 and TOOL05.

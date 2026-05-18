@@ -1,0 +1,126 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary encompasses: 
+• 
+the aggregation facility 
+• 
+transportation from the aggregation facility to the destruction facility 
+• 
+the destruction facility 
+ 
+The GHGs included in or excluded from the project boundary are shown in Table 1. 
+Table 1. GHG sources accounted for in the project boundary 
+ 
+Source/Sink 
+Type 
+Gas 
+Included? 
+Justification/Explanation 
+Baselin
+e
+Venting refrigerant from 
+domestic refrigerators/ 
+freezers/air conditioning 
+Source 
+CFC, HCFC, 
+or HFC 
+Yes 
+Main emission source 
+ 
+ODS or HFC 
+Aggregation 
+Facility 
+Transport 
+ODS or HFC 
+Destruction 
+Facility 
+Project boundary  
+VM0016, v2.0 
+12 
+Venting blowing agent from 
+domestic refrigeration 
+insulation foam 
+Source 
+CFC, HCFC, 
+or HFC 
+Yes 
+Main emission source 
+Venting fire suppression agent 
+from fire suppression 
+equipment 
+Source 
+CFC, HCFC, 
+or HFC 
+Yes 
+Main emission source 
+Venting propellants from 
+discarded aerosol cans 
+Source 
+CFC, HCFC, 
+or HFC 
+Yes 
+Main emission source 
+Venting substances from 
+stockpile 
+Source 
+CFC HCFC, 
+or HFC  
+Yes 
+Main emission source 
+Project 
+On-site fossil fuel and 
+electricity consumption at 
+aggregation and destruction 
+facilities 
+Source 
+CO2 
+Yes 
+May be an important 
+emission source 
+CH4 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+N2O 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+Transportation of ODS or HFC 
+from aggregation facility to 
+destruction facility 
+Source 
+CO2 
+Yes 
+May be an important 
+emission source 
+CH4 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+N2O 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+Destruction of ODS or HFC 
+Source 
+CO2 
+Yes 
+Oxidation of the carbon 
+fraction in the ODS/HFC and 
+intact foam incineration. 
+May be an important 
+emission source 
+CH4 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+N2O 
+No 
+Excluded for simplification; 
+assumed to be de minimis 
+CFC, HCFC, 
+or HFC 
+Yes 
+ODS/HFC not destroyed due 
+to efficiency not being 
+100%. May be an important 
+emission source

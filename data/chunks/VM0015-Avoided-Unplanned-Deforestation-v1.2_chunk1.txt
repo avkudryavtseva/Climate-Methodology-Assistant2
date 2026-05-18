@@ -1,0 +1,23 @@
+1 SOURCES 
+This methodology is based on the draft project description for the “Reserva do Juma 
+Conservation Project” in Amazonas (Brazil), whose baseline study, monitoring and project 
+design documents were prepared by IDESAM, the Amazonas Sustainable Foundation (FAS) and 
+the Government of Amazonas (SDS/SEPLAN-AM), with inputs and review from a selected group 
+of experts and scientists in Brazil.  
+The methodology is an adaptation of the draft methodology for “mosaic deforestation” 
+developed by the BioCarbon Fund for the REDD project activity “Ankeniheny-Zahamena 
+Biological Corridor” in Madagascar, adapted to include all kinds of “unplanned deforestation.” 
+The Ankeniheny-Zahamena Biological Corridor baseline study, monitoring and project design 
+documents are prepared by the Ministry of the Environment, Water, Forests and Tourism of 
+Madagascar with the assistance of Conservation International and the International Bank for 
+Reconstruction and Development as Trustee of the BioCarbon Fund. 
+This methodology uses the latest versions of the following modules and tools: 
+• 
+VCS VT0001 Tool for the Demonstration and Assessment of Additionality in VCS 
+Agriculture, Forestry and Other Land Use (AFOLU) Project Activities 
+• 
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities 
+• 
+GOFC-GOLD A sourcebook of methods and procedures for monitoring and reporting 
+anthropogenic greenhouse gas emissions and removals caused by deforestation, gains 
+and losses of carbon stocks in forests remaining forests and forestation

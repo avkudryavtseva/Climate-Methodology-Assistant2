@@ -1,0 +1,3 @@
+5 PROJECT BOUNDARY 
+The project boundary must be determined following the procedure provided in the most recent 
+version of AMS-III.C. The term “vehicles” must be read as “vehicles and mobile machinery.”

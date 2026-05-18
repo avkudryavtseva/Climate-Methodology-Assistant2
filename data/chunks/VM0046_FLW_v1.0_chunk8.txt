@@ -1,0 +1,101 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. The project 
+proponent must apply the following steps. 
+Step 1: Demonstrate regulatory surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the latest version of the VCS Standard.  
+Step 2: Identify barriers that would prevent implementation of a practice that keeps food from 
+leaving the human supply chain 
+The project proponent must determine whether there are barriers (e.g., investment, institutional, 
+cultural, social) to the proposed activity’s adoption. The identified barriers are sufficient grounds 
+for demonstrating additionality only where they prevent potential project proponents from 
+carrying out the proposed project activity unless it is registered as a VCS project. 
+The project proponent must document and describe the barriers to implementation of a practice 
+that keeps food in the human supply chain. Such barriers may include the following, among 
+others:  
+1) Investment barriers, for example:  
+a) Similar activities in the region have been implemented only with grants or other 
+non-commercial finance terms; 
+b) The cost of discarding food is lower than the cost of keeping it in the human supply 
+chain; 
+c) Current economics limit adoption of new supply chains or other innovative projects 
+(e.g., upcycling FLW) because the consumer market is underdeveloped. 
+2) Institutional barriers, for example:  
+a) Lack of skilled and/or properly trained labor familiar with FLW tracking and 
+monitoring; 
+b) Disjointed markets, transport, and storage;  
+c) Overly strict quality standards for perishable items;  
+d) Food item expiry dates that do not accurately reflect edibility;  
+e) Established supply chain processes for efficiency/transport purposes are difficult 
+and expensive to break, thus discards are accepted as part of business/supply 
+chain process; 
+f) 
+Contractual/legal agreements related to the price and purchase of food. 
+3) Cultural and social barriers, for example:  
+a) Lack of motivating incentives to change practices;  
+b) Lack of visibility of the issue;  
+ 
+VM0046, v1.0 
+12 
+ 
+c) High aesthetic standards for produce and a consumer tendency to not purchase 
+suboptimal foods; 
+d) Activity is the “first of its kind”12, or no activity of this type is currently operational in 
+the host country or region (defined as within 200 km of project area). 
+The project proponent must provide documented evidence from an independent, third-party 
+source that demonstrates the existence of the identified barriers. The types of evidence may 
+include: 
+• 
+Peer-reviewed and/or published studies; 
+• 
+Relevant studies or surveys undertaken by universities, research institutions, NGOs, 
+companies, bilateral/multilateral institutions; or 
+• 
+Relevant statistical data from national or international statistics.  
+ 
+Anecdotal evidence may be included but alone is not sufficient proof of barriers. Guidance for the 
+objective demonstration of barriers to implementation of the project activity can be drawn from 
+Annex 13 of the CDM’s Guidelines for Objective Demonstration and Assessment of Barriers13. 
+ 
+Step 3: Demonstrate that adoption of the proposed project activity (or activities) is not common 
+practice 
+Unless the project activity was demonstrated to be “first of its kind” in Step 2, this step is 
+required.  
+The project proponent must determine whether the proposed project activity, or scope of 
+activities,14 are common practice in each region included within the project spatial boundary 
+(defined as encompassing the jurisdiction(s) where food ends up (the FLW destination) under the 
+baseline scenario, as well as the jurisdiction(s) where the recovered food is used or consumed as 
+a result of the project activities). Common practice is defined as greater than 20 percent 
+adoption rate15 in the applicable geographic area based on the amount of food being recovered 
+relative to the quantity wasted. 
+Common practice analysis must be completed based on the implementation of similar project 
+activities over the ten years immediately prior to the project start date (e.g., gleaning of surplus 
+produce) in: 
+1) the relevant stage in the supply chain (e.g., at the farm level, retail, etc.); 
+ 
+12 Drawing from CDM Methodological Tool 23: Additionality of first-of-its-kind project activities, a “first of its kind” activity 
+means the project is the first in the applicable geographic area to apply a technology that is different from technologies 
+implemented by any other projects that are able to deliver the same output and have started commercial operation in the 
+applicable geographic area before the project design document is published for stakeholder consultation or before the start 
+date of the proposed project activity. 
+13 https://cdm.unfccc.int/EB/050/eb50_repan13.pdf  
+14 This refers to all activities implemented across an aggregated project. 
+15 Based on the latest version of the CDM Methodological tool: Common practice.  
+ 
+VM0046, v1.0 
+13 
+ 
+2) the same region; and 
+3) at a similar scale as the project (defined as +/-50% of kg food diverted annually).  
+Evidence must be independent and provided in the form of publicly available information 
+contained in peer-reviewed scientific literature; independent research data; and/or reports or 
+assessments compiled by industry or trade associations. The highest quality available evidence 
+source appropriate to the project must be used. Evidence at the second order jurisdictional level 
+(i.e., state or province) where the project is being developed is preferred. Where supporting 
+evidence is not available at this level, aggregated data at a country or regional level may be used, 
+with justification.  
+A project proponent may include project instances where more than one activity to keep food 
+from leaving the human supply chain will be implemented at the same location.16 If this is the 
+case, the common practice assessment must be completed for each individual project activity 
+(unless the project activity was demonstrated to be “first of its kind” in Step 2).  
+Where the above steps are satisfied, the proposed project activity is additional.

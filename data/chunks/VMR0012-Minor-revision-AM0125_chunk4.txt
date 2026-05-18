@@ -1,0 +1,3 @@
+3 DEFINITIONS 
+The definitions in AM0125 and the latest version of the VCS Program Definitions apply to this 
+methodology unless this methodology or the VCS Program Definitions indicate otherwise.

@@ -1,0 +1,41 @@
+9 MONITORING 
+Project proponents must follow the monitoring procedures of the latest version of AM0125 and 
+apply the changes indicated in this section. 
+9.1 
+Data and Parameters Available at Validation 
+ 
+Data / Parameter 
+DF 
+Data unit 
+Dimensionless 
+Description 
+Discount factor for upstream displacement 
+Equations 
+(1) 
+Source of data 
+VCS Methodology Requirements, v4.4 
+ 
+VMR0012, v1.0 
+7 
+Value applied 
+30% 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The default value of 30% for upstream displacement was applied. 
+Project proponents may propose a methodology revision with a different 
+discount factor for upstream displacement in accordance with the 
+latest version of the VCS Methodology Requirements. 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+9.2 
+Data and Parameters Monitored  
+Project proponents must follow the procedure provided in the latest version of AM0125. 
+9.3 
+Description of the Monitoring Plan 
+All monitoring requirements of AM0125 must be followed unless otherwise indicated in 
+VMR0012.

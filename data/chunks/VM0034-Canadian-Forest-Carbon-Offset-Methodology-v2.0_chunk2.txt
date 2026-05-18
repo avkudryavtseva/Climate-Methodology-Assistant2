@@ -1,0 +1,199 @@
+2 
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Project method 
+Crediting Baseline 
+Project method 
+The methodology is designed to quantify the GHG reductions achieved by a range of project 
+activities including improved forest management, reforestation and avoided conversion activities 
+implemented in forests in Canada. The approach included in the methodology to quantify carbon 
+in forest carbon pools is based on the extensive scientific knowledge base which exists regarding 
+the dynamics of Canadian forest at the provincial level. This methodology specifically allows 
+users to select appropriate models and sampling protocols from a suite of well-established 
+models and monitoring methods covering the full range of forest activities and forest carbon pools 
+in the provinces of British Columbia (BC) and Quebec (QC). These models and protocols are well 
+calibrated for the range of forest ecosystems in these respective provinces, and are consistent 
+with national and Intergovernmental Panel on Climate Change (IPCC) standards.   
+Project proponents developing projects in other provinces of Canada must select appropriate 
+models and sampling protocols and demonstrate that they are well-calibrated for the range of 
+forest ecosystem of the relevant province, as well as to demonstrate their consistency with 
+national and IPCC standards10. 
+ 
+8 For more information, see http://forestcarbonstandards.org/home.html  
+9 IPCC,  2006 IPCC Guidelines for National GHG Inventories, Volume 4, Chapter 4: Forest Land, 2006 
+10 Any alternative model must meet the following minimum requirements: 
+• The model is scientifically sound, and has been peer reviewed in a process that: (i) primarily involved 
+reviewers with the necessary technical expertise (e.g., modeling specialists and relevant fields of 
+biology, forestry, ecology, etc.), and (ii) was open and rigorous; 
+• The model is based on empirical evidence, and has been parameterized and validated for the general 
+conditions of the project land area; 
+• Application of the model is limited to the scope for which the model was developed and evaluated; 
+• The model’s scope of application, assumptions, known equations, data sets, factors or parameters, 
+etc., are clearly documented; 
+• The models must provide accurate modelling of time dependent parameters such as decay, below 
+ground biomass and soil carbon changes, etc.  The model must not assume that such changes take 
+place instantaneously or within a short period of time.  
+In addition alternative models must consider the requirements set out in the VCS Methodology 
+Requirements, v4.0. 
+ 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 6 
+A wide range of practices and technologies are available for use in forest projects. This 
+methodology will not attempt to describe them here or restrict the applicability of the methodology 
+to specific practices or technologies. Instead, project proponents must clearly describe their 
+project and associated practices and technologies in a project description. 
+The steps to be undertaken in developing a project under this methodology are: 
+1. Determination of methodology applicability. 
+2. Determination of project eligibility under the VCS Standard. 
+3. Identification of the project boundary, including both the geographic boundary, and the 
+carbon pools and emission sources to be accounted. 
+4. Determination of the baseline scenario for the project. 
+5. Determination of whether the project meets the relevant criteria for the determination of 
+additionality. 
+6. Ex-ante estimation of the changes in carbon pools and GHG emissions under the 
+baseline scenario. Because the methodology requires updating of baselines for some 
+project categories, the ex-ante baseline estimates may or may not be updated ex-post 
+prior to later verification events. 
+7. Ex-ante estimation of the changes in carbon pools and GHG emissions under the project 
+scenario. Updating of the project estimates will be undertaken on an ex-post basis prior 
+to later verification events. 
+8. Ex-ante estimation of emissions due to leakage. 
+9. Summation of the estimated GHG benefits of the project. 
+10. Preparation of a monitoring plan. 
+2.1  
+GHG(s) Included in Methodology 
+This methodology focuses on enhancing sequestration of carbon dioxide by forests, reducing 
+carbon dioxide emissions from forests and forestry operations, and maintaining or increasing 
+stores of carbon in forest and wood product carbon pools.  Depending on project-specific 
+circumstances, comparatively small changes (either increases or decreases) in the emissions of 
+methane and nitrous oxide may also be realized. GHG sources are described in Table 1 below. 
+Table 1: GHG Sources included in this Methodology 
+GHG 
+Source/Sink 
+Included? 
+Explanation 
+CO2 
+  
+  
+Forest biomass 
+(living and dead) 
+Yes 
+Primary sink/source in the target project 
+activities 
+Soil carbon 
+Yes 
+Potential sink/source in many project activities 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 7 
+  
+Harvested wood 
+products 
+Yes 
+Potential sink/source in many project activities 
+Fossil fuel 
+combustion 
+Yes 
+Changes in emissions typically associated with 
+changes in management 
+CH4 
+  
+  
+Biomass 
+combustion 
+Conditionally 
+Where biomass burning occurs in the baseline 
+or project scenarios 
+Anaerobic 
+decomposition 
+Conditionally 
+Where anaerobic decomposition occurs as part 
+of the harvested wood product cycle 
+Fossil fuel 
+combustion 
+Yes 
+Changes in emissions typically associated with 
+changes in management 
+N2O 
+  
+  
+Biomass 
+combustion 
+Conditionally 
+Where biomass burning occurs in the baseline 
+or project scenarios 
+Fertilizers 
+Conditionally 
+Where changes in nitrogen fertilizer use occur 
+between the baseline and project scenarios 
+Fossil fuel 
+combustion 
+Yes 
+Changes in emissions typically associated with 
+changes in management 
+2.3  
+Methodology Flexibility 
+This methodology is applicable to a wide range of forest carbon projects. To facilitate this, the 
+following general flexibility mechanisms are included, with more detail on each provided in 
+appropriate sections of this methodology: 
+• 
+Specific project activities. A wide range of project activities are permitted, as long as 
+they fall within the general eligible project type categories described in this methodology. 
+• 
+Baseline scenario selection approach. For some project activities, flexibility is given in 
+the methodology with respect to the approach used to identify the baseline scenario. 
+• 
+Exclusion of sources, sinks and pools (SSPs). Where justified based on project and 
+baseline-specific details, project proponents may exclude some additional SSPs from 
+quantification beyond those excluded by default in the methodology. This would include 
+SSPs that are not present in the project and baseline for the specific project, emission 
+sources where project emissions are less than baseline emissions (this is a requirement 
+for related emission sources), or SSPs that can be demonstrated to be de minimis. 
+• 
+Forest carbon quantification approaches. This methodology allows project proponents 
+to choose appropriate forest carbon pool inventory, modeling, and/or other related 
+approaches from the options given, subject to meeting the requirements stipulated in this 
+methodology.   
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 8 
+• 
+Emission source quantification methods. For some emission sources, more than one 
+option is provided for quantification, with project proponents being free to choose the 
+method most suited to available data. 
+• 
+Project-specific emission factors and assumptions. Where justified, appropriately 
+documented, and permitted by the quantification methodologies provided in this 
+methodology, project-specific emission factors and assumptions may be used instead of 
+default references sources and/or factors noted in the methodology. 
+• 
+Assessing leakage. Various options are presented for project proponents to address 
+activity shifting and/or market leakage, as appropriate, for their projects. 
+• 
+Project-specific monitoring approaches. To account for the wide variety of potential 
+project applications, project-specific monitoring approaches may be used if justified and if 
+they conform to the general requirements stipulated in the methodology. 
+• 
+Project-specific data quality management approaches. To account for the wide 
+variety of potential project applications, project-specific data quality management 
+approaches are to be developed.  This methodology does not prescribe specific data 
+quality management approaches that must be followed. 
+• 
+Managing risk of reversal. Project proponents are able to develop their own detailed 
+approach to assessing and managing reversal risks, subject to the general requirements 
+stipulated in this methodology. 
+ 
+ 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 9

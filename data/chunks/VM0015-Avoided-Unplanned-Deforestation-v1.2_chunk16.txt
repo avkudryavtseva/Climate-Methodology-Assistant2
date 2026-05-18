@@ -1,0 +1,1750 @@
+98 
+EI 
+= Ex ante estimated Effectiveness Index (%) 
+t 
+= 1, 2, 3, …, T, a year of the proposed project crediting period (dimensionless) 
+Ex Ante Estimated Net Actual Carbon Stock Changes in the Project Area 
+Summarize the result of the previous assessments in Table 47. 
+Table 47: Ex Ante Estimated Net Carbon Stock Change in the Project Area Under the 
+Project Scenario 
+Project 
+year t 
+Total Carbon Stock 
+Decrease due to Planned 
+Activities 
+Total Carbon Stock 
+Decrease due to Unavoided 
+Unplanned Deforestation  
+Total Carbon Stock 
+Change in the 
+Project Case  
+Annual 
+Cumulative Annual 
+Cumulative 
+Annual Cumulative 
+CPAdPAt 
+CPAdPA 
+CUDdPAt 
+CUDdPA 
+CPSPAt CPSPA 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+8.2.1.2 Ex Ante Estimation of Actual Non-CO2 Emissions from Forest Fires 
+Where forest fires have been included in the baseline scenario, non-CO2 emissions from 
+biomass burning must be included in the project scenario. This is done by multiplying the 
+baseline emissions by the factor (1 − EI). The results are presented in Table 48. 
+𝐸𝐵𝐵𝑃𝑆𝑃𝐴𝑡=  𝐸𝐵𝐵𝐵𝑆𝑃𝐴𝑡× (1 − 𝐸𝐼)  
+ 
+ 
+ 
+ 
+ 
+(17) 
+Where: 
+EBBPSPAt 
+= Total ex ante actual non-CO2 emissions from forest fires due to unavoided  
+unplanned deforestation at year t in the project area (t CO2e) 
+EBBBSPAt 
+= Total non-CO2 emissions from forest fires at year t in the project area (t CO2e) 
+EI 
+= Ex ante estimated Effectiveness Index (%) 
+t 
+= 1, 2, 3, …, T, a year of the proposed project crediting period (dimensionless) 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+99 
+Table 48: Total Ex Ante Estimated Actual Emissions of Non-CO2 Gases Due to Forest Fires 
+in the Project Area 
+Project 
+year t 
+Total Ex Ante Estimated Actual Non-CO2 Emissions from Forest Fires in the 
+Project Area 
+EBBPSPAt 
+EBBPSPA 
+Annual 
+Cumulative 
+t CO2e  
+t CO2e  
+0 
+1 
+  
+  
+2 
+  
+  
+. . .  
+  
+  
+T 
+  
+  
+ 
+8.2.1.3 Total Ex Ante Estimations for the Project Area 
+ 
+Table 49: Total Ex Ante Estimated Actual Net Carbon Stock Changes and Emissions of 
+Non-CO2 Gases in the Project Area 
+Project 
+year t 
+Total Ex Ante 
+Carbon Stock 
+Decrease due to 
+Planned Activities 
+Total Ex Ante 
+Carbon Stock 
+Decrease due to 
+Unavoided 
+Unplanned 
+Deforestation 
+Total Ex Ante Net 
+Carbon Stock 
+Change 
+Total Ex Ante 
+Estimated Actual 
+Non-CO2 Emissions 
+from Forest Fires 
+in the Project Area 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+CPAdPAt CPAdPA 
+CUDdPAt CUDdPA 
+CPSPAt CPSPA 
+EBBPSPAt EBBPSPA 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+VM0015, v1.2 
+ 
+100 
+8.2.2 Ex Post Monitoring of Carbon Stock Changes and GHG Emissions Within the 
+Project Area 
+This task involves: 
+1) Monitoring of project implementation; 
+2) Monitoring of land use and land cover change; 
+3) Monitoring of carbon stocks and non-CO2 emissions; and 
+4) Monitoring of impacts of natural disturbances and other catastrophic events. 
+8.2.2.1 Monitoring Project Implementation 
+Project activities implemented within the project area should be consistent with the project 
+area management plans and the PD. All maps and records generated during project 
+implementation should be conserved and made available to the VVB at verification to 
+demonstrate that the AUD project activity has actually been implemented. 
+8.2.2.2 Monitoring Land Use and Land Cover Change Within the Project Area 
+Change categories subject to MRV are listed in Table 50. 
+Table 50: Categories Subject to MRV 
+ID 
+Type 
+Conditions under which 
+monitoring is mandatory 
+Explanation 
+I 
+Area of forest land 
+converted to non-forest land 
+Mandatory in all AUD project 
+activities 
+  
+II 
+Area of forest land 
+undergoing carbon stock 
+reductions 
+Mandatory only for AUD project 
+activities with planned logging, 
+fuel-wood collection and 
+charcoal production activities 
+above the baseline. 
+Change in carbon stock 
+must be significant 
+according to ex ante 
+assessment, otherwise 
+monitoring is not required. 
+III 
+Area of forest land 
+undergoing carbon stock 
+increases 
+Mandatory only for AUD project 
+activities wishing to claim 
+carbon credits for carbon stock 
+increase.  
+Increase must be significant 
+according to ex ante 
+assessment and may only 
+be accounted on areas that 
+are expected to be 
+deforested in the baseline 
+case. 
+ 
+Monitoring must be carried out by creating ex post tables of activity data per stratum (Table 9, 
+Table 10 and Table 11); per initial forest class icl (Table 13, Table 14 and Table 15); per post-
+deforestation zone z (Table 17, Table 18 and Table 19) and, where applicable, per category of 
+land use change ct (Table 20, Table 21 and Table 22) or ctz (Table 30, Table 31 and Table 32). 
+ 
+VM0015, v1.2 
+ 
+101 
+8.2.2.3 Monitoring of Carbon Stock Changes  
+In most cases, the ex ante estimated average carbon stocks per LU/LC class (or emission 
+factors per LU/LC change category) will not change during a baseline validity period and 
+monitoring carbon stocks will not be necessary. 
+However, monitoring carbon stocks is mandatory in the following cases: 
+1) Within the project area: 
+a) Areas subject to significant carbon stock decrease in the project scenario 
+according to the ex ante assessment. These are areas subject to controlled 
+deforestation and planned harvest activities, such as logging, fuel-wood 
+collection and charcoal production. In these areas, carbon stock changes must 
+be estimated at least once after each harvest event.  
+b) Areas subject to unplanned and significant carbon stock decrease (e.g., due to 
+uncontrolled forest fires and other catastrophic events). In these areas, carbon 
+stock losses must be estimated as soon as possible after the catastrophic 
+event. See Section 8.2.2.5 below for more detailed guidance. 
+2) Within leakage management zones: Areas subject to planned and significant carbon 
+stock decrease in the project scenario according to the ex ante assessment. In these 
+areas, carbon stocks must be estimated at least once after the planned event that 
+caused the carbon stock decrease. 
+ 
+Where carbon stocks are monitored, the methods for sampling and measuring carbon stocks 
+described in Appendix 3 must be used. 
+Project proponents may wish to take additional carbon stock measurements during project 
+implementation to improve accuracy and generate additional credits. Where new and more 
+accurate carbon stock data become available, these may be used to estimate the net GHG 
+emission reductions in the subsequent baseline validity period. For the current baseline validity 
+period, new data on carbon stocks may only be used where the data are validated by a VVB. If 
+new data are used in the current baseline validity period, the baseline must be recalculated 
+using the new data. 
+The results of monitoring activity data and carbon stocks must be reported using the same 
+formats and tables used for the ex ante assessment: 
+Table 23 
+Ex post carbon stock per hectare of initial forest classes icl existing in the 
+project area and leakage belt 
+Table 26 
+Ex post carbon stock per hectare of initial final classes fcl existing in the project 
+area and leakage belt 
+Table 43 
+Ex post carbon stock decrease due to planned and unplanned deforestation in 
+the project area 
+ 
+VM0015, v1.2 
+ 
+102 
+Table 44 
+Ex post carbon stock decrease due to planned logging activities 
+Table 45 
+Ex post carbon stock decrease due to planned fuel-wood and charcoal activities 
+Table 46 
+Total ex post carbon stock decrease due to planned activities in the project 
+area 
+Table 51 
+Ex post carbon stock decrease due to forest fires (see below)Table 52 Ex post 
+carbon stock decrease due to catastrophic events (see below and Section 
+8.2.2.5) 
+Table 53 
+Total ex post carbon stock decrease due to forest fires and catastrophic events 
+(see below). 
+ 
+Table 51: Ex Post Actual Carbon Stock Decrease Due to Forest Fires in the Project Area 
+Project 
+year t 
+Areas Affected by Forest Fires × Carbon Stock Change (Decrease) 
+Total Carbon Stock 
+Decrease due to Forest 
+Fires 
+IDcl 
+ = 1 
+IDcl 
+ = 2  
+IDcl 
+ = . . .  
+IDcl 
+ = Icl 
+Annual 
+Cumulative 
+AUFPAicl,t Ctoticl,t 
+AUFPAicl,t Ctoticl,t 
+AUFPAicl,t Ctoticl,t 
+AUFPAicl,t Ctoticl,t 
+CUFdPAt CUFdFA  
+ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+103 
+Table 52: Ex Post Carbon Stock Decrease Due to Catastrophic Events in the Project Area 
+Project 
+year t 
+Areas Affected by Catastrophic Events × Carbon Stock Change (Decrease) 
+Total Carbon Stock 
+Decrease due to 
+Catastrophic Events 
+IDcl 
+ = 1 
+IDcl 
+ = 2  
+IDcl 
+ = . . .  
+IDcl 
+ = Icl 
+Annual 
+Cumulative 
+ACPAicl,t 
+Ctoticl,t 
+ACPAicl,t 
+Ctoticl,t 
+ACPAicl,t 
+Ctoticl,t 
+ACPAicl,t 
+Ctoticl,t 
+CUCdPAt 
+CUCdPA 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Table 53: Total Ex Post Carbon Stock Decrease Due to Forest Fires and Catastrophic Events 
+Project 
+year t 
+Total Carbon Stock 
+Decrease due to Forest 
+Fires 
+Total Carbon Stock 
+Decrease due to 
+Catastrophic Events 
+Total Carbon Stock Decrease 
+due to Forest Fires and 
+Catastrophic Events 
+Annual 
+Cumulative Annual 
+Cumulative Annual 
+Cumulative 
+CUFdPAt 
+CUFdPA 
+CUCdPAt 
+CUCdPA 
+CFCdPAt 
+CFCdPA 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+ 
+VM0015, v1.2 
+ 
+104 
+Table 54: Ex Post Estimated Net Carbon Stock Change in the Project Area 
+Project year t 
+Total Carbon Stock 
+Decrease due to 
+Planned Activities 
+Total Carbon Stock 
+Decrease due to Fires 
+and Catastrophic 
+Events 
+Total Ex Post Carbon 
+Stock Change in the 
+Project Case 
+Annual 
+Cumulative Annual 
+Cumulative 
+Annual Cumulative 
+CPAdPAt 
+CPAdPA 
+CFCdPAt 
+CFCdPA 
+CPSPAt CPSPA 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+8.2.2.4 Monitoring Non-CO2 Emissions from Forest Fires 
+Non-CO2 emissions from forest fires are subject to monitoring and accounting, where 
+significant. In this case, under the project scenario monitor the variables in Table 41 within the 
+project area and report the results in Table 42. 
+8.2.2.5 Monitoring Impacts of Natural Disturbances and Other Catastrophic Events 
+Decreases in carbon stocks and increases in GHG emissions (e.g., from forest fires) due to 
+natural disturbances (such as hurricanes, earthquakes, volcanic eruptions, tsunamis, flooding, 
+drought,40 fires, tornados or winter storms) or anthropogenic events, including those over which 
+the project proponent has no control (such as acts of terrorism or war), are subject to 
+monitoring and must be accounted under the project scenario, where significant. Use Table 51, 
+Table 52 and Table 53 to report carbon stock decreases that may happen on disturbed lands 
+after the occurrence of an event. Use Table 41 and Table 42 to report emissions from forest 
+fires. 
+ 
+40 When the 1997–1998 El Niño episode provoked severe droughts in the Amazon and Indonesia, large areas of 
+tropical forest burned, releasing 0.2 to 0.4 Gt of carbon to the atmosphere (de Mendonça et al., 2004; Page et al., 
+2002; Siegert et al., 2001). If droughts become more severe in the future through more frequent and severe El Niño 
+episodes (Timmermann et al., 1999; Trenberth and Hoar, 1997), or the dry season becomes longer due to 
+deforestation-induced rainfall inhibition (Nobre et al., 1991; Silva-Dias et al., 2002) or there are rainfall reductions due 
+to climate change (Cox et al., 2000; White et al., 1999), then substantial portions of the 200 Gt of carbon stored 
+globally in tropical forest trees may be transferred to the atmosphere in the coming decades (Santilli et al., 2005). 
+ 
+VM0015, v1.2 
+ 
+105 
+8.2.2.6 Total Ex Post Estimated Actual Net Carbon Stock Changes and GHG Emissions in the 
+Project Area 
+Summarize the results of all ex post estimations in the project area using the same table 
+format used for the ex ante assessment: 
+Table 49 
+Total ex post estimated actual net changes in carbon stocks and emissions of 
+GHG gases in the project area 
+8.3 
+Leakage Emissions 
+8.3.1 Ex Ante Estimation of Leakage (Step 8) 
+The goal of this step is to provide an ex ante estimate of the possible decrease in carbon stock 
+and increase in GHG emissions (other than carbon stock change) due to leakage. Leakage is 
+estimated ex ante to assist in guiding the design of optimal leakage prevention measures, 
+identify sources of leakage that may be significant, and therefore subject to MRV, and to allow 
+reasonable projections of carbon and other project revenues to be made. 
+Two sources of leakage are considered in this methodology and must be addressed: 
+1) Decrease in carbon stocks and increase in GHG emissions associated with leakage 
+prevention measures (Section 8.3.1.1); and 
+2) Decrease in carbon stocks and increase in GHG emissions associated with activity 
+displacement leakage (Section 8.3.1.2). 
+8.3.1.1 Ex Ante Estimation of Decrease in Carbon Stocks and Increase in GHG Emissions Due 
+to Leakage Prevention Measures 
+To reduce the risk of activity displacement leakage, baseline deforestation agents should be 
+given the opportunity to participate in activities within the project area and in specially 
+designated leakage management zones (outside the project area) that together will replace 
+baseline income, product generation and livelihood of the agents as much as possible, so that 
+deforestation is reduced and the risk of displacement minimized. 
+Where leakage prevention measures include tree planting, agricultural intensification, 
+fertilization, fodder production and/or other measures to enhance cropland and grazing land 
+areas, a reduction in carbon stocks and/or an increase in GHG emissions may occur compared 
+to the baseline case. Where such decrease in carbon stock or increase in GHG emission is 
+significant, it must be accounted and monitoring is required. Where it is not significant, it must 
+not be accounted and ex post monitoring is not necessary. 
+Where leakage prevention activities are associated with other VCS or UNFCCC registered (and 
+VCS-approved) project activities, changes in carbon stocks and GHG emissions that are already 
+subject to MRV in such other registered project activities must not be estimated and accounted 
+to avoid double-counting.  
+ 
+VM0015, v1.2 
+ 
+106 
+The following activities in leakage management zones may cause a decrease in carbon stocks 
+or an increase in GHG emissions:  
+a) Carbon stock changes due to activities implemented in leakage management zones 
+b) Methane (CH4) and nitrous oxide (N2O) emissions from livestock intensification 
+(involving a change in animal diet and/or animal numbers) 
+Note that N2O emissions from nitrogen fertilization are considered always insignificant 
+according to the most recent version of the VCS Standard. 
+Consumption of fossil fuels is considered always insignificant in AUD project activities and must 
+not be considered. 
+Carbon Stock Changes due to Activities Implemented in Leakage Management 
+Zones 
+Leakage prevention activities that generate a decrease in carbon stocks should be avoided. 
+Where such activities are necessary, the decrease in carbon stock associated with the leakage 
+prevention activity must be estimated ex ante and accounted, where significant. 
+To estimate carbon stock changes in leakage management zones, do the following: 
+1) Prepare a list of the planned leakage prevention activities and briefly describe each of 
+them in the PD. 
+2) Prepare a map of the planned leakage prevention activities showing annual areas of 
+intervention and type of intervention. 
+3) Identify the areas where leakage prevention activities will impact carbon stocks. 
+4) Identify the non-forest classes41 existing within these areas in the baseline case. 
+5) Measure the carbon stocks in the identified classes or use conservative literature 
+estimates for each of the identified classes. Where classes have changing carbon 
+stocks in the baseline, project carbon stocks using growth data and other relevant and 
+verifiable sources of information. 
+6) Report in Table 55 the projected baseline carbon stock changes in the leakage 
+management zones. 
+7) According to the planned interventions, estimate projected carbon stocks in the 
+leakage management zones under the project scenario. Use conservative growth 
+projections. Report the result in Table 56. 
+8) Calculate the net carbon stock changes that the planned leakage prevention measures 
+are expected to cause during the baseline validity period and, optionally, the project 
+crediting period. Report the results of the calculations in Table 57. 
+a) Where the net sum of carbon stock changes within a monitoring period is more 
+than zero, leakage prevention measures are not causing any carbon stock 
+ 
+41  Forest classes must not be present in leakage management zones at the project start date (see Section 5.1.4). 
+ 
+VM0015, v1.2 
+ 
+107 
+decrease. The net increase must conservatively be ignored in the calculation of 
+net GHG emission reductions of the project activity. 
+b) Where the net sum is negative, determine the significance using the most 
+recent version of the CDM Tool for testing significance of GHG emissions in A/R 
+CDM project activities. Where the decrease is significant, it must be accounted 
+in the ex ante estimation of leakage. In this case, carbon stock changes in the 
+land units where leakage prevention measures are implemented are subject to 
+MRV. Where the decrease is not significant, it must not be accounted and 
+carbon stock changes are not subject to MRV. 
+ 
+Table 55: Ex Ante Estimated Carbon Stock Change in Leakage Management Zones in 
+the Baseline Case 
+Project 
+year t 
+Carbon Stock Changes in Leakage Management Zones in the Baseline Case 
+Total Carbon Stock 
+Change in the 
+Baseline Case 
+IDicl 
+ =  1 
+IDicl 
+ =  2 
+IDicl 
+ =  . . . 
+IDicl 
+ =   Icl 
+Annual 
+Cumulative 
+ABSLLKicl,t Ctoticl,t 
+ABSLLKicl,t Ctoticl,t 
+ABSLLKicl,t Ctoticl,t 
+ABSLLKicl,t Ctoticl,t 
+CBSLLKt CBSLLK 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e 
+t CO2e  
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. . . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+108 
+Table 56: Ex Ante Estimated Carbon Stock Change in Leakage Management Zones in 
+the Project Case 
+Project 
+year t 
+Carbon Stock Changes in Leakage Management Zones in the Project Case 
+Total Carbon Stock 
+Change in the 
+Project Case  
+IDfcl 
+ =  1 
+IDfcl 
+ =  2 
+IDfcl 
+ =  . . . 
+IDfcl 
+ =  Fcl 
+Annual 
+Cumulative 
+APSLKfcl,t 
+Ctotfcl,t 
+APSLKfcl,t 
+Ctotfcl,t 
+APSLKfcl,t 
+Ctotfcl,t 
+APSLKfcl,t 
+Ctotfcl,t 
+CPSLKt 
+CPSLK 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+. . . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 57: Ex Ante Estimated Net Carbon Stock Change in Leakage Management Zones 
+Project 
+year t 
+Total Carbon Stock Change 
+in the Baseline Case 
+Total Carbon Stock Change 
+in the Project Case 
+Net Carbon Stock Change due to 
+Leakage Prevention Measures 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+CBSLLKt 
+CBSLLK 
+CPSLKt 
+CPSLK 
+CLPMLKt 
+CLPMLK 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+1 
+2 
+. . .  
+T 
+ 
+Ex Ante Estimation of CH4 and N2O Emissions from Grazing Animals 
+To estimate the increase in emissions of CH4 and N2O from grazing animals in leakage 
+management zones, do the following: 
+ 
+VM0015, v1.2 
+ 
+109 
+1) Specify the annual areas that will have grazing activities in the leakage management 
+zones. 
+2) Briefly describe the types of animal, forage and manure management. Use Table 58 to 
+report the key parameters required to calculate GHG emissions. 
+3) Determine the number of animals in the baseline case and under the project scenario 
+based on available areas and forage. The difference must be considered for the 
+calculation of increases in GHG emissions. 
+4) Methods to estimate emissions from enteric fermentation and manure management 
+are given in Appendix 4. Perform the final calculations using Eq. (18) and report the 
+results in Table 59. 
+The GHG emissions are estimated as follows: 
+𝐸𝑔𝐿𝐾𝑡= 𝐸𝐶𝐻4𝑓𝑒𝑟𝑚𝑡+ 𝐸𝐶𝐻4𝑚𝑎𝑛𝑡+ 𝐸𝑁2𝑂𝑚𝑎𝑛𝑡                                                            
+(18) 
+Where: 
+EgLKt  
+= 
+Emissions from grazing animals in leakage management zones in year t  
+(t CO2e/yr) 
+ECH4fermt 
+= 
+CH4 emissions from enteric fermentation in leakage management  
+zones at year t (t CO2e/yr) 
+ECH4mant 
+= 
+CH4 emissions from manure management in leakage management  
+zones in year t (t CO2e/yr) 
+EN2Omant 
+= 
+N2O emissions from manure management in leakage management  
+zones at year t (t CO2e/yr) 
+t 
+ 
+= 
+1, 2, 3, …, T years of the project crediting period (dimensionless) 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+110 
+Table 58: Parameters Used for the Ex Ante Estimation of GHG Emissions from Grazing 
+Activities 
+Parameter Value used in 
+calculations 
+Unit 
+Description 
+EF1 
+  
+kg CH4/head/y 
+Enteric CH4 emission factor for the livestock 
+group 
+EF2 
+  
+kg CH4/head/yr 
+Manure management CH4 emission factor for 
+the livestock group 
+EF3 
+  
+kg N2O-N/(kg N)/head/yr 
+Emission factor for N2O emissions from manure 
+management for the livestock group 
+EF4 
+  
+kg N2O-N/(kg NH3-N and 
+NOx-N emitted)/head/yr 
+Emission factor for N2O emissions from 
+atmospheric deposition of forage-sourced 
+nitrogen on soils and water surfaces 
+DBI 
+  
+kg d.m./head/day 
+Daily biomass intake 
+Nex 
+  
+kg N/head/yr 
+Annual average N excretion per livestock head 
+Fracgas 
+  
+kg NH3-N and NOx-N 
+emitted/(kg N) 
+Fraction of managed livestock manure nitrogen 
+that volatilizes as NH3 and NOx in the manure 
+management phase 
+ 
+VM0015, v1.2 
+ 
+ 
+Table 59: Ex Ante Estimation of Leakage Emissions Above the Baseline from Grazing Animals in Leakage 
+Management Zones 
+Project 
+year t 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Annual 
+Cumulative 
+Aforaget Pforaget 
+Populationt ECH4fermt ECH4mant EdirN20mant EidN20mant EN2Oman,t EgLKt 
+EgLK 
+ha 
+kg d. m./yr 
+No. 
+heads 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+… 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+ 
+ 
+VM0015, v1.2 
+ 
+ 
+Total Ex Ante Estimated Carbon Stock Changes and Increases in GHG Emissions 
+due to Leakage Prevention Measures 
+Summarize the results of the previous estimations in Table 60, where only significant sources 
+must be reported. 
+Table 60: Ex Ante Estimated Total Emissions Above the Baseline from Leakage 
+Prevention Activities 
+Project 
+year t 
+Carbon Stock 
+Decrease due to 
+Leakage Prevention 
+Measures 
+Total Ex Ante GHG 
+Emissions from 
+Increased Grazing 
+Activities  
+Total Ex Ante 
+Increase in GHG 
+Emissions due to 
+Leakage Prevention 
+Measures 
+Annual 
+Cumulative Annual 
+Cumulative Annual 
+Cumulative 
+CLPMLKt 
+CLPMLK 
+EgLKt 
+EgLK 
+ELPMLKt 
+ELPMLK 
+t CO2e  
+t CO2e  
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+1 
+2 
+… 
+T 
+8.3.1.2 Ex Ante Estimation of Decreases in Carbon Stocks and Increases in GHG emissions 
+due to Activity Displacement Leakage 
+Activities that will cause deforestation within the project area in the baseline case may be 
+displaced outside the project boundary due to implementation of the AUD project activity. 
+Where carbon stocks in the leakage belt will decrease more during project implementation than 
+projected in the baseline case, this indicates that leakage due to displacement of baseline 
+activities has occurred. Leakage due to activity displacement may thus be estimated by ex post 
+monitoring of deforestation in the leakage belt and comparing ex post observed deforestation 
+with ex ante projected baseline deforestation. A baseline must be established for the leakage 
+belt following methods described in previous sections.  
+Do the ex ante baseline assessment of the leakage belt and report the result in Table 37 
+(where Method 1 is used) or Table 40 (where Method 2 is used). 
+Ex ante, activity displacement leakage may only be approximated based on the anticipated 
+combined effectiveness of the proposed leakage prevention measures and project activities. 
+ 
+VM0015, v1.2 
+ 
+113 
+This must be done by multiplying the estimated baseline carbon stock changes for the project 
+area by a Displacement Leakage Factor (DLF) representing the percentage of deforestation 
+expected to be displaced outside the project boundary. Where deforestation agents do not 
+participate in leakage prevention activities and project activities, the DLF is 100 percent. Where 
+leakage prevention activities are implemented the factor is equal to the proportion of baseline 
+agents estimated to be given the opportunity to participate in leakage prevention activities and 
+project activities. 
+Where emissions from forest fires have been included in the baseline, ex ante emissions from 
+forest fires due to activity displacement leakage are calculated by multiplying baseline forest 
+fire emissions in the project area by the same DLF used to estimate the decrease in carbon 
+stocks. 
+Report the ex ante estimated leakage due to activity displacement in Table 61. 
+Table 61: Ex Ante Estimated Leakage due to Activity Displacement 
+Project year t 
+Total Ex Ante Estimated Decrease in 
+Carbon Stocks due to Displaced 
+Deforestation 
+Total Ex Ante Estimated Increase in 
+GHG Emissions due to Displaced 
+Forest Fires 
+Annual 
+Cumulative 
+Annual 
+Cumulative 
+CADLKt 
+CADLK 
+EADLKt 
+EADLK 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+. . . 
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+ 
+8.3.1.3 Ex Ante Estimation of Total Leakage 
+Summarize the results of all sources of leakage in Table 62. 
+Table 62: Ex Ante Estimated Total Leakage 
+Project 
+year t 
+Total Ex Ante GHG 
+Emissions from 
+Increased Grazing 
+Activities  
+Total Ex Ante 
+Increase in GHG 
+Emissions due to 
+Displaced Forest 
+Fires 
+Total Ex Ante 
+Decrease in Carbon 
+Stocks due to 
+Displaced 
+Deforestation 
+Carbon Stock 
+Decrease due to 
+Leakage Prevention 
+Measures 
+Total Net Carbon 
+Stock Change due to 
+Leakage 
+Total Net Increase in 
+Emissions due to 
+Leakage 
+Annual Cumulative Annual Cumulative Annual Cumulative 
+Annual Cumulative 
+Annual Cumulative 
+Annual Cumulative 
+EgLKt 
+EgLK 
+EADLKt 
+EADLK 
+CADLKt CADLK 
+CLPMLK
+t 
+CLPMLK 
+CLKt 
+CLK 
+ELKt 
+ELK 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+1 
+2 
+. . .  
+T 
+ 
+VM0015, v1.2 
+ 
+115 
+8.3.2 Monitoring of Leakage 
+Monitoring of leakage may not be required if the project area is located within a jurisdiction that 
+is monitoring, reporting, verifying and accounting GHG emissions from deforestation under a 
+VCS or UNFCCC registered (and VCS-approved) program. In such cases, the most recent VCS 
+JNR Requirements must be applied. 
+In all other circumstances, the sources of leakage identified as significant in the ex ante 
+assessment are subject to monitoring. Two sources of leakage are potentially subject to 
+monitoring: 
+1) Decrease in carbon stocks and increase in GHG emissions associated with leakage 
+prevention activities (Section 8.3.2.1) 
+2) Decrease in carbon stocks and increase in GHG emissions due to activity displacement 
+leakage (Section 8.3.2.2) 
+8.3.2.1 Monitoring of Carbon Stock Changes and GHG Emissions Associated With Leakage 
+Prevention Activities 
+Monitoring of the sources of emissions associated with leakage prevention activities must 
+follow the methods and tools described in Section 8.3.1.1. 
+Results must be reported using the same formats and tables used in the ex ante assessment: 
+Table 56 
+Ex post carbon stock change in leakage management zones 
+Table 57 
+Ex post net carbon stock change in leakage management zones42 
+Table 58 
+Ex post parameters for estimating GHG emissions from grazing activities 
+Table 59 
+Ex post estimation of emissions from grazing animals in leakage management 
+zones 
+Table 60 
+Ex post estimation of net carbon stock changes and GHG emissions from 
+leakage prevention activities 
+8.3.2.2 Monitoring of Carbon Stock Decreases and Increases in GHG Emissions due to Activity 
+Displacement Leakage 
+Monitoring of Carbon Stock Changes 
+Deforestation above the baseline in the leakage belt area is considered activity displacement 
+leakage.  
+ 
+42 Calculations of total net carbon stock changes in leakage management zones use the ex ante estimated baseline 
+carbon stock changes in the leakage management zone and the measured ex post carbon stock changes. Where the 
+cumulative value of the carbon stock change within a baseline validity period is greater than zero, DCLPMLKt is set to 
+zero. 
+ 
+VM0015, v1.2 
+ 
+116 
+Activity data for the leakage belt must be determined using the same methods applied to 
+monitoring deforestation activity data in the project area. Monitoring of categories II and III 
+(Table 50) outside the project area is not required because credits are not claimed for avoided 
+degradation under this methodology. 
+The result of the ex post estimations of carbon stock changes must be reported using the same 
+table formats used in the ex ante assessment of baseline carbon stock changes in the leakage 
+belt. 
+Table 37 
+Ex post total net carbon stock changes in the leakage belt (Method 1) 
+OR 
+Table 40 
+Ex post total net carbon stock changes in the leakage belt (Method 2) 
+Leakage is calculated as the difference between the ex ante and ex post assessments. Report 
+the results in Table 63. 
+Table 63: Total Net Baseline Carbon Stock Change in the Leakage Belt (Method 1) 
+Project 
+year t 
+Total Ex Ante Net 
+Baseline Carbon Stock 
+Change  
+Total Ex Post Net Actual 
+Carbon Stock Change  
+Total Ex Post Leakage 
+Annual 
+Cumulative Annual 
+Cumulative Annual 
+Cumulative 
+CBSLLKt 
+CBSLLK 
+CBSLLKt 
+CBSLLK 
+CBSLLKt 
+CBSLLK 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+1 
+2 
+. . . 
+T 
+ 
+Where strong evidence is collected that deforestation in the leakage belt is attributable to 
+deforestation agents that are not linked to the project area, the detected deforestation may not 
+be attributed to the project activity nor considered leakage. The VVB must determine whether 
+the documentation provided by the project proponent represents sufficient evidence to 
+consider the detected deforestation as not attributable to the project activity and therefore not 
+leakage. 
+ 
+VM0015, v1.2 
+ 
+117 
+Monitoring Increases in GHG Emissions 
+These must only be estimated and accounted where emissions from forest fires are included in 
+the baseline.  
+To estimate increased GHG emissions due to forest fires in the leakage belt, it is assumed that 
+forest is cleared using fire. The parameter values used to estimate emissions must be the same 
+as those used to estimate forest fires in the baseline (Table 41), except for the initial carbon 
+stocks (Cab, Cdw) which must be those of the initial forest classes burned in the leakage belt. 
+Report the result of the estimations using the same table formats used in the ex ante 
+assessment of baseline GHG emissions from forest fires in the project area: 
+Table 41 
+Parameters used to calculate emissions from forest fires in the leakage belt 
+Table 42 
+Ex post estimated non-CO2 emissions from forest fires in the leakage belt 
+8.3.2.3 Total Ex Post Estimated Leakage 
+Summarize the results of all ex post estimations of leakage using the same table format used 
+for the ex ante assessment: 
+Table 62 
+Total ex post estimated leakage 
+Note – monitoring of leakage may become obsolete at the date on which a VCS or UNFCCC 
+registered (and VCS-approved) program is monitoring, reporting, verifying and accounting GHG 
+emissions from deforestation in a broader region encompassing the project area. In such 
+cases, requirements in the most recent version of the VCS Standard must be applied. 
+8.4 
+Estimated GHG Emission Reductions 
+8.4.1 Ex Ante Total Net GHG Emission Reductions (Step 9) 
+8.4.1.1 Significance Assessment 
+All carbon pools and sources of GHG emissions considered in this methodology must be 
+calculated to assess their significance. Use Appendix 2 to determine the significance of each of 
+the ex ante calculated carbon stock changes and GHG emissions. Report the result of this 
+analysis in the PD. 
+Only significant sources and pools need to be accounted in the calculation of net anthropogenic 
+GHG emission reductions (Section 8.4.1.2) and only significant sources and pools must be 
+considered in the monitoring plan. 
+8.4.1.2 Calculation of Ex Ante Total Net GHG Emissions Reductions 
+The net anthropogenic GHG emission reduction of the proposed AUD project activity is 
+calculated as follows: 
+Δ𝑅𝐸𝐷𝐷𝑡= (Δ𝐶𝐵𝑆𝐿𝑃𝐴𝑡+ 𝐸𝐵𝐵𝐵𝑆𝐿𝑃𝐴𝑡) −(Δ𝐶𝑃𝑆𝑃𝐴𝑡+ 𝐸𝐵𝐵𝑃𝑆𝑃𝐴𝑡) −(Δ𝐶𝐿𝐾𝑡 +  𝐸𝐿𝐾𝑡) (19) 
+ 
+VM0015, v1.2 
+ 
+118 
+Where: 
+REDDt 
+= 
+Ex ante estimated net anthropogenic GHG emission reduction  
+attributable to the AUD project activity at year t (t CO2e) 
+CBSLPAt 
+= 
+Sum of baseline carbon stock changes in the project area at year t  
+(t CO2e) 
+Note – the absolute values of CBSLPAt must be used in Eq. (19). 
+EBBBSLPAt 
+= 
+Sum of baseline emissions from biomass burning in the project area at  
+year t (t CO2e) 
+CPSPAt 
+= 
+Sum of ex ante estimated actual carbon stock changes in the project  
+area at year t (t CO2e) 
+Note – where CPSPAt represents a net increase in carbon stocks, a negative sign before the 
+absolute value of CPSPAt must be used. Where CPSPAt represents a net decrease, a positive 
+sign must be used. 
+EBBPSPAt 
+= 
+Sum of (ex ante estimated) actual emissions from biomass burning in  
+the project area at year t (t CO2e) 
+CLKt 
+ 
+= 
+Sum of ex ante estimated leakage net carbon stock changes at year t  
+(t CO2e) 
+Note – where the cumulative sum of CLKt within a baseline validity period is greater than 
+zero, CLKt must be set to zero. 
+ELKt 
+ 
+= 
+Sum of ex ante estimated leakage emissions at year t (t CO2e) 
+t 
+ 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+8.4.1.3 Calculation of Ex-Ante Verified Carbon Units (VCUs) 
+The potential number of Verified Carbon Units (VCUs) at year t is estimated as follows: 
+𝑉𝐶𝑈𝑡= Δ𝑅𝐸𝐷𝐷𝑡−𝑉𝐵𝐶𝑡 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(20) 
+𝑉𝐵𝐶𝑡= (Δ𝐶𝐵𝑆𝐿𝑃𝐴𝑡−Δ𝐶𝑃𝑆𝑃𝐴𝑡) × 𝑅𝐹𝑡  
+ 
+ 
+ 
+ 
+(21) 
+Where: 
+VCUt 
+= 
+Number of potential Verified Carbon Units at year t (t CO2e) 
+Note – where VCUt is less than zero, no VCUs will be granted to the proponents of the AUD 
+project activity. VCUs are only granted where the following condition is met: 
+∑
+∆𝑅𝐸𝐷𝐷𝑡
+𝑡
+𝑡=0
+> 0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22) 
+REDDt 
+= 
+Ex ante estimated net anthropogenic GHG emission reductions  
+attributable to the AUD project activity at year t (t CO2e/ha) 
+ 
+VM0015, v1.2 
+ 
+119 
+VBCt 
+= 
+Number of buffer credits deposited in the VCS AFOLU non-permanence  
+buffer at year t (t CO2e) 
+CBSLPAt 
+= 
+Sum of baseline carbon stock changes in the project area at year t  
+(t CO2e) 
+CPSPAt 
+= 
+Sum of ex ante estimated actual carbon stock changes in the project  
+area at year t (t CO2e/ha) 
+RFt 
+= 
+Risk factor used to calculate buffer credits (%) 
+Note – RFt  is a risk factor to be determined using the latest version of the VCS AFOLU Non-
+Permanence Risk Tool.  
+t 
+ 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+ 
+Present the result of the calculations in Table 64. 
+ 
+VM0015, v1.2 
+120 
+Table 64: Ex Ante Estimated Net GHG Emission Reductions: (ΔREDDt) and Verified Carbon Units (VCUt) 
+Project year t 
+Baseline  
+Carbon Stock 
+Changes 
+Baseline  
+GHG 
+Emissions 
+Ex Ante 
+Project  
+Carbon Stock 
+Changes 
+Ex Ante Project  
+GHG 
+Emissions 
+Ex Ante 
+Leakage  
+Carbon Stock 
+Changes 
+Ex Ante 
+Leakage GHG 
+Emissions 
+Ex Ante Net 
+Anthropogenic 
+GHG Emission 
+Reductions 
+Ex Ante VCUs 
+Tradable  
+Ex Ante  
+Buffer Credits 
+Annual  
+Cum 
+Annual  
+Cumula
+tive 
+Annual 
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+Annual  
+Cumula
+tive 
+CBSLP
+At 
+CBSLP
+A 
+EBBBSL
+PAt 
+EBBBSL
+PA 
+CPSPA
+t 
+CPSPA EBBPSP
+At 
+EBBPSP
+A 
+CLKt 
+CLK 
+ELKt 
+ELK 
+REDDt REDD 
+VCUt 
+VCU 
+VBCt 
+VBC 
+t CO2e  
+t CO2e  
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .    
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+VM0015, v1.2 
+121 
+8.4.2 Ex Post Net GHG Emission Reductions 
+The calculation of ex post net GHG emission reductions is similar to the ex ante calculation with 
+the only difference that ex post estimated carbon stock changes and GHG emissions must be 
+used in the case of the project scenario and leakage.  
+Report the ex post estimated net anthropogenic GHG emissions and calculation of Verified 
+Carbon Units (VCUt, and VBCt) using the same table format as that used for the ex ante 
+assessment: 
+Table 64 
+Ex post estimated net anthropogenic GHG emission reductions and VCUs 
+Note – a map showing Cumulative Areas Credited within the project area must be updated and 
+presented to the VVB at each verification. The cumulative area must not generate additional 
+VCUs in future periods. 
+ 
+VM0015, v1.2 
+122

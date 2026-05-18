@@ -1,0 +1,22 @@
+13 
+CIW 
+Conservation of Intact Wetlands 
+CUPP 
+Conservation of Undrained or Partially drained Peatland 
+PD 
+Project Description 
+RDP 
+Rewetting of Drained Peatland 
+REDD Reducing Emissions from Deforestation and forest Degradation 
+RWE 
+Restoration of Wetlands Ecosystems 
+SOC 
+Soil Organic Carbon 
+VCS 
+Verified Carbon Standard 
+VCU 
+Verified Carbon Unit 
+VVB 
+Validation and Verification Body 
+WRC 
+Wetlands Restoration and Conservation

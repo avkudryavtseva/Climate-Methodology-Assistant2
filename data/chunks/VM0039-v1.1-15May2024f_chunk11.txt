@@ -1,0 +1,108 @@
+25 
+ 
+ERAE-FDR
+=
+Net emission reductions of asphalt emulsions using FDR 
+(tCO2e) 
+CB
+=
+Crediting baseline (kgCO2e/t)
+θAE
+=
+Correction factor for asphalt emulsions (default value is 1.17)
+FDR EI
+=
+Emission intensity of FDR project (kgCO2e/t)
+Project amount
+=
+Amount of asphalt emulsions manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+Net GHG emission reductions for multiple asphalt emulsion projects must be calculated as 
+follows: 
+)%;//
+0 = <= × (1 −)
+3)%
+−* ? × @  -
+1,000
+ 
+(24) 
+Where: 
+ERAE-CCPR
+=
+Net emission reductions of asphalt emulsions using CCPR 
+(tCO2e) 
+CB
+=
+Crediting baseline (kgCO2e/t)
+θAE
+=
+Correction factor for asphalt emulsion (default value is 1.17)
+MCCPR EI
+=
+Emission intensity of multiple CCPR projects (kgCO2e/t)
+Project amount
+=
+Amount of asphalt emulsions manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+)%;/
+0 = <= × (1 −)
+3)%
+−* ? × @  -
+1,000
+ 
+(25) 
+Where: 
+ERAE-CIR
+=
+Net emission reductions of asphalt emulsions using CIR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θAE
+=
+Correction factor for asphalt emulsion (default value is 1.17)
+MCIR EI
+=
+Emission intensity of multiple CIR projects (kgCO2e/t)
+Project amount
+=
+Amount of asphalt emulsions manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+)%;90 = <= × (1 −)
+3)%
+−* ? × @  -
+1,000
+ 
+(26) 
+Where: 
+ERAE-FDR
+=
+Net emission reductions of asphalt emulsions using FDR
+(tCO2e) 
+CB
+=
+Crediting baseline (kgCO2e/t)
+θAE
+=
+Correction factor for asphalt emulsion (default value is 1.17)
+MFDR EI
+=
+Emission intensity of multiple FDR projects (kgCO2e/t)
+Project amount
+=
+Amount of asphalt emulsions manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+ VM0039, v1.1 
+ 
+26

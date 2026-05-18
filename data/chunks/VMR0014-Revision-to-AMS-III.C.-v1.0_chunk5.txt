@@ -1,0 +1,24 @@
+4 APPLICABILITY CONDITIONS 
+CDM methodology AMS-III.C. applies to project activities that introduce new electric and/or 
+hybrid vehicles that displace the use of fossil fuel vehicles in passenger and freight 
+transportation. This VCS methodology also applies to EMM. The methodology is globally 
+applicable.  
+In all applicability conditions of AMS-III.C., the term “electric vehicles” must be replaced with 
+“electric vehicles and EMM.” 
+Applicability conditions 7 and 10 must be replaced as follows: 
+7. 
+The project participant must demonstrate that double counting of emission reductions 
+does not occur following the rules and requirements in the most recent version of the VCS 
+Standard. Provisions to avoid double counting may include a contractual agreement with 
+the end-user(s), maintenance of a comprehensive inventory of project vehicles, or unique 
+identification of the vehicles owned by end-user(s). The steps undertaken to avoid double-
+counting must be documented in the project description. 
+ 
+VMR0014, v1.0 
+ 
+6 
+10.  The types of hybrid/electric vehicles and EMM include, but are not limited to: 
+1) passenger and commercial vehicles (e.g., cars, buses, trucks, jeepneys, commuter 
+vans, taxis) 
+2) two- and three-wheeled vehicles (e.g., motorcycles, tricycles) 
+3) electric mobile machinery (e.g., construction machinery)

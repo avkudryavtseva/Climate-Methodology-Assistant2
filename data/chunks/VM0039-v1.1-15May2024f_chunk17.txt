@@ -1,0 +1,748 @@
+592 
+GHG 
+kgCO2/t 12.3 
+11.7 
+66.0 
+145.1 
+18.8 
+4.5 
+142.6 
+44.6 
+ 
+Notes:  
+US-131 Asphalt Crack Relief Layer; Reconstruction; Crush and Shape, 6 lane miles 
+US-31 HMA Reconstruct, 13.08 lane miles 
+US-41 HMA Reconstruct and Roadway Realignment, 6.04 lane miles 
+I-69 Concrete Reconstruct, 40.56 lane miles 
+M-20 HMA Cold Milling and Overlay, 16.64 lane miles 
+M-55 HMA Cold Milling and Resurfacing, 13.66 lane miles 
+M-28 Concrete Patch Repairs and HMA Resurfacing, 9.26 lane miles 
+US-41 Road Reconstruction HMA and Concrete, 4.4 lane miles 
+ 
+ VM0039, v1.1 
+ 
+49 
+ 
+Determination of Performance Benchmark for Additionality and Crediting Baseline 
+Once the baseline emissions were determined based on a sample of HMA producers and projects were 
+surveyed to represent the sectoral emission performance, this estimation was then applied to 
+determine the performance benchmark which is the same for both additionality and the crediting 
+baseline. 
+Due to the significant impact of project type and delivery distance on the total amount of GHG 
+emissions, performance benchmarks are proposed for specific project types and the one-way distances 
+between a HMA plant and a job site. Out of a total of ten surveyed projects, six have a hauling distance 
+of less than 40 miles, while four have a hauling distance of greater than 40 miles. Combined with 
+sixteen facilities, the total sampling points were 96 (=16×6) for HMA projects (< 40mi) and 64 (=16×4) 
+for HMA projects (>40mi). The combination covers all the possible values of emission intensities of the 
+sampled projects. Statistical analysis of the sampling population shows that when the distance is less 
+than 40 miles, the average baseline emission (µ) is 134.8 kgCO2e/t HMA and the standard deviation 
+(σ) is 15.5 kgCO2e/t HMA, as represented in Figure A1 below. When the distance is larger than 40 
+miles, the average baseline emission (µ) is 170.3 kgCO2e/t HMA and the standard deviation (σ) is 33.6 
+kgCO2e/t HMA. According to UNFCCC (2006), performance benchmarks may be defined as an emission 
+level that is exceeded by 80% of existing HMA projects. Given the sampled projects approximate a 
+normal distribution, the performance benchmark must be 121.9 kgCO2e/t HMA (equals to µ- 0.84σ) for 
+HMA projects (< 40mi), which is illustrated in Figure A1. The calculation follows a standard cumulative 
+distribution function using normal distribution mean and standard deviation. The performance 
+benchmark is 142.4 kgCO2e/t HMA for HMA projects (>40mi) as calculated as follows: 
+Performance benchmark = Average baseline emission −0.84 × Standard deviation 
+(A9) 
+For roadway projects, the average baseline emission (µ) is 141.8 kgCO2e/t HMA and the standard 
+deviation (σ) is 56.2 kgCO2e/t HMA., and therefore the performance benchmark of roadway projects is 
+95.1kgCO2e/t HMA. 
+ VM0039, v1.1 
+ 
+50 
+ 
+Figure A1: Illustration of Performance Benchmark for Hauling Distance less than 40 Miles 
+ 
+Determination of default factor for upstream displacement  
+The proportion of average emissions from raw materials production and delivery (last column of Table 
+A.2) of the total emissions was determined and applied to the default factor of 30% upstream 
+displacement. The resulting discount factors that are applied to the total baseline emissions are 
+presented in Table A 5. 
+Table A5: Discount factors for upstream displacement 
+Stratum 
+Project type 
+Hauling distance 
+Discount factor 
+1 
+Patching 
+≤ 40 miles 
+0.15 
+2 
+Patching 
+> 40 miles 
+0.12 
+3 
+Roadway 
+Undefined 
+0.15 
+ 
+ VM0039, v1.1 
+APPENDIX 2: EMISSIONS FACTORS FOR 
+CONSTRUCTION EQUIPMENT 
+Equipment catalog 
+Manufacturer 
+hp 
+Emission rate 
+(g/hp/h) 
+Emission factor  
+(kg CO2e/h) 
+Air Compressors 
+Emglo 
+5.0 
+1301.3 
+6.5 
+Air Compressors 
+Mi-T-M 
+5.5 
+1301.3 
+7.2 
+Air Compressors 
+Sullair 
+61.0 
+948.8 
+57.9 
+Air Compressors 
+Others 
+19.5 
+1183.8 
+23.8 
+Cement and Mortar 
+Mixers 
+MultiQuip 
+13.0 
+1301.3 
+16.9 
+Cement and Mortar 
+Mixers 
+Others 
+13.0 
+1301.3 
+16.9 
+Cold recycler 
+Wirtgen 7' 
+429.0
+948.8 
+407.0 
+Cold recycler 
+Wirtgen 9' 
+580.0
+948.8 
+550.3 
+Cold recycler 
+Wirtgen 12' 
+950.0
+948.8 
+901.4 
+Cold recycler 
+Other 
+NA 
+NA 
+535.9 
+Dumpers/Tenders 
+Terex 
+300.0
+824.4 
+247.3 
+Dumpers/Tenders 
+Ford 
+210.0
+948.8 
+199.3 
+Dumpers/Tenders 
+Others 
+255.0
+886.6 
+226.1 
+Excavators 
+JCB 
+128.0
+1030.9 
+132.0 
+Excavators 
+John Deere 
+141.0
+1020.7 
+143.9 
+Excavators 
+Kobelco 
+112.0
+1067.5 
+119.6 
+Excavators 
+Others 
+127.0
+1039.7 
+132.0 
+Forklifts 
+JCB 
+76.0 
+1030.9 
+78.3 
+Forklifts 
+John Deere 
+73.0 
+1020.7 
+74.5 
+Forklifts 
+Others 
+74.0 
+1025.8 
+75.9 
+Off-Highway Trucks 
+Terex 
+260.0
+863.6 
+224.5 
+Off-Highway Trucks 
+Caterpillar 
+210.0
+948.8 
+199.3 
+Off-Highway Trucks 
+John Deere 
+265.0
+1020.7 
+270.5 
+Off-Highway Trucks 
+Others 
+150.7
+984.0 
+148.3 
+Milling machine 
+Others 
+150.0
+881.7 
+132.3 
+Paver 
+Barber-Greene 
+115.0
+1020.7 
+117.4 
+Paver 
+Wheeler Machinery 
+142.0
+948.8 
+134.7 
+Paver 
+Others 
+128.5
+984.7 
+126.5 
+Plate Compactors 
+Bomag 
+3.9 
+1471.1 
+5.7 
+Plate Compactors 
+MultiQuip 
+4.0 
+1301.3 
+5.2 
+Plate Compactors 
+Wacker 
+9.0 
+1301.3 
+11.7 
+ VM0039, v1.1 
+ 
+52 
+ 
+Equipment catalog 
+Manufacturer 
+hp 
+Emission rate 
+(g/hp/h) 
+Emission factor  
+(kg CO2e/h) 
+Plate Compactors 
+Others 
+5.6 
+1357.9 
+7.6 
+Pressure Washers 
+Honda 
+9.0 
+1301.3 
+11.7 
+Pressure Washers 
+Mi-T-M 
+13.0 
+1301.3 
+16.9 
+Pressure Washers 
+Shark-Karcher 
+11.0 
+1301.3 
+14.3 
+Pressure Washers 
+Others 
+11.0 
+1301.3 
+14.3 
+Pumps 
+Gorman-Rupp 
+72.0 
+1301.3 
+93.7 
+Rollers 
+Bomag 
+44.0 
+1063.2 
+46.8 
+Rollers 
+Dynapac 
+85.0 
+824.4 
+70.1 
+Rollers 
+MultiQuip 
+18.0 
+1189.1 
+21.4 
+Rollers 
+Others 
+45.2 
+1025.6 
+46.3 
+Rough Terrain Forklifts 
+Case 
+73.0 
+824.4 
+60.2 
+Rough Terrain Forklifts 
+JCB 
+76.0 
+1014.7 
+77.1 
+Rough Terrain Forklifts 
+John Deere 
+73.0 
+1020.7 
+74.5 
+Rough Terrain Forklifts 
+Others 
+74.0 
+953.3 
+70.5 
+Rubber Tired Dozers 
+John Deere 
+90.0 
+1020.7 
+91.9 
+Rubber Tired Dozers 
+Others 
+90.0 
+1020.7 
+91.9 
+Rubber Tired Loaders 
+JCB 
+150.0
+1030.9 
+154.6 
+Rubber Tired Loaders 
+John Deere 
+134.0
+1020.7 
+136.8 
+Rubber Tired Loaders 
+Others 
+142.0
+1025.8 
+145.7 
+Skid Steer Loaders 
+Bobcat 
+46.0 
+1179.4 
+54.3 
+Skid Steer Loaders 
+John Deere 
+76.0 
+1020.7 
+77.6 
+Skid Steer Loaders 
+Toro 
+20.0 
+1189.1 
+23.8 
+Skid Steer Loaders 
+Others 
+47.3 
+1129.7 
+53.5 
+Sweepers/Scrubbers 
+Schwarz Industries 
+115.0
+1020.7 
+117.4 
+Sweepers/Scrubbers 
+Schwarz Industries 
+250.0
+824.4 
+206.1 
+Sweepers/Scrubbers 
+Victory 
+190.0
+977.6 
+185.7 
+Sweepers/Scrubbers 
+Others 
+185.0
+940.9 
+174.1 
+Track Loaders 
+John Deere 
+90.0 
+1020.7 
+91.9 
+Track Loaders 
+Takeuchi 
+81.0 
+1137.2 
+92.1 
+Track Loaders 
+Others 
+85.5 
+1078.9 
+92.2 
+Backhoes 
+JCB 
+86.0 
+1030.9 
+88.7 
+Backhoes 
+John Deere 
+86.0 
+1020.7 
+87.8 
+Backhoes 
+Others 
+81.7 
+1025.8 
+83.8 
+Trenchers 
+DitchWitch walk-
+behind 
+17.5 
+1020.7 
+17.9 
+Trenchers 
+DitchWitch ride-on 
+42.0 
+1063.2 
+44.7 
+Trenchers 
+Vermeer Walk-behind
+23.0 
+1189.1 
+27.3 
+Trenchers 
+Vermeer ride-on 
+46.0 
+1063.2 
+48.9 
+ VM0039, v1.1 
+ 
+53 
+ 
+Equipment catalog 
+Manufacturer 
+hp 
+Emission rate 
+(g/hp/h) 
+Emission factor  
+(kg CO2e/h) 
+Trenchers 
+Others 
+28.9 
+1084.1 
+1.3 
+Water Trucks 
+Ford 
+240.0
+824.4 
+197.9 
+Water Trucks 
+Kenworth 
+475.0
+948.8 
+450.7 
+Water Trucks 
+Freightliner 
+300.0
+948.8 
+284.6 
+Data source: EPA (2012) 
+ 
+ 
+ VM0039, v1.1 
+ 
+54 
+ 
+APPENDIX 3: EXPERT REVIEW PANEL 
+FOR PERFORMANCE BENCHMARKS 
+Expert Review Panel 
+An expert panel met on June 23, 2014 at the University of Maryland to review and provide feedback 
+on the levels of performance benchmarks. Experts in attendance included the following: 
+• 
+Tuncer Edil – Professor Emeritus, Geological Engineering and Civil & Environmental 
+Engineering, University of Wisconsin-Madison 
+• 
+Gerardo Flintsch – Professor of Civil and Environmental Engineering, Virginia Polytechnic 
+Institute 
+• 
+Jeff Graf – Executive Vice President, Maryland Paving Inc. 
+• 
+Luke Wisniewski – Chief Climate Change, Maryland Department of Environment 
+Other Participants 
+Other participants included the following: 
+• 
+Harold Green, GRR 
+• 
+Dan Shaw, GRR 
+• 
+Chandra Akisetty PE, GRR 
+• 
+Qingbin Cui, University of Maryland 
+• 
+Xiaoyu Liu, University of Maryland 
+• 
+Sara Berman, Straughan Environmental 
+• 
+Deborah Sward, Straughan Environmental 
+• 
+Andrew Beauchamp, Verra 
+• 
+John Holler, Verra 
+The meeting included introductions from members of the team, Verra staff, and a summary of the 
+methodology development process. The Expert Review Panel members then asked questions, 
+provided their feedback, and had a discussion with the methodology development team. The 
+following is a summary of the discussion. 
+Expert Review Panel Discussion 
+Q1 Luke Wisniewski: Does the use of a thicker base cause any issues matching it to existing roads 
+or cause logistical issues? 
+Response: No, usually when doing a road rehabilitation –milling out the existing pavement and 
+constructing foam and hot mix—a project will have to mill out an inch deeper in order to compensate 
+for the use of the FSB. If a project is removing 4” of HMA base for replacement with a 5” thick FSB 
+layer, the road will be milled down further to compensate. It also depends on how and where the 
+project occurs and the restrictions and specifications on the grade. If the grade is not to be changed 
+ VM0039, v1.1 
+ 
+55 
+ 
+the road will be milled deeper. If the grades can be changed, a transition will be made between the 
+existing pavement and the sections with a layer of FSB. Each project will specify whether the grades 
+need to match or a transition can be made. 
+ 
+Q2 Gerardo Flintsch: The structural layer coefficient of bitumen for cold mix being used is 0.32. 
+Where did this value come from? Please provide further references, and I have a reference I can 
+add (shared with the team through email). 
+Response: The methodology is being revised to clearly identify how the structural coefficient of 0.32 
+was developed. The value came from a study conducted by the University of Maryland (UMD) for the 
+Maryland State Highway Administration (MD SHA). UMD collected core samples and had them 
+tested at a lab. The Team conducted some falling weight deflectometer (FWD) tests to determine 
+the resilient modulus (Mr). From the core samples tested and the FWD test the team calculated the 
+layer coefficient. The results of the structural layer coefficient from the samples ranged from 0.38 
+to 0.4. The Team also conducted a Nomograph test following the Wirtgen Core Recycling Mix 
+Manual and examined the values for the asphalt cold mix. Comparing the results allowed for a 
+broader data source to review. In order to be more conservative in our value and to accurately 
+represent all conditions, the team averaged the results from studies conducted throughout the 
+world and developed 0.32 as the structural layer coefficient. 
+A clarification to the methodology will be made to clearly identify that FSB uses only 1.5-2% more 
+material per cubic foot than HMA. This is because the densities are different. The density for HMA is 
+160 lbs per cubic ft and for FSB it is 130 lbs per cubic ft. FSB’s layer coefficient is lower than HMA, 
+thus requiring 25% more volume while only requiring 1.5-2% more material to maintain the required 
+specification layer coefficient. The differences between volume and weight will be clarified further 
+within the methodology for calculating emission savings. 
+The methodology team will include further references supporting the methodology findings. A report 
+by Charles Schwartz (team member) and Sadaf Khosravifar for “State Highway Administration 
+Research Report: Design and Evaluation of Foamed Asphalt Base Materials” outlines the role of 
+FSB. 
+ 
+Q3 Gerardo Flintsch: One discussion in a lifecycle assessment (LCA) is how do we address the 
+physical stock energy of the asphalt binder? The LCA can be very high. How does the team address 
+this? 
+Response: The comment is being considered and taken into account in the methodology. Materials 
+emissions factors are coming from Environmental Protection Agency’s database Department of 
+Energy’s, EIO-LCA and other databases publicly available and referenced in the methodology. The 
+equipment emission factors are coming from EPA tier emission standards, and the assembly 
+emission factors come from the Inventory of Carbon and Energy developed by University of Bath, 
+UK. This reference provides material emission factors. 
+ 
+Q4 Tuncer Edil: Considering the maintenance stage produces a considerable amount of emissions, 
+it is important to include this stage in the project boundary. The difference between HMA, CCPR CIR 
+ VM0039, v1.1 
+ 
+56 
+ 
+has a high impact on GHG emission levels and the choice of maintenance regime can extend the 
+service life of a road thus considerably reducing GHG emissions over its lifespan. 
+Response: Maintenance was not included within the project boundary given the great variability of 
+road maintenance requirements due to geographic location and ownership protocol. LCA can take a 
+cradle to grave or a cradle to gate approach. The team decided on a cradle to gate in order to 
+reduce potential variability of GHG emissions due to the broad range of road maintenance 
+schedules/strategies over the 50-year lifespan of a road. Including maintenance over a 50-year 
+period will in turn skew the calculation due to the significant amount of emissions associated with a 
+project boundary of 50 years. 50 years would also prove difficult to monitor for a project boundary. 
+The current project boundary meets with ISO standards and guidance. The initial designs have 
+considered the differences between structural layer coefficients of two materials – 4 inch base 
+using HMA and 5 inch base using FSB. The structural performance must be the same when road is 
+constructed (or reconstructed) using the two materials. The maintenance schedule can be 
+reasonably assumed to be same frequency and activity, accordingly. 
+ 
+Q5 Tuncer Edil: Is the service life of FSB the same as HMA? 
+Response: The service life of FSB and HMA are similar. FSB is used as base a layer with HMA as a 
+surface layer. Under this circumstance the service life is dictated by HMA surface layer 
+performance. The performance of roads with and without FSB as a base layer are very similar. The 
+structural integrity was found to be the same by Schwartz & Khosravifar. The National Center for 
+Asphalt Technology (NCAT) in their Spring 2014 (Volume 26 Number 1) report evaluates structural 
+integrity and maintenance over a two- year period. They have completed 80% of the study. The 
+results to date have been positive with 10 million Equivalent Single Axle Load (ESALs) with no 
+significant cracking or rutting reported in the interim report. 
+ 
+Q6 Gerardo Flintsch: The methodology reference data from 2002. There has been much 
+development in the construction equipment manufacturing industry. Equipment used in 
+manufacturing has become efficient over the past 12 years reducing GHG emissions level. However, 
+the research studies referenced date back to 2002 for EIO-LCA. However, the HMA equipment data 
+is from 2009. Why do you continue to use data from 2002? 
+Response: The 2002 data is for the materials side. The 2002 data used in the model comes from 
+the Department of Commerce. The current version of the model they developed is based on 2002 
+data. The team will confirm and provide further documentation within the methodology to explain 
+why the methodology includes data from 2002. 
+ 
+Q7 Sara Berman: Does the Additionality threshold accurately represent the industry? Does the 
+expert review panel believe there to be false negatives or false positives within the threshold? Is the 
+threshold too stringent or too lenient? 
+Response from team: The team averaged data from HMA plants surveyed throughout MD and VA. 
+80% was a threshold found throughout other methodologies. Taking the survey of HMA plants 
+ VM0039, v1.1 
+ 
+57 
+ 
+conducted by the team into account and the 80% threshold used by other methodologies made 
+sense given the industry. 
+ 
+Q8 Sara Berman: Luke Wisniewski do you think there is sufficient regulatory support and/or 
+guidance, which will allow for a market for the methodology to move forward? Could MDE support 
+this moving forward from a regulatory standpoint? 
+Luke Wisniewski: There is sufficient information for the methodology to move forward. The protocol 
+would have to be validated by an independent organization. If there is a market for offsets it can 
+move forward. 
+MDE will accept the use of FSB. MDE can accept it as the protocol or as an offset credit if it is 
+approved and used appropriately. 
+ 
+Q9 Sara Berman: How significant is the difference between the Maryland and Virginia specifications 
+for the use of FSB in road construction? 
+Response: There is a considerable difference between Maryland and Virginia FSB use 
+specifications. The following diagram outlines the two specifications. It is important to note the use 
+and location of FSB in relation to the other materials. 
+Figure C1: FSB Specification for Maryland and Virginia 
+ 
+Q10 Sara Berman: Are there financial incentives to use FSB? 
+Response: Presently, there are no financial incentives to use FSB rather than HMA. 
+ 
+Q11 Sara Berman: Is there a rationale for why the experts support the methodology? 
+Response: Tuncer Edil finds that once the team addresses the comments from this meeting the 
+methodology will be ready to move forward. Other reviewers support the methodology moving 
+forward. 
+ 
+Q12 Tuncer Edil: There has been much improvement in incorporating RAP and RAS in recent years 
+into HMA mix designs. The methodology references 3% RAS in the HMA mix, which is surprisingly 
+low. On page 25 change 2006 to 2010 in footnote 3. 
+ VM0039, v1.1 
+ 
+58 
+ 
+Response: The usage of 3% RAS was found to be representative of the HMA plants surveyed in the 
+development of the methodology. The methodology will provide further documentation supporting 
+the use of 3% and include an additional footnote for clarification. 
+ 
+Q14 Gerardo Flintsch: Although the methodology is focused on FSB, emulsion is included in several 
+places. Is emulsion going to be considered? If so, emulsion needs further clarification and 
+documentation. Will this impact the structural layer coefficient? 
+Response: Emulsion will be included in the methodology. It is a similar process to foam. The 
+difference between foam and emulsion is when the mix occurs. The methodology will be adapted to 
+accurately represent this in the methodology. The model will address emulsion moving forward. 
+ 
+Questions from Jeff Graf 
+Jeff Graf was unable to attend the meeting. His comments and questions with the team response 
+are listed below. 
+Q1: Jeff would like the group to take into account the nascent industry trend of using warm mix 
+rather than hot mix. Warm mix allows roads to cool faster in warmer climates, and thus enables 
+roads to open sooner to traffic and shorten project time. This would alter the baseline and change 
+the overall accounting of GHG savings. 
+Response: Warm-mix is an upcoming technology and we have used warm-mix data from various 
+plants in our calculations. Our data points include warm mix data from HMA plants and the 
+corresponding GHG response includes warm-mix. 
+ 
+Q2: Jeff asked why the boundary was set as cradle-to-gate rather than cradle to grave. He believes 
+we need to identify that in the use of the RAP the ownership remains with the construction of the 
+road and not with the individual who ground up the road for a CCPR project. 
+Response: The boundary setting was discussed earlier in the report in order to feasibly observe the 
+project lifespan and eliminate broad variability of road maintenance schedules, which are 
+geographically specific. 
+ 
+Q3: Jeff indicated that CIR projects are often based on the space available to stage the project and 
+size of project area being resurfaced. He recommends further clarification within the methodology 
+as to when CIR projects are feasible. 
+Response: Three types of recycling methods are being used in pavement industry. First HIR (hot in-
+place recycling), which is feasible for only top 2 inches of HMA pavement. Second CCPR (cold 
+central plant recycling), which is feasible if the HMA pavement is cracked and rutted up to 4 to 6 
+inches. Last one is CIR (cold in-place recycling), which is generally preferable if the pavement has to 
+be rehabilitated until the top one inch of base course (severely cracked and rutted pavements up to 
+4 to 12 inches). The choice of which type to apply is dependent on the area where the recycling 
+project is located and existing drainage conditions of the pavement and economic feasibility. Some 
+ VM0039, v1.1 
+ 
+59 
+ 
+projects without proper drainage or existing paving fabric or poor base course condition are not 
+suitable for CIR projects, even if it is economical to do so. It will then have to be replaced with CCPR 
+process. 
+ 
+Q4: Was Maryland Department of Environment’s AP 42 referenced for emissions calculations? 
+The Economic Input-Output LCA Model was adopted to calculate material GHG emissions, which 
+was developed by Carnegie Mellon University. The EPA engine certification database was adopted to 
+calculate equipment GHG emissions. We used nationwide emission factor database, as opposed to 
+state-specific emission factor database. 
+ 
+Q5: The methodology mentions cement in the FSB mix. Is this used across the board? Does it vary 
+based on different State Planning and Research offices (SPR)? With new construction will you have 
+to add more cement to the mix in order for it to adhere properly? 
+Response: Cement is added in FSB mixes, because it helps to increase the moisture susceptibility 
+resistance. Each project will comply with SPR, project requirements based on specifications and 
+road conditions. 
+ 
+Q6: On a new construction project using FSB, will additional binder or cement be needed to achieve 
+the structural integrity required? If so, will this impact your calculations? 
+Response: No additional binder or cement is required for new projects. For either new projects or 
+rehabilitation projects, the project team will collect the RAP samples from stockpiles or job sites 
+respectively and develop mix design in the laboratory. Usually the binder content requires varies 
+between 2.1% to 2.3% and cement content always stays at 1%. Portland cement helps the mix to 
+increase the moisture susceptibility resistance and increase its wet ITS (indirect tensile strength) 
+value in FSB mix. It also helps to add extra fines, which are required very often in RAP samples to 
+absorb the expanded asphalt binder. If the cement content increases, the mix loses flexibility and it 
+will become counterproductive. 
+ 
+ 
+ VM0039, v1.1 
+ 
+60 
+ 
+APPENDIX 4: DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+24 Jun 2019 
+Initial version  
+v1.1 
+15 May 2024 
+Minor revision, including the following changes: 
+• Update to the latest version of methodology template 
+• Inclusion of a discount factor for upstream displacement of production 
+and delivery of raw materials 
+• Inclusion of the explanation on how the discount factor was calculated 
+• Methodology renamed to VM0039 Foam Stabilized Base and Emulsion 
+Asphalt Mixtures in Pavement Application

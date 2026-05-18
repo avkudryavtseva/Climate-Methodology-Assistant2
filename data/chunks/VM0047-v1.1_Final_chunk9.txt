@@ -1,0 +1,566 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+ 
+VM0047, v1.1 
+19 
+8.1.1 Area-based Approach 
+Carbon stock changes in the baseline scenario are accounted for by applying the crediting 
+baseline performance benchmark value (derived in Section 6) to the estimation of carbon dioxide 
+removals (Section 8.6). 
+8.1.2 Census-based Approach 
+The baseline scenario is represented by the absence of planting units and thus carbon stock 
+changes in the baseline scenario are equal to zero.  
+8.2 
+Area-based Project Emissions 
+The calculations of carbon stock changes and project emissions for the area-based approach are 
+summarized in Figure 1.  
+Figure 1. Summary of calculations for area-based approach 
+ 
+ 
+8.2.1 Area-based Project Carbon Stock Changes 
+The carbon stock change from the start of the project through year t is estimated as follows: 
+∆ܥௐ௉,௧= (∆ܥௐ௉−௕௜௢௠௔௦௦,௧+ ∆ܥௐ௉−ௌை஼,௧) × 44
+12 
+(1) 
+Where: 
+ΔCWP,t  
+= Project carbon stock change through year t (t CO2e) 
+ 
+VM0047, v1.1 
+20 
+ΔCWP-biomass,t 
+= Change in carbon stock in biomass carbon pools in the project scenario 
+through year t (t C) 
+ΔCWP-SOC,t 
+= Change in soil organic carbon stock in the project scenario through year t 
+(t C) 
+44/12 
+= Ratio of molecular weight of carbon dioxide to carbon (unitless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+∆ܥௐ௉−௕௜௢௠௔௦௦,௧= ∆ܥௐ௉−௪௢௢ௗ௬,௧+ ∆ܥௐ௉−ℎ௘௥௕,௧+ ∆ܥௐ௉−஽ௐ,௧+ ∆ܥௐ௉−௅ூ,௧ 
+(2) 
+Where: 
+ΔCWP-woody,t 
+= Change in carbon stock in woody biomass in the project scenario through 
+year t (t C)  
+ΔCWP-herb,t 
+= Change in carbon stock in non-woody biomass in the project scenario 
+through year t (t C) 
+ΔCWP-DW,t 
+= Change in carbon stock in dead wood in the project scenario through year 
+t (t C) 
+ΔCWP-LI,t 
+= Change in carbon stock in litter in the project scenario through year t (t C) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+8.2.1.1 Area-based Quantification of Woody Biomass 
+The net carbon stock change in woody biomass in the area-based project scenario is estimated 
+as: 
+Δܥௐ௉−௪௢௢ௗ௬,௧= ܣ× (ܥௐ௉−௪௢௢ௗ௬,௧ – ܥௐ௉−௪௢௢ௗ௬,௧=0) 
+(3) 
+Where: 
+ΔCWP-woody,t 
+= Change in carbon stock in woody biomass in the project scenario through 
+year t (t C) 
+A 
+= Project area (ha) 
+CWP-woody,t 
+= Average carbon stock in woody biomass in the project scenario in year t 
+(t C/ha) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+ܥௐ௉−௪௢௢ௗ௬,௧= ܥௐ௉−௪௢௢ௗ௬−஺஻,௧× (1 +  ܴ) 
+(4) 
+Where: 
+CWP-woody,t 
+= Average carbon stock in woody biomass in the project scenario in year t 
+(t C/ha) 
+ 
+VM0047, v1.1 
+21 
+CWP-woody-AB,t 
+= Average carbon stock in aboveground woody biomass in the project 
+scenario in year t (t C/ha) 
+R 
+= Root to shoot ratio (t root d.m./t shoot d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+The change in carbon stock in woody biomass is estimated using the stock difference method 
+(Bird et al. 2010), which estimates the difference in carbon stocks at two points in time. 
+8.2.1.2 Area-based Quantification of Pre-existing Woody Biomass 
+Quantification of pre-existing woody biomass is required under the area-based approach. The 
+stock difference method is used to quantify carbon stock changes and requires a t = 0 estimate. 
+A t = 0 estimate of pre-existing biomass must be established using one of the following 
+approaches, depending on the start date and availability of plot-based sampling:  
+1) Plot-based sampling before site preparation is the preferred method and must be used 
+whenever possible. 
+2) Where the project start date is based on a land use change date and plots could not be 
+established beforehand, or where site preparation did not disturb pre-existing woody 
+biomass, plots may be established and measured within two years after the project start 
+date and used as the t = 0 estimate. 
+3) Where pre-existing woody biomass was disturbed before plot-based sampling, a remote 
+sensing-based estimate may be used. This is allowed only where the project proponent 
+demonstrates that no other significant carbon pools were affected during site 
+preparation. Other carbon pools (e.g., SOC, dead wood, non-woody biomass) must not be 
+estimated using remote sensing. Where a t = 0 estimate was not made, pools must either 
+be eligible to be conservatively excluded or not have been disturbed. The remote sensing 
+estimate of pre-existing woody biomass must meet the following conditions: 
+a) The model predicts aboveground woody biomass using a stocking index-based 
+regression model (see Appendix 1). 
+b) The upper 90% confidence bound of the model’s prediction interval is used as the 
+t = 0 biomass estimate to account for uncertainty. 
+c) The model is significantly correlated with aboveground biomass, supported by 
+published or peer-reviewed studies, or statistically validated with direct 
+measurements from the same ecoregion as the project’s ecoregion.13 
+ 
+13 As defined in the WWF Terrestrial Ecoregions of the World database. Available at: 
+https://www.worldwildlife.org/publications/terrestrial-ecoregions-of-the-world    
+ 
+VM0047, v1.1 
+22 
+d) The spatial resolution is at least as fine as that of the remote sensing approach 
+selected for the stocking index and meets all requirements listed in the parameter 
+table for the stocking index in Appendix 1. 
+The removal of pre-existing woody biomass is allowed as part of site preparation where all of the 
+following conditions are met: 
+i) 
+A t = 0 estimate has been established through plot-based sampling or remote sensing. 
+ii) The biomass removed from the project site is considered a waste product with no 
+commercial value. 
+iii) Removal does not involve the clearing or harvesting of natural forests (primary or 
+secondary), native tree species, or commercially viable timber species. 
+Where a project meets these requirements, the removal of pre-existing biomass does not 
+constitute a harvesting activity and therefore does not require the project to apply the long-term 
+average. However, this does not preclude the application of the long-term average if harvesting 
+occurs at any point in the future.  
+8.2.1.3 Area-based Quantification of Non-Woody Biomass 
+∆ܥௐ௉−ℎ௘௥௕,௧= ܣ× (ܥௐ௉−ℎ௘௥௕,௧ – ܥௐ௉−ℎ௘௥௕,௧=0) 
+(5) 
+ܥௐ௉−ℎ௘௥௕,௧= ܦܯௐ௉−ℎ௘௥௕,௧× ܥܨ 
+(6) 
+Where: 
+∆CWP-herb,t 
+= Change in carbon stock in non-woody biomass in the project scenario 
+through year t (t C) 
+A 
+= Area (ha) 
+CWP-herb,t 
+= Average carbon stock in non-woody biomass in the project scenario in 
+year t (t C/ha) 
+DMWP-herb,t 
+= Average non-woody biomass in the project scenario in year t (t d.m./ha) 
+CF 
+= Carbon fraction of dry biomass (t C/t d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+8.2.1.4 Area-based Quantification of Dead Wood 
+Project proponents must establish a t = 0 estimate of dead wood through plot-based sampling 
+before any disturbance (e.g., removal, burning, piling, or masticating). The plot-based sampling 
+must be conducted before site preparation and no more than two years prior to the project start 
+date. Changes in dead wood due to offsite removal, burning, relocation, or disturbance must be 
+quantified using the stock difference method to ensure accurate accounting. 
+ 
+VM0047, v1.1 
+23 
+Disturbance of dead wood pools as part of project activities (e.g., site preparation) prior to the 
+establishment of plot-based sampling may make the project ineligible, per the applicability 
+condition in Section 4.2(2).  
+The net carbon stock change in dead wood in the project scenario is estimated as follows: 
+∆ܥௐ௉−஽ௐ,௧= ܣ× (ܥௐ௉−஽ௐ,௧ – ܥௐ௉−஽ௐ,௧=0) 
+(7) 
+Where: 
+∆CWP-DW,t 
+= Change in carbon stock in dead wood in the project scenario through year 
+t (t C) 
+A 
+= Area (ha) 
+CWP-DW,t 
+= Average carbon stock in dead wood in the project scenario in year t 
+(t C/ha) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Dead wood carbon stock includes standing dead wood that is fully dead (i.e., absence of green 
+leaves and green cambium) and lying dead wood and is estimated as follows: 
+ܥௐ௉−஽ௐ,௧= (ܤௌ஽ௐ,௧+ ܤ௅஽ௐ,௧) × ܥܨ 
+(8) 
+Where: 
+CWP-DW,t 
+= Average carbon stock in dead wood in the project scenario in year t 
+(t C/ha) 
+BSDW,t 
+= Average biomass of standing dead wood in year t (t d.m./ha) 
+BLDW,t 
+= Average biomass of lying dead wood in year t (t d.m./ha) 
+CF 
+= Carbon fraction of dry biomass (t C/t d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+8.2.1.5 Area-based Quantification of Litter 
+The change in carbon stock in litter is estimated as follows: 
+∆ܥௐ௉−௅ூ,௧= ܣ× (ܥௐ௉−௅ூ,௧ – ܥௐ௉−௅ூ,௧=0) 
+(9) 
+Where: 
+∆CWP-LI,t 
+= Change in carbon stock in litter in the project scenario through year t (t C) 
+A 
+= Area (ha) 
+CWP-LI,t 
+= Average carbon stock in litter in the project scenario in year t (t C/ha) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+VM0047, v1.1 
+24 
+ 
+ܥௐ௉−௅ூ,௧= ܦܯௐ௉−௅ூ,௧× ܥܨ 
+(10) 
+Where: 
+CWP-LI,t 
+= Average carbon stock in litter in the project scenario in year t (t C/ha) 
+DMWP-LI,t 
+= Average litter dry mass per hectare in the project scenario in year t 
+(t d.m./ha) 
+CF 
+= Carbon fraction of dry biomass (t C/t d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+8.2.1.6 Area-based Quantification of Soil Organic Carbon 
+Stocks of SOC are estimated from direct measurements. The change in SOC stock in the project 
+scenario is estimated as follows: 
+∆ܥௐ௉−ௌை஼,௧= ܣ× (ܥௐ௉−ௌை஼,௧ –ܥௐ௉−ௌை஼,௧=0)  
+(11) 
+Where: 
+∆CWP-SOC,t 
+= Change in carbon SOC stock in the project scenario through year t (t C) 
+A 
+= Area (ha) 
+CWP-SOC,t 
+= Average SOC stock in the project scenario in year t (t C/ha) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+8.2.2 Area-based Quantification of Emissions from Biomass Burning and Fertilizer Use 
+Total project emissions in the area-based approach are estimated as:  
+ܲܧ௧= ܲܧ௕௕௨௥௡,௧+ ܲܧ௙௘௥௧,௧ 
+(12) 
+Where: 
+PEt 
+= Project emission from biomass burning and fertilizer use in the monitoring 
+interval ending in year t (tCO2e) 
+PEbburn,t 
+= Project emissions due to biomass burning in the monitoring interval 
+ending in year t (t CO2e) 
+PEfert,t 
+= Project emissions from nitrogen fertilizer in the monitoring interval ending 
+in year t (t CO2e) 
+ 
+ 
+VM0047, v1.1 
+25 
+8.2.2.1 Area-based Quantification of Emissions from Biomass Burning 
+ܲܧ௕௕௨௥௡,௧= ܣ௕௨௥௡,௧× ∑(ܩܹܲ௚× ܧܨ௚× ܤௐ௉,௧× ܥܱܯܨ× 10−3)
+ீ
+௚=1
+ 
+(13) 
+Where: 
+PEbburn,t 
+= Project emissions due to biomass burning in the monitoring interval 
+ending in year t (t CO2e)  
+Aburn,t 
+= Area burned in the monitoring interval ending in year t (ha) 
+GWPg 
+= Global warming potential for gas g (dimensionless) 
+EFg 
+= Emission factor for gas g (kg gas/t d.m. burned) 
+BWP,t 
+= Average aboveground biomass stock subject to burning in the project 
+scenario in the monitoring interval ending in year t (t d.m./ha) 
+COMF 
+= Combustion factor (dimensionless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+g 
+= 1, ..., G greenhouse gases (methane and nitrous oxide) (dimensionless) 
+10−3 
+= Conversion of kilograms to tonnes 
+The average aboveground biomass stock subject to burning is estimated as follows: 
+ܤௐ௉,௧= (ܥௐ௉−௪௢௢ௗ௬−஺஻,௧−௫+ ܥௐ௉−ℎ௘௥௕,௧−௫+ ܥௐ௉−஽ௐ,௧−௫ + ܥௐ௉−௅ூ,௧−௫) × (1/ܥܨ) 
+(14) 
+Where: 
+BWP,t 
+= Average aboveground biomass stock subject to burning in the project 
+scenario in the monitoring interval ending in year t (t d.m./ha) 
+CWP-woody-AB,t−x 
+= Average carbon stock in aboveground woody biomass in the project 
+scenario in year t − x (t C/ha) 
+CWP-herb,t−x 
+= Average carbon stock in non-woody biomass in the project scenario in year 
+t − x (t C/ha) 
+CWP-DW,t−x 
+= Average carbon stock in dead wood in the project scenario in year t − x 
+(t C/ha) 
+CWP-LI,t−x 
+= Average carbon stock in litter in the project scenario in year t − x (t C/ha) 
+CF 
+= Carbon fraction of dry biomass (t C/t d.m.) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+x 
+= Length of monitoring period (years) 
+8.2.2.2 Area-based Quantification of Emissions from Fertilizer Application 
+Where nitrogen fertilizer is applied due to the project activity, nitrous oxide emissions are 
+estimated as follows:  
+ܲܧ௙௘௥௧,௧= ܲܧேௗ௜௥௘௖௧,௧+ ܲܧே௜௡ௗ௜௥௘௖௧,௧ 
+(15) 
+Where: 
+ 
+VM0047, v1.1 
+26 
+PEfert,t 
+= Project emissions from nitrogen fertilizer in the monitoring interval ending 
+in year t (t CO2e) 
+PENdirect,t 
+= Direct nitrous oxide emissions due to fertilizer use in the project scenario 
+in the monitoring interval ending in year t (t CO2e) 
+PENindirect,t 
+= Indirect nitrous oxide emissions due to fertilizer use in the project scenario 
+in the monitoring interval ending in year t (t CO2e)  
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+ܲܧேௗ௜௥௘௖௧,௧= (ܨ௪௣,ௌே,௧+ ܨ௪௣,ைே,௧) × ܧܨேௗ௜௥௘௖௧×
+44
+28 × ܩܹܲ௚  
+(16) 
+Where: 
+ 
+ࡲ࢝࢖,ࡿࡺ,࢚= ࡹ࢝࢖,ࡿࡲ,࢚× ࡺ࡯࢝࢖,ࡿࡲ,࢚ 
+ (17) 
+Where: 
+ 
+ܨ௪௣,ைே,௧= ܯ௪௣,ைி,௧× ܰܥ௪௣,ைி,௧ 
+(18) 
+ 
+PEN,direct,t 
+= Direct nitrous oxide emissions due to fertilizer use in the project scenario 
+in the monitoring period ending in year t (t CO2e) 
+Fwp,SN,t 
+= Synthetic nitrogen fertilizer applied in the project scenario in the 
+monitoring interval ending in year t (t N)  
+Fwp,ON,t 
+= Organic nitrogen fertilizer applied in the project scenario in the monitoring 
+interval ending in year t (t N) 
+EFNdirect 
+= Emission factor for direct nitrous oxide emissions from nitrogen additions 
+due to synthetic fertilizers, organic amendments, and crop residues 
+(t N2O-N/t N applied) 
+GWPg 
+= Global warming potential for gas g (here, nitrous oxide) (dimensionless) 
+44/28 
+= Ratio of molecular weight of nitrous oxide to nitrogen (unitless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Fwp,SN,t 
+= Synthetic nitrogen fertilizer applied in the project scenario in the 
+monitoring interval in year t (t N)  
+Mwp,SF,t 
+= Mass of nitrogen-containing synthetic fertilizer applied in the project 
+scenario in the monitoring interval ending in the monitoring period ending 
+in year t (t) 
+NCwp,SF,t 
+= Nitrogen content of synthetic fertilizer applied in the project scenario in 
+the monitoring period ending in year t (t N/t fertilizer) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+VM0047, v1.1 
+27 
+Where: 
+ 
+ܲܧே௜௡ௗ௜௥௘௖௧,௧= ݂ܰ݁ݎݐ௪௣,௩௢௟௔௧,௧+ ݂ܰ݁ݎݐ௪௣,௟௘௔௖ℎ,௧  
+(19) 
+ 
+Where: 
+ 
+݂ܰ݁ݎݐ௪௣,௩௢௟௔௧,௧= [(ܨ௪௣,ௌே,௧× ܨݎܽܿீ஺ௌி) + (ܨ௪௣,ைே,௧× ܨݎܽܿீ஺ௌெ)] × ܧܨே௩௢௟௔௧× 44
+28 × ܩܹܲ௚ 
+(20) 
+Where: 
+Nfertwp,volat,t 
+= Indirect nitrous oxide emissions produced from atmospheric deposition of 
+nitrogen volatilized due to nitrogen fertilizer use in the project scenario in 
+the monitoring interval ending in year t (t CO2e) 
+Fwp,SN,t 
+= Synthetic nitrogen fertilizer applied in the project scenario in the 
+monitoring interval ending in year t (t N) 
+FracGASF 
+= Fraction of all synthetic nitrogen added to soils that volatilizes as 
+ammonia and NOx (dimensionless) 
+Fwp,ON,t 
+= Organic nitrogen fertilizer applied in the project scenario in the monitoring 
+interval ending in year t (t N) 
+FracGASM 
+= Fraction of all organic nitrogen added to soils that volatilizes as ammonia 
+and NOx (dimensionless) 
+Fwp,ON,t 
+= Organic nitrogen fertilizer applied in the project scenario in the monitoring 
+period ending in year t (t N) 
+Mwp,OF,t 
+= Mass of nitrogen-containing organic fertilizer applied in the project 
+scenario in the monitoring interval ending in the monitoring period ending 
+in year t (t) 
+NCwp,OF,t 
+= Nitrogen content of organic fertilizer applied in the project scenario in the 
+monitoring period ending in year t (t N/t fertilizer) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+PENindirect,t 
+= Indirect nitrous oxide emissions due to fertilizer use in the project scenario 
+in the monitoring interval ending in year t (t CO2e)  
+Nfertwp,volat,t 
+= Indirect nitrous oxide emissions produced from atmospheric deposition of 
+nitrogen volatilized due to nitrogen fertilizer use in the project scenario in 
+the monitoring interval ending in year t (t CO2e) 
+Nfertwp,leach,t 
+= Indirect nitrous oxide emissions produced from leaching and runoff of 
+nitrogen, in regions where leaching and runoff occurs, due to nitrogen 
+fertilizer use in the project scenario in the monitoring interval ending in 
+year t (t CO2e)  
+ 
+VM0047, v1.1 
+28 
+EFNvolat 
+= Emission factor for nitrous oxide emissions from atmospheric deposition 
+of nitrogen on soils and water surfaces (t N2O-N/(t NH3-N + NOx-N 
+volatilized)) 
+GWPg 
+= Global warming potential for gas g (here, nitrous oxide) (dimensionless)  
+44/28 
+= Ratio of molecular weight of nitrous oxide to nitrogen (unitless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+݂ܰ݁ݎݐ௪௣,௟௘௔௖ℎ,௧= (ܨ௪௣,ௌே,௧+ ܨ௪௣,ைே,௧) × ܨݎܽܿ௅ா஺஼ு× ܧܨே௟௘௔௖ℎ× 44
+28 × ܩܹܲ௚ 
+(21) 
+ 
+Where: 
+Nfertwp,leach,t 
+= Indirect nitrous oxide emissions produced from leaching and runoff of 
+nitrogen, in regions where leaching and runoff occurs, due to nitrogen 
+fertilizer use in the project scenario in the monitoring interval ending in 
+year t (t CO2e) 
+Fwp,SN,t 
+= Synthetic nitrogen fertilizer applied in the project scenario in the 
+monitoring interval ending in year t (t N) 
+Fwp,ON,t 
+= Organic nitrogen fertilizer applied in the project scenario in the monitoring 
+interval ending in year t (t N) 
+FracLEACH 
+= Fraction of synthetic or organic nitrogen added to soils that is lost through 
+leaching and runoff, in regions where leaching and runoff occurs 
+(dimensionless)  
+EFNleach 
+= Emission factor for nitrous oxide emissions from leaching and runoff 
+(t N2O-N/t N leached and runoff) 
+GWPg 
+= Global warming potential for gas g (here, nitrous oxide) (dimensionless)  
+44/28 
+= Ratio of molecular weight of nitrous oxide to nitrogen (unitless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+8.3 
+Census-based Project Emissions 
+The calculations of carbon stock changes and project emissions for the census-based approach 
+are summarized in Figure 2. 
+ 
+VM0047, v1.1 
+29 
+Figure 2. Summary of calculations for census-based approach 
+ 
+8.3.1 Census-based Project Carbon Stock Changes 
+The project carbon stock change from the start date through year t is estimated as follows: 
+∆ܥௐ௉,௧= (∆ܥௐ௉−௪௢௢ௗ௬,௧) × 44
+12 
+(22) 
+Where: 
+ΔCWP,t  
+= Project carbon stock change through year t (t CO2e) 
+ΔCWP-woody,t 
+= Change in carbon stock in woody biomass in the project scenario through 
+year t (t C) 
+44/12 
+= Ratio of molecular weight of carbon dioxide to carbon (unitless) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+Where a project proponent begins measuring carbon stocks after the start date (t > 0), the first 
+year of measurement replaces t = 0 in all stock change calculations. Between t = 0 and t > 0, the 
+project’s carbon stock change must be assumed to be zero. The project start date remains t = 0 
+for all other purposes, including crediting period determination and baseline setting. 
+ 
+VM0047, v1.1 
+30 
+8.3.1.1 Census-based Quantification of Woody Biomass 
+Carbon stock change in woody biomass in the project scenario is estimated as follows: 
+ 
+Δܥௐ௉−௪௢௢ௗ௬,௧= ܥௐ௉−௪௢௢ௗ௬,௧  
+ 
+(23) 
+ 
+Where: 
+∆CWP-woody,t 
+= Change in carbon stock in woody biomass in the project scenario through 
+year t (t C) 
+CWP-woody,t 
+= Average carbon stock in woody biomass in the project scenario in year t 
+(t C) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+Carbon stock in woody biomass in the project scenario is estimated by applying the number of 
+planting units (N) as a scaling factor and adjusting for mortality (Mt) at each monitoring event.  
+Note – Monitoring of the complete census of planting units is required. 
+ܥௐ௉−௪௢௢ௗ௬,௧= ܰ× (1 − ܯ௧) × ܥௐ௉−௪௢௢ௗ௬−௣௨_௔௩௚,௧ 
+(24) 
+Where: 
+CWP-woody,t 
+= Average carbon stock in woody biomass in the project scenario in year t 
+(t C) 
+N 
+= Initial population size (number of planting units) 
+Mt 
+= Mortality through year t (%) 
+CWP-woody-pu_avg,t 
+= Average carbon stock in woody biomass per planting unit pu in the project 
+scenario in year t (t C/planting unit) 
+t 
+= 1, 2, 3, …, t years elapsed since the project start date 
+ 
+Average carbon stock in woody biomass per planting unit is calculated as follows: 
+ܥௐ௉−௪௢௢ௗ௬−௣௨_௔௩௚,௧= 1
+ ݊௧
+× ∑(ܤௐ௉−௪௢௢ௗ௬−஺஻,௣௨,௧
+௡೟
+௣௨=1
+× (1 + ܴ) × ܥܨ) 
+(25) 
+Where: 
+CWP-woody-pu_avg,t 
+= Average carbon stock in woody biomass per planting unit (pu) in the 
+project scenario in year t (t C/planting unit) 
+nt 
+= Number of planting units sampled in year t (integer) 
+BWP-woody-AB,pu,t 
+= Estimated biomass stock in aboveground woody biomass in sampled 
+planting unit pu in the project scenario in year t (t d.m.) 
+ 
+VM0047, v1.1

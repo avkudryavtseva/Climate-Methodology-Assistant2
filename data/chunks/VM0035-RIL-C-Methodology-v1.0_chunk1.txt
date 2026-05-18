@@ -1,0 +1,55 @@
+1  
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Performance Method 
+Crediting Baseline 
+Performance Method 
+This methodology is applicable to projects which implement reduced impact logging practices to 
+reduce greenhouse gas (GHG) emissions (hereafter termed RIL-C practices) in one or more of 
+three GHG emission source categories (ie, timber felling, skidding and hauling). RIL-C practices 
+may entail a range of improved logging and harvest planning practices, including, but not limited 
+to, directional felling, improved log bucking (to permit greater recovery), improved harvest 
+planning via pre-harvest inventory, skid trail planning and/or monocable winching, and reduction 
+in width of haul roads and size of log landings. 
+  
+The effectiveness of RIL-C practices, and accounting of emission reductions attributable to those 
+practices, is assessed on the basis of their impacts post-harvest. Emission reductions are 
+accounted for by applying a performance method approach, whereby emission reductions (net of 
+baseline and project emissions) are assigned as a function of the difference between a set 
+crediting baseline for each emission source category (ie, felling, skidding and hauling) and the 
+measured impact of those parameters in the project scenario.  
+ 
+To ensure credible estimation of emission reductions, the impact parameters applied by this 
+methodology are quantitative and outcome-based, rather than process-based (which are typically 
+limited to demonstrating that the practice is in place, but may provide no information on how 
+successful the implementation of the practice is). Further, emission reductions are estimated as a 
+continuous function of the impact parameter values with which they correspond, providing better 
+resolution of outcomes than a flat default factor. This methodology has been designed to ensure 
+that emission reductions achieved based on one impact parameter are not reversed by excessive 
+emissions with respect to another impact parameter, by requiring that all impact parameters must 
+be at or below the crediting baseline in order for credits to be generated based on any one impact 
+parameter. 
+ 
+Accounting is further simplified by incorporating the assumption that leakage equals zero and the 
+wood products pool can be excluded because the methodology requires that there is no reduction 
+in harvest levels.  
+ 
+Accounting is focused on emissions at the time of harvest from operations including felling, 
+skidding and hauling, and delayed emissions from belowground biomass. Any net sequestration 
+from comparatively improved growth post-RIL-C harvest is conservatively ignored.  
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+5 
+ 
+Accounting of emission reductions begins on the project start date and is determined on all 
+harvests through the project crediting period.  
+ 
+This document provides the framework for the methodology, and serves to outline core 
+accounting procedures. Key parameters such as additionality benchmarks, crediting baselines, 
+impact parameters, emission reduction equations and monitoring procedures are provided in 
+corresponding geographic-specific RIL-C performance method modules. This methodology must 
+be used in conjunction with a region-specific performance method module. The list of approved 
+performance method modules applicable to this methodology can be found on the VCS website.

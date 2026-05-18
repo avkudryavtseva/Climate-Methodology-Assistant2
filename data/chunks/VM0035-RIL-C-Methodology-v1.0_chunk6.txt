@@ -1,0 +1,26 @@
+6  
+ADDITIONALITY 
+This methodology uses a performance method for the demonstration of additionality. 
+Step 1: Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the latest version of the VCS Standard.  
+Step 2: Performance Benchmark 
+Projects must exceed the region-specific performance benchmark for each impact parameter (ie, 
+proxy factor), as provided in the applicable RIL-C performance method module. One or more 
+impact parameters are defined in the applicable RIL-C performance method module for each of 
+three categories: felling impacts, skidding impacts and hauling impacts. 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+11 
+ 
+Projects may only be credited for emission reductions from one or more impact parameters if they 
+are deemed additional. A project is deemed additional for one or more impact parameters if the 
+impact parameter is below the additionality benchmark assigned for that impact parameter. The 
+project may only be credited for emission reductions if all impact parameters are at or 
+below their respective crediting baselines. 
+This benchmark threshold should be conservative and strike a balance between restriction of 
+freeriders and feasibility of participation. This threshold may be different from (ie, lower than) the 
+crediting baseline. Thus, while a project must be below the additionality benchmark in order to 
+receive any emission reductions credits, once below the additionality benchmark, the amount of 
+credits generated is measured using the crediting baseline.

@@ -1,0 +1,83 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology. 
+Aerosol 
+A liquefied or compressed gas used to propel active ingredients in liquid, paste, or powder form 
+in precise spray patterns with controlled droplet sizes and amounts. Typical aerosol products 
+use a propellant that is a gas at atmospheric pressure and pressurized liquid in the can. 
+Aggregation facility 
+A facility where ODS or HFC refrigerants, blowing agents, fire suppression agents, or propellants 
+are recovered from appliances, appliance insulation foam, fire suppression systems, or 
+aerosols, or where these collected substances are aggregated in preparation for destruction. A 
+location at which refrigerant is recovered from stationary equipment (e.g., a chiller) does not 
+classify as an aggregation facility.  
+Blowing agent 
+An ozone-depleting substance or hydrofluorocarbon added to liquid plastic resin that generates 
+inert gases on heating, causing the resin to assume a cellular structure. 
+Collection 
+The process by which ODS or HFC refrigerants, blowing agents, fire suppression agents, or 
+propellants are obtained by the project proponent from a third-party source. 
+Destruction facility 
+A facility where ODS or HFC are destroyed by one of the technologies approved by the 
+Technology and Economic Assessment Panel (TEAP) under the Montreal Protocol.  
+Fire suppression agent 
+An ozone-depleting substance or hydrofluorocarbon used or intended for use in fire suppression 
+equipment. 
+Fire suppression system 
+A total flooding system or streaming application: 
+• 
+Total flooding system: engineered to discharge a fire suppressing agent, automatically by 
+detection and related controls or manually by a systems operator, to achieve a specified 
+minimum agent concentration throughout a confined space. Total flooding systems create a 
+fire suppressing or extinguishing atmosphere in a defined volume (enclosed space). 
+• 
+Streaming application: use of portable fire extinguishers intended as a first line of defense 
+that can be manually operated to discharge an agent in a specific direction and release a 
+specific quantity of extinguishing agent to address fires of limited size 
+VM0016, v2.0 
+7 
+Government stockpile 
+A stockpile of CFC, HCFC, or HFC, whether neat or in a mixture, that is held by a government 
+agency and cannot re-enter the stream of commerce (e.g., material that was seized by the 
+government). 
+Hydrofluorocarbon (HFC) 
+A man-made compound that contains fluorine and hydrogen atoms. Many HFCs have a high 
+global warming potential (GWP) and are therefore greenhouse gases.  
+Ozone-depleting substances (ODS) 
+A family of man-made compounds that includes, but is not limited to, chlorofluorocarbons 
+(CFCs), bromofluorocarbons (halons), methyl chloroform, carbon tetrachloride, methyl bromide, 
+and hydrochlorofluorocarbons (HCFCs). These compounds deplete stratospheric ozone. Many 
+ODS have high global warming potential and are therefore greenhouse gases. CFC ozone-
+depleting substances are listed in Tables A1 and A2 in Appendix 1. HCFC ozone-depleting 
+substances are listed in Table A3 in Appendix 1. 
+Propellant  
+An ozone-depleting substance or hydrofluorocarbon used or intended for use in propeller 
+systems such as aerosol equipment. 
+Reclaim 
+To reprocess used ODS or HFC refrigerants, blowing agents, fire suppression agents, or 
+propellants, typically by distillation, to specifications similar to those of virgin product (e.g., 
+meeting the U.S. Air-Conditioning, Heating and Refrigeration Institute [AHRI] 700-2006 
+standard). 
+Recovery 
+To remove ODS or HFC refrigerants, blowing agents, fire suppression agents, or propellants in 
+any condition from a system and store in an external container. 
+Recycle 
+To extract ODS or HFC refrigerants from an appliance and clean it using oil separation and 
+single or multiple passes through filter driers, which reduce moisture, acidity, and particulate 
+matter. 
+Refrigerant 
+An ODS or HFC used or intended for use in a cooling mechanism, such as refrigerators, air 
+conditioners, heat pumps and chillers, as the heat carrier that changes from gas to liquid and 
+then back to gas. 
+Refrigeration appliance 
+An appliance whose main purpose is the cooling of foodstuffs and other temperature-sensitive 
+products, including domestic refrigerators, domestic refrigerator-freezers, and domestic chest 
+or upright freezers. 
+VM0016, v2.0 
+8 
+Stockpile 
+A CFC, HCFC, or HFC, whether neat or in a mixture, stored in an external container by a single 
+person or entity (e.g., private companies, organizations, government agencies), or by multiple 
+people or entities at a single location. A stockpile may be composed of one or more containers 
+of any size. Containers in a stockpile may consist of recovered, reclaimed, recycled, or unused 
+(manufactured for use but never used) CFC, HCFC, or HFC.

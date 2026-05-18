@@ -1,0 +1,54 @@
+3 DEFINITIONS AND ACRONYMS 
+3.1 
+Definitions 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology: 
+Baseline Validity Period  
+The period of time a baseline is considered valid, as set out in the VCS Standard 
+Degraded Wetland 
+A wetland which has been altered by human or natural impact through the impairment of 
+physical, chemical and/or biological properties, and in which the alteration has resulted in a 
+reduction of the diversity of wetland-associated species, soil carbon and/or the complexity of 
+other ecosystem functions which previously existed in the wetland 
+ 
+VM0007, v1.8 
+12 
+Expert Judgment  
+Judgment on methodological choice and choice of input data and to fill gaps in the available 
+data, to select data from a range of possible values or on uncertainty ranges as established in 
+the IPCC 2006 Good Practice Guidance. Obtaining well-informed judgments from domain 
+experts regarding best estimates and uncertainties of inputs to the quantification of emission 
+reductions is an important aspect in various procedures throughout this methodology. The 
+guidance provided in Chapter 2, Volume 1 (Approaches to Data Collection) must be used, in 
+particular, Section 2.2 and Annex 2A.1 of the IPCC 2006 Guidelines for National Greenhouse 
+Gas Inventories 
+Historical Reference Period  
+A fixed period of time during which factors must be considered in order to make future 
+projections of deforestation, the duration of which is set out in the VCS Methodology 
+Requirements 
+Organic Soil 
+Soil with a surface layer of material that has a sufficient depth and percentage of organic 
+carbon to meet thresholds set by the IPCC (Wetlands supplement) for organic soil. Where used 
+in this methodology, the term peat is used to refer to organic soil 
+Terrestrial 
+On land, in the context of this methodology, though not on a wetland 
+Tidal Wetland 
+A subset of wetlands under the influence of the wetting and drying cycles of the tides (e.g., 
+marshes, seagrass meadows, tidal forested wetlands and mangroves). Sub-tidal seagrass 
+meadows are not subject to drying cycles but are still included in this definition 
+Tidal Wetland Restoration  
+Reestablishing or improving hydrology, salinity, water quality, sediment supply and/or 
+vegetation in degraded or converted tidal wetlands. For the purpose of this methodology, this 
+definition also includes activities that create wetland ecological conditions on uplands under 
+the influence of sea level rise or activities that convert one wetland type to another or activities 
+that convert open water to wetland 
+3.2 
+Acronyms 
+APDef Avoiding Planned Deforestation 
+APWD Avoiding Planned Wetland Degradation 
+ARR 
+Afforestation, Reforestation and Revegetation 
+AUDef Avoiding Unplanned Deforestation  
+AUWD Avoiding Unplanned Wetland Degradation 
+ 
+VM0007, v1.8

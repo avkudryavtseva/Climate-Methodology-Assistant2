@@ -1,0 +1,88 @@
+3 DEFINITIONS 
+Aggregate 
+A collective term for the mineral materials such as sand, gravel and crushed stone that are 
+used with a binding medium to form asphalt. Aggregate can be from either natural or 
+recycled sources, called virgin aggregate or recycled aggregate. 
+Asphalt 
+A cementitious material, ranging from a dark brown to black color, in which the 
+predominating constituents are bitumens that occur in nature or are obtained by petroleum 
+processing. 
+Asphalt Emulsions 
+A dispersion of small droplets of one liquid into another liquid. Usually, asphalt emulsions 
+contain small droplets of asphalt binder in water and emulsifying agent. Standard asphalt 
+emulsions contain 40% to 75% asphalt binder, 0.1% to 2.5% emulsifier, and 25% to 60% 
+water. 
+Asphalt Pavement 
+Asphalt concrete layer(s) on supporting courses such as concrete base, asphalt treated 
+base, cement treated base, granular base, and/or granular sub-base placed over the 
+subgrade. 
+Bitumen 
+A black or dark colored organic material with adhesive properties derived from distillation of 
+petroleum or natural asphalt. Bitumen is also called liquid asphalt, asphalt binder, and/or 
+liquid asphalt cement. 
+ VM0039, v1.1 
+ 
+6 
+ 
+Cold Central Plant Recycling (CCPR) 
+A method for producing FSB and asphalt emulsions which requires milled reclaimed asphalt 
+pavement (RAP) to be transported from an existing jobsite to a central mixing plant. The 
+unheated RAP is then blended with foamed asphalt and a small amount of Portland cement 
+in a cold mixing process. 
+Cold In-Place Recycling (CIR) 
+The principal method for producing FSB and asphalt emulsions which uses one or more 
+mobile recycling machines for milling, asphalt production, and placement in a continuous 
+operation at the pavement site. Generally, CIR uses 100% RAP generated from the existing 
+pavement, which is blended with small amount of Portland cement with a treatment depth 
+ranging from approximately 2 to 6 inches. 
+Foamed Asphalt 
+A mixture of air, water, and bitumen. When injected with a small quantity of cold water, the 
+hot bitumen expands explosively to about fifteen times its original volume and forms a fine 
+mist or foam. In this foamed state, the bitumen has a very large surface area and an 
+extremely low viscosity. This expanded bitumen mist is then incorporated into the mixing 
+drum where the bitumen droplets are attracted to and coat the finer particles of pavement 
+material, thus forming a mastic that effectively binds the mixture together. 
+Foamed Stabilized Base (FSB) 
+A mixture of foamed asphalt binder and RAP, or a combination of RAP and recycled 
+concrete. Unlike hot mix asphalt (HMA), the foamed binder does not coat the aggregate 
+particles. Rather, it coats the fines (passing #200 sieve) in the aggregate, which helps serve 
+as a bonding agent to keep the aggregate particles together. FSB is generally used as a 
+base course layer in the pavement construction in lieu of conventional HMA in order to 
+reduce the carbon footprint of construction operations. 
+Full-Depth Reclamation (FDR) 
+A technique in which the full thickness of the asphalt pavement and a pre-determined 
+portion of the underlying material (base, sub base, and/or subgrade) is uniformly pulverized 
+and blended to provide an upgraded, homogenous base material. FDR is performed on the 
+roadway without the addition of heat, similar to CIR. Thus, the emissions from FDR can be 
+quantified using the same method as CIR. 
+Hot Mix Asphalt (HMA) 
+A mixture of course aggregate, fine aggregate, and asphalt cement that is produced at a 
+central facility at temperatures between 300 and 325°F. HMA can incorporate a small 
+amount of RAP (usually 10% to 30%) into the mix. 
+Portland Cement 
+The most common type of generally used cement around the world. It is used as a basic 
+ingredient of concrete, mortar, stucco, and most non-specialty grout. It usually originates 
+from limestone. Portland cement is a fine powder that consists of more than 90% ground 
+Portland cement clinker, a limited amount of calcium sulfate (which controls the set time), 
+and up to 5% minor constituents as allowed by various standards. 
+Reclaimed Asphalt Pavement (RAP) 
+Material generated from milling existing asphalt pavement layers during the rehabilitation of 
+paved surfaces. RAP consists of aggregates that are coated by asphalt. 
+ VM0039, v1.1 
+ 
+7 
+ 
+Structural Layer Coefficient 
+The relative structural capacity of a material per inch of thickness. 
+Virgin Aggregate 
+Aggregate that has been quarried and not used in any prior asphalt applications. 
+Warm Mix Asphalt (WMA) 
+A subcategory of HMA that is produced within a target temperature discharge range using 
+the applicable state Department of Transportation (DOT) approved WMA additives or 
+processes. The WMA technologies may be used as coating and compaction aids without 
+lowering the production temperature. 
+ 
+ 
+ VM0039, v1.1 
+ 
+8

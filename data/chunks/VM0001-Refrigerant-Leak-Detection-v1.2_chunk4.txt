@@ -1,0 +1,21 @@
+3 DEFINITIONS 
+DX refrigeration equipment 
+Direct expansion (DX) refrigeration equipment that uses a two-phase fluid directly in an 
+evaporator to absorb heat through an expansion and evaporation process. 
+HVAC system 
+A heat, ventilation and air conditioning (HVAC) system that provides comfort heating and 
+cooling to a room, area or entire building. 
+Metric tonnes 
+A unit of mass equal to 1,000 kilograms, used in the metric system. All references to tonnes in 
+this methodology refer to metric tonnes. 
+Real-time automatic leak detection system 
+Refrigerant leak detection system that automatically monitors refrigerant at regular intervals 
+throughout the day on a real-time basis. 
+ 
+VM0001, v1.2 
+ 
+5 
+Seasonal top-offs and draw-downs 
+Adjustments to the refrigerant charge quantity of a system to compensate for the additional 
+refrigerant needed for condenser flooding in winter to maintain head pressure and for the 
+removal of refrigerant in the summer to prevent overfilling of the system receiver.

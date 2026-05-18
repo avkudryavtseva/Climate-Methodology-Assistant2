@@ -1,0 +1,40 @@
+4 APPLICABILITY CONDITIONS 
+This methodology is globally applicable to project activities that capture CO2, which would 
+have otherwise been emitted to or remained in the atmosphere, and utilize it as a feedstock 
+in the production of concrete.  
+ 
+This methodology is applicable under the following conditions:  
+1) Project activities manufacture ready-mix or pre-cast concrete products using CO2 as 
+a feedstock, a process that requires lower amounts of cement than concrete 
+production processes that do not use CO2 as a feedstock. 
+2) The concrete products produced by the project activity have equivalent or better 
+performance (e.g., compressive strength and code compliance) as the baseline 
+concrete products that would have otherwise been produced and used in the 
+absence of the project.   
+3) Project activities produce a concrete material that will be used and sold in the 
+commercial market. 
+4) The use of supplementary cementitious materials (SCM) in cement and concrete is 
+eligible either in the baseline or project scenario. 
+5) Where project activities produce pre-cast products, the products replace pre-cast 
+products made in the traditional form (without CO2 as feedstock and higher cement 
+content) and do not replace other products made of different materials. 
+CO2 from direct air capture (DAC) is an acceptable source of CO2 for this project 
+activity.    
+6) If CO2 is captured from an emissions source that is regulated by a cap-and-trade or 
+emission trading system (ETS) program, the project proponent must review the 
+facility’s emissions reporting to regulators to ensure it is not reducing its emissions 
+output based on the amount of CO2 captured and supplied to the project activity. 
+Alternatively, the project proponent can receive an attestation from the facility that it 
+is not reporting lower emissions due to the capture of CO2 for the project activity. If 
+such reporting is not available or an attestation cannot be provided, the project 
+activity must not count emissions reductions for the sequestering of CO2 into 
+concrete (although emission reductions can still be counted for the reduction in 
+cement usage). 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+7 
+This methodology is not applicable under the following conditions: 
+1) Recycled concrete use in both the baseline or project scenario.

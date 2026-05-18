@@ -1,0 +1,365 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+In addition to the parameters listed in the tables below, the provisions on data and parameters 
+available at validation in the tools referred to in this methodology apply. 
+ 
+Data/Parameter 
+Lx,s 
+Data unit 
+kg 
+Description 
+Total leaks from refrigerants in baseline year x from store equipment s 
+in stores has leak detection systems installed and HFCs in use by year y 
+Equations 
+(1) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+ 
+VM0001, v1.2 
+ 
+14 
+Value applied 
+Sum of historical refrigerant leaks in the store equipment s during the 
+baseline years x. 
+x is the baseline year for each store equipment s, including historical 
+data of at least three consecutive years x. 
+If refills are less frequent than three years, the baseline period must be 
+adjusted to cover at least one full refill cycle. 
+The project proponent must demonstrate that the selected baseline 
+period is conservative. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Since historical data are logged in compliance programs, baseline leak 
+data will be available at the time of validation to ensure a proper 
+reduction in leak rates is achieved. 
+If historical data is not available, this parameter will be included under 
+monitoring tables 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+Cx,s 
+Data unit 
+kg 
+Description 
+Total charge for refrigerants in year x from store equipment s in stores 
+that have leak detection systems installed and HFCs in use by year y 
+Equations 
+(1) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Value applied 
+Sum of historical refrigerant total charge size in the store equipment s, 
+using the more conservative value of the initial charge and the 
+nameplate charge. If the equipment lacks a nameplate, the initial 
+charge must be used. 
+x is the baseline year for each store equipment s, including historical 
+data of at least three consecutive years x. 
+If refills are less frequent than three years, the baseline period must be 
+adjusted to cover at least one full refill cycle. 
+The project proponent must demonstrate that the selected baseline 
+period is conservative. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Since historical data are logged in compliance programs, baseline 
+charge data will be available at the time of validation to ensure a proper 
+reduction in leak rates is achieved. 
+If historical data is not available, this parameter will be included under 
+monitoring tables 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+VM0001, v1.2 
+ 
+15 
+ 
+Data/Parameter 
+GWPT 
+Data unit 
+t CO2e/t HFCT 
+Description 
+Global warming potential of HFC type T installed/used in year y 
+Equations 
+(6) 
+Source of data 
+According to the most recent version of the VCS Standard 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+According to the most recent version of the VCS Standard 
+Purpose of data 
+Calculation of emission reductions 
+Comments 
+ 
+9.2 
+Data and Parameters Monitored 
+Data/Parameter 
+Lx,s 
+Data unit 
+kg 
+Description 
+Total leaks from refrigerants in baseline year x from store equipment s 
+in stores has leak detection systems installed and HFCs in use by year y 
+Equations 
+(1) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Total leak volumes are derived from the database systems used for 
+ODS/HFC management. Each system entry describes the amount of 
+refrigerant used to refill the refrigeration equipment each time a leak 
+occurs during year x, reflecting the amount of refrigerant leaked. This 
+provides the data inputs which summed over year x give the total leak 
+volumes for Lx,s. 
+x is the baseline year for each store equipment s, including historical 
+data of at least three consecutive years x. 
+If refills are less frequent than three years, the baseline period must be 
+adjusted to cover at least one full refill cycle. 
+The project proponent must demonstrate that the selected baseline 
+period is conservative. 
+Frequency of 
+monitoring/recording 
+Lx,s is recorded every time refrigerant is added, and where leak 
+detection systems are installed in new stores each year is updated 
+annually. 
+ 
+VM0001, v1.2 
+ 
+16 
+Leaks are typically reported in compliance logs as new refrigerant is 
+installed in the equipment. Compliance logs report these at different 
+frequencies (typically monthly totals) from which annual totals are 
+calculated. 
+QA/QC procedures to be 
+applied 
+Check for consistency among project data logs, compliance logs and 
+refrigerant purchase records. 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+Sum 
+Comments 
+Ensure that any seasonal top-off or draw-down additions/removals are 
+included/netted out in Lx,s even where these are not incorporated into 
+compliance logs. 
+ 
+Data/Parameter 
+Cx,s 
+Data unit 
+kg 
+Description 
+Total charge for refrigerants in year x from store equipment s in stores 
+that have leak detection systems installed and HFCs in use by year y 
+Equations 
+(1) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The HFC management data systems document refrigerant charges for 
+each piece of equipment in the stores. Cx,s is obtained by summing the 
+refrigerant charges for each piece of relevant equipment as itemized for 
+year x, using the more conservative value of the initial charge and the 
+nameplate charge. If the equipment lacks a nameplate, the initial 
+charge must be used. 
+x is the baseline year for each store equipment s, including historical 
+data of at least three consecutive years x. 
+If refills are less frequent than three years, the baseline period must be 
+adjusted to cover at least one full refill cycle. 
+The project proponent must demonstrate that the selected baseline 
+period is conservative. 
+Frequency of 
+monitoring/recording 
+Where leak detection systems are installed in new project stores each 
+year, Cx,s is annually updated to include the total HFC capacity charges 
+for those new stores. 
+QA/QC procedures to be 
+applied 
+Check for consistency among project data logs, compliance logs and 
+equipment specifications from manufacturer. 
+Purpose of data 
+Calculation of baseline emissions 
+ 
+VM0001, v1.2 
+ 
+17 
+Calculation method 
+Sum 
+Comments 
+Charge capacities for HFCs may change over the baseline period 
+because HFCs are gradually replacing HCFCs, whose charge levels may 
+be declining. Since Cx,s may fractionally change where leak detection 
+systems are installed in new stores, annual monitoring of 
+data/compliance logs in year y for total HFC charge amounts in 
+baseline years is required to take into account stores where new leak 
+detection systems have been installed by year y. 
+Cx,s measurement is consistent with the requirements for ODS/HFC 
+reporting. 
+ 
+Data/Parameter 
+Ly,s 
+Data unit 
+kg 
+Description 
+Total leaks from refrigerants in year y from store equipment s that has 
+leak detection systems installed and HFCs in use by year y 
+Equations 
+(3) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Total leak volumes are derived from the database systems used for 
+ODS management. Each system entry describes the amount of 
+refrigerant used to refill the refrigeration equipment each time a leak 
+occurs during year y, reflecting the amount of refrigerant leaked. This 
+provides the data inputs which summed over year y give the total leak 
+volumes for Ly,s. 
+Frequency of 
+monitoring/recording 
+Each time a refill takes place. Assessed once for year y. Leaks are 
+typically totaled monthly in compliance logs. 
+QA/QC procedures to be 
+applied 
+Check for consistency among project data logs, compliance logs and 
+refrigerant purchase records. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Sum 
+Comments 
+Ensure that any seasonal top-off or draw-down additions/removals are 
+included/netted out in Ly,s even where these are not incorporated into 
+compliance logs. 
+ 
+Data/Parameter 
+Cy,s 
+Data unit 
+kg 
+ 
+VM0001, v1.2 
+ 
+18 
+Description 
+Total charge for refrigerants in year y from store equipment s in stores 
+that have leak detection systems installed and HFC in use by year y 
+Equations 
+(3), (5) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The HFC management data systems document the refrigerant charges 
+for each piece of equipment in the stores. Cy,s is obtained by summing 
+the refrigerant charges for each piece of relevant equipment as 
+itemized for year y, as the initial charge or nameplate, using the more 
+conservative value of the initial charge and the nameplate charge. If the 
+equipment lacks a nameplate, the initial charge must be used. 
+Frequency of 
+monitoring/recording 
+Assessed once for year y 
+QA/QC procedures to be 
+applied 
+Check for consistency among project data logs, compliance logs and 
+equipment specifications from manufacturer. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Sum 
+Comments 
+Charge capacities for HFCs are likely to increase over time as HFCs are 
+installed across more equipment in a given store, replacing HCFCs. 
+Thus, annual monitoring of data/compliance logs in year y for total HFC 
+charge amounts is required. 
+ 
+Data/Parameter 
+LT,y 
+Data unit 
+kg 
+Description 
+Total leaks from refrigerant substance type T in year y from all store 
+equipment that has leak detection systems installed and HFCs in use 
+Equations 
+(6) 
+Source of data 
+Refrigerant compliance logs for relevant stores/equipment 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+As above for Lx,s and Ly,s for relevant refrigerant leaks by individual type 
+T 
+Frequency of 
+monitoring/recording 
+Assessed once for year y. Leaks typically totaled monthly in compliance 
+logs. 
+QA/QC procedures to be 
+applied 
+Check for consistency among project data logs, compliance logs and 
+total amount of refrigerant (ΣT(LT,y) = Σs(Ly,s)) 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Sum 
+ 
+VM0001, v1.2 
+ 
+19 
+Comments 
+Ensure that any seasonal top-off or draw-down additions/removals are 
+included/netted out in LT,y even where these are not incorporated into 
+compliance logs. 
+9.3 
+Description of the Monitoring Plan 
+ 
+All parameters indicated in Section 9.2 must be monitored unless indicated otherwise. All 
+measurements must be conducted with calibrated equipment and according to industry 
+standards. 
+As an overview, the monitoring system must include: 
+a) Leak management data taken from companies’ compliance records for HFC/ODS 
+refrigerants under the Montreal Protocol. The data management systems from which 
+a project’s core leak/charge data is obtained will already be in place and used for 
+complementary regulatory purposes. 
+b) Review of further calculations performed in order to establish cumulative annual leak 
+rates for systems and relevant averages (historical leak rates and current year leak 
+rates), which will typically be conducted separately from compliance records: 
+c) Including a review of seasonal invoices or data logs for top-off and draw-down 
+changes in refrigerants where these are not automatically included in real- time 
+compliance data systems. 
+d) Review of calculations of average weighted GWP based on the volume of refrigerants 
+used by a store in the crediting year, allocating GWP savings across HFCs on an 
+accurate pro-rata annual basis as established by the methodology. 
+While leak detection systems have a real-time, electronic management system to provide timely 
+alerts and communications, this methodology does not assume that monitoring and verification 
+systems are electronically based.  
+The monitoring frequencies and measurement procedures from which refrigerant leaks are 
+tracked are established by the underlying compliance requirements for HFC/ODS and will be 
+considered sufficient. In the US, refrigerant leaks are typically aggregated monthly, while 
+refrigerant charges are updated annually based on data from underlying ODS compliance 
+databases. The measurement and monitoring equipment in the leak detection systems must be 
+calibrated according to current good practices consistent with such compliance requirements. 
+ 
+VM0001, v1.2 
+ 
+20

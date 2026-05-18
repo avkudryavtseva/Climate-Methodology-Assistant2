@@ -1,0 +1,24 @@
+82 
+ DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+19 Apr 2011 
+Initial version released 
+v1.1 
+4 May 2012 
+Updates:  
+1) Removed applicability condition that projects must be developed on 
+fee simple or freehold private ownership properties.  
+v1.2 
+23 July 2013 
+Updates:  
+1) Emissions from harvesting equipment, log transport, and primary 
+forest product manufacturing were made optional.   
+2) Procedures for calculating storage in harvested wood products have 
+been updated from 100-year method to a method that accounts for 
+decay of carbon in short-term, medium term and long-term wood 
+products in accordance with the VCS rules. 
+3) Minor edits to language were made (eg, the term ‘must’ has been 
+used where a procedure is required by the methodology).

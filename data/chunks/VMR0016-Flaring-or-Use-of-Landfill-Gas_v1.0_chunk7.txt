@@ -1,0 +1,62 @@
+7 ADDITIONALITY 
+Project proponents must demonstrate additionality through demonstration of regulatory surplus 
+and either confirm that the project activity is on the positive list (activity method) or conduct an 
+investment analysis and common practice analysis (project method), as outlined in Sections 7.1 
+and 7.2 below.  
+Paragraphs 21 and 25 of ACM0001 must be read as indicated in Section 6 in VMR0016.  
+7.1 
+Activity Method 
+7.1.1 Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent versions of the VCS 
+Standard and VCS Methodology Requirements.  
+Where the project proponent demonstrates regulatory surplus, proceed to Section 7.1.2. 
+Otherwise, the project activity is not additional.   
+7.1.2 Positive List 
+The project activity must meet all  the following conditions to qualify for the positive list: 
+1) The project activity involves at least one of the following: 
+a) landfill gas use for electricity generation with a total installed generation capacity 
+that does not exceed 10 MW 
+b) landfill gas use for on-site or off-site heat generation (without capacity limit) 
+c) landfill gas flaring without any gainful use, where there is no source of revenue or 
+cost savings other than the income derived from carbon credits 
+ 
+VMR0016, v1.0 
+7 
+2) The project is not located in a high-income country, as defined by the World Bank, at the 
+time the project is submitted for registration. 
+3) Before the implementation of the project activity, the landfill gas: 
+a) was vented and/or flared for at least three years or since the commissioning of the 
+landfill, whichever is more recent (for brownfield projects). 
+b) would have been vented and/or flared and not utilized for energy generation (for 
+greenfield projects). 
+4) The project does not receive any type of financial incentive (including financial revenues 
+and savings), such as grants, tax exemptions, price subsides, or any other financial 
+promotion mechanism from governments, multilateral funds, or other external entities, 
+unless such incentives are explicitly contingent on the generation of carbon credits. 
+Where the project activity meets all of the conditions above, it is additional.  
+Where the project activity does not meet all of the conditions listed above, the project 
+proponent must apply a project method (Section 7.2). Otherwise, the project activity is not 
+additional. 
+7.2 
+Project Method 
+7.2.1 Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent versions of the VCS 
+Standard and VCS Methodology Requirements.  
+Where the project proponent demonstrates regulatory surplus, proceed to Section 7.2.2 
+(investment analysis). Otherwise, the project activity is not additional.   
+7.2.2 Investment Analysis 
+The project proponent must follow the procedures and requirements in the most recent version 
+of VT0009 to conduct an investment analysis. 
+Where the project proponent meets the conditions of the investment analysis, proceed to 
+Section 7.2.3. Otherwise, the project activity is not additional.   
+7.2.3 Common Practice Analysis 
+The project proponent must follow the procedures and requirements in the most recent version 
+of VT0009 to conduct a common practice analysis. 
+ 
+VMR0016, v1.0 
+8 
+ 
+Where the project activity is not considered common practice, it is additional. Otherwise, the 
+project activity is not additional.

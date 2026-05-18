@@ -1,0 +1,113 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions document, the following 
+definitions apply to this methodology. 
+Anaerobic decomposition 
+The microbial breakdown of organic material in the absence of oxygen. Organic compounds 
+emitted during anaerobic decomposition are mainly methane (CH4) and lesser amounts of 
+carbon dioxide (CO2). Examples of anaerobic decomposition include marine mud sediments 
+and manure ponds. 
+Biochar 
+A solid and stabilized carbon material formed by the thermochemical processing of biomass in 
+an oxygen-limited environment. These processes can be classified as either pyrolysis (in which 
+oxidants are excluded), or gasification (in which oxidant concentrations are low enough to 
+generate syngas). Both processes are considered interchangeably in this document. Biochar is 
+considered a carbon sink when its soil applications (e.g., soil amendment on agricultural lands) 
+or non-soil applications (e.g., cement, asphalt) can prove carbon-persistent over time.  
+Biogenic 
+A material that is produced by or originates from a living organism. 
+Chain of custody 
+The process by which inputs and outputs and associated information are transferred, monitored 
+and controlled as they move through each step in the relevant supply chain. For biochar 
+projects, the chain of custody refers to tracking and documentation from the sourcing stage 
+(i.e., waste biomass) until the application stage (i.e., biochar use in soil or non-soil 
+applications).  
+Dry weight basis 
+A measure of how much water is in a solid, expressed as the weight of water as a percentage of 
+the completely dry solid. Procedures to determine biochar on a dry weight basis are outlined in 
+International Biochar Initiative (IBI) Standardized Product Definition and Product Testing 
+Guidelines for Biochar That Is Used in Soil (hereinafter referred to as the IBI Biochar Testing 
+Guidelines)1 which uses ASTM D1762-84 Standard Test Method for Chemical Analysis of Wood 
+Charcoal to determine dry weight of biochar products (see Table 1, page 13 of the IBI Biochar 
+Testing Guidelines). In cases where moisture content of feedstocks is required, ASTM D4442-
+20 Standard Test Methods for Direct Moisture Content Measurement of Wood and Wood-Based 
+Materials can be used as a guide. The method involves drying samples to a constant weight in 
+a ventilated oven at 102 to 105 °C. 
+ 
+1 Available at https://biochar-international.org/standard-certification-training/biochar-standards/.  
+ 
+VM0044, v1.2 
+ 
+7 
+Feedstocks 
+The materials undergoing thermochemical processes to create biochar. Feedstock materials 
+must be biogenic to qualify under this methodology and must comply with the applicability 
+conditions (see Section 4). 
+Freight 
+The goods and materials (including waste materials) that are transported. Freight 
+transportation under this methodology refers to trips for transporting waste biomass or biochar 
+products. Transportation shall be grouped together as that using the same vehicle class and 
+transporting freight between the same origin and destination. 
+Gasification 
+A technological process that converts carbon-based raw material into fuel gas. Gasification 
+occurs in a gasifier, generally at temperatures greater than700 °C.  
+High-carbon fly ash from biomass 
+A by-product of biomass-based energy production, whereby the by-product is usually reinjected 
+into the process. High-carbon fly ash (HCFA) from biomass is typically produced using boiler 
+systems at lumber and other forestry-related facilities. The main components are ash and 
+carbonized material.  
+Biomass ash, and fractions thereof, include bottom ash and fly ash. Some of these fractions 
+may display physicochemical properties that are similar to biochar materials, including high 
+organic carbon content fractions termed “high-carbon fly ash” (adapted from IBI Biochar Testing 
+Guidelines Section 5.8, page 21). 
+High technology production facility  
+High technology production facilities are those that meet all of the following conditions based 
+on the European Biochar Certificate – EBC Guidelines for Sustainable Production of Biochar2 
+(hereinafter referred to as the EBC Production Guidelines): (a) the pyrolytic greenhouse gases 
+produced during pyrolysis must be recovered or combusted—greenhouse gases are not allowed 
+to escape into the atmosphere; (b) at least 70 percent of the heat energy produced by pyrolysis 
+must be used3 (taking into consideration heat transfer inefficiencies) to ensure that energy is 
+recovered as well as biochar;4 (c) pollution controls such as a thermal oxidizer or other 
+emissions controls are present that meet local, national or international emission thresholds;5 
+and (d) production temperature is measured and reported. If any of these conditions are not 
+met, the facility is categorized as a low technology production facility. 
+Long-lived biochar products 
+The carbon storage from non-soil biochar application where the project proponent can prove 
+that the average life is the average number of years a product is in use, with evidence from 
+ 
+2 Available at https://www.european-biochar.org/en/ct/2-EBC-guidelines-documents.  
+3 The 70% value is adapted from the EBC Production Guidelines. 
+4 As an example, proof of this energy utilization requirement shall be demonstrated by calculating the lower heating 
+value of the feedstock and the amount of biochar produced (adapted from the EBC Production Guidelines). 
+5 In case of overlapping standards, the strictest regulations shall be fulfilled. 
+ 
+VM0044, v1.2 
+ 
+8 
+peer-reviewed literature. Project proponent must demonstrate that the biochar in non-soil 
+applications is not combusted at the end of life of the product in which the biochar is utilized. 
+Low technology production facility 
+Low technology production facilities are those that do not meet all the conditions given under 
+the definition of high technology production facility. 
+Non-soil applications 
+Use of biochar for other applications besides soil, for example as an additive in long-lasting 
+products like concrete and asphalt or any other application with demonstrated long-term use 
+and persistence. Biochar must be at least 50 percent carbon by dry weight basis to be used for 
+non-soil applications (e.g., some activated carbon, due to excessive fossil fuel input, results in a 
+loss of more than 50 percent of the original biochar carbon material and therefore would not be 
+eligible).6  
+Organic carbon content  
+The amount of organic carbon permanently stored in the biochar as a mass proportion (in 
+percent) based on the biochar dry weight.  
+Overstocked forest 
+The condition of having so many stems for a species and size that severe competition for 
+growth resources has reduced growth, stressed trees, and put them at risk of insect, disease, 
+or wildfire mortality (Helms, 1998). 
+Pyrolysis 
+The thermochemical decomposition of biogenic material or compounds under inert conditions 
+in an oxygen-deficient environment (oxidants are excluded).  
+Waste biomass 
+The biomass, by-products, residues, and waste streams from agriculture, forestry and related 
+industries, recycling economy, animal manure, and all others listed in Table 1. Any biomass 
+residues meeting the feedstock requirements included in this methodology are eligible for 
+biochar production and must comply with any required sustainable feedstock criteria (see 
+Section 4).

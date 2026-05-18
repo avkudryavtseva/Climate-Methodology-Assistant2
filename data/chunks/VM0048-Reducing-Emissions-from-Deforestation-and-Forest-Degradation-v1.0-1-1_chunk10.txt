@@ -1,0 +1,90 @@
+10 REFERENCES 
+IPCC (2003). Good Practice Guidance for Land Use, Land Use Change and Forestry. Institute for 
+Global Environmental Strategies (IGES).   
+IPCC (2006). 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Institute for Global 
+Environmental Strategies (IGES).  
+IPCC (2019). 2019 Refinement to the 2006 IPCC Guidelines on National Greenhouse Gas 
+Inventories. Institute for Global Environmental Strategies (IGES). 
+Additional references may be found in the modules referenced throughout this methodology. 
+ 
+VM0048, v1.0 
+19 
+APPENDIX 1: TESTING SIGNIFICANCE OF 
+GHG EMISSIONS 
+The following stepwise procedure must be used to test the significance of GHG emissions. It is an 
+adaptation of the CDM Tool for testing the significance of GHG emissions in A/R CDM project activities, 
+v01. The procedure may be used to justify the omission of pools and GHG sources within the project 
+boundaries, as well as to justify the omission of GHG emissions resulting from leakage mitigation 
+measures. 
+The significance of GHG emissions by source and carbon stock changes by pool must be at minimum 
+tested ex ante to justify the project boundaries and at baseline reassessment. The significance of leakage 
+GHG emissions must be tested ex ante for the entire baseline validity period and ex post for a specific 
+monitoring period. 
+1) Define the period over which the significance will be tested (i.e., either a baseline validity 
+period for ex ante estimates or a specific monitoring period or annually for ex post 
+estimates). 
+2) Identify and estimate the following where relevant: 
+a) GHG emissions by source (per each source) to be included and tested for the specified 
+period. Estimation must be based on site/project-specific data, scientific peer-reviewed 
+literature and/or the most recent default emission factors provided by IPCC.  
+b) GHG emissions attributable to net carbon stock changes by pool (per each pool to be 
+included and tested). The estimation of net carbon stock changes must follow the 
+methodology and be consistent with the baseline scenario and project activities. 
+Estimation must be based on site/project-specific data, scientific peer-reviewed 
+literature and/or the most recent default emission factors provided by IPCC.  
+c) Leakage GHG emissions by source attributable to the project leakage mitigation 
+measures (i.e., net carbon stock changes in above- and belowground tree biomass, 
+emissions associated with biomass burning and nitrogen application) that the planned 
+leakage mitigation measures are expected to cause during the fixed baseline period. 
+Estimation must follow sound procedures consistent with calculation approaches in the 
+applicable activity-type module(s). Estimation must be based on site/project-specific 
+data, scientific peer-reviewed literature and/or the most recent default emission 
+factors provided by IPCC. 
+3) Where needed, convert the GHG emissions to CO2e using 100-year global warming 
+potential (GWP) values from the latest version of the VCS Standard.  
+4) Calculate the relative contributions of the GHG emissions listed in Step 2a–c above 
+according to the following equation:  
+ 
+VM0048, v1.0 
+20 
+끫뢊𝑅𝑅끫롰끫뢬=
+끫롰끫뢬
+∑
+끫롰끫뢬
+끫롸
+끫뢬=1
+ 
+(2) 
+Where: 
+끫뢊𝑅𝑅끫롰끫뢬 
+= 
+Relative contribution of each source i to the sum of project and leakage GHG 
+emissions 
+끫롰끫뢬 
+= 
+GHG project and leakage emissions for source i as estimated under Step 2a–c 
+above 
+i 
+= 
+Index for individual sources of project and leakage GHG emissions due to 
+leakage mitigation measures (I = total number of sources considered in Step 1) 
+5) Rank the GHG emissions in descending order of their relative contributions RCEi and order 
+them according to their ranks (i.e., the lowest emission must get the highest rank and must 
+occupy the last position in the ordered sequence of leakage emissions). 
+6) Start calculating the cumulative sum of the relative contributions RCEi (ordered according to 
+Step 5), beginning with the lowest rank. Cease the summation when the cumulative sum 
+reaches the lowest value not less than the threshold of 0.95. 
+The GHG and project leakage emissions by source excluded from the cumulative sum in Step 6 are 
+considered insignificant where their total is lower than five percent of net anthropogenic GHG ERRs in the 
+project area. Otherwise, the procedure described in Step 6 must be continued beyond the threshold of 
+0.95 until this condition is met. Even where they are insignificant, project proponents may include any 
+qualifying sources and sinks in the project case. 
+For the purposes of testing GHG emissions significance, the net GHG ERRs must be calculated before 
+discounting the cumulative GHG emissions resulting from leakage (i.e., before discounting ΔCLK-UDef,t). 
+Significance test calculations must be summarized in the project description or monitoring reports and 
+detailed in a calculation spreadsheet to be shared with the validation/verification body and Verra. 
+ 
+ 
+ 
+ 
+VM0048, v1.0

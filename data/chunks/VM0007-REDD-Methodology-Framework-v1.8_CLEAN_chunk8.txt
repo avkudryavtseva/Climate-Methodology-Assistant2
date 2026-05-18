@@ -1,0 +1,106 @@
+5 PROJECT BOUNDARY 
+The following categories of boundaries must be defined: 
+• 
+The geographic boundaries relevant to the project activity; 
+• 
+The temporal boundaries; 
+• 
+The carbon pools that the project will consider; and 
+• 
+The sources and associated types of greenhouse gas emissions that the project will 
+affect. 
+5.1 
+Geographical Boundaries 
+5.1.1 General 
+The spatial boundaries16F16 of a project must be clearly defined to facilitate accurate measuring, 
+monitoring, accounting, and verification of the project’s emissions reductions and removals. The 
+project activity may contain more than one discrete area of land. When describing physical 
+project boundaries, the following information must be provided per discrete area:  
+1) Name of the project area (e.g., compartment number, allotment number, local name) 
+2) Unique ID for each discrete parcel of land 
+3) Map(s) of the area in the format required by the VCS Standard 
+4) Geographic coordinates of each polygon vertex along with the documentation of their 
+accuracy (from a geo-referenced digital map – data must be provided in the format 
+specified / required by the VCS) 
+5) Total land area, and  
+ 
+16 For WRC project activities, including subtidal seagrass areas, where relevant. 
+ 
+VM0007, v1.8 
+19 
+6) Details of landholder and user rights. 
+The geographical boundaries of a project are fixed (ex-ante) and cannot change over the 
+project lifetime (ex post). Where multiple baselines exist (e.g., planned deforestation, unplanned 
+deforestation, forest degradation, degraded land) there must be no overlap in boundaries 
+between areas appropriate to each of the baselines. Thus, two project types cannot occur on 
+the same piece of land, other than those including a WRC component (i.e., combined 
+REDD+WRC). 
+All land areas registered under any other GHG program must be transparently reported and 
+excluded from the project area. The exclusion of land in the project area from any other GHG 
+program must be monitored over time and reported in the monitoring reports. 
+5.1.2 REDD  
+The boundary of the REDD activity must be clearly delineated and defined and include only land 
+qualifying as forest for a minimum of 10 years prior to the project start date. Mangrove forests 
+are excluded from any tree height requirement in a forest definition, as nearly 100% or all of their 
+vegetation consists of mangrove species, which often do not reach the same height as other tree 
+species, and they occupy contiguous areas. Ecologically, their functioning as a forest is 
+independent of tree height. 
+In REDD project activities, various kinds of boundaries must be distinguished, depending on the 
+REDD category (planned or unplanned deforestation, forest degradation), i.e., in case of: 
+1) Avoiding planned deforestation: project area and proxy area(s). Refer to Module BL-PL 
+for the detailed procedures to define these boundaries. 
+2) Avoiding unplanned deforestation: project area, reference region, and leakage belt. 
+Refer to Module BL-UP for definitions and the detailed procedures to define these 
+boundaries. 
+These procedures also apply to CIW or combined REDD+CIW project activities, see Section 5.1.4.  
+Methods for establishing the boundaries of areas subject to leakage from activity shifting are 
+provided in the following modules: 
+• 
+For avoiding planned deforestation: Module LK-ASP 
+ 
+• 
+For avoiding unplanned deforestation: Module BL-UP 
+ 
+5.1.3 WRC  
+The WRC project area must meet the definition as provided in the VCS Standard: “The project 
+area shall meet an internationally accepted definition of wetland, such as from the IPCC, Ramsar 
+Convention on Wetlands, those established by law or national policy, or those with broad 
+agreement in the peer-reviewed scientific literature for specific countries or types of wetlands. 
+ 
+VM0007, v1.8 
+20 
+Common wetland types include peatland, salt marsh, tidal freshwater marsh, mangroves, wet 
+floodplain forests, prairie potholes, and seagrass meadows.” 
+For RWE project activities, the project area must not have been drained or converted to create 
+GHG emissions reductions/removals. Such proof is not required where such draining or 
+conversion took place prior to 1 January 2008. Areas that do not meet this requirement must be 
+excluded from the project boundary. 
+The maximum eligible quantity of GHG emission reductions in WRC project activities is limited to 
+the difference between the remaining SOC stock in the project and baseline scenarios after 100 
+years. If a significant difference at the 100-years mark cannot be demonstrated, the project area 
+is not eligible. The assessment must be executed ex-ante using conservative parameters. 
+Procedures are provided in Module X-STR. 
+WRC project activities in tidal zones must take into account the effects of sea-level rise on project 
+boundaries. Procedures are provided in Module X-STR. 
+In CIW project activities that are not combined with REDD activities, various types of boundaries 
+must be distinguished, depending on the CIW category (i.e., planned or unplanned wetland 
+degradation). For example, in the case of: 
+1) Avoiding planned wetland degradation (APWD), the project area and proxy area(s) must 
+be defined. Refer to Module BL-PL for the detailed procedures to define these 
+boundaries. 
+2) Avoiding unplanned wetland degradation (AUWD), the project area, reference regions 
+for wetland degradation, and leakage belt area must be defined. Refer to Module BL-UP 
+for definitions and the detailed procedures to define these boundaries. 
+5.2 
+Temporal Boundaries 
+The following temporal boundaries must be specified: 
+5.2.1 Start Date and End Date of the Historical Reference Period 
+REDD 
+The historical reference period is the fixed time period during which historical deforestation and 
+forest degradation is analyzed in the reference region to set the forward-looking baseline, the 
+duration of which is set out in the VCS Methodology Requirements. At validation, the historical 
+reference period ends at the start of the crediting period. Once the project has started, and a 
+baseline update is calculated, the historical reference period ends at the time at which the 
+baseline is updated.  
+ 
+VM0007, v1.8

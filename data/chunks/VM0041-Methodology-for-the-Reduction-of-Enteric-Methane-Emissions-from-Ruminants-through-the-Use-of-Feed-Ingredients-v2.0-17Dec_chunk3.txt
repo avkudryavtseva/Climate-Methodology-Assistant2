@@ -1,0 +1,55 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology: 
+Animal Group 
+Animals at a farm, grouped based on a homogeneous ruminant population characteristic such 
+as animal type, weight, production phase (e.g., pregnant or lactating cow) or feeding regime 
+Diet 
+Feed ingredients or mixture of ingredients, including water, that is consumed by animals 
+Dry Matter Intake (DMI) 
+The amount of feed that an animal consumes per day, on a moisture-free basis 
+Emission Reduction Factor 
+Percentage reduction in enteric methane emissions per animal per day due to project feed 
+ingredient or additive 
+Enteric Fermentation 
+A natural digestive process in ruminants whereby microbes catabolize and ferment feed 
+present in the digestive tract or rumen. Enteric methane is one by-product of this process and is 
+expelled by the animal mostly through eructation and respiration. 
+Enteric Methane 
+Methane emissions from ruminants, due to enteric fermentation of feed 
+Feed(s) 
+Edible material(s) that are consumed by an animal and contribute energy and/or nutrients to 
+the animal’s diet 
+Feed Ingredient 
+A component part or constituent of any combination or mixture making up a feed, whether it 
+has a nutritional value in the animal’s diet, including feed additives. Ingredients are of plant, 
+animal, or aquatic origin, or other organic or inorganic substances.1 
+Gross Energy 
+The total caloric energy contained in feed 
+ 
+1 Definition from FAO and WHO (2004). Codex Alimentarius Code of Practice on Good Animal Feeding CAC/RCP 54. 
+Available at https://www.fao.org/fao-who-codexalimentarius/thematic-areas/animal-feed/en/#c437068. 
+ 
+VM0041, Version 2.0 
+6 
+Livestock Production Operation 
+An agricultural setting — permanent or semi-permanent facility, grazing or non-grazing area — 
+where domesticated animals are kept or raised either indoors or outdoors to provide traction or 
+produce livestock commodities2 
+Methanogenesis 
+The anaerobic formation of methane in the rumen by microorganisms known as methanogens 
+Neutral Detergent Fiber (NDF) 
+A measure of the structural components (i.e., lignin, hemicellulose, cellulose, tannins, and 
+cutins) within the cells of plants, which provides an estimate of fiber constituents of feedstuffs 
+and indicates maturity. Generally, the higher the NDF, the more mature and lower quality the 
+forage. 
+Reticulo-Rumen 
+The first large compartment of the stomach of a ruminant where fermentation, which allows for 
+the digestion of fiber and other feeds, occurs 
+Ruminant 
+A mammal that has a different digestive system to monogastric (single stomach) animals. The 
+primary differences are that the “stomach” of a ruminant consists of four compartments, and 
+ruminants have the ability to regurgitate digesta and chew them, a process known as 
+rumination. Ruminants are able to acquire nutrients from plant-based feeds by fermenting the 
+feed in the biggest compartment, the rumen, prior to digestion. Ruminating mammals include 
+species such as cattle, goat, sheep, deer, giraffe, and antelope.

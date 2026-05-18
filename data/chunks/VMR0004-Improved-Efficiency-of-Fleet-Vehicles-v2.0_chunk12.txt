@@ -1,0 +1,28 @@
+28 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+24 Mar 2013 
+Initial version of VMR0004 based on AMS-III.BC Emission Reductions Through 
+Improved Efficiency of Vehicle Fleets, v1.0, including: 
+• Addition of mobile machinery as eligible vehicle type 
+• Expansion of energy efficiency improvement measures 
+v2.0 
+04 Oct 2024 
+• Replacement of the CDM tools by VT0008 Additionality Assessment4 and 
+VT0011 Electricity System Emission Factors5 
+• Inclusion of telematics as a measurement method 
+• Revisions to the additionality section to include the Investment analysis 
+option, the requirement to conduct a common practice analysis and the 
+exclusion of the common practice barrier 
+• Alignment with net zero transition goals 
+• Improvements for consistency and clarity 
+• Inclusion of uncertainty assessment, adjustment of parameters 
+uncertainty requirements and introduction of a conservativeness 
+deduction 
+ 
+ 
+4 This tool is currently under development and will be published shortly after the publication of this methodology 
+5 This tool is currently under development and will be published shortly after the publication of this methodology

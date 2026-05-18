@@ -1,0 +1,1250 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+At 
+Data unit 
+Unit area 
+Description 
+Project area at time t 
+Equations 
+ 
+ 
+ 
+ 
+(1), (2), (25), (26), (27) 
+Source of data 
+Calculated from GIS data, composed of an aggregate of stands 
+individually delineated at t = 0 (or time of inclusion as an instance of a 
+grouped project) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Delineation of the project area may use a combination of GIS 
+coverages, ground survey data, remote imagery (satellite or aerial 
+photographs), or other appropriate data. Any imagery or GIS datasets 
+used must be geo-registered referencing corner points, clear 
+landmarks, or other intersection points. 
+Purpose of data 
+Reference for other area measures 
+Comments 
+None 
+ 
+Data/Parameter 
+Wbsl,i,j 
+Data unit 
+Dimensionless 
+Description 
+Weight of constituent baseline plot j in matched composite baseline i 
+Equations 
+(6), (7), (8), (12), (25), (32) 
+Source of data 
+Derived following procedures in Appendix 1.  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+33 
+Value applied 
+Between 0 and 1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Weights are derived to produce an optimal match to the paired project 
+sample unit in terms of one or more specified initial condition 
+covariates. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Weight for each constituent baseline plot is determined at t = 0 and 
+fixed throughout the crediting period, except where a constituent 
+baseline plot has become invalid (e.g., where a unit is now located 
+within a registered GHG mitigation project area, or where it has not 
+been re-measured in >10 years; see Section 6), in which case all 
+weights in the respective composite baseline are recalculated to sum to 
+1, retaining the relative weights of the remaining constituent plots. 
+ 
+Data/Parameter 
+SFsaw,wt 
+SFpulp,wt 
+Data unit 
+Dimensionless 
+Description 
+Saw log 100-year average storage factor (mass remaining stored in use 
+and landfills over 100 years) for wood type wt (softwood, sfw, or 
+hardwood, hwd) 
+Pulpwood 100-year average storage factor (mass remaining stored in 
+use and landfills over 100 years) for wood type (sfw or hwd) 
+Equations 
+(9) 
+Source of data 
+Table 6-A-5 in Hoover, C., R. Birdsey, B. Goines, et al. 2014. 
+“Quantifying Greenhouse Gas Sources and Sinks in Managed Forest 
+Systems.” In Quantifying Greenhouse Gas Fluxes in Agriculture and 
+Forestry: Methods for Entity-Scale Inventory. Technical Bulletin Number 
+1939, edited by M. Eve, D. Pape, M. Flugge, R. Steele, D. Man, M. Riley-
+Gilbert, and S. Biggar. USDA Office of the Chief Economist.10 
+Value applied 
+US region and 
+timber type 
+SFsaw 
+Saw log mass 
+remaining stored 
+in use and landfills 
+after 100 years 
+SFpulp 
+Pulpwood mass 
+remaining stored 
+in use and landfills 
+after 100 years 
+Northeast softwood 
+0.402 
+0.136 
+ 
+10 Available at: https://www.fs.usda.gov/treesearch/pubs/46322 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+34 
+Northeast hardwood 
+0.437 
+0.323 
+North Central 
+softwood 
+0.442 
+0.138 
+North Central 
+hardwood 
+0.411 
+0.370 
+Pacific Northwest 
+(east) softwood 
+0.415 
+0.415 
+Pacific Northwest 
+(west) softwood 
+0.511 
+0.119 
+Pacific Northwest 
+(west) hardwood 
+0.284 
+0.284 
+Pacific Southwest 
+softwood 
+0.444 
+0.444 
+Rocky Mountain 
+softwood 
+0.463 
+0.463 
+Southeast softwood 
+0.423 
+0.191 
+Southeast hardwood 
+0.417 
+0.242 
+South Central 
+softwood 
+0.415 
+0.215 
+South Central 
+hardwood 
+0.393 
+0.229 
+Other West 
+hardwood 
+0.357 
+0.357 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+An explanation of the 100-year average method for harvested wood 
+product carbon storage is given in Hoover et al. (2014) in Section 6.5.1 
+(p. 6-67 “The intent of this measure is to approximate the average 
+annual climate benefit of withholding carbon from the atmosphere by a 
+certain amount each year for 100 years as described by a “decay” 
+curve. This average benefit is one that can be credited in the year of 
+harvest. This estimate of average effect is conceptually similar to the 
+measure of the radiative forcing impact of a current year emission of 
+CO2, CH4, or other GHG. One ton of CO2 emissions—in GHG accounting—
+is equated to the radiative forcing it causes over the 100 years following 
+the emission. The radiative forcing caused in each year is weighted the 
+same over each of the 100 years. We are suggesting the same 
+convention in weighting the carbon storage in wood products equally for 
+each of 100 years.”) 
+Purpose of data 
+Calculation of baseline and project emissions 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+35 
+Comments 
+Regions are defined in Hoover et al. (2014). Parameter values above 
+are for application in the United States. Outside of the United States, 
+parameters may be derived from other relevant published sources (e.g., 
+Winjum et al. 199811). 
+ 
+Data/Parameter 
+GWPg 
+Data unit 
+Dimensionless 
+Description 
+Global warming potential of gas g 
+Equations 
+(10) 
+Source of data 
+As set out in the most recent version of the VCS Standard 
+Value applied 
+See the most recent version of the VCS Standard. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Unless otherwise directed by the VCS Program, the most recent version 
+of the VCS Standard requires that CH4 and N2O must be converted to 
+CO2e using the 100-year global warming potential derived from the 
+IPCC Fourth Assessment Report. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+Cf 
+Data unit 
+Proportion of pre-fire fuel biomass consumed 
+Description 
+Combustion factor  
+Equations 
+(10) 
+Source of data 
+Table 3A.1.12 in IPCC (2003). Good Practice Guidance for Land Use, 
+Land-use Change and Forestry12 
+Value applied 
+The combustion factor is selected based on the forest type. 
+ 
+11 Winjum, J. K., S. Brown, and B. Schlamadinger. 1998. “Forest Harvests and Wood Products: Sources and Sinks of 
+Atmospheric Carbon Dioxide.” Forest Science 44 (2): 272–84.  
+12 Available at: https://www.ipcc.ch/site/assets/uploads/2018/03/GPG_LULUCF_FULLEN.pdf  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+36 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFg 
+Data unit 
+g/kg dry matter burned 
+Description 
+Emission factor for gas g 
+Equations 
+(10) 
+Source of data 
+Table 3A.1.16 in IPCC (2003). Good Practice Guidance for Land Use, 
+Land-use Change and Forestry 
+Value applied 
+The emission factor is selected based on the forest type. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFNdirect 
+Data unit 
+t N2O-N/t N applied 
+Description 
+Emission factor for direct nitrous oxide emissions from nitrogen 
+additions from synthetic fertilizers, organic amendments, and crop 
+residues 
+Equations 
+(17) 
+Source of data 
+Table 11.1 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories13 
+ 
+13 Available at: https://www.ipcc-nggip.iges.or.jp/public/2019rf/vol4.html 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+37 
+Value applied 
+0.01 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+Emission factor applicable to N additions from mineral fertilizers, 
+organic amendments, and crop residues 
+ 
+Data/Parameter 
+FracGASF 
+Data unit 
+Dimensionless 
+Description 
+Fraction of all synthetic nitrogen added to soils that volatilizes as 
+ammonia and NOx 
+Equations 
+(21) 
+Source of data 
+Table 11.3 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+0.1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+FracGASM 
+Data unit 
+Dimensionless 
+Description 
+Fraction of all organic nitrogen added to soils that volatilizes as 
+ammonia and NOx 
+Equations 
+(21) 
+Source of data 
+Table 11.3 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+38 
+Value applied 
+0.3 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFNvolat 
+Data unit 
+t N2O-N/(t NH3-N + NOx-N volatilized) 
+Description 
+Emission factor for nitrous oxide emissions from atmospheric 
+deposition of nitrogen on soils and water surfaces 
+Equations 
+(21) 
+Source of data 
+Table 11.3 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+0.01 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+FracLEACH 
+Data unit 
+Dimensionless 
+Description 
+Fraction of nitrogen (synthetic or organic) added to soils that is lost 
+through leaching and runoff, in regions where leaching and runoff 
+occurs 
+Equations 
+(22) 
+Source of data 
+Table 11.3 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+39 
+Value applied 
+0.3 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFNleach 
+Data unit 
+t N2O-N/t N leached and runoff 
+Description 
+Emission factor for nitrous oxide emissions from leaching and runoff 
+Equations 
+(22) 
+Source of data 
+Table 11.3 in Chapter 11, Volume 4 of the 2019 Refinement to the 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories 
+Value applied 
+0.0075 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See source of data 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+9.2 
+Data and Parameters Monitored  
+ 
+Data/Parameter 
+Xbsl,i,j,t  
+Xwp,i,t 
+Data unit 
+Years 
+Description 
+Length of measurement interval ending at time t for constituent 
+baseline plot ij 
+Length of measurement interval ending at time t for sample unit i in the 
+project scenario 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+40 
+Equations 
+(3), (4), (5)  
+(13), (14), (15) 
+Source of data 
+Monitored 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Subject to measurement interval of baseline and project plots 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+LAGbsl,i,j,t 
+LAGwp,i,t  
+Data unit 
+t CO2e/unit area  
+Description 
+Live aboveground biomass stocks in the baseline scenario at 
+constituent baseline plot j of composite baseline i at time t 
+Live aboveground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t 
+Equations 
+(3), (10) 
+(13)  
+Derivation of BBremovedsaw and BBremovedpulp parameters 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Live aboveground biomass is measured via plot-based sampling. 
+Acknowledging the wide range of valid approaches, and that relative 
+efficiency and robustness are circumstance-specific, procedures for 
+sampling, measurement, and estimation are not specified in the 
+methodology and may be selected by project proponents based on 
+capacity and appropriateness. Project proponents must ensure that 
+forest carbon stock estimates are representative of the diversity of 
+conditions present across the project area. To this end, sampling must 
+adhere to best practices in sample plot design, including the 
+establishment of a minimum number of plots per primary sampling 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+41 
+unit, determined as a function of project area and heterogeneity. 
+Stratification should be used to capture variation in forest types, site 
+productivity, disturbance history, and management regimes. The 
+sampling design must be capable of supporting robust estimates 
+across all strata, with justification provided for plot allocation and 
+design choices to ensure transparency and reproducibility. In general, 
+sample measurements must: 
+1) be demonstrated to be unbiased and derived from representative 
+sampling. 
+2) adhere to best practices and QA/QC procedures (to be 
+determined by the project proponent and outlined in standard 
+operating procedures governing field data collection) to ensure 
+accuracy. 
+3) apply fixed diameter at breast height (dbh) and any other size 
+thresholds. 
+Aboveground biomass of each sampled tree is estimated using 
+published allometric equations (in the United States, using Jenkins et 
+al. (2003) or stem volume-referenced component ratio methods per 
+Woodall et al. (2011)) applied to one or more measured tree attributes, 
+minimally including dbh. Where using component ratio methods, stem 
+volumes must be estimated by applying published volume equations (in 
+the United States, using equations included in the USFS National 
+Volume Estimator Library, NVEL14) specific to species, genus, or family, 
+in descending order of preference, as available. 
+Tree attributes (e.g., dbh, total height) incorporated as independent 
+variables in allometric equations must be directly measured in the field 
+applying established best practices, such as those found in: 
+• 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. 
+Forest Mensuration. John Wiley & Sons. 
+• 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. 
+Waveland Press. 
+• 
+US Forest Service Department of Agriculture. 2019. Field Data 
+Collection Procedures for Phase 2 Plots. Forest Inventory and 
+Analysis National Core Field Guide.15 
+Measurement protocols must be detailed in standard operating 
+procedures. Parameter tables for all tree attributes (e.g., dbh, total 
+height) incorporated as independent variables in allometric equations 
+must be included in the project description under Data and Parameters 
+Monitored. 
+Carbon is calculated from biomass by applying a carbon fraction of 0.5, 
+and carbon dioxide equivalent (CO2e) is calculated from carbon applying 
+the factor 44/12. 
+ 
+14 Available at: https://www.fs.usda.gov/forestmanagement/products/measurement/volume/nvel/index.php   
+15 Available at: https://www.fia.fs.usda.gov/library/field-guides-methods-proc/docs/2022/core_ver9-
+2_9_2022_SW_HW%20table_rev_12_13_2022.pdf  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+42 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+QA/QC procedures to be 
+applied 
+N/A  
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+See description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+Data/Parameter 
+LBGbsl,i,j,t  
+LBGwp,i,t  
+Data unit 
+t CO2e/unit area 
+Description 
+Live belowground biomass stocks in the baseline scenario at 
+constituent baseline plot j of composite baseline i at time t 
+Live belowground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t 
+Equations 
+(4) 
+(14)  
+Derivation of BBremovedsaw and BBremovedpulp parameters 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Live belowground biomass is estimated via component ratio methods 
+(e.g., root to shoot ratios) applied to direct measurements from plot-
+based sampling. Acknowledging the wide range of valid approaches, 
+and that relative efficiency and robustness are circumstance-specific, 
+procedures for sampling, measurement, and estimation are not 
+specified in the methodology and may be selected by project 
+proponents based on capacity and appropriateness. Stratification may 
+be employed to improve precision but is not required. 
+Sample measurements must: 
+1) be demonstrated to be unbiased and derived from 
+representative sampling. 
+2) adhere to best practices and QA/QC procedures (to be 
+determined by the project proponent and outlined in standard 
+operating procedures governing field data collection) to ensure 
+accuracy.  
+3) apply fixed dbh and any other size thresholds. 
+Belowground biomass of each sampled tree is estimated using 
+published component ratios (in the United States, using Jenkins et al. 
+(2003)). 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+43 
+Tree attributes (e.g., dbh, total height) incorporated as independent 
+variables in allometric equations must be directly measured in the field 
+applying established best practices, such as those found in: 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. Forest 
+Mensuration. John Wiley & Sons. 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. Waveland 
+Press. 
+US Forest Service Department of Agriculture. 2019. Field Data 
+Collection Procedures for Phase 2 Plots. Forest Inventory and Analysis 
+National Core Field Guide. 
+Measurement protocols must be detailed in standard operating 
+procedures. Parameter tables for all tree attributes (e.g., dbh, total 
+height) incorporated as independent variables in allometric equations 
+must be included in the project description under Data and Parameters 
+Monitored. 
+Carbon is calculated from biomass by applying a carbon fraction of 0.5, 
+and carbon dioxide equivalent (CO2e) is calculated from carbon applying 
+the factor 44/12. 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+See description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+Data/Parameter 
+DWbsl,i,j,t  
+DWwp,i,t  
+Data unit 
+t CO2e/unit area  
+Description 
+Dead wood biomass stocks in the project scenario in sample unit i in 
+the monitoring interval ending at time t 
+Dead wood biomass stocks in the baseline scenario in constituent 
+baseline plot j of composite baseline i at time t 
+Equations 
+(5), (10) 
+(15) 
+Source of data 
+Field measurements 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+44 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Standing dead wood is sampled via plot-based forest inventory 
+methods, and lying dead wood via line intersect sampling,16 
+perpendicular distance sampling,17 or other unbiased approaches. 
+Specific sample designs/intensities, and measurement and estimation 
+procedures may be selected by project proponents based on capacity 
+and appropriateness. Stratification may be employed to improve 
+precision but is not required. 
+Sample measurements must: 
+1) be demonstrated to be unbiased and derived from 
+representative sampling. 
+2) adhere to best practices and QA/QC procedures (to be 
+determined by the project proponent and outlined in standard 
+operating procedures governing field data collection) to ensure 
+accuracy. 
+3) apply fixed size thresholds. 
+For each standing dead tree, stem volume must be estimated using 
+published volume equations (in the United States, using equations 
+included in the USFS National Volume Estimator Library, NVEL) specific 
+to species, genus, or family, in descending order of preference, as 
+available. The equations must be applied to one or more measured tree 
+attributes, minimally including dbh and remaining stem height. Note 
+that standing dead wood is restricted here to aboveground stem (bole) 
+biomass. 
+Tree attributes (e.g., dbh, total height) incorporated as independent 
+variables in allometric equations must be directly measured in the field, 
+applying established best practices such as those found in: 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. Forest 
+Mensuration. John Wiley & Sons. 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. Waveland 
+Press. 
+US Forest Service Department of Agriculture. 2019. Field Data 
+Collection Procedures for Phase 2 Plots. Forest Inventory and Analysis 
+National Core Field Guide. 
+Measurement protocols must be detailed in standard operating 
+procedures. Parameter tables for all tree attributes (e.g., dbh, total 
+ 
+16 Warren, W. G., and P. F. Olsen. 1964. “A Line Intersect Technique for Assessing Logging Waste.” Forest Science 10 
+(3): 267–76.  
+Van Wagner, C. E. 1968. “The Line Intersect Method in Forest Fuel Sampling.” Forest Science 14 (1): 20–6.  
+17 Williams, M. S., and J. H. Gove. 2003. “Perpendicular Distance Sampling: An Alternative Method for Sampling Downed 
+Coarse Woody Debris.” Canadian Journal of Forest Research 33 (8): 1564–79. https://doi.org/10.1139/x03-056 
+Williams, M. S., H. T. Valentine, J. H. Gove, and M. J. Ducey. 2005. “Additional Results for Perpendicular Distance 
+Sampling.” Canadian Journal of Forest Research 35 (4): 961–6. https://doi.org/10.1139/x05-023 
+Ducey, M. J., M. S. Williams, J. H. Gove, S. Roberge, and R. S. Kenning. 2013. “Distance-limited Perpendicular Distance 
+Sampling for Coarse Woody Debris: Theory and Field Results.” Forestry 86 (1): 119–28. 
+https://doi.org/10.1093/forestry/cps059 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+45 
+height) incorporated as independent variables in allometric equations 
+must be included in the project description under Data and Parameters 
+Monitored. 
+Biomass of standing and lying dead wood must be estimated from 
+sampled volumes using published wood densities specific to species, 
+genus, or family, in descending order of preference, as available and 
+density reduction factors referencing decomposition states (e.g., 
+procedures per Harmon et al. 201118).  
+Carbon is calculated from biomass by applying a carbon fraction of 0.5, 
+and carbon dioxide equivalent (CO2e) calculated from carbon applying 
+the factor 44/12. 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+See description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+Data/Parameter 
+BBremovedsaw,wt,bsl,i,j,t  
+BBremovedsaw,wt,wp,i,t  
+Data unit 
+t CO2e/unit area 
+Description 
+Saw log bole biomass stocks in wood type wt (wt = softwood, sfw or 
+hardwood, hwd) in commercial species removed in the baseline 
+scenario in constituent baseline plot j of composite baseline i in the 
+monitoring interval ending at time t 
+Saw log bole biomass stocks in wood type wt (wt = softwood, sfw or 
+hardwood, hwd) in commercial species removed in the project scenario 
+in sample unit i in the monitoring interval ending at time t 
+Equations 
+(9) 
+Source of data 
+Field measurements from permanent plots subject to harvest in the 
+monitoring interval ending at time t 
+Description of 
+measurement methods 
+Saw logs will be distinguished from pulpwood on the basis of dbh:  
+1) Softwood saw logs are from trees with at least 22.9 cm (9 in) 
+dbh. 
+ 
+18 Harmon, M. E., Woodall, C. W., Fasth, B., Sexton, J., & Yatkov, M. (2011). Differences between standing and downed 
+dead tree wood density reduction factors: A comparison across decay classes and tree species. Res. Pap. NRS-15. US 
+Department of Agriculture, Forest Service, Northern Research Station. https://doi.org/10.2737/NRS-RP-15 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+46 
+and procedures to be 
+applied 
+2) Hardwood saw logs are from trees with at least 27.9 cm (11 in) 
+dbh. 
+Saw log bole biomass is estimated for saw log-sized stems cut and 
+removed in the monitoring interval ending at time t, from the most 
+recent pre-harvest measurements preceding time t (i.e., LAGi,t−x), via 
+either of the following two approaches. 
+ 
+Approach 1 – Estimate bole volume and apply wood density 
+Bole biomass is estimated by applying published volume equations 
+(e.g., those included in the USFS National Volume Estimator Library, 
+NVEL) and wood densities (specific to species, genus, or family, in 
+descending order of preference, as available). 
+Tree attributes (e.g., dbh, total height) incorporated as independent 
+variables in allometric equations must be directly measured in the field 
+applying established best practices, such as those found in: 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. Forest 
+Mensuration. John Wiley & Sons. 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. Waveland 
+Press. 
+US Forest Service Department of Agriculture. 2019. Field Data 
+Collection Procedures for Phase 2 Plots. Forest Inventory and Analysis 
+National Core Field Guide. 
+Measurement protocols must be detailed in standard operating 
+procedures. Parameter tables for all tree attributes (e.g., dbh, total 
+height) incorporated as independent variables in allometric equations 
+must be included in the project description under Data and Parameters 
+Monitored. 
+Approach 2 – Estimate aboveground biomass and apply stem 
+component ratio 
+Bole biomass is estimated by applying a published stem component 
+ratio to total aboveground biomass estimated using a published 
+allometric equation (e.g., in the United States, using Jenkins et al. 
+(2003) for stem component ratios and total aboveground biomass 
+equations). 
+Carbon is calculated from biomass by applying a carbon fraction of 0.5, 
+and carbon dioxide equivalent (CO2e) is calculated from carbon applying 
+the factor 44/12. 
+Note that these parameters are restricted to commercial species. In the 
+United States, commercial species are defined as those not from species 
+groups 23, 43, or 48 (see FIA Database User Guide Appendix E19). 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+ 
+19 Available at: https://www.fia.fs.usda.gov/library/database-
+documentation/current/ver91/FIADB%20User%20Guide%20P2_9-1_final.pdf 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+47 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+See description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+Data/Parameter 
+BBremovedpulp,wt,bsl,i,j,t  
+BBremovedpulp,wt,wp,i,t  
+Data unit 
+t CO2e/unit area  
+Description 
+Pulpwood bole biomass stocks in wood type wt (wt = softwood, sfw or 
+hardwood, hwd) in commercial species removed in the baseline 
+scenario at constituent baseline plot j of composite baseline i in the 
+monitoring interval ending at time t 
+Pulpwood bole biomass stocks in wood type wt (wt = softwood, sfw or 
+hardwood, hwd) in commercial species removed in the project scenario 
+in sample unit i in the monitoring interval ending at time t  
+Equations 
+(9) 
+Source of data 
+Field measurements from permanent plots subject to harvest in the 
+monitoring interval ending at time t 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Pulpwood logs are distinguished from saw logs on the basis of diameter 
+at breast height: 
+1) Softwood pulpwood is from trees with 12.7 to 22.8 cm (5.0 to 
+8.9 in) dbh. 
+2) Hardwood pulpwood is from trees with 12.7 to 27.8 cm (5.0 to 
+10.9 in) dbh. 
+Pulpwood bole biomass is estimated for pulpwood-sized stems cut and 
+removed in the monitoring interval ending at time t, from the most 
+recent pre-harvest measurements (i.e., LAGi,t−X), via either of the 
+following two approaches. 
+ 
+Approach 1 – Estimate bole volume and apply wood density 
+Bole biomass is estimated by applying published volume equations 
+(e.g., equations included in the USFS National Volume Estimator 
+Library, NVEL) and wood densities (specific to species, genus, or family, 
+in descending order of preference, as available). 
+Tree attributes (e.g., dbh, total height) incorporated as independent 
+variables in allometric equations must be directly measured in the field 
+applying established best practices, such as those found in: 
+Kershaw Jr, J. A., M. J. Ducey, T. W. Beers, and B. Husch. 2016. Forest 
+Mensuration. John Wiley & Sons. 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+48 
+Avery, T. E., and H. E. Burkhart. 2015. Forest Measurements. Waveland 
+Press. 
+US Forest Service Department of Agriculture. 2019. Field Data 
+Collection Procedures for Phase 2 Plots. Forest Inventory and Analysis 
+National Core Field Guide. 
+Measurement protocols must be detailed in standard operating 
+procedures. Parameter tables for all tree attributes (e.g., dbh, total 
+height) incorporated as independent variables in allometric equations 
+must be included in the project description under Data and Parameters 
+Monitored. 
+Approach 2 – Estimate aboveground biomass and apply stem 
+component ratio 
+Bole biomass is estimated by applying a published stem component 
+ratio to total aboveground biomass estimated using a published 
+allometric equation (e.g., in the United States using Jenkins et al. 
+(2003) for stem component ratios and total aboveground biomass 
+equations). 
+Carbon is calculated from biomass by applying a carbon fraction of 0.5, 
+and carbon dioxide equivalent (CO2e) is calculated from carbon applying 
+the factor 44/12. 
+Note that these parameters are restricted to commercial species. In the 
+United States, commercial species are defined as those not from species 
+groups 23, 43, or 48 (see FIA Database User Guide Appendix E20). 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project and baseline emissions 
+Calculation method 
+See description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+Data/Parameter 
+Mwp,SF,i,t 
+Data unit 
+t fertilizer/unit area 
+Description 
+Mass of project nitrogen-containing synthetic fertilizer applied to 
+sample unit i in the monitoring interval ending at time t 
+Equations 
+(18) 
+ 
+20 Available at: https://www.fia.fs.usda.gov/library/database-
+documentation/current/ver91/FIADB%20User%20Guide%20P2_9-1_final.pdf 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+49 
+Source of data 
+Application records, substantiated with one or more forms of 
+documented evidence pertaining to the selected sample unit and 
+relevant monitoring period (e.g., management logs, receipts, or 
+invoices) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See source of data 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project  
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+NCwp,SF,i,t 
+Data unit 
+t N/t fertilizer  
+Description 
+Nitrogen content of project synthetic fertilizer applied to sample unit i in 
+the monitoring interval ending at time t 
+Equations 
+(18) 
+Source of data 
+N content is determined following fertilizer manufacturer’s 
+specifications. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See source of data 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+50 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Mwp,OF,i,t 
+Data unit 
+t fertilizer/unit area 
+Description 
+Mass of project nitrogen-containing organic fertilizer applied to sample 
+unit i in the monitoring interval ending at time t 
+Equations 
+(19) 
+Source of data 
+Application records, substantiated with one or more forms of 
+documented evidence pertaining to the selected sample unit and 
+relevant monitoring period (e.g., management logs, receipts, or 
+invoices) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See source of data 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+NCwp,OF,i,t 
+Data unit 
+t N/t fertilizer  
+Description 
+Nitrogen content of project organic fertilizer applied to sample unit i in 
+the monitoring interval ending at time t 
+Equations 
+(19) 
+Source of data 
+Peer-reviewed published data may be used. For example, default 
+manure N content may be selected from Edmonds et al. (2003) cited in 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+51 
+US Environmental Protection Agency. 2011. Inventory of U.S. Greenhouse 
+Gas Emissions and Sinks: 1990-2009. EPA 430-R-11-005. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See source of data 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+LTremovedbsl,i,j,t  
+LTremovedwp,i,t  
+Data unit 
+t CO2e/unit area  
+Description 
+Live tree biomass stocks removed in the baseline scenario at 
+constituent baseline plot j in composite baseline i subject to harvest in 
+the monitoring interval ending at time t  
+Live tree biomass stocks removed in the project scenario in sample unit 
+i subject to harvest in the monitoring interval ending at time t 
+Equations 
+(25) 
+Source of data 
+Measured on permanent sample plots in project area and on without-
+treatment (baseline) sites respectively 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Includes pre-existing live tree above- and belowground biomass that is 
+killed, removed, or emitted on plots subject to harvest.  
+Estimated via pre- and post-harvest cruises as: 
+ 
+𝐿𝑇𝑟𝑒𝑚𝑜𝑣𝑒𝑑•,𝑖,𝑡 = (𝐿𝐴𝐺•,𝑖,𝑡− 𝐿𝐴𝐺•,𝑖,𝑡−𝑥) + (𝐿𝐵𝐺•,𝑖,𝑡− 𝐿𝐵𝐺•,𝑖,𝑡−𝑥) 
+ 
+Where: 
+LTremoved•,i,t 
+Live tree biomass stocks removed in scenario • (with 
+or without project activity) in sample unit i (or 
+constituent sample j in composite baseline i) subject 
+to harvest in the monitoring interval ending at time t 
+(t CO2e/unit area) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+52 
+LAG•,i,t 
+Live aboveground biomass stocks in scenario • (with 
+or without project activity) in sample unit i (or 
+constituent sample j in composite baseline i), subject 
+to harvest in the monitoring interval ending at time t, 
+measured at time t (t CO2e/unit area)  
+LAG•,i,t−x 
+Live aboveground biomass stocks in scenario • (with 
+or without project activity) in sample unit i (or 
+constituent sample j in composite baseline i) subject 
+to harvest in the monitoring interval ending at time t, 
+measured at time t − x where t − x is the time of the 
+most recent measurement preceding the harvest 
+(t CO2e/unit area) 
+LBG•,i,t 
+Live belowground biomass stocks in scenario • (with 
+or without project activity) in sample unit i (or 
+constituent sample j in composite baseline i) subject 
+to harvest in the monitoring interval ending at time t, 
+measured at time t (t CO2e/unit area)  
+LBG•,i,t−x 
+Live belowground biomass stocks in scenario • (with 
+or without project activity) in sample unit i (or 
+constituent sample j in composite baseline i) subject 
+to harvest in the monitoring interval ending at time t, 
+measured at time t − x, where t − x is the time of the 
+most recent measurement preceding the harvest 
+(t CO2e/unit area) 
+Where harvest does not occur in a given sample unit i or j in the 
+monitoring interval ending at time t, LTremovedwp,i,t and LTremovedbsl,i,j,t 
+are set to zero. 
+Frequency of 
+monitoring/recording 
+Initial measurement at or preceding time t = 0 and to be re-measured 
+every 5 years or more frequently in the project and every 10 years or 
+more frequently in the baseline 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of leakage 
+Calculation method 
+Description of measurement methods and procedures to be applied 
+Comments 
+None 
+ 
+9.3 
+Description of the Monitoring Plan 
+Monitoring is conducted for both the baseline and project scenarios. Monitoring employs a 
+quasi-experimental design where carbon stock change is directly monitored in paired 
+permanent project sample units and constituent baseline plots (located outside of the project 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+53 
+area). Monitored stock parameters are collected and recorded at the sample unit scale, and 
+emission reductions are estimated independently for each sample unit. 
+Project proponents must detail the procedures for collecting and reporting all data and 
+parameters listed in Section 9.2. The monitoring plan must contain at least the following 
+information: 
+1) A description of each monitoring task to be undertaken, and the technical requirements 
+therein 
+2) Definition of the accounting boundary 
+3) Parameters to be measured, including parameter tables for all directly measured tree 
+attributes (e.g., diameter at breast height, total height) incorporated as independent 
+variables in allometric equations 
+4) Data to be collected and data collection techniques, documented in a standard 
+operating procedure for field data collection. Sample designs must be specified (clearly 
+delineate the sample population spatially, and justify sampling intensities, and 
+selection of sample units and sampling stages, where applicable) and unbiased 
+estimators of population parameters identified, which will be applied in calculations. 
+5) Anticipated frequency of monitoring 
+6) QA/QC procedures to ensure accurate data collection and to screen for, and where 
+necessary, correct anomalous values, ensure completeness, perform independent 
+checks on analysis results, and other safeguards as appropriate 
+7) Data archiving procedures, including procedures for any anticipated updates to 
+electronic file formats. All data collected as a part of the monitoring process, including 
+QA/QC data, must be archived electronically and kept for at least two years after the 
+end of the last project crediting period. 
+8) Roles, responsibilities, and capacity for monitoring team and management  
+As part of monitoring, project proponents must describe the mitigation activities that have been 
+implemented during the monitoring period. This must be supported by verifiable 
+documentation, such as management records, field reports, or remote sensing data, to 
+demonstrate alignment between project implementation and the methodology's statistical 
+framework.  
+Permanent sample plots (constituting project sample units) 
+Permanent plot measurements must be archived, and all trees assigned unique identification 
+numbers. Individual trees on permanent plots must be marked in the field (e.g., painted or 
+tagged) and stems mapped with azimuth and distance from plot center recorded. 
+Composite baseline 
+A database must be maintained detailing constituent baseline plots and their respective weights 
+(derived at t = 0), with unique identifiers ascribed to each composite baseline, its constituent 
+baseline plots, and all trees in those plots. The monitoring plan must specify the schedule and 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+54 
+procedures for periodically acquiring, archiving, and processing re-measurement data from the 
+constituent plots.

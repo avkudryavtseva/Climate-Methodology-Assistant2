@@ -1,0 +1,25 @@
+1 
+SOURCES 
+This document reflects an update to VM0012 Improved Forest Management on Privately Owned Properties in 
+Temperate and Boreal Forests (LtPF) v.1.0, which was developed 3GreenTree Ecosystem Services, Ltd. and ERA 
+Ecosystem Restoration Associates, and approved by VCS on April 19, 2011.   
+This update removes the applicability conditions related to fee simple ownership to become consistent with the 
+VCS Version 3 definitions and requirements related to right of use.   
+The document has been reorganized to match the VCS Version 3 Project Document Template structure, without 
+materially affecting the original content.   
+The following documents were used to inform and guide the creation of this methodology: 
+- 
+VCS Standard 2007.1 (Voluntary Carbon Standard, 2008d) 
+- 
+VCS Program Guidelines 2007.1 (Voluntary Carbon Standard, 2008e) 
+- 
+VCS Guidance for AFOLU Projects (Voluntary Carbon Standard, 2008a) 
+- 
+VCS Tool for AFOLU Methodological Issues (Voluntary Carbon Standard, 2008b) 
+- 
+Tool for AFOLU Non-Permanence Risk Analysis and Buffer Determination - Proposed (Voluntary Carbon 
+Standard, 2010a)  
+- 
+CAR Forest Project Protocol Version 3.0 and 3.2 (Climate Action Reserve, 2010) 
+- 
+VM0003 Methodology for Improved Forest Management through Extension of Rotation Age, v1.0

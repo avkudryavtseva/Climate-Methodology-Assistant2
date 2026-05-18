@@ -1,0 +1,4 @@
+6 BASELINE SCENARIO 
+The baseline scenario should be read as follows (paragraph 17 of AMS-III.BP). 
+The baseline scenario is the electricity consumption from ships docked at berths or anchored off-
+shore supplied by the ships’ fossil fuel auxiliary power generator(s).

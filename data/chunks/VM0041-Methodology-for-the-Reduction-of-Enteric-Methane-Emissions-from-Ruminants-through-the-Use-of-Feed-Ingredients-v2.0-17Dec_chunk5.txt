@@ -1,0 +1,93 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary encompasses all geographic locations of ingredient 
+production, ingredient transport, and project activity locations where feed ingredient is part of 
+the livestock production operation. 
+The greenhouse gases (GHGs) included in or excluded from the project boundary are shown in 
+Table 1 
+Table 1. 
+Table 1: GHG Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Enteric 
+Fermentation 
+CO2 
+No 
+No changes in biogenic CO2 emissions are 
+expected as a result of the project activity. 
+CH4 
+Yes 
+CH4 emissions from enteric fermentation prior to 
+implementation of the project activity represent 
+the major source of emissions in the baseline 
+scenario. 
+N2O 
+No 
+No changes in biogenic N2O emissions are 
+expected as a result of the project activity. 
+Project 
+Enteric 
+Fermentation 
+CO2 
+No 
+No changes in biogenic CO2 emissions are 
+expected as a result of the project activity. 
+CH4 
+Yes 
+CH4 emissions from enteric fermentation are the 
+major source of emissions in the project scenario. 
+N2O 
+No 
+No changes in biogenic N2O emissions are 
+expected as a result of the project activity. 
+Ingredient 
+Production 
+and Transport 
+CO2 
+Yes 
+CO2 emitted from ingredient production and 
+transportation 
+CH4 
+Yes 
+CH4 may be emitted from combustion of fossil 
+fuels during processing of the feed ingredient. 
+N2O 
+No 
+N2O emissions are not expected during the 
+production process. 
+Manure 
+Decomposition 
+CO2 
+No 
+No changes in biogenic CO2 are expected as a 
+result of the project activity. 
+CH4 
+Yes 
+Significant changes in CH4 production via manure 
+decomposition may occur due to project activity. 
+N2O 
+Yes 
+Significant changes in N2O production via manure 
+decomposition may occur due to project activity. 
+ 
+VM0041, Version 2.0 
+9 
+As indicated in Table 1, the project boundary includes CH4 emissions from enteric fermentation. 
+CH4 emissions from enteric fermentation enter the atmosphere primarily via eructation and 
+respiration. Therefore, CH4 emissions need to be monitored from the nostrils and oral cavity 
+only. 
+Ruminants release CH4 by exhaling the gas mainly through their mouth and nostrils. Enteric CH4 
+is produced mostly in the rumen (87%) and, to a smaller extent, the hindgut (13%; Murray et al., 
+1976). Ruminants release CH4 by direct eructation from the rumen, by expiration of absorbed 
+CH4 in the blood and exhalation by the lungs, and by the hindgut in the flatus. However, 89% of 
+methane produced in the hind gut is exhaled through the lungs (Murray et al., 1976). Exhaled 
+gas is the combined gas released by eructation and expiration through the mouth and nostrils. 
+As almost all of the CH4 is released by exhalation, the project boundary does not include CH4 
+emissions from flatulence. However, due to rumen physiology, in some cases the feed 
+ingredient could have an effect on digestibility parameters, which will affect manure nutrient 
+composition and potential CH4 emissions during storage and field application. For this reason, 
+if the feed ingredient is demonstrated to shift manure composition, then the project boundary 
+must include CH4 or N2O emissions from decomposing manure. Manure emissions due to feed 
+ingredients are dealt with by Applicability Condition 6 of this methodology.

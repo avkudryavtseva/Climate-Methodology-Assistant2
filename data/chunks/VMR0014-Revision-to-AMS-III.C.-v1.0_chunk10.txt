@@ -1,0 +1,180 @@
+9 MONITORING 
+Project proponents must follow the monitoring procedures of the most recent version of AMS-
+III.C. and apply the changes indicated in this section. 
+9.1 
+Data and Parameters Available at Validation 
+This refers to the parameters NCV, EFCO2, and IR. Project proponents must follow the 
+procedures provided in the most recent version of AMS-III.C.  
+Data / Parameter 
+SFCBL, i 
+Data unit 
+g/km for vehicles and g/h for mobile machinery 
+Description 
+Specific fuel consumption of baseline vehicle / mobile machinery 
+category i 
+Equations 
+Equation (3) 
+Source of data 
+As per options 1 through 5 
+Value applied 
+As per options 1 through 5 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+As per options 1 through 5 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Depending on the option selected, monitoring may be required 
+ 
+VMR0014, v1.0 
+ 
+15 
+ 
+9.2 
+Data and Parameters Monitored  
+Project proponents must follow the procedures provided in the most recent version of AMS-III.C. 
+and apply the changes indicated in this section. Changes are made to include mobile 
+machinery in the following parameters. 
+Data / Parameter: 
+FCPJ,i,y 
+Data unit: 
+kg 
+Description: 
+Fossil fuel consumed by project vehicle / EMM category i in year y 
+Equations 
+Equation (10) 
+Source of data: 
+Fuel charging records 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Fuel charging records of project vehicles / EMM 
+Frequency of 
+monitoring/recording: 
+Annual aggregation 
+QA/QC procedures to be 
+applied: 
+The fuel charging records will be crosschecked with driver logs or 
+invoices from filling station and with typical Specific Fuel Consumption 
+for the vehicle / EMM type. 
+Purpose of data: 
+ Calculation of project emissions 
+Calculation method: 
+NA 
+Comments: 
+NA 
+ 
+Parameters 1, 3 and 4 from AMS-III.C. must be replaced as follows: 
+Data/Parameter table 1. 
+Data / Parameter: 
+SUPJ,i,y 
+Data unit: 
+Vehicles: kilometers  
+EMM: hours 
+Description: 
+Units of service of project vehicle / EMM category i in year y  
+Source of data: 
+Measurement 
+ 
+VMR0014, v1.0 
+ 
+16 
+Measurement 
+procedures (if any): 
+Measure the annual units of service provided by the project vehicles 
+/ EMM through: 
+Option (A): monitoring of all project vehicles / EMM units 
+or 
+Option (B): representative sample survey for each project vehicle and 
+EMM category i. Sample units must be chosen in accordance with the 
+most recent version of the Guidelines for Sampling and Surveys for 
+CDM Project Activities and Programmes of Activities using a 90% 
+confidence interval and ±10% precision to determine the sample 
+size. The lower bound of the 90% confidence interval must be used 
+as the annual units of service. 
+Any comment: 
+Average annual distance traveled in kilometers for project vehicles or 
+average annual operating hours for EMM 
+  
+ 
+Data / Parameter table 1. 
+Data / Parameter: 
+SECPJ,i,y 
+Data unit: 
+Vehicles: kWh/km 
+EMM: kWh/h 
+Description: 
+Specific electricity consumption per unit of service of project vehicle / 
+EMM category i in year y  
+Source of data: 
+Measurement 
+Measurement 
+procedures (if any): 
+Measure the specific electricity consumption through: 
+Option (A): monitor electricity consumption of all project vehicles / 
+EMM 
+or 
+Option (B): measure the specific electricity consumed for a 
+representative sample of each project vehicle / EMM category. 
+Sample vehicles / mobile machinery must be chosen in accordance 
+with the most recent version of the Guidelines for Sampling and 
+Surveys for CDM Project Activities and Programmes of Activities using 
+a 90% confidence interval and ±10% precision to determine the 
+sample size. The upper bound of the 90% confidence interval must 
+be used as the specific electricity consumed. 
+Plug-in hybrid vehicles / EMM, must determine SECPJ,i,y based on 
+running on 100% electricity, i.e. no fuel consumption. 
+Project proponents must cross-check values against vehicle 
+manufacturer specifications of specific energy consumption and use 
+the highest of the two values. 
+Any comment: 
+- 
+ 
+Data / Parameter table 2. 
+ 
+VMR0014, v1.0 
+ 
+17 
+Data / Parameter: 
+SFCPJ,i,y 
+Data unit: 
+Vehicles: g/km 
+EMM: g/h 
+Description: 
+Specific fuel consumption factor for project vehicle / EMM category i 
+in year y 
+Source of data: 
+Measurement 
+Measurement 
+procedures (if any): 
+Measure the specific fossil fuel consumption through: 
+Option (A): monitor consumption of all project vehicles / EMM 
+or 
+Option (B): measure the specific fossil fuel consumption for a 
+representative sample of each project vehicle / EMM category. 
+Sample vehicles / mobile machinery must be chosen in accordance 
+with the most recent version of the Guidelines for Sampling and 
+Surveys for CDM Project Activities and Programmes of Activities using 
+a 90% confidence interval and ±10% precision to determine the 
+sample size. The upper bound of the 90% confidence interval must 
+be used as the specific fuel consumption factor. 
+Plug-in hybrid vehicles / EMM, must determine SFCPJ,i,y based on 
+running 100% on fossil fuel, i.e. no electricity consumption. 
+Project proponents must cross-check values against vehicle 
+manufacturer specifications of specific fuel consumption and use the 
+highest of the two values. 
+Any comment: 
+- 
+ 
+Data parameter tables 6, 7, 8, and 9 replace the term “project vehicle(s)” with the term “project 
+vehicle(s) / EMM.” 
+9.3 
+Description of the Monitoring Plan 
+All monitoring requirements of the most recent version of AMS-III.C. must be followed. 
+ 
+ 
+ 
+VMR0014, v1.0

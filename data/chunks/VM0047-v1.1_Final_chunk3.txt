@@ -1,0 +1,11 @@
+2 SOURCES 
+This methodology is based on the following methodology: 
+• 
+AR-ACM0003 A/R Large-scale Consolidated Methodology: Afforestation and 
+Reforestation of Lands Except Wetlands 
+Portions of this methodology are based on the following modules and tools: 
+• 
+CDM Tool for Testing Significance of GHG Emissions in A/R CDM Project Activities 
+• 
+VT0001 Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, 
+Forestry and Other Land Use (AFOLU) Project Activities

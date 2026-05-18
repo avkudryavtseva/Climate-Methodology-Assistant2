@@ -1,0 +1,41 @@
+3 DEFINITIONS 
+3.1 
+Definitions 
+In addition to the definitions set out in the VCS Program document Program Definitions and 
+additional definitions in specific modules, the following definitions apply to this methodology and 
+any of the modules used. 
+Activity data (AD) 
+Data on the magnitude of a human activity that results in emissions or removals taking place 
+during a given period of time  
+Baseline validity period 
+The period of time for which a baseline is considered valid, as set out in the VCS Standard 
+Forest 
+In addition to the definition set out in the VCS Program Definitions and the requirements of the 
+VCS Methodology Requirements, for this methodology, “forest” must include woody vegetation 
+with a canopy cover of between 10 and 30 percent, as used in the relevant country’s 
+international reporting to the UNFCCC, or as otherwise officially elected as an applicable 
+definition for use by climate change mitigation projects and programs. Where a country’s national 
+forest definition excludes specific land use/land management types and/or vegetative classes, 
+stratification should identify these areas to enable future inclusion/exclusion in nested 
+accounting. 
+Planned deforestation (PDef) 
+Deforestation on forest lands that are legally authorized and documented for conversion 
+Unplanned deforestation (UDef) 
+Deforestation of degraded to mature forests not legally authorized and documented for 
+conversion 
+For definitions of VCS AFOLU project categories, refer to the VCS Standard. 
+3.2 
+Acronyms 
+AD 
+Activity data 
+GHG 
+Greenhouse gas 
+JNR 
+Jurisdictional and Nested REDD+ 
+SOP 
+Standard operating procedure(s) 
+UDef 
+Unplanned deforestation 
+ 
+VM0048, v1.0 
+5

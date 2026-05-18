@@ -1,0 +1,32 @@
+4 APPLICABILITY CONDITIONS 
+All applicability conditions of the most recent version of AMS-III.BM. must be met. 
+The scope of AMS-III.BM. is expanded by including other two- or three-wheeled e-vehicles in 
+type 7 projects and an additional category of type 9 projects, which covers e-bikes and other 
+two- or three-wheeled e-vehicles in business-oriented activities. 
+ 
+VMR0013, v1.0 
+ 
+6 
+Table 1. Types of projects eligible under this methodology (revisions in green) 
+Type of 
+project 
+Description 
+Baseline options applicable 
+Option 1 Option 2 Option 3 Option 4 
+Type 7 
+Introduction of e-bikes and other two- or 
+three-wheeled e-vehicles 
+✓ 
+ 
+ 
+✓ 
+ 
+ 
+Type 9 
+Introduction of e-bikes and other two- or 
+three-wheeled e-vehicles in business-
+oriented activities 
+ 
+ 
+ 
+

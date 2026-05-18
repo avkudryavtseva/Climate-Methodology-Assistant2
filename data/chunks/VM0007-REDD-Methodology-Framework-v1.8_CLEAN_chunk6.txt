@@ -1,0 +1,96 @@
+4 APPLICABILITY CONDITIONS 
+4.1 
+General 
+This REDD+ Methodology Framework is a compilation of modules and tools that together define 
+the project activity and necessary methodological steps. By choosing the appropriate modules, 
+a project-specific methodology may be constructed. The justification of the choice of modules 
+and why they are applicable to the proposed project activity must be given in the PD. 
+Specific applicability conditions exist for each module and must be met in order for the module 
+to be used. 
+Use of this methodology is subject to the following applicability conditions, noting that the 
+project must also comply with the applicability conditions of the applied modules and tools. 
+4.2 
+REDD 
+4.2.1 All REDD Activity Types 
+REDD activity types are applicable under the following conditions: 
+1) Land in the project area has qualified as forest (following the definition used by the 
+VCS; in addition, see Section 5.1.2) for at least the 10 years prior to the project start 
+date. Mangrove forests are excluded from any tree height requirement in a forest 
+ 
+VM0007, v1.8 
+14 
+definition, as they consist of 95 percent mangrove species, which often do not reach 
+the same height as other tree species. Mangroves occupy contiguous areas and their 
+functioning as a forest is independent of tree height. 
+2) Where land within the project area is peatland or tidal wetlands and emissions from the 
+SOC pool are deemed significant, the relevant WRC modules (see Table 3) are applied 
+alongside other relevant modules. 
+3) Baseline deforestation in the project area falls within either of the following categories: 
+a) Unplanned deforestation (VCS category AUDef) 
+b) Planned deforestation (VCS category APDef) 
+REDD activity types are not applicable under the following condition: 
+4) Leakage prevention activities include: 
+a) Flooding agricultural lands to increase production (e.g., rice paddies); and/or 
+b) Intensifying livestock production through use of feed-lots 7F9 and/or manure 
+lagoons.8F10 
+4.2.2 Avoiding Unplanned Deforestation 
+Avoiding unplanned deforestation activities are applicable under the following conditions: 
+5) Baseline agents of deforestation meet all of the following criteria:  
+a) Clear the land for tree harvesting, settlements, crop production (agriculturalist), 
+ranching or aquaculture, where such clearing for crop production, ranching or 
+aquaculture does not amount to large scale industrial agriculture or aquaculture 
+activities;9F11 
+b) Have no documented and uncontested legal right to deforest the land for these 
+purposes; and  
+c) Are either residents in the reference region for deforestation (see Section 5.1.2 
+below) or immigrants.  
+Under any other condition this methodology must not be used. 
+Avoiding unplanned deforestation activities are not applicable under the following condition: 
+6) Post-deforestation land use in the baseline scenario constitutes reforestation. 
+ 
+9 Feedlots are defined as areas in which naturally grazing animals are confined to an area which produces no feed 
+and are fed on stored feeds. 
+10 Anaerobic lagoons that function as receptacles for animal waste flushed from animal pens. Anaerobic organisms 
+present in the manure and the environment decompose the waste in the lagoon. 
+11 Small-scale/large-scale agriculture or aquaculture is to be defined and justified by the project. 
+ 
+VM0007, v1.8 
+15 
+4.2.3 Avoiding Planned Deforestation 
+Avoiding planned deforestation activities are applicable under the following condition: 
+7) Where conversion of forest lands to a deforested condition is legally permitted 
+4.3 
+WRC 
+4.3.1 All WRC Activity Types 
+WRC activities are not eligible under the following conditions: 
+8) Project activities lower the water table, unless the project converts open water to tidal 
+wetlands, or improves the hydrological connection to impounded waters. 
+9) Changes in hydrology do not result in the accumulation or maintenance of SOC stock, 
+noting that a) this pertains to projects that intend to sequester carbon through 
+sedimentation and/or vegetation development and b) this does not pertain to projects 
+that increase salinity to reduce CH4 emissions. Projects that aim to decrease CH4 
+emissions through increased salinity must account for any changes in SOC stocks. 
+10) Hydrological connectivity of the project area with adjacent areas leads to a significant 
+increase in GHG emissions outside the project area. 
+11) Project activities include the burning of organic soil. 
+12) Nitrogen fertilizer(s), such as chemical fertilizer or manure, are applied in the project 
+area during the project crediting period. 
+4.3.2 RWE Project Activities 
+RWE project activities are applicable under the following conditions: 
+13) Prior to the project start date, the project area meets one of the following criteria: 12F12 
+a) The project area is free of any land use that may be displaced outside the project 
+area, as demonstrated by at least one of the following, where relevant: 
+i) 
+The project area has been abandoned for two or more years prior to the project 
+start date; or  
+ii) 
+Use of the project area for commercial purposes (i.e., trade) is not profitable as 
+a result of salinity intrusion, market forces or other factors. In addition, timber 
+harvesting in the baseline scenario within the project area does not occur; or  
+iii) 
+Degradation of additional wetlands for new agricultural/aquacultural sites 
+within the country will not occur or is prohibited by enforced law. 
+ 
+12 These conditions are included to avoid leakage. 
+ 
+VM0007, v1.8

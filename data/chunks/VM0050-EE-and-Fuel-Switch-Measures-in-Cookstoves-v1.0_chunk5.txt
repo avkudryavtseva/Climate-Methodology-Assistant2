@@ -1,0 +1,131 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to project activities that introduce energy efficiency and fuel-switch 
+measures in cookstoves. 
+This methodology is applicable where all of the following conditions are met: 
+1) The project activity corresponds to: 
+a) Replacement of non-renewable biomass (e.g., firewood, charcoal)-fired cookstoves 
+with any of the following: 
+i) 
+More efficient project devices that use the same fuel as in the baseline; 
+ii) 
+Efficient project devices fired by renewable biomass or bioethanol; 
+iii) 
+Efficient project devices fired by liquefied petroleum gas (LPG); or  
+ 
+VM0050, v1.0  
+ 
+8 
+iv) 
+Electric-powered project devices. 
+b) Replacement of solid or liquid fossil fuel (e.g., coal, kerosene)-fired cookstoves with 
+any of the following: 
+i) 
+Efficient project devices fired by renewable biomass or bioethanol; 
+ii) 
+Efficient project devices fired by LPG; or  
+iii) 
+Electric-powered project devices. 
+2) Project devices are used in households, communities, institutions, or small or medium 
+enterprises (SMEs),4 collectively referred to in this methodology as the “target 
+population.” 
+Use of renewable biomass 
+3) Where renewable biomass is used, it is exclusively renewable5 and qualifies as one of 
+the following: 
+a) A by-product, residue, or waste stream from agriculture, forestry, and related 
+industries; or 
+b) Originating from dedicated plantations that comply with all relevant applicability 
+conditions in the most recent version of CDM TOOL16. 
+4) Where biomass residues are used, they would have been left to decay or burned 
+without energy recovery before implementation of the project activity, and their use 
+does not involve a decrease in carbon pools – in particular of dead wood, litter, or soil 
+organic carbon – on the land areas from which the biomass residues originate. 
+5) Where biomass residues from a production process are used, project implementation 
+does not result in an increase in the processing capacity of raw input or any other 
+substantial changes (e.g., product change) in this process. 
+6) Where more than one type of renewable biomass is used, each of the biomass types 
+used complies with the applicability conditions.  
+Note – Renewable biomass may be processed into fuels, such as briquettes, wood chips, or 
+charcoal. 
+7) Where project activities introduce renewable biomass as charcoal, it is renewable 
+charcoal produced by efficient charcoal production processes6 (e.g., retort sedentary 
+ 
+4 This includes micro enterprises. 
+5 Refer to EB 23 Annex 18 for definition of renewable biomass; available at: 
+https://cdm.unfccc.int/EB/023/eb23_repan18.pdf  
+6 Where kilns emit a minimal amount of methane during the charcoaling process (i.e., an efficient process is 
+employed that results in high charcoal yield) and the small amount of methane that is emitted is captured and 
+used or destroyed. 
+ 
+VM0050, v1.0  
+ 
+9 
+kilns, improved sedentary kilns, Casamance kilns). Methane produced during the 
+charcoaling process is captured and destroyed or combusted for energy purposes. 
+Cookstove characteristics7 and use 
+8) Project devices using renewable biomass (fuel-switch) or non-renewable biomass 
+(improved efficiency) are single-pot, multi-pot portable, or in-situ cookstoves with an 
+initial thermal efficiency8 of at least 25%.9 
+9) Project devices using LPG or bioethanol are single-pot, multi-pot portable, or in-situ 
+cookstoves with an initial thermal efficiency of at least 30%. 
+10) Electric project devices10 meet the maximum risk factor score of 15 on the Cookstove 
+Durability Protocol11 and have the following minimum thermal efficiency: 
+a) Hot plates and electric hobs: 40% 
+b) Induction stoves and other electric stoves: 70% 
+11) Project devices using LPG comply with all of the following conditions: 
+a) The baseline fuel either includes non-renewable biomass or is a more carbon-
+intensive fossil fuel (demonstrated by the baseline survey, see Section 6.2); 
+b) The project has a provision for metering LPG supplied to each consumer at the 
+LPG filling station, in order to determine household LPG consumption; and  
+c) The project does not seek to issue any carbon credits for periods after 31 
+December 2045. 
+12) Electric project devices use the following electricity sources: 
+a) Decentralized renewable energy systems: Decentralized energy systems using 
+fossil fuels are not eligible, except for backup generators that supply less than 
+1% of the annual electricity of the decentralized renewable energy system.12  
+b) Self-generated renewable electricity (with a maximum of 20% electricity from 
+non-renewable sources for backup); or 
+ 
+7 Only thermal efficiency and durability of cookstoves are evaluated. 
+8 Initial thermal efficiency for a new stove, which is expected to deteriorate during the project lifetime 
+9 Efficiency thresholds of 20% (Tier 2), 30% (Tier 3), and 40% (Tier 4) from ISO/TR 19867-3, available at: 
+https://www.iso.org/standard/73935.html  
+10 Defined as clean technologies by WHO; see https://www.who.int/tools/clean-household-energy-solutions-
+toolkit/module-7-defining-clean 
+11 The Cookstove Durability Protocol (endorsed by the Clean Cooking Alliance) provides methods for evaluating 
+cookstove durability by carrying out a range of targeted tests. Each test incorporates a numeric scoring method 
+and cookstoves are scored based on their (durability) risk level. The higher the risk of durability issues, the higher 
+the overall score. The most recent version of the protocol is available here. 
+12 This restriction aims to avoid the introduction of new, inefficient fossil fuel-fired electricity generation to fuel 
+electric cookstoves. 
+ 
+VM0050, v1.0  
+ 
+10 
+c) National or regional electricity grid. 
+13) The project proponent designs incentive mechanisms to reduce the use of inefficient 
+baseline devices and practices that can be replaced by the project devices and 
+describes these mechanisms in the project description. 
+14) Where a project device has ended its technical life, the project proponent either 
+replaces it with a comparable or better project device or retrofits its essential 
+components to continue meeting the minimum service level requirements (i.e., thermal 
+energy generation), otherwise no further emission reductions may be claimed for the 
+project device. 
+Avoiding harm and double counting 
+15) Project proponents implement a method for the distribution and identification of project 
+devices that avoids double counting of emission reductions by other mitigation actions 
+and includes unique product identification on the stove itself at the time of 
+distribution/sale (e.g., program logo, alpha/numeric ID, and end-user location, such as 
+geographic coordinates, complete address information).  
+16) The project complies with any national, sub-national, or local regulations or guidance 
+for the installation, commercialization, distribution, and use of improved cookstoves 
+and/or fuel supply and use for the target population. National, regional, and local 
+regulatory frameworks for the provision of the type of thermal energy services provided 
+by the project activity must be documented.  
+17) Where project activities reduce emissions from non-renewable biomass, including 
+firewood and charcoal, the risk of double counting is assessed on a national basis by 
+evaluating at validation and crediting period renewal whether there are REDD+ projects 
+or jurisdictional REDD+ programs whose project boundary overlaps with the expected 
+fuel source area of the project. The project proponent must report on the findings of 
+this assessment for informational purposes in the project description.  
+Note – In the future, the VCS Program may adopt further requirements or guidelines related to 
+the risk of double counting between improved cooking and REDD+ activities.

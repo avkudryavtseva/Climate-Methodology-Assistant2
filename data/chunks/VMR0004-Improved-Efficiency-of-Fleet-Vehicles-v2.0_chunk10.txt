@@ -1,0 +1,313 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+EFCO2,x,y 
+Data unit 
+g C02/fuel metric 
+Description 
+C02 emission factor of fuel type x in period y 
+Equations 
+(2), (5) 
+Source of data 
+National values or the most recent version of the IPCC Guidelines for 
+National Greenhouse Gas Inventories 
+Value applied 
+- 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Based on official sources 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Where CO2 emission factors are not directly available, they may be 
+calculated from net calorific values (e.g., kJ/L) and fuel emission 
+factors (e.g., g CO2/kJ) available in the sources above. 
+ 
+VMR0004, v2.0 
+ 
+17 
+If fossil fuel-biofuel blends are used, the biofuel share and the blend 
+emission factor must be recorded. 
+ 
+9.2 
+Data and Parameters Monitored 
+Data/Parameter 
+ALi,x,y 
+Data unit 
+km, t-km, p-km or h 
+Description 
+Activity level of project vehicle category i using fuel type x or electricity 
+in period y 
+Equations 
+(1), (4) 
+Source of data 
+Option 1 
+Telematics system data recording or project group data 
+Option 2 
+Used for mobile machinery.  
+For activity level metrics based on time (e.g., operating hours for mobile 
+machinery), time must be measured on hour-monitoring devices 
+installed on the mobile machinery and recorded by electronic or paper 
+records. 
+The activity level metric for both options and its measurement must be 
+detailed in the project description.  
+Activity level metrics must not change between baseline and project 
+monitoring periods and must be measured in comparable manners. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For activity level metrics based on time and distance: 
+Option 1 
+Monitoring via use of a vehicle telematics recording system capable of 
+continuously tracking and securely recording accurate engine data 
+including odometer, fuel consumption, and engine operational time, as 
+provided by the vehicle’s engine control module. The telematics system 
+must transmit engine measurements over-the-air to the telematic 
+service provider’s protected database, where the data can be analyzed 
+and reviewed to ensure compliance. 
+Option 2 
+Monitoring must be based on vehicle usage logs. 
+The activity level metric t-km should only be used for trucks and buses. 
+Measurements may use:  
+ 
+VMR0004, v2.0 
+ 
+18 
+a) A telematics system to record and monitor the GVW and 
+odometer of the vehicle; or 
+b) A sample of vehicles randomly chosen in accordance with the 
+most recent version of the CDM Standard for Sampling and 
+Surveys for CDM Project Activities and Programme of Activities. 
+Frequency of 
+monitoring/recording 
+Where using a telematics system, data are continuously monitored. 
+Otherwise, data must be monitored monthly or annually. 
+QA/QC procedures to be 
+applied 
+Where using a telematics system, the telematics device must remain 
+connected to, and plugged into, the on-board diagnostics (OBD) of the 
+engine for the entire project duration. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A  
+Comments 
+N/A 
+ 
+Data/Parameter 
+SFCBL,i,x,y 
+SFCPJ,i,x,y 
+Data unit 
+L/activity level 
+fuel metric/activity level 
+Description 
+Specific baseline fuel consumption of vehicle category i using fuel type 
+x in period y 
+Specific project fuel consumption of vehicle category i using fuel type x 
+in period y 
+Equations 
+(2), (5) 
+Source of data 
+Option 1: Telematics system data 
+Option 2: Mobile machinery statistics or sample measurements  
+Where based on sample measurements, sample vehicles must be 
+randomly chosen in accordance with the most recent version of the 
+CDM General Guidelines for Sampling and Surveys for Small-Scale CDM 
+Project Activities using a 90% confidence interval. 
+To determine specific fuel consumption, the fuel consumed by the 
+respective category of mobile machinery must be divided by the activity 
+level of that category during the same time period over which fuel 
+consumption was monitored (e.g., fuel consumed by a category of five 
+pieces of mobile machinery during two days is divided by the activity 
+level performed by those five pieces of mobile machinery during the two 
+days). 
+Description of 
+measurement methods 
+Option 1: Monitoring may be via use of a vehicle telematic recording 
+system capable of continuously tracking and securely recording 
+ 
+VMR0004, v2.0 
+ 
+19 
+and procedures to be 
+applied 
+accurate engine data including odometer, fuel consumption, and engine 
+operational time, as provided by the vehicle’s engine control module. 
+The telematics system must transmit engine measurements over-the-air 
+to the telematic service provider’s protected database, where the data 
+can be analyzed and reviewed to ensure compliance. 
+Option 2: Electronic fuel consumption measurement devices or fuel 
+records for fuel consumption. The specific fuel consumption is 
+calculated (fuel usage/activity level). 
+Frequency of 
+monitoring/recording 
+Where using a telematics system, data are continuously monitored. 
+Otherwise, data must be monitored monthly. 
+QA/QC procedures to be 
+applied 
+Where using a telematics system, the telematics device must remain 
+connected to, and plugged into, the OBD of the engine for the entire 
+project duration. 
+For both options, the project proponents must document and report the 
+measures implemented in each project vehicle category, along with 
+their operation status (active/inactive) per vehicle, to confirm that the 
+fuel savings are a direct result of these measures. 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+The fuel metric used (g, L) is determined based on available data. 
+Where a telematics system is used to monitor the project, the fuel 
+recording will likely be measured in liters. 
+ 
+ 
+Data/Parameter 
+SECBL,i,y 
+SECPJ,i,y 
+Data unit 
+kWh/activity level 
+Description 
+Specific baseline electricity consumption of vehicle category i in period 
+y  
+Specific project electricity consumption of vehicle category i in period y 
+Equations 
+(3), (6) 
+Source of data 
+Measurements 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Option 1: Telematics system data, see Section 8.1.1.1 
+Option 2: Control group method, see Section 8.1.1.2 
+ 
+VMR0004, v2.0 
+ 
+20 
+Frequency of 
+monitoring/recording 
+Where using a telematics system, data are continuously monitored. For 
+SECBL,i,y the data must be monitored for a minimum of 5000 km or 200 
+hours. 
+Otherwise, data must be monitored monthly. 
+QA/QC procedures to be 
+applied 
+Where using a telematics system, the telematics device must remain 
+connected to, and plugged into, the OBD of the engine for the entire 
+project duration. 
+For both options, the project proponents must document and report the 
+measures implemented in each project vehicle category, along with 
+their operation status (active/inactive) per vehicle, to confirm that the 
+electricity savings are a direct result of these measures. 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+For electric vehicles 
+ 
+Data/Parameter 
+EFelec,y 
+Data unit 
+g CO2/kWh 
+Description 
+CO2 emission factor of electricity in period y 
+Equations 
+(3), (6) 
+Source of data 
+1) Local utilities (electrical) authority 
+2) International Energy Agency (IEA); or 
+3) Calculated based on the most recent version of VT0011 Electricity 
+System Emission Factors 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+ 
+VMR0004, v2.0 
+ 
+21 
+Comments 
+N/A 
+ 
+Data/Parameter 
+TDLy 
+Data unit 
+% 
+Description 
+Average technical transmission and distribution losses for providing 
+electricity in period y 
+Equations 
+(3), (6) 
+Source of data 
+Option 1: Local authority such as electric utility 
+Option 2: Use a default value of 0% 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The local electrical utilities provider is the owner of the power 
+transmission and distribution lines and can provide first-hand 
+information. 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+Where different values are available, the lowest value must be used. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A  
+ 
+9.3 
+Description of the Monitoring Plan 
+The data and parameters set out in Section 9.1 must be monitored by the project proponent 
+and must be made available during verification. Project proponents must establish a 
+comprehensive monitoring plan for ensuring the collection, measurement, recording, and 
+quality assurance / quality control (QA/QC) procedures for these data and parameters and this 
+must be documented in the project description.  
+The project proponent must report at each verification on any existing or upcoming net zero 
+transition plans and decarbonization strategies of the host country or region, and how they 
+relate to the project activity. If these plans or strategies are relevant to the project activity, the 
+requirements in Section 8.1.3 must be applied to adjust the baseline and estimate emission 
+reductions. 
+ 
+VMR0004, v2.0 
+ 
+22 
+All data collected as part of the monitoring plan must be archived electronically and kept for at 
+least two years after the end of the last project crediting period. Equipment used for 
+measurements must comply with relevant industry standards (where applicable) and must be 
+calibrated according to such standards where relevant and applicable. Fuel consumption may 
+be based specifically on tanking invoices/records. 
+Where any device installed in a project vehicle (e.g., eco-drive or engine retrofits, including fuel 
+flow sensors or meters) is not operating correctly or has been disabled, no GHG emission 
+reductions may be attributed to that vehicle for the period during which the system has not 
+been operating correctly. 
+ 
+ 
+ 
+VMR0004, v2.0 
+ 
+23

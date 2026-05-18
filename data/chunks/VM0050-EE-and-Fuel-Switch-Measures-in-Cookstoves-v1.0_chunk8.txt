@@ -1,0 +1,34 @@
+7 ADDITIONALITY 
+Project proponents must demonstrate additionality through demonstration of regulatory surplus 
+and either confirming that the project activity is on the positive list (activity method) or 
+conducting an investment analysis and common practice analysis (project method). 
+Step 1: Regulatory surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent versions of the VCS 
+Standard and VCS Methodology Requirements.  
+Step 2: Positive list 
+The project activity must meet both of the following conditions to qualify for the positive list: 
+1) The project activity introduces: 
+a) Efficient biomass-fired cookstoves that replace inefficient biomass-fired 
+cookstoves; 
+b) Efficient, solely renewable biomass-fired cookstoves that replace fossil fuel-fired 
+cookstoves; or 
+c) Electric cookstoves that replace inefficient biomass-fired or fossil fuel-fired 
+cookstoves. 
+2) The project activity installs or distributes improved cookstoves at zero cost to the end-
+user and has no revenue source15 other than from the sale of verified carbon units 
+(VCUs). 
+ 
+15 Including revenues from selling of firewood, charcoal, LPG, bioethanol, or any commercial relationship with fuel 
+providers 
+ 
+VM0050, v1.0  
+ 
+16 
+Projects that pass the regulatory surplus test (Step 1) and are on the positive list (Step 2) are 
+deemed additional and are not required to apply Step 3. 
+Step 3: Project method 
+If the project activity is not on the positive list (Step 2), additionality must be demonstrated by 
+applying a barrier analysis or investment analysis as per the most recent version of VT0008.  
+The project proponent must also demonstrate that the project activity is not a common practice 
+as per the most recent version of VT0008.

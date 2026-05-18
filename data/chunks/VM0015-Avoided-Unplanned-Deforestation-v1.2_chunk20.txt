@@ -1,0 +1,84 @@
+202 
+Y 
+Yes, to be prepared 
+Y-M1 
+Yes, to be prepared where Method 1 (activity data per class) is used 
+Y-M2,ct 
+Yes, to be prepared where Method 2 (activity data per category ct) is used 
+Y-M2,ctz 
+Yes, to be prepared where Method 2 (activity data per category ctz) is used 
+() 
+Optional 
+* 
+To be prepared only where applicable 
+(A) 
+Actual changes instead of baseline changes 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+203 
+APPENDIX 7: DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+12 Jun 2011 
+Initial version released.   
+V1.1 
+3 Dec 2012 
+The methodology was revised to account for the decay of carbon from the 
+belowground biomass, dead wood, soil carbon and medium-term harvested 
+wood products pools. Revisions were made to Section 6.1.2 and Appendix 3. 
+Additional revisions have also been incorporated into the methodology. 
+Specifically, litter is included as an optional pool, sampling techniques are 
+provided as an option for developing land use/land cover maps, the steps to 
+analyze deforestation constraints are removed and a process to project future 
+land use/land cover with zones is provided. 
+The following minor updates have also been incorporated into the methodology:   
+• 
+The word “guidelines” when referring to Jurisdictional and Nested REDD 
+was changed to “requirements.” 
+• 
+Equations 6.a, 6.b and 6.c were corrected to avoid negative areas. 
+• 
+Equations 7.b and 12.c were corrected (“e” is Euler’s Number). 
+• 
+The minimum threshold requirements for the figure of merit (FOM) were 
+changed and made consistent with the corresponding module of 
+VM0007. 
+• 
+The definition of the minimum mapping unit was updated to be 
+consistent with the definition found in the VCS JNR Requirements.  
+• 
+An error was corrected in Equation A3-17 (the factor 44/12 to convert 
+tonnes of C to tonnes of CO2e was missing). 
+V1.2 
+18 Dec 2023 
+Incorporated the 13 December 2014 erratum regarding the omission of error 
+propagation (0Box 2) and the 3 November 2017 clarification regarding post-
+deforestation carbon stock increase (former Section 6.1, current Section 6.6.2) 
+Incorporated procedures for bias correction (Section 8.1.2) 
+Excluded carbon stock enhancement. 
+Added a requirement to determine the most plausible baseline scenario to align 
+with the VCS Methodology Requirements and applicability conditions of VT0001 
+(Section 6.1). 
+Added a stepwise process to test significance (Appendix 2) 
+Excluded the modeling approach to project future deforestation 
+Updated requirements to delineate the reference region (Section 5.1.1). 
+Updated: 
+• Utilization of the most recent VCS Methodology Template to facilitate 
+reporting 
+ 
+VM0015, v1.2 
+204 
+Version 
+Date 
+Comment 
+• References for the duration of baseline validity and historical reference 
+periods to the VCS Standard and VCS Methodology Requirements, 
+respectively 
+• Document references 
+Made minor editorial corrections.

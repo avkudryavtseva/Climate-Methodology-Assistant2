@@ -1,0 +1,9 @@
+1 
+SOURCES 
+This methodology is not based on any approved baseline and/or monitoring methodologies.  
+It refers to the latest approved versions of the following tools: 
+• 
+Tool to calculate project or leakage CO2 emissions from fossil fuel combustion 
+(UNFCCC); 
+• 
+Combined tool to identify the baseline scenario and demonstrate additionality (UNFCCC).

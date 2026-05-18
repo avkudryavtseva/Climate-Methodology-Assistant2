@@ -1,0 +1,52 @@
+1 SUMMARY DESCRIPTION  
+Additionality, Crediting Method,1 and Mitigation Outcome 
+ 
+Additionality 
+Performance Method (area-based) or Project Method (census-based) 
+Crediting Baseline 
+Performance Method (area-based) or Project Method (census-based) 
+Mitigation Outcome 
+Removals 
+ 
+This methodology applies to afforestation, reforestation, and revegetation (ARR) activities and 
+provides two quantification approaches: area-based and census-based. Project activities must 
+establish, increase, or restore vegetative cover in non-forest areas (applicable to both 
+approaches), or activities must enhance forest carbon stocks in areas with existing forest cover 
+that have not been managed for wood products in the past ten years (applicable to the area-
+based approach only).  
+1.1 
+Summary of the Area-based Approach  
+The area-based approach applies to ARR projects that change land cover from non-forest to 
+forest or enhance stocks in existing forests. Detectable changes in vegetative cover measured 
+using remote sensing and plot-based sampling serve as the basis for quantifying carbon 
+removals. The area-based approach: 
+1) uses traditional plot-based sampling methods to estimate biomass per unit area, scaling 
+these estimates to the project level based on the total project area within the boundary. 
+2) uses a dynamic performance benchmark to assess additionality and determine the 
+crediting baseline at each verification. The performance benchmark is derived from ex-
+post observations that compare the change in vegetative stocking index (SI) between 
+remotely sensed project and matched control plots. 
+3) does not apply to projects that can use the census-based approach. 
+4) applies VMD0054 Module for Estimating Leakage from ARR Activities to quantify 
+leakage. The module provides a standardized approach to account for leakage related to 
+the displacement of pre-project agricultural activities caused by the baseline agent 
+(activity-shifting leakage) and other actors (market leakage). 
+ 
+1 See Section 7 for additional information. 
+ 
+VM0047, v1.1 
+6 
+1.2 
+Summary of the Census-based Approach  
+The census-based approach applies to ARR projects that do not occur in forests and do not result 
+in land use changes. This approach enables the inclusion of ARR activities that would otherwise 
+be difficult to quantify under the area-based approach. The census-based approach: 
+1) applies only to projects that involve direct planting. 
+2) limits planting density to a maximum of 50 planting units per hectare. 
+3) uses a complete census of all planting units (established as N, the total number of 
+planting units) at t=0.  
+4) estimates biomass through sampling and measurement of planting units, then scales to 
+the project level using the number of planting units (N) as a multiplier. 
+5) uses a project method to demonstrate additionality and determine the crediting baseline. 
+6) is exempt from applying a leakage deduction because projects must not result in a 
+change to existing land use.

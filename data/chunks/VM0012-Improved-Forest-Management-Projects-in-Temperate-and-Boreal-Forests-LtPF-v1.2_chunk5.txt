@@ -1,0 +1,253 @@
+5 
+PROJECT BOUNDARY 
+5.1 
+Spatial Project Boundaries: 
+The project boundary is to be defined by the project proponent with maps and legal land descriptions.  Such 
+properties may be contiguous or separate properties if they are located within a similar region and forest condition.   
+Note that all spatially relevant forest land holdings owned or managed by the project proponent will need to be 
+considered in leakage assessments and monitoring, even if they are not included in the defined project area.   
+5.2 
+Temporal Project Boundaries 
+As per VCS requirements for AFOLU projects, project proponents must specify a project-crediting period as set out 
+in the most recent version of the VCS Standard.  .   
+5.3 
+Leakage Assessment Boundaries 
+Leakage within this methodology is assessed against a national leakage area.   
+5.4 
+Selected Carbon Pools and Emissions Sources: 
+Table 1 - Selection of Carbon Pools 
+Carbon Pool 
+Selected? 
+Justification/Explanation 
+Aboveground Tree 
+Biomass 
+Yes 
+Required by VCS.  Major carbon pool subject to changes from the 
+baseline to the project scenario. 
+Aboveground Non-
+tree Biomass 
+No 
+Excluded by VCS.  Minor carbon pool subject to changes from the 
+baseline to the project scenario 
+Belowground 
+Biomass Pool 
+Yes 
+Required by VCS. Major carbon pool subject to changes from the 
+baseline to the project scenario.  
+                                              
+2 This methodology does not provide specific equations and methods for calculating net emissions related to activity shifting leakage.  VCS 
+requires “IFM project developers must demonstrate that there is no leakage within their operations – i.e., on other lands they manage/operate 
+outside the bounds of the VCS carbon project” (Voluntary Carbon Standard, 2008a); and the methodology requires monitoring and reporting on 
+evidence demonstrating no activity shifting is occurring in order to demonstrate compliance with VCS.  If, during the project duration, activity 
+shifting is found to be occurring, project should to refer the latest VCS AFOLU requirements.     
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+7 
+Dead Wood Pool 
+Yes 
+Required by VCS.  Minor carbon pool subject to changes from the 
+baseline to the project scenario.   
+Litter Pool 
+No 
+Excluded by VCS for AFOLU projects.  Minor carbon pool – generally 
+considered as a transitional pool only.   
+Soil Carbon Pool 
+No 
+Optional in VCS AFOLU IFM projects, but excluded in this methodology.  
+As a conservative approach, changes to soil carbon from harvesting are 
+assumed to be de minimis.   
+Wood Products 
+Pool 
+Yes 
+Required by VCS.  All baseline scenarios involve logging. 
+ 
+Table 2 - Emissions Sources Included/Excluded from the Project Boundary 
+Emissions 
+Sources 
+Gas 
+Selected? Justification/Explanation 
+Use of Fertilizers 
+CO2 
+CH4 
+N2O 
+No 
+No 
+No 
+Non-de minimis use of fertilizer in the project scenario is excluded.  
+In the baseline scenario, fertilizer emissions are deemed 
+insignificant, as per the VCS May 24th, 2010 AFOLU Program 
+Update (Voluntary Carbon Standard, 2010c).   
+These exclusions are conservative, and do not increase the 
+emission reductions. 
+Combustion of 
+Fossil Fuels by 
+Vehicles / 
+Equipment 
+CO2 
+CH4 
+N2O 
+Optional3 
+No 
+No 
+Carbon emissions from harvesting equipment, log transport, and 
+primary forest product manufacturing are included.   
+CH4 and N2O emissions from equipment are assumed to be de 
+minimis.  
+The exclusion of these combustion gases does not increase the 
+emissions reductions in the project.  
+Burning of 
+Biomass (on site 
+slash burning) 
+CO2 
+CH4 
+N2O 
+No 
+No 
+No 
+However, carbon stock decreases due to biomass burning are 
+accounted as a carbon stock change.   
+These exclusion assumptions do not increase the emission 
+reductions in the project.   
+6 
+PROCEDURE FOR DETERMINING THE BASELINE SCENARIO:  
+This methodology utilizes a project-based baseline scenario approach.   
+                                              
+3 Project developer may choose to exclude this pool is it can be demonstrated that it is conservative with respect to the impact on GHG 
+emission reductions generated.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+8 
+The flow of GHG emissions over the project duration is based on the creation and projection of a reasonable, 
+credible, and conservative baseline harvesting scenario in the absence of the carbon project.  The most plausible 
+baseline scenario is selected from a comparative assessment of the project and the baseline alternatives, 
+including “at a minimum, a comparative assessment of the implementation barriers and net benefits faced by the 
+project and its alternatives” (Voluntary Carbon Standard, 2008d).   
+This methodology will employ a 3 step process to select a most likely baseline, and is required to be consistent 
+with the assessment and determination of additionality in Section 74:   
+STEP 1 – Identify Plausible Alternative Baseline Scenarios to the VCS Project Activity 
+Project proponents must identify and document descriptions, rationale, and information sources for multiple (at 
+minimum 3) realistic and credible property forest management scenarios that would have potentially occurred 
+within the proposed project boundary in the absence of the carbon project activity.   
+The possible baseline scenarios to be evaluated must include, at minimum: 
+1. 
+Historical Practice Baseline Scenarios:  continuation of pre-project historical activity baseline or 
+management plans; 
+2. 
+Common Practice Baseline Scenarios:  activity on the project area which could have been performed 
+without the carbon project, based on evidence of comparable forest management for similar property types 
+and situations in the region5; 
+All identified baseline scenarios must, at a minimum: 
+1. 
+Comply with IFM-LtPF project and eligibility requirements by only including activities and areas where 
+forests remain forests; 
+2. 
+Comply with legal requirements for forest management and land use in the area, “unless verifiable 
+evidence can be provided demonstrating that common practice in the area does not adhere to such 
+requirements” (Voluntary Carbon Standard, 2008d)6; 
+3. Demonstrate that the “projected baseline scenario environmental practices equal or exceed those 
+commonly considered a minimum standard among landowners in the area” (Voluntary Carbon Standard, 
+2008d).   
+Realistic and credible baseline scenarios must be based on verifiable information sources such as local or regional 
+land, harvest, or inventory records, observable comparable regional property evidence, formal property appraisals, 
+financial modeling compared against typical published regional industry market return rate targets, regional 
+stakeholder feedback, accredited or certified professionals (i.e. registered professional foresters, etc.) within the 
+regional relevant industry, and other reasonable information sources provided in a manner consistent with typical 
+regional considerations and practices.   
+                                              
+4 Although only required as part of the Additionality assessment, project proponents may find utilizing the Tool for the Demonstration and 
+Assessment of Additionality in VCS AFOLU Project Activities (VCS, 2010b) to be useful for additional guidance for identifying and selecting 
+baseline scenarios.   
+5 Also considering the financial drivers for management activities based on verifiable market-based financial return expectations of typical 
+market property owners and investors (i.e., IRR, NPV, cost of capital hurdle rates, etc. for data comparisons with available market financial 
+information).   
+6 Note that VCS further states: “if it can be shown that these activities result from laws, statutes, regulatory frameworks or policies implemented 
+since 11 November 2001 that give comparative advantage to less emissions-intensive technologies or activities relative to more emissions-
+intensive technologies or activities they need not be taken into account and the baseline scenario could refer to a hypothetical baseline rate of 
+avoided emissions or sequestration without the national and/or sectoral laws, statutes, regulatory frameworks or policies being in place.” 
+(Voluntary Carbon Standard, 2008d). 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+9 
+Project proponents may utilize tools such as the Investment Analysis (Step 2) and Barrier Analysis (Step 3) of the 
+latest approved version of the VCS Tool for Demonstration and Assessment of Additionality as an initial filter to 
+exclude project scenarios which are financially infeasible or face clear barriers to implementation.   
+The remaining baseline scenarios are then further evaluated to select the most likely baseline scenario, as follows.   
+STEP 2 – Selection of a Single Baseline Scenario for the Project 
+Project proponents must select a single baseline scenario for the project using the following steps:   
+STEP 2a - The Historical Baseline Scenario – based on historical operating practices on the property: 
+The baseline scenario based on actual property harvest history must be selected if: 
+2a.1 
+The project proponent has at least 5 years historical harvest level data history7. 
+ 
+All other cases will utilize the Common Practice Baseline Scenario Selection steps below: 
+STEP 2b - The Common Practice Baseline Scenario – based on previous owner activities: 
+2b.1 
+If the current project proponent has owned the property for less than five years then the project 
+proponent may:   
+i. 
+Choose to use the previous managers historical activities or management plan as representative 
+of common practice, in which case the baseline scenario is selected based on the process and 
+criteria in Step 2a; or, 
+ii. 
+Choose to select the baseline scenario based on common practice and investment analysis of 
+scenarios as outlined in Step 2c below. 
+STEP 2c - The Common Practice Baseline Scenario – based on common practice activities: 
+For recent or pending changes in project property management without historical data (> 5 years) (or otherwise not 
+selecting a historical baseline scenario as per Step 2b), the project proponent will select the baseline scenario(s) 
+based on an assessment of regional common practice8 supported by a financial analysis for achieving typical 
+market returns from forest products.   
+The project proponent must select the baseline scenario that: 
+2c.1 
+Generates the most financial attractive return on investment from forest product returns using the 
+assessment process outlined in Step 2 Option II and/or Option III in the most recent version of the 
+VCS Tool for the Demonstration and Assessment of Additionality in VCS AFOLU Project Activities; 
+and, 
+2c.2 
+Can be demonstrated to be regionally common practice and locally operationally implementable, 
+including:   
+a. Compliant with the legally required land use and forest management practices in a manner 
+consistent with VCS requirements (see Step 1);  
+                                              
+7 For convenience, projects may utilize a pre-existing forward-looking forest management plan as the historical baseline data, if this 
+management plan can be demonstrated to be consistent with the historical practices and rates, and representative of a forward projection of 
+historical harvest practices.   
+8 VCS currently defines common practice as:  “Extrapolation of observed similar activities in the geographical area with similar socio-economic 
+and ecological conditions as the project area occurring in the period beginning ten years prior to the project start date” (VCS, 2010b). 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+10 
+b. Consistent with local market capacity for the baseline scenario activities and products (i.e. log 
+markets, contractor capacity, etc.);  
+c. Consistent with observable and verifiable9 regional operational practices, including, at minimum:  
+i. Harvest types (i.e. clearcut, selective cut, etc.),  
+ii. Logging and hauling equipment types and capabilities,  
+iii. Annual harvest levels (i.e. m3/year, ha/year), 
+iv. Average minimum harvest age, tree size, and/or stand volume,  
+v. Average minimum economic viability (or decision criteria) by stand type,  
+vi. Average minimum log utilization specifications (on average based on size and/or species), 
+and waste/breakage assumptions,  
+vii. Average tree retention practices, including hydro-riparian buffers, wildlife trees, and other 
+single or grouped merchantable and un-merchantable tree retention,  
+viii. Maximum harvest slope or other operability constraints which would limit regional logging 
+equipment,  
+ix. Reforestation and stand management practices; and 
+d. Operationally feasible on the project area using local harvesting and hauling technology, local 
+infrastructure, etc. 10.   
+Project proponents must provide a description of the selected baseline scenario and related scenario modeling 
+assumptions which justifies and provides supporting evidence that the baseline scenario selected under STEP 2c 
+reflects a credible assessment of typical common practice for similar conditions, as listed above.   
+STEP 3 – Additionality Test 
+Project proponents must further ensure the selected most plausible baseline scenario is consistent with the 
+outcome of the additionality assessment of this scenario made under Section 7 in this methodology.

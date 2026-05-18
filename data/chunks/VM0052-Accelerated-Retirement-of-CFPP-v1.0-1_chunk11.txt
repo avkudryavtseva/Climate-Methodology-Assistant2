@@ -1,0 +1,111 @@
+10 REFERENCES 
+Heffron, R. J. 2021. “The Elements of the Just Transition Within International Institutions.” In 
+Achieving a Just Transition to a Low-Carbon Economy. Palgrave Macmillan. 
+ILO. 2015. Guidelines for a Just Transition Towards Environmentally Sustainable Economies 
+and Societies for All. International Labour Organization. 
+https://www.ilo.org/publications/guidelines-just-transition-towards-environmentally-
+sustainable-economies  
+KCI. 2022. Implementation of Just Transition and Economic Diversification Strategies: A 
+Compilation of Best Practices From Different Countries. UNFCCC. 
+https://unfccc.int/documents/624596 
+Luna, F. 2019. “Identifying and Evaluating Layers of Vulnerability – A Way Forward.” Developing 
+World Bioethics 19 (2): 86–95. https://doi.org/10.1111/dewb.12206 
+ 
+VM0052, v1.0 
+30 
+APPENDIX 1: GUIDANCE ON VCS 
+REQUIREMENTS  
+This section provides guidance on requirements of the VCS Standard in the context of projects 
+developed using this methodology.  
+1) Start date: As per the VCS Standard, the start date for non-AFOLU projects corresponds to the 
+date on which the project starts to generate GHG emission reductions and/or carbon dioxide 
+removals. For this methodology, the start date corresponds to the date on which the CFPP 
+completely ceases electricity production. This may also be considered the accelerated 
+retirement date.  
+2) Crediting period: The crediting period is the shorter of the period in accordance with the most 
+recent version of the VCS Standard and the period between the CFPP’s accelerated retirement 
+date (i.e., date by which the CFPP has been decommissioned) and the baseline retirement date. 
+Example 1: The first crediting period is seven years, and the difference between the accelerated 
+retirement date and the baseline retirement date is three years. In such a scenario, the project 
+is eligible to be issued VCUs for three years and not seven years.  
+Example 2: The total crediting period is 21 years (seven years twice renewable), and the 
+difference between the accelerated retirement date and the baseline retirement date is 25 
+years. In such a scenario, the project is eligible to be issued VCUs for 21 years provided it 
+complies with all rules and requirements applicable at each renewal of the project crediting 
+period.  
+3) Crediting period renewal and updated baseline retirement date: Project proponents must follow 
+the procedures for renewal of the project crediting period in accordance with the most recent 
+version of the VCS Program rules and requirements.  
+When demonstrating the validity of the original baseline scenario or updating the baseline 
+scenario, the baseline retirement date must be reassessed in accordance with the criteria and 
+procedures of the most recent version of VMD0060. Only the scenarios related to regulations 
+and commitments must be reassessed during the crediting period renewal process, as listed 
+below. The dates of the other scenarios remain the same and do not require reassessment. 
+The baseline retirement date for the CFPP is the earliest date of the following scenarios: 
+a) Scenarios that must be reassessed and updated at crediting period renewal: 
+i) 
+Regulatory CFPP phaseout date 
+ii) Committed coal transition mechanism (CTM) 
+b) Scenarios that are determined at validation and not reassessed at crediting period 
+renewal: 
+ 
+VM0052, v1.0 
+31 
+i) 
+End of technical life 
+ii) End of long-term PPA 
+iii) Financially attractive retirement7 
+The updated baseline retirement date for the CFPP applicable for the next crediting period will 
+depend on the results of the reassessment of the applicable scenarios: 
+• 
+Where the baseline retirement date reassessment does not result in a different date, 
+the baseline retirement date remains the same as in the previous crediting period. 
+• 
+Where the baseline retirement date reassessment results in a later date (e.g., due to a 
+delay in regulatory phaseout or CTM commitments), the baseline retirement date 
+remains the same as in the previous crediting period. 
+• 
+Where the baseline retirement date reassessment results in an earlier date (e.g., 
+because the regulatory commitment has advanced), the baseline retirement date for 
+the next crediting period is the earlier date. In this case, the duration of the crediting 
+period must be updated and will terminate at the new baseline retirement date or the 
+maximum length of the crediting period outlined in the most recent version of the VCS 
+Standard, whichever is earlier. 
+4) Sustainable development contributions: The impacts of just transition implementation in the 
+context of accelerated CFPP retirement as per VMD0061 (e.g., voluntary retirement benefits 
+given to CFPP employees nearing the age of retirement, or training provided to existing 
+employees) must not be reported as sustainable development contributions. These activities 
+represent minimizing the impacts of accelerated CFPP retirement on livelihoods under the 
+principle of no net harm. Additional benefits generated for the environment and community 
+through paired renewable electricity or using revenue from sales of VCUs may be claimed as 
+sustainable development contributions (e.g., additional jobs created due to renewable 
+electricity deployment or setting up a new local healthcare facility for neighboring communities 
+using revenue from sales of VCUs). 
+5) Stakeholder engagement: The project proponent must demonstrate compliance with the 
+requirements of stakeholder engagement in the most recent version of the VCS Standard, for 
+CFPP sites and paired renewable electricity sites. Where the location of paired renewable 
+electricity is yet to be finalized, stakeholder consultation must include at least one paired 
+renewable electricity location. The requirements for just transition as established in VMD0061 
+are additional to the stakeholder engagement requirements of the VCS Standard and are 
+limited to the context of the CFPP.  
+6) Safeguards: The project proponent must demonstrate compliance with the requirements of 
+safeguards in the most recent version of the VCS Standard, for the CFPP sites and paired 
+ 
+7 The financially attractive retirement date only needs to be assessed during monitoring or crediting period renewal if a 
+project design change is made that impacts this date. 
+ 
+VM0052, v1.0 
+32 
+renewable electricity sites. The requirements for just transition as established in VMD0061 are 
+additional to the safeguards requirements of the VCS Standard and are limited to the context of 
+the CFPP.  
+7) No double claiming with other forms of environmental credit: The renewable electricity paired 
+with the accelerated CFPP retirement is ineligible to claim other forms of environmental credits 
+or certificates such as Renewable Energy Certificates (RECs) for the duration of the crediting 
+period. Off-takers from the paired renewable electricity plants should account for the power as 
+having the emission factor of the retired coal plant in their inventory reporting during the 
+crediting period.  
+ 
+ 
+ 
+VM0052, v1.0

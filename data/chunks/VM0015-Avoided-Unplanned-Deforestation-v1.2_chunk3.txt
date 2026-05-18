@@ -1,0 +1,229 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+and acronyms apply to this methodology.  
+Activity data 
+Data on the magnitude of a human activity that results in emissions or removals taking place 
+during a given period of time 
+Baseline validity period 
+The period of time for which a baseline is considered valid, as set out in the VCS Standard  
+Carbon density  
+The amount of carbon (as CO2e) per hectare estimated to be present in the accounted carbon 
+pools of a land use/land cover (LU/LC) class at year t (also referred to as carbon stock per 
+hectare) 
+Category of LU/LC change 
+The change from one land use/land cover (LU/LC) class to another that occurs during a given 
+period of time 
+Category is the term used in IPCC reports to refer to specific sources of emissions or removals 
+of greenhouse gases. Under the AFOLU sector, “categories” are LU/LC transitions. REDD 
+methodologies deal with the following categories: 
+• 
+Forest land to forest land (degradation and regeneration of forest land remaining 
+forest land) 
+• 
+Forest land to crop land (deforestation followed by agriculture) 
+• 
+Forest land to grass land (deforestation followed by pasture) 
+• 
+Forest land to settlements (deforestation followed by settlements) 
+• 
+Forest land to wetlands (deforestation followed by wetlands) 
+• 
+Forest land to other land (deforestation followed by other land) 
+Activities that convert non-forest land back to forest (e.g., crop land to forest land, grass land to 
+forest land) are considered afforestation and reforestation and are excluded from this 
+methodology. Activities that avoid forest degradation and activities that enhance forest carbon 
+stocks both fall within the forest land to forest land category but are excluded from this 
+methodology.   
+Deforestation 
+In addition to the definition in the VCS Program Definitions, in this methodology, deforestation 
+is deemed to have occurred when at least one of the parameter values used to define “forest 
+land” is reduced from above to below the threshold for defining “forest” for a period of time that 
+ 
+VM0015, v1.2 
+ 
+8 
+is longer than that used to define “temporarily unstocked.”2 For example, where a country 
+defines a forest as having crown cover greater than 30 percent and “temporarily unstocked” as 
+a maximum period of three years, deforestation is not recorded until the crown cover is reduced 
+below 30 percent for at least three consecutive years.3 
+Degradation (forest degradation) 
+In addition to the definition set out in the VCS Program Definitions, for this methodology, units 
+of forest land subject to degradation are allocated to different forest classes over time, with 
+each successive class having a lower carbon density. The difference in average carbon density 
+between two contiguous forest classes should be at least 10 percent. The difference refers to 
+the upper and lower levels of the confidence intervals of the two contiguous forest classes in 
+the degradation sequence. 
+Emission factor  
+The difference between the carbon density of two LU/LC classes describing a category of LU/LC 
+change 
+Forest 
+In addition to the definition set out in the VCS Program Definitions and the requirements of the 
+VCS Methodology Requirements, for this methodology, “forest” is a land with woody vegetation 
+consistent with the thresholds used to define “forest land” in the country where the project 
+activity will be implemented. Where the country has submitted a REDD+ reference level to 
+UNFCCC,4 the project must adopt the same thresholds for the vegetation indicators (minimum 
+area, tree crown cover and height)5 used for defining “forests” in the country submission. 
+Otherwise, the definition used to define “forest land” in the national GHG inventory should be 
+used. In any case, the project must apply the most recent definition adopted by the host 
+country.  
+ 
+2 According to IPCC (GPG LULUCF, 2003, Chapter 4.2.6.2.) “The identification of units of land subject to deforestation 
+activities requires the delineation of units of land that meet or exceed the size of the country’s minimum forest area 
+(i.e., 0.05 to 1 ha); and have met the definition of forest on 31 December 1989; and have ceased to meet the definition 
+of forest at some time after 1 January 1990 as the result of direct human-induced deforestation.”  
+3 Deforestation may be the result of an abrupt event (deforestation = forest to non-forest), in which case the change in 
+land cover and land use occurs immediately and simultaneously; or of a process of progressive degradation 
+(deforestation = forest to degraded forest to non-forest), in which case the change in land cover occurs when one of the 
+parameters used for defining “forest land” falls below its minimum threshold, but the change in land use may have 
+already occurred or will occur later (e.g., use of the land for crop production or grazing animals). Land use is thus not a 
+reliable indicator for identifying a forest class or for defining a category of change. 
+4 Available at: https://redd.unfccc.int/submissions.html  
+5 “Forest is a minimum area of land of 0.05–1.0 hectares with tree crown cover (or equivalent stocking level) of more 
+than 10–30 percent with trees with the potential to reach a minimum height of 2–5 meters at maturity in situ. A forest 
+may consist either of closed forest formations where trees of various stories and undergrowth cover a high portion of the 
+ground or open forest. Young natural stands and all plantations which have yet to reach a crown density of 10–30 
+percent or tree height of 2–5 meters are included under forest, as are areas normally forming part of the forest area 
+which are temporarily unstocked as a result of human intervention such as harvesting or natural causes but which are 
+expected to revert to forest.” 
+ 
+VM0015, v1.2 
+ 
+9 
+Land defined as “forest land” may include areas that temporarily do not reach the thresholds 
+used to define “forest land.” To distinguish between “non-forest” (and hence “deforested”) and 
+“temporarily unstocked” areas in managed forests, the definition of “forest” should include the 
+maximum period of time that the woody vegetation may remain below the thresholds used to 
+define “forest land.” This maximum period may be specific to each category of land use/land 
+cover change. For example, it may be zero years for conversion from “forest land to crop land,” 
+but up to five or more years for transitions between forest classes (e.g., age classes).6 
+Areas covered with planted forests as well as with any other anthropogenic vegetation type that 
+meets the definition of “forest” since the earliest date of the historical reference period used to 
+assess deforestation may be considered “forest land.” “Forests” may be natural, semi-natural 
+or anthropogenic and may include primary or old-growth forests (intact or logged), secondary 
+forests, planted forests, agro-forestry and silvo-pastoral systems. 
+Forest management 
+Areas subject to sustainable forest management (with logging activities) represent a particular 
+class of “degraded forest.” An undisturbed natural forest subject to sustainable forest 
+management will lose part of its carbon, but the loss will partially recover over time. In the long-
+term, a sustainable harvesting and re-growth cycle will maintain a constant average carbon 
+density in the forest. Since this average carbon density is lower than in the original forest, 
+sustainably managed forests are considered a degraded forest class. 
+Depending on the magnitude and timeframe of the carbon stock changes, managed forests 
+may be classified into one single “managed forest” class (with a carbon density equivalent to 
+the average of the entire management cycle) or to different sub-classes representing different 
+average carbon densities (see Figure 3). 
+ 
+6 Project proponents should report how they distinguish between deforestation and areas that remain forest but where 
+tree cover has been removed temporarily, notably areas that have been harvested or subject to other human or natural 
+disturbance but for which it is expected that forest will be replanted or regenerate naturally. See IPCC GPG LULUCF, 
+2003, Chapter. 4.2.6.2.1 for further guidance. 
+ 
+VM0015, v1.2 
+ 
+10 
+Figure 3: Carbon Density in “Forest Land Remaining Forest Land” (Living Tree Biomass) 
+ 
+Forest regeneration 
+“Forest land remaining forest land” and gradually enhancing its carbon stock as a consequence 
+of direct human intervention. Units of forest land subject to regeneration are allocated to 
+different forest classes over time, each with successively higher carbon density. The difference 
+in average carbon density between two contiguous forest classes should be at least 10 percent. 
+The difference refers to the upper and lower levels of the confidence intervals of the two forest 
+classes. 
+Frontier deforestation 
+The conversion of forest land to non-forest land occurring where the agricultural frontier 
+expands as a result of improved access to forest into areas with relatively little human activity 
+Historical reference period 
+A fixed period of time during which factors must be considered in order to make future 
+projections of deforestation, the duration of which is set out in the VCS Methodology 
+Requirements 
+F
+o
+r
+e
+s
+t 
+d
+e
+g
+r
+a
+d
+a
+t
+i
+o
+n 
+F
+o
+r
+e
+s
+t 
+m
+a
+n
+a
+g
+e
+m
+e
+n
+t 
+F
+o
+r
+e
+s
+t 
+r
+e
+g
+e
+n
+e
+r
+a
+t
+i
+o
+n 
+ 
+VM0015, v1.2 
+ 
+11 
+LU/LC class 
+A unique combination of land use and land cover having a specific carbon density at time t 
+LU/LC polygon 
+A discrete area falling into a single LU/LC class 
+Mosaic deforestation 
+Any landscape in which no patch of forest in the project area exceeds 1000 ha and the forest 
+patches are surrounded by anthropogenically cleared land. Typically, a mosaic deforestation 
+pattern occurs where the following conditions are met: 
+1) Population pressure and local land use practices produce a patchwork of cleared lands, 
+degraded forests, secondary forests of various ages and mature forests; 
+2) All forests in the project area are similarly accessible; and 
+3) The agents of deforestation are present within the project area. 
+Peat 
+In addition to the definition set out in the VCS Program Definitions, in this methodology peat 
+comprises organic soils with at least 65 percent organic matter and a minimum depth of 
+50 cm. 
+Planned deforestation 
+The legally authorized conversion of forest land to non-forest land occurring on a discrete area 
+of land. Deforestation within an area may be planned (designated and sanctioned) or 
+unplanned (unsanctioned). Planned deforestation includes a wide variety of activities such as 
+national resettlement programs from non-forested to forested regions; a component of a 
+national land plan to reduce the forest estate and convert it to other industrial-scale production 
+of goods such as soybeans, pulpwood plantations and oil palm plantations; and plans to 
+convert well-managed community-owned forests to other non-forest uses. Other forms of 
+planned deforestation may include decisions by individual owners of land legally zoned for 
+agriculture to convert their forest to crop production. These planned deforestation activities are 
+a component of a land planning or management document and may be readily verified. 
+Zone 
+A stratum of the reference region containing a distinctive mix of final post-deforestation classes 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+12

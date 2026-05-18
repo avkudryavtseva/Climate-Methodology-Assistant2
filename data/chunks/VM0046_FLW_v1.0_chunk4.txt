@@ -1,0 +1,48 @@
+3 DEFINITIONS 
+Biogenic CO2  
+CO2 emissions deriving from the respiration of organic matter by bacteria (biological processes) or 
+its oxidation through physico-chemical processes (e.g., combustion or pyrolysis). Fast-cycling 
+biogenic CO2 emissions are considered climate-neutral.3  
+Eventual discards 
+Food discarded later in the supply chain after implementation of a project designed to prevent its 
+discard  
+Food  
+All parts of plants, fungi, and animals —whether processed, semi-processed, or raw— that could 
+be eventually consumed by humans4  
+Food loss and waste (FLW)  
+Food (and any associated inedible parts) that goes to any FLW destination5  
+Food loss and waste (FLW) destination  
+Where food goes when removed from the human food supply chain (see Appendix 1: FLW 
+Destinations) 
+ 
+1 It is useful to note that in situations where the FLW received by a facility is being valorized (e.g., soil amendment is 
+created, energy is recovered), the expected GHG emission reductions for projects diverting this FLW are likely small. 
+2 For other purposes (e.g., general communication about GHG emissions associated with food loss and waste), 
+organizations may use Connecting Food Loss and Waste to Greenhouse Gas Emissions: Guidance for Companies (FLW 
+Protocol, 2021). 
+3 Biogenic CO2 emissions originating from long-term carbon (C) stocks like soil C pools or forests add to the CO2 
+concentration in the atmosphere and are considered relevant to climate change. 
+4 The definition of “food” used in this methodology is broader than that in the FLW Standard, which differentiates “food” 
+(i.e., edible parts intended for human consumption in a particular context) from its associated “inedible parts.” The 
+definition of “food” includes drinks.  
+5 The abbreviation FLW is used in this document as shorthand for “food loss and waste” as defined in this methodology. 
+This definition does not match definitions used in other programs for food loss or food waste, such as for the UN SDG 12.3 
+target (i.e., which excludes animal feed and bio-based materials/biochemical processing destinations; see Champions 
+12.3’s Guidance on Interpreting Sustainable Development Goal 12.3).  
+ 
+VM0046, v1.0 
+6 
+ 
+Food loss and waste (FLW) flows 
+The mass of food that without adoption of the project activity would go to an FLW destination. 
+Note that this is equivalent to the mass of food that is eventually recovered by project activities. 
+Food loss and waste (FLW) source 
+Where food loss and waste is generated  
+Inedible parts6  
+Components associated with a food that, in a particular food supply chain, are not intended to be 
+consumed by humans. Examples of inedible parts associated with food may include bones, rinds, 
+and pits/stones.7 
+Recovered food 
+Food that has been kept in the human food chain because of the project activity; includes 
+activities that focus on “prevention” (preventing food from being discarded in the first place) as 
+well as “rescue” (redistributing to people food at risk of being discarded).

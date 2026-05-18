@@ -1,0 +1,21 @@
+2 SOURCES 
+This methodology uses the latest versions of the following methodologies, modules and tools: 
+• 
+CDM Tool for Calculation of the Number of Sample Plots for Measurements within A/R 
+CDM Project Activities. 
+• 
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities. 
+• 
+VCS methodology VM0003 Methodology for Improved Forest Management through 
+Extension of Rotation Age.  
+• 
+VCS methodology VM0005 Methodology for Conversion of Low-Productive Forests to 
+High-Productive Forests.  
+• 
+VCS methodology VM0007 REDD+ Methodology Framework (REDD-MF). 
+• 
+VCS methodology VM0011 Methodology for Improved Forest Management: Calculating 
+GHG Benefits from Logged to Protected Forest. 
+• 
+VCS VT0001 Tool for the Demonstration and Assessment of Additionality in VCS 
+Agriculture, Forestry and Other Land Use (AFOLU) Project Activities.

@@ -1,0 +1,97 @@
+4  
+APPLICABILITY CONDITIONS 
+This methodology applies to project activities which install EV charging systems, including their 
+associated infrastructure, in order to charge EV applicable fleets whose GHG emission reductions 
+are achieved through the displacement of conventional fossil fuel vehicles used for passenger 
+and freight transportation as a result of the electricity delivered by project chargers. 
+                                                 
+weight limit, consistent with the IHS Markit data sources applied in the development of the default factors. This 
+14,000lbs GVWR values is based upon definitions used and supplied by IHS Markit data for light duty vehicles, 
+whose data forms the basis for most US EV market analysis publications. Commercial applications in the 8500-14000 
+lb Class 2b and 3 are a de minimis proportion of total LDV’s. See also: http://changingears.com/rv-sec-tow-vehicles-
+classes.shtml  and https://www.afdc.energy.gov/data/10380 Lighter MDV’s include the types of vehicles which also 
+use the main LDV charging networks (e.g., retirement home vans). 
+8 For countries using other metrics (e.g., ratings in Europe for CO2 per km), conversion guidance is given in Section 8 
+below. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+9
+Projects must comply with all applicability conditions set out below: 
+1) The applicable fleets of projects applying this methodology are limited to all LDV BEVs 
+and PHEVs9, and HDV EVs. For LDV projects, these applicable fleets comprise10 BEVs 
+and PHEVs for L1 and L2 chargers, and BEVs for DCFCs. For HDV projects, these 
+applicable fleets comprise MDV/HDV electric buses and trucks, both BEV and PHEV, 
+eligible to charge at the project’s set of EV charging systems.  
+2) Project proponents must demonstrate that the EV models comprising the applicable fleet 
+of the project are comparable to their conventional fossil fuel baseline vehicles using the 
+following means: 
+ 
+Project and baseline vehicles belong to the same vehicle category (e.g., car, 
+motorcycle, bus, truck, LDV, MDV, HDV); 
+ 
+Project and baseline vehicles have comparable passenger/load capacity 
+(comparing the baseline vehicle with the respective project vehicle). 
+Note that where project proponents apply the baseline emission default factors for MPG 
+and AFEC determined for the US and Canada, this comparability requirement between 
+applicable and comparable fleet models has already been completed and satisfied. 
+3) In order to demonstrate that double counting of emission reduction will not occur, the 
+project proponent must maintain an inventory of EV chargers included in the project, 
+including their L1/L2/DCFC classifications and unique identifiers; other measures may 
+include disclosure of credit ownership to EV drivers. Double counting relative to any 
+issued GHG credits11 from projects that introduce EV fleets12 will be addressed using the 
+emission reduction discount adjustments in Section 8.4 below13. Where associated 
+infrastructure and/or renewable power (on-site and/or direct transmission) are included in 
+an EV charging system, this must be referenced and described in the charging system’s 
+inventory. Project documentation must also include the following for each EV charger: 
+ 
+Classification using the performance voltage, AC/DC basis and kw power 
+specifications given for L1, L2 and DCFC 50/100/150/320/500 definitions 
+                                                 
+9 Hybrid-only vehicles, which do not have batteries capable of receiving electricity to propel their motion, are not 
+eligible under this methodology 
+10 There may be a very few PHEVs which also have the plug capability to charge at DCFCs (e.g., Mitsubishi 
+Outlander); these are considered de minimis. Similarly, the BMW i3 REX (with range extender) is technically a PHEV, 
+but only 5% of i3s use the range extender in practice. Moreover, Argonne National Laboratory and California classify 
+the REX as a BEV, and therefore it is included in the BEV category for default factor calculation purposes in this 
+methodology.   
+11 Credits for GHG emission reductions issued by a GHG program such as the American Carbon Registry (ACR) 
+Climate Action Reserve (CAR), Verified Carbon Standard (VCS), or the UNFCCC’s Clean Development Mechanism 
+(CDM). 
+12 For example, projects that apply CDM methodology AMS.III.C. 
+13 Double counting related to any jurisdictional emission trading systems or commitments (e.g., cap-and-trade 
+programs, etc.) must still be assessed per the VCS rules.  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+10
+ 
+Unique identifiers, including the geo-spatial coordinates and one other unique 
+reference such as NEMA codes, customer codes, equipment serial numbers, 
+charger ID codes, or AFDC ID codes 
+4) This methodology is applicable to EV charging systems utilizing AI to provide electricity to 
+and from EVs, on-site batteries and renewables14 under the condition that the AI must 
+include adequate metering systems (e.g., meters/sub-meters and/or associated 
+measurement systems). These metering systems must measure and accurately trace all 
+electricity deliveries and receipts from all such interrelated associated infrastructure 
+sources. This includes electricity sourced from/returned to the grid, dedicated renewable 
+energy generated on-site (including RE sourced from direct transmission lines), on-site 
+storage batteries, and/or the EV’s on-board battery.   
+5) Projects with estimated annual emission reductions of over 60,000 tCO2e15 (large-scale) 
+are permitted where project proponents can demonstrate that the project is located in a 
+country with credible national data sources for GHG emission calculations. Otherwise, 
+projects are limited to annual emission reductions equal to or under 60,000 tCO2e (small-
+scale). Projects located in Annex I and II countries, and countries referenced by EIA data 
+sources, are automatically eligible to be of any scale. All regions listed in module 
+VMD0049 Activity Method for Determining Additionality of Electric Vehicle Charging 
+Systems meet these criteria and thus are not limited in scale. 
+6) Project proponents must demonstrate proof of ownership of emission reductions which 
+may be achieved through the following: 
+ 
+With the charging system owners through contractual agreements, terms of 
+service, utility program participation rules, or other means, and/or 
+ 
+With EV drivers through disclosure of credit ownership (e.g., through dispenser 
+notices, screen displays, terms of service, etc.).

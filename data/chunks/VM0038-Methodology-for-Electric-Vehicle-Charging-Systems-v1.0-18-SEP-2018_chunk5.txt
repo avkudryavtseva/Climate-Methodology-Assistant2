@@ -1,0 +1,133 @@
+5  
+PROJECT BOUNDARY 
+The project boundary is comprised of the following: 
+1) The applicable fleets for the project EV chargers; 
+2) The geographic boundaries where the EV charging systems are located; 
+3) The EV charging systems of the project activity including their electricity supply sources 
+and associated infrastructure.  
+The greenhouse gases included in or excluded from the project boundary are shown in Table 1 
+below. 
+                                                 
+14 AI may store and dispatch electricity both to and from multiple sources, both on site and regionally.  
+15 The small and large scale boundary was drawn from CDM methodology AMS-III.C. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+11
+Table 1: GHG Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Fossil fuel 
+combustion 
+of vehicles 
+displaced by 
+project 
+activities 
+CO2 
+Yes 
+Main emission source 
+CH4 
+Optional 
+May be excluded for simplification 
+N2O 
+Optional 
+May be excluded for simplification 
+Other 
+No 
+Not Applicable 
+Project 
+Electricity 
+consumption 
+via grid 
+CO2 
+Yes 
+Main emission source 
+CH4 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions.  
+N2O 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+Other 
+No 
+Not Applicable. 
+Renewables 
+via on-
+site/direct 
+transmission 
+CO2 
+Yes 
+Main emission source 
+CH4 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+N2O 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+Other 
+No 
+Not Applicable 
+On-site 
+battery 
+storage 
+CO2 
+Yes 
+Main emission source 
+CH4 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+N2O 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+Other 
+No 
+Not Applicable 
+CO2 
+Yes 
+Derived emission source16 
+                                                 
+16 The EV battery is a derived emission source based upon the kwh received from the grid, dedicated renewables and 
+on-site battery. It does not have a separate independent emissions factor since any kwh the EV battery returns to the 
+grid or the on-site battery are netted out (in NEC and NECT) against the kwh delivered to the EV from these sources 
+using their respective emissions factors. See Equations 7, 8, and 9 and Appendix 2. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+12
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+EV battery 
+storage in 
+vehicle 
+CH4 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+N2O 
+Optional 
+May be excluded for simplification. Where 
+included in the baseline, source must also be 
+accounted in project emissions. 
+Other 
+No 
+Not Applicable

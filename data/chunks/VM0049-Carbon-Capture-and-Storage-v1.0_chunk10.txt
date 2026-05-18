@@ -1,0 +1,398 @@
+9 MONITORING 
+9.1 Data and Parameters Available at Validation 
+Data/Parameter 
+MCO2 
+Data unit 
+g/mol 
+Description 
+Molar mass of CO2 
+Equations 
+(3) 
+Source of data 
+The most recent version of the CDM TOOL06 Methodological Tool: 
+Project Emissions From Flaring 
+Value applied 
+44.0095 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A physical constant 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+N/A 
+ 
+Data/Parameter 
+STP 
+Data unit 
+K and Pa 
+Description 
+Standard temperature and pressure 
+Equations 
+(4), (5), (6) 
+Source of data 
+Industry practice 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Standard temperature and pressure must be defined to allow the 
+conversion of volumetric flow from operating to standard conditions. 
+Purpose of data 
+To determine CO2 density 
+Comments 
+The project description must clearly identify the standard temperature 
+and pressure used as a reference.  
+ 
+ 
+VM0049, v1.0 
+ 
+22 
+Data/Parameter 
+ρCO2x(STP) 
+Data unit 
+t CO2/m3 
+Description 
+Density of CO2 at flow meter x at standard temperature and pressure 
+Equations 
+(4), (6) 
+Source of data 
+Internationally accepted datasets following equation of states as 
+applicable (e.g., Span and Wagner, 1996)6 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Density depends on temperature and pressure as defined under 
+standard temperature and pressure conditions. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+The project description must clearly identify the standard temperature 
+and pressure used as a reference. 
+ 
+9.2 Data and Parameters Monitored 
+Data/Parameter 
+FRmass,x 
+Data unit 
+tonnes 
+Description 
+Mass flow measured by mass flow meter x  
+Equations 
+(2) 
+Source of data 
+Mass flow meters 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Mass flow rates must be determined by commercially available devices 
+that measure the mass flow rate of a fluid flowing through a 
+measurement channel (e.g., Coriolis meters, thermal meters, impeller 
+meters, twin turbine meters). 
+Frequency of 
+monitoring/recording 
+Monitored continuously (i.e., one measurement at least every 15 
+minutes) 
+ 
+6 For further information, see National Institute of Standards and Technology (NIST) available at 
+https://webbook.nist.gov/chemistry/fluid/ or similar. 
+ 
+VM0049, v1.0 
+ 
+23 
+QA/QC procedures to be 
+applied 
+The metering equipment must be installed and calibrated in 
+accordance with the specifications of either local/national standards or 
+the manufacturer. Where local/national standards and manufacturer 
+specifications are unavailable, international standards (e.g., IEC, ISO) 
+must be followed. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Direct measurement (preferred) or the accumulated mass for each 
+sampling interval of mole fractions (composition analysis) 
+Comments 
+For further guidance see US EPA (2010). General Technical Support 
+Document for Injection and Geologic Sequestration of Carbon Dioxide: 
+Subparts RR and UU GHG Reporting Program. 
+ 
+Data/Parameter 
+Mk 
+Data unit 
+g/mol 
+Description 
+Molar mass of component k 
+Equations 
+(3) 
+Source of data 
+Physical property tables 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+To be updated based on components k found in the CO2 stream 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+N/A 
+ 
+Data/Parameter 
+XCO2 
+Data unit 
+% mole 
+ 
+VM0049, v1.0 
+ 
+24 
+Description 
+Mole fraction of CO2 in flow at flow meter x 
+Equations 
+(3), (5) 
+Source of data 
+Composition analysis 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Mole fractions must be determined by commercially available devices.  
+Option A: gas chromatography 
+Option B: gas chromatography with IR spectroscopy 
+Frequency of 
+monitoring/recording 
+Option A: Monitored every 15 minutes and aggregated weekly 
+Option B: Monitored every 15 minutes and aggregated monthly 
+QA/QC procedures to be 
+applied 
+The metering equipment must be installed and calibrated in 
+accordance with the specifications of either local/national standards or 
+the manufacturer. Where local/national standards and manufacturer 
+specifications are unavailable, international standards (e.g., IEC, ISO) 
+must be followed. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Direct measurement 
+Option A: Use the lower value of two consecutive composition analyses 
+to calculate continuous (i.e., at least every 15 minutes) values between 
+the two composition measurements. 
+Option B: Use values from IR spectroscopy measurements 
+Comments 
+For further guidance see US EPA (2010). 
+ 
+Data/Parameter 
+Xk 
+Data unit 
+% mole 
+Description 
+Mole fraction of component k in flow at flow meter x 
+Equations 
+(3), (5) 
+Source of data 
+Composition analysis 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Mole fractions must be determined by commercially available devices.  
+Option A: gas chromatography 
+Option B: gas chromatography with IR spectroscopy 
+ 
+VM0049, v1.0 
+ 
+25 
+Frequency of 
+monitoring/recording 
+Option A: Monitored every 15 minutes and aggregated weekly  
+Option B: Monitored every 15 minutes and aggregated monthly 
+QA/QC procedures to be 
+applied 
+The metering equipment must be installed and calibrated in 
+accordance with the specifications of either local/national standards or 
+the manufacturer. Where local/national standards and manufacturer 
+specifications are not available, international standards (e.g., IEC, ISO) 
+must be followed. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Direct measurement 
+Option A: Use the lower value of two consecutive composition analyses 
+to calculate continuous (i.e., at least every 15 minutes) values between 
+the two composition measurements. 
+Option B: Use values from IR spectroscopy measurements. 
+Comments 
+For further guidance see US EPA (2010). 
+ 
+Data/Parameter 
+x(P,T) 
+Data unit 
+Pa and K 
+Description 
+Pressure and temperature at operating conditions in flow at flow meter 
+x 
+Equations 
+(6) 
+Source of data 
+Pressure and temperature meters 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Instruments with recordable electronic signals (analog or digital) are 
+required (e.g., pressure transducers, thermocouples, thermistors). 
+Frequency of 
+monitoring/recording 
+Monitored continuously (i.e., same time interval as flow rate 
+measurement) 
+QA/QC procedures to be 
+applied 
+The metering equipment must be installed and calibrated in 
+accordance with the specifications of either local/national standards or 
+the manufacturer. Where local/national standards and manufacturer 
+specifications are unavailable, international standards (e.g., IEC, ISO) 
+must be followed. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Average value over the same time interval as the flow rate 
+measurement 
+ 
+VM0049, v1.0 
+ 
+26 
+Comments 
+N/A 
+ 
+Data/Parameter 
+FRvol,x(P,T) 
+Data unit 
+m³ 
+Description 
+Total volume measured by flow meter x at actual conditions during the 
+monitoring period 
+Equations 
+(6) 
+Source of data 
+Volumetric flow meters 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Volumetric flow must be determined by commercially available devices 
+that measure the flow of a fluid through a measurement channel (e.g., 
+rotameters, turbine meters, orifice meters, wedge meters, ultra-sonic 
+flow meters, vortex flow meters). 
+Frequency of 
+monitoring/recording 
+Monitored continuously (i.e., one measurement at least every 15 
+minutes) 
+QA/QC procedures to be 
+applied 
+The metering equipment must be installed and calibrated in 
+accordance with the specifications of either local/national standards or 
+the manufacturer. Where local/national standards and manufacturer 
+specifications are not available, international standards (e.g., IEC, ISO) 
+must be followed. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Flow is measured directly and aggregated for reporting period to 
+calculate total volume. 
+Comments 
+For further guidance see US EPA (2010). 
+ 
+Data/Parameter 
+ρCO2x(P,T) 
+Data unit 
+t CO2/m3 
+Description 
+Density of CO2 at actual conditions at flow meter x 
+Equations 
+(6) 
+ 
+VM0049, v1.0 
+ 
+27 
+Source of data 
+Internationally accepted datasets following equation of states as 
+applicable (e.g., Span and Wagner, 1996)7 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Density is derived from the measurement of temperature and pressure 
+at actual conditions. 
+Frequency of 
+monitoring/recording 
+Aligned to the measurement of FRvol,x(P,T) 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+Density of CO2 at actual conditions 
+Comments 
+For further guidance see US EPA (2010). 
+9.3 Description of the Monitoring Plan 
+The project proponent must establish, maintain, and apply a monitoring plan and GHG 
+information system that includes criteria and procedures for obtaining, recording, compiling, 
+and analyzing data, parameters, and other information important for quantifying and reporting 
+GHG emissions relevant to the project and baseline scenarios. Monitoring procedures must 
+address the following: 
+1) Types of data and information to be reported; 
+2) Units of measurement; 
+3) Origin of the data; 
+4) Monitoring methodologies (e.g., estimation, modeling, measurement, and calculation); 
+5) Type of equipment used; 
+6) Monitoring times and frequencies; 
+7) QA/QC procedures; 
+8) Monitoring roles and responsibilities, including experience and training requirements; 
+and 
+9) GHG information management systems, including the location, backup, and retention of 
+stored data. 
+ 
+7 For further information, see National Institute of Standards and Technology (NIST) or similar. 
+ 
+VM0049, v1.0 
+ 
+28 
+Where measurement and monitoring equipment is used, the project proponent must ensure the 
+equipment is calibrated according to current good practice (e.g., relevant industry standards). 
+Quality assurance/quality control (QA/QC) procedures must include, but are not limited to: 
+a) Data gathering, input, and handling measures; 
+b) Checking input data for typical errors, including inconsistent physical units and unit 
+conversion errors; 
+c) Checking for typographical errors caused by data transcription from one document to 
+another and missing data for specific time periods or physical units; 
+d) Checking input time series data for unexpected variations (e.g., orders of magnitude) 
+that may indicate input errors; 
+e) Use of version control for all electronic files to ensure consistency; 
+f) Physical protection of monitoring equipment; 
+g) Physical protection of records of monitored data (e.g., hard copy and electronic 
+records); 
+h) Checking and documenting input data units; and 
+i) 
+Documenting all sources of data, assumptions, and emission factors. 
+Additional criteria and procedures for monitoring are established in respective capture, 
+transport, and storage modules and related VCS and CDM tools. 
+ 
+ 
+ 
+VM0049, v1.0 
+ 
+29

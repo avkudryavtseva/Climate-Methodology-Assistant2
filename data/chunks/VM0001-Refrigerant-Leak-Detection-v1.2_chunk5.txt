@@ -1,0 +1,32 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to project activities that install real-time leak detection systems on DX 
+refrigeration equipment in retail stores to reduce leaks of hydrofluorocarbon (HFC) refrigerants. 
+It is applicable in the United States. 
+This methodology is applicable under the following conditions: 
+1) The project installs real-time automatic leak detection/management systems onto 
+commercial DX refrigeration systems in retail stores. 
+2) Real-time automatic leak detection/management systems are installed on existing 
+refrigeration systems.  
+3) The leak detection equipment meets one of the following conditions to ensure no 
+leakage occurs: 
+a) It is a new leak detection system; 
+b) It is sourced from other refrigeration equipment that has been fully 
+decommissioned; or  
+c) It is sourced from other refrigeration equipment where it has been permanently 
+replaced with a different leak detection system. 
+4) The refrigerant used in the refrigeration system is: 
+a) A pure hydrofluorocarbon (HFC) (i.e., a single HFC); 
+b) A blend of different HFCs; or 
+c) A blend of HFCs and HFOs. 
+Note − While blends of HFCs and HFOs are permitted, only the HFCs will be credited. 
+5) The installation is supported by data systems for leak reporting/management that are 
+used for HFC reporting compliance purposes under the Kigali amendment of the 
+Montreal Protocol. 
+6) The project activity is located in the United States.  
+Note − A revision may be submitted to expand applicability to other countries or regions. 
+ 
+VM0001, v1.2 
+ 
+6 
+This methodology is not applicable under the following conditions: 
+7) Other efficiency improvements than the leak detection system are implemented.

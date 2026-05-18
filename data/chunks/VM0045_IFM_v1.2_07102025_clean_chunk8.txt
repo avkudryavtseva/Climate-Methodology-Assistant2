@@ -1,0 +1,1497 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline quantification is focused on measured carbon stock change in the composite 
+baselines, representing the absence of project activities. Each project sample unit i has a 
+corresponding paired composite baseline i, composed of one or more constituent baseline 
+plots j. 
+Harvest or disturbance emissions include carbon emitted from live tree above- and 
+belowground biomass, dead wood, and harvested wood products (i.e., carbon not retained in 
+harvested wood products for 100 years or more after harvest).  
+For each constituent baseline plot, carbon stock change is calculated at re-measurement time 
+mt, and annualized as: 
+𝛥𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡= (𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) × (1/𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) 
+(3) 
+𝛥𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡= (𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) × (1/𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) 
+(4) 
+𝛥𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡= (𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) × (1/𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) 
+(5) 
+Where: 
+ΔLAGbsl,i,j,mt 
+= 
+Annual change in live aboveground biomass stocks in the baseline 
+scenario at constituent baseline plot j in composite baseline i 
+calculated at re-measurement time mt (t CO2e/unit area/year) 
+LAGbsl,i,j,t 
+= 
+Live aboveground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i in the monitoring 
+interval ending at time t (t CO2e/unit area) 
+LAGbsl,i,j,t-X_(bsl,i,j,t) 
+= 
+Live aboveground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i at time t − Xbsl,i,j,t 
+(t CO2e/unit area) 
+ΔLBGbsl,i,j,mt 
+= 
+Annual change in live belowground biomass stocks in the baseline 
+scenario at constituent baseline plot j in composite baseline i 
+calculated at re-measurement time mt (t CO2e/unit area/year) 
+LBGbsl,i,j,t 
+= 
+Live belowground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i in the monitoring 
+interval ending at time t (t CO2e/unit area) 
+LBGbsl,i,j,t-X_(bsl,i,j,t) 
+= 
+Live belowground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i at time t − Xbsl,i,j,t 
+(t CO2e/unit area) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+14 
+ΔDWbsl,i,j,mt 
+= 
+Annual change in dead wood stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i calculated at re-
+measurement time mt (t CO2e/unit area/year) 
+DWbsl,i,j,t 
+= 
+Dead wood stocks in the baseline scenario at constituent baseline 
+plot j in composite baseline i in the monitoring interval ending at time 
+t (t CO2e/unit area) 
+DWbsl,i,j,t-X_(bsl,i,j,t) 
+= 
+Dead wood stocks in the baseline scenario at constituent baseline 
+plot j in composite baseline i at time t – Xbsl,i,j,t (t CO2e/unit area)  
+Xbsl,i,j,t 
+= 
+Length of measurement interval ending at time t for constituent 
+baseline plot ij (years) 
+Note that re-measurement time mt is expected to precede the project start date for the initial 
+measurement intervals. 
+For each reporting year t, annual carbon stock change calculated for re-measurement times mt 
+(where t − mt is less than the length of the measurement interval corresponding to re-
+measurement time mt = Xbsl,i,j,t) is summed for each constituent baseline plot. Then, the 
+composite baseline i is calculated as the weighted sum of carbon stock change across 
+constituent baseline plots. 
+𝛥𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑡= ∑
+𝑊𝑏𝑠𝑙,𝑖,𝑗∑
+𝛥𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡
+𝑡
+𝑚𝑡=−10
+𝑛
+𝑗=1
+ [𝑡−𝑚𝑡< 𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡] 
+(6) 
+𝛥𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑡= ∑
+𝑊𝑏𝑠𝑙,𝑖,𝑗∑
+𝛥𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡
+𝑡
+𝑚𝑡=−10
+𝑛
+𝑗=1
+ [𝑡−𝑚𝑡< 𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡] 
+(7) 
+𝛥𝐷𝑊𝑏𝑠𝑙,𝑖,𝑡= ∑
+𝑊𝑏𝑠𝑙,𝑖,𝑗∑
+𝛥𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑚𝑡
+𝑡
+𝑚𝑡=−10
+𝑛
+𝑗=1
+ [𝑡−𝑚𝑡< 𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡] 
+(8) 
+Where: 
+ΔLAGbsl,i,t 
+= 
+Annual change in live aboveground biomass stocks in the baseline 
+scenario at composite baseline i in year t (t CO2e/unit area/year) 
+ΔLAGbsl,i,j,mt 
+= 
+Annual change in live aboveground biomass stocks in the baseline 
+scenario at constituent baseline plot j in composite baseline i 
+calculated at re-measurement time mt (t CO2e/unit area/year) 
+ΔLBGbsl,i,t 
+= 
+Annual change in live belowground biomass stocks in the baseline 
+scenario at composite baseline i in year t (t CO2e/unit area/year) 
+ΔLBGbsl,i,j,mt 
+= 
+Annual change in live belowground biomass stocks in the baseline 
+scenario at constituent baseline plot j in composite baseline i 
+calculated at re-measurement time mt (t CO2e/unit area/year) 
+ΔDWbsl,i,t 
+= 
+Annual change in dead wood stocks in the baseline scenario at 
+composite baseline i in year t (t CO2e/unit area/year) 
+ΔDWbsl,i,j,mt 
+= 
+Annual change in dead wood stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i calculated at re-
+measurement time mt (t CO2e/unit area/year) 
+Wbsl,i,j 
+= 
+Weight of constituent baseline plot j in matched composite baseline i; 
+value between 0 and 1 (dimensionless) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+15 
+Note that constituent plots within a given composite baseline need not be on the same re-
+measurement schedule, nor have the same or fixed measurement intervals over a crediting 
+period. 
+Table 3 gives an example of applying Equations (3) and (6) to derive live aboveground biomass 
+stock change for a composite baseline. 
+Table 3. Illustrative derivation of live aboveground biomass stock change for a composite baseline applying 
+Equations (3) and (6)  
+a) Periodic measurement of live aboveground biomass in constituent baseline plots (LAGbsl,i,j,t) 
+Plot 
+bsl,i,j 
+Year t 
+−7 
+−6 
+−5 
+−4 
+−3 
+−2 
+−1 
+0 
+1 
+2 
+3 
+4 
+5 
+1 
+430.3 
+ 
+ 
+ 
+ 
+ 
+ 
+325.7 
+ 
+ 
+ 
+338.7 
+ 
+2 
+ 
+ 
+260.1 
+ 
+ 
+ 
+ 
+284.6 
+ 
+ 
+ 
+ 
+ 
+3 
+ 
+233.7 
+ 
+ 
+ 
+ 
+247.3 
+ 
+ 
+ 
+ 
+ 
+238.2 
+4 
+335.6 
+ 
+ 
+ 
+ 
+361.7 
+ 
+ 
+ 
+ 
+ 
+ 
+387.4 
+5 
+ 
+ 
+459.4 
+ 
+ 
+ 
+ 
+474.8 
+ 
+ 
+ 
+ 
+ 
+6 
+ 
+ 
+ 
+214.2 
+ 
+ 
+ 
+230.2 
+ 
+ 
+ 
+ 
+ 
+7 
+ 
+ 
+195.8 
+ 
+ 
+ 
+ 
+216.2 
+ 
+ 
+ 
+ 
+ 
+8 
+195.0 
+ 
+ 
+ 
+ 
+145.4 
+ 
+ 
+ 
+ 
+165.3 
+ 
+ 
+9 
+ 
+80.0 
+ 
+ 
+ 
+ 
+91.2 
+ 
+ 
+ 
+ 
+86.7 
+ 
+10 
+ 
+190.0 
+ 
+ 
+ 
+152.0 
+ 
+ 
+ 
+ 
+170.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+16 
+Table 3 (cont…). Illustrative derivation of live aboveground biomass stock change for a composite baseline 
+applying Equations (3) and (6)  
+ 
+b) Calculation of annual change in live aboveground biomass stocks in constituent baseline plots at re-
+measurement time mt (ΔLAGbsl,i,j,mt) 
+Plot 
+bsl,i,j 
+Time mt – 
+Xbsl,i,j,t 
+Time 
+mt 
+LAGbsl,i,j,t−X_(bsl
+,i,j,t) 
+(t CO2e/unit 
+area) 
+LAGbsl,i,j,t 
+(t CO2e/unit 
+area) 
+Xbsl,i,j,t  
+(years) 
+LAGbsl,i,j,t − 
+LAGbsl,i,j,t−X_(bsl
+,i,j,t) 
+(t CO2e/unit 
+area) 
+𝚫LAGbsl,i,j,mt 
+(t CO2e/unit 
+area/year) 
+1 
+−7 
+0 
+430.3 
+325.7 
+7 
+−104.6 
+−14.9 
+1 
+0 
+4 
+325.7 
+338.7 
+4 
+13.0 
+3.2 
+2 
+−5 
+0 
+260.1 
+284.6 
+5 
+24.5 
+4.9 
+3 
+−6 
+−1 
+233.7 
+247.3 
+5 
+13.6 
+2.7 
+3 
+−1 
+5 
+247.3 
+238.2 
+6 
+−9.1 
+−1.5 
+4 
+−7 
+−2 
+335.6 
+361.7 
+5 
+26.1 
+5.2 
+4 
+−2 
+5 
+361.7 
+387.4 
+7 
+25.7 
+3.7 
+5 
+−5 
+0 
+459.4 
+474.8 
+5 
+15.4 
+3.1 
+6 
+−4 
+0 
+214.2 
+230.2 
+4 
+16.0 
+4.0 
+7 
+−5 
+0 
+195.8 
+216.2 
+5 
+20.4 
+4.1 
+8 
+−7 
+−2 
+195.0 
+145.4 
+5 
+−49.6 
+−9.9 
+8 
+−2 
+3 
+145.4 
+165.3 
+5 
+19.9 
+4.0 
+9 
+−6 
+−1 
+80 
+91.2 
+5 
+11.2 
+2.2 
+9 
+−1 
+4 
+91.2 
+86.7 
+5 
+−4.5 
+−0.9 
+10 
+−6 
+−2 
+190 
+152 
+4 
+−38.0 
+−9.5 
+10 
+−2 
+3 
+152 
+170 
+5 
+18.0 
+3.6 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+17 
+Table 3 (cont…). Illustrative derivation of live aboveground biomass stock change for a composite baseline 
+applying Equations (3) and (6)  
+ 
+c) 
+Calculation of change in live aboveground biomass stocks in composite control i in year t 
+(ΔLAGbsl,i,t) 
+Plot 
+bsl,i,j 
+Wbsl,i,j 
+Year t 
+1 
+2 
+3 
+4 
+5 
+1 
+0.08 
+−14.9 
+−14.9 
+−14.9 
+−11.7 
+−11.7 
+2 
+0.05 
+4.9 
+4.9 
+4.9 
+4.9 
+0.0 
+3 
+0.05 
+2.7 
+2.7 
+2.7 
+0.0 
+−1.5 
+4 
+0.05 
+5.2 
+5.2 
+0.0 
+0.0 
+3.7 
+5 
+0.17 
+3.1 
+3.1 
+3.1 
+3.1 
+0.0 
+6 
+0.11 
+4.0 
+4.0 
+4.0 
+0.0 
+0.0 
+7 
+0.10 
+4.1 
+4.1 
+4.1 
+4.1 
+0.0 
+8 
+0.17 
+−9.9 
+−9.9 
+4.0 
+4.0 
+4.0 
+9 
+0.16 
+2.2 
+2.2 
+2.2 
+−0.9 
+−0.9 
+10 
+0.05 
+−9.5 
+0.0 
+3.6 
+3.6 
+3.6 
+ΔLAGbsl,i,t 
+−1.0 
+−0.5 
+1.7 
+0.9 
+−0.2 
+ 
+Note that in this example, initial measurement occurred at t = -7 or seven years prior to t = 0. In 
+plot 1, for example, -14.9 t CO2e/unit area/year is the annual change in live aboveground 
+biomass for the first measurement period. Years 4 and 5 reflect  the annual stock change after 
+plot 1 was remeasured at year 4 (-14.9 + 3.2 = -11.7). See Table 3a and 3b above. 
+ 
+Weights for constituent baseline plots (Wbsl,i,j) are determined at t = 0 and fixed throughout the 
+project crediting period, except where a constituent baseline plot has become invalid (e.g., where 
+a unit is no longer in a forest condition or has not been re-measured in over 10 years; see Section 
+6). In this case, all weights in the respective composite baseline are recalculated to sum to one, 
+holding relative weights of the remaining valid constituent plots constant. 
+Harvested wood product stocks (HWPbsl,i,j,t) are calculated using Equation (9). 
+𝐻𝑊𝑃𝑏𝑠𝑙,𝑖,𝑗,𝑡= (𝐵𝐵𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑠𝑎𝑤,𝑤𝑡=𝑠𝑓𝑤,𝑏𝑠𝑙,𝑖,𝑗,𝑡× 𝑆𝐹𝑠𝑎𝑤,𝑤𝑡=𝑠𝑓𝑤
++ 𝐵𝐵𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑝𝑢𝑙𝑝,𝑤𝑡=𝑠𝑓𝑤,𝑏𝑠𝑙,𝑖,𝑗,𝑡× 𝑆𝐹𝑝𝑢𝑙𝑝,𝑤𝑡=𝑠𝑓𝑤)
++ (𝐵𝐵𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑠𝑎𝑤,𝑤𝑡=ℎ𝑤𝑑,𝑏𝑠𝑙,𝑖,𝑗,𝑡× 𝑆𝐹𝑠𝑎𝑤,𝑤𝑡=ℎ𝑤𝑑
++ 𝐵𝐵𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑝𝑢𝑙𝑝,𝑤𝑡=ℎ𝑤𝑑,𝑏𝑠𝑙,𝑖,𝑗,𝑡× 𝑆𝐹𝑝𝑢𝑙𝑝,𝑤𝑡=ℎ𝑤𝑑) 
+(9) 
+Where: 
+HWPbsl,i,j,t 
+= 
+Harvested wood products remaining stored for 100 years in the 
+baseline scenario at constituent baseline plot j in composite 
+baseline i, harvested in the monitoring interval ending at time t 
+(t CO2e/unit area) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+18 
+BBremovedsaw,wt,bsl,i,j,t 
+= 
+Saw log bole biomass stocks in wood type wt in commercial 
+species removed in the baseline scenario at constituent baseline 
+plot j in composite baseline i, harvested in the monitoring 
+interval ending at time t (t CO2e/unit area)  
+BBremovedpulp,wt,bsl,i,j,t = 
+Pulpwood bole biomass stocks in wood type wt in commercial 
+species removed in the baseline scenario at constituent baseline 
+plot j in composite baseline i, harvested in the monitoring 
+interval ending at time t (t CO2e/unit area)  
+SFsaw,wt 
+= 
+Saw log 100-year average storage factor (mass remaining stored 
+in use and landfills over 100 years) for wood type wt 
+(dimensionless) 
+SFpulp,wt 
+= 
+Pulpwood 100-year average storage factor (mass remaining 
+stored in use and landfills over 100 years) for wood type wt 
+(dimensionless) 
+wt 
+= 
+Wood type, defined as softwood (sfw) or hardwood (hwd) 
+Where burning occurs in the monitoring interval ending at time t, CH4 and N2O emissions from 
+fire are included and calculated using Equation (10), assuming that all stock change is subject 
+to burning. Otherwise, Bburnbsl,i,j,t is set equal to zero. 
+𝐵𝑏𝑢𝑟𝑛𝑏𝑠𝑙,𝑖,𝑗,𝑡= ∑𝐺𝑊𝑃𝑔
+𝐺
+𝑔=1
+× ((𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡− 𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡) + (𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑡− 𝐷𝑊𝑏𝑠𝑙,𝑖,𝑗,𝑡−𝑋𝑏𝑠𝑙,𝑖,𝑗,𝑡)) × 12
+44
+× 1
+𝐶𝐹× 𝐶𝑓× 𝐸𝐹𝑔× 10−3 
+(10) 
+Where: 
+Bburnbsl,i,j,t 
+= 
+Emissions of CH4 and N2O in the baseline scenario from biomass 
+burning at constituent baseline plot j in composite baseline i in the 
+monitoring interval ending at time t (t CO2e/unit area) 
+GWPg 
+= 
+Global warming potential of gas g 
+LAGbsl,i,j,t 
+= 
+Live aboveground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i at time t (t CO2e/unit 
+area) 
+LAGbsl,i,j,t-X_(bsl,i,j,t) 
+= 
+Live aboveground biomass stocks in the baseline scenario at 
+constituent baseline plot j in composite baseline i at time t − Xbsl,i,j,t 
+(t CO2e/unit area) 
+DWbsl,i,j,t 
+= 
+Dead wood stocks in the baseline scenario at constituent baseline plot j 
+in composite baseline i at time t (t CO2e/unit area) 
+DWbsl,i,j,t-X_(bsl,i,j,t) 
+= 
+Dead wood stocks in the baseline scenario at constituent baseline plot j 
+in composite baseline i at time t − Xbsl,i,j,t (t CO2e/unit area)  
+CF 
+= Carbon fraction; 0.5 
+Cf 
+= Combustion factor (dimensionless) 
+EFg 
+= 
+Emission factor for gas g (g/kg dry matter burned) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+19 
+Carbon stock change and emissions in the baseline scenario are then estimated for each 
+composite baseline i at time t (net sequestration), which serves as the performance benchmark 
+(crediting baseline) for each paired project sample unit i, as: 
+𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡=  𝛥𝐿𝐴𝐺𝑏𝑠𝑙,𝑖,𝑡+ 𝛥𝐿𝐵𝐺𝑏𝑠𝑙,𝑖,𝑡+ 𝛥𝐷𝑊𝑏𝑠𝑙,𝑖,𝑡+ ∑(𝐻𝑊𝑃𝑏𝑠𝑙,𝑖,𝑗,𝑡
+𝑛
+𝑗=1
+× 𝑊𝑏𝑠𝑙,𝑖,𝑗) 
+(11) 
+Where: 
+ΔCO2bsl,i,t 
+= 
+Carbon stock change in the baseline scenario in composite baseline i in year 
+t (t CO2e/unit area/year) 
+ΔLAGbsl,i,t 
+= 
+Annual change in live aboveground biomass stocks in the baseline scenario 
+in composite baseline i in year t (t CO2e/unit area/year) 
+ΔLBGbsl,i,t 
+= 
+Annual change in live belowground biomass stocks in the baseline scenario 
+in composite baseline i in year t (t CO2e/unit area/year) 
+ΔDWbsl,i,t 
+= 
+Annual change in dead wood stocks in the baseline scenario in composite 
+baseline i in year t (t CO2e/unit area/year) 
+HWPbsl,i,j,t 
+= 
+Harvested wood products remaining stored over 100 years in the baseline 
+scenario at constituent baseline plot j in composite baseline i, harvested in 
+the monitoring interval ending at time t (t CO2e/unit area) 
+ 
+𝐵𝐸𝑖,𝑡= 𝑁𝑓𝑒𝑟𝑡𝑏𝑠𝑙,𝑖,𝑡+ ∑(𝐵𝑏𝑢𝑟𝑛𝑏𝑠𝑙,𝑖,𝑗,𝑡
+𝑛
+𝑗=1
+× 𝑊𝑏𝑠𝑙,𝑖,𝑗) 
+(12) 
+Where: 
+BEi,t 
+= 
+Baseline emissions in composite baseline i in year t (t CO2e/unit area/year) 
+Nfertbsl,i,t 
+= 
+Direct and indirect nitrous oxide emissions due to nitrogen fertilizer use in 
+the baseline scenario in composite baseline i in the monitoring interval 
+ending at time t (t CO2e/unit area) 
+Bburnbsl,i,j,t = 
+Emissions of methane and nitrous oxide in the baseline scenario from 
+biomass burning at constituent baseline plot j in composite baseline i in the 
+monitoring interval ending at time t (t CO2e/unit area) 
+Wbsl,i,j 
+= 
+Weight of constituent baseline plot j in matched composite baseline i; value 
+between 0 and 1 (dimensionless) 
+Nitrous oxide emissions due to nitrogen fertilizer use in the baseline scenario (Nfertbsl,i,t) are 
+conservatively set to zero.  
+8.2 
+Project Emissions 
+Stock change in live aboveground biomass in the project scenario in sample unit i over the 
+monitoring interval ending at time t is annualized as: 
+𝛥𝐿𝐴𝐺𝑤𝑝,𝑖,𝑡= (𝐿𝐴𝐺𝑤𝑝,𝑖,𝑡− 𝐿𝐴𝐺𝑤𝑝,𝑖,𝑡−𝑋𝑤𝑝,𝑖,𝑡) × (1/𝑋𝑤𝑝,𝑖,𝑡) 
+(13) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+20 
+𝛥𝐿𝐵𝐺𝑤𝑝,𝑖,𝑡= (𝐿𝐵𝐺𝑤𝑝,𝑖,𝑡− 𝐿𝐵𝐺𝑤𝑝,𝑖,𝑡−𝑋𝑤𝑝,𝑖,𝑡) × (1/𝑋𝑤𝑝,𝑖,𝑡) 
+(14) 
+𝛥𝐷𝑊𝑤𝑝,𝑖,𝑡= (𝐷𝑊𝑤𝑝,𝑖,𝑡− 𝐷𝑊𝑤𝑝,𝑖,𝑡−𝑋𝑤𝑝,𝑖,𝑡) × (1/𝑋𝑤𝑝,𝑖,𝑡) 
+(15) 
+Where: 
+ΔLAGwp,i,t 
+= Average annual change in live aboveground biomass stocks in the 
+project scenario in sample unit i in the monitoring interval ending at 
+time t (t CO2e/unit area/year) 
+LAGwp,i,t 
+= Live aboveground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t (t CO2e/unit area) 
+LAGwp,i,t-X_(wp,i,t) 
+= Live aboveground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t − Xwp,i,t (t CO2e/unit area) 
+ΔLBGwp,i,t 
+= Average annual change in live belowground biomass stocks in the 
+project scenario in sample unit i in the monitoring interval ending at 
+time t (t CO2e/unit area/year) 
+LBGwp,i,t 
+= Live belowground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t (t CO2e/unit area)  
+LBGwp,i,t-X_(wp,i,t) 
+= Live belowground biomass stocks in the project scenario in sample unit 
+i in the monitoring interval ending at time t − Xwp,i,t (t CO2e/unit area)  
+ΔDWwp,i,t 
+= Average annual change in dead wood stocks in the project scenario in 
+sample unit i in the monitoring interval ending at time t (t CO2e/unit 
+area/year) 
+DWwp,i,t 
+= Dead wood stocks in the project scenario in sample unit i in the 
+monitoring interval ending at time t (t CO2e/unit area)  
+DWwp,i,t-X_(wp,i,t) 
+= Dead wood stocks in the project scenario in sample unit i in the 
+monitoring interval ending at time t − Xwp,i,t (t CO2e/unit area)  
+Xwp,i,t 
+= Length of measurement interval ending at time t for sample unit i in the 
+project scenario (years) 
+As with constituent baseline plots, project sample units may be re-measured on a staggered 
+basis (i.e., re-measurements of cohorts of sample units are scheduled in different years within 
+a monitoring cycle) provided that subsets of sample units in the project scenario re-measured 
+in different years are selected systematically or at random from the total sample population. 
+Harvested wood products remaining stored for 100 years (HWPwp,i,t) and emissions of CH4 and 
+N2O from biomass burning (Bburnwp,i,t) in the project scenario are estimated using Equations (9) 
+and (10) respectively, substituting the subscript bsl with wp to make clear that the relevant 
+values are being quantified for the project scenario. Note that no weighted summing operation 
+is used in these equations in the project scenario.  
+Where nitrogen fertilizer is applied due to the project activity, nitrous oxide emissions are 
+calculated using Equation (16).  
+𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑖,𝑡= 𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡+ 𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡 
+(16) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+21 
+Where: 
+Nfertwp,i,t 
+= Direct and indirect nitrous oxide emissions due to nitrogen fertilizer use 
+in the project scenario for sample unit i in the monitoring interval ending 
+at time t (t CO2e/unit area) 
+Nfertwp,direct,i,t 
+= 
+Direct nitrous oxide emissions due to fertilizer use in the project 
+scenario for sample unit i in the monitoring interval ending at t (t 
+CO2e/unit area) 
+Nfertwp,indirect,i,t 
+= 
+Indirect nitrous oxide emissions due to fertilizer use in the project 
+scenario for sample unit i in the monitoring interval ending at time t 
+(t CO2e/unit area) 
+ 
+𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡= (𝐹𝑤𝑝,𝑆𝑁,𝑖,𝑡+ 𝐹𝑤𝑝,𝑂𝑁,𝑖,𝑡) × 𝐸𝐹𝑁𝑑𝑖𝑟𝑒𝑐𝑡× 44/28 × 𝐺𝑊𝑃𝑁2𝑂 
+(17) 
+𝐹𝑤𝑝,𝑆𝑁,𝑖,𝑡= 𝑀𝑤𝑝,𝑆𝐹,𝑖,𝑡× 𝑁𝐶𝑤𝑝,𝑆𝐹,𝑖,𝑡 
+(18) 
+𝐹𝑤𝑝,𝑂𝑁,𝑖,𝑡= 𝑀𝑤𝑝,𝑂𝐹,𝑖,𝑡× 𝑁𝐶𝑤𝑝,𝑂𝐹,𝑖,𝑡 
+(19) 
+Where: 
+Nfertwp,direct,i,t 
+= Direct nitrous oxide emissions due to nitrogen fertilizer use in the project 
+scenario for sample unit i in the monitoring interval ending at t (t 
+CO2e/unit area) 
+Fwp,SN,i,t 
+= Project synthetic nitrogen fertilizer applied to sample unit i in the 
+monitoring interval ending at time t (t N/unit area) 
+Fwp,ON,i,t 
+= Project organic nitrogen fertilizer applied to sample unit i in the 
+monitoring interval ending at time t (t N/unit area) 
+Mwp,SF,i,t 
+= Mass of project nitrogen-containing synthetic fertilizer applied to sample 
+unit i in the monitoring interval ending at time t (t fertilizer/unit area) 
+Mwp,OF,i,t 
+= Mass of project nitrogen-containing organic fertilizer applied to sample 
+unit i in the monitoring interval ending at time t (t fertilizer/unit area) 
+NCwp,SF,i,t 
+= Nitrogen content of project synthetic fertilizer applied to sample unit i in 
+the monitoring interval ending at time t (t N/t fertilizer) 
+NCwp,OF,i,t 
+= Nitrogen content of project organic fertilizer applied to sample unit i in the 
+monitoring interval ending at time t (t N/t fertilizer) 
+EFNdirect 
+= Emission factor for nitrous oxide emissions from nitrogen additions from 
+synthetic fertilizers, organic amendments, and crop residues (t N2O-N/t N 
+applied) 
+GWPN2O 
+= Global warming potential for nitrous oxide; 298 
+ 
+𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑖𝑛𝑑𝑖𝑟𝑒𝑐𝑡,𝑖,𝑡= 𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡+ 𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡 
+(20) 
+𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑣𝑜𝑙𝑎𝑡,𝑖,𝑡= [(𝐹𝑤𝑝,𝑆𝑁,𝑖,𝑡× 𝐹𝑟𝑎𝑐𝐺𝐴𝑆𝐹) + (𝐹𝑤𝑝,𝑂𝑁,𝑖,𝑡× 𝐹𝑟𝑎𝑐𝐺𝐴𝑆𝑀)] × 𝐸𝐹𝑁𝑣𝑜𝑙𝑎𝑡× 44/28
+× 𝐺𝑊𝑃𝑁2𝑂 
+(21) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+22 
+𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑙𝑒𝑎𝑐ℎ,𝑖,𝑡= (𝐹𝑤𝑝,𝑆𝑁,𝑖,𝑡+ 𝐹𝑤𝑝,𝑂𝑁,𝑖,𝑡) × 𝐹𝑟𝑎𝑐𝐿𝐸𝐴𝐶𝐻× 𝐸𝐹𝑁𝑙𝑒𝑎𝑐ℎ× 44/28 × 𝐺𝑊𝑃𝑁2𝑂 
+(22) 
+ 
+Where: 
+Nfertwp,indirect,i,t 
+= Indirect nitrous oxide emissions due to nitrogen fertilizer use in the 
+project scenario for sample unit i in the monitoring interval ending at 
+time t (t CO2e/unit area) 
+Nfertwp,volat,i,t 
+= Indirect nitrous oxide emissions produced from atmospheric deposition 
+of nitrogen volatilized due to nitrogen fertilizer use in sample unit i in 
+the monitoring interval ending at time t (t CO2e/unit area) 
+Nfertwp,leach,i,t 
+= Indirect nitrous oxide emissions produced from leaching and runoff of 
+nitrogen, in regions where leaching and runoff occurs, due to nitrogen 
+fertilizer use in sample unit i in the monitoring interval ending at time t; 
+equal to zero where average annual precipitation is less than potential 
+evapotranspiration, unless subject to irrigation (t CO2e/unit area) 
+Fwp,SN,i,t 
+= Project synthetic nitrogen fertilizer applied to sample unit i in the 
+monitoring interval ending at time t (t N/unit area) 
+Fwp,ON,i,t 
+= Project organic nitrogen fertilizer applied to sample unit i in the 
+monitoring interval ending at time t (t N/unit area) 
+FracGASF 
+= Fraction of all synthetic nitrogen added to soils that volatilizes as 
+ammonia and NOx (dimensionless) 
+FracGASM 
+= Fraction of all organic nitrogen added to soils that volatilizes as 
+ammonia and NOx (dimensionless) 
+FracLEACH 
+= Fraction of nitrogen (synthetic and organic) added to soils that is lost 
+through leaching and runoff, in regions where leaching and runoff 
+occurs (dimensionless)  
+EFNvolat 
+= Emission factor for nitrous oxide emissions from atmospheric deposition 
+of nitrogen on soils and water surfaces (t N2O-N/(t NH3-N + NOx-N 
+volatilized)) 
+EFNleach 
+= Emission factor for nitrous oxide emissions from leaching and runoff 
+(t N2O-N/t N leached and runoff) 
+GWPN2O 
+= Global warming potential for nitrous oxide; 298 
+Carbon stock change and emissions in the project scenario are then estimated for each sample 
+unit i in year t using Equations (23) and (24). 
+𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡= 𝛥𝐿𝐴𝐺𝑤𝑝,𝑖,𝑡+ 𝛥𝐿𝐵𝐺𝑤𝑝,𝑖,𝑡+ 𝛥𝐷𝑊𝑤𝑝,𝑖,𝑡+ 𝐻𝑊𝑃𝑤𝑝,𝑖,𝑡 
+(23) 
+Where: 
+ΔCO2wp,i,t 
+= 
+Average annual carbon stock change in the project scenario in sample 
+unit i in the monitoring interval ending at time t (t CO2e/unit area/year) 
+ΔLAGwp,i,t 
+= 
+Average annual change in live aboveground biomass stocks in the 
+project scenario in sample unit i in the monitoring interval ending at time 
+t (t CO2e/unit area/year) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+23 
+ΔLBGwp,i,t 
+= 
+Average annual change in live belowground biomass stocks in the 
+project scenario in sample unit i in the monitoring interval ending at time 
+t (t CO2e/unit area/year) 
+ΔDWwp,i,t 
+= 
+Average annual change in dead wood stocks in the project scenario in 
+sample unit i in the monitoring interval ending at time t (t CO2e/unit 
+area/year) 
+HWPwp,i,t 
+= 
+Harvested wood products remaining stored over 100 years in the project 
+scenario in sample unit i, harvested in the monitoring interval ending at 
+time t (t CO2e/unit area) 
+ 
+ 
+Where: 
+PEi,t 
+= 
+Project emissions in composite baseline i in year t (t CO2e/unit area) 
+Nfertwp,i,t 
+= 
+Direct and indirect nitrous oxide emissions due to nitrogen fertilizer use in the 
+project scenario for sample unit i in the monitoring interval ending at time t 
+(t CO2e/unit area) 
+Bburnwp,i,t 
+= 
+Emissions of methane and nitrous oxide in the project scenario from biomass 
+burning in sample unit i in the monitoring interval ending at time t 
+(t CO2e/unit area) 
+Note that any emissions resulting from an initial project treatment (e.g., prescribed burn or 
+thinning) are included in parameter ΔCO2wp,i,t because the first monitoring interval begins 
+immediately prior to application of the project activity. 
+8.3 
+Leakage Emissions 
+Leakage is due to a combination of activity-shifting leakage (outside the project area but within 
+the project proponent’s operations) and market leakage (outside both the project area and the 
+project proponent’s operations). 
+Leakage (LKt) is calculated as: 
+𝐿𝐾𝑡= 𝑀𝐼𝑁 (0, 𝐴𝑡×
+1
+𝑛∑
+(𝐿𝑇𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑤𝑝,𝑖,𝑡− ∑
+𝐿𝑇𝑟𝑒𝑚𝑜𝑣𝑒𝑑𝑏𝑠𝑙,𝑖,𝑗,𝑡×
+𝑛
+𝑗=1
+𝑛
+𝑖=1
+𝑊𝑏𝑠𝑙,𝑖,𝑗) × 𝐿𝐹𝑡 )    
+(25) 
+Where: 
+LKt 
+= 
+Leakage in year t (t CO2e) 
+LTremovedwp,i,t 
+= 
+Live tree biomass stocks removed in the project scenario in sample 
+unit i subject to harvest in the monitoring interval ending at time t 
+(t CO2e/unit area)  
+LTremovedbsl,i,j,t = 
+Live tree biomass stocks removed in the baseline scenario (without 
+avoided emissions activity), at constituent baseline plot j in composite 
+𝑃𝐸𝑖,𝑡= 𝑁𝑓𝑒𝑟𝑡𝑤𝑝,𝑖,𝑡+ 𝐵𝑏𝑢𝑟𝑛𝑤𝑝,𝑖,𝑡 
+(24) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+24 
+baseline i subject to harvest in the monitoring interval ending at time t 
+(t CO2e/unit area)  
+Wbsl,i,j 
+= 
+Weight of constituent baseline plot j in matched composite baseline i; 
+value between 0 and 1 (dimensionless) 
+LFt    
+= 
+Leakage factor (percent) 
+At 
+= 
+Project area in year t (unit area) 
+The leakage factor (LFt) is determined per the following stepwise process: 
+1) Determine whether the project activity involves any permanent reduction in timber 
+supply (i.e., involves any commitment to reduce harvest levels for 100 years or longer), 
+demonstrated at the project start date. 
+2) Where the project activity involves any permanent reduction in timber supply, calculate 
+the national average ratio of merchantable stocking (on a volume or mass basis in 
+commercial species) to total stocking and compare this to the equivalent ratio in the 
+project area. The value of LFt is determined based on this comparison as follows: 
+a) Where the two ratios are equal (i.e., national ratio within ±15% of the project 
+area ratio): LFt = 0.4 (40%) 
+b) Where the national ratio is less than that in the project area (i.e., national ratio 
+<85% of the project area ratio): LFt = 0.7 (70%)  
+c) Where the national ratio is greater than that in the project area (i.e., national 
+ratio >115% of the project area ratio): LFt = 0.2 (20%) 
+3) Otherwise, where the project activity involves no permanent reduction in timber supply, 
+LFt = 0.1 (10%). 
+8.4 
+Net Reductions and Removals 
+Net GHG emission reductions in each year are quantified as: 
+𝐸𝑅𝑡= (( 𝐴𝑡× 𝐸𝑅𝑡) + 𝐿𝐾𝐸𝑅,𝑡) × (1 −𝑈𝑁𝐶𝑡) 
+(26) 
+Where: 
+ERt 
+= Net GHG emission reductions in year t (t CO2e) 
+At 
+= 
+Project area in year t (unit area) 
+ERt  
+= Mean GHG emission reductions in year t (t CO2e/unit area/year) 
+LKER,t 
+= Leakage allocated to GHG emission reductions in year t (t CO2e) 
+UNCt 
+= Uncertainty in year t (percent) 
+Net carbon dioxide removals in each year are quantified as: 
+𝐶𝑅𝑡= (( 𝐴𝑡× 𝐶𝑅𝑡) + 𝐿𝐾𝐶𝑅,𝑡) × (1 −𝑈𝑁𝐶𝑡) 
+(27) 
+Where: 
+CRt 
+= 
+Net carbon dioxide removals in year t (t CO2e) 
+At 
+= 
+Project area in year t (unit area) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+25 
+CRt  
+= 
+Mean carbon dioxide removals in year t (t CO2e/unit area/year) 
+LKCR,t 
+= 
+Leakage allocated to carbon dioxide removals in year t (t CO2e) 
+UNCt 
+= 
+Uncertainty in year t (percent) 
+Leakage allocated to GHG emission reductions (LKER,t) is calculated as:  
+𝐿𝐾𝐸𝑅,𝑡=  𝐿𝐾𝑡 × 
+𝐸𝑅𝑡
+𝐸𝑅𝑡+ 𝐶𝑅𝑡
+ 
+(28) 
+Where: 
+LKER,t 
+= 
+Leakage allocated to GHG emission reductions in year t (t CO2e) 
+LKt 
+= 
+Leakage in year t (t CO2e) 
+ERt  
+= 
+Mean GHG emission reductions in year t (t CO2e/unit area/year) 
+CRt  
+= 
+Mean carbon dioxide removals in year t (t CO2e/unit area/year) 
+ 
+Leakage allocated to carbon dioxide removals (LKCR,t) is calculated as:  
+𝐿𝐾𝐶𝑅,𝑡=  𝐿𝐾𝑡 × 
+𝐶𝑅𝑡
+𝐸𝑅𝑡+ 𝐶𝑅𝑡
+ 
+(29) 
+Where: 
+LKCR,t 
+= Leakage allocated to carbon dioxide removals in year t (t CO2e) 
+LKt 
+= Leakage in year t (t CO2e) 
+ERt  
+= 
+Mean GHG emission reductions in year t (t CO2e) 
+CRt  
+= Mean carbon dioxide removals in year t (t CO2e) 
+The mean GHG emission reductions and mean carbon dioxide removals in year t are affected by 
+the carbon stock change in the baseline scenario in the following way: 
+1) Where the baseline carbon stock decreases from year t to year t + 1, emissions are 
+occurring. In the project scenario, these emissions are avoided because of the project 
+activities. Hence, a baseline carbon stock decrease results in GHG emission reductions 
+in the same year.  
+2) Where the baseline carbon stock increases from year t to year t + 1, removals are 
+occurring. The amount of removals occurring in the project scenario must be adjusted 
+to reflect removals achieved in the absence of project activities. Hence, a baseline 
+carbon stock increase results in decreased removals in the same year. 
+The mean GHG emission reductions and mean carbon dioxide removals in year t are affected by 
+the cumulative carbon stock change in the project scenario in the following way: 
+a) Where the cumulative carbon stock change in the project scenario is positive (i.e., the 
+project carbon stock is greater in year t than at the project start date), removals are 
+generated. 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+26 
+b) Where the cumulative carbon stock change in the project scenario is negative (i.e., the 
+project carbon stock is smaller in year t than at the project start date), reductions are 
+generated.  
+Emission reductions are calculated for each sample unit i in year t, and the mean GHG 
+emission reduction is quantified as: 
+𝐸𝑅𝑡= 𝐼(𝛥𝐶𝑂2𝑤𝑝) × 1
+𝑛× ∑(
+𝑛
+𝑖=1 
+−𝑃𝐸𝑖,𝑡−𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)
++ 𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡)) + (1
+−𝐼(𝛥𝐶𝑂2𝑤𝑝)) × 1
+𝑛× ∑(𝑃𝐸𝑖,𝑡− 𝐵𝐸𝑖,𝑡
+𝑛
+𝑖=1 
+−𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)
++ 𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) + 𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡)
+−𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)) 
+(30) 
+Where:  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 , if  ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑚> 0
+𝑡
+𝑚=1 
+𝑛
+𝑖=1 
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 , if ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑚≤0
+𝑡
+𝑚=1 
+𝑛
+𝑖=1 
+ 
+ERt  
+= 
+Mean GHG emission reductions in year t (t CO2e/unit area/year) 
+PEi,t 
+= 
+Project emissions in composite baseline i in year t (t CO2e/unit area/year) 
+BEi,t 
+= 
+Baseline emissions in composite baseline i in year t (t CO2e/unit 
+area/year) 
+ΔCO2bsl,i,t 
+= 
+Carbon stock change in the baseline scenario in composite baseline i in 
+year t (t CO2e/unit area/year) 
+ΔCO2wp,i,t 
+= 
+Average annual carbon stock change in the project scenario in sample 
+unit i in the monitoring interval ending at time t (t CO2e/unit area/year) 
+ΔCO2wp,i,m 
+= 
+Carbon stock change in the project scenario in sample unit i in year m 
+(t CO2e/unit area/year) 
+n 
+= 
+Number of sample units in which stock change values are available for 
+both the project and baseline scenarios 
+Carbon dioxide removals are calculated for each sample unit i in year t, and the mean carbon 
+dioxide removal is quantified as: 
+𝐶𝑅𝑡= 𝐼(𝛥𝐶𝑂2𝑤𝑝) × 1
+𝑛× ∑(𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) − 
+𝑛
+𝑖=1 
+𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)) 
+(31) 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑚> 0
+𝑡
+𝑚=1 
+𝑛
+𝑖=1 
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑚≤0
+𝑡
+𝑚=1 
+𝑛
+𝑖=1 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+27 
+CRt  
+= Mean carbon dioxide removals in year t (t CO2e/unit area/year) 
+ΔCO2wp,i,t 
+= Average annual carbon stock change in the project scenario in sample unit 
+i in the monitoring interval ending at time t (t CO2e/unit area/year) 
+ΔCO2wp,i,m 
+= Carbon stock change in the project scenario in sample unit i in year m 
+(t CO2e/unit area/year) 
+ΔCO2bsl,i,t 
+= Carbon stock change in the baseline scenario in composite baseline i in 
+year t (t CO2e/unit area/year) 
+n 
+= Number of sample units in which stock change values are available for 
+both the project and baseline scenarios 
+Mean carbon stock change and GHG emission reductions are calculated using unbiased 
+estimators, such as from Cochran, W. G. 1977. Sampling Techniques. 3rd ed. John Wiley & Sons 
+or Som, R. K. 1995. Practical Sampling Techniques. 2nd ed. Taylor & Francis. Equations (30), 
+(31), and (32), used to calculate ERt, CRt, and UNCt, assume either: 
+1) a simple random sample (SRS) design; or  
+2) a two-stage sample with primary units (e.g., stands) selected via probability 
+proportional to size (acreage) and secondary units (e.g., plots) selected via SRS or 
+systematic sampling with a fixed sample size within each selected primary unit. In the 
+latter case, a composite baseline would be matched to each primary unit on the basis 
+of initial conditions averaged across the secondary units (many-to-many matching). 
+Other statistically robust sample designs (e.g., stratified samples) may be employed and the 
+estimators of the mean and standard error reconfigured to permit unbiased estimation. Note 
+that in Equations (30) and (31) only sample units i for which calculated stock change values at 
+time t are available for both the project and baseline scenarios are included (i.e., two 
+measurement events must have taken place in a sample unit and all of its matched constituent 
+control plots before a paired sample i is included in the calculation of net GHG emission 
+reductions). Calculations are summarized in Figure 1. 
+ 
+VM0045, v1.2 
+ 
+ 
+Figure 1. Summary of calculations 
+ 
+ 
+ 
+VM0045, v1.2 
+ 
+ 
+8.5 
+Uncertainty 
+Uncertainty associated with sampling error is quantified and accounted for. Uncertainty in area 
+estimation is assumed to be zero and is addressed via using complete (and accurate) GIS 
+boundaries of the project area and applying quality assurance / quality control (QA/QC) 
+procedures specified in the parameter table for At. When using the US Forest Service (USFS) 
+Forest Inventory and Analysis (FIA) plot data to estimate forest area and construct composite 
+baselines, project proponents must recognize that uncertainty in area estimates is unlikely to 
+be zero due to the spatial distribution and sampling density of FIA plots. To address this, project 
+proponents must implement a matching and weighting procedure that ensures composite 
+baseline plots are appropriately representative of project conditions. The weighting term (Wbsl,i,j) 
+accounts for the relative influence of each constituent plot, and project proponents must 
+quantify and propagate associated uncertainty in baseline emissions or removals using 
+Equation (32). By applying weighted combinations of well-matched plots and excluding poorly 
+matched outliers, this approach minimizes potential bias and supports the conservativeness of 
+baseline estimates. 
+GHG emission reductions and carbon dioxide removals are estimated from paired composite 
+baselines and project sample units, and uncertainty (UNCt) is calculated as follows: 
+𝑈𝑁𝐶𝑡= 𝑀𝐼𝑁(100%, 𝑀𝐴𝑋 (0, 𝑇× (|
+1
+𝑛× 𝑠𝑤𝑝,𝑡
+2
++
+1
+𝑛2 × ∑
+(∑
+𝑊𝑏𝑠𝑙,𝑖,𝑗
+𝑛
+𝑖=1
+2 ×
+𝑐
+𝑗=1
+𝑠𝑏𝑠𝑙,𝑡
+2
+|))
+1
+2 × (
+1
+𝐸𝑅𝑡
+̅̅̅̅̅+𝐶𝑅𝑡) −15%)) 
+(32) 
+Where: 
+UNCt 
+= Uncertainty in year t, expressed as the half width of the 95% confidence 
+interval as a percentage of the mean (percent) 
+𝑠𝑤𝑝,𝑡
+2
+ 
+= Variance of stock change in the project scenario in the monitoring interval 
+ending in year t (dimensionless) 
+𝑠𝑏𝑠𝑙,𝑡
+2
+ 
+= Variance of stock change in the baseline scenario in the monitoring 
+interval ending in year t (dimensionless) 
+Wbsl,i,j 
+= Weight of constituent baseline plot j in matched composite baseline i; 
+value between 0 and 1 (dimensionless) 
+T 
+= Critical value of a student’s t distribution for significance level α = 0.05 
+(i.e., 1 – α = 95% confidence interval) 
+ERt  
+= Mean GHG emission reductions in year t (t CO2e) 
+CRt  
+= Mean carbon dioxide removals in year t (t CO2e) 
+n 
+= Number of sample units for which stock change values are available in 
+both the project and baseline scenarios 
+c 
+= Total number of unique constituent baseline plots j 
+Note that in Equation (32), only sample units i for which calculated stock change values at time 
+t are available for both the project and baseline scenarios are included (i.e., two measurement 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+30 
+events must have taken place in a sample unit and all of its matched constituent control plots 
+before a paired sample i is included in the calculation of net GHG emission reductions).8 
+8.6 
+Calculation of Verified Carbon Units  
+To calculate the number of Verified Carbon Units (VCUs) that may be issued, the project 
+proponent must consider the number of buffer credits which must be deposited in the AFOLU 
+pooled buffer account. The number of buffer credits that must be deposited is calculated by 
+multiplying the non-permanence risk rating by the net change in carbon stocks (see the most 
+recent version of the VCS Standard):9 
+𝐵𝑢𝐶𝑅,𝑡= 𝐼(𝛥𝐶𝑂2𝑤𝑝) × 𝐴𝑡× 1
+𝑛
+× ∑
+ ( 𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) −𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)) × 𝑁𝑃𝑅%
+𝑛
+𝑖=1
+ 
+(33) 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑗> 0
+𝑡
+𝑗=1 
+𝑛
+𝑖=1 
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑗≤0
+𝑡
+𝑗=1 
+𝑛
+𝑖=1 
+ 
+BuCR,t 
+= Buffer credits to be deducted from removals in year t (t CO2e) 
+At 
+= Project area in year t (unit area) 
+n 
+= Number of sample units in which stock change values are available for both 
+the project and baseline scenarios 
+ΔCO2wp,i,t 
+= Average annual carbon stock change in the project scenario in sample unit i 
+in the monitoring interval ending at time t (t CO2e/unit area/year) 
+ΔCO2bsl,i,t 
+= Carbon stock change in the baseline scenario in composite baseline i in 
+year t (t CO2e/unit area/year) 
+NPR% 
+= Overall project non-permanence risk rating converted to a percentage 
+ 
+𝐵𝑢𝐸𝑅,𝑡= 𝐼(𝛥𝐶𝑂2𝑤𝑝) × 𝐴𝑡× 1
+𝑛
+× ∑
+ ( 𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) −𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)) × 𝑁𝑃𝑅%
+𝑛
+𝑖=1
++ (1 −𝐼(𝛥𝐶𝑂2𝑤𝑝)) 
+× 𝐴𝑡× 1
+𝑛× ∑
+( 𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) −𝑀𝐼𝑁(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)
+𝑛
+𝑖=1
++  𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑤𝑝,𝑖,𝑡) − 𝑀𝐴𝑋(0, 𝛥𝐶𝑂2𝑏𝑠𝑙,𝑖,𝑡)) × 𝑁𝑃𝑅% 
+(34) 
+ 
+8 The aggregated uncertainty calculation presented in Equation (32) inherently reflects the uncertainties of individual 
+input parameters – such as carbon stock change, area, and plot-level measurements – provided that standardized 
+measurement protocols are properly applied. This ensures that overall uncertainty captures the combined effect of 
+component-level variability, supporting robust and conservative quantification of baseline emissions or removals. 
+9 Section 3.15.16 from VCS Standard, v4.7 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+31 
+Where: 
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 1 if  ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑗> 0
+𝑡
+𝑗=1 
+𝑛
+𝑖=1 
+ and;  
+𝐼(Δ𝐶𝑂2𝑤𝑝) = 0 if ∑
+∑
+ Δ𝐶𝑂2𝑤𝑝,𝑖,𝑗≤0
+𝑡
+𝑗=1 
+𝑛
+𝑖=1 
+ 
+BuER,t 
+= 
+Buffer credits to be deducted from reductions in year t (t CO2e) 
+At 
+= 
+Project area in year t (unit area) 
+n 
+= 
+Number of sample units in which stock change values are available for 
+both the project and baseline scenarios 
+ΔCO2wp,i,t 
+= 
+Average annual carbon stock change in the project scenario in sample 
+unit i in the monitoring interval ending at time t (t CO2e/unit area/year) 
+ΔCO2bsl,i,t 
+= 
+Carbon stock change in the baseline scenario in composite baseline i in 
+year t (t CO2e/unit area/year) 
+NPR% 
+= 
+Overall project non-permanence risk rating converted to a percentage 
+(percent) 
+ 
+𝑉𝐶𝑈𝐶𝑅,𝑡= 𝐶𝑅𝑡−𝐵𝑢𝐶𝑅,𝑡 
+(35) 
+Where: 
+VCUCR,t 
+= Number of Verified Carbon Units, in year t, that result from project 
+activities leading to removals 
+CRt 
+= Net carbon dioxide removals in year t (t CO2e) 
+BuCR,t 
+= Buffer credits to be deducted from removals in year t (t CO2e) 
+ 
+𝑉𝐶𝑈𝐸𝑅,𝑡= 𝐸𝑅𝑡−𝐵𝑢𝐸𝑅,𝑡 
+(36) 
+ 
+ 
+Where: 
+VCUER,t 
+= Number of Verified Carbon Units, in year t, that result from project activities 
+leading to reductions 
+ERt 
+= Net GHG emission reductions in year t (t CO2e) 
+BuER,t 
+= Buffer credits to be deducted from reductions in year t (t CO2e) 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+32

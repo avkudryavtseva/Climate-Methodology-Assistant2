@@ -1,0 +1,19 @@
+6 BASELINE SCENARIO 
+6.1 
+Area-based Approach 
+ 
+VM0047, v1.1 
+16 
+A performance benchmark is used to set the crediting baseline. The performance benchmark, 
+defined as the business-as-usual increase in vegetative cover relative to the project, is set based 
+on data from representative control plots outside of the project area.  
+Procedures to establish the performance benchmark are provided in Appendix 1. 
+6.2 
+Census-based Approach 
+The census-based quantification approach uses a project method for setting the crediting 
+baseline. The project activity must:  
+1) occur within an area with pre-existing woody biomass cover of less than 10%; and 
+2) occur in an area subject to continuous cropping, or in “settlements,” or “other lands” 
+land use categories.9  
+Where a project meets these criteria, it may be assumed that afforestation, reforestation, or 
+revegetation will not occur without project interventions and the crediting baseline is set to zero.

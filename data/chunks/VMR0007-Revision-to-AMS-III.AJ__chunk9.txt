@@ -1,0 +1,114 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+The baseline emissions must be determined following the procedures provided in the latest 
+version of AMS-III.AJ. replacing the equations as indicated in the following. 
+The following equation replaces Equation 2 of AMS-III.AJ.: 
+ 
+ 
+VMR0007, v1.0 
+ 
+6 
+𝐵𝐸𝑝𝑙𝑎𝑠𝑡𝑖𝑐,𝑦=  ∑[𝑄𝑖,𝑦× 𝐿𝑖× (1 −𝐷𝐹) × (𝑤𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦× 𝑆𝐸𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦
+𝑖
++ 𝑤𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦× 𝑆𝐸𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦)]   
+(2) 
+Where: 
+𝐵𝐸𝑝𝑙𝑎𝑠𝑡𝑖𝑐,𝑦 
+=  Baseline emissions associated with the recycling of plastic in year y (tCO2e) 
+𝑄𝑖,𝑦 
+=  Quantity of plastic type i recycled in year y (t/y) 
+𝐿𝑖 
+=  Net to gross adjustment factor to cover degradation in material quality and 
+material loss in the production process of the final product using the 
+recycled material (use the value of the latest version of AMS-III.AJ.) 
+𝐷𝐹 
+=  Discount factor for upstream displacement (30%) 
+𝑤𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦 =  Percentage of plastics produced in the host Country out of total plastic 
+consumed in year y (%) 
+𝑆𝐸𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦 =  Specific emissions in the baseline for the production of virgin plastics type i 
+in the host Country in year y (tCO2/ti)  
+𝑤𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦 
+=  Percentage of imported plastics out of total plastic consumed in year y (%) 
+𝑆𝐸𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦 
+= Specific emissions in the baseline for virgin plastics type i imported in year y 
+(tCO2/ti) 
+The following equation replaces Equation 6 of AMS-III.AJ.: 
+ 
+𝐵𝐸𝑔𝑙𝑎𝑠𝑠,𝑦= 𝑄𝑔𝑙𝑎𝑠𝑠,𝑦× 𝐿𝑔𝑙𝑎𝑠𝑠 × (1 −𝐷𝐹) × 𝐵𝑖× 𝑆𝐸𝐶𝐵𝑙,𝑔𝑙𝑎𝑠𝑠×  𝐸𝐹𝑒𝑙,𝑃𝐽,𝑦 
+(6) 
+ 
+Where: 
+𝐵𝐸𝑔𝑙𝑎𝑠𝑠,𝑦 
+=  Baseline emissions for the production of container glass from virgin inputs in 
+year y (t CO2e) 
+𝑄𝑔𝑙𝑎𝑠𝑠,𝑦 
+=  Quantity of glass cullet recycled by the project activity in year y (t) 
+𝐿𝑔𝑙𝑎𝑠𝑠 
+=  Net to gross adjustment factor to cover degradation in material quality and 
+material loss in the production process of the final product using the 
+recycled material (use the value of the latest version of AMS-III.AJ.)  
+𝐷𝐹 
+=  Discount factor for upstream displacement (30%) 
+𝑆𝐸𝐶𝐵𝑙,𝑔𝑙𝑎𝑠𝑠 
+=  Specific electricity consumption for the production of raw materials 
+displaced by the glass recycling (MWh/t), take the value specified in 
+paragraph 34 of AMS-III.AJ 
+𝐸𝐹𝑒𝑙,𝑃𝐽,𝑦 
+= Emission factor of the electric grid supplying electricity to the recycling 
+facility in year y (tCO2/MWh) 
+ 
+The following equation replaces Equation 7 of AMS-III.AJ.: 
+ 
+𝐵𝐸𝑚𝑒𝑡𝑎𝑙,𝑦= ∑𝑄𝑖,𝑦× (1 −𝐷𝐹) × 𝐵𝑖×  𝑆𝐸𝑖
+𝑖
+ 
+(7) 
+ 
+VMR0007, v1.0 
+ 
+7 
+ 
+Where: 
+𝐵𝐸𝑚𝑒𝑡𝑎𝑙,𝑦 
+=  Baseline emissions for the production of metal from virgin inputs in year y (t 
+CO2e) 
+𝑄𝑖,𝑦 
+=  Quantity of metal type i (steel or aluminium) recycled and sent to a 
+processing or manufacturing facility in year y (t) 
+𝐷𝐹 
+=  Discount factor for upstream displacement (use 30%) 
+𝑆𝐸𝑖 
+=  Specific CO2 emission factor for production of metal i (tCO2/t), take the value 
+specified in table 4 in AMS-III.AJ. 
+ 
+Project proponents may propose a methodology revision with a different discount factor for 
+upstream displacement in accordance with the latest version of the VCS Methodology 
+Requirements.  
+8.2 
+Project Emissions 
+Project emissions must be determined following the procedures provided in the latest version of 
+AMS-III.AJ.  
+8.3 
+Leakage Emissions 
+Leakage emissions must be determined following the procedures provided in the latest version 
+of AMS-III.AJ.  
+8.4 
+Estimated GHG Emission Reductions 
+The estimated GHG emission reductions are calculated as follows: 
+𝐸𝑅𝑦=  𝐵𝐸𝑦−𝑃𝐸𝑦− 𝐿𝐸𝑦            
+(14) 
+Where: 
+𝐸𝑅𝑦 
+= GHG emissions reductions in year y (tCO2e) 
+𝐵𝐸𝑦 
+= Baseline emissions in year y (tCO2e) 
+𝑃𝐸𝑦 
+= Project emissions in year y (tCO2e) 
+𝐿𝐸𝑦 
+= Leakage in year y (tCO2e) 
+ 
+VMR0007, v1.0 
+ 
+8

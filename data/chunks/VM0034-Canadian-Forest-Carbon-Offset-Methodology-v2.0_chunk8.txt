@@ -1,0 +1,4764 @@
+8 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+8.1  
+Overview of Quantification Approach 
+The quantification methods for SSPs are presented below and in the sub-sections that follow.  
+These methods must be used each time a monitoring report is prepared by project proponents to 
+calculate the net change in emissions and removals that have occurred since the previous 
+monitoring report was issued (ie, over the current reporting period for the project), as well as to 
+establish initial project and baseline carbon stocks.  The methods also describe the key 
+parameters that must be monitored during the reporting period. 
+Project proponents must use the 2003 IPCC Good Practice Guidance for Land Use, Land Use 
+Change and Forestry as guidance for application of the specific quantification methods described 
+in this section. 
+The overall equation used to calculate net project emission reductions and removal 
+enhancements is as follows: 
+Equation 1 
+∆CO!e"#$,$ = &∆TR&&,$ + ∆TE&',$+ −(∆TR(&,$ + ∆TE(',$)                  [1] 
+ 
+Where: 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+38 
+Parameter 
+Description 
+∆CO2enet, t   
+The net emission reductions and removal enhancements, achieved 
+by the project during reporting period t.  A net increase in emission 
+reductions and removal enhancements is expressed as a positive 
+number. Expressed in tCO2e. 
+∆TRPP/BP,t 
+The net incremental GHG removals by project or baseline pools, 
+achieved by the project or the baseline during monitoring period t.  A 
+net increase in total removals is expressed as a positive number. 
+Expressed in tCO2e. 
+∆TEPS/BS,t 
+The net incremental GHG emission reductions by project or baseline 
+sources of emissions, achieved by the project or the baseline during 
+reporting period t.  A net increase in total emission reductions is 
+expressed as a positive number. Expressed in tCO2e. 
+ 
+Quantification methods given for individual pools and emission sources below must be used for 
+the calculation of both baseline (Section 8.2) and project (Section 8.3) emission reductions and 
+removal enhancements. 
+8.1.1  
+Quantification of Controlled Carbon Pools 
+8.1.1.1  PP1/BP1 – PP7/BP7 Live and Dead Forest Carbon Pools (Excluding Harvested Wood 
+Products) 
+The procedures set out in this section apply to the following carbon pools for both the project and 
+baseline scenarios: 
+• 
+PP1/BP1 Above-ground tree biomass (Standing Live Trees) 
+• 
+PP2/BP2 Above-ground non-tree biomass (Shrubs and Herbaceous Understory) 
+• 
+PP3/BP3 Below-ground biomass (Live Roots) 
+• 
+PP4/BP4 Dead wood (Standing Dead Trees) 
+• 
+PP5/BP5 Dead wood (Lying Dead Wood) 
+• 
+PP6/BP6 Litter (Litter & Forest Floor) 
+• 
+PP7/BP7 Soil carbon (Soil) 
+Pools that are required to be quantified is dependent on which pools are identified by project 
+proponents as relevant based on the requirements contained in Section 5.2.  The approaches 
+used to quantify these pools, as described in Section 5.2, do not necessarily need to treat each 
+pool separately, use the categories listed above, or report results separately for each pool.  
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+39 
+However, any such approach must be able to show that the components of forest carbon 
+included in the definitions of each relevant pool were assessed as part of the approach used.  
+8.1.1.1.1 Quantification Approach and Associated Uncertainty 
+Measurement of carbon pool changes may be done in two ways: 
+• 
+Periodic direct measurement by sampling coupled with assumptions or models used to 
+convert the measured forest biomass into amount of stored carbon (option A, below); or 
+• 
+Projection of project area inventories, disturbance events and stand types using suitable 
+stand level growth and/or carbon models, with some minimum amount of periodic direct 
+observation (option B, below).   
+Option A may provide precision for projects on single stands or simple forest estates, whereas 
+Option B may be more effective for complex forest estates characterized by a diversity of stands, 
+treatments, and disturbances as direct measurement of baseline forest carbon is typically not 
+possible since the project occurs instead of the baseline. Therefore, the project scenario may 
+utilize Option A while the baseline scenario must be assessed using Option B.   
+Option A: Field Sampling Method (Direct Measurement): 
+When using this approach, project proponents must: 
+• 
+Stratify the project area to produce strata which are relatively homogenous in terms of 
+carbon content and structure/process.  Strata may be different for different pools.  For 
+instance the stratification for soil may not be the same as that for standing live trees.  
+Stratification may also be different for the baseline and project scenarios.  For REDD 
+projects, baseline stratification must take into account factors which may tend to drive the 
+location and timing of land use and land cover change.  These factors may result in 
+different strata than would be arrived purely on ecological grounds.  For instance, 
+accessibility may determine that some areas would be developed, while others would not, 
+even if ecologically the areas are similar. 
+• 
+Map, and calculate the total area of, each stratum. 
+• 
+Conduct sampling using VRI21, DIF22 or NFI23 standards for conducting field sampling and 
+forest inventories, or appropriate VCS modules for the pool in question. 
+• 
+Ensure that the sampling is supervised by a qualified registered professional. 
+ 
+21 Change Monitoring Inventory Ground Sampling Quality Assurance Standards and (2002) Change 
+Monitoring Inventory Ground Sampling Quality Assurance Procedures, 
+www.for.gov.bc.ca/hts/vri/standards/index.html  
+22 Quebec’s norms for the implementation of permanent monitoring plots, developed by the Forestry 
+Inventory Directorate. https://www.mffp.gouv.qc.ca/publications/forets/connaissances/Norme-PEP.pdf  
+23 Canada’s National Forest Inventory National Standard for Establishment of Ground Plots.  
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+40 
+• 
+Choose sample plot locations and numbers using a justified statistically valid approach 
+appropriate for the project site (eg, that reflects any site stratification, etc.).   
+• 
+Ensure that sampling approaches are comparable each time sampling is done.  
+Preferably, the same sampling methods are used during each sampling event.  However, 
+where changes in technology or standards make new sampling methods preferable, the 
+new sampling methods must be calibrated to ensure that they produce results consistent 
+with those produced by the previous method. 
+Results of the sampling must be converted into amounts of stored carbon in relevant forest 
+carbon pools using a forest carbon model (see Section 8.2.1.1.2).  The areas of the strata and the 
+sampled results for the pools are the inputs for the forest carbon model, replacing the results of 
+the growth and yield and forest estate and landscape dynamics models used in Option b). 
+To manage associated uncertainty and ensure that results are conservative, field sampling must 
+be conducted at minimum once every ten years, including at the start of the project and at the 
+end of the project.  While forest sampling is not required in each reporting period, modelled 
+results must be updated to accurately reflect other activities conducted and monitored during the 
+reporting period (eg, harvesting activities, fertilizer use, burning, etc.), as well as other relevant 
+factors identified as affecting the project and baseline (eg, pests, disease, etc.). 
+When sampling is conducted, results must be used to re-calibrate modeling outputs.24 
+As noted above, sampling locations and intensities must be determined using a justified 
+statistically valid approach appropriate for the project site. Where the width of the 90 percent 
+confidence interval of the sampled data exceeds +/-10% of the estimated value, the amount that 
+the calculated confidence interval is greater than +/- 10% must be added to the average (in the 
+case of the baseline scenario), or subtracted from the average (in the case of the project 
+scenario), and the resulting number used in quantification of carbon in the sampled carbon pool. 
+Methods used for estimating uncertainty must be based on recognized statistical approaches 
+such as those described in the IPCC Good Practice Guidance and Uncertainty Management in 
+National GHG Inventories. This approach will discount the amount of carbon stored in project 
+pools where the amount of sampling is not sufficient to address a site’s inherent variability / non-
+homogeneity.  Where more sampling is undertaken, the difference between the lower bound of 
+the 90% confidence limit and the sample mean must diminish, minimizing the discount applied to 
+the project.   
+ 
+24 VCS has internal modalities for dealing with credit issuance, buffers, etc., which do not need to be detailed 
+in a methodology.  The sentence “If it is determined that reporting based on modeled results in years 
+between field sampling led to over crediting of the project, then the proponent must retire or replace any 
+credits issued in excess of what has actually been achieved to date.” has thus been removed from this 
+version of FCOP. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+41 
+For sites with significant stratification, it may be appropriate for the proponent to sample each 
+stratum separately, and then combine results using appropriate statistical methods to generate a 
+result representative of the overall project area.  In this way, it may be possible to achieve a given 
+lower (or upper) 90% confidence limit with less sampling than would be needed if the entire 
+project area were sampled as a whole. 
+In converting sampling results to amount of forest carbon, uncertainty associated with 
+assumptions or carbon models used must be considered and managed in a way that ensures a 
+conservative result.  In the case of carbon model uncertainty, the requirements provided below in 
+the section on the Inventory / Modelling Method would apply. 
+Note that where reporting is conducted more frequently than field sampling, verifiers will still need 
+to conduct a site audit as part of each verification. 
+Where Option A is chosen, it can be used to quantify project forest carbon pools at project 
+commencement, as well as after project commencement under the project scenario.  
+Quantification of baseline forest carbon pools for times after project commencement will still 
+require some use of the modelling methods described in Option B, below, since the baseline is 
+necessarily a hypothetical case. 
+Option B: Inventory / Modelling Method (Indirect Linkage) 
+While rigorous re-measurement of field conditions typically provides more precision than modeled 
+projections, for large and diverse forest estates (or in some cases small but remote projects) 
+intensive sampling may be prohibitively expensive.  For diverse project areas, modelling forest 
+carbon changes for each stand, or for stratified groupings of similar stands, over time with 
+amalgamation of results across the project land base may provide sufficiently accurate estimates 
+without intensive field sampling.  This approach is based on tracking and verification of the timing 
+and extent of any project activities, along with some minimum level of field measurement at the 
+project site, though the type and level of measurement would be determined by project 
+proponents (see below for further details).  
+NFI data and statistically valid ground sample data, will be used as the base inventory for project 
+development. Additionally, VRI data may be used for projects located in the province of BC, and 
+DIF data may be used for projects located within the province of QC. At each reporting period, 
+proponents must update projections for any disturbances that have occurred on the land base 
+(harvesting etc.) and based on the results of any sampling that is conducted.  Accuracy 
+assessments and quality assurance associated with these three datasets are currently available 
+and updated on an ongoing basis.  Project proponents are required to use the best available 
+inventory data available at project reporting intervals.  Where the project start date is later than 
+the date that the VRI datasets were last updated, the models being used for the project must be 
+used to project forest carbon forward to the start date of the project using assumptions for 
+baseline pre-project forest management practices, and that result must be used as the basis for 
+assessing starting carbon levels in the project and baseline. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+42 
+To manage the associated uncertainty and ensure that results are conservative, the following 
+requirements must be met: 
+• 
+As noted above, some minimum level of field measurement at the project site is required 
+even where a project proponent is relying primarily on modelled results, to assist with 
+minimizing the uncertainty associated with modeling, especially over time.  The type and 
+level of measurement is to be determined by project proponents.  However, the type and 
+level of measurement must be reflected in an overall assessment of uncertainty prepared 
+by project proponents.  Such field measurement must be conducted at least once every 
+ten years, to align with the requirements given in the section on the field sampling 
+method, above. 
+• 
+In assessing the overall uncertainty of the forest carbon pool quantification approach, 
+project proponents must conduct a sensitivity analysis of modelled results to determine 
+the key potential sources of uncertainty and then evaluate the uncertainty associated with 
+those sources.  During this process, any field measurements conducted and their impact 
+on associated model uncertainty must be considered. 
+• 
+Based on the results of this uncertainty assessment, the proponent must justify an 
+appropriate approach to managing uncertainty that will ensure that reported changes in 
+forest carbon pools between project and baseline are conservative. 
+• 
+When sampling is conducted, results must be used to re-calibrate model results.25  
+8.1.1.1.2 Selection of Appropriate Models 
+There are three main functions for models that are used for producing estimates of forest carbon 
+values, which may be performed by linking two or more models or with a single integrated model: 
+1. Growth and yield models: estimate values for existing and projected tree volume and 
+other characteristics (eg, diameter at breast height) given starting conditions and site 
+characteristics.  The growth and yield models shown in Table 7A and 7B are commonly 
+used in British Columbia and Quebec, respectively, and are recommended for use by 
+project proponents in these provinces. 
+The proponent has the option of using the below suggested models or other justified 
+models.  If growth and yield model(s) are selected for estimating yields, any project-
+specific parameters / variables used by any selected model(s) must be independently 
+validated for appropriateness and consistency throughout the project (note, this does not 
+preclude a project from using different models for different parts of their project area, as 
+ 
+25 VCS has internal modalities for dealing with credit issuance, buffers, etc., which do not need to be detailed 
+in a methodology.  The sentence “If it is determined that reporting based on modeled results sampling led to 
+over crediting of the project, then the proponent must retire or replace any credits issued in excess of what 
+has actually been achieved to date.” has thus been removed from this version of FCOP. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+43 
+long as the approach taken in any given part of the project area is consistently applied). It 
+is also the proponent’s responsibility to justify or reconcile the differences of volume 
+estimates that may arise between/within models, and the differences between model 
+estimates and field measurements in Section 8.1.1.1.1.     
+Table 7A: Commonly Used Growth and Yield Models in BC 
+Model name 
+Range of applicability 
+Geographic/biogeoclimatic 
+area* 
+Stand types 
+TASS26  
+Province-wide  
+Second growth, simple stands  
+TIPSY27  
+Province-wide  
+Second growth, simple stands  
+VDYP28  
+Province-wide  
+Natural stands  
+PrognosisBC29  IDF, ICH, ESSF, MS  
+Existing mixed species, complex 
+stands  
+Sortie-ND30  
+SBS, ICH (north-west) 
+Mixed species, complex stands, 
+MPB areas 
+* IDF = Interior Douglas Fir  ; ICH = Interior Cedar-Hemlock ; ESSF = Engelmann 
+Spruce-Sub alpine Fir ; MS = Montane Spruce  ; SBS = Sub-Boreal Spruce  ; ICH (north-
+west) = Interior Cedar-Hemlock 
+Table 7B: Commonly Used Growth and Yield Models in QC 
+Model 
+name 
+Range of applicability 
+Geographic/biogeoclimatic 
+area* 
+Stand types 
+Natura31 
+Province-wide  
+Existing mixed stands, simple 
+stands  
+Artemis32 
+Province-wide  
+Existing mixed stands, simple 
+stands  
+ 
+26 Tree and Stand Simulator.  See http://www.for.gov.bc.ca/hre/gymodels/tass/index.htm for further details. 
+27 Table Interpolation Program for Stand Yields.  See http://www.for.gov.bc.ca/hre/gymodels/TIPSY/ for 
+further details. 
+28 Variable Density Yield Prediction.  See http://www.for.gov.bc.ca/hts/vdyp/ for further details. 
+29 See http://www.for.gov.bc.ca/hre/gymodels/progbc/ for further details 
+30 See http://www.bvcentre.ca/sortie-nd for further details. 
+31 See ftp://ftp.mrn.gouv.qc.ca/Public/Drf/CAPSIS/Natura-2014/ for further details  
+32 See ftp://ftp.mrn.gouv.qc.ca/Public/Drf/CAPSIS/ARTEMIS-2014/ for further details  
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+44 
+ 
+2. Forest estate and landscape dynamics models: project forest dynamics over time 
+across large areas due to management and/or natural processes. May be used for 
+identifying sustainable harvest levels in a timber supply analysis, for modelling natural 
+disturbances (eg, fire, mountain pine beetle), etc. Use growth and yield as inputs, among 
+others, such as geospatial inventory attributes. 
+Some forest estate and landscape dynamics models that have been used in British 
+Columbia and are recommended for consideration by project proponents within BC 
+include FSSAM33, FSOS34, FSSIM35, Patchworks36, SELES-STSM37, CASH638, 
+Woodstock/Stanley39, and LANDIS-II40.  
+3. Ecosystem carbon projection models: project changes in carbon stocks in various 
+pools, as well as some emissions sources from forestry operations, over time given initial 
+conditions (eg, inventory), growth and yield data and projected disturbance events.  
+Some ecosystem carbon projection models that have been used in British Columbia and 
+recommended for consideration by project proponents include CBM-CFS3 (Kurz et al. 
+2009)41 and FORECAST (Kimmins et al., 1999)42. CBM-CFS3 is used for national-level 
+and forest management unit-level forest carbon accounting in Canada. FORECAST has 
+also been calibrated for use in B.C.  Both of these models have been parameterized 
+using field data from B.C. forest ecosystems. 
+Ecosystem carbon model developers must provide evidence that the models have been 
+calibrated for the ecosystems and management regimes found in the project area.  Such 
+calibration must include results from relevant current peer reviewed research on carbon 
+dynamics in the ecosystem(s) in question.  Data on the calibration data set used must 
+include statistical confidence interval estimates for the model outputs. Where such 
+calibration has not occurred, and where existing peer reviewed data which can be used 
+to calibrate the model is not found, field measurements will be needed to initially calibrate 
+ 
+33 Forest Service Spatial Analysis Model: http://www.barrodale.com/bcs/index.php/timber-supply-model  
+34 Forest Simulation and Optimization System: http://www.forestecosystem.ca/technology_fsos.html  
+35 Forest Service Simulator: http://www.cortex.org/case-mana-case17b.html  
+36 http://www.spatial.ca/ 
+37 Spatially Explicit Landscape Event Simulator: http://www.seles.info/index.php/Main_Page  
+38 Critical Analysis by Simulation of Harvesting version 6.21, Timberline Natural Resource Group Ltd.  
+39 http://www.remsoft.com/  
+40 See http://www.landis-ii.org/ for further details. 
+41 Kurz, W.A., C.C. Dymond, T.M. White, G. Stinson, C.H. Shaw, G.J. Rampley, C. Smyth, B.N. Simpson, 
+E.T. Neilson, J.A. Trofymow, J. Metsaranta, and M.J. Apps 2009. CBM-CFS3: A model of carbon-dynamics 
+in forestry and land-use change implementing IPCC standards. Ecological Modelling 220: 480–504. 
+42 See http://www.forestry.ubc.ca/ecomodels/moddev/forecast/forecast.htm for further details. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+45 
+the model. Plot or other data for calibration must be gathered using sound and reliable 
+measurement methods consistent with VRI43, EFI44 or NFI45 standards, or methods 
+contained in validated VCS modules.  In cases where model calibration has been 
+completed, but confidence intervals are still wide (>+/- 10% of the mean value at 90% 
+confidence), proponents must consider the possibility of undertaking field work to reduce 
+confidence intervals. 
+The above lists of recommended models  may be used as a guideline when deciding which 
+modeling approach to use.  Each model has its own advantages and limitations (eg, some growth 
+and yield models can capture the effects of fertilization, some forest estate and landscape 
+dynamics models can integrate with the timber supply review process, some carbon projection 
+models are capable of modeling certain aspects of landscape dynamics). The proponent must 
+justify why a particular model is used and how precisely models are linked (ie, what information is 
+passed between different models in the overall approach). 
+Other models may also be suitable for use by projects in any province in Canada.  If other models 
+are used, they must be justified by considering the appropriateness of the selected models versus 
+models recommended above, considering project-specific circumstances.  Proponents must pay 
+special attention to justifying the use of alternative models rather than the recommended models 
+listed above. In addition, any selected alternative model must meet the following minimum 
+requirements: 
+• 
+The model is scientifically sound, and has been peer reviewed in a process that: (i) 
+primarily involved reviewers with the necessary technical expertise (eg,, modeling 
+specialists and relevant fields of biology, forestry, ecology, etc.), and (ii) was open and 
+rigorous; 
+• 
+The model is based on empirical evidence, and has been parameterized and validated 
+for the general conditions of the project land area; 
+• 
+Application of the model is limited to the scope for which the model was developed and 
+evaluated; 
+• 
+The model’s scope of application, assumptions, known equations, data sets, factors or 
+parameters, etc., are clearly documented; 
+ 
+43 Change Monitoring Inventory Ground Sampling Quality Assurance Standards and (2002) Change 
+Monitoring Inventory Ground Sampling Quality Assurance Procedures, 
+www.for.gov.bc.ca/hts/vri/standards/index.html 
+44 Quebec’s Ecoforestry Inventory (l’inventaire écoforestier du Québec ) https://mffp.gouv.qc.ca/les-
+forets/amenagement-durable-forets/inventaire-ecoforestier/  
+45 Canada’s National Forest Inventory National Standard for Establishment of Ground Plots. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+46 
+• 
+The models must provide accurate modelling of time dependent parameters such as 
+decay, below ground biomass and soil carbon changes, etc.  The model must not 
+assume that such changes take place instantaneously or within a short period of time. 
+Regardless of whether a recommended model or alternative model is selected, project 
+proponents must justify the selection by indicating how the selected model is the best choice for 
+modeling the range of activities, conditions and other relevant site-specific details included in both 
+the project and baseline scenario in comparison to other options available, and by considering the 
+approaches and assumptions used in the various models. 
+Where an existing model meeting the above requirements is modified based on localized, project 
+area-specific considerations, several factors must be considered by the proponent and 
+rationalized to the audior: 
+1. The amount of peer reviewed empirical data behind the model in use – specifically 
+around the stand types and treatments/responses being contemplated in the project. 
+2. The evidence to support any cause/effect relationships altered in, or added to, the project 
+scenario.  For example, if fuel reduction treatments are proposed to reduce stand 
+replacing fire severity or extent, the evidence behind modeling assumptions must be 
+presented and its degree of uncertainty described. 
+3. The need to put in place field based data collection and/or monitoring where models or 
+data are insufficient to provide credible, reliable predictions according to BC Ministry 
+published standards (VRI)46 or the Quebec Forest Inventory Directorate (DIF)47 for 
+projects within BC or QC, respectively. 
+4. The need for more conservative estimates of carbon change is necessary as data 
+certainty decreases.  
+Gaming or exploiting differences between models in project planning is not acceptable.  
+8.1.1.1.3  Estimating Harvest Flow for Ex-Ante Modelling of Carbon Pools 
+The following requirements apply to estimating harvest flow on Crown land.  Note that these 
+requirements apply to estimating harvest flow, not to determining harvest volumes based on 
+monitored harvest data.  During the crediting period, project harvest data is to be monitored, and 
+where comparison-based baselines are used monitoring of baseline harvest data will also be 
+possible.  In other cases, including preparation of pre-project estimates, these requirements will 
+apply. 
+ 
+46 Vegetation Resources Inventory Guidelines for Preparing a Project Implementation Plan for Ground 
+Sampling and Net Factor Sampling.  www.for.gov.bc.ca/hts/vri/standards/index.html 
+47 http://mffp.gouv.qc.ca/les-forets/inventaire-ecoforestier/ 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+47 
+For non-Crown land, proponents must develop and justify an approach appropriate for their 
+project, and subject to requirements detailed elsewhere in this methodology (eg, Section 7).  
+For Crown land, estimating sustainable harvest flows for the baseline and project scenarios must 
+be done in accordance with timber supply analysis standards commonly used by Forest Analysis 
+and Inventory Branch in Timber Supply Reviews in the case of projects within BC and in 
+accordance with timber supply analysis standards used by the Forestier en Chef in the case of 
+projects within QC.  Timber supply projection must be generated using methods that are 
+repeatable and not overly dependent on the tool or model used. Specifically: 
+1. The long-term level must be sustainable, as indicated by a stable total growing stock; 
+2. Any declines in harvest levels in the early to mid-term must be no more than 10% per 
+decade; 
+3. Any “dip” in timber supply in the mid-term below that long-term level must be minimized; 
+4. Current AAC (allowable annual cut or “possibilité forestier” in Quebec)  level must be 
+maintained in the short term if possible, while being consistent with the previous 
+principles.  If the current AAC cannot be achieved while meeting the other principles, 
+such as maximum 10% per decade rate of decline and maintaining the maximum mid-
+term level, project documentation must describe why.  Such an explanation may simply 
+be that any increase above the timber supply levels shown in the forecasts would result 
+in disruption in the forecast during the specified time period [note: this does not mean that 
+the AAC must be used as the sole basis for harvest flow – as detailed in Section 7, other 
+information (eg, historic harvesting levels, etc.) must also be considered to ensure that 
+the assessed harvest flow is conservative]. 
+In the above, short, medium and long-term have the following meanings: 
+• 
+Long-term – usually a period starting from 60 to 100 years from now, and is the time 
+period during which the projected harvest level is at the sustainable long-term level 
+(which in turn is defined as the level that results in a flat total growing stock over the long 
+term). 
+• 
+Short-term – the first 20 years of the forecast. 
+• 
+Mid-term – the time period between the short and long terms. 
+The same methodology for deriving the harvest flow must be used for ex-ante modelling of 
+carbon pools under both the baseline and the project scenarios, and the specific method must be 
+documented (including quantities such as maximum allowable inter-period change in long-term 
+growing stock in determining the long-term sustainable level and the inter-period change in 
+projected timber supply level). 
+8.1.1.1.4 Modelling PP7/BP7 Soil 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+48 
+Where soil carbon is a mandatory relevant carbon pool or is selected as an optional carbon pool 
+by the proponent, the proponent must ensure that either: 
+• 
+The forest carbon models employed have the capability to quantify changes in soil 
+carbon between the project and baseline over time, or  
+• 
+An appropriate approach for assessing soil carbon (whether field sampling-based or 
+modelling-based) is selected and paired with the selected forest carbon models. 
+A project proponent must justify their selection of a soil carbon quantification method, considering 
+the specific details of the project and baseline.  For the selected approach, the proponent must 
+indicate how the approach will result in a conservative assessment of the change between project 
+and baseline, considering the associated uncertainty.  The approach used must include the use 
+of some level of field measurement at the project site at a frequency consistent with the 
+requirements for assessing other forest carbon pools as described later in this methodology (ie, at 
+least every ten years), to help ensure the project-specific accuracy of any modelling that may be 
+used.  The extent of field measurement employed may be determined by project proponents, but 
+will naturally have a bearing on the uncertainty associated with the quantification approach that 
+must also be managed.  Soil carbon must be assessed through the full site-specific soil profile. 
+In cases of large uncertainty or where uncertainty cannot be effectively managed, and where soil 
+carbon is an optional pool in Table 5, this carbon pool may be deemed not relevant. 
+8.1.1.1.5  Quantifying Loss Events 
+While carbon is continually cycling in and out of a forest due to growth and decay processes, 
+other natural and human-induced events can cause unexpected losses of stored carbon to occur 
+on relatively short timescales.  Carbon that is lost in this manner less than 100 years after being 
+initially removed from the atmosphere does not have an atmospheric effect that will endure for at 
+least 100 years, as required by the BC EOR.  Examples include natural losses due to fire, pest, 
+disease, etc., and human-induced losses due to legal and illegal harvesting activities, arson, 
+negligence, etc. 
+For the purposes of this methodology, the term loss refers to significant disturbances that are not 
+anticipated based on the anticipated carbon fluxes for the project area.  Disturbances and 
+harvesting that are anticipated to occur on a predictable basis for the project area must be 
+included within the modeling of the project and baseline.  This will be particularly appropriate for 
+smaller disturbances that might be difficult to detect through regular project monitoring.  Care 
+must be taken by project proponents to ensure that the impact of a disturbance is not double 
+counted (which could occur where the disturbance has been factored into models as well as is 
+monitored and reported separately). 
+Project proponents must monitor for natural and human-induced loss events, and when detected 
+assess and report on the impact of the event in the next project report prepared for the project.  
+Assessment of the impact of a loss must be consistent with the same field sampling, modeling, 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+49 
+and quantification procedures employed by the project for assessing project and baseline 
+emissions and removals. 
+When assessing the impact of a particular loss event, one of two approaches is to be taken: 
+1. For natural losses that would have also affected the baseline: 
+The impact of the loss on forest carbon must, in addition to being assessed for the project, also 
+be modeled for the baseline (except where the baseline is non-forest land such as in ARR or 
+REDD where the baseline is 100% deforestation).  Such modeling must draw on observations of 
+the type and extent of loss experienced by the project, as well as assumptions regarding the 
+baseline scenario.  In preparing this baseline assessment, project proponents must demonstrate 
+how the assessment is conservative (ie, does not overstate the impact of the loss event on the 
+baseline) in order to manage the inherent uncertainty of predicting the impact of a particular loss 
+event on a hypothetical baseline scenario. 
+Note that this approach of modeling the impact of loss events on the baseline is not a common 
+approach taken in existing forest carbon methodologies, , but it is considered the most accurate 
+and appropriate approach to events that would reasonably be expected to affect both the project 
+and baseline. 
+2. For human-induced losses or natural losses that would not have affected the baseline: 
+The impact of the loss is to be assessed for the project only.  Note that for legal harvesting 
+activities controlled by project proponents, a portion of the harvested forest carbon may be 
+transferred to HWP pools according to the HWP methodologies described in Section 8.1.1.2. 
+Where the net impact of the loss event and other forest SSRs is that the project emission 
+reductions and removal enhancements are less than baseline emission reductions and removal 
+enhancements for that reporting period, the event is called a “reversal”.  
+8.1.1.2  PP8/BP8 & PP9/BP9 Harvested Wood Products (In use and in landfill) 
+The methodology recognizes that significant portions of Canadian forest products are now 
+exported for end use outside of North America.  The method thus now contains methods for 
+calculating C quantities in the HWP pool for both North America and offshore uses.  Emission 
+curves for both North American and offshore use, as well as for standard product mixes, or 
+custom product mixes tailored to the specific project are provided.  Project proponents must 
+ensure that they include in their project calculations any changes which may have been made to 
+these factors as a result of this re-assessment. 
+The methods described in this section apply to the following carbon pools for both the project and 
+baseline: 
+• 
+PP8/BP8 Harvested Wood Products in use 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+50 
+• 
+PP9/BP9 Harvested Wood Products in landfill 
+Given the linkage between carbon stored in the in-use and landfill pools, they will be quantified 
+below as part of a single overall approach. 
+This methodology recognizes that carbon storage can be achieved in harvested wood products 
+(HWPs).  However, since a portion of the carbon initially stored in HWPs is known to be lost over 
+time, the approach presented here involves assessing the amount of wood product carbon that is 
+lost at various stages along the HWP lifecycle. The methodology uses separate data sets to 
+estimate retention of HWP carbon pools for HWPs in North America, and in the rest of the world. 
+Note: harvest flow for both project and baseline must be developed in accordance with the 
+requirements stipulated in Section 8.1.1.1.3. 
+The proponent may choose one of the following two approaches for quantifying HWP storage: 
+1. Default approach – standard HWP mixes for both North American and offshore HWP 
+utilization. 
+Using this approach, in-use and in-landfill storage is based on standard product mixes for 
+North American and offshore markets.  This approach allows project proponents to 
+calculate HWP Pools and related methane emissions (calculated in section 8.1.2.11) 
+using standard tables. 
+The default approach is described in detail in Figure 2 below.   
+ 
+ 
+v3.3                                                                                                                                                                                             
+ 
+ 
+51 
+Figure 2: Harvested Wood Product Lifecycle  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+forest 
+timber 
+harvest 
+raw logs 
+sawmill 
+pulp mill 
+newsprint 
+newspapers 
+lumber 
+homes 
+landfill 
+HARVESTING 
+PRODUCTION 
+IN-USE 
+DISPOSAL 
+Harvesting 
+Losses Left in 
+Forest 
+CO2 + CH4N20 
+Residuals 
+Combustion & 
+Aerobic Decay 
+Shorter In-
+Use Half-Life 
+Longer In-
+Use Half-life 
+Re-use & 
+Recycle 
+Recycle 
+CO2  CH4  N20 
+Residuals 
+Combustion & 
+Aerobic Decay 
+CO2 
+Anaerobic 
+Decay 
+CO2  CH4  
+N20 
+CH4 
+Anaerobic 
+Decay 
+CO2 
+CH4 
+% Collected & 
+Destroyed 
+% Oxidized 
+by Cover 
+% Not 
+Collected 
+Long-Term 
+Carbon Storage 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+52 
+2. Optional advanced approach – project specific HWP mixes. 
+This approach allows the proponent to calculate HWP pools using the same factors and 
+methods as those used in the default approach, but tailored to the specific product mix.  
+Use of this approach requires the availability of good historical data on wood delivery by 
+mill type (for North American use) or wood product end use (for offshore use) for wood 
+sourced from within the project area, as well as projections of future wood product 
+processing and end use that can be validated.  This data is more likely to be available for 
+North American markets than for offshore markets, and it is permissible to use this 
+approach for wood used in North America only, while using the default approach for wood 
+used offshore. 
+Based on this lifecycle diagram, assessment of the amount of carbon stored in HWPs in-
+use and in landfill over a 100-year period must consider the following: 
+i. 
+Amount of carbon removed from the forest in harvested wood (net of on-site 
+harvesting losses); 
+ii. 
+Amount of carbon lost during production of wood products (eg, at the sawmill, 
+during the pulp & paper process, etc.) and assumed combusted (and emitted as 
+CO2 with minor amounts of CH4 and N2O) and/or otherwise aerobically lost to the 
+atmosphere as CO2; 
+iii. 
+Amount of carbon in primary HWPs that remains in-use over the 100-year period; 
+iv. 
+Amount of carbon in primary HWPs that does not remain in use for the full 100-
+year period but that is at some point: 
+• 
+Combusted and emitted as CO2 with minor amounts of CH4 and N2O) and/or 
+otherwise aerobically lost to the atmosphere as CO2, or 
+• 
+Sent to landfill, and: 
+§ 
+Retained over the 100-year period (non-degradable portion of the 
+HWP and the part of the degradable portion that has not had 
+sufficient time to degrade) 
+§ 
+aerobically or anaerobically decays to CO2 and CH4 and is lost to the 
+atmosphere in various ways (the part of the degradable portion of the 
+HWP that has had sufficient time to degrade). 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+53 
+For HWPs in use in North America, quantification of these processes has been conducted by 
+Dymond48 with some data from Skog et al49, quantifying carbon storage in HWPs in use, and in 
+landfills and dumps, for British Columbia forest products. In the case of Quebec, the model 
+proposed by Dymon (2012) has been used including QC provincial data to adjust the results for 
+projects within the province. In order to determinate default values for other provinces, project 
+proponents may use one of the following options: 
+1. Use the procedure proposed by  Dymond (2012), replacing data sources from BC with 
+appropriate data from the provinces where the project will be carried out. The choice and 
+appropriateness of these data as well as its sources must be justified during validation by 
+the project proponent. The project proponent must also justify during validation the 
+rightness and the transparency of calculation during the project validation process. 
+2. Use other models that may be considered as suitable to determinate HWP default values 
+required by the methodology. If other model is used, the project proponent must justify its 
+choice by considering the appropriateness of the selected models versus the model 
+recommended above, considering project-specific circumstances. In addition, any 
+selected alternative model must meet the following minimum requirements: 
+§ 
+The model must be scientifically sound, and must have been peer reviewed in a 
+process that primarily involved reviewers with the necessary technical expertise; 
+§ 
+The model must have been parameterized and validated for the general conditions 
+of the province were the project will be implemented; 
+§ 
+The model’s scope of application, assumptions, known equations, data sets, 
+factors or parameters, etc., must be clearly documented. 
+For HWP in use offshore, Winjum et al50 provides general use and decay factors for developing 
+world markets. 
+These two sources have been used to develop the figures given in Tables 9A, 9B and 11 below. 
+Default Approach 
+Using these two sources, quantification of the harvested wood product pool using the default 
+approach is calculated using the following steps: 
+1. Calculate or estimate volume of roundwood delivered to the mill (or exported), from the 
+project area, by species, year and wood product destination (NA or offshore).  Harvest 
+ 
+48 Caren C. Dymond, Forest carbon in North America: annual storage and emissions from British Columbia’s 
+harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012.   
+49 K.E. Skog, Sequestration of carbon in harvested wood products for the United States, Forest Products 
+Journal 58:6, 2008. 
+50 Jack K. Winjum, Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: 
+Sources and Sinks of Atmospheric Carbon Dioxide, Forest Science 44:2, 1998. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+54 
+flow for both project and baseline must be developed in accordance with the 
+requirements stipulated in Section 8.1.1.1.3.  Volumes must be for wood only (not 
+including bark). 
+2. For each year, and location of use, convert volumes to tonnes of dry biomass, using 
+equation 2, and the standard wood density figures given in Table 8A and 8B. 
+Tonnes of dry biomass in delivered roundwood per year, by wood product destination. 
+ 
+ 
+Equation 2 
+RWbiomass!,# = ∑(Vol$,!,#  × wd$
+$
+) 
+ 
+ 
+[2] 
+Where: 
+Parameter 
+Description 
+Default Value 
+RWbiomassy,d 
+The dry mass of the delivered roundwood extracted from the project 
+area in year y, for each wood product destination d (North America 
+or offshore).  Expressed in t. 
+N/A 
+Vols,y,d 
+The volume of delivered roundwood of species or group of species s 
+for each wood product destination d, extracted from the project area 
+in year y.  Expressed in m3. 
+N/A 
+wds 
+The wood density for species or group of species s, from tables 8A 
+and 8B51. Expressed in t/m3. 
+Given in tables 
+8A and 8B 
+ 
+Table 8A: BC-specific wood density (wd) for oven-dry roundwood to convert from inside-bark 
+harvested (green) volume (m3) to mass – Derivation detailed in Appendix D. 
+BC Species or genus 
+Wood density to 2 
+significant figures52 (t m-3) 
+Red alder (Alnus rubra) 
+0.37 
+Trembling aspen (Populus tremuloides) 
+0.38 
+Western red cedar (Thuja plicata) 
+0.32 
+ 
+51 Where new data of wood density is provided at validation for provinces other than BC or Quebec, the 
+project proponent must justify these data as well as it sources and demonstrate that they are correct and 
+applicable to the project in the context of the province were the project activity is being developed. During 
+the validation the project proponent need to demonstrate that these data result in a conservative estimate. 
+52 Values after J.S. Gonzalez. Wood density of Canadian tree species. Edmonton: Forestry Canada, 
+Northwest Region, Northern Forestry Centre,1990, Inform. Rept. NOR-X-315. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+55 
+Yellow cypress (Chamaecyparis nootkatensis) 
+0.42 
+Douglas-fir (Pseudotsuga menziesii) 
+0.44 
+True firs (Abies spp.)53 
+0.35 
+Western hemlock (Tsuga heterophylla) 
+0.42 
+Western larch (Larix occidentalis) 
+0.50 
+Lodgepole pine (Pinus contorta)  
+0.41 
+Ponderosa pine  (Pinus ponderosa) 
+0.41 
+Spruce (Picea spp.)54 
+0.36 
+Sitka spruce (Picea sitchensis) 
+0.35 
+ 
+Table 8B: QC-specific wood density (wd) for oven-dry roundwood to convert from inside-bark 
+harvested (green) volume (m3) to mass – Derivation detailed in Appendix D. 
+QC Species or genus 
+Wood density to 2 
+significant figures55 (t m-3) 
+Abies spp 
+0.40 
+Acer spp 
+0.52 
+Alnus spp 
+0.45 
+Betula spp 
+0.51 
+Fagus grandifolia 
+0.60 
+Fraxinus spp 
+0.57 
+Juglans spp 
+0.53 
+Larix laricin 
+0.44 
+Picea glauca  
+0.34 
+Picea mariana 
+0.44 
+Picea rubra 
+0.44 
+ 
+53 The trees known in BC as “balsam” are true firs 
+54 Spruce includes Engelmann Spruce, White Spruce, and Hybrid Spruce. 
+55 Values after J.S. Gonzalez. Wood density of Canadian tree species. Edmonton: Forestry Canada, 
+Northwest Region, Northern Forestry Centre,1990, Inform. Rept. NOR-X-315. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+56 
+Pinus baniksiana 
+0.40 
+Pinus resinosa 
+0.38 
+Pinus strobus 
+0.32 
+Pinus sylvestris 
+0.42 
+Populus spp 
+0.35 
+Prunus spp 
+0.49 
+Quercus spp 
+0.58 
+Salix spp 
+0.45 
+Thuja occidentalis 
+0.30 
+Tilia 
+0.43 
+Tsuga 
+0.42 
+Ulmus 
+0.65 
+ 
+3. Convert tonnes of biomass to tonnes of CO2, for each year, using equation 3. 
+Tonnes of CO2 in delivered roundwood for year y 
+Equation 3 
+G_HWPCO2!,# = RWbiomass!,# × CF%& × (44/12) 
+ 
+[3] 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+G_HWPCO2y,d 
+The mass of CO2 in delivered roundwood extracted from the project 
+area in year y, for each wood product destination d (North America 
+or offshore).  Expressed in tCO2 
+N/A 
+RWbiomassy,d 
+The dry mass of the delivered roundwood extracted from the project 
+area in year y, for each wood product destination d (North America 
+or offshore).  Unit of measure: t (See Equation 2) 
+N/A 
+CFRW 
+Carbon fraction of roundwood dry mass, dimensionless. 
+0.5 
+44/12 
+Molecular weight ratio between carbon dioxide and carbon, 
+dimensionless. 
+44/12 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+57 
+4. Calculate the total GHGs (in tonnes CO2e), remaining in HWPs in use and in landfills, at a 
+given time t, using equation 4. 
+ 
+Total GHGs remaining in HWPs derived from the project area up to time t 
+ 
+Equation 4 
+GHG!"#,%&',( = ∑
+(G_HWPCO2),*+ 
+),(
+× HWPf*+,(-) + G%&'!"#)," × HWPf",(-))   [4] 
+Where: 
+Parameter 
+Description 
+Default 
+Value 
+GHGCO2, HWP, t 
+Mass of CO2 stored in project or baseline HWPs up to 
+time t.  Expressed in tCO2e 
+N/A 
+G_HWPCO2y,NA 
+The mass of CO2 in delivered roundwood extracted 
+from the project area in year y, destined for use in 
+North America. Expressed in tCO2e  (See Equation 3) 
+N/A 
+G_HWPCO2y,O 
+The mass of CO2 in delivered roundwood extracted 
+from the project area in year y, destined for use 
+outside of North America, Expressed in  tCO2e (See 
+Equation 3) 
+N/A 
+HWPfNA,t-y 
+The factor, derived from table 9, for the percentage of 
+CO2 remaining stocked in HWP (in-use and landfill) 
+after the number of years between harvest and time t, 
+for products used in North America56.   
+Table 9 
+HWPfO,t-y 
+The factor, derived from tables 9, for the percentage 
+of CO2 remaining stocked in HWP (in-use and landfill) 
+after the number of years between harvest and time t, 
+for products used outside of North America.   
+Table 9 
+> ≤@ 
+Any year y up to year t 
+ 
+ 
+ 
+ 
+56 If the fraction of CO2 remaining in-use and in-landfill per year is not available in this document, the project 
+proponet must provide the necessary data during the validation process. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+58 
+ 
+ 
+ 
+ 
+Table 9: Fraction of CO2 remaining stocked in HWP (in-use and in landfill) per year – Derivation 
+detailed in Appendix F57 
+Year 
+BC products used in 
+North America - % of 
+total delivered CO2 
+stored after y years 
+QC products used in 
+North America - % of 
+total delivered CO2 
+stored after y years 
+Products used 
+offshore - % of total 
+delivered C stored 
+after y years 
+0 
+65.9% 
+65.2% 76.0% 
+1 
+64.6% 
+63.3% 72.7% 
+2 
+63.5% 
+60.9% 72.4% 
+3 
+62.5% 
+58.8% 72.1% 
+4 
+61.6% 
+56.9% 71.0% 
+5 
+60.7% 
+55.2% 69.8% 
+6 
+59.9% 
+53.7% 68.6% 
+7 
+59.2% 
+52.3% 67.4% 
+8 
+58.5% 
+51.0% 66.2% 
+9 
+57.8% 
+49.9% 65.1% 
+10 
+57.2% 
+48.9% 63.9% 
+11 
+56.6% 
+47.9% 62.8% 
+12 
+56.0% 
+47.0% 61.6% 
+13 
+55.5% 
+46.2% 60.5% 
+14 
+54.9% 
+45.4% 59.4% 
+15 
+54.4% 
+44.7% 58.3% 
+16 
+53.9% 
+44.1% 57.3% 
+17 
+53.4% 
+43.5% 56.2% 
+ 
+57 Derived from Caren C. Dymond, Forest carbon in North America: annual storage and emissions from 
+British Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012,    Jack K. Winjum, 
+Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: Sources and Sinks of 
+Atmospheric Carbon Dioxide, Forest Science 44:2, 1998 and K.E. Skog, Sequestration of carbon in 
+harvested wood products for the United States, Forest Products Journal 58(6):56-72. (2008) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+59 
+18 
+53.0% 
+42.9% 55.2% 
+19 
+52.5% 
+42.3% 54.2% 
+20 
+52.1% 
+41.8% 53.2% 
+25 
+50.0% 
+39.5% 48.4% 
+30 
+48.1% 
+37.7% 44.0% 
+35 
+46.4% 
+36.1% 40.1% 
+40 
+44.8% 
+34.7% 36.5% 
+45 
+43.4% 
+33.5% 33.2% 
+50 
+42.0% 
+32.4% 30.2% 
+55 
+40.7% 
+31.4% 27.5% 
+60 
+39.5% 
+30.5% 25.1% 
+65 
+38.3% 
+29.7% 22.9% 
+70 
+37.2% 
+28.9% 20.8% 
+75 
+36.2% 
+28.2% 19.0% 
+80 
+35.2% 
+27.6% 17.3% 
+85 
+34.2% 
+27.0% 15.8% 
+90 
+33.3% 
+26.5% 14.4% 
+95 
+32.4% 
+26.0% 13.1% 
+100 
+31.6% 
+25.6% 12.0% 
+ 
+Advanced approach 
+If the advanced approach is used for North American or offshore products, or both, the same 
+steps will be used as for the default approach, except that at each step either the deliveries by 
+mill type (for North American use) or product types (for offshore use) will be accounted 
+separately.  The types to be used are shown in Table 10. 
+Table 10: Mill/Product categories for North America and offshore 
+North America 
+Lumber mills 
+Plywood mills 
+Panel mills (all non-ply panel 
+products) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+60 
+Pulp and Paper 
+ 
+Offshore 
+Lumber 
+Panel (including plywood) 
+Other industrial roundwood 
+Paper and paperboard 
+ 
+In step 4, the mill type or use categories are calculated separately, using the values given in 
+Table 11 
+Table 11: Fraction of CO2 remaining stocked in HWP (in-use and in landfill) in-use and 
+in landfill per year, by product category – Derivation detailed in Appendix F58 
+ 
+BC products used in North America - 
+% of total delivered CO2 stored after y 
+years 
+QC products used in North America - 
+% of total delivered CO2 stored after 
+y years. 
+Products used offshore - % of total 
+delivered C stored after y years 
+Year 
+Lumber 
+mills 
+Plywood 
+mills 
+Panel 
+mills 
+Pulp/ 
+Paper 
+Lumber 
+mills 
+Plywood 
+mills 
+Panel 
+mills 
+Pulp/ 
+Paper 
+Lumber 
+Wood 
+panel 
+Other 
+roundwood 
+Paper 
+0 
+64.9% 
+79.7% 
+84.5% 
+49.4% 
+67.5% 
+81.5% 
+84.5% 
+56.7% 
+76.0% 
+76.0% 
+76.0% 
+76.0% 
+1 
+63.6% 
+78.8% 
+84.1% 
+47.1% 
+65.8% 
+80.2% 
+84.3% 
+54.1% 
+73.8% 
+74.9% 
+72.7% 
+69.6% 
+2 
+62.5% 
+78.1% 
+83.8% 
+45.1% 
+63.1% 
+78.3% 
+84.0% 
+51.7% 
+73.6% 
+74.8% 
+72.4% 
+69.0% 
+3 
+61.5% 
+77.3% 
+83.5% 
+43.1% 
+60.7% 
+76.7% 
+83.8% 
+49.5% 
+73.5% 
+74.7% 
+72.2% 
+68.5% 
+4 
+60.6% 
+76.6% 
+83.1% 
+41.4% 
+58.6% 
+75.2% 
+83.6% 
+47.5% 
+73.0% 
+74.0% 
+70.8% 
+66.1% 
+5 
+59.7% 
+76.0% 
+82.8% 
+39.7% 
+56.8% 
+73.9% 
+83.3% 
+45.6% 
+72.5% 
+73.2% 
+69.5% 
+63.7% 
+6 
+59.0% 
+75.4% 
+82.5% 
+38.2% 
+55.2% 
+72.8% 
+83.1% 
+43.8% 
+72.0% 
+72.4% 
+68.1% 
+61.3% 
+7 
+58.2% 
+74.8% 
+82.1% 
+36.8% 
+53.8% 
+71.8% 
+82.8% 
+42.2% 
+71.4% 
+71.5% 
+66.8% 
+59.0% 
+8 
+57.5% 
+74.2% 
+81.8% 
+35.4% 
+52.6% 
+70.9% 
+82.6% 
+40.6% 
+70.9% 
+70.7% 
+65.5% 
+56.8% 
+9 
+56.9% 
+73.6% 
+81.5% 
+34.2% 
+51.5% 
+70.0% 
+82.3% 
+39.2% 
+70.4% 
+69.8% 
+64.2% 
+54.6% 
+10 
+56.3% 
+73.1% 
+81.2% 
+33.0% 
+50.5% 
+69.3% 
+82.1% 
+37.8% 
+69.8% 
+68.9% 
+62.9% 
+52.4% 
+11 
+55.7% 
+72.6% 
+80.8% 
+31.9% 
+49.7% 
+68.6% 
+81.8% 
+36.5% 
+69.2% 
+68.1% 
+61.6% 
+50.4% 
+ 
+58 Derived from Caren C. Dymond, Forest carbon in North America: annual storage and emissions from 
+British Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012, Jack K. Winjum, 
+Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: Sources and Sinks of 
+Atmospheric Carbon Dioxide, Forest Science 44:2, 1998,   and K.E. Skog, Sequestration of carbon in 
+harvested wood products for the United States, Forest Products Journal 58(6):56-72. (2008) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+61 
+12 
+55.1% 
+72.1% 
+80.5% 
+30.8% 
+48.9% 
+68.0% 
+81.5% 
+35.3% 
+68.7% 
+67.2% 
+60.3% 
+48.4% 
+13 
+54.6% 
+71.6% 
+80.2% 
+29.8% 
+48.2% 
+67.5% 
+81.3% 
+34.1% 
+68.1% 
+66.3% 
+59.0% 
+46.4% 
+14 
+54.0% 
+71.2% 
+79.9% 
+28.9% 
+47.6% 
+67.0% 
+81.0% 
+33.0% 
+67.5% 
+65.3% 
+57.8% 
+44.5% 
+15 
+53.5% 
+70.7% 
+79.5% 
+28.0% 
+47.1% 
+66.5% 
+80.7% 
+32.0% 
+66.9% 
+64.4% 
+56.6% 
+42.7% 
+16 
+53.0% 
+70.3% 
+79.2% 
+27.1% 
+46.6% 
+66.1% 
+80.5% 
+31.0% 
+66.3% 
+63.5% 
+55.4% 
+40.9% 
+17 
+52.6% 
+69.8% 
+78.9% 
+26.3% 
+46.1% 
+65.7% 
+80.2% 
+30.0% 
+65.7% 
+62.6% 
+54.2% 
+39.2% 
+18 
+52.1% 
+69.4% 
+78.6% 
+25.5% 
+45.7% 
+65.3% 
+79.9% 
+29.1% 
+65.1% 
+61.7% 
+53.0% 
+37.5% 
+19 
+51.7% 
+69.0% 
+78.3% 
+24.7% 
+45.3% 
+65.0% 
+79.6% 
+28.2% 
+64.4% 
+60.7% 
+51.8% 
+35.9% 
+20 
+51.2% 
+68.6% 
+77.9% 
+24.0% 
+45.0% 
+64.6% 
+79.4% 
+27.4% 
+63.8% 
+59.8% 
+50.7% 
+34.4% 
+25 
+49.2% 
+66.6% 
+76.3% 
+20.8% 
+43.5% 
+63.2% 
+78.0% 
+23.6% 
+60.6% 
+55.2% 
+45.3% 
+27.6% 
+30 
+47.4% 
+64.8% 
+74.7% 
+18.1% 
+42.4% 
+61.9% 
+76.6% 
+20.4% 
+57.4% 
+50.7% 
+40.4% 
+22.0% 
+35 
+45.7% 
+63.1% 
+73.1% 
+15.8% 
+41.5% 
+60.8% 
+75.2% 
+17.7% 
+54.2% 
+46.4% 
+36.0% 
+17.5% 
+40 
+44.1% 
+61.5% 
+71.6% 
+13.8% 
+40.8% 
+59.8% 
+73.8% 
+15.4% 
+51.1% 
+42.3% 
+32.0% 
+13.9% 
+45 
+42.7% 
+59.9% 
+70.0% 
+12.1% 
+40.0% 
+58.8% 
+72.5% 
+13.4% 
+48.0% 
+38.5% 
+28.5% 
+11.0% 
+50 
+41.3% 
+58.4% 
+68.5% 
+10.7% 
+39.4% 
+57.8% 
+71.2% 
+11.7% 
+45.0% 
+34.9% 
+25.3% 
+8.7% 
+55 
+40.1% 
+57.0% 
+67.0% 
+9.4% 
+38.7% 
+56.9% 
+69.9% 
+10.2% 
+42.1% 
+31.6% 
+22.4% 
+6.8% 
+60 
+38.9% 
+55.6% 
+65.5% 
+8.2% 
+38.1% 
+56.1% 
+68.8% 
+8.9% 
+39.3% 
+28.5% 
+19.9% 
+5.4% 
+65 
+37.7% 
+54.3% 
+64.0% 
+7.2% 
+37.5% 
+55.2% 
+67.6% 
+7.7% 
+36.6% 
+25.7% 
+17.7% 
+4.3% 
+70 
+36.7% 
+53.0% 
+62.6% 
+6.4% 
+37.0% 
+54.4% 
+66.5% 
+6.7% 
+34.1% 
+23.1% 
+15.7% 
+3.4% 
+75 
+35.6% 
+51.8% 
+61.1% 
+5.6% 
+36.5% 
+53.6% 
+65.5% 
+5.9% 
+31.7% 
+20.8% 
+13.9% 
+2.6% 
+80 
+34.6% 
+50.6% 
+59.7% 
+4.9% 
+36.0% 
+52.9% 
+64.5% 
+5.1% 
+29.4% 
+18.7% 
+12.3% 
+2.1% 
+85 
+33.7% 
+49.4% 
+58.4% 
+4.4% 
+35.5% 
+52.2% 
+63.6% 
+4.5% 
+27.3% 
+16.7% 
+10.9% 
+1.6% 
+90 
+32.8% 
+48.3% 
+57.0% 
+3.9% 
+35.1% 
+51.5% 
+62.7% 
+3.9% 
+25.3% 
+15.0% 
+9.7% 
+1.3% 
+95 
+31.9% 
+47.2% 
+55.7% 
+3.4% 
+34.7% 
+50.9% 
+61.8% 
+3.4% 
+23.4% 
+13.4% 
+8.6% 
+1.0% 
+100 
+31.1% 
+46.1% 
+54.4% 
+3.0% 
+34.3% 
+50.3% 
+60.8% 
+3.0% 
+21.6% 
+12.0% 
+7.6% 
+0.8% 
+8.1.2 Quantification Methodologies – Controlled and Related Sources 
+8.1.2.1 General Approach for Quantifying Emission sources 
+For each controlled and related emission source quantified, a calculation method is provided and 
+justified for quantifying associated GHG emissions in the following section.  Note that if a 
+published quantification methodology for a parameter required for a controlled or related source 
+in this section is referenced or directly incorporated by the national or provincial reporting 
+regulation (e.g.., BC Reporting Regulation), the quantification methodology, including relevant 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+62 
+sampling, analysis and measurement requirements, may be used59.  Deviation from the 
+referenced or directly incorporated methodologies for a parameter requires appropriate 
+explanation from project proponents. 
+A typical, universally accepted emission factor-based equation has been used for most SSPs to 
+calculate total emissions, as follows:  
+Equation 5 
+TE'(),* = ∑ (GHG+,'(),*
+)
+× GWP+ )          [5] 
+Where: 
+Parameter 
+Description 
+Default Value 
+TEESi,t 
+Total emissions from Emission Sources (ES) i, during reporting 
+period t. Expressed in tCO2e 
+ 
+GHGj,ESi,t   
+Emissions of GHG j, from Emission Source (ES) i during reporting 
+period t. Expressed in t GHG j. (See Equation 6) 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+Equation 6 
+GHG+,'(),* = EF),+ × AL) ×  CF             [6] 
+Where: 
+ 
+59 The Reporting Regulation, under authority of the GHG Reduction (Cap and Trade) Act, was approved by 
+Order of the Lieutenant Governor in Council on November 25, 2009.  Referenced Western Climate Initiative 
+quantification methods can be found at http://www.env.gov.bc.ca/cas/mitigation/ggrcta/pdf/Final-Essential-
+Requirements-of-Mandatory-Reporting--Dec-17-2010.pdf 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+63 
+Parameter 
+Description 
+Default Value 
+GHGj,ESi,t   
+Emissions of GHG j, from Emission Source (ES) i during reporting 
+period t. Expressed in t. 
+N/A 
+EFi,j 
+Emission factor (EF) for GHG j and Emission Source (ES) i.  
+Expressed in tGHGj /unit of activity or input/output 
+N/A 
+ALi 
+Quantity of input/output or “activity level (AL)” for Emission Source 
+(ES) i (eg, volume of fuel combusted, amount of fertilizer applied, 
+etc.).  Expressed in the corresponding unit of activity or input/output. 
+N/A 
+CF 
+Conversion factor to be used when the units of the activity level do 
+not match those of the emission factor.  Where both the activity level 
+and emission factor are expressed in the same units, CF would be 
+set to 1.  Dimensionless. 
+N/A 
+In most cases, emissions will be calculated using this equation or a variation of this equation.  
+Where the methodologies described below require selecting an emission factor from a recognized 
+source, the provincial GHG Inventory may be used where appropriate, followed by the National 
+GHG Inventory and then other recognized sources.   
+Below, equations and parameters are provided and justified for each relevant SSP for the project 
+and baseline. 
+Note that, as indicated in Table 6, where project emissions are less than baseline emissions for a 
+related SSP, that SSP is deemed not relevant in most cases, and the net change in emissions 
+between project and baseline set to zero.   
+8.1.2.2  PE1/BE1 Fossil Fuel Production 
+This quantification method is to be applied to both the project and baseline. 
+Emissions from production of fossil fuels consumed on-site are to be calculated using the 
+standard emission factor  multiplied by the activity level, using the approach described by  
+Equation 7 and restated here: 
+PE1/BE1 fossil fuel production emissions 
+ 
+ 
+ 
+ 
+ 
+Equation 7 
+TEPE1/BE1,t = ∑ (GHGj,PE1/BE1,t
+)
+× GWPj )        [7] 
+ 
+ 
+ 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+64 
+Parameter 
+Description 
+Default Value 
+TEPE1/BE1,t 
+Total emissions from production of fossil fuels consumed by on-site 
+vehicles and equipment during reporting period t. Expressed in 
+tCO2e 
+ 
+GHGj,PE1/BE1,t   
+Emissions of GHG j, from production of fossil fuels consumed by on-
+site vehicles and equipment during reporting t. Expressed in t GHG 
+j. (See Equation 8) 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+Equation 8 
+GHG+,-'./0'.,* = EF1,+ × AL1,* × CF1        [8] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+65 
+Parameter 
+Description 
+Default Value 
+GHGj, PE1/BE1, t   
+Emissions of GHG j, from production of fossil fuels consumed by on-
+site vehicles and equipment during reporting period t.  Expressed in 
+t. 
+N/A 
+EFf, j 
+The emission factor for GHG j and fuel type f.  Note: it is likely that 
+fuel production emission factors may only be available in units of 
+CO2e.  Expressed in t GHGj/ unit of fuel 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements  
+ALf, t 
+The quantity of fuel of type f consumed by on-site vehicles and 
+equipment during reporting period t.  Expressed in volumetric 
+measure (eg, l, m3, etc.) or mass measure (kg, t, etc.) with 
+appropriate conversion. 
+N/A 
+CFf 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular fuel type f.  
+Where both the activity level and emission factor are expressed in 
+the same units, CF would be set to 1.  Dimensionless. 
+N/A 
+Determining the emission factor 
+Fossil fuel production emission factors tend to be uncertain, given the range of factors that can 
+influence overall emissions.  Emission factors appropriate for the fuels in question must be 
+selected from the following reference sources in order of preference (where an appropriate factor 
+is not available from a preferred reference source, the next source on the list may be consulted): 
+3. The provincial reporting regulation, corresponding to the province where the project is 
+developed. 
+4. Latest version of the provincial GHG Inventory Report, corresponding to the province 
+where the project is developed. 
+5. Latest version of Canada’s National GHG Inventory Report 
+6. Latest version of the GHGenius transportation fuel lifecycle assessment model60 
+ 
+60 Available at http://www.ghgenius.ca/ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+66 
+7. Other recognized sources, including federal (Canada) or provincial government 
+institutions (corresponding to the province where the project is developed), the IPCC or 
+the UNFCCC, with a preference to provincial data over national or international level 
+data. 
+Note: at time of methodology development, 3.19 was the most recent version of the GHGenius 
+model.  In this version, default emission factors for various fuels can be found on worksheet 
+“Upstream Results HHV”, rows 19 and 33 (one or the other depending on the fuel), in units of g 
+CO2e per GJ (HHV) of fuel.   
+Note: these emission factors also include transport / distribution-related emissions which would 
+overlap with SSP PE4/BE4.  If these emission factors are used, then fuel transportation 
+emissions do not need to be included in SSP PE6/BE6.   
+8. Other recognized, justified reference sources, with a preference for BC-specific data over 
+national or international level data.  These sources must be peer reviewed, and not more 
+than 10 years old. 
+Determining the activity level 
+For fuel combustion in equipment and vehicles, the most accurate approach is to use fuel 
+consumption records by type of equipment or vehicle and fuel type.  However, for calculating fuel 
+production emissions it is equally appropriate to track total volumes of each type of fuel 
+consumed for the entire project site. 
+Since it is not possible to directly monitor fuel consumption in the baseline, baseline fuel 
+consumption must be estimated based on justified vehicle and equipment usage estimates in the 
+baseline and considering fuel consumption observed during the project period as applicable 
+8.1.2.3  PE2/BE2 Emissions from Fertilizer Production 
+This quantification method is to be applied to both the project and baseline. 
+Emissions from production of fertilizer are to be calculated using the standard emission factor 
+multiplied by the activity level, using the approach described by Equations 9 and 10 and restated 
+here: 
+Equation 9 
+TE-'2/0'2,* = ∑(
++ GHG+,-'2/0'2,* × GWP+)                 [9] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+67 
+Parameter 
+Description 
+Default Value 
+TEPE2/BE2,t 
+Total emissions from fertilizer production, during reporting period t. 
+Expressed in tCO2e 
+ 
+GHGj,PE2/BE2,t   
+Emissions of GHG j, from fertilizer production during reporting period 
+t. Expressed in t GHG j. (See Equation 10) 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+Equation 10 
+GHG+,-'2/0'2,* = ∑EF1,+ × AL1,* × CF1
+1
+                   [10] 
+Where: 
+Parameter 
+Description 
+Default Value 
+GHGj,PE2/BE2,t   
+Emissions of GHG j, from fertilizer production applied during 
+reporting period t.  Expressed in t. 
+N/A 
+EFf, j 
+The emission factor for GHG j and fertilizer type f.  Note: it is likely 
+that fertilizer production emission factors may only be available in 
+units of CO2e.  Expressed in t GHGj / t fertilizer type f 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+ALf, t 
+The quantity of fertilizer of type f applied during reporting period t. 
+Expressed in t, 
+N/A 
+CFf 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular fertilizer 
+type f.  Where both the activity level and emission factor are 
+expressed in the same units, CF would be set to 1. 
+Dimensionless. 
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+68 
+Determining the emission factor 
+Emission factors appropriate for the nitrogen-based fertilizers in question must be selected from 
+the following reference sources in order of preference (where an appropriate factor is not 
+available from a preferred reference source, the next source on the list may be consulted): 
+1. The provincial reporting regulation, corresponding to the province where the project is 
+developed. 
+2. Latest version of the provincial GHG Inventory Report, corresponding to the province 
+where the project is developed. 
+3. Latest version of Canada’s National GHG Inventory Report 
+4. Latest version of the GHGenius transportation fuel lifecycle assessment model. 
+5. Other recognized sources, including federal (Canada) or provincial government 
+institutions (corresponding to the province where the project is developed), the IPCC or 
+the UNFCCC, with a preference to provincial data over national or international level 
+data. 
+Note, at time of methodology development, 3.19 was the most recent version of the GHGenius 
+model.  In this version, a default emission factor for nitrogen-based fertilizer can be found on 
+worksheet “W”, cell B27, in units of g CO2e per kg of nitrogen-based fertilizer produced (not per 
+kg of nitrogen).  The emission factor provided is 2,792 g CO2e / kg Nitrogen-based fertilizer.  
+Note, this emission factor also includes a small amount of transport-related emissions which 
+would overlap with SSP PE6/BE6.  If this emission factor is used, then fertilizer transportation 
+emissions do not need to be included in SSP PE6/BE6.   
+Proponents may tailor the assumptions used in GHGenius to derive this emission factor (eg, type 
+of energy sources, ratio of finished fertilizer to nitrogen, etc.) to produce an emission factor 
+customized for the project, as long as all changes are justified. 
+Determining the activity level 
+Quantities of different types of fertilizer applied are to be monitored during the project. 
+Since it is not possible to directly monitor fertilizer application in the baseline, baseline fertilizer 
+application must be estimated based on justified application rate based on the practices 
+described for the selected baseline scenario. 
+8.1.2.4  PE3/BE3 Emissions from Transport of Material,  Equipment, Inputs, and Personnel to Site 
+This quantification method is to be applied to both the project and baseline.  Emissions from 
+transportation of materials, equipment, inputs, and personnel to the project / baseline site are to 
+be calculated using the standard emission factor multiplied by the activity level approach 
+described by Equation 6 and restated here: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+69 
+ 
+Equation 11 
+TE-'3/0'3,* = ∑(
++ GHG+,-'3/0'3,* × GWP+)         [11] 
+ 
+ 
+ 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+TEPE3/BE3,t 
+Total emissions from transport of material, equipment, inputs and 
+personnel to site, during reporting period t. Expressed in tCO2e 
+ 
+GHGj,PE3/BE3,t   
+Emissions of GHG j, from transport of material, equipment, inputs 
+and personnel to site, during reporting period t. Expressed in t GHG 
+j. (See Equation 12; Equation 13, Equation 14) 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+Equation 12 
+GHG+,-'3/0'3,* = ∑(EF4,+ × AL4,* × CF4)
+4
+         [12] 
+ 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+70 
+Parameter 
+Description 
+Default Value 
+GHGj,PE3/BE3,t   
+Emissions of GHG j, from transportation of materials, equipment, 
+inputs and personnel to the project / baseline site during reporting 
+period t.  Expressed in t. 
+N/A 
+EFm,j 
+Emission factor (EF) for transportation mode m and GHG j.  
+Expressed in t/unit of transported material using transportation 
+mode m. 
+N/A 
+ALm,t 
+The quantity of materials, equipment, inputs, and personnel 
+transported by mode m during reporting period t.  Expressed in 
+units of transported material: persons, items or tonnes, as 
+appropriate. 
+N/A 
+CFm 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for transport mode m.  
+Where both the activity level and emission factor are expressed in 
+the same units, CF would be set to 1.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of 
+the project up to the reporting period in question. 
+N/A 
+m 
+Transportation mode 
+N/A 
+Various approaches are available for selecting emission factors and activity levels for use in 
+Equation 12, ranging from those based on the use of detailed fuel consumption data recording 
+(most accurate) to calculations based on vehicle-specific fuel economy data and route-specific 
+distance data, to calculations based on total amounts of goods transported and generic 
+transportation emission factor per tonne/km transported. These approaches are outlined in 
+various sources, including the TCR General Reporting Methodology and CDM methodology 
+AM0036.  
+Given that emissions from this SSR are expected to be small relative to other SSRs, detailed 
+approaches such as use of vehicle-specific fuel consumption will not be required.  Instead, two 
+options are available: 
+6. Distance and assumed fuel economy approach 
+This approach is described in the equation below: 
+PE3/BE3 distance and fuel economy approach  
+ 
+ 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+71 
+Equation 13 
+GHG),*+,/-+,,. = ∑&EF/,) × ∑*FE/ × D/,0 × C/,0,. ÷ L/,0/ × CF/
+0
+0
+/
+ 
+         [13] 
+Where: 
+Parameter 
+Description 
+Default Value 
+GHGj, PE3/BE3, t   
+Emissions of GHG j from transportation of materials, equipment, 
+inputs, and personnel to the project / baseline site during reporting 
+period t.  Expressed in t. 
+N/A 
+EFm, j 
+The emission factor for GHG j and fuel combusted by transportation 
+mode m (eg, t CO2 per L diesel). Expressed in  t/unit of fuel. 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+FEm 
+Fuel economy of transportation mode m (eg, L / 100 km).  
+Expressed in unit of fuel/unit of distance for transportation mode m.. 
+N/A 
+Dm,g 
+Transport distance for material, equipment, input, or personnel g 
+using transport mode m.  Expressed in km. 
+N/A 
+Cm,g, t 
+Total quantity of material, equipment, input, or personnel g 
+transported using transport mode m during reporting period t. 
+Expressed in t or other relevant unit. 
+N/A 
+Lm,g 
+Cargo load per transport vehicle of mode m.  Expressed in t or other 
+relevant unit (same unit a Cm,g,t)/transport mode. 
+N/A 
+CFm 
+The conversion factor to be used if the units of the various 
+parameters do not match (eg, fuel economy in L/100km but distance 
+in km) for a particular transport mode m.  Where both the activity 
+level and emission factor are expressed in the same units, CF would 
+be set to 1.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+m 
+transportation mode 
+N/A 
+g 
+Transport distance for material, equipment, input, or personnel  
+N/A 
+Determining the emission factor 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+72 
+The following emission factors, approved by the province of BC, and used in its GHG Emissions 
+Estimator for emissions reporting, may be used for the province of BC: 
+• 
+Natural Gas – 0.0503 tCO2e/gigajoule 
+• 
+Gasoline – 0.0023 tCO2e/litre 
+• 
+Diesel – 0.0027 tCO2e/litre 
+• 
+Fuel Oil – 0.0027 tCO2e/litre 
+• 
+Propane – 0.0015 tCO2e/litre 
+ 
+For project in the province of Quebec, EF published by “Transition Energétique Quebec (TEQ)”61 
+may be used , as follows: 
+• 
+Natural Gas – 0.0565 tCO2e/gigajoule 
+• 
+Gasoline – 0.0023 tCO2e/litre 
+• 
+Diesel – 0.0028 tCO2e/litre 
+• 
+Propane – 0.0015 tCO2e/litre 
+ 
+For projects in other provinces of Canada, EF published by the provincial government relevant 
+authorities may be used. 
+Determining the activity level and other parameters 
+The quantity of material, equipment, input, or personnel must be monitored for the project. 
+Since it is not possible to directly monitor transportation in the baseline, baseline transportation 
+quantities and assumptions must be estimated based on the activities described for the selected 
+baseline scenario and project assumptions where applicable. 
+Other parameters, such as transport modes used, transport distance by mode, fuel efficiency, 
+and cargo load per transport vehicle must be conservatively determined and justified based on 
+typical distances and types of transport modes used.  
+7. Amount and distance shipped approach 
+This approach is described in the equation below: 
+ 
+61 See https://transitionenergetique.gouv.qc.ca/fileadmin/medias/pdf/FacteursEmission.pdf for 
+further information.  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+73 
+PE3/BE3 amount and distance approach 
+Equation 14 
+ 
+GHG+,-'3/0'3,* = ∑EEF4,+ × ∑FD4,5 × C4,5,*H × CF4
+5
+I
+4
+     [14] 
+ 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+74 
+Parameter 
+Description 
+Default Value 
+GHGj, PE3/BE3, t   
+Emissions of GHG j, from transportation of materials, equipment, 
+inputs, and personnel to the project / baseline site during reporting 
+period t.  Expressed in t. 
+N/A 
+EFm, j 
+The emission factor for GHG j and the amount and distance shipped 
+by transportation mode m (eg, g CO2 per tonne-km).  Expressed in  
+t/quantity of transported good over a set distance. 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+Dm,g 
+Transport distance for material, equipment, input, or personnel g 
+using transport mode m.  Expressed in km. 
+N/A 
+Cm,g, t 
+Total quantity of material, equipment, input, or personnel g 
+transported the same distance using transport mode m during 
+reporting period t.  Where the same type of good is transported 
+different distances to arrive at the project or baseline site, they must 
+be treated as separate goods for the purposes of this calculation.  
+Expressed in t or other relevant unit. 
+N/A 
+CFm 
+The conversion factor to be used if the units of the various 
+parameters do not match for a particular transport mode m.  Where 
+both the activity level and emission factor are expressed in the same 
+units, CF would be set to 1.  Dimensionles. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+m 
+transportation mode 
+N/A 
+g 
+Transport distance for material, equipment, input, or personnel  
+N/A 
+Determining the emission factor 
+Transportation emission factors tend to be uncertain, given the range of factors that can influence 
+overall emissions.  Emission factors appropriate for the transport modes in question must be 
+selected from the following reference sources in order of preference (where an appropriate factor 
+is not available from a preferred reference source, the next source on the list may be consulted): 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+75 
+v. 
+The corresponding provincial reporting regulation. 
+vi. 
+Latest version of the provincial GHG Inventory Report 
+vii. 
+Latest version of Canada’s National GHG Inventory Report 
+viii. 
+Other recognized, justified reference sources, as federal (Canada) or provincial 
+government institutions, the IPCC or the UNFCCC.  With a preference for the 
+corresponding provincial data over national or international level data. 
+In the case of projects within BC, the following considerations apply: 
+Truck freight transport emissions: emissions per tonne-km transported taken from the most recent 
+version of the BC Freight Modal Shifting GHG Protocol62.  In the March 11, 2010 version this 
+information is presented in Section 4.1.1 under the heading B9 Truck Operation.  The emission 
+factor provided is 114 g CO2e / tonne-km at time of methodology development. 
+Note: an alternate truck transport emission factor may be used if justified by the proponent. 
+Rail freight transport emissions: emissions per revenue tonne-km (RTK) transported taken from 
+the most recent version of the Locomotive Emissions Monitoring Program annual report for the 
+most recent data year available63.  In the 2008 report, this information is presented in Table 9 
+under the heading “Emissions Intensity – Total Freight (kg / 1,000 RTK)”.  The emission factors 
+provided are: 15.98 kg CO2 / 1,000 RTK; 0.02 kg CH4 / 1,000 RTK; and 2.05 kg N2O / 1,000 RTK. 
+Determining the activity level and other parameters 
+The quantity of material, equipment, input, or personnel must be monitored for the project. 
+Since it is not possible to directly monitor transportation in the baseline, baseline transportation 
+quantities as assumptions must be estimated based on the activities described for the selected 
+baseline scenario and project assumptions where applicable. 
+Transport distance by good and by mode must be conservatively determined and justified based 
+on typical distances and types of transport modes used. 
+   
+ 
+62 Most recent version available at time of protocol development: The Delphi Group, Freight Modal Shifting 
+GHG Protocol - British Columbia-Specific Version, March 11, 2010, available at 
+http://www.pacificcarbontrust.com/LinkClick.aspx?fileticket=SyA1NMa6DZw%3d&tabid=81&mid=577  
+63 Most recent version available at time of protocol development: Railway Association of Canada, 
+Locomotive Emissions Monitoring Program 2008, available at 
+http://www.railcan.ca/documents/publications/2073/2010_06_03_LEM2008_en.pdf    
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+76 
+8.1.2.5  PE4/BE4 Emissions from fossil fuel combustion – Vehicles and Equipment 
+This quantification method is to be applied to both the project and baseline. 
+Emissions from fossil fuel combustion in on-site vehicles and equipment are to be calculated 
+using the standard emission factor multiplied by the activity level approach described by Equation 
+6 and restated here: 
+Equation 15 
+TE-'6/0'6,* = ∑( GHG+,-'6/0'6,*
++
+× GWP+)      [15] 
+Where: 
+Parameter 
+Description 
+Default Value 
+TEPE4/BE4,t 
+Total emissions from fossil fuel combustion in on site vehicles and 
+equipment, during reporting period t. Expressed in tCO2e 
+ 
+GHGj,PE4/BE4,t   
+Emissions of GHG j, from fossil fuel combustion in on site vehicles 
+and equipment, during reporting period t. Expressed in t GHG j. (see 
+Equation 16) 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+Equation 16 
+GHG+,-'6/0'6,* = ∑E∑FEF1,7,+ × AL1,7,* × CF1,7H
+7
+I
+1
+    [16] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+77 
+Parameter 
+Description 
+Default Value 
+GHGj, PE4/BE4, t 
+Emissions of GHG j, from on-site vehicles and equipment fossil fuel 
+combustion during reporting period t.  Expressed in t GHG j. 
+N/A 
+EFf, e, j 
+The emission factor for GHG j, fuel type f and equipment/vehicle 
+type e (eg, tonnes CO2 per L diesel].  Expressed in t/unit of fuel. 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+ALf, e, t 
+The quantity of fuel of type f combusted in equipment/vehicle type e 
+during reporting period t.  Expressed volumetric measure (eg, l, m3, 
+etc.) or mass measure (kg, t, etc.) with appropriate conversion. 
+N/A 
+CFf,e 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular fuel type f and 
+equipment/vehicle type e.  Where both the activity level and 
+emission factor are expressed in the same units, CF would be set to 
+1.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+f 
+Fuel type 
+N/A 
+e 
+Equipment/vehicle type 
+N/A 
+Determining the emission factor 
+The following emission factors, approved by the Province of BC, and used in its GHG Emissions 
+Estimator for emissions reporting, must be used for projects within the province of BC: 
+• 
+Natural Gas – 0.0503 tCO2e/gigajoule 
+• 
+Gasoline – 0.0023 tCO2e/litre 
+• 
+Diesel – 0.0027 tCO2e/litre 
+• 
+Fuel Oil – 0.0027 tCO2e/litre 
+• 
+Propane – 0.0015 tCO2e/litre 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+78 
+For project in the province of Quebec, EF published by “Transition Energétique Quebec (TEQ)“ 
+may be used , as follows: 
+• 
+Natural Gas – 0.0565 tCO2e/gigajoule 
+• 
+Gasoline – 0.0023 tCO2e/litre 
+• 
+Diesel – 0.0028 tCO2e/litre 
+• 
+Propane – 0.0015 tCO2e/litre 
+ 
+For projects in other provinces of Canada, EF published by the provincial government relevant 
+authorities may be used. 
+Determining the activity level 
+For fuel combustion in equipment and vehicles, the most accurate approach is to use fuel 
+consumption records by type of equipment or vehicle and fuel type.  
+Where fuel is not tracked by type of equipment or vehicle, but rather only in total for the entire 
+project site, a conservative emission factor must be chosen based on the range of vehicles and 
+equipment that would consume a particular fuel. 
+Since it is not possible to directly monitor fuel consumption in the baseline, baseline fuel 
+consumption must be estimated based on justified vehicle and equipment usage estimates in the 
+baseline and considering fuel consumption observed during the project period as applicable. 
+8.1.2.6  PE5/BE5 Emission from fertilizer application 
+This quantification method is to be applied to both the project and baseline. 
+Emissions of N2O resulting from fertilizer application cannot be addressed using the standard 
+emission factor multiplied by activity level approach described by equation 6.  Instead, the Good 
+Practice Guidance (GPG) of the IPCC was consulted to identify a suitable approach. Chapter 11 
+of the IPCC 2006 Guidelines for National GHG Inventories and the CDM A/R Methodological Tool 
+“Estimation of direct nitrous oxide emission from nitrogen fertilization” were selected as the 
+primary sources of good practice guidance as they were applicable to the relevant sections of this 
+methodology.   
+For the development of this methodology, the methodology described in the IPCC and CDM 
+documents were adopted with some small changes to simplify calculations (eg, making the 
+notation consistent between direct and indirect emissions) and introduced the time-dependent 
+parameter t to allocate emissions on an annual basis. This last change was necessary since the 
+IPCC Guidelines are designed to calculate annual inventories instead of considering the lifetime 
+of a project activity.  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+79 
+N2O Emissions from Fertilizer Use 
+The emissions of N2O that result from anthropogenic N inputs occur through both a direct 
+pathway (directly from the soil to which N is added) and through two indirect pathways: (i) 
+volatilization and redeposition of nitrogen compounds, and (ii) leaching and runoff of nitrogen 
+compounds, mainly as nitrate (NO3). For simplicity, both direct and indirect emissions are 
+quantified for this SSR even though it is listed as a controlled emission source. 
+The methodology described in this section addresses the following sources of GHG emissions 
+from fertilizer application: 
+• 
+Synthetic nitrogen fertilizer 
+• 
+Organic nitrogen applied as fertilizer (eg, manure, compost, and other organic soil 
+additives) 
+Total N2O emissions related to fertilizer use is determined using the following equation: 
+ 
+Equation 17 
+TE-'8/0'8,* = N2O#)97:*,* + N2O);#)97:*,*          [17] 
+Where: 
+Parameter 
+Description 
+Default Value 
+TEPE5/BE5,t 
+Total emissions of N2O from fertilizer application within the 
+project boundary.  Expressed in  t N2O. 
+N/A 
+N2Odirect,t 
+Direct emissions of N2O from fertilizer application within the 
+project boundary.  Calculated in Equation 15.  Expressed in t N2. 
+(See Equation 18). 
+N/A 
+N2Oindirect,t 
+Indirect emissions of N2O from fertilizer application within the 
+project boundary.  Calculated in Equation 21.  Expressed in t 
+N2O  
+N/A 
+Approaches for determining direct and indirect emissions are described below. 
+1. Direct N2O Emissions 
+The direct nitrous oxide emissions from nitrogen fertilization can be estimated using the following 
+equations: 
+Direct fertilizer use emissions 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+80 
+Equation 18 
+N2O#)97:*,* = FF(<,* + F=<,*H × EF. ×
+>&./0
+>&.
+ 
+ 
+[18] 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for synthetic fertilizers 
+   
+Equation 19 
+F(<,* = ∑M(?),*  × NC(?)
+@
+)
+ 
+ 
+ 
+[19] 
+ 
+ 
+ 
+ 
+ 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for organic fertilizers    
+Equation 20 
+F=<,* = ∑M=?+,*  × NC=?+
+A
++
+ 
+ 
+ 
+[20] 
+ 
+ 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+N!O"#$%&',' 
+Direct emissions of N2O as a result of fertilizer application within the 
+project boundary. Expressed in t N2O. 
+N/A 
+F)*,' 
+Mass of synthetic fertilizer nitrogen applied, tonnes of N in year t.  
+Expressed in t N (See Equation 19). 
+N/A 
+F+*,' 
+Mass of organic fertilizer nitrogen applied, tonnes of N in year t 
+Expressed in t N (See Equation 20). 
+N/A 
+M),#,' 
+Mass of synthetic fertilizer of type i applied in year t, tonnes. 
+Expressed in t.  
+N/A 
+M+,-,' 
+Mass of organic fertilizer of type j applied in year t, tonnes. 
+Expressed in t.  
+N/A 
+EF. 
+Emission Factor for N additions from fertilizers.  Expressed in t N2O-
+N / t N input. 
+0.01 
+MW*!+ 
+Molecular weight of N2O.  Expressed in g/mole (see Equation 18). 
+44  
+MW* 
+Molecular weight of N2.  Expressed in g/mole. 
+28  
+NC),# 
+Nitrogen content (mass fraction) of synthetic fertilizer type i applied, 
+as specified by the manufacturer/supplier, or determined by 
+laboratory analysis.  Expressed in %. 
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+81 
+NC+,- 
+Nitrogen content (mass fraction) of organic fertilizer type j applied, 
+as specified by the manufacturer/supplier, or determined by 
+laboratory analysis.  Expressed in %. 
+N/A 
+I 
+Number of synthetic fertilizer types. 
+N/A 
+j 
+Number of organic fertilizer types. 
+N/A 
+IPCC 2006 guidelines establish that the default emission factor for Nitrogen addition from 
+fertilizers (EF1) is 0.01 (1.0%) of applied N64. The default value for the fraction of synthetic 
+fertilizer volatilized is 0.1 (FracGASF)65 and the default value for the fraction of organic fertilizer 
+volatilized is 0.2 (FracGASM)66.  These default values are to be used for quantifications in this 
+methodology, unless provincial / project-specific factors can be identified and justified. 
+Project proponents must identify the nitrogen content for each synthetic and organic fertilizer 
+applied, as reported by the fertilizer manufacturer or determined by laboratory analysis. 
+2. Indirect N2O emissions 
+Indirect nitrous oxide emissions from nitrogen fertilization can be estimated using the following 
+equations: 
+Indirect fertilizer use emissions  
+ 
+ 
+ 
+ 
+ 
+Equation 21 
+N2O);#)97:*,* = FN2O(JKL),* + N2O(N),*H ×
+>&./0
+>&.
+  
+ 
+[21] 
+Amount of N2O-N produced from atmospheric deposition of N volatilized  
+Equation 22 
+N2O(JKL),* = [F(<,* × (FracOJ(?) +  F=<,* × (FracOJ(>)] × EF6 
+[22] 
+Amount of N2O-N produced from leachate and runoff of N 
+ 
+ 
+ 
+ 
+64 Table 11.1, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+65 Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+66  Derived from Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+82 
+Equation 23 
+N2O(N),* = F[F(<,* +  F=<,*H × FracN'JPQR(Q) × EF8 
+ 
+[23] 
+Where: 
+Parameter 
+Description 
+Default Value 
+N!O#/"#$%&',' 
+Indirect emissions of N2O as a result of fertilizer application within 
+the project boundary.  Expressed in t N2O. 
+N/A 
+N!O(123),' 
+Amount of N2O-N produced from atmospheric deposition of N 
+volatilized, in year t.  Expressed in t N2O-N (See Equation 22). 
+N/A 
+N!O(5),' 
+Amount of N2O-N produced from leachate and runoff of N, in year 
+t.  Expressed in t N2O-N (see Equation 23). 
+N/A 
+MW*!+ 
+Molecular weight of N2O.  Expressed in g/mole. 
+44  
+MW* 
+Molecular weight of N2.  Expressed in g/mole. 
+28  
+F)*,' 
+Mass of synthetic fertilizer nitrogen applied in year t.  Unit of 
+measure: tN. 
+N/A 
+F+*,' 
+Mass of organic fertilizer nitrogen applied in year t.  Unit of 
+measure: tN. 
+N/A 
+EF6 
+Emission Factor for N2O emissions from atmospheric deposition of 
+N on soils and water surfaces.  Expressed in t N2O-N / (t NH3-N + t 
+NOx-N volatilised). 
+0.01 
+Frac71), 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for synthetic 
+fertilizers.  Expressed in (t NH3-N + t NOx-N volatilised)/t N applied 
+0.1 
+Frac71)8 
+Fraction of Nitrogen that volatilizes as NH3 and NOx for organic 
+fertilizers.  Expressed in (t NH3-N + t NOx-N volatilised)/t N applied 
+0.2 
+Frac591:;<(;) 
+Fraction of N lost by leaching and runoff. Expressed in t N/t N added 
+or deposited by grazing animals. 
+0.30 / 0 (see note) 
+EF= 
+Emission factor for N2O-N emissions from N leaching and runoff. 
+Expressed in t N2O-N / t N in leaching or runoff. 
+0.0075 
+I 
+Number of synthetic fertilizer types. 
+N/A 
+J 
+Number of organic fertilizer types. 
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+83 
+IPCC 2006 guidelines establish that the default emission factor for N2O emissions from 
+atmospheric deposition of nitrogen (EF4) is 0.010 (of applied N)67. The default value for the 
+emission factor for N2O emissions from leaching and runoff (EF5) is 0.0075. 
+The default value for the fraction of synthetic fertilizer volatilized is 0.1 (FracGASF)68 and the default 
+value for the fraction of organic fertilizer volatilized is 0.2 (FracGASM)69. 
+The fraction of nitrogen lost by leaching and runoff (FracLEACH-H) applies only in those cases 
+where soil water-holding capacity is exceeded as a result of precipitation or irrigation (ie, 
+precipitation is greater than evapotranspiration). Where this condition exists, the default value for 
+FracLEACH-H = 0.3070. Where evapotranspiration is greater than precipitation, the value for this 
+parameter is zero.  The choice of factor used in the calculations must be justified by the 
+proponent. 
+Project proponents must identify the nitrogen content for each synthetic and organic fertilizer 
+applied, as reported by the fertilizer manufacturer or determined by laboratory analysis. 
+Table 12: Assessment of Uncertainty for Direct and Indirect N2O Emissions 
+Factor 
+Default 
+Value 
+Uncertainty 
+Range 
+VW., Emission Factor for N additions from fertilizers, tonne  N2O-N / 
+tonne N input. 
+0.010 
+0.003 – 0.03 
+VW6, Emission Factor for N2O emissions from atmospheric deposition 
+of N on soils and water surfaces, tonne N2O-N / tonne N input. 
+0.010 
+0.002 – 0.05 
+VW=, Emission factor for N2O emissions from N leaching and runoff, 
+tonne  N2O / tonne N input. 
+0.0075 
+0.0005 – 0.025 
+WXYZ>?@A, Fraction of Nitrogen that volatilizes as NH3 and NOx for 
+synthetic fertilizers. 
+0.10 
+0.03 – 0.3 
+WXYZ>?@B, Fraction of Nitrogen that volatilizes as NH3 and NOx for 
+organic fertilizers. 
+0.20 
+0.05 – 0.5 
+WXYZCD?EF<(F), Fraction of N lost by leaching and runoff. 
+0.3 
+0.1 – 0.8 
+ 
+67 Derived from table 12, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+68 Derived from Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+69 Derived from Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories 
+70 Derived from Table 11.3, Chapter 11, Volume 4, 2006 IPCC Guidelines for National GHG Inventories  
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+84 
+Uncertainties in estimates of direct and indirect N2O emissions from fertilizer are mainly due to 
+uncertainties in emission factors. These factors are constantly being reassessed, and are related 
+to conditions such as temperature, partitioning factors, activity data, and lack of information on 
+specific practices and site characteristics. In general, the reliability of activity data (eg, mass of 
+fertilizer applied) will be greater than that of emission, volatilization and leaching factors. The 
+IPCC suggests utilizing region-specific data whenever possible, but these are not widely 
+available.  Additional uncertainties are introduced when values used are not representative of the 
+conditions, but uncertainties in emission factors are likely to dominate.   
+8.1.2.7  PE6/BE6 Emissions from biomass burning 
+This quantification method must be applied to both the project and baseline. 
+Note that for this SSP, only CH4 and N2O are to be reported as CO2 is being monitored as part of 
+the forest carbon pools. 
+Emissions from controlled burning of biomass on-site, including burning of wood residuals and 
+controlled burning for land clearing, etc., must be calculated using the standard emission factor 
+multiplied by the activity level approach described by Equation 6 and restated here: 
+Total emission from biomass burning  
+Equation 24 
+TE-'[/0'[,* = ∑( GHG+,-'[/0'[,*
++
+× GWP+)          [24] 
+Where: 
+Parameter 
+Description 
+Default Value 
+TEPE6/BE6,t 
+Total emissions from biomass burning, during reporting period t. 
+Expressed in tCO2e 
+ 
+GHGj,PE6/BE6,t   
+Emissions of GHG j, from biomass burning, during reporting 
+period t. Expressed in t GHG j (See Equation 25). 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of 
+the project up to the reporting period in question. 
+N/A 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+85 
+Equation 25 
+GHG+,-'[/0'[,* = ∑EF\,+ × AL\,* × CF\
+\
+         [25] 
+Where: 
+Parameter 
+Description 
+Default Value 
+GHGj, PE6/BE6, t   
+Emissions of GHG j, from biomass burning onsite during reporting 
+period t..  Expressed in t. 
+N/A 
+EFb, j 
+Emission factor for GHG j and biomass type b (eg, tonnes CH4 per 
+tonne of brush burned).  Expressed in t / t of biomass. 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+ALb, t 
+Amount of biomass of type b combusted during reporting period t. 
+Expressed in t of biomass. 
+N/A 
+CFb 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular biomass 
+type b.  Note, special care must be taken to ensure that if the 
+emission factor and activity level do not assume the same 
+moisture content of biomass (often dry mass is assumed for 
+emission factors), an appropriate conversion factor is used based 
+on measured or conservatively assumed biomass moisture 
+content.  Where both the activity level and emission factor are 
+expressed in the same units, CF would be set to 1.  Unit of 
+measure: t. 
+N/A 
+Determining the emission factor 
+Biomass combustion emission factors may be obtained from:  
+1. The corresponding provincial reporting regulation 
+2. The latest version of the provincial GHG Inventory Report 
+3. The latest version of Canada’s National GHG Inventory Report 
+4. Other recognized, justified reference sources, such as federal (Canadian) or provincial 
+government institutions, the IPCC or the UNFCCC, with a preference for the 
+corresponding provincial data over national or international level data 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+86 
+Emission factors must be used so long as the emission factor selected is appropriate for the type 
+of biomass and conditions under which it is being combusted.  Otherwise, emission factors found 
+in peer reviewed sources relevant to the project site conditions may be used.  Where site specific 
+data is not available, values from the IPCC GPG LULUCF (Table 3A.1.16) may be used.  Where 
+figures from Table 3A.1.16 are used, they must be divided by 1000, to adjust the results from 
+units of g/kg to units of t/t. 
+Determining the activity level 
+Project proponents must propose and justify an approach for determining the total mass of 
+biomass combusted during controlled burning events during a reporting period.  The guidance 
+given in Approach B in the VCS Module VMD0031, Estimation of Emissions from Burning may be 
+used as a basis for developing a method.  It is expected that such a method will be tailored to the 
+standard operating practices of the proponent, though in all cases it must be possible to verifiably 
+demonstrate that the method results in a conservative estimate of associated project emissions 
+as compared to baseline emissions.  Wherever possible, measured amounts of biomass may be 
+used (eg, mass or volume of biomass combusted), though it is recognized that in many cases 
+(eg, land clearing) such a measurement may not be possible, and estimates based on site 
+observations will be necessary.   
+8.1.2.8  PE7/BE7 Emissions from forest fires  
+This quantification method is to be applied to both the project and baseline. 
+Note that for this SSR, only CH4 and N2O are to be reported, as CO2 is tracked as part of forest 
+carbon pools. 
+Emissions from forest fires are to be calculated using the standard emission factor multiplied by 
+the activity level approach described by Equation 6 and restated here: 
+Equation 26 
+TE-']/0'],* = ∑(
++ GHG+,-']/0'],* × GWP+)             [26] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+87 
+Parameter 
+Description 
+Default Value 
+TEPE7/BE7,t 
+Total emissions from forest fires, during reporting period t. 
+Expressed in tCO2e 
+ 
+GHGj,PE7/BE7,t   
+Emissions of GHG j, from forest fires, during reporting period t. 
+Expressed in t GHG j (SeeEquation 27). 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+J 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+T 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equation 27 
+GHG+,-']/0'],* = EF11,+ × AL11,* × CF                       [27] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+88 
+Parameter 
+Description 
+Default Value 
+GHGj, PE7/BE7, t   
+Emissions of GHG j, from forest fires during reporting period t. 
+Expressed in t. 
+N/A 
+EFff, j 
+The emission factor for GHG j applicable to forest fires.  Expressed 
+in t GHG j / t of forest biomass burned. 
+See below 
+under the title 
+“Determining 
+the emission 
+factor” the 
+emission 
+factor 
+requirements 
+ALff,t 
+The quantity of forest biomass combusted during forest fires 
+occurring during reporting period, from both anticipated disturbance 
+events that have been modelled in the project and baseline and 
+unanticipated loss events that are monitored.  Expressed in t. 
+N/A 
+CF 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular biomass type 
+b.  Note, special care must be taken to ensure that if the emission 
+factor and activity level do not assume the same moisture content of 
+biomass (often dry mass is assumed for emission factors), an 
+appropriate conversion factor is used based on measured or 
+conservatively assumed biomass moisture content.  Where both the 
+activity level and emission factor are expressed in the same units, 
+CF would be set to 1.  Dimensionless. 
+N/A 
+Determining the emission factor 
+Guidance with respect to combustion emission factors for forest fires may be sought from 
+1. The provincial reporting regulation, corresponding to the province where the project is 
+developed. 
+2. Latest version of the provincial GHG Inventory Report, corresponding to the province 
+where the project is developed. 
+3. Latest version of Canada’s National GHG Inventory Report 
+4. Other recognized sources, including federal (Canada) or provincial government 
+institutions (corresponding to the province where the project is developed), the IPCC or 
+the UNFCCC, with a preference to provincial data over national or international level 
+data. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+89 
+In the absence of specific guidance, the emission factors from the IPCC GPG LULUCF Table 
+3A.1.16 may be used.  Where figures from Table 3A.1.16 are used, they must be divided by 
+1000, to adjust the results from units of g/kg to units of t/t. 
+Determining the activity level 
+The quantity of forest biomass combusted in forest fires will be calculated as part of assessing 
+the impact of loss events, as described in Section 8.1.1.1.5.  Proponents must utilize the 
+guidance given for Approach B in VCS module VMD0031 Estimation of Emissions from Burning 
+to make these estimations.  The amount of biomass combusted during forest fires may be based 
+on both significant loss events as well as more predictable fire disturbances that have been 
+factored into the emissions modeling for project and baseline. 
+8.1.2.9  PE8/BE8 Emissions from harvested wood transport 
+This quantification method is to be applied to both the project and baseline. 
+An approach identical to that described for SSR PE3/BE3 is to be used to calculate emissions 
+from SSR PE8/BE8, except that Cm,g, t will refer to the total quantity of harvested wood 
+transported.  Amounts and distances transported must be estimated for two stages in the HWP 
+lifecycle: 
+• 
+Transport of logs to the site of primary production. 
+• 
+Transport of primary HWPs to the location of use. 
+It will be assumed that HWPs are disposed of very close to their point of use, and that associated 
+emissions are very small compared to other sources. 
+Determining the emission factor 
+Emission factors will be determined in an identical manner to that described for PE3BE3. 
+Determining the activity level and other parameters 
+Quantity of harvested wood sent to primary production will be monitored by the project.  
+Quantities of primary HWPs produced must be based on the assumptions used for calculating 
+HWP storage in Section 8.1.1.2.  
+Distance to the location of primary production must be based on actual locations where project 
+harvested wood is sent, or conservative estimates of distance.  Distance from the site of primary 
+production to end use must be estimated based on reasonable, conservative estimates of the 
+locations of final markets. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+90 
+Since it is not possible to directly monitor the quantity of harvested wood in the baseline, 
+quantities must be estimated based on the activities described for the selected baseline scenario 
+and any available, relevant information from the project period. 
+All other required parameters must be determined in an identical manner to that described for 
+PE9/BE9. 
+8.1.2.10  PE9/BE9 Emissions from harvested wood processing 
+This quantification method is to be applied to both the project and baseline. 
+Emissions from primary processing of harvested wood are to be calculated using  standarized 
+emission factors71 multiplied by the activity level approach described before.  
+Total emissions from harvested wood processing 
+Equation 28 
+TE-'^/0'^,* = ∑(
++  GHG+,-'^/0'^,* × GWP+)       [28]  
+Where: 
+ 
+Parameter 
+Description 
+Default Value 
+TEPE9/BE9,t 
+Total emissions from harvested wood processing, during reporting 
+period t. Expressed in tCO2e 
+ 
+GHGj,PE9/BE9,t   
+Emissions of GHG j, from harvested wood processing, during 
+reporting period t. Expressed in t GHG j. 
+N/A 
+GWPj 
+Global warming potential of GHG j.  Dimensionless. 
+N/A 
+j 
+The relevant GHGs in this methodology: CO2, CH4 and N2O 
+N/A 
+t 
+The reporting period in question, where the value of t indicates the 
+number of reporting periods that have occurred since the start of the 
+project up to the reporting period in question. 
+N/A 
+ 
+ 
+71 Refer to “Determining the emission factor” text below in this section 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+91 
+Equation 29 
+GHG+,-'^/0'^,* = ∑EFQ,+ × ALQ,* × CFQ
+Q
+ 
+ 
+ 
+[29] 
+Where: 
+Parameter 
+Description 
+Default Value 
+GHGj, PE9/BE9, t 
+Emissions of GHG j from harvested wood processing from wood 
+harvested during reporting period t.  Expressed in tonnes of GHGj. 
+N/A 
+EFH, j 
+The emission factor for GHG j and harvested wood product H 
+produced (eg, CO2 per unit of harvested wood converted to wood 
+product H).  Note: for processes that rely solely on electricity, EFH, j 
+is assumed to be zero for projects within BC due to BC’s stated goal 
+of net zero GHG emission electricity generation in this province and 
+that the vast majority of BC harvested wood is processed in-
+province.  Expressed in tGHGj /unit of HWPH. 
+N/A 
+ALH, t 
+The quantity of harvested wood product H produced from wood 
+harvested during reporting period t.  Expressed in t, or other unit 
+with appropriate conversion factor to t. 
+N/A 
+CFH 
+The conversion factor to be used if the units of the activity level do 
+not match those of the emission factor for a particular HWP H.  Care 
+must be taken to ensure that the emission factor and the activity 
+level both refer to the same quantity (either amount of HWP 
+produced, or amount of harvested wood processed).  If not, then an 
+appropriate conversion factor must be selected.   Where both the 
+activity level and emission factor are expressed in the same units, 
+CF would be set to 1.  Dimensionless. 
+N/A 
+Determining the emission factor 
+Where available, project proponents may use provincially or nationally-approved emission factors 
+relevant for the harvested wood products produced from project and baseline harvested wood.  
+Such factors may be tailored to the province specific circumstances accordingly if possible, 
+including appropriate reflection of the carbon intensity of grid electricity generation in the 
+respective province (which may be assumed to be zero in the case of projects within BC for 
+processes that rely solely on electricity). 
+If such factors are not available, project proponents must develop factors based on information on 
+energy consumption from production facilities to which project and baseline harvested wood is 
+shipped.  Such an approach will need to consider amounts of energy / fuel of different types 
+consumed in producing a given quantity of a particular HWP, and appropriate fuel combustion 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+92 
+emission factors.  Such fuel combustion emission factors must be sourced in a manner identical 
+to that described for SSR PE3/BE3 Emissions from fossil fuel combustion – Vehicles and 
+Equipment. 
+Determining the activity level 
+Project proponents must use the same monitored log production data used to determine the 
+production of HWP in Section 8.1.1.2. 
+Since it is not possible to directly monitor the quantity of harvested wood in the baseline, 
+quantities must be estimated based on the activities described for the selected baseline scenario. 
+8.1.2.11  PE10/BE10 Emissions from harvested wood products and residuals anaerobic decay 
+As described in Figure 2, the degradable portion of HWPs in landfill will decay over time to 
+produce CO2 and CH4.  This method focuses on determining the total amount of emissions that 
+would result from HWPs decaying in landfills over the post-harvest period that HWP storage is 
+assessed in this methodology.  Depending on if the default or optional advanced approach to 
+HWP quantification is taken in Section 8.1.1.2, calculations will either be for a default blend of mill 
+types and uses (default approach), or for a blend of mill types and uses determined and 
+demonstrated by the user (optional advanced approach).  Use of this optional advanced 
+approach requires the availability of good historical data on wood delivery by mill type (for North 
+American use) or wood product end use (for offshore use) for wood sourced from within the 
+project area, as well as validatable projections of future wood product processing and end use.  
+This data is more likely to be available for North American markets than for offshore markets, and 
+it is permissible to use this approach for wood used in North America only, while using the default 
+approach for wood used offshore. 
+Since carbon lost as CO2 is accounted for as part of SSRs PP8/BP8 and PP9/BP9, PE10/BE10 
+focuses only on CH4.   
+Default Approach 
+Using these two sources, quantification of the harvested wood product pool using the default 
+approach is calculated using the following steps: 
+1. Calculate or estimate volume of roundwood delivered to the mill (or exported), from the 
+project area, by species, year and wood product destination (NA or offshore).  Harvest 
+flow for both project and baseline must be developed in accordance with the 
+requirements stipulated in Section 8.1.1.1.3.  Volumes must be for wood only (not 
+including bark). 
+2. For each year, and location of use, convert volumes to tonnes of dry biomass, using 
+Equation 2, and the standard wood density figures given in Table 8A for projects within 
+the province of BC and Table 8B for projects within the province of QC.  In the case of 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+93 
+projects within other provinces, the project developer must develop a corresponding table 
+to be validated during the validation process. 
+3. Tonnes of dry biomass in delivered roundwood per year, by wood product destination will 
+be calculated with the Equation 2. 
+Calculate the total CH4 emissions (accounted as tonnes CO2e), from wood products in landfills using 
+Equation 30. 
+Total CH4 emissions (in tonnes CO2e) from landfilled HWPs derived from the project area up to time t  
+ 
+ 
+Equation 30 
+GHG123 *+56/-+56,. = ∑
+RWbiomass7,89 ∗HWPCH4f89,.:7 + RWbiomass7,; ∗HWPCH4f;,.:7
+7<.
+ 
+[30] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+GHGCH4PE10/BE10,t 
+Mass of CH4 emitted by the project or baseline HWPs in landfills 
+up to year t.  Expressed in tCO2e. 
+N/A 
+RWbiomassy,NA 
+The dry mass of the delivered roundwood extracted from the 
+project area in year y, used in wood products within North 
+America.  Expressed in t. 
+N/A 
+RWbiomassy,O 
+The dry mass of the delivered roundwood extracted from the 
+project area in year y, used in wood products offshore.  Expressed 
+in t. 
+N/A 
+HWPCH4fNA,t-y 
+The factor, derived from table 14, for the amount of CH4 
+(accounted as CO2e) emitted in a given year, equal to the number 
+of years between harvest and time t, for products used in North 
+America.  Expressed in tCO2e / t wood biomass delivered. 
+Table 14 
+HWPCH4fO,t-y 
+The factor, derived from table 14, for the amount of CH4 
+(accounted as CO2e) emitted in a given year, equal to the number 
+of years between harvest and time t, for products used outside of 
+North America. Expressed in tCO2e / t wood biomass delivered 
+Table 14 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+94 
+Table 14: CH4 emissions by year, in CO2e, as a percentage of the total wood biomass delivered, 
+by use area – Derivation detailed in Appendix F72 
+ 
+BC 
+QC 
+ 
+North America 
+Offshore 
+North 
+America 
+Offshore 
+0 
+0.001% 
+0.001% 
+0.001% 
+0.001% 
+1 
+0.020% 
+0.000% 
+0.015% 
+0.000% 
+2 
+0.067% 
+0.100% 
+0.080% 
+0.100% 
+3 
+0.108% 
+0.096% 
+0.136% 
+0.096% 
+4 
+0.141% 
+0.092% 
+0.182% 
+0.092% 
+5 
+0.169% 
+0.118% 
+0.221% 
+0.118% 
+6 
+0.193% 
+0.140% 
+0.254% 
+0.140% 
+7 
+0.212% 
+0.159% 
+0.281% 
+0.159% 
+8 
+0.228% 
+0.175% 
+0.302% 
+0.175% 
+9 
+0.242% 
+0.189% 
+0.320% 
+0.189% 
+10 
+0.252% 
+0.200% 
+0.334% 
+0.200% 
+11 
+0.261% 
+0.210% 
+0.345% 
+0.210% 
+12 
+0.268% 
+0.218% 
+0.354% 
+0.218% 
+13 
+0.273% 
+0.225% 
+0.361% 
+0.225% 
+14 
+0.277% 
+0.230% 
+0.364% 
+0.230% 
+15 
+0.279% 
+0.234% 
+0.367% 
+0.234% 
+16 
+0.281% 
+0.237% 
+0.369% 
+0.237% 
+17 
+0.282% 
+0.239% 
+0.369% 
+0.239% 
+18 
+0.282% 
+0.240% 
+0.368% 
+0.240% 
+19 
+0.282% 
+0.240% 
+0.366% 
+0.240% 
+20 
+0.281% 
+0.240% 
+0.364% 
+0.240% 
+25 
+0.272% 
+0.232% 
+0.346% 
+0.232% 
+30 
+0.258% 
+0.216% 
+0.321% 
+0.216% 
+ 
+72 Derived from Caren C. Dymond, Forest carbon in North America: annual storage and emissions from 
+British Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012,   Jack K. Winjum, 
+Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: Sources and Sinks of 
+Atmospheric Carbon Dioxide, Forest Science 44:2, 1998,   and K.E. Skog, Sequestration of carbon in 
+harvested wood products for the United States, Forest Products Journal 58(6):56-72. (2008) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+95 
+35 
+0.244% 
+0.198% 
+0.296% 
+0.198% 
+40 
+0.230% 
+0.179% 
+0.272% 
+0.179% 
+45 
+0.217% 
+0.161% 
+0.250% 
+0.161% 
+50 
+0.205% 
+0.145% 
+0.230% 
+0.145% 
+55 
+0.195% 
+0.130% 
+0.212% 
+0.130% 
+60 
+0.185% 
+0.116% 
+0.197% 
+0.116% 
+65 
+0.177% 
+0.105% 
+0.183% 
+0.105% 
+70 
+0.169% 
+0.094% 
+0.171% 
+0.094% 
+75 
+0.163% 
+0.085% 
+0.160% 
+0.085% 
+80 
+0.156% 
+0.076% 
+0.150% 
+0.076% 
+85 
+0.151% 
+0.069% 
+0.141% 
+0.069% 
+90 
+0.146% 
+0.062% 
+0.134% 
+0.062% 
+95 
+0.141% 
+0.057% 
+0.127% 
+0.057% 
+100 
+0.137% 
+0.051% 
+0.121% 
+0.051% 
+ 
+Proponents must be aware that the data contained in Table 14 are subject to periodic re-
+assessment, as provided in the most recent version of the VCS document Methodology Approval 
+Process (Section 10.3.1 in version V4.0).  Proponents must ensure that they include in their 
+project calculations any changes, which may have been made to these values as a result of this 
+re-assessment. 
+Advanced approach 
+If the advanced approach is used for North American or offshore products, or both, the same 
+steps will be used as for the default approach, except that at each step either the deliveries of 
+roundwood by mill type (for North American use) or product types (for offshore use) will be 
+accounted separately.  The types to be used are shown in Table 15. 
+Table 15: Mill/Product categories for North America and offshore 
+North America 
+Lumber mills 
+Plywood mills 
+Panel mills (all non-ply panel 
+products) 
+Pulp and paper 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+96 
+ 
+Offshore 
+Lumber 
+Panel (including plywood) 
+Other industrial roundwood 
+Paper and paperboard 
+In step 3, the mill type or use categories are calculated separately, using the values given in 
+Table 16. 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+97 
+Table 16: CH4 emissions by year, in CO2e, as a percentage of the total wood biomass 
+delivered, by mill or product type and use area – Derivation detailed in Appendix F. 73 
+ 
+North America - by primary processing facility 
+Offshore - by end product 
+  
+Year 
+Lumber 
+mills 
+Plywood 
+mills 
+Panel 
+mills 
+Chip/block 
+mills 
+Sawnwood 
+Wood 
+panels 
+Other 
+industrial 
+roundwood 
+Paper/ 
+paperboard 
+0 
+0.001% 
+0.000% 
+0.000% 
+0.001% 
+0.001% 
+0.001% 
+0.001% 
+0.001% 
+1 
+0.021% 
+0.018% 
+0.022% 
+0.003% 
+0.001% 
+0.001% 
+0.000% 
+0.000% 
+2 
+0.068% 
+0.050% 
+0.028% 
+0.113% 
+0.038% 
+0.019% 
+0.057% 
+0.315% 
+3 
+0.107% 
+0.078% 
+0.033% 
+0.206% 
+0.037% 
+0.019% 
+0.056% 
+0.301% 
+4 
+0.140% 
+0.101% 
+0.038% 
+0.285% 
+0.037% 
+0.018% 
+0.055% 
+0.287% 
+5 
+0.168% 
+0.121% 
+0.043% 
+0.350% 
+0.041% 
+0.030% 
+0.073% 
+0.367% 
+6 
+0.191% 
+0.138% 
+0.048% 
+0.404% 
+0.046% 
+0.041% 
+0.089% 
+0.435% 
+7 
+0.210% 
+0.152% 
+0.053% 
+0.448% 
+0.050% 
+0.051% 
+0.104% 
+0.492% 
+8 
+0.225% 
+0.164% 
+0.057% 
+0.484% 
+0.054% 
+0.060% 
+0.117% 
+0.539% 
+9 
+0.238% 
+0.174% 
+0.061% 
+0.513% 
+0.058% 
+0.069% 
+0.128% 
+0.577% 
+10 
+0.249% 
+0.183% 
+0.065% 
+0.535% 
+0.062% 
+0.077% 
+0.138% 
+0.608% 
+11 
+0.257% 
+0.190% 
+0.069% 
+0.553% 
+0.066% 
+0.085% 
+0.147% 
+0.631% 
+12 
+0.264% 
+0.196% 
+0.073% 
+0.566% 
+0.069% 
+0.092% 
+0.155% 
+0.649% 
+13 
+0.269% 
+0.201% 
+0.077% 
+0.575% 
+0.072% 
+0.098% 
+0.162% 
+0.661% 
+14 
+0.272% 
+0.205% 
+0.081% 
+0.580% 
+0.075% 
+0.104% 
+0.168% 
+0.669% 
+15 
+0.275% 
+0.208% 
+0.085% 
+0.583% 
+0.078% 
+0.110% 
+0.173% 
+0.673% 
+16 
+0.277% 
+0.211% 
+0.088% 
+0.583% 
+0.081% 
+0.115% 
+0.177% 
+0.673% 
+17 
+0.277% 
+0.213% 
+0.092% 
+0.582% 
+0.083% 
+0.119% 
+0.181% 
+0.670% 
+18 
+0.278% 
+0.214% 
+0.095% 
+0.578% 
+0.086% 
+0.124% 
+0.183% 
+0.665% 
+19 
+0.277% 
+0.215% 
+0.098% 
+0.573% 
+0.088% 
+0.127% 
+0.186% 
+0.657% 
+20 
+0.277% 
+0.216% 
+0.101% 
+0.567% 
+0.090% 
+0.131% 
+0.187% 
+0.648% 
+25 
+0.268% 
+0.216% 
+0.116% 
+0.525% 
+0.099% 
+0.144% 
+0.189% 
+0.582% 
+30 
+0.254% 
+0.212% 
+0.130% 
+0.474% 
+0.104% 
+0.150% 
+0.184% 
+0.503% 
+35 
+0.240% 
+0.208% 
+0.141% 
+0.422% 
+0.108% 
+0.151% 
+0.174% 
+0.422% 
+40 
+0.227% 
+0.203% 
+0.151% 
+0.374% 
+0.110% 
+0.149% 
+0.162% 
+0.349% 
+ 
+73 Derived from Caren C. Dymond, Forest carbon in North America: annual storage and emissions from 
+British Columbia’s harvest 1965 - 2065, Carbon Balance and Management 7:8, 2012,  Jack K. Winjum, 
+Sandra Brown and Bernhard Schlamadinger, Forest Harvests and Wood Products: Sources and Sinks of 
+Atmospheric Carbon Dioxide, Forest Science 44:2, 1998, and K.E. Skog, Sequestration of carbon in 
+harvested wood products for the United States, Forest Products Journal 58(6):56-72. (2008) 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+98 
+45 
+0.214% 
+0.198% 
+0.160% 
+0.329% 
+0.110% 
+0.144% 
+0.148% 
+0.285% 
+50 
+0.203% 
+0.194% 
+0.168% 
+0.289% 
+0.109% 
+0.138% 
+0.135% 
+0.230% 
+55 
+0.192% 
+0.190% 
+0.174% 
+0.254% 
+0.106% 
+0.131% 
+0.122% 
+0.185% 
+60 
+0.183% 
+0.186% 
+0.180% 
+0.223% 
+0.104% 
+0.122% 
+0.110% 
+0.148% 
+65 
+0.175% 
+0.183% 
+0.184% 
+0.196% 
+0.100% 
+0.114% 
+0.099% 
+0.118% 
+70 
+0.168% 
+0.180% 
+0.188% 
+0.172% 
+0.096% 
+0.106% 
+0.088% 
+0.094% 
+75 
+0.161% 
+0.177% 
+0.191% 
+0.151% 
+0.092% 
+0.097% 
+0.079% 
+0.074% 
+80 
+0.155% 
+0.174% 
+0.193% 
+0.132% 
+0.088% 
+0.089% 
+0.070% 
+0.059% 
+85 
+0.149% 
+0.172% 
+0.195% 
+0.116% 
+0.084% 
+0.082% 
+0.063% 
+0.046% 
+90 
+0.144% 
+0.170% 
+0.196% 
+0.102% 
+0.079% 
+0.074% 
+0.056% 
+0.037% 
+95 
+0.140% 
+0.167% 
+0.197% 
+0.089% 
+0.075% 
+0.067% 
+0.050% 
+0.029% 
+100 
+0.136% 
+0.165% 
+0.197% 
+0.078% 
+0.070% 
+0.061% 
+0.044% 
+0.023% 
+ 
+Proponents must be aware that the data contained in Table 16 is subject to periodic re-
+assessment, as provided in the most recent version of the VCS document Methodology Approval 
+Process (Section 10.3.1 in version V4.0).  Proponents must ensure that they include in their 
+project calculations any changes which may have been made to this data as a result of this re-
+assessment. 
+8.2  
+Baseline Emissions 
+Total baseline emissions by sources and removals by pools are calculated using equations 
+Equation 31, Equation 32, and Equation 33 . 
+Total baseline emissions are calculated using the following equation: 
+Equation 31 
+TBE* = ∆TR0-,* + ∆TE0(,*       [31] 
+Where: 
+Parameter 
+Description 
+Default value 
+TBEt 
+The total baseline emissions reductions and removal enhancements, 
+considering all pools and sources during reporting period t.  
+Expressed in tonnes of CO2e 
+N/A 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+99 
+∆TRBP,t 
+The net incremental GHG removals by baseline pools achieved by the 
+baseline during reporting period t.  A net increase in total removals is 
+expressed as a positive number. Expressed in tonnes of CO2e 
+N/A 
+∆TEBS,t 
+The net incremental GHG emission reductions by baseline sources of 
+emissions achieved by the baseline during reporting period t.  A net 
+increase in total emission reductions is expressed as a positive 
+number. Expressed in tonnes of CO2e 
+N/A 
+ 
+Net incremental baseline GHG removals  
+Equation 32 
+∆TR-*,. = ∑(TR-*=,. − TR-*=,.:5)
+=
+          [32] 
+Net incremental baseline emissions reductions  
+Equation 33 
+∆TU_`,a = ∑(TU_`b,a
+b
+− TU_`b,aR.)        [33] 
+Where: 
+Parameter Description 
+Default 
+Value 
+∆TRBP,t 
+The net incremental GHG removals by baseline pools achieved by the baseline 
+during reporting period t.  A net increase in total removals is expressed as a 
+negative number. Expressed in tonnes of CO2e 
+N/A 
+∆TEBS,t 
+The net incremental GHG emission reductions by baseline sources of emissions 
+achieved by the baseline during reporting period t.  A net increase in total 
+emission reductions is expressed as a positive number. Expressed in tonnes of 
+CO2e 
+N/A 
+TRBPi,t 
+The total GHG removals by pool i, under the baseline scenario during reporting 
+period t.  Expressed in tonnes of CO2e 
+ 
+TRBPi,t-1 
+The total GHG removals by pool i, under the baseline scenario during reporting 
+period t-1.  Expressed in tonnes of CO2e 
+ 
+TEBSj,t 
+The total GHG emissions by source j, under the baseline scenario during 
+reporting period t.  Expressed in tonnes of CO2e 
+ 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+100 
+TEBSj,t-1 
+The total GHG emissions by source j, under the baseline scenario during 
+reporting period t-1.  Expressed in tonnes of CO2e 
+ 
+ 
+8.3  
+Project Emissions 
+Total project emissions reductions and removals enhancements are calculated using equations 
+34, 35 and 36. 
+Equation 34 
+WXYc = ∆WZdd,c + ∆WYde,c       [34] 
+Where: 
+ 
+Parameter Description 
+Default 
+value 
+TPEt 
+The total project emissions reductions and removal enhancements, considering 
+all pools and sources during reporting period t.  Expressed in tonnes of CO2e 
+N/A 
+∆TRPP,t 
+The net incremental GHG removals by project pools achieved by the project 
+during reporting period t.  A net increase in total removals is expressed as a 
+positive number. Expressed in tonnes of CO2e 
+N/A 
+∆TEPS,t 
+The net incremental GHG emission reductions by project sources of emissions 
+achieved by the project during reporting period t.  A net increase in total emission 
+reductions is expressed as a positive number. Expressed in tonnes of CO2e 
+N/A 
+Net incremental project GHG removals Equation 35 
+∆TR--,* = ∑(TR--),* − TR--),*R.)
+)
+        [35] 
+Net incremental project emissions reductions Equation 36 
+∆TE-(,* = ∑(TE-(+,*
++
+− TE-(+,*R.)           [36] 
+Where: 
+Parameter 
+Description 
+Default Value 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+101 
+∆TRPP,t 
+The net incremental GHG removals by project pools achieved by the 
+project during reporting period t.  A net increase in total removals is 
+expressed as a negative number. Expressed in tonnes of CO2e 
+N/A 
+∆TEPS,t 
+The net incremental GHG emission reductions by project sources of 
+emissions achieved by the project during reporting period t.  A net 
+increase in total emission reductions is expressed as a positive 
+number. Expressed in tonnes of CO2e 
+N/A 
+TRPPi,t 
+The total GHG removals by pool i, under the project scenario during 
+reporting period t.  Expressed in tonnes of CO2e 
+ 
+TRPPi,t-1 
+The total GHG removals by pool i, under the project scenario during 
+reporting period t-1.  Expressed in tonnes of CO2e 
+ 
+TEPSj,t 
+The total GHG emissions by source j, under the project scenario 
+during reporting period t.  Expressed in tonnes of CO2e 
+ 
+TEPSj,t-1 
+The total GHG emissions  by source j, under the project scenario 
+during reporting period t-1.  Expressed in tonnes of CO2e 
+ 
+8.4  
+Leakage 
+Leakage occurs when net increases in GHG emissions occur outside the project area, as a result 
+of the project activity. 
+Where a risk of leakage exists, project proponents may undertake leakage mitigation measures to 
+reduce leakage.  If any significant increase in emissions occurs as a result of these measures, 
+the resulting emissions must be accounted using the methods given in section 8.2 for the 
+appropriate emission source. 
+8.4.1  
+Types of Leakage 
+There are two potentially relevant forms of leakage that must be assessed for forest projects:  
+• 
+Activity shifting leakage. Activity shifting leakage occurs when there is an increase in 
+GHG emissions from areas outside the project area, which is caused by the project 
+activity, and which occurs when the actual agent of deforestation and/or degradation 
+moves to or undertakes activities in an area outside of the project area and continues 
+their deforesting and/or degrading activities in that location.  For instance, if a project 
+involves purchasing an area of land from a developer to preserve the forest on it, the 
+developer might use the money to purchase another forested area of land for 
+development. 
+• 
+Market leakage.  Market leakage occurs when there is an increase in GHG emissions 
+from areas outside the project area, which occurs as a result of the project significantly 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+102 
+reducing the production of a commodity, causing a change in the supply and market 
+demand equilibrium, which results in a shift of production elsewhere to make up for the 
+lost supply.   
+Leakage emissions are calculated using Equation 37: 
+PE16 Leakage  
+Equation 37 
+[Ufg.[,a = [Uh`,i + [Uj,a          [37]  
+ 
+Parameter 
+Description 
+Default Value 
+LEPE16, t   
+Leakage during reporting period t.  Expressed in tCO2e. 
+N/A 
+LEAS,t   
+Leakage due to activity shifting during reporting period t.  
+Expressed in tCO2e. 
+N/A 
+LEM,t 
+Market leakage during reporting period t.  Expressed in tCO2e. 
+N/A 
+Accounting of leakage may be omitted where project proponents can demonstrate and document 
+that: 
+• 
+No internal activity shifting leakage has occurred, as detailed in 8.4.1.1 Step 1 below, 
+and; 
+• 
+There is no risk of other activity shifting leakage, because it can be demonstrated that 
+any agents whose activities are reduced or eliminated by the project do not have the 
+ability to increase the amount of those activities taking place elsewhere, and; 
+• 
+Calculation of market leakage using the methods given below shows that market 
+leakage, (together with any other excluded emissions or pools) meets the definition for 
+being de minimis. 
+8.4.1.1 Activity Shifting Leakage 
+Activity Shifting Leakage is to be addressed by the proponent as follows: 
+1. Demonstrate that there is no internal activity shifting leakage.  Project proponents 
+must demonstrate that there is no leakage to areas that are outside the project area but 
+within project proponents’s operations, such as areas where project proponents has 
+ownership of, management of, or legally sanctioned rights to use forest land within the 
+country. It must be demonstrated that the management plans and/or land-use 
+designations of all other lands owned, managed or operated by project proponents 
+(which must be identified by location) have not materially changed as a result of the 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+103 
+project activity (eg, harvest rates have not been increased or land has not been cleared 
+that would otherwise have been set aside). Where project proponents is an entity with a 
+conservation mission, it may be demonstrated that there have been no material changes 
+to other lands managed or owned by project proponents by providing documented 
+evidence that it is against the policy of the organization to change the land use of other 
+owned and/or managed lands including evidence that such policy has historically been 
+followed.74 
+2. Determine whether the specific leakage agent can be identified.  If the agent 
+(person, organization or entity) whose activities have been curtailed within the project 
+area can be identified, quantification of activity shifting leakage must be undertaken using 
+the methods given in step 4, below.  Where the agent cannot be identified, quantification 
+must be undertaken using the methods given in step 5. 
+For instance, if the land within the project area was owned by a developer, and has been 
+bought by a conservation organization, the developer would be identified as the potential 
+leakage agent, as that developer might now undertake additional deforestation on 
+another piece of land. 
+However, if the land was owned by a forest company, who intended to sell it to a 
+developer, but a conservation organization stepped in and bought the land instead, the 
+specific agent of deforestation would not be known, since it would be unclear which 
+developer might have bought the land in the absence of the project occurring. 
+3. Assess the impacts of leakage mitigation measures.  If it can be verifiably shown that 
+demand for the baseline activity is satisfied or removed in some way by or due to leakage 
+mitigation measures undertaken by project proponents that do not involve deforestation 
+outside of the project area, then activity shifting leakage can be assumed to be zero for 
+the remainder of the project (it is possible that a proponent will not be able to 
+demonstrate this initially but may be able to do so at some point during the project). 
+Examples of situations in which demand could potentially be shown to be satisfied or 
+removed include, but are not necessarily limited to: 
+• 
+Where a project proponent undertakes a development project on forest lands but 
+increases the density of the development over what would have occurred in the 
+baseline case such that land use demand (eg, residential or commercial ft2 or 
+other appropriate metric) can be satisfied with less deforestation than in the 
+baseline.      
+• 
+Where the nature of the baseline land use demand is particular to the specific 
+project site (eg, due to site characteristics, etc.) and that there are no other 
+suitable areas within an appropriately established leakage zone surrounding the 
+ 
+74 Requirements sourced from VCS AFOLU Requirements section 4.6.13 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+104 
+project area that would satisfy the land use demand, and thus the demand for 
+land will remain unfilled, and will cause no leakage.  
+• 
+Project proponents undertakes other activities that can be verifiably 
+demonstrated to satisfy demand for the baseline land use without deforestation 
+and that would not have occurred in the baseline, such as making available for 
+development / use marginal non-forest lands that would not have been suitable 
+for accommodating the baseline land use without the intervention of project 
+proponents. 
+4. Estimate emissions due to activity shifting leakage where the agent can be 
+identified.  If the agent can be identified, activity shifting leakage must be quantified by 
+monitoring the actual activities of the agent over a five year period, as compared with the 
+planned activities of that agent prior to the commencement of the project.  Quantification 
+must be undertaken using the following steps: 
+a. Document the plans of the agent 
+Prior to project commencement, the plans of the identified agent to undertake 
+activities over the next five years must be documented.  The documentation must 
+identify what the agent plans to do, how and where they plan to do it, and when 
+the activities are expected to take place.  The plans must identify the specific 
+pieces of land on which activities are forecast to take place, if this is possible, 
+and must be specific enough to allow estimation of the GHG emissions which will 
+occur as the plan is implemented. 
+b. Determine if the plans of the agent have materially changed 
+Five years after project commencement, determine whether the plans of the 
+identified agent have been carried out without substantial changes.  If they have 
+been carried out, no further quantification is required.  If the actual activities of 
+the agent have varied substantially from the planned activities, quantification 
+must be undertaken using the methods given in step c below. 
+c. Quantify the GHG emissions resulting from the changes. 
+Based on the actual activities undertaken by the agent, and using the methods 
+given in Section 8 of this methodology to quantify specific pools and emissions, 
+determine what the total emissions resulting from the activities of the agent have 
+been.  If these emissions are less than those forecast under the original plan for 
+the agent’s activities, no leakage has occurred.  If the actual emissions are 
+greater than the forecast emissions, the amount of leakage will be the difference 
+between the actual emissions and the forecast emissions for the agent. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+105 
+5. Estimate emissions due to activity shifting leakage where the agent cannot be 
+identified.  If the agent cannot be identified, and leakage mitigation measures have not 
+satisfied the demand for the baseline activity, project proponents must undertake a land 
+use analysis for the baseline land use activity in a leakage zone surrounding the project 
+area, in order to assess the extent to which land use shifting to other forest lands would 
+occur as a result of the project, using the following steps: 
+a. Identify the leakage zone 
+The leakage zone is an area or areas in the region of, but outside of, the project 
+area where activities could be undertaken which are similar to those undertaken 
+within the project area under the baseline scenario.  For example, if the baseline 
+activity was conversion of private forest land to pasture, the leakage zone will 
+consist of a specific area around the project area where significant amounts of 
+private land with potential for conversion to pasture exist.  The leakage zone 
+must be defined based on an analysis of the surrounding area to determine 
+where there are opportunities to undertake the baseline activity.  Leakage zones 
+may consist of one or more continuous areas, and may or may not directly adjoin 
+the project area. Typically, leakage zones will be in the range of 2 to not more 
+than 20 times the size of the project area, but could be smaller where opportunity 
+to undertake baseline activities is rare.  Leakage zones extending over a broad 
+geographic area (eg, all of BC) will not be appropriate for assessing leakage, as 
+it is unlikely that similar drivers and opportunities exist over that wide an area. 
+b. Assess the agents and circumstances for activity shifting leakage within the 
+leakage zone 
+Such an assessment must consider at minimum the following: 
+• 
+Who would have undertaken the activity (the class of agents).  For 
+instance, if the activity being shifted is clearance of land for development, 
+what class of developers would have undertaken the activity. 
+• 
+What the class of agents would have done with the land.  For instance, if 
+the agents are developers, what type of development would have 
+occurred? 
+• 
+All local zoning bylaws and other restrictions on land development such 
+as covenants, easements, and existing right of ways;  
+• 
+Availability of forest land (private, municipal, Crown-owned, First Nations, 
+Indian Reserves, or other) that might be suitable for the baseline land 
+use, subject to the above assessment of zoning, plans and strategies, 
+but with consideration of the potential for zoning changes to occur that 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+106 
+might permit additional forest lands to be eligible for deforestation and 
+conversion to the baseline land use type. 
+c. Quantify activity shifting leakage 
+Based on the assessment of the agents and circumstances of activity shifting 
+leakage within the leakage zone, activity shifting leakage must be quantified 
+based upon the difference between historic and with-project rates of activity by 
+the identified class of agents within the region.  Project proponentss must 
+undertake the following quantification steps 
+i. 
+Identify and justify the leakage zone 
+ii. 
+Model the expected occurrence of the activity within the leakage zone 
+over the next five years, not including the baseline activity in the project 
+area.  If the activity was development, for instance, the rate might be X 
+ha per year.  This modelling must be based on an assessment of factors 
+such as: 
+• 
+Historic trends 
+• 
+Drivers of the activity (population change, economic factors, etc.) 
+• 
+Limits to the activity (zoning restrictions, etc.) 
+Project proponents must document and justify all of the assumptions 
+used in developing this model. 
+iii. 
+Model the average GHG output per unit area from the activity within the 
+leakage zone.  For instance, if the activity is development, what is the 
+average net GHG emission from the accounted pools for each hectare 
+developed. Accounted pools will include the HWP pool where the activity 
+results in the production of harvested wood products. Quantification of 
+the carbon densities of pools on these lands must be undertaken using 
+the appropriate models and methods discussed for the pools in section 
+8. 
+iv. 
+At the end of the five year period, assess the actual amount of the 
+activity that has taken place within the leakage zone.  For instance, 
+quantify the total number of hectares developed.  If the actual amount of 
+the activity that has taken place is greater than that projected in step b, 
+the amount of leakage area is the actual amount of the activity, less the 
+modeled amount of the activity, to a maximum of the amount of activity 
+that would have taken place within the project area.  As an example: 
+• 
+The project area is 40 hectares, and under the baseline this 
+would have been developed. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+107 
+• 
+Based on the modelling, 180 hectares were expected to be 
+developed in the leakage zone over the five years after project 
+commencement, not counting the project area. 
+• 
+After 5 years, 240 hectares have been developed.  Thus the 
+actual number of hectares developed is 60 hectares greater than 
+expected.  However, since the project area was only 40 
+hectares, the leakage area is 40 hectares. 
+v. 
+Multiply the leakage area by the average GHG output per unit area, 
+calculated in step c, to determine the total activity shifting leakage.  Note 
+that the average output is used for the calculation, rather than the output 
+from any specific area, since it is impossible to say which of the areas 
+actually developed represents the leakage.  Thus even a project in which 
+the leakage area is equal in size to the project area may have GHG 
+benefits.  For instance, if the project saves 40 hectares of old growth 
+forest, but most of the development in the area takes place on low quality 
+agricultural land, shifting development from the old growth to the low 
+quality agricultural land will have significant GHG benefits. 
+8.4.1.2  Market Leakage 
+Market leakage may occur where a project involves changing the amount of harvesting that 
+occurs in the project area relative to the baseline.  In such a case managers of other forest lands 
+may adjust their levels of harvest in response to increases in price or increased opportunity to sell 
+forest products, which may partially or fully negate the project GHG benefits. 
+Market leakage must only be assessed in a given reporting period where project HWP 
+production, in terms of amount of carbon or carbon dioxide stored, is less than baseline HWP 
+production.  Where baseline HWP production is zero (eg, typically in ARR projects), market 
+leakage would be zero.  Note that in REDD projects, the baseline may include harvesting until 
+such time as the baseline lands have been fully developed and further deforestation ceases. 
+Note: for projects with the potential for both activity shifting and market leakage, market leakage 
+is to be assessed based only on the amount of decreased project harvesting relative to the 
+baseline that is not already compensated for by activity shifting leakage.  For example, if half of 
+the baseline deforestation avoided by a project at the project site is determined to shift to other 
+areas outside of the project due to activity shifting leakage, market leakage would only be 
+assessed on the portion of avoided deforestation (ie, avoided harvesting) that would not have 
+directly shifted to other areas due to activity shifting leakage.  
+Market leakage can be calculated using one of three methods 
+• 
+Method 1: Total difference in all carbon pools.  This method assumes that all of the 
+difference between the carbon content of the carbon pools within the project area under 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+108 
+the project scenario, as compared with the baseline scenario, is attributable to the project 
+actions which are causing the market leakage.  For instance, this method must be used if 
+the only project activity is preservation of forests as a result of reductions in harvest.  This 
+method is typically easy to calculate, since the total difference in carbon contained in 
+carbon pools within the project area between the baseline and project scenarios is 
+calculated using the sampling and modeling methods given in section 8 above.   
+However, it may significantly over-estimate leakage where multiple project actions are 
+being taken to increase the total carbon in carbon pools within the project area. 
+• 
+Method 2: Total difference in carbon content of carbon pools within the project area 
+resulting from harvest.  This method calculates market leakage based only on changes in 
+carbon pools within the project area as a result of harvest.  The method must be used 
+where the project also undertakes other activities which increase the carbon content of 
+carbon pools within the project area, in addition to reductions in harvest.  For instance, if 
+a project includes both harvest reduction and enhanced silviculture activities, market 
+leakage would be calculated based only on the reduction in harvest.  Note that in cases 
+where the only project activity is reduction in harvest, Methods 1 and 2 will calculate the 
+same amount of leakage. 
+• 
+Method 3: Project proponents must use the most current market leakage discount factors 
+provided in the latest version of the VCS Standard. 
+8.4.1.2.1 Market leakage (Method 1) 
+Market leakage – Method 1 
+Equation 38 
+HI>.@ = max K0, *∆NOAA,@ − ∆NOBA,@ / + ∆PQPCDE,FGA,@ − HIHI,@R× HIS>          [38] 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+109 
+Parameter 
+Description 
+Default Value 
+LEM,t 
+Total increase in project emissions due to market leakage from all 
+affected carbon pools and sources during reporting period t.  
+Expressed in tCO2e. 
+N/A 
+∆TRPP,t - ∆TRBP,t 
+The net incremental amount of carbon stored by the project in forest 
+carbon pools (excluding HWPs) during reporting period t as 
+compared to the baseline.  Expressed in tCO2e. 
+N/A 
+∆GHGCO2, HWP , t 
+The net incremental amount of carbon stored in project HWPs 
+harvested during reporting period t75 as compared to the baseline.  
+Expressed in tCO2e. 
+N/A 
+ LEAS,t  
+Total increase in project emissions due to activity shifting (AS) 
+leakage from all affected carbon pools during reporting period t.  
+Expressed in tCO2e. 
+N/A 
+LEFM 
+Market leakage factor (LEFM), expressing the percentage of the total 
+increase in project emissions due to market leakage during reporting 
+period t, Expressed in%. 
+N/A 
+8.4.1.2.2 Market leakage (Method 2) 
+Equation 39 
+[Uj,a = max]0, ∆TUklmn,a + `a`op2,kqffrrst,a − [Uh`,a b × [Ucj       [39] 
+Where: 
+ 
+75 Difference of mass of CO2 in project or baseline HWPs as calculated in the Equation 4 for 
+times t and t-1 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+110 
+Parameter 
+Description 
+Default Value 
+ LEM,t 
+Total increase in project emissions due to market leakage from all 
+affected carbon pools and sources during reporting period t.  
+Expressed in tCO2e. 
+N/A 
+∆TEHarv,t 
+The net incremental amount of carbon removed from the project 
+forest during reporting period t as compared to the baseline, via the 
+following mechanisms: 
+• 
+Physical removal of harvested wood from the project forest 
+• 
+Harvesting-related losses that occur within the forest (eg, 
+lost branches, tops, etc.) that are assumed to rapidly decay 
+and release CO2 to the atmosphere.   
+Expressed in tCO2e. 
+N/A 
+∆GHGCO2, HWP 
+Pools, t 
+The net incremental amount of carbon stored in project HWPs 
+harvested during reporting period t  as compared to the baseline.  
+Expressed in tCO2e. 
+N/A 
+LEAS,t 
+Total increase in project emissions due to activity shifting leakage 
+(AS)  from all affected carbon pools during reporting period t.  
+Expressed in tCO2e. 
+N/A 
+ LEFM 
+Market leakage factor, expressing the percentage of the total 
+increase in emissions due to market leakage during reporting period 
+t. Expressed in %. 
+N/A 
+8.4.1.2.2.1. Estimating harvesting impacts for Method 2 
+Harvest impacts must be estimated using Equation 40. 
+Harvesting impacts  
+Equation 40 
+∆TE2JKL,. = &∑mM,.,NJMOP=QO ∗ (msM mhM
+⁄
+) − ∑mM,.,RKS)OT. ∗ (msM mhM
+⁄
+)
+M
+M
+0 ∗ fT,USSV ∗
+44/12  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Where: 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+111 
+Parameter 
+Description 
+Default Value 
+∆TEHarv,t 
+The net incremental amount of carbon removed from the project 
+forest during reporting period t as compared to the baseline, via the 
+following mechanisms: 
+• 
+Physical removal of harvested wood from the project forest 
+• 
+Harvesting-related losses that occur within the forest (eg, 
+lost branches, tops, etc.) that are assumed to rapidly decay 
+and release CO2 to the atmosphere.   
+Expressed in tCO2e. 
+N/A 
+ms, t, baseline 
+Dry mass, in tonnes, of harvested wood, minus bark, harvested in 
+the baseline in reporting period t that will be processed into HWP k.  
+This value is determined in a manner analogous to Rwbiomassy,d in 
+Equation 2, Section 8.1.1.2, except that this mass is determined by 
+species or group of species rather than by HWP type.   Expressed 
+in tonnes. 
+N/A 
+mss 
+Average total mass of a standing tree of species or group of species 
+s prior to harvest.  Expressed in tonnes. 
+See endnote 
+below the table 
+mhs 
+Average mass of the harvested wood, minus bark, of a tree of 
+species or groups of species s.  Expressed in tonnes. 
+See endnote 
+below the table 
+ms, t, project 
+Dry mass, in tonnes, of harvested wood, minus bark, harvested in 
+the project in reporting period t that will be processed into HWP k.  
+This value is determined in a manner analogous to Rwbiomassy,d in 
+Section 8.1.1.2, except that this mass is determined by species or 
+group of species rather than by HWP type.  Expressed in tonnes. 
+N/A 
+fC, wood 
+The fraction of the dry mass of wood, excluding bark, that is carbon. 
+Dimensionless  
+Assumed to be 
+50% for all 
+wood 
+species.76 
+S 
+Relevant tree species or group of species types being harvested in 
+the project and baseline area. 
+N/A 
+Project proponents will be responsible for justifying total mass and harvested mass appropriate 
+for the project and baseline, considering tree species involved, typical age of trees at harvest, and 
+any other relevant factors.  A proponent may also choose to use a single  value applicable to all 
+ 
+76 IPCC GPG for LULUCF equation 3.2.3 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+112 
+species, rather than one for each relevant species, as long as the approach is demonstrated to 
+be conservative (ie, does not under-estimate leakage). The preferred method for deriving mss is 
+to run an appropriate stand model, taking into account species, age and density, and divide the 
+live biomass stock output by the modeled number of remaining live trees per hectare at the stand 
+age. 
+8.4.1.2.3  Determining Percent Market Leakage   
+Project proponents may undertake this step using project specific data combined with existing 
+results from studies of market leakage effects, summarized for regions of BC under Option 1, 
+below, or through developing their own refined market leakage estimates based on principles 
+discussed under Option 2.  In either case, market leakage estimates must be based on an 
+analysis of forests containing the same or substitutable commercial species as compared to the 
+forest in the project area, and must be consistent with methods for quantifying leakage found in 
+scientific peer-reviewed journal sources. Also included is Option 3 which is the VCS leakage 
+discount method. 
+1. Provincial estimates of LEFM  (Option 1) 
+Project proponents within BC can use a BC provincial leakage rate estimate from Table 
+17 below for the factor LEFMin calculating their project leakage estimate.  Proponents that 
+choose to use a provincial leakage estimate as their project leakage factors can do so 
+provided that it is supported by a statement of acceptance that the project is 
+representative of average timber commodities and the proponent has no reason to 
+believe leakage would be higher than the provincial base case leakage estimate.     
+Table 17: BC provincial leakage estimates for projects resulting in reduced harvest in BC 
+Geographic Area 
+Estimated Leakage 
+Northern Interior 
+65.2% 
+Southern Interior 
+63.6% 
+Coast  
+55.3% 
+The leakage factors referenced in the above table have been derived using the project-
+specific approach (Option 2) described below based on the average mix of tree species 
+in the total harvest of each respective geographic area applicable to the province of BC 
+(see Appendix A for further details on how the base case values were determined).  
+There are certain tree species in specific regions of British Columbia which are less 
+substitutable in terms of developing certain wood products than others.  The 
+substitutability of wood products has a significant effect on the ultimate leakage estimate.  
+Project proponents must use the provincial leakage estimates as a guide.  When project 
+areas have proportions of tree species that differ from the regional averages and perhaps 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+113 
+higher proportions of tree species with low or moderate substitutability than what is 
+reflected in the estimated leakage rate for the project’s region, or in the case of projects 
+within provinces other than BC, it is recommended that project proponents utilize the 
+guidance given in this document and tailor/refine the leakage estimates to reflect these 
+project specifics accordingly.  This is particularly the case for the coastal region and 
+southern interior region of British Columbia.    
+The provincial leakage factors will be reviewed periodically and updated as required.  Any 
+changes will be applicable to existing projects and must be incorporated into the next 
+project verification that follows the date new values are published.  
+2. Project-specific estimates of LEFM (Option 2) 
+Project proponents are free to estimate their own project specific market leakage factor 
+provided that they use the methodology described below.  Any proposed project-specific 
+leakage parameters used in preparing the project-specific market leakage factor must be 
+supported by an adequate rationale.   
+The recommended approach for determining market leakage factor resulting from a 
+project with a reduced harvest utilizes a formula proposed by Murray et al77 as shown in 
+Equation 41. 
+% leakage from external harvest shifting  
+  
+Equation 41 
+LEF> = 
+(.uu×7×w×P.)
+([7R'×(.yw∗{)]×P1) 
+ 
+ 
+ 
+[41] 
+ 
+Where: 
+Parameter 
+Description 
+Default Value 
+LEFM 
+Market leakage factor (LEFM), % leakage from external harvest 
+shifting 
+ 
+e 
+Supply price elasticity. 
+ 
+ 
+77 Murray, B., et al. 2004. “Estimating Leakage from Forest Carbon Sequestration Programs”. Land 
+Economics 80(1): 109-124. 
+ 
+METHODOLOGY: VCS Version 3   
+v3.3

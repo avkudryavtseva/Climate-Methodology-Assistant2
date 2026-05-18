@@ -1,0 +1,88 @@
+7 ADDITIONALITY 
+Project proponents must apply a performance method (area-based approach) or a project method 
+(census-based approach) to demonstrate additionality.  
+7.1 
+Area-based Approach 
+Project proponents using the area-based approach must apply the following additionality 
+demonstrations: 
+• Regulatory surplus 
+• Performance benchmark  
+• Investment analysis10 
+7.2 
+Census-based Approach 
+Project proponents using the census-based approach must apply the following additionality 
+demonstrations:  
+• Regulatory surplus  
+ 
+9 Land use category as defined by the IPCC Guidelines for National Greenhouse Gas Inventories Volume 4, Chapter 3 
+10 The investment barrier analysis is in addition to the regulatory surplus check and the performance benchmark for the 
+area-based approach. It is not required where area-based projects do not generate revenues or receive financial incentives 
+from sources other than the sales of carbon credits. 
+ 
+VM0047, v1.1 
+17 
+• Investment analysis11  
+• Common practice 
+7.3 
+Additionality Demonstrations 
+7.3.1 Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent version of the VCS 
+Methodology Requirements. 
+7.3.2 Performance Benchmark 
+The performance benchmark must be established following the procedures outlined in Appendix 
+1 and is applicable to the area-based approach only.  
+Where parameters ΔSIcontrol,t and ΔSIwp,t are deemed significantly different (via Z test in Appendix 
+1 Equation (A7)), the project demonstrates additionality for the performance benchmark.  
+To demonstrate additionality at validation, project proponents must apply an ex-ante calculation 
+to demonstrate an expected difference between modeled performance of the project and the 
+forecasted performance benchmark. Additionality must be reassessed at each verification using 
+the Z test in Appendix 1, Equation (A7).  
+7.3.3 Investment Analysis 
+Project proponents applying an investment analysis to assess additionality must use a 
+benchmark analysis or investment comparison analysis and must apply the procedures and 
+requirements in Step 3 of the most recent version of VCS tool VT0008 Additionality 
+Assessment.12 
+7.3.4 Common Practice  
+The common practice analysis is applicable to the census-based approach only. The following 
+steps must be taken to demonstrate that without carbon finance the project activity is not 
+common practice: 
+1) Define the ARR project activity (e.g., tree planting). 
+2) Identify the geographic domain with a similar policy (and market, as available) 
+environment as the project area. The geographic domain is first defined as the national 
+boundary. Where national or subnational programs provide incentives for afforestation, 
+ 
+11 The investment barrier analysis is always required for census-based projects. 
+12 Section number from VT0008 Additionality Assessment, v1.0  
+ 
+VM0047, v1.1 
+18 
+reforestation, or revegetation activities at the subnational level, the geographic domain 
+must be further constrained to reflect similar incentives and market conditions as those 
+presented in the project area (e.g., proximity to nurseries or wood processing 
+infrastructure). 
+3) Identify a similar class of adopters or landowners (e.g., smallholder farmers). 
+4) Identify and explain any essential distinctions between the proposed project and similar 
+activities. Such essential distinctions may include significant changes in circumstances, 
+such as new barriers that have emerged or the end of promotional policies, that affect 
+implementation of the proposed project activity compared to other similar activities. The 
+distinction must be essential and verifiable. Essential distinctions may be related to, for 
+example, changes in access to land or inputs, subsidies or other financial incentives, 
+emergence of new barriers, differences in market access, infrastructure, labor 
+availability, and biophysical conditions (e.g., climate, slope, or soil type). 
+5) Survey a representative sample of similar landowners from within the relevant geographic 
+domain within five years of the project start date. 
+6) Calculate the (cumulative) adoption rate (as a percentage) of the project activity by 
+landowners who have not received carbon finance revenue (e.g., are not part of a 
+registered VCS AFOLU project) in the sample of the adopter class. 
+Where the adoption rate is below 15% (Mathur et al. 2007), the project activity is not common 
+practice. Where the adoption rate is equal to or higher than 15%, the project activity is common 
+practice and is not additional.  
+Alternatively, statistics on ARR activities derived from data collected within five years of the 
+project start date may be used for this demonstration provided they are relevant to the project 
+area, do not distinguish between activities incentivized by and not incentivized by carbon finance 
+(thus are conservative), and are publicly available as: 
+a) agricultural census or other government data (e.g., survey data); 
+b) peer-reviewed scientific literature; or 
+c) independent research or reports compiled by industry associations, with full and 
+transparent methods and documentation of results.

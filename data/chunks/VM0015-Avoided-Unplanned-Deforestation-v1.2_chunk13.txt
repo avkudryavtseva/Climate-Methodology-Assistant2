@@ -1,0 +1,59 @@
+1 
+  
+  
+  
+  
+  
+ 
+ 
+T 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+Table 31: Annual Areas Deforested in Each Category ctz Within the Project Area in the 
+Baseline Case (Baseline Activity Data Per Category (ctz) 
+  
+Activity Data Per LU/LC Category ctz Within the 
+Project Area 
+Total Baseline 
+Deforestation in the 
+Project Area 
+IDct > 
+1 
+2 
+3 
+… 
+Ctz 
+ABSLPAt 
+ABSLPA 
+Name > 
+ZoneCat1 
+ZoneCat2 
+ZoneCat3 
+ZoneCat4 
+ZoneCat5 
+Annual 
+Cumulative 
+Project year 
+t 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+0 
+  
+  
+  
+  
+  
+ 
+ 
+1

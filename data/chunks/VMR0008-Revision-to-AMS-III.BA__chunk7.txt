@@ -1,0 +1,3 @@
+6 BASELINE SCENARIO 
+The baseline scenario must be determined following the procedure provided in the latest 
+version of AMS-III.BA.

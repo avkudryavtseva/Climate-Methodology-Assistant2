@@ -6,17 +6,25 @@ class FlanT5Generator:
 
     def __init__(self, model_name="google/flan-t5-base"):
 
+        # выбираем устройство - CPU,на GPU падает
         self.device = torch.device("cpu")
 
+        # загружаем tokenizer 
         self.tokenizer = AutoTokenizer.from_pretrained(model_name)
 
+        # загружаем FLAN-T5 модель (text-to-text генерация)
         self.model = AutoModelForSeq2SeqLM.from_pretrained(model_name)
+
+        # переносим модель на выбранное устройство
         self.model.to(self.device)
+
+        # переводим модель в inference режим (без обучения)
         self.model.eval()
 
-    # ✅ ВОТ ТУТ ОТСТУП (КРИТИЧНО!)
     def generate(self, query: str, context: str) -> str:
 
+        # собираем prompt для модели
+        # сюда вставляется вопрос + контекст из retrieval
         prompt = f"""
 You are a climate methodology expert.
 
@@ -35,6 +43,7 @@ CONTEXT:
 ANSWER:
 """
 
+        # токенизируем prompt (text -> tokens)
         inputs = self.tokenizer(
             prompt,
             return_tensors="pt",
@@ -42,17 +51,26 @@ ANSWER:
             max_length=1024
         )
 
+        # переносим входные данные на CPU
         inputs = {k: v.to(self.device) for k, v in inputs.items()}
 
+        # отключаем градиенты 
         with torch.no_grad():
+
+            # генерируем ответ модели
             outputs = self.model.generate(
                 **inputs,
                 max_new_tokens=200,
                 do_sample=False
             )
 
-        decoded = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+        # декодируем токены обратно в текст
+        decoded = self.tokenizer.decode(
+            outputs[0],
+            skip_special_tokens=True
+        )
 
+        # если модель дублирует "ANSWER:" → чистим вывод
         if "ANSWER:" in decoded:
             decoded = decoded.split("ANSWER:")[-1].strip()
 

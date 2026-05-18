@@ -1,0 +1,220 @@
+8 QUANTIFICATION OF ESTIMATED GHG 
+EMISSION REDUCTIONS 
+8.1 
+Baseline Emissions 
+8.1.1 Analysis of Historical Land Use and Land Cover Change (Step 3) 
+The goal of this step is to collect and analyze spatial data in order to identify current land use 
+and land cover conditions and to analyze LU/LC change during the historical reference period 
+within the reference region. 
+8.1.1.1 Collection of Suitable Data 
+Collect the data that will be used to analyze land use and land cover change in the reference 
+region during the historical reference period. It is good practice to do this for at least three time 
+points, about three to five years apart. For areas covered by intact forests, it is sufficient to 
+collect data for one single date, which must be as close as possible to the project start date (≤2 
+years). 
+ 
+VM0015, v1.2 
+ 
+35 
+As a minimum requirement: 
+1) Collect medium resolution spatial data13 (from 30 m × 30 m up to a maximum of 
+100 m × 100 m resolution) from optical and non-optical sensor systems, such as but 
+not limited to Landsat,14 Sentinel, SPOT and ASTER data covering the past 10 years. 
+2) Collect high resolution data from remote sensors (<5 × 5 m pixels) and/or from direct 
+field observations for ground-truth validation of the posterior analysis. Describe the 
+type of data, coordinates and sampling design used. 
+3) In Table 4, provide the following information about the data collected. 
+Table 4: Data Used for Historical LU/LC Change Analysis 
+Vector 
+(satellite 
+or 
+airplane) 
+Sensor 
+Resolution 
+Coverage 
+Acquisition 
+date 
+Scene or point identifier 
+Spatial 
+Spectral 
+(km2) 
+(DD/MM/YY) 
+Path / 
+Latitude 
+Row / 
+Longitude 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Where already interpreted data of adequate spatial and temporal resolution are available, 
+these may also be considered for posterior analysis, with some caution.15 Where data about 
+historical LU/LC and/or LU/LC change are already available, information about the minimum 
+mapping unit, the methods used to produce these data and descriptions of the LU/LC classes 
+and/or LU/LC change categories must be compiled, including on how these align with IPCC 
+classes and categories. 
+ 
+13 Guidance on the selection of data sources (such as remotely sensed data) may be found in Chapter 3A.2.4 of the 
+2019 Refinement to the IPCC 2006 Guidelines for National Greenhouse Gas Inventories, Vol. 4, and in the latest 
+version of the GOFC-GOLD REDD Sourcebook. 
+14 On 31 May 2003, the scan-line-corrector aboard Landsat 7 failed, producing horizontal zero-filled wedges in 22 
+percent of scenes from that point on. The nadir portion of full scene images is usually intact, though both east and west 
+of nadir gaps extend to the scene edges. Gap-filling functions have been created, but algorithmic mechanisms that blur, 
+average or otherwise change spatial relationships between pixels spanning these gaps to existing pixels in the scene 
+being filled are unsatisfactory from the perspective of the spatial modeling needs of REDD. Instead, users should fill in 
+these gaps post-processing with spatially and spectrally satisfactory classifications from other sources (such as other 
+complimentary optical and radar platforms). 
+15 Existing maps should be used with caution because they often do not report documentation, error estimates, whether 
+they are specifically of the site or region in question or extracted from a national map and whether they were obtained 
+by change detection techniques rather than by static map comparison.  
+ 
+VM0015, v1.2 
+ 
+36 
+8.1.1.2 Definition of Classes of Land Use and Land Cover 
+Identify and describe the land use and land cover (LU/LC) classes present in the reference 
+region at the project start date. An LU/LC class is a unique condition of land use or land cover 
+for which: 
+a) The boundary may be defined based on remotely sensed data and information, such as 
+maps of vegetation, soil, elevation and management category, as defined by the project 
+proponent to unambiguously define an LU/LC class; and 
+b) Carbon stocks per hectare (t CO2e/ha) are relatively homogeneous across the 
+landscape. Carbon stocks must only be estimated for classes inside the project area, 
+leakage belt and leakage management zones, as described in Step 6 (Section 8.1.5). 
+The following criteria must be used to define LU/LC classes: 
+1) The minimum classes must be “Forest Land” and “Non-Forest Land.” 
+2) “Forest land” will in most cases encompass strata with different carbon stocks. Forest 
+land must therefore be further stratified in forest classes with different average carbon 
+densities. 
+3) “Non-Forest Land” may be further stratified in different non-forest classes. See the 
+2019 Refinement to the IPCC 2006 Guidelines for National Greenhouse Gas 
+Inventories, Vol. 4, Chapter 3, Section 3.2, for a description of potential non-forest land 
+classes (cropland, grassland, wetlands, settlements and other land). Where appropriate 
+to improve the accuracy of carbon stock estimates, classes in addition to those used in 
+national GHG inventories may be defined. 
+4) The description of an LU/LC class must include criteria and thresholds that enable 
+discrimination between classes. Select criteria and thresholds that allow a precise 
+delineation of the LU/LC polygons of each class. Such criteria may include spectral 
+definitions and other criteria such as elevation, slope, aspect, soil type, distance to 
+roads16 and vegetation type. Where needed, in the “Description” column of Table 5, 
+refer to more detailed descriptions in the methodological annex to be prepared 
+according to Section 8.1.2.1. 
+5) For all forest classes present in the project area, specify whether logging for timber, 
+fuel-wood collection or charcoal production occur in the baseline case. Where different 
+combinations of forest class and baseline activities are present in the project area, 
+define different classes for each combination, even where carbon densities are similar 
+at the project start date. 
+ 
+16 Some classes may be defined using indirect criteria (e.g., “Intact old-growth forest” = Forest at more than 500 m from 
+the nearest road; “Degraded forest” = Forest within 500 m of the nearest road. In this example, an assumption is made 
+that logging activities usually do not occur, or are of very low intensity, where the trees are more than 500 m from the 
+nearest road). The use of indirect criteria must be briefly justified in the PD based on verifiable information, such as 
+independent studies and literature. Using the definition of “degraded forest” from this example, the boundary of the 
+polygon class “degraded forest” would be a function of how the road network develops over time, which implies that 
+such development must be monitored. 
+ 
+VM0015, v1.2 
+ 
+37 
+6) Where a forest class has predictably growing carbon density (i.e., is a secondary forest) 
+and is located both in the project area and leakage belt, two different classes must be 
+defined (see Section 8.1.5.1 for explanations). 
+7) In most cases, one single Land Use and Land Cover Map representing the spatial 
+distribution of forest classes at the project start date will be sufficient. However, where 
+certain areas of land are expected to undergo significant changes in carbon density 
+due to growth or degradation in the baseline case, a sequence of Land Use and Land 
+Cover Maps representing the mosaic of forest classes in each future year may be 
+generated.  
+8) The generation of such a sequence of maps is mandatory only for areas within the 
+project boundary that are undergoing degradation in the baseline case (i.e., categories 
+C, D, E and/or F are present in the project area; see Table 1 and Appendix 1).  
+9) Any assumption of change in carbon densities in the baseline case must be 
+documented using credible and verifiable sources of information, such as 
+measurements in plots representing a chrono-sequence, published literature and other 
+sources, as appropriate. 
+10) List the resulting final LU/LC classes in Table 5. 
+Table 5: List of All Land Use and Land Cover Classes Existing at the Project Start Date in the 
+Reference Region 
+Class Identifier 
+Trend in 
+Carbon 
+Density 
+Presence 
+In 
+Baseline 
+Activity 
+Description   
+(including criteria for unambiguous 
+boundary definition) 
+IDcl 
+Name 
+LG 
+FW 
+CP 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+… 
+  
+  
+  
+  
+  
+  
+Cl 
+  
+  
+  
+  
+  
+  
+ 
+TABLE NOTES 
+IDcl 
+Class identifier 
+Response options for 
+Trend in Carbon Density 
+Note whether decreasing, constant or increasing. See Section 0 for a 
+definition of carbon density 
+Response options for 
+Presence In 
+RR = Reference region, LK = Leakage belt, LM = Leakage management 
+zones, PA = Project area 
+LG 
+Logging 
+FW 
+Fuelwood collection 
+ 
+VM0015, v1.2

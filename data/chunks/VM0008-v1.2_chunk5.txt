@@ -1,0 +1,128 @@
+4 APPLICABILITY CONDITIONS 
+This methodology covers weatherization of dwellings and implementation of energy efficiency 
+measures in single-family homes, multi-family buildings, or mobile homes that reduce energy 
+consumption. Examples include but are not limited to, improved air sealing, enhanced 
+insulation, replacements of refrigerators or air conditioning units, and upgrades to 
+heating/cooling systems, such as heat pumps (HP) and heat pump water heaters (HPWH). 
+This methodology is applicable under the following conditions: 
+1) The project activity consists of the weatherization of dwellings and/or implementation 
+of energy efficiency measures in single-family homes, multi-family buildings, or mobile 
+homes to reduce energy consumption. Project activities may include weatherizing 
+whole buildings, replacing mobile homes, or implementing individual energy efficiency 
+measures within existing dwellings. 
+2) The condition of the dwelling is and remains adequate for project activities according to 
+nationally recognized weatherization best practice standards.5 Project activities do not 
+result in a violation of health and safety, environmental, or other relevant regulations.  
+3) The replacement appliances and mobile homes replaces functioning appliances, or 
+occupied homes.  
+4) The dwelling is occupied. Vacancy is permitted on an intermittent basis for up to three 
+months, or if the dwelling is occupied seasonally on an annual basis.  
+5) The capacity of any replacement appliance or replacement component of a central 
+heating/cooling system satisfies the post-retrofit heat load, cooling load and electricity 
+demand (“energy load”) within the dwelling.  
+6) In the case of heating/cooling systems that serve multiple dwellings, all residential 
+dwellings connected to the system is included in the project.  
+7) The dwelling meets or exceeds the performance benchmark as calculated for the same 
+building stock.  
+ 
+5 For example, in the United States, the Department of Energy Weatherization Assistance Program and the Building 
+Performance Institute provide training curricula, core competencies, and example best practice standards for 
+Weatherization activities, which are available at: http://www.waptac.org/sp.asp?mc=training_resources and 
+http://www.bpi.org/standards.aspx.  
+ 
+VM0008, v1.2 
+8 
+Applicable interventions fall into one of the following categories: 
+Category A. All energy retrofit: A combination of energy efficiency measures directed at the 
+building envelope (i.e., air infiltration, insulation), improving the efficiency of the central heating 
+and/or cooling system and reducing energy consumption of appliances (i.e., replacement of 
+refrigerators, air conditioning units, lamps, showerheads). 
+Category B. Efficiency enhancement of the building envelope and central heating and/or 
+cooling system only. 
+Category C. Replacement of appliances currently in service.  
+Category D. Replacement of a mobile home currently occupied.  
+Fuel switching is allowed as part of the interventions only if it does not include switching from a 
+higher carbon intensity fossil fuel to a lower carbon intensity fossil fuel (e.g., switching from coal 
+briquettes to natural gas is not in scope). Switching from a fossil fuel to electricity is allowed.  
+In the case of “replacement” of a mobile home, the word “retrofit” must be read to mean 
+replacement throughout the methodology.  
+The methodology is applicable in any geographic region, provided appropriate data exist to 
+establish the level of the performance benchmark for the same building stock of a project’s 
+geographic region.  
+When sampling, the minimum number of dwellings or appliances to be sampled must be the 
+square root of the total number of dwellings i, or appliances included in the project. Statistically 
+sound sampling approaches must be used. When the control group approach (Section 8.3) is 
+utilized, the size of the control group must be the square root of the total number of dwellings 
+in the project, but it does not need to exceed 100 dwellings. In any sampling approach, the 
+following conditions must be met:  
+1) The sample is statistically valid and uses one of the following methods: 
+a) Simple random sample  
+b) Systematic sampling 
+c) Stratified sampling within the same building stock 
+d) Cluster sampling 
+2) The sample is representative of the population. 
+3) The data are from an approved source (i.e., a certified energy auditor) or a nationally 
+recognized data source.  
+4) Actions that may bias the sample is avoided. Sampling includes dwellings that are 
+dispersed geographically. Sampling is conducted for each defined building stock 
+included in the project activity. Criteria include region, dwelling type, and income level.  
+When conducting modelling for heat pump / heat pump water heater (HP/HPWH) as appliances 
+(e.g., in Category C), tools such as EnergyPlus, Home Energy Rating System (HERS), utility-grade 
+ 
+VM0008, v1.2 
+9 
+deemed savings models,6 utility-grade monitored savings model,7  or geothermal heat pump 
+OEM models (e.g., Wright Suite) and other industry specific models must be used for 
+establishing HP/HPWH baseline and project energy consumption values and must meet the 
+following:  
+a) The model includes weather-normalized adjustments spanning at least a 10-year basis, 
+drawing upon the Typical Meteorological Year (TMY) data8 at the project location’s 
+county level when establishing the modelled baseline emissions and, to ensure system 
+performance is calibrated each project year y, the modelling must draw upon local, 
+applicable weather data for project year y when calibrating the modelled project 
+emissions each year; and that the model includes performance curves which take into 
+account the coefficient of performance of HP/HPWH in different climate zones 9 
+b) The modelling system meets ASHRAE standard requirements;10  
+c) When modelling is conducted for appliances separately from other potential whole 
+house improvements (in Category C and D), any other post retrofit building design 
+inputs must be applied to the baseline heat/cooling mechanical systems modelling in 
+order to conservatively exclude other building improvements’ energy savings (e.g., from 
+fenestration, insulation etc) from the appliance-only modelling results. 
+Additional requirements apply when HP/HPWH installations involve geothermal systems and/or 
+are implemented by utilities/OEMs: 
+• 
+Each site must have at least one geothermal installer who is certified or trained by the 
+OEM supplying the geothermal equipment. 
+• 
+If OEMs or utilities pursue HP/HPWH installations under Category C, they must deduct 
+any VCUs already issued in their region to other project proponents to prevent double-
+counting.  
+ 
+6 Such utility-grade deemed savings models include examples such as the RTF “any any” models used by northwestern 
+utilities to establish deemed savings for HP/HPWHs where the specific building where the HP/HPWH are installed are not 
+known 
+7 NYSERDA, for example, applies such modeling systems where the specific locations of the HP/HPWH installations are 
+known through the incentive program information. 
+8 https://nsrdb.nrel.gov/data-sets/tm 
+9  Default "performance curves" for any HVAC equipment  including HP and HPWH are developed by DOE and 
+associated national labs. Each piece of equipment that has a cooling or heating coil (residential heat pumps, chillers, 
+boilers, etc.) has a set of performance curves that dictate the coil's energy consumption and efficiency at different 
+temperatures, flow rates, load conditions, etc. The output of each of these curves is used to determine the energy 
+consumption of the HVAC system for each hour of the year. The inputs for these curves can be seen in the Energy Plus 
+Input/Output Reference Guide Section 1.57 - Group- Performance Curves (pg 2460: Input Output Reference). The 
+performance curve coefficients and COP are customized to match the existing equipment and new equipment.  
+10 ASHRAE Guideline 14 when calibrating and energy model using historical energy bills 
+ANSI/BPI-1200-S-2017 
+ANSI/RESNET/ICC 301-2022 
+ 
+VM0008, v1.2 
+10 
+o 
+OEMs must also include utilities in their list of other project proponents in the 
+same region with issued VCUs 
+o 
+This hierarchy is applied because OEMs and utilities typically apply regional 
+“any-any” utility-grade modeling rather than models tailored to the specific 
+buildings where HP/HPWH are known to have been installed by other project 
+proponents in the same region (e.g., real estate developers, energy efficiency 
+service companies, HP installers)

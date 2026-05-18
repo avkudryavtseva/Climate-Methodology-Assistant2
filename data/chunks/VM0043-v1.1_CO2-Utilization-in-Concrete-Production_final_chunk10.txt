@@ -1,0 +1,369 @@
+10 REFERENCES 
+Portland cement Association (2023). Environmental Product Declaration for Portland 
+Cement.  https://www.cement.org/wp-
+content/uploads/2024/07/pca_epd_portland_athena_final_revised_nov2023-1.pdf  and 
+UK Average Portland Cement; Mineral Products Association (MPA) UK (2022). 
+https://cement.mineralproducts.org/MPACement/media/Cement/Publications/2017/EPD_
+UK_Average_Portland_Cement_04-2022.pdf 
+ 
+S J Kemp, D Wagner and I Mounteney (2010).  “Low Level Detection of Carbonate Species 
+Using Thermogravimetric and Differential Thermal Analysis.” British Geological Survey. 
+ 
+Neupane, Debendra, et al. (2015).  “Distribution of mineralized carbonate and its 
+quantiﬁcation method in enzyme mediated calcite precipitation technique”.  ScienceDirect. 
+ 
+US Geological Survey. Data on cement production in the United States. 
+https://pubs.usgs.gov/periodicals/mcs2020/mcs2020-cement.pdf 
+ 
+European Ready Mix Concrete Association. (2019). Ready Mix Concrete Industry Statistics. 
+https://ermco.eu/wp-content/uploads/2022/10/ERMCO-Statistics-Report-2019-July-2020-
+FINAL.pdf 
+ 
+Lafarge-Holcim annual report. (2023). 
+https://www.holcim.com/investors/publications/annual-report-2023  
+ 
+ASTM C39 - Standard Test Method for Compressive Strength of Cylindrical Concrete 
+Specimens; Global - ACI 214R-11 Guide to Evaluation of Strength Test Results of Concrete; 
+Global - ACI 214.4R-10 Guide for Obtaining Cores and Interpreting Compressive Strength 
+Results Europe EN 12390-3:2019 Testing hardened concrete.  
+ 
+H.-W. Häring, ed. (2008), Industrial gases processing, Wiley-VCH Verlag GmbH & Co. KGaA, 
+Weinheim.     
+ 
+Monkman, S. (2018). Sustainable Ready Mixed Concrete Production Using Waste CO2: A 
+Case Study. 
+https://www.researchgate.net/publication/339106379_Sustainable_Ready_Mixed_Concret
+e_Production_Using_Waste_CO2_A_Case_Study 
+ 
+In: SP-330 Proceedings Fourteenth International Conference: Recent Advances in Concrete 
+Technology and Sustainability Issues, American Concrete Institute, Beijing, China, pp. 163–
+174. https://www.concrete.org/store/productdetail.aspx?ItemID=SP330. 
+ 
+VM0043, v1.1  
+ 
+42 
+ 
+2024 US Merchant CO2 Report, the largest source of CO2 is from ethanol plants (36%).  
+Hydrogen refining and ammonia production are also significant sources of CO2 supply. 
+ 
+Huntzinger, D., et al. (2009). A Life-Cycle Assessment of Portland Cement Manufacturing: 
+Comparing the Traditional Process with Alternative Technologies, Journal of Cleaner 
+Production. 
+ 
+US EPA Center for Corporate Climate Leadership. Emission Factors for Greenhouse Gas 
+Inventories. https://www.epa.gov/sites/production/files/2020-04/documents/ghg-
+emission-factors-hub.pdf  
+ 
+Roozbeh Feiz, et. al. Improving the CO2 Performance of Cement, Part I: Utilizing Life-Cycle 
+Assessment and Key Performance Indicators to Assess Development Within the Cement 
+Industry, Linkoping University Post Print.   
+ 
+ 
+VM0043, v1.1  
+ 
+43 
+APPENDIX I: ACTIVITY METHOD 
+The concept of using greenhouse gases as a raw material for the production of useful products is 
+only a few years old. A number of start-up companies are developing technologies that use captured 
+GHGs to produce tangible products, with what has been termed “Carbon Capture and Utilization” 
+(CCU). Products created through CCU processes can act as long-term storage of the captured GHGs 
+used in their production and displace products created through conventional processes. The level of 
+commercial activity for CCU products is very low, as it is a new technology.  
+Per the VCS rules, Verra will reassess whether the activity penetration levels remain within the 
+permitted threshold within three years of the initial approval of the methodology. At that time, Verra 
+will base its assessment on national boundaries, focusing on countries where concrete production 
+utilizes CO2 sequestration. Also, and in the spirit of conservativeness, where sub-national 
+regulations or policies may impact the likelihood of the project activity being implemented, Verra 
+may use such boundaries as the basis of the reassessment of the activity penetration rate. 
+In the case of CO2 sequestration in the production of concrete, the only baseline scenarios that are 
+reasonable to consider are (1) the continued manufacturing of concrete with no production involving 
+CO2 sequestration, or perhaps (2) the large-scale adoption of this technology many years into the 
+future, at which point if the 5% activity penetration threshold (see below) is exceeded, this activity 
+method would no longer be eligible to continue.  
+CCU technology – whether it is locking captured CO2 into solid materials or liquid fuels – is still in its 
+infancy, as illustrated by the Carbon XPrize12, a competition similar to the Ansari XPrize 
+(incentivizing reusable spacecraft technology) and designed to incentivize the CCU industry. The 
+mere existence of the Carbon XPrize illustrates the lack of any mature CCU sector. A number of 
+start-up companies are working on sequestering CO2 into plastics, concrete, carbon nanotubes and 
+other solids, though most of these companies are pre-commercial or just reaching commercial 
+scale. Those that have begun commercial production have very low penetration rates in their 
+respective target markets. Because these CCU technologies are so new, the level of adoption is 
+close to zero.    
+As of the writing of this methodology, there is no large-scale commercial application of the technology 
+to capture and sequester CO2 in concrete. There is limited activity in sequestering GHGs in concrete 
+and other similar building materials. Some of the companies include CarbonCure, Partanna and 
+CarbiCrete. 
+Best estimates at the time of writing indicate that CarbonCure sequesters the most CO2 by volume in 
+concrete.  In 2024, CarbonCure’s technology was used in 16.1 million cubic yards of ready-mix and 
+pre-cast concrete – compared to an average of 18.3 billion cubic yards of concrete poured globally 
+per year (approximately 0.088% of the market by volume).13 Other companies, such as Partanna and 
+CarbiCrete, are in the early stages of commercialization. While this is likely to change over time, the 
+ 
+12 See https://carbon.xprize.org/prizes/carbon 
+13 https://gccassociation.org/concretefuture/cement-concrete-around-the-world 
+ 
+VM0043, v1.1  
+ 
+44 
+fact that the Carbon XPrize is so focused on helping these companies is an indication of how early-
+stage these markets are.   
+In addition, it should be noted that as of the writing of this methodology, CarbonCure’s technology has 
+been available for more than six years, demonstrating that while the project is commercially available 
+at a modest scale, its growth has been limited – indicating barriers to penetration in the wider market.  
+Some of these barriers include: 
+• 
+Regulatory: Engineering approval of concrete mixes is required for commercial buildings on 
+a case-by-case basis. This limits the volume that producers can create using innovative 
+types of concrete and requires interaction with major engineers/architects within each 
+geographic region to remove barriers to implementation. There are limited region-specific 
+policies that promote the use of CO2-mineralization on a large scale, and no state level or 
+federal level regulation or legislation that requires its use.  In short, producers can view CO2-
+containing concrete as a 'nice to have' rather than a 'need to have'.  
+• 
+Time Burden: Quality control processes require up to six months to 'normalize' addition of 
+CO2-mineralization equipment to the manufacturing process (for new plants). This 
+represents additional costs that many producers – particularly smaller ones – will most 
+likely not want to incur.  
+• 
+Market Fragmentation/Current Practice: The concrete manufacturing industry is extremely 
+fragmented. This represents additional barriers to implementation as each company must 
+be engaged with on an individual basis. An IBISWorld Report outlines that even the largest 
+producers rarely control more than 10% of the overall market.  Many producers own one or 
+two plants. 
+ 
+Positive List 
+This methodology uses Option A: Activity Penetration (AP) to determine additionality. Under this 
+option, a methodology must demonstrate that the project activity has achieved a low level of 
+penetration relative to its maximum adoption potential (MAP). AP is determined by dividing the 
+observed adoption (OA) of the project activity by the project activity’s MAP.  
+MAP is defined as “the total adoption of a project activity that could currently be achieved given 
+current resource availability, technological capability, level of service, implementation potential, 
+total demand, market access and other relevant factors within the methodology’s applicable 
+geographically defined market.” In this case, the MAP is defined as all sales and use of concrete 
+globally. In order to qualify as additional, the project AP can be no higher than 5%. In this case, the 
+project activity has not reached true commercial scale.  To determine the total market size, the best 
+metric would be the volume of global ready-mix and pre-cast concrete production. As referenced 
+above, CarbonCure’s technology penetration, which accounts for a majority of market penetration 
+for CO2 sequestration in concrete, accounts for approximately 0.088% of market penetration by 
+volume. 
+ 
+ 
+VM0043, v1.1  
+ 
+45 
+Therefore, the activity penetration level of the project activity covered by this methodology is clearly 
+below the five percent threshold, and the project activity may be deemed additional. 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+46 
+APPENDIX II: TESTING PROCEDURES TO 
+DETERMINE BASELINE CEMENT 
+QUANTITY 
+Testing procedures will be established by project proponents at either a lab or the company’s plants) that 
+measure quantities of cement needed to produce concrete with equivalent compressive strength 
+both with and without the project processes to establish a ratio of Project Scenario: Baseline 
+Scenario cement use. The test batches will yield the equivalent or better levels of compressive 
+strength (or have the project-level mix have a greater strength than the baseline). In the case of 
+testing dry-cast concrete, test batches can include samples of the finished precast product. These 
+tests will determine how much cement would have been used in the baseline design mix to achieve 
+the equivalent or better level of compressive strength as the project design mix.  The result will be a 
+calculation of how much cement is used per unit of concrete in the baseline scenario and the 
+project scenario.  This can then be applied to all project concrete or concrete products produced 
+with that mix design. Baseline quantities of cement and project-level quantities must go through a 
+testing procedure for each project or product mix design. The test batches must yield the equivalent 
+or better levels of compressive strength (or have the project level mix have a greater strength than 
+the baseline). The procedures are outlined in detail below. 
+For concrete products, there may be a range of functional equivalence tests as outlined in ASTM 
+Volume 04.02: Concrete and Aggregates. 
+ 
+Determining QCement,p,i,test n 
+QCement,p,i,test n must be determined by measuring the quantity of cement used to prepare project 
+compressive strength (or other measures of functional equivalence relevant to specific pre-cast 
+products) for test specimen n based on project mix design i, where the measurement of the quantity 
+of cement and preparation, curing, and testing of the test specimen meets the requirements of the 
+ASTM or CSA concrete standard test method or match the equivalent or better level for compressive 
+strength relevant in the baseline for the type of concrete in question14. For each project mix design, 
+a minimum of three batches must be tested and the three tests should fall within the relevant ASTM 
+standards measure for functional equivalence. For product mix designs, a minimum of 3 units 
+should be tested from 3 different batches. In all cases, the number of batches and specimens 
+tested must meet or exceed the requirements of the relevant ASTM or CSA standard test method. 
+This determination (for both QCement,b,i,test n and QCement,p,i,test n) needs only be done once during the 
+project crediting period for a given project mix design, but should be repeated for relevant project 
+mix designs.  
+ 
+14 See: ASTM C39 - Standard Test Method for Compressive Strength of Cylindrical Concrete Specimens 
+Global - ACI 214R-11 Guide to Evaluation of Strength Test Results of Concrete 
+Global - ACI 214.4R-10 Guide for Obtaining Cores and Interpreting Compressive Strength Results 
+Europe EN 12390-3:2019 Testing hardened concrete. Compressive strength of test specimens 
+ 
+ 
+VM0043, v1.1  
+ 
+47 
+If project proponents have a large number of design mixes at a given project site or across a 
+portfolio of locations, testing can be performed on a company’s mix designs that comprise at least 
+50% of production volume.   
+ 
+Determining QCement,b,i,test n 
+QCement,b,i,test n must be determined by measuring the quantity of cement used to prepare baseline 
+compressive strength test (or other measure of functional equivalence relevant to specific pre-cast 
+products) for specimen n based on a mix design that is intended to result in a concrete of 
+equivalent compressive strength to project mix design i, where the measurement of the quantity 
+and preparation, curing, and testing of the test specimens are identical to what is used for the 
+determination of QCement,p,i,test n. The mix design used must include the same amount of SCMs, if any, 
+added at the concrete facility (excluding any SCMs in blended cement provided by a cement 
+supplier) per m3 of concrete as in the project mix design.  
+ 
+Test specimens must all be of the same volume, and equal to the volume of the specimens used to 
+determine QCement,p,i,test n. The same number of specimens across the same number of batches as 
+tested for QCement,p,i,test n must be tested. In instances where specific pre-cast products do not utilize 
+compressive strength as a metric, project proponents will ascertain and apply the appropriate ASTM 
+code equivalent tests for these products.  For concrete products using compressive strength testing, 
+baseline test specimens must have an average 28-day compressive strength that is equal to or less 
+than the average 28-day compressive strength determined for the project test specimens used in 
+determining QCement,p,i,test n. Where the average baseline test specimen compressive strength is 
+greater than the average project test specimen compressive strength after completing at least three 
+tests for a given mix design, the project proponent or concrete producer will conduct additional 
+testing of either the project or baseline mix design (discarding an equivalent number of initial test 
+specimen results for either the project or baseline as applicable) until the average project 
+compressive strengths is equal to or greater than the baseline level strength. Provided below is an 
+example of 28-day compressive strength data for reference or baseline concrete mix (control) and a 
+reduced cement concrete mix produced with CO2. 
+If project proponents have a large number of design mixes at a given project site or across a 
+portfolio of locations, testing can be performed on a company’s mix designs that comprise 50% or 
+more of production volume.   
+ 
+ 
+VM0043, v1.1  
+ 
+48 
+ 
+Two mixes are compared in the graph above. The reference mix contains 470 lbs of cement, 120 lbs 
+of fly ash and 350 lbs of slag per cubic yard. The cement content was reduced 20% for CO2 mix to 
+378 lbs per cubic yard. The reference concrete data comprised of numerous tests, with an average 
+28-day compressive strength of 9,906 psi and a standard deviation of 1,560 psi. The CO2 set was 
+also comprised of multiple tests, with an a with an average 28-day compressive strength of 9,932 
+psi and a standard deviation of 1,431 psi.  Because the post-project concrete has a compressive 
+strength equal to or greater than the baseline concrete, this requirement in the methodology is met.  
+Cases when testing is not done on all mix designs: In instances where there is a large number of 
+mix designs and testing is completed for at least 50% of production volume for a producer, the 
+following is applied. A) For the mix designs that testing was conducted for, the results of the 
+testing data is used to quantify the cement cut; or B) For the mix designs that testing was not 
+conducted for, project proponents will use the average cement cut from all the mix designs that 
+testing was completed for but apply a 1 standard deviation deduction.  For example, if mix design 
+A (5% cement cut), mix design B (4.5% cement cut) and mix design C (4.0% cement cut) have the 
+relevant tests completed and make up 50% of the production volume for a producer, the average 
+of the mixes (4.5% cement cut) minus one standard deviation (0.005) comes out to (4.0% cement 
+cut). The 4.0% cement cut value can be applied for all mix designs in that monitoring period that 
+have not been tested, the tested values for the other mix designs are used for them. Removing a 
+standard deviation ensures that the approach is conservative, and that the flexibility in testing 
+ensures that the process is feasible and scalable in instances where there are a large number of 
+mix designs.  Note in instances where there is only one mix design for a producer the coefficient 
+of variance is used, this is simply the standard deviation of the project samples divided by the 
+average value and applies the same approach noted above. 
+Three Point Curves: Three Point Curves are common with concrete producers.  A three-point curve is 
+a simple way, to obtain a relationship between one factor that is varied to 3 different levels and a 
+ 4,000
+ 6,000
+ 8,000
+ 10,000
+ 12,000
+ 14,000
+ 16,000
+Frequency
+28d compressive strength (psI)
+Control
+CO2
+ 
+VM0043, v1.1  
+ 
+49 
+measured result using the least number of experiments.  All other factors are kept constant. For 
+concrete mixtures the three-point curve is used to establish mixture proportions for selected project 
+requirements.15 A concrete mix is generally not static over the course of a year in most climates, so 
+the cement content will be adjusted up and down depending on the season and the weather on 
+certain days.  The mixes may vary slightly on a humid day compared to a dry day, for example.  
+Concrete producers thus complete a three-point curve in their lab with the same mix design at three 
+different water/cement (w/c) ratios, creating a linear line that decreases as the w/c increases 
+(strength goes down as w/c goes up).  Such testing can be allowed under this methodology for 
+project mixes, which can then be compared to the appropriate baseline design mix.  Without the 
+ability to use three-point curves, depending on when the baseline is established, the CO2 mix may 
+have more cement than the baseline but less than the equivalent mix at that time of year. The 
+figure below provides an illustration of this concept; in this instance, the three points on the non-air 
+entrained concrete line are those at 7120 psi, 4200 psi, and 2250 psi along the line. 
+The figure below provides an illustration of this concept, in this instance the three points on the 
+non-air entrained concrete line are those at 7120 psi, 4200 psi and 2250 psi along the line.   
+ 
+ 
+Approach to Defining and Categorizing Individual Mix Designs 
+In many cases, there can be small and immaterial changes in the “recipes” of specific mix 
+designs at an individual concrete plant, and thus it’s not practical to test them all.  In the 
+PD, project proponents should provide transparent criteria and reasoning for how to 
+categorize different design mixes.  If there is a mix in which these criteria change beyond a 
+certain level as specified in the PD, this would constitute a new mix design and thus require 
+separate compressive strength and carbon-content testing.  Examples would include but not 
+ 
+1515 See https://www.nrmca.org/wp-content/uploads/2020/04/Tip7w.pdf 
+ 
+VM0043, v1.1  
+ 
+50 
+be limited to: (1) changes in SCM type of percent content; (2) different type of cement used; 
+(3) different requirements for compressive strength or different application (pavement, 
+blocks, columns); or (4) material changes in other ingredients such as admixtures and 
+aggregates.   
+The figure below lists a theoretical categorization of different design mixes.  For example, if 
+the SCM content in one concrete mix was 15%, but a slightly altered mix brings this level to 
+20%, it would be within the same mix.  But if that SCM level goes above 30%, that would 
+represent a new mix.  In the PD, project developers should present transparent reasoning 
+for why the “borders” from one design mix to the next are set where they are.   
+The example below separates mix designs based on their criteria (design strength (psi), 
+cement type (e.g., type I/II), % SCMs, blend of aggregates (e.g., coarse+fine), strength 
+enhancing admixtures (e.g., Xseed).  For example, a concrete mix that had 20% SCM, had a 
+strength of 3,000 PSI, used a Type III Cement, used only one aggregate and a certain 
+admixture would be one mix design.  But if the SCM level went to 30% and everything else 
+stayed the same, it would be considered a separate mix design.  Using these five different 
+categories and the number of “buckets” in each, a total of 108 possible unique 
+combinations can be part of this project.  Thus, there would be 108 potential design mixes. 
+ 
+ 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+51 
+APPENDIX III: EMISSIONS FACTOR OF 
+CEMENT USING REGIONAL FACTORS 
+ 
+The factors in Table A1 include emissions from the chemical process of calcination and emissions 
+from fuel combustion, and consider those facilities that combust a wide range of carbon intensive 
+and biogenic fuel sources.  Table A2 shows the typical ratio of clinker-to-cement on a regional basis 
+throughout the world.  These tables were sourced from VM0031 and derived from the Cement 
+Sustainability Initiative report, Cement Industry Energy and CO2 Performance “Getting the Numbers 
+Right” (World Business Council for Sustainable Development). 
+Table A1: CO2 emissions per tonne of clinker per kiln type (global average) 
+Kiln Type 
+EFClinker (kg CO2/t clinker) 
+Dry with preheater and precalciner 
+842 
+Dry with preheater and without precalciner 
+861 
+Dry without preheater 
+955 
+Semi wet/Semi dry 
+896 
+Wet 
+1043 
+ 
+Table A2: Ratio of Clinker to Cement on a Regional Basis 
+Region 
+Clinker to Cement Ratio (%) 
+Africa and Middle East 
+79 
+Asia excluding China, India, CIS and Japan 
+84 
+China and India

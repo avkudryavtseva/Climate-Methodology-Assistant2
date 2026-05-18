@@ -1,0 +1,58 @@
+4 APPLICABILITY CONDITIONS 
+Projects must fall within the VCS AFOLU project category “IFM: Logged to Protected Forest” as 
+defined in the most recent version VCS Standard and associated VCS Program documents.  
+This methodology is applicable under the following conditions: 
+• 
+Forest management in the baseline scenario is planned selective logging. 
+• 
+Planned selective logging must be estimated using forest inventory methods that 
+determine allowable offtake as volume of timber (m3 ha-1). 
+• 
+Boundaries of the forest land are clearly defined and documented. 
+• 
+All applicability conditions of VCS and CDM tools used in conjunction with this 
+methodology are met 
+This methodology is not applicable under the following conditions: 
+• 
+The project area includes planted forests.  
+• 
+Under the project scenario, forest use in the project area includes commercial timber 
+harvest or activities that cause forest degradation. 
+• 
+The baseline scenario includes conversion to managed plantations. 
+• 
+The project occurs in wetlands or peatlands.  
+• 
+The project occurs in a location where VM0045 is currently applicable.  
+4.1 
+Eligibility 
+Legal Right to Harvest 
+The legal right to harvest must pre-exist the implementation of the project. 
+The legal right to harvest must be issued by a relevant government body, define a legal 
+allocation of rights to a forest timber resource, and includes a plan for forest management that 
+contains a definition of the spatial extent of the forest, the volume of the timber resource to be 
+extracted and a description of harvesting practices. 
+Rights to forest management must be demonstrated by documentary proof of legal 
+permissibility for timber harvest, intent to harvest and a description of the timber resource. This 
+proof must be issued by the relevant (governmental) regulatory body that has designated, 
+sanctioned or approved the project area (or areas) for forest management. 
+Intent to Harvest 
+The project proponent must demonstrate intent to harvest through the following forms of 
+evidence originating prior to the date of all evidence in pursuit of carbon finance/consideration 
+of IFM. Projects must provide either: 
+  
+ 
+VM0010, v1.4 
+10 
+ 
+• 
+Documented evidence demonstrating that: 
+o 
+The project site is representative of other forestlands harvested in the country within 
+the past two years; and, 
+o 
+The project site is within commercially viable distance to existing transport networks 
+and a port for timber export or a mill for timber processing; or, 
+• 
+A valid and verifiable government-approved timber management plan for harvesting the 
+project area.

@@ -1,0 +1,89 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. For grouped 
+projects, demonstration of additionality must be based upon the initial project activity instances 
+(see further details in the most recent version of the VCS Standard). Project proponents using 
+this methodology must: 
+1) demonstrate regulatory surplus; 
+2) identify institutional barriers that would prevent the implementation of a change in pre-
+existing ALM practices; and 
+3) demonstrate that adoption of proposed individual or combined project activities is not 
+common practice. 
+Further details on each of these steps are provided below. 
+Step 1: Regulatory surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements set out in the most recent version of the VCS Standard.  
+Step 2: Barrier analysis 
+Project proponents must apply the procedures and requirements in Step 2 of the most recent 
+version of VT0008 Additionality Assessment. 
+Step 3: Demonstrate that adoption of  proposed individual or combined project activities is not 
+common practice 
+Project proponents must determine whether the proposed project is common practice in each 
+region (or ‘geographic area’ as defined for grouped projects in the VCS Standard) included 
+within the project area. Common practice is defined as greater than 20% adoption.11 The 
+approach to common practice demonstration outlined in this section follows a two-step 
+process: 1) determine if the project activity has below 20% adoption in the project region, and 
+2) where the adoption rate is greater than 20% or the required data is not available, project 
+proponents must demonstrate that the activity is not common practice by applying Step 4c of 
+VT0008.  
+ 
+11 Twenty percent is the precedent for a common practice threshold established in Section 18 of the CDM 
+Methodological tool: Common practice. Available at: 
+https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-24-v1.pdf 
+ 
+Mathur et al. (2007) and Barnes et al. (2014) confirm that approximately 20% is an appropriate threshold for 
+common practice based on analysis of technology adoption and market penetration using different approaches. 
+ 
+VM0042, v2.2 
+ 18 
+ 
+ 
+The proposed project activity may be implemented as an individual practice (e.g., cessation of 
+tillage) or a combined practice (e.g., conservation agriculture encompassing no-tillage, crop 
+rotations and residue retention). Such combined practices are defined as those implemented 
+on the same field/management unit in the same baseline crop rotation cycle or for at least 
+three years where a crop rotation is not implemented (i.e., aligned with Section 6).  
+Step 3.1: To determine that an individual or a combined practice is not common 
+practice, the adoption rate of the respective individual practice or combined practice must be 
+demonstrated to be lower than 20% where the practices are implemented. 
+Evidence of practice adoption rates within the project area must be provided in the form of 
+publicly available information contained in: 
+a) agricultural census or other government (e.g., survey) data; 
+b) peer-reviewed scientific literature; 
+c) independent research data; or 
+d) reports or assessments compiled by industry associations. 
+To demonstrate common practice, the project area must be stratified to the state or provincial 
+level (or equivalent second-order jurisdiction) in the countries where the project is being 
+developed. Where supporting evidence is unavailable at the state/provincial level (e.g., in 
+developing countries), aggregated data or evidence at a subnational, national, or regional level 
+may be used with justification. Where stratification based on geopolitical boundaries is 
+impractical (e.g., due to lack of data), other forms of stratification, such as major soil types or 
+cropping zones, may be used with justification. The same stratification approach and data 
+sources must be applied across the entire project to maintain the integrity of the common 
+practice demonstration. The common practice assessment data source selected must be 
+justified to be appropriate for the stratified project area. 
+Where evidence for a proposed project activity in the region is not available from any of these 
+sources, the project proponent may obtain a signed and dated attestation statement from a 
+qualified independent local expert (e.g., agricultural extension agent, accredited agronomist) 
+estimating the adoption rate. All projects using independent local expert attestation must 
+provide the qualifications of the expert and the methods used to inform their analysis. It is 
+recommended that the contracted expert has professional indemnity insurance. 
+Step 3.2: Where the best available data from the above sources for an individual or 
+combined practice determines that the adoption rate is greater than 20% or the required data 
+is not available, project proponents must demonstrate that the activity is not common practice 
+by applying Step 4c of VT0008. This step involves identifying essential distinctions between the 
+proposed project activity and related activities that may be captured under Step 3.1. When 
+applying Step 4c of VT0008, the information sources for Nall and Ndiff must cover the same 
+ 
+VM0042, v2.2 
+ 19 
+ 
+ 
+geographic area (i.e., the project region), and the analysis must be on a land area basis (e.g., 
+hectares). The requirement that Nall − Ndiff must be greater than 3 is not applicable. 
+For example, a project intends to introduce cover crops as a project activity in the project region 
+where the adoption rate per the government agricultural census is 22% covering approximately 
+2 million hectares (Nall). Applying the common practice analysis per Step 4c of VT0008, the 
+project identifies the following essential distinction: government subsidies for cover crop seed 
+are accessed by farmers managing 1.7 million hectares (Ndiff) in the project region. The 
+calculation of factor F per Step 4c of VT0008 would therefore yield 15% demonstrating that the 
+proposed project activity is not considered common practice.

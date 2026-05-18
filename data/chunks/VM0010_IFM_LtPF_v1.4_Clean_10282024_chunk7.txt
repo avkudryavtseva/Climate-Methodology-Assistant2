@@ -1,0 +1,149 @@
+6 BASELINE SCENARIO 
+6.1 
+Selection of baseline 
+The project proponent must use the most recent version of the VCS tool, VT0001 Tool for the 
+Demonstration and Assessment of Additionality in AFOLU Project Activities to assess which of 
+the baseline alternatives must be excluded from further consideration. 
+As per the applicability conditions of this methodology, the project must demonstrate a baseline 
+scenario of planned timber harvest (see Box 1 below). If such a baseline cannot be 
+demonstrated, then this methodology cannot be applied. 
+Planned timber harvest events in the baseline scenario can occur in any year of the project 
+activity, not just year zero (0). 
+6.2 
+Modeling the baseline scenario 
+Once the baseline scenario of planned timber harvest is demonstrated, the project proponent 
+must determine how to model the baseline management scenario. A Historical Baseline 
+Scenario (Section 6.2.1) must be used where data is available, otherwise a Common Practice 
+Baseline Scenario (Section 6.2.2) must be used. 
+Irrespective of which baseline scenario is used, the same formulas (as set out in Sections 8.1.1 
+to 8.1.6) for the quantification of baseline emissions are applied. The major difference between 
+the historical and common practice baseline scenarios is the source of data for the majority of 
+parameters (see Section 9.1) that are used in Sections 8.1.1 to 8.1.6 to calculate baseline 
+emissions.  
+Where the historical baseline scenario is applied, the historical data pathway must be followed 
+regarding data sources for most parameters available at validation. 
+Where the common practice scenario is applied, the common practice data pathway must be 
+followed regarding data sources for most parameters available at validation. 
+In principle, under the historical baseline scenario, historical records of timber harvesting from 
+the baseline agent are used to determine the values of many of the parameters available at 
+validation. Under the common practice scenario, other sources (e.g., data from other forestry 
+companies in the region, regional default values, legal requirements, etc.) must be used. See 
+Sections 8 and 9.1 for further details. 
+6.2.1 Historical Baseline Scenario 
+A baseline scenario and timber harvest plan (see  
+Box 1 below) derived from the historical practices of the baseline agent of timber harvest must 
+be modelled as the baseline if the following documents exist for the project proponent: 
+  
+ 
+VM0010, v1.4 
+14 
+1) Historical records of forest management exist for a minimum of 5 or more years 
+preceding the project start date. 
+2) Historical records indicating that the management practices have surpassed the legal 
+requirements (provided by conforming to all local and regional forest legislation). 
+3) Historical records indicating that the historical management surpasses financial 
+barriers by providing above average financial returns. 
+6.2.2 Common Practice Baseline Scenario 
+All other cases must model baseline harvest based on common practice. 
+Common practice is defined as timber harvest under the legal requirements for forest 
+management and will be determined from a timber harvest plan (see Box 1 below) developed 
+from: 
+1) The project area through scenario modeling as if the legal requirements were 
+implemented in the project area; and 
+2) A reference area6 (or multiple reference areas) already under timber harvest 
+management that complies with legal requirements for forest management and 
+selected to be representative of local common practice for timber harvest. 
+ 
+Box 1: Timber Harvest Plan 
+The description of harvesting in the form of a timber harvest plan constitutes the basis of the 
+baseline scenario for greenhouse gas accounting.  The timber harvest plan describes the 
+harvest of timber products and must: 
+1) Reference the forest volume inventory (see Section 8.1.1– parameter Vj,i|BSL) to 
+identify the relative number of trees per hectare potentially available for harvest by 
+species in each stratum; 
+2) Demarcate all non-harvest areas within the forest based on legally required 
+exclusions for environmental features such as slope, swamp areas or conservation 
+buffers; 
+3) Divide the harvestable forest into annual operating areas (referred to throughout 
+this methodology as land parcels) using common practice; 
+4) Include a design and presentation of the forestry infrastructure to harvest, skid/haul, 
+store and move harvested timber products from the land parcels to downstream 
+ 
+6 Reference areas must be in the same region as the project area and must match the project area in terms of forest 
+types, climate and elevation (identical mix of forest types ±20%; identical annual precipitation ±20%; elevation classes 
+(500 m classes) in the reference region shall be in the same proportion as in the project area (+/-20%)). For forest types, 
+a de minimis rule may be applied if not suitable reference area can be found. Forest types that cover less than 1% of 
+the project area may be excluded for the purpose of finding a suitable reference area. However, in total, no more than 
+5% of the project area forest cover may be excluded in this way. 
+  
+ 
+VM0010, v1.4 
+15 
+processing or market entry points. Where the project proponent accounts for 
+emissions from forestry infrastructure, the design and presentation must include all 
+forest roads, skidtrails and log landings that would be established under the baseline 
+scenario as a georeferenced layer (shapefile or equivalent) and must list necessary 
+harvest and transport machinery; 
+5) The timber harvest plan must follow local best practice for timber harvest, including 
+planning of roads, skidtrails and log landings-and the timber resource volume and 
+extraction quotas defined by any legal requirements. 
+For the purpose of estimating the net annual changes in carbon stocks resulting from 
+planned timber harvest in the baseline scenario, a detailed planned timber harvesting 
+schedule will be developed from the timber harvest plan, setting out details of harvest and 
+forestry infrastructure establishment for each land parcel in the project area in terms of the 
+following: 
+1) The species to be harvested. 
+2) The year (1,2,3...) in which timber harvest and/or forestry infrastructure 
+establishment in each land parcel is scheduled to occur. 
+3) The number of years each land parcel is in a post-harvest and/or post forestry 
+infrastructure establishment state during the project crediting period. 
+4) The maximum and minimum diameters at breast height (DBH), at stump and at top 
+for tree harvesting.   
+5) The planned harvesting regime (i.e., number of log landings, species/stratum- 
+and area subject to selective logging). 
+6) The fraction of merchantable timber volume from clearing of forest roads, skidtrails 
+and log landings that is to be processed into wood products (FV,INF,HWP). Based on this 
+fraction, as well as forest inventory and forestry infrastructure data, VEX,INF,j,i|BSL and 
+VnotEX,INF,j,i|BSL (see points 2 and 3 below) will be calculated. 
+7) The technical specifications for the categories of wood products to be harvested. 
+8) The total volumes or fractions to be harvested, broken down by categories of wood 
+products defined as sawnwood, wood-based panels, other industrial roundwood, 
+paper and paper board, and/or others. 
+The planned timber harvest schedule is determined ex ante to reflect the timber harvesting 
+plan as stipulated by the legal right to harvest. The planned timber harvesting schedule will 
+be developed for the project area to include all land parcels within the project boundary for 
+the proposed IFM activity. 
+The output of the timber harvest plan and timber harvesting schedule must include: 
+1) The mean extracted volume of extracted merchantable timber per unit area by 
+species in each stratum in each year (VEX,j,i|BSL). 
+  
+ 
+VM0010, v1.4 
+16 
+2) Where the project proponent accounts for forestry infrastructure, the mean volume of 
+merchantable timber extracted for wood processing that is harvested during the 
+process of forestry infrastructure establishment per unit area by species in each 
+stratum in each year (VEX,INF,j,i|BSL). 
+3) Where the project proponent accounts for forestry infrastructure, the mean volume of 
+merchantable timber that is cleared during the process of forestry infrastructure 
+establishment and NOT extracted for wood processing per unit area by species in 
+each stratum in each year (VnotEX,INF,j,i|BSL). 
+The planned timber harvesting schedule will be submitted by the project proponent as part of 
+the project documents. 
+6.3 
+Stratification 
+If the proposed project area contains different forest types or forests with different carbon 
+densities, stratification must be carried out to improve the accuracy and precision of carbon 
+stock estimates. 
+For estimation of base year carbon stocks, strata must be defined based on parameters that are 
+key variables in any method used to estimate changes in the managed forest carbon stocks. 
+Strata will include either forest type, vegetation type and/or target timber species. 
+Based on the availability of data about the nature and composition of forest stocks in the project 
+area, stratification will be developed based on either: 
+a) Existing vegetation mapping or stratification, where these are documented in the legal 
+right to harvest; or 
+b) Estimates developed from sampling the project area using standard forest assessment 
+protocols specific to the forest region where the project area is located. 
+Baseline stratification is developed ex ante. 
+As part of the project documents, the project proponent must submit a detailed description of 
+the stratification adopted for the project area.

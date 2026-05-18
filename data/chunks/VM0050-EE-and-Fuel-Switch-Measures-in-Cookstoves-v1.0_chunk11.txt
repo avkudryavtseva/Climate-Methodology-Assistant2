@@ -1,0 +1,881 @@
+10 REFERENCES 
+Clean Cooking Alliance (2004). Controlled Cooking Test Protocol 2.0. Available at: 
+https://cleancooking.org/binary-data/DOCUMENT/file/000/000/80-1.pdf  
+Clean Cooking Alliance (2014). Water Boiling Test Protocol 4.2.3. Available at: 
+https://cleancooking.org/binary-data/DOCUMENT/file/000/000/399-1.pdf 
+Clean Cooking Alliance (2018). Kitchen Performance Test Protocol 4.0. Available at: 
+https://cleancooking.org/binary-data/DOCUMENT/file/000/000/604-1.pdf 
+ 
+VM0050, v1.0  
+ 
+45 
+APPENDIX 1: THERMAL EFFICIENCY 
+PERFORMANCE THRESHOLDS 
+The following default values for thermal efficiency performance thresholds are taken from ISO/TR 
+19867-3: Clean cookstoves and clean cooking solutions — Harmonized laboratory test protocols — Part 
+3: Voluntary performance targets for cookstoves based on laboratory testing.26 
+Table 2: Default values for voluntary performance targets 
+ 
+Tier 
+Thermal 
+efficiency (%) 
+Durability 
+score 
+Better 
+performance 
+5 
+≥50 
+<10 
+4 
+≥40 
+<15 
+3 
+≥30 
+<20 
+2 
+≥20 
+<25 
+1 
+≥10 
+<35 
+0 
+<10 
+>35 
+ 
+ 
+ 
+ 
+26 Publicly available sections of ISO/TR 19867-3 are available at: https://www.iso.org/standard/73935.html  
+A technical report providing a preview of some of the other content is available at: 
+https://cdn.standards.iteh.ai/samples/73935/feb537d3c06f400dbe46e1b44ecbb67b/ISO-TR-19867-3-
+2018.pdf 
+ 
+VM0050, v1.0  
+ 
+46 
+APPENDIX 2: ACTIVITY PENETRATION 
+To establish a penetration rate of less than 20% for the project device technology, the UN SDG 7 
+progress report27 has been used as a reference. Based on Appendix 1, the cookstoves applicable under 
+this methodology belong to Tier 2 and above, meaning either intermediate or advanced cooking 
+solutions. Hence, for some countries, while penetration of improved cooking solutions may be higher 
+than 20%, the penetration of intermediate and advanced improved cooking solutions may be very low. 
+Project proponents may use other sources to establish penetration rates of less than 20% for 
+respective technologies. 
+The International Energy Agency (IEA) uses the World Health Organisation (WHO) Household Energy 
+Database for people without access to clean cooking for historic numbers and the World Energy Model 
+and official energy balances to present the map shown in Figure 1.  
+Figure 1: Share of population with access to clean cooking28 
+ 
+The Clean Cooking Alliance (CCA) in its Lean Data Insights Aggregate Report presents the sources of 
+fuels used for cooking before and after purchasing products from CCA portfolio companies (Figure 2). 
+Cleaner and safer energy sources such as biomass, biogas, and electricity have a lower penetration 
+rate compared to common fuels such as charcoal.  
+ 
+27 Available at: https://sustainabledevelopment.un.org/content/documents/2019_Tracking_SDG7_Report.pdf  
+28 Source: https://www.iea.org/reports/sdg7-data-and-projections/access-to-clean-cooking  
+ 
+VM0050, v1.0  
+ 
+47 
+Figure 2 presents the results based on a sample of surveyed households. According to the report, the 
+distribution of these households was as follows: rural households 32% (village or countryside), peri-
+urban households 29% (town), and urban households 39% (city). This distribution reflects the diversity 
+of contexts in which the surveys have been carried out, thus allowing for a broader and more 
+representative view of the situation in different areas. 
+Figure 2: Sources of cooking fuels before and after purchasing products from CCA portfolio 
+companies29 
+ 
+  
+ 
+ 
+ 
+ 
+29 Source: https://cleancooking.org/wp-content/uploads/2023/07/Clean-Cooking-Alliance_Lean-Data-Insights-
+Aggregate-Report.pdf  
+ 
+VM0050, v1.0  
+ 
+48 
+APPENDIX 3: BINDING SURVEY 
+QUESTIONNAIRE 
+The following is a binding questionnaire with the minimum requirements for the baseline survey. The 
+project proponent may choose a different format but must include these questions, at minimum. 
+1. Survey Format A: Baseline Fuel Consumption Pattern 
+1.1. 
+General information 
+Title of project activity 
+ 
+Name of surveyor 
+ 
+Date of survey 
+dd/mm/yyyy 
+Survey method 
+Face to face / remote / telephone 
+1.2. 
+Household profile30 
+Name (household representative) 
+ 
+Household size (total number of people) 
+ 
+- 
+Females over 14 years 
+ 
+- 
+Males 15–59 years 
+ 
+- 
+Males over 59 years 
+ 
+- 
+Children 0–14 years 
+ 
+Type of area (urban/rural) 
+ 
+Address or coordinates 
+ 
+Phone number 
+ 
+1.3. 
+Stove used prior to project implementation 
+(Mark “x” for all that apply) 
+A three-stone fire or a conventional system with no improved combustion air supply nor 
+flue gas ventilation system (i.e., without a grate or chimney) 
+ 
+Basic charcoal stove 
+ 
+Improved woodfuel cookstove 
+ 
+Improved charcoal cookstove 
+ 
+LPG cookstove 
+ 
+Electric cookstove 
+ 
+Other (describe) 
+ 
+ 
+30 Selection of households should be based on a sampling plan.  
+ 
+VM0050, v1.0  
+ 
+49 
+1.4. 
+Household fuel consumption pattern prior to project implementation 
+How many meals did you prepare yesterday?  
+Is this a typical value?  
+If the answer is “No,” how many meals are prepared in a typical day? 
+meals/day 
+Yes/No 
+meals/day 
+Is there any difference with the amount of meals prepared during a typical 
+weekend day?  
+(open response) 
+Describe any other ways in which you used your stove last week (e.g., water 
+boiling for drinking, water boiling for hygiene, space heating). 
+(open response) 
+1.4.1. Fuel used for cooking31 
+ 
+Yes/No 
+Quantity of usage 
+Unit 
+Charcoal 
+ 
+ 
+kg/ month or year  
+Wood 
+ 
+ 
+kg/ month or year 
+LPG 
+ 
+ 
+kg or cylinders / month or year 
+Kerosene 
+ 
+ 
+liters/ month or year 
+Coal 
+ 
+ 
+kg/ month or year 
+Electricity 
+ 
+ 
+kWh/ month or year 
+Other fuels (explain) 
+ 
+ 
+ 
+1.4.2. Fuel sources 
+ 
+Collected/ 
+Purchased 
+Source or location of fuel 
+Charcoal 
+ 
+ 
+Wood 
+ 
+ 
+LPG 
+ 
+ 
+Kerosene 
+ 
+ 
+Coal 
+ 
+ 
+Electricity 
+ 
+ 
+Other fuels (explain) 
+ 
+ 
+ 
+ 
+31 Where surveys are biennial, they may be designed to capture results for each year separately (e.g., the survey 
+may ask for utilization hours for year 1 and year 2 separately). The end-user may not be able to provide 
+information on the quantity of cooking fuel in the units given here. In many places, the volume of firewood (e.g., 
+the volume capacity and level of filling of the transporting/storage room) is measured, rather than its weight. 
+Local measurement practices vary. The project proponent should include such local measurement units in the 
+questionnaire. The measurement unit may also be given in terms of money spent on purchasing fuel. The project 
+proponent must provide guidelines for how to convert the reported values to required units (mass or volume). For 
+example, where a household uses a bag of charcoal every 10 days, the monthly average may be calculated if the 
+weight (or volume and bulk density) of the full bag is determined. 
+ 
+VM0050, v1.0  
+ 
+50 
+2. 
+Survey Format B: Adoption Rate Survey 
+2.1. 
+General information 
+Title of project activity 
+ 
+Name of surveyor 
+ 
+Date of survey 
+dd/mm/yyyy 
+Survey method 
+Face to face 
+Period of usage (for adoption 
+rate) 
+dd/mm/yyyy to dd/mm/yyyy 
+2.2. 
+Household profile32 
+Name (household representative) 
+ 
+Household size (total number of people) 
+ 
+- 
+Female over 14 years 
+ 
+- 
+Male 15–59 years 
+ 
+- 
+Male over 59 years 
+ 
+- 
+Children 0–14 years 
+ 
+Type of area (urban/rural) 
+ 
+Address or coordinates 
+ 
+Phone number 
+ 
+ 
+2.3. 
+Household fuel consumption pattern following project implementation 
+Cooking device 
+ 
+Model name/number 
+ 
+Unique ID 
+ 
+Date of installation 
+dd/mm/yyyy 
+Do you use the project cookstove? 
+(Physically check the stove)33 
+Yes/No 
+If yes, have you used the stove regularly since you installed 
+it?34 
+Yes/No 
+If yes, is your stove in good condition?35 
+Yes/No 
+If no, why did you stop using the stove? 
+ 
+How many meals did you prepare using the project cookstove 
+last week or last month? 
+meals/ week or month 
+ 
+32 Selection of households should be based on a sampling plan. 
+33 This is to determine whether the cookstove is currently in use and includes visual checks. Physical checks to 
+verify usage may include checking stove conditions (e.g., warm to touch, ashes in grate, soot on stove). 
+34 This is to determine whether the cookstove has been continuously used. 
+35 The project proponent may rephrase the question keeping in mind the objective (i.e., whether or not the project 
+cookstove is in usable condition). Where the project cookstove is not in usable condition, the project proponent 
+must exclude such stoves from the project database for the whole crediting year and subsequent years. The 
+project proponent may include such stoves again on replacing them with new cookstoves of similar efficiency. 
+ 
+VM0050, v1.0  
+ 
+51 
+Do you also use your traditional (baseline) cookstove? 
+Yes/No 
+If yes, how many meals did you prepare using the traditional 
+(baseline) cookstove last week or last month?36 
+meals/ week or month 
+Do you use any other stove?37 
+Yes/No 
+If yes, list the types and number of other non-project stoves. 
+ 
+How many times a week do you use the non-project stoves? 
+ 
+How much do you spend on fuel for cooking per type of 
+cooking device in a week/month? 
+ 
+ 
+ 
+ 
+ 
+ 
+36 This is to determine whether the baseline stove is being used, in order to accurately account for project 
+emissions. Where celebrations and/or festivals at the time of the survey may alter the number of meals prepared, 
+provide an average value considering normal conditions.   
+37 This is to cross-check whether the project cookstove is used for all cooking requirements. It may also detect 
+situations where a household is taking part in more than one project activity, thereby avoiding double counting. 
+ 
+VM0050, v1.0  
+ 
+52 
+APPENDIX 4: MONITORING/ 
+MEASUREMENT TECHNIQUE GUIDANCE 
+Stove Use Monitors 
+Stove use monitors (SUMs) are devices that quantify stove usage through direct measurements of 
+physical or chemical parameters (e.g., temperature, heat flow, light, power, motion, gas concentration) 
+on stoves, kitchen technologies, and cookware, among others. These monitors are often employed in 
+regions where cooking primarily uses solid fuels such as wood, charcoal, or dung. The data collected by 
+these monitors can provide valuable insights into cooking behaviors, patterns, and the effectiveness of 
+interventions aimed at promoting cleaner cooking practices. 
+SUMs used for determining stove usage are sensors containing internal software that identifies stove 
+usage when a temperature threshold is reached. Event identification can be performed using the “fire-
+finder” method for instance38, which allows removal of events that are too short, and detects the 
+beginning (threshold, high slope) and the end (threshold, low slope, and slowing decreasing 
+temperature) of stove use events. 
+Parameters such as threshold values, positive slope, and negative slope must be adjusted based on 
+the stove type, and it is recommended that stove usage start and stop times are periodically verified 
+manually as a cross-check. SUMs require careful positioning to ensure a robust response capturing 
+temperature variation and avoiding heat damage. 
+When characteristic temperature signals or “signatures” of the main cooking tasks are obtained and 
+their frequency is measured, the adoption niche of each cooking device can be quantified from SUMs-
+based data in terms of the redistribution of cooking tasks. 
+The following table describes some recommendations that the project proponent may adopt for field 
+deployment of SUMs to quantify adoption.39  
+Table 3: Recommendations for stove use monitors (SUMs) 
+- 
+Placement of SUMs and 
+sampling frequency 
+• 
+Determine the stove locations and SUM support configuration that 
+will keep the SUMs within the temperature limits specified by each 
+manufacturer. 
+• 
+Use real-time temperature indicators to check locations during a 
+firing cycle performed at maximum fuel intensity. 
+ 
+38 Wilson, Daniel Lawrence, Kendra N. Williams, and Ajay Pillarisetti on behalf of the HAPIN Investigators. 2020. "An 
+Integrated Sensor Data Logging, Survey, and Analytics Platform for Field Research and Its Application in HAPIN, a 
+Multi-Center Household Energy Intervention Trial" Sustainability 12, no. 5: 1805. https://doi.org/10.3390/su12051805  
+39 Recommendations adapted from Ruiz Mercado I. 2012. The Stove Adoption Process: Quantification Using 
+Stove Use Monitors (SUMs) in Households Cooking with Fuelwood, University of California, Berkeley. 
+ 
+VM0050, v1.0  
+ 
+53 
+• 
+Record temperature with SUMs and holder setup at selected stove 
+locations for two to three days in real homes. Identify the least 
+obtrusive locations. 
+• 
+Check that the signals are not saturated and that the temperature of 
+the SUMs is not too close to the operating limits. 
+• 
+Determine the appropriate sampling frequency for the level of detail 
+desired (days of use, number of meals per day, duration of cooking 
+events, duration for which the stove is on) and for the number of 
+samples needed per monitoring period. 
+Placement recommendations 
+• 
+Avoid stoves where water may drip on the monitors. 
+• 
+In most monitors, slower sampling rates and lower operating 
+temperatures lead to longer battery life. 
+Data collection and 
+management 
+• 
+Staff should be monitored and trained to follow strict protocols to 
+ensure the integrity of SUM data. 
+• 
+Implement data collection field forms for each SUM in each 
+deployment-programming-download cycle. 
+• 
+Document relevant observations of household behavior on the 
+forms. 
+• 
+Keep a record of the operation and status of the sensors at each 
+location. 
+• 
+Establish a data file protocol that includes all identified keys such as 
+name and specifications of the monitor, household, stove 
+identification numbers, start and end date of temperature readings, 
+monitoring cycle number, among others, in order to have an 
+accurate and reliable file. 
+• 
+Perform annual baseline measurements on all deployed monitors. 
+ 
+Kitchen Performance Test (KPT) with digital monitors 
+Digital monitors can be included in traditional KPTs to optimize fuel consumption monitoring, since fuel 
+consumption is one of the most important metrics of cooking intervention performance. To directly 
+monitor fuel consumption in households, digital monitors record time-stamped fuel mass data using a 
+logging load cell. 
+Digital monitoring systems can operate in tension for fuels like firewood, charcoal, and agricultural 
+residues, or in compression for LPG, ethanol, or kerosene. Where households stack with multiple stoves 
+or fuels, a separate sensor can be installed for each stove or fuel type.  
+Two versions of the system have been developed, one manufactured by Waltech Systems that relies on 
+SD cards (first generation) and an updated model manufactured by Climate Solutions Consulting that 
+ 
+VM0050, v1.0  
+ 
+54 
+collects data wirelessly using a custom-designed launcher and collection device (second generation).40 
+Wireless data collection allows for faster data collection integrated with multiple sensors (fuel, 
+temperature, emissions) in a home, and enables troubleshooting and preliminary data reporting at the 
+source.  
+General system components include:  
+• 
+Off-the-shelf S-type tensile or compressive load cell with eye bolts for attachment  
+• 
+Internal temperature sensor  
+• 
+Integrated power supply, analog-to-digital converter (ADC), and control module with internal 
+clock  
+• 
+Battery power supply  
+• 
+Plastic housing  
+• 
+Fuel storage container 
+ Components specific to first generation systems include:  
+• 
+External thermocouple port  
+• 
+SD card port for data storage  
+Components specific to second generation systems include: 
+• 
+Wireless data launcher 
+• 
+Initial pre-processed data analytics (calibration equations applied before storing data)  
+• 
+Wireless infrared temperature logger 
+For first generation systems, logging rate is normally programmed to 49 seconds and decreased to 7 
+seconds when a specified weight change is detected, until no additional changes in mass are detected. 
+Data is stored on SD cards as .csv files. 
+For second generation systems, the measurement rate is normally programmed to 30 seconds, with 
+data written to memory once per minute. The data are stored in the device’s internal memory and then 
+downloaded wirelessly to the launcher SD card as a .csv file. 
+For adequate operation, a household cook must be trained to store his or her fuel supply in the bucket- 
+or sling-type fuel holder, remove fuel as needed for cooking, and refill when empty. These actions result 
+in discrete reductions in weight, which are recorded by the load cell and integrated to determine total 
+fuel use over a specified time. 
+ 
+40 Ventrella J., Lefebvre O., and MacCarty N. 2020. Techno-economic comparison of the FUEL sensor and Kitchen 
+Performance Test to quantify household fuel consumption with multiple cookstoves and fuels. Development 
+Engineering, 5, 100047. https://doi.org/10.1016/j.deveng.2020.100047 
+ 
+VM0050, v1.0  
+ 
+55 
+How to approach seasonality with KPT 
+Project proponents must provide a description of seasonality at the project location(s) (e.g., wet/dry, 
+cold/warm, temporality during the year), as well as observed and expected impacts on cooking 
+practices and cooking energy use.  
+The project proponent must consider one of the following options to address seasonality.  
+• 
+Perform the measurement campaign in such a way that it captures seasonal factors that may affect 
+fuel consumption over the year, or 
+• 
+Perform the measurement campaign in a way that ensures that the results are conservative, given 
+seasonal variability and ensure that baseline and project KPT are performed at the same moment. 
+ 
+VM0050, v1.0  
+ 
+56 
+APPENDIX 5: SAMPLING GUIDANCE 
+According to the Guidelines on Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities,41 it is important to distinguish between two categories of data when determining sample size: 
+those related to mean and those related to proportions.  
+Sample size refers to the number of observations or individuals included in a statistical study or 
+experiment. Determining the appropriate sample size is critical to ensuring that the results of the study 
+are accurate and representative of the population being studied. 
+• 
+Mean values: Corresponding to average values inferred from data that are often referred to as 
+continuous variables 
+• 
+Proportion (or percentage) values: Values that are derived from data that are described as 
+attributes, yes/no data, or binary data 
+The "population" in this methodology refers to the total number of project devices commissioned, 
+whereas the sample target represents a specific subset of these devices. The following table specifies 
+the parameters described in the methodology to be considered in relation to the CDM sampling 
+guidelines, together with a description of the type of data to which they correspond (mean or 
+proportion). 
+Scenario Parameter Description 
+Mean value 
+Proportion 
+General 
+Nj,k,y 
+Number of commissioned project devices of type j 
+from batch k in year y 
+X 
+ 
+nj,k,y 
+Proportion of commissioned project devices of type j 
+from batch k that remain operating in year y 
+(fraction) 
+ 
+X 
+Baseline 
+BCb,i,y  
+Fuel used per baseline device type i during year y 
+X 
+ 
+SCb,i 
+Specific energy consumption of baseline device type 
+i in the baseline scenario 
+X 
+ 
+Project 
+BCp,j,k,y 
+Average quantity of fuel used by project device type j 
+from batch k during year y 
+X 
+ 
+ECp,j,k,y 
+Annual consumption of electricity by electric project 
+device type j from batch k in year y 
+X 
+ 
+ 
+41 Available at: https://cdm.unfccc.int/Reference/Guidclarif/index.html  
+ 
+VM0050, v1.0  
+ 
+57 
+ 
+SCp,j 
+Specific energy consumption of project device type j 
+in the project scenario 
+X 
+ 
+ 
+Recommended sampling methods selected based on specific project conditions and available sampling 
+and/or prospecting capabilities are listed below. 
+Sampling Method 
+Characteristics 
+Simple random 
+sampling 
+• 
+Conceptually straightforward and easy to implement 
+• 
+Particularly advantageous when assuming population homogeneity, such as 
+within the same climate zone or socioeconomic circumstances 
+• 
+Costs of data collection can be higher than other sampling approaches when 
+the population is large and geographically dispersed. 
+• 
+Not applied where the population covers a large geographical area.  
+Stratified random 
+sampling 
+• 
+Ensures that each subgroup is represented proportionally in the final sample, 
+which can lead to more accurate and reliable results compared to simple 
+random sampling. 
+• 
+Applied for heterogeneous populations and most applicable to situations where 
+there are obvious groupings of population elements whose characteristics are 
+more similar.  
+• 
+Stratification factors should be selected to reflect significant differences in the 
+population regarding the parameter of interest. 
+• 
+Requires prior knowledge or information about the population to correctly 
+identify and define the strata. 
+• 
+Tends to be more complex, demanding additional calculations in contrast to 
+simple random sampling. 
+ 
+To perform sample size calculations, the parameters of interest must be estimated. This procedure can 
+be accomplished by: 
+1) Preliminary data analysis: Conduct an exploratory study using previously collected data, where 
+available. This can give a first idea of the data distribution and parameter variability.  
+2) Literature research: Previous research related to the topic of study can be examined. 
+3) Pilot or feasibility studies: Conduct pilot or feasibility studies to gather preliminary data. This 
+can help estimate parameters of interest and adjust sample size calculations accordingly. 
+4) Expert consultation: Obtain opinions and knowledge from experts in the relevant field. 
+5) Own experience: Using estimates based on the researcher's own experiences. 
+The following equations must be followed to determine the sampling plan. 
+ 
+VM0050, v1.0  
+ 
+58 
+A5.1 Simple Random Sampling 
+Simple random sampling is suited to populations that are homogeneous. This method is often used 
+because it is straightforward and ensures that each member of the population has an equal chance of 
+being included in the sample. The sample-based estimate (mean or proportion) is an unbiased estimate 
+of the population parameter. 
+Sample size determination for mean parameter 
+𝑛 ≥
+1.6452𝑁 × 𝑉
+(𝑁−1) × 0.12 + 1.6452 × 𝑉 
+𝑉= ( 𝑆𝐷
+𝑚𝑒𝑎𝑛)
+2
+ 
+Where: 
+n 
+= 
+Sample size for households 
+N 
+= 
+Total number of households 
+SD 
+= 
+Expected standard deviation  
+mean 
+= 
+Expected mean, depends on similar studies or location 
+1.645 
+= 
+Represents the 90% confidence required 
+0.1 
+= 
+Represents the 10% relative precision  
+ 
+Sample size determination for proportion parameter 
+The equation for a 90/10 confidence/precision to give the required sample size is: 
+𝑛 ≥
+1.6452𝑁 × 𝑝(1 −𝑝)
+(𝑁−1) × 0.12 × 𝑝2 + 1.6452 × 𝑝(1 −𝑝) 
+Where: 
+n 
+= 
+Sample size for households 
+N 
+= 
+Total number of households 
+p 
+= 
+Expected proportion of parameter of interest  
+1.645 
+= 
+Represents the 90% confidence required 
+0.1 
+= 
+Represents the 10% relative precision  
+ 
+The result, n, represents the number of households with data available for analysis. Where it is 
+anticipated that a certain proportion of the sampled households will respond, adjust this number 
+accordingly by dividing n by the anticipated proportion.  
+The expected proportion must not be more than one. A conservative range to apply could be between 
+0.5 to 0.7. 
+The equation for 95/10 confidence/precision to give the required sample size is:  
+𝑛 ≥
+1.962𝑁 × 𝑝(1 −𝑝)
+(𝑁−1) × 0.12 × 𝑝2 + 1.962 × 𝑝(1 −𝑝) 
+ 
+VM0050, v1.0  
+ 
+59 
+Where: 
+n 
+= 
+Sample size for households 
+N 
+= 
+Total number of households 
+p 
+= 
+Expected proportion of operating cookstoves 
+1.96 
+= 
+Represents the 95% confidence required 
+0.1 
+= 
+Represents the 10% relative precision  
+ 
+A5.2 Stratified Random Sampling 
+Where the project covers a large geographic area, stratified random sampling may be applied. This 
+consists of dividing the area into different districts based on the likelihood that stoves will continue to 
+operate. The number of districts (D) should cover the total number of households. Estimates of the 
+proportion of cookstoves still in operation in each district, as well as the population size of each district, 
+are required. 
+Total sample size determination for proportion parameter 
+𝑛 ≥
+1.6452 × 𝑁𝑉
+(𝑁−1) × 0.12 + 1.6452 × 𝑉 
+ 
+𝑉 = 𝑆𝐷2
+𝑝̅2  
+Where: 
+n 
+= 
+Sample size for households 
+N 
+= 
+Total number of households 
+V 
+= 
+Overall variance 
+1.645 
+= 
+Represents the 90% confidence required 
+0.1 
+= 
+Represents the 10% relative precision  
+SD 
+= 
+Standard deviation   
+𝑝̅ 
+= 
+Overall proportion 
+ 
+Then, standard deviation is based on gd  and proportion pd. 
+𝑆𝐷 =  ∑𝑔𝑑× 𝑝𝑑(1 −𝑝𝑑)
+𝑁
+𝑑
+ 
+Where: 
+SD 
+= 
+Standard deviation 
+gd 
+= 
+Number of households with cookstoves in district d 
+pd(1 – pd) 
+= 
+Variance of a proportion 
+N 
+= 
+Total number of households 
+ 
+ 
+VM0050, v1.0  
+ 
+60 
+The overall proportion is based on the number of households in a district and the proportion with 
+cookstoves.  
+𝑝̅  = ∑(𝑔𝑑+ 𝑝𝑑)
+𝑁
+𝑑
+ 
+Where: 
+𝑝̅ 
+= 
+Overall proportion  
+gd 
+= 
+Number of households with cookstoves in district d 
+pd 
+= 
+Proportion of households with cookstoves in district d 
+N 
+= 
+Total number of households 
+ 
+To decide on the number of households in the sample that come from each district, proportional 
+allocation can be used, where the proportion from different districts is the same as the proportion of 
+that district in the population.  
+𝑛𝑑= 𝑔𝑑
+𝑁× 𝑛 
+Where: 
+nd 
+= 
+Sample size for district d 
+gd 
+= 
+Number of households with cookstoves in district d 
+N 
+= 
+Total number of households 
+n 
+= 
+Total sample size 
+ 
+Sample size determination for mean parameter 
+𝑛 ≥
+1.6452 × 𝑁𝑉
+(𝑁−1) × 0.12 + 1.6452 × 𝑉 
+𝑉= (𝑆𝐷𝑜𝑣𝑒𝑟𝑎𝑙𝑙
+𝑚𝑒𝑎𝑛)
+2
+ 
+Where: 
+SDoverall 
+= 
+Weighted overall standard deviation  
+mean 
+= 
+Weighted overall mean  
+ 
+The overall standard deviation is: 
+𝑆𝐷𝑜𝑣𝑒𝑟𝑎𝑙𝑙 = √∑
+𝑔𝑑× 𝑆𝐷𝑑
+2
+𝐷
+𝑑=1
+𝑁
+ 
+Where: 
+SDoverall 
+= 
+Weighted overall standard deviation 
+SDd 
+= 
+Standard deviation for district d 
+ 
+VM0050, v1.0  
+ 
+61 
+gd 
+= 
+Number of households with cookstoves in district d 
+N 
+= 
+Total number of households 
+ 
+The overall mean is: 
+𝑚𝑒𝑎𝑛 = ∑
+(𝑔𝑑+ 𝑚𝑑)
+𝑁
+𝐷
+𝑑=1
+ 
+Where: 
+mean 
+= 
+Weighted overall mean 
+gd 
+= 
+Number of households with cookstoves in district d 
+md 
+= 
+Mean cookstoves in district d 
+N 
+= 
+Total number of households 
+ 
+ 
+ 
+VM0050, v1.0

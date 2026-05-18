@@ -1,0 +1,39 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to project activities that improve vehicle efficiency in fleets, resulting 
+in reduced fuel usage and GHG emissions.  
+This methodology is applicable under the following conditions: 
+1) Project activities implement one or more of the following measures (see Appendix 1 for a 
+description of each measure): 
+a) Idling stop device 
+b) Eco-drive system 
+c) Tire-rolling resistance improvements 
+d) Air-conditioning system improvements 
+e) Use of low-viscosity oils 
+f) 
+Aerodynamic drag reduction 
+g) Transmission improvements 
+ 
+VMR0004, v2.0 
+ 
+7 
+h) Retrofits that improve engine or combustion efficiency or both 
+i) 
+Other energy efficiency improvements. Such other measures must have been 
+demonstrated to lead to fuel savings in independent third-party studies. 
+The measures implemented may vary across vehicles in the fleet(s). 
+2) Where the project proponent is not the owner of the vehicle fleets (e.g., the project 
+proponent is a fleet manager with many clients), a contract exists between the project 
+proponent and each fleet owner to establish clear ownership of the emission reductions.  
+3) Only vehicles in which at least one of the ex-ante-identified project activity measures has 
+been implemented are included as project vehicles.  
+4) A project activity may encompass various fleets. 
+Note—The use of a fixed biofuel blend or plug-in hybrid electric vehicle (PHEV) is permitted, 
+provided that the project vehicles use the same biofuel blend or electricity-to-fuel ratio as the 
+baseline vehicles.  
+This methodology is not applicable under the following conditions: 
+5) The measures improve fleet system efficiency, such as changes in operational 
+procedures to increase vehicle occupancy rates or shifts in transportation modes. 
+6) The project activities involve fuel switch activities. Project activities that introduce new 
+electric or hybrid vehicles to replace fossil fuel vehicles may apply the CDM methodology 
+AMS-III.C Emission Reductions by Electric and Hybrid Vehicles or other VCS-eligible 
+methodologies for switching from fossil fuels to biofuels.

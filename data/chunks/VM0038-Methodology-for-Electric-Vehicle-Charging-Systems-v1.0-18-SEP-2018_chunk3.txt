@@ -1,0 +1,159 @@
+3  
+DEFINITIONS 
+In addition to the definitions set out in VCS document Program Definitions, the following 
+definitions apply to this methodology: 
+Applicable Fleets 
+The class of EVs eligible and technically able to charge at EV chargers associated with the 
+project. For LDV projects, these applicable fleets comprise2 BEVs and PHEVs for L1 and L2 
+chargers, and BEVs for DCFCs. For HDV projects, these applicable fleets comprise the 
+MDV/HDV electric vehicles eligible to charge at the project’s set of EV chargers. 
+Associated Infrastructure (AI) 
+Stationary battery storage devices3 and dedicated renewable energy systems (e.g., solar or 
+biofuel from on-site or other locations which use dedicated direct transmission lines) integrated as 
+part of EV charging systems and managed by their control units. Associated infrastructure 
+includes on-site battery storage systems which can store and dispatch electricity to and/or from 
+any on-site renewable power systems, the grid, and/or the EV batteries. Associated infrastructure 
+also includes the EV batteries themselves and thus includes EV vehicle-to-grid (V2G) and EV to 
+on-site battery exchanges of electricity.  
+Associated Infrastructure Metering Systems 
+Systems used to track electricity flows between AI devices, whether using meters and/or 
+associated measurement systems within or external to the EV charger. These may include 
+upstream metering on the grid-side of the adequate metering system (e.g., where meters are 
+installed grid-side of an on-site battery) and/or downstream metering (e.g., where metering takes 
+place within the charger unit itself, downstream of the on-site battery). 
+Battery Electric Vehicle (BEV) 
+An EV which relies exclusively upon electricity delivered from an external EV charging system for 
+its power in order to propel its motion 
+Charging Networks 
+A collection of charging systems which service any given applicable fleet  
+Closed Charging Networks 
+A collection of charging systems for which composition of the applicable fleet is constrained to a 
+particular sub-set of EVs whose composition and operating characteristics of both the applicable 
+                                                 
+2 There may be a very few PHEVs which also have the plug capability to charge at DCFCs (e.g., Mitsubishi 
+Outlander); these are considered de minimis. Similarly, the BMW i3 REX (with range extender) is technically a PHEV, 
+but only 5% of i3s use the range extender in practice. Moreover, Argonne National Laboratory and California classify 
+the REX as a BEV, and therefore it is included in the BEV category for default factor calculation purposes in this 
+methodology.   
+3 For larger powered systems (e.g., 150kw, 320kw), stationary battery systems may become a more typical integrated 
+part of the EV charging system infrastructure over time (e.g., to mitigate demand peak charges from utilities); they are 
+controlled by the charging system’s control unit and are located close to the site within the charging system’s 
+metering to the utility. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+6
+and comparable fleets can be specifically identified and documented (e.g., a transit agency’s e-
+bus charging network)  
+Comparable Fleets 
+Those fossil-fuel vehicles whose travel characteristics have been defined to be comparable to the 
+EVs in each applicable fleet as determined in Section 4 below 
+DC Fast Charger (DCFC) 
+A charger which provides direct current charging (typically at 200-1000V) from an off-board4 
+charger with a power rating above 11kw. Typical DCFC ratings are 50kw, with the newest 
+systems for passenger vehicles in the 150kw and 320 kw ranges. DCFC classifications are 
+defined as: 
+ 
+DCFC 50kw: capable of delivering maximum power from 11kw to 62.5kw 
+ 
+DCFC 100kw: capable of delivering maximum power from 63kw to 110kw (i.e., 200A) 
+ 
+DCFC 150kw: capable of delivering maximum power from 111kw to 160kw (i.e., 
+200A@800V or 350A@400V, some with cooled connectors) 
+ 
+DCFC 320kw: capable of delivering maximum power from 161kw and 360kw (i.e., cooled 
+connectors) 
+ 
+DCFC 500kw: capable delivering maximum power from 361kw and above (i.e., different 
+connectors) 
+Where no kw classification is specified in this methodology, DCFC includes all classes defined 
+above. 
+Dedicated Renewable Energy 
+Renewable power (e.g., solar, wind, and bio-fuel) supplied either from sources on-site within the 
+associated infrastructure of the project, or received from a dedicated supply source via a direct 
+transmission line. These renewable sources represent a distinct segment, differentiated from the 
+renewable electricity supplied via the broader grid. These dedicated renewables may also be 
+delivered in part for use on the main grid. 
+Electric Vehicle (EV) 
+Vehicles, including BEVs and PHEVs, spanning both passenger cars, LDVs and HDVs, powered 
+by the external electricity sources of charging systems. EVs do not include hybrid-only vehicles 
+since they do not consume electricity from externally generated sources. 
+ 
+ 
+                                                 
+4See SAE standards: 
+http://grouper.ieee.org/groups/earthobservationsSCC/IEEE_SAE_J1772_Update_10_02_08_Gery_Kissel.pdf  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+7
+EV Chargers 
+Charging dispensers and their metering systems including L1, L2 and/or DCFC units which 
+provide electricity to EVs within an applicable fleet and which may form part of an EV charging 
+system   
+EV Charging Systems 
+A set of EV chargers including L1, L2 and/or DCFC and their associated infrastructure (if any) 
+which, when located at a given charging site, provide electricity to EVs within a given applicable 
+fleet, and which may form part of a charging network   
+EV Market Share 
+The number of EVs on the road within a geographic region, expressed as a percentage of total 
+vehicles on the road within a geographic region, segmented for applicable fleets across LDV and 
+HDV sectors 
+Heavy Duty Vehicles (HDV) 
+Vehicles consistent with definitions provided by the governing national regulatory system(s) of the 
+project location. HDVs may also include medium duty vehicles (MDVs). These must be consistent 
+with the data sources used in the standardized tests and default ER factors applied, if any5.  
+Kwh/100 Mile Ratings 
+Ratings as provided by credible national government/regulatory sources which establish the kwh 
+consumed to travel 100 miles, sourced for each EV model within applicable fleets, and used to 
+calculate the weighted average Applicable Fleet’s Electricity Consumption (AFEC) rating 
+Level 1 Charger (L1) 
+A charger which provides 120V alternating current charging services to the vehicle’s on-board 
+charger with a power rating up to 1.8kw 
+Level 2 Charger (L2)6 
+A charger which provides 240V alternating current charging services to the vehicle’s on-board 
+charger with a power rating up to 20kw (typically from 3.3kw to 6.6 kw) 
+Light Duty Vehicles (LDV) 
+Cars and trucks consistent with definitions provided by the governing national regulatory 
+system(s) of the project location. These must be consistent with the data sources used in the 
+standardized tests and default ER factors applied, if any7.  
+                                                 
+5 For example, in the United States, HDVs are specified as including both HDVs and those MDVs with Gross Vehicle 
+Weight Ratings (GVWR) of more than 14,000lbs (typically from class 4 and above), consistent with the IHS Markit 
+data sources applied in the development of the default factors. HDV vehicles include both e-buses and e-trucks. 
+6 Note that, in London UK, L2 chargers have been referenced as fast chargers. And, DCFCs are referenced as rapid 
+chargers.  Regardless of nomenclature, the chargers will be defined against the technical criteria provided in this 
+methodology. 
+7 For example, in the United States, LDVs are specified as including vehicles with) GVWR up to and including 
+14,000lbs, (classes 1, 2, and 3) and must therefore include those Medium Duty Vehicles (MDVs) up to this same 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+8
+Medium and Heavy Duty Electric Vehicle (HDV EV) 
+Medium duty and heavy duty vehicles (collectively defined as HDV) comprising both BEV and 
+PHEV HDV electric vehicles, including e-buses and e-truck categories, which rely upon electricity 
+delivered from external EV charging systems for their power 
+Miles per gallon (MPG) ratings 
+Mile per gallon ratings as provided by credible national government/regulatory sources establish 
+the miles traveled per gallon of fuel consumed, for those fossil fuel vehicles deemed comparable 
+per Section 4 to the EV’s applicable fleet8 
+Open Charging Networks 
+A charging network where the applicable fleet is not constrained to a particular sub-set of EVs 
+whose composition and operating characteristics of both the applicable and comparable fleets 
+can be identified and documented, as with a closed charging network 
+Plug-in Hybrid Electric Vehicle (PHEV) 
+A vehicle combining an internal combustion engine and one or more electric motors, which must 
+also be capable of receiving delivered electricity by plugging into an external EV charging system 
+for its power in order to propel its motion 
+Private Charging Networks 
+Charging systems where charger access is limited to a defined applicable fleet. For example, 
+residential chargers would be considered private since access is restricted, as would a city’s 
+chargers if their use was limited to the charging of the city’s own EV fleet vehicles. Private refers 
+to the limited degree of access to the chargers, not the charging system’s owner’s status (since 
+public city chargers can use private charging networks). The composition of those EVs accessing 
+the network need not be known (that is, both open (e.g., residential) and closed (e.g., e-bus 
+transit agency charging) networks can be private if access is limited).

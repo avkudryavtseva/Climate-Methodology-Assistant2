@@ -1,0 +1,1892 @@
+9 
+MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Selection of parameter values and assumptions requires a balance between accuracy and conservativeness. 
+Accuracy should always prevail except when alternative values are of equivalent accuracy, in which case the more 
+conservative value is used, the more conservative being the value that provides the least over-estimation of net 
+anthropogenic GHG removals by sinks. 
+ 
+                                              
+38 To be conservative, the minimum uncertainty factor is set to 1.5% to account for possible uncertainty within other unmeasured assumptions 
+used in calculations and modeling.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+51 
+Data/parameter 
+ABSL,i 
+Data unit 
+Ha 
+Description: 
+Area of baseline polygon, i 
+Used in 
+Various equations from Equation #4-17. 
+Source of data 
+GPS coordinates and/or remote sensing and/or inventory records 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+Data/parameter 
+∆C,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual carbon balance in the baseline or project scenario for year, t 
+Used in 
+Equation 57, labeled by baseline (BSL) and project (PRJ).   
+Source of data 
+Calculated in equation 1 (Section 8.1); equation 29 (Section 8.2).  Labeled 
+with subscript BSL and PRJ, respectively.   
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CP,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks in all pools in the baseline or project 
+scenario across the project activity area for year, t 
+Used in 
+Calculation of ∆C,t 
+Source of data 
+Calculated in equation 2 (Section 8.1); equation 30 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CLB,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks in living tree biomass (above- and 
+belowground) for year, t 
+Used in 
+Calculation of ∆CP,t 
+Source of data 
+Calculated in equation 3 (Section 8.1); equation 31 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+52 
+Data/parameter 
+∆CDOM,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks in dead organic matter for year, t 
+Used in 
+Calculation of ∆CP,t 
+Source of data 
+Calculated in equation 10 (Section 8.1); equation 38 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CHWP,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks in harvested wood products for year, t 
+Used in 
+Calculation of ∆CP,t 
+Source of data 
+Calculated in equation 18 (Section 8.1); equation 46 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CG,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks due to live biomass gain for year, t 
+Used in 
+Calculation of ∆CLB,t 
+Source of data 
+Calculated in equation 4 (Section 8.1); equation 32 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CL,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in carbon stocks due to live biomass loss for year, t 
+Used in 
+Calculation of ∆CLB,t 
+Source of data 
+Calculated in equation 6 (Section 8.1); equation 34 (Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+53 
+Data/parameter 
+∆CLDW,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in lying dead wood carbon stocks for year, t 
+Used in 
+Calculation of ∆CDOM,t 
+Source of data 
+Calculated in equations 11a, 12, 13 (Section 8.1); equations 39a, 40, 41 
+(Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CSNAG,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in standing dead wood carbon stocks for year, t 
+Used in 
+Calculation of ∆CDOM,t 
+Source of data 
+Calculated in equations 14a, 15, 16 (Section 8.1); equations 42a, 43, 44 
+(Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CDBG,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual change in dead belowground carbon stocks for year, t 
+Used in 
+Calculation of ∆CDOM,t 
+Source of data 
+Calculated in equations 17a, 17c, 17d (Section 8.1); equations 45a, 45c, 45d 
+(Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+CF 
+Data unit 
+t C t-1 d.m. 
+Description: 
+Carbon fraction of dry matter 
+Source of data 
+IPCC default value = 0.5, if more relevant values are not available 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+54 
+Data/parameter 
+Ri 
+Data unit 
+unitless 
+Description: 
+Root:shoot ratio in polygon , i 
+Source of data 
+If project-specific values have not been measured, use Cairns 1997). 
+Measurement procedures 
+n/a 
+Comments: 
+Root allocation can be vary by site productivity; relatively more biomass may 
+be allocated to roots in poor than richer soils 
+ 
+Data/parameter 
+BEF 
+Data unit 
+unitless 
+Description: 
+Biomass expansion factors for conversion of productivity metrics to biomass 
+Source of data 
+The source of data must be chosen with priority from higher to lower 
+preference as follows:  
+(a)  Existing local and forest type-specific;  
+(b)  National and forest type-specific or eco-region-specific (e.g. from national 
+GHG inventory);  
+(c)  Forest type-specific or eco-region-specific from neighboring countries with 
+similar conditions. Sometimes (c) might be preferable to (b);  
+(d)  Globally forest type or eco-region-specific (e.g. IPCC literature: Table 
+3A.1.10 of GPG-LULUCF) 
+Measurement procedures 
+n/a 
+Comments: 
+BEFs are age dependent, and use of average data may result in significant 
+errors for both young and old stands – as BEFs are usually large for young 
+stands and quite small for old stands. 
+ 
+Data/parameter 
+fBRANCH,i,t 
+Data unit 
+unitless 
+Description: 
+The annual proportion of aboveground tree biomass comprised of branches > 
+5 cm diameter in polygon, i 
+Source of data 
+The source of data must be chosen with priority from higher to lower 
+preference as follows:  
+(a)  Research publications relevant to the project area;  
+(b)  National and species-specific or group of species-specific (e.g. from 
+National GHG inventory);  
+(c)  Species-specific or group of species-specific from neighboring countries 
+with similar conditions. Sometimes (b) may be preferable to (a);  
+(d)  Globally species-specific or group of species-specific (e.g. IPCC GPG- 
+LULUCF). 
+Measurement procedures 
+n/a 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+55 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, same value 
+ 
+Data/parameter 
+fBUCKINGLOSS,i,t 
+Data unit 
+unitless 
+Description: 
+Annual proportion of the log bole biomass left on site after assessing and/or 
+merchandizing the log bole for quality, in polygon, i 
+Source of data 
+Preferably, data for this variable must be based on regional and local 
+comparative studies and experiential information derived from the local forest 
+industry. Otherwise, an average default value of 21% can be used, based on 
+US national summary statistics (Smith, Miles, Vissage, & Pugh, 2004). 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+ 
+Data/parameter 
+P3-year and P100-year 
+Data unit 
+unitless 
+Description: 
+The proportion of total carbon stored in wood products after 3 years (P3-year); 
+and the proportion of harvested wood stored for 100 years (P100-year), for 
+product type, k. 
+Source of data 
+Calculated for the baseline and project case  
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+Data/parameter 
+PBSL,SLF, PBSL,MLF, PBSL,LLF 
+Data unit 
+unitless 
+Description: 
+The short-lived fraction (PSLF), medium-lived fraction (PMLF), and long-lived 
+fraction (PLLF), respectively, for product type, k 
+Source of data 
+Calculated as per equations 22a-c (baseline) and equations 50ac (project) 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+ 
+ 
+ 
+Data/parameter 
+fTRANSPORTk 
+Data unit 
+(unitless; 0 < fBSL,TRANSPORTk < 1). 
+Description: 
+The fraction of raw material transported by transportation type, k.  
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+56 
+Source of data 
+Estimated based on Heath et al. 2006 Supplementary 
+Measurement procedures 
+n/a 
+Comments: 
+Variables used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+cHARVEST  
+Data unit 
+t C emitted/t C raw material 
+Description: 
+The carbon emission intensity factor associated with harvesting 
+Source of data 
+See Table 4 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+ 
+Data/parameter 
+cMANUFACTUREk 
+Data unit 
+t C emitted/t C raw material 
+Description: 
+The carbon emission intensity factor associated with manufacture of product, 
+k 
+Source of data 
+See Table 4 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+Data/parameter 
+cTRANSPORTk 
+Data unit 
+t C emitted/t C raw material ● km 
+Description: 
+The carbon emission intensity factor associated with the transport of raw 
+material by transportation type of product, k 
+Source of data 
+See Table 4 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+Data/parameter 
+dTRANSPORTk 
+Data unit 
+km 
+Description: 
+The distance transported by transportation type, k. 
+Source of data 
+Estimated based on Heath et al. 2006 Supplementary 
+Measurement procedures 
+n/a 
+Comments: 
+ 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+57 
+Data/parameter 
+CEMITTRANSPORT,t 
+Data unit 
+t C yr-1 
+Description: 
+The annual fossil fuel emissions associated with the transport of raw material 
+Source of data 
+Heath et al. 2006 Supplementary 
+Measurement procedures 
+n/a 
+Comments: 
+Variables used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+GAG,i,t 
+Data unit 
+t d.m. ha-1 yr-1 
+Description: 
+Annual increment rate in aboveground biomass (t d.m. ha-1 yr-1), in polygon, i, 
+Source of data 
+Modeled (See Section 8.1 & Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+GBG,i,t 
+Data unit 
+t d.m. ha-1 yr-1 
+Description: 
+Annual increment rate in belowground biomass (t d.m. ha-1 yr-1), in polygon, i, 
+Source of data 
+Calculated from GAG and Ri 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+LBLNATURALi,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+Annual loss of live tree biomass due to natural mortality in polygon, i; t d.m. yr-
+1 
+Source of data 
+Modeled (See Section 8.1 & Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+LBLFELLINGSi,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+Annual loss of live tree biomass due to commercial felling in polygon, i; t d.m. 
+yr-1 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+58 
+Source of data 
+Modeled (See Section 8.1 & Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+LBLOTHERi,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+Annual loss of live tree biomass from incidental sources in polygon, i; t d.m. yr-
+1 
+Source of data 
+Modeled (See Section 8.1 & Section 8.2) 
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+LBi,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+Average live tree biomass in polygon, i, for year, t 
+Source of data 
+Calculated from Gi,t  
+Measurement procedures 
+n/a 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+fBSL,NATURAL,i,t  
+Data unit 
+unitless; 0 < fNATURAL,i,t < 1 
+Used in: 
+Equation 7, Section 8 
+Description: 
+The annual proportion of biomass that dies from natural mortality in forest 
+type analysis unit or polygon, i, year, t. 
+Source of data 
+Literature reports, and/or inventory data.  
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,HARVEST,i,t  
+Data unit 
+unitless; 0 < fBSL,HARVESTIi < 1 
+Used in: 
+Equation 8, Section 8.1 
+Description: 
+The proportion of biomass removed by harvesting from polygon, i, in year, t. 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+59 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,DAMAGE,i,t 
+Data unit 
+unitless; 0 < fBSL,DAMAGE,i,t < 1 
+Used in: 
+Equation 9, Section 8 
+Description: 
+The proportion of additional biomass removed for road and landing 
+construction in polygon, i, year, t 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,BLOWDOWN,i,t 
+Data unit 
+unitless; 0 < fBSL,BLOWDOWN,i,t < 1 
+Used in: 
+Equation 12, Section 8.1 
+Description: 
+The annual proportion of live aboveground tree biomass subject to blowdown 
+in polygon, i, year, t. 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,SNAGFALLDOWN,i,t   
+Data unit 
+unitless; 0 < fBSL,SNAGFALLDOWN,i,t < 1 
+Used in: 
+Equations 12 & 16, Section 8.1 
+Description: 
+The annual proportion of snag biomass in polygon, i, year, t, that falls over 
+and thus is transferred to the LDW pool. 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,lwDECAY,i,t  
+Data unit 
+unitless; ; 0 < fBSL,lwDECAY,i,t < 1 
+Used in: 
+Equation 13, Section 8.1 
+Description: 
+The annual proportional loss of lying dead biomass due to decay, in polygon i, 
+year, t, 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+60 
+Comments: 
+ 
+ 
+Data/parameter 
+fBSL,SWDECAY,i,t  
+Data unit 
+unitless; 0 < fBSL,SWDECAY,i,t < 1 
+Used in: 
+Equation 16, Section 8.1 
+Description: 
+The annual proportional loss of snag biomass due to decay, in polygon, i, 
+year, t. 
+Source of data 
+Literature reports, and/or inventory data. 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+SNAGBSL,i,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+The total amount of snag mass in polygon i, year, t 
+Source of data 
+Calculated in equations 14b, 15,16 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+DBG,i,t 
+Data unit 
+t d.m. yr-1 
+Description: 
+The total quantity of dead belowground biomass accumulated in polygon i 
+since the project start; t biomass. 
+Source of data 
+Calculated in equations 17b, 17c,17d (Section 8.1); Calculated in equations 
+45b, 45c,45d (Section 8.2) 
+Measurement procedures 
+Modeled. 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+∆CSTORHWP1,t 
+Data unit 
+t C yr-1 
+Used in: 
+The calculation of the annual change in emissions associated with the 
+production of harvested wood products (HWP), ∆CBSl,HWP,t, 
+Description: 
+Annual harvested carbon that remains in permanent storage after conversion 
+to wood products during primary processing 
+Source of data 
+Calculated in equation 19 (Section 8.1) and equation 47 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+61 
+be different 
+ 
+Data/parameter 
+CMILL,h,k 
+Data unit 
+t C  
+Used in: 
+The calculation of the annual change in the carbon stored in harvested wood 
+products (HWP), ∆CBSL,HWP,t, 
+Description: 
+The carbon contained in harvested timber after milling in period h, for product 
+type k 
+Source of data 
+Calculated in equation 21 (Section 8.1) and equation 49 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+CTIMBER,h 
+Data unit 
+t C  
+Used in: 
+The calculation of the annual change in the carbon stored in harvested wood 
+products (HWP), ∆CBSL,HWP,t, 
+Description: 
+The carbon contained in timber harvested in period h 
+Source of data 
+Calculated in equation 20 (Section 8.1) and equation 48 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+CSTORHWP,h,t 
+Data unit 
+t C  
+Used in: 
+The calculation of the annual change in the carbon stored in harvested wood 
+products (HWP), ∆CBSL,HWP,t, 
+Description: 
+The carbon stored in harvested wood products in year t summed for all 
+product types k and then over all harvest periods h; t C  
+ 
+Source of data 
+Calculated in equation 23 (Section 8.1) and equation 51 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+fRND,k 
+Data unit 
+dimensionless 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+62 
+Used in: 
+The calculation of carbon contained in harvested timber after milling in period 
+h, for product type k (CMILL,h,k). 
+Description: 
+The fraction of growing stock volume removed as roundwood for product type 
+k  
+Source of data 
+(default values by region in Table 1.5 of the 1605(b) document) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario 
+ 
+Data/parameter 
+rRND,k 
+Data unit 
+dimensionless 
+Used in: 
+The calculation of carbon contained in harvested timber after milling in period 
+h, for product type k (CMILL,h,k). 
+Description: 
+The ratio of industrial roundwood to growing stock volume removed as 
+roundwood for product type k. 
+Source of data 
+(default values by region in Table 1.5 of the 1605(b) document) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario 
+ 
+ 
+Data/parameter 
+∆CEMITFOSSIL,t 
+Data unit 
+t C yr-1 
+Used in: 
+The calculation of the annual change in the carbon stored in harvested wood 
+products (HWP), ∆CHWP,t, 
+Description: 
+Fossil fuel emissions from harvesting (logging and log transport) and 
+processing of the various wood products.  
+Source of data 
+Calculated in equation 24 (Section 8.1) and equation 52 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+ 
+ 
+ 
+Data/parameter 
+CEMITHARVEST,t 
+Data unit 
+t C yr-1 
+Used in: 
+The calculation of ∆CEMITFOSSIL,t 
+Description: 
+Annual fossil fuel emissions associated with harvesting of raw material.  
+Source of data 
+Calculated in equation 25 (Section 8.1) and equation 53 (Section 8.2) 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+63 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+CEMITMANUFACTURE,t 
+Data unit 
+t C yr-1 
+Used in: 
+The calculation of ∆CEMITFOSSIL,t 
+Description: 
+Annual fossil fuel emissions associated with the manufacturing of raw 
+material.  
+Source of data 
+Calculated in equation 27 (Section 8.1) and equation 55 (Section 8.2) 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+CEMITTRANSPORT,t 
+Data unit 
+t C yr-1 
+Used in: 
+The calculation of ∆CEMITFOSSIL,t 
+Description: 
+Annual fossil fuel emissions associated with the transport of raw material.  
+Source of data 
+Must be calculated after consideration of the transport distance from harvest 
+to processing facility, and the means of transportation (after Heath et al. 2006 
+Supplementary). An example of calculation steps is provided in Section 8.1. 
+Measurement procedures 
+ 
+Comments: 
+Variable used in both baseline (BSL) and project (PRJ) scenario, values may 
+be different 
+ 
+Data/parameter 
+LEy 
+Data unit 
+t CO2e yr-1 
+Used in: 
+The calculation of Market Leakage (Option 1) 
+Description: 
+the project market leakage in year, y 
+Source of data 
+Calculated in Section 8.3.2, Option 1 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+SEy 
+Data unit 
+t CO2e yr-1 
+Used in: 
+The calculation of Market Leakage (Option 2) 
+Description: 
+The project market leakage in year, y 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+64 
+Source of data 
+Calculated in Section 8.3.2, Option 2 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+MLFy 
+Data unit 
+Unitless 
+Used in: 
+Calculation of LEy in year, y 
+Description: 
+The project market leakage 
+Source of data 
+Calculated in Section 8.3.2 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+BChv, n 
+Data unit 
+t CO2e yr-1 
+Used in: 
+Calculation of SEy 
+Description: 
+The estimated average baseline amount of onsite carbon harvested in 
+reporting period, n (prior to delivery to a mill). 
+Source of data 
+Calculated in Section 8.3.2 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+AChv, n 
+Data unit 
+t CO2e yr-1 
+Used in: 
+Calculation of SEy 
+Description: 
+The actual onsite carbon harvested in reporting period, n (prior to delivery to a 
+mill). 
+Source of data 
+Calculated in Section 8.3.2 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+ERy,GROSS 
+Data unit 
+t CO2e yr-1 
+Used in: 
+Calculation of LEy 
+Description: 
+The gross difference in the overall annual carbon change between the 
+baseline and project scenarios in year, y 
+Source of data 
+Calculated in equation 57 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+65 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+ERy, 
+Data unit 
+t CO2e yr-1 
+Used in: 
+Calculation of VCUy 
+Description: 
+The net GHG emissions reductions and/or removals in year y (the overall 
+annual carbon change between the baseline and project scenarios, net all 
+discount factors except the permanence buffer) 
+Source of data 
+Calculated in equation 58 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+VCUy, 
+Data unit 
+t CO2e yr-1 
+Description: 
+Amount of Verified Carbon Units the project estimates are available for 
+issuance and sale in year ‘y’ 
+Source of data 
+Calculated in equation 59 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+EM 
+Data unit 
+% 
+Used in: 
+The calculation of uncertainty factor (Section 8.5.3) 
+Description: 
+An estimate of model error based on the relative area-weighted difference 
+between of model-predicted values of carbon storage and those values 
+measured in field plots 
+Source of data 
+Model output and field data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+EI 
+Data unit 
+% 
+Used in: 
+The calculation of uncertainty factor (Section 8.5.3) 
+Description: 
+An estimate of Inventory sampling error calculated as the 90% confidence 
+limit of the area-weighted differences between the model-predicted values of 
+carbon storage and those values measured in field plots 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+66 
+Source of data 
+Model output and field data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+EP 
+Data unit 
+% 
+Used in: 
+The calculation of uncertainty factor (Section 8.5.3) 
+Description: 
+An estimate of total project error based sum of the model and inventory error 
+terms  
+Source of data 
+Model output and field data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+ERy,ERR, 
+Data unit 
+Unitless 
+Used in: 
+Calculation of VCUy 
+Description: 
+The uncertainty factor calculated for year ‘y’ in Section 8.5.3 
+Source of data 
+Calculated in Section 8.5.3 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+BRy, 
+Data unit 
+t CO2e yr-1 
+Used in: 
+Calculation of VCUy 
+Description: 
+Estimated VCU-equivalent tCO2e issued to the VCS Buffer Pool in year, y. 
+Source of data 
+Calculated using the latest version of the VCS AFOLU Non-Permanence Risk 
+Tool  
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+9.2 
+Data and Parameters Monitored 
+The following parameters must be monitored during the project activity. When applying all relevant equations 
+provided in this methodology for the ex-ante calculation of net anthropogenic GHG removals by sinks, project 
+proponents must provide transparent estimates for the parameters that are monitored during the crediting period. 
+These estimates must be based on measured or existing published data where possible and project proponents 
+must retain a conservative approach: if different values for a parameter are equally plausible, a value that provides 
+the least over-estimation of net anthropogenic GHG removals by sinks must be selected. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+67 
+Data/parameter 
+APRJ,i, 
+Data unit 
+Ha 
+Used in 
+Various equations in equation #32-60 
+Description: 
+Area of forest land in polygon, i 
+Source of data 
+Monitoring of polygons and stand boundaries must be done preferably using a 
+Geographic Information System (GIS), which allows for integrating data from 
+different sources (including GPS coordinates and Remote Sensing data). 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+Ap,i,t 
+Data unit 
+m2 
+Used in: 
+Calculation of mean aboveground biomass BAG and DOMSNAG in Section 9.3.2 
+and 8.2.3. 
+Description: 
+Area of sample plot in polygon, i, at time, t 
+Source of data 
+Recording and archiving of size of sample plots 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+DBH,t 
+Data unit 
+cm 
+Used in: 
+Calculation of mean aboveground biomass BAG in Section 9.3.2 and 8.2.3. 
+Description: 
+Diameter at breast height measured for each tree in the sample plots at time, t 
+Source of data 
+Field measurements in sample plots 
+Measurement procedures 
+Typically measured at 1.3m height above ground. Measure all trees above 
+minimum DBH (5 cm) in the sample plots that result from the IFM project 
+activity. 
+Comments: 
+ 
+ 
+Data/parameter 
+Height, t 
+Data unit 
+m 
+Used in: 
+Calculation of mean aboveground biomass BAG in Section 9.3.2 and 8.2.3. 
+Description: 
+Tree height measured for each tree in the sample plots at time, t 
+Source of data 
+Field measurements in sample plots 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+68 
+Comments: 
+ 
+ 
+Data/parameter 
+L,t 
+Data unit 
+m 
+Used in: 
+Calculation of mean mass of DOMLDW in Section 9.3.2 and 8.2.3. 
+Description: 
+Length of the transects to used determine volume of lying dead wood in the 
+sample plots at time, t (default 100m) 
+Source of data 
+Field measurements 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+dn,t 
+Data unit 
+cm 
+Used in: 
+Calculation of mean mass of DOMLDW in Section 9.3.2 and 8.2.3. 
+Description: 
+Diameter of each piece n of dead wood along the transects in the sample 
+plots at time, t 
+Source of data 
+Field measurements  
+Measurement procedures 
+Measured using the line-intersect method (Section 9). 
+Comments: 
+ 
+ 
+Data/parameter 
+DLDW,c,i,t 
+Data unit 
+(t d.m. m-3) 
+Used in: 
+Calculation of mean mass of DOMLDW in Section 9.3.2 and 8.2.3. 
+Description: 
+Density of dead wood in density class, c along the transect in polygon, i, at 
+time, t 
+Source of data 
+Field measurements  
+Measurement procedures 
+Measured using the line intersect method (Section 9). 
+Comments: 
+ 
+ 
+Data/parameter 
+N ,t 
+Data unit 
+unitless 
+Used in: 
+Calculation of mean mass of DOMLDW in Section 9.3.2 and 8.2.3. 
+Description: 
+Total number of wood pieces intersecting transects  in the sample plots at 
+time, t 
+Source of data 
+Field measurements 
+Measurement procedures 
+Measured using the line-intersect method (Section 9). 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+69 
+Comments: 
+ 
+ 
+Data/parameter 
+BAGi,t  
+Data unit 
+t d.m. ha-1 
+  (d.m. = dry matter) 
+Used in: 
+Calculation of carbon stocks in above- and belowground living tree biomass in 
+equations 28b & 28c, Section 8.2.3.   
+Description: 
+Average total aboveground biomass in polygon, i, for year, t 
+Source of data 
+Calculated from Heighti,t, DBHi,t, and Ap,i,t 
+Measurement procedures 
+ 
+Comments: 
+Calculated 
+ 
+Data/parameter 
+BBGi,t  
+Data unit 
+t d.m. ha-1 
+  (d.m. = dry matter) 
+Used in: 
+Calculation of carbon stocks in above- and belowground living tree biomass in 
+equations 28b & 28c, Section 8.2.3.   
+Description: 
+Average total belowground biomass in polygon, i, for year, t 
+Source of data 
+Estimated from BAGi,t 
+Measurement procedures 
+ 
+Comments: 
+Estimated 
+ 
+Data/parameter 
+BTOTAL,i,t  
+Data unit 
+t d.m. ha-1 
+  (d.m. = dry matter) 
+Used in: 
+Calculation of carbon stocks in above- and belowground living tree biomass in 
+equation 28c, Section 8.2.3.   
+Description: 
+Average total live biomass in polygon, i, for year, t 
+Source of data 
+Calculated from BAGi,t  and BBGi,t 
+Measurement procedures 
+ 
+Comments: 
+Calculated 
+ 
+Data/parameter 
+DOMLDW,i,t 
+Data unit 
+t d.m. ha-1 
+  (d.m. = dry matter) 
+Used in: 
+Calculation of carbon stocks in dead organic matter (equation 28e, Section 
+8.2.3) 
+Description: 
+Average mass of dead organic matter contained in lying dead wood in 
+polygon, i, year, t  
+Source of data 
+Calculated from L,i,t, dn,i,t , DLDW,c,i,t , and N i,t  
+Measurement procedures 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+70 
+Comments: 
+Calculated 
+ 
+Data/parameter 
+DOMSNAG,i,t 
+Data unit 
+t d.m. ha-1 
+  (d.m. = dry matter) 
+Used in: 
+Calculation of carbon stocks in dead organic matter (equation 28e, Section 
+8.2.3) 
+Description: 
+Average mass of dead organic matter contained in standing dead wood in 
+polygon, i, year, t  
+Source of data 
+Calculated from Heighti,t, DBHi,t, and Ap,i,t of dead trees measured in sample 
+plots described in Section 9 
+Measurement procedures 
+ 
+Comments: 
+Calculated 
+ 
+Data/parameter 
+fPRJ,NATURAL,i,t  
+Data unit 
+unitless; 0 < fNATURAL,i,t < 1 
+Used in: 
+Equation 35, Section 8.2 
+Description: 
+The annual proportion of biomass that dies from natural mortality in polygon, i, 
+year, t. 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fPRJ,HARVEST,i,t  
+Data unit 
+unitless; 0 < fPRJ,HARVESTIi < 1 
+Used in: 
+Equation 36, Section 8.2 
+Description: 
+The proportion of biomass removed by harvesting from polygon, i, in year, t. 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fPRJ,DAMAGE,i,t 
+Data unit 
+unitless; 0 < fPRJ,DAMAGE,i,t < 1 
+Used in: 
+Equation 37, Section 8.2 
+Description: 
+The proportion of additional biomass removed for road and landing 
+construction in polygon, i, year, t 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+71 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fPRJ,BLOWDOWN,i,t 
+Data unit 
+unitless; 0 < fPRJ,BLOWDOWN,i,t < 1 
+Used in: 
+Equation 40, Section 8.2 
+Description: 
+The annual proportion of live aboveground tree biomass subject to blowdown 
+in polygon, i, year, t. 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fPRJ,SNAGFALLDOWN,i,t   
+Data unit 
+unitless; 0 < fPRJ,SNAGFALLDOWN,i,t < 1 
+Used in: 
+Equation 40 & 44, Section 8.2 
+Description: 
+The annual proportion of snag biomass in polygon, i, year, t, that falls over 
+and thus is transferred to the LDW pool. 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+ 
+Data/parameter 
+fPRJ,lwDECAY,i,t  
+Data unit 
+unitless; ; 0 < fPRJ,lwDECAY,i,t < 1 
+Used in: 
+Equation 41, Section 8.2 
+Description: 
+The annual proportional loss of lying dead biomass due to decay, in polygon i, 
+year, t, 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and/or 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+ 
+Data/parameter 
+fPRJ,SWDECAY,i,t  
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+72 
+Data unit 
+unitless; 0 < fPRJ,SWDECAY,i,t < 1 
+Used in: 
+Equation 44, Section 8.2 
+Description: 
+The annual proportional loss of snag biomass due to decay, in polygon, i, 
+year, t. 
+Source of data 
+Permanent sample plots in similar stand types, literature reports, and/or 
+inventory data 
+Measurement procedures 
+ 
+Comments: 
+ 
+9.3 
+Description of the Monitoring Plan 
+The objective of the project monitoring program is to reliably monitor changes in carbon stocks related to the 
+calculation of VCU’s prior to each verification.  In particular, the program will monitoring changes in spatial forest 
+inventory conditions and collect field data on carbon stocks to compare against modeled carbon stocks and to 
+calculate an uncertainty factor.  
+9.3.1 
+ Project Monitoring Requirements 
+The project must develop and maintain an up to date monitoring plan which includes:   
+1. Spatial inventory change monitoring procedures 
+2. Carbon stock field plot sampling monitoring procedures 
+3. Standard Operating Procedures (SOPs) for monitoring activities 
+4. Quality Control/Quality Assurance and Data Archiving procedures 
+These elements must meet the requirements described in the sections below.   
+The results of implementing the monitoring plan must be produced in a project monitoring report for each 
+monitoring period; prior to each verification.   
+9.3.2 
+ Monitoring Annual Spatial Inventory Changes 
+Project proponents will undertake and document annual monitoring to identify and update spatial changes in the 
+forest inventory data (i.e. changes in forest polygons due to planned or unplanned project activities and natural 
+disturbances which change the classification of spatial areas within the project boundary).   
+Projects will undertake remote and ground-based monitoring (for example: satellite and aerial photography, aerial 
+observation, ground observation, aerial and ground-based GPS mapping, etc.) to identify and update inventory 
+data for:   
+a. Natural disturbance events > 4ha (i.e. fires, pest & disease outbreaks, slides and other disturbances;   
+b. Planned project activities (i.e. harvests, road construction, reforestation, etc.); and 
+c. Unplanned man-made disturbances (for example, non-de minimis illegal or unplanned harvests). 
+Annual spatial monitoring activities will be documented and dated, and inventory data updates identified by date or 
+other notations.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+73 
+9.3.3 
+ Carbon Stock Monitoring Field Plot Sampling Design and Stratification 
+9.3.4 
+Stratification for Field Plot Sampling:  
+When an area is not homogeneous, stratification generally reduces monitoring costs by grouping areas with low 
+variation in carbon stocks (Pearson et al. 2007).  
+Stratification for monitoring sample design should be consistent with that employed for the calculation of carbon 
+stocks in the baseline (Section 8.1) and project (Section 8.2) scenarios.  
+The project proponent has the option to further stratify modeled polygons or analysis units to facilitate efficient field 
+carbon stock monitoring.  In particular, projects may need to further stratify modeled polygons or analysis units to 
+gain sampling representation within analysis unit age classes.  For example, an analysis unit might include similar 
+forest type polygons that range from 40-200 years.  For monitoring plot sampling, the analysis unit would likely 
+need to be stratified into age classes with similar stand carbon content.   
+Any stratification undertaken for monitoring purposes must be documented and justified, including documenting 
+any variation from stratification made for modeling in Section 8.1 and 8.2.  Monitoring stratification may be updated 
+based on monitoring results (see Section 9.3.10).   
+9.3.5 
+Field Plot Sampling Framework  
+The objective of the field plot network is to determine the statistical accuracy of the modeled carbon stocks by 
+polygon or analysis unit.  The field-measured values of the tree biomass and dead organic matter pools described 
+below will be compared against the associated modeled values described in Section 8.2 to determine error in the 
+modeled value for a particular polygon or analysis unit (see Section 8.2.2).  Some deviation of the field-measured 
+values from the modeled values can be expected, which is then accounted for in the uncertainty factor calculation 
+(Section 8.5.3). 
+The “Sourcebook for Land Use, Land-Use Change and Forestry Projects” (Pearson, Walker, & Brown, 2005) 
+provides methods and procedures to generate accurate and precise estimates of changes in carbon stocks.  
+(Pearson, Brown, & Birdsey, 2007).  Project proponents can substitute other comparable published and peer-
+reviewed forest carbon sampling and measurement manuals and techniques if they are demonstrated to be 
+applicable and consistent with the data collection requirements of this methodology.   
+Type and Number of Sampling Plots  
+Plot Type 
+For forestry activities, both permanent and temporary sampling plots have been used to estimate changes in 
+carbon pools (Pearson, Brown, & Birdsey, 2007). Permanent sample plots are regarded as statistically more 
+efficient for estimating changes in forest-carbon stocks over time than temporary plots because there is high 
+covariance between observations in successive sampling events (Pearson, Brown, & Birdsey, 2007).  Moreover, 
+the use of permanent plots allow for efficient verification. Hence, the majority of plots used in the monitoring 
+program should be geo-referenced, permanently re-measurable plots with all trees marked. Geo-referenced 
+temporary plots may also be used for efficient supplemental data collection.   
+Number of Plots, Precision, and Sample Size  
+The proponent will develop a plot network with representation in every polygon or analysis unit39 (based on the 
+primary stratification method identified in Section 8.1 and used throughout the project calculations) and a design 
+                                              
+39 See Section 8.5.3 for additional clarification on plot requirements.  If using a polygon stratification, representation of each polygon is required; 
+if using an analysis unit stratification, representation of each analysis unit is required (and not each polygon within the analysis unit).   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+74 
+target of establishing enough plots such that the estimate of carbon stocks across all polygon or analysis units will 
+lie within 10 percent of the true value of the mean at the 90-percent confidence level40.  
+Project proponents may develop initial estimates of the number of plots needed for monitoring using variance 
+estimates from existing or comparable forest inventory data and following procedures outlined in (Pearson et al. 
+2007), or other peer reviewed published methods.   
+For practical purposes it is recognized that on large or complex project areas the plot network may need to be 
+developed across several years (no longer than 5 years) to approach the target level of precision. Samples sizes 
+should be evaluated for suitability following the initial monitoring period and then adjusted as appropriate to 
+achieve the desired level of precision. 
+Plot Sampling Design 
+Plot Layout  
+Permanent sample plots can be located at random or systematically using a plot grid. The latter approach results 
+in greater precision if some areas within polygons have higher carbon content than others (Pearson, Brown, & 
+Birdsey, 2007).   
+Size and Shape of Sample Plots  
+Plot shape and size can be determined by the project proponent based on local common practice and the most 
+suitable methods for the project conditions, so long as the procedures are fully documented in project SOP’s and 
+the results provide verifiable statistical sampling as required by this methodology.  Projects may consider 
+consistent fixed area square or circular plots, or consider a variable nested plot area design which may be better 
+suited to highly variable stand diameter conditions ((see (Pearson, Brown, & Birdsey, 2007)).  
+Measurement and Data Analysis Techniques 
+Trees 
+Although the tree carbon stock is estimated most accurately and precisely by direct methods (whereby all the trees 
+in a sample plot above a minimum diameter are harvested, dried and weighed), it is expected this approach will be 
+impractical for most projects. Therefore, tree biomass should be estimated from allometric biomass equations that 
+predict aboveground biomass from mathematical relationships between DBH and/or height and species. Allometric 
+biomass equations have been published for many species and regions. The project proponent should select the 
+most appropriate equations by determining which published equations are most representative of the species and 
+conditions on the project site. Other factors that should be taken into account include the relative statistical 
+accuracy of the equations, and the number and size range of the samples used to generate the equation 
+parameters.  
+All living trees within a sample plot with DBH ≥ 5cm must be measured for height (m) and diameter (cm) at breast 
+height (1.3m). 
+Tree-level measurements (kg biomass per tree) must be converted to area-based stand-level measurements (t ha-
+1). A description of the steps and equations employed in the process are provided in Section 8.2.3. 
+Dead Organic Matter 
+An efficient method for sampling lying dead wood is the line-intersect (Pearson, Brown, & Birdsey, 2007). For 
+example, (Harmon & Sexton, 1996) use a minimum 100m line length41. Placing two 50-m sections of line at right 
+                                              
+40 The uncertainty factor calculation in Section 8.5.3 accounts for, and penalizes the project credits for higher uncertainty error, and hence this 
+target is provided as guidance for plot network design to achieve the lowest uncertainty factor. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+75 
+angles across the plot center also is an efficient and valid approach. To allow re-measurement of the same “dead 
+wood plot”, it is important to accurately record where the line was placed. The diameters of all pieces of wood that 
+intersect the line are measured and the density class noted. A minimum diameter for measurement is defined in 
+this methodology as 5 cm (Harmon & Sexton, 1996).  
+Each piece of dead wood will be assigned to one of three density classes, sound (1), intermediate (2), and rotten 
+(3) (details below). The volume per unit area is calculated for each density class, c, as:  
+VLDW,c = π2 * [(d1
+2 + d2
+2 … dn
+2)/8L] 
+(60a) 
+where: 
+d1, d2, dn = diameter (cm) of each of n pieces intersecting the line, and  
+L = the length of the line (100 m default (Harmon, et al., 1986).  
+The mass of LDW in density class, c (t ha-1), is: 
+MLDW,c = VLDW,c * DLDW,c 
+(60b) 
+where: 
+VLDW,c = the volume per unit area calculated for each density class, c, as calculated in 60a. 
+DLDW,c = the density of LDW in density class, c (t d.m. m-3) 
+The total mass of LDW in each plot summed over all density classes (t ha-1) is: 
+DOMLDW = ∑ MLDW,c 
+(60c) 
+where: 
+MLDW,c = the mass of LDW in density class, c (t ha-1), is as calculated in 60b. 
+A key step in this method is classifying the dead wood into its correct density class and then sampling a sufficient 
+number of logs in each class to derive a reasonable estimate of wood density. Ideally at least 10 logs should be 
+sampled for each density class (Pearson, Brown, & Birdsey, 2007). For a given piece of dead wood, a field 
+characterization of its density class can be made by striking it with a strong sharp blade. If the blade bounces off it 
+is classed as sound, if it enters slightly it is of intermediate density, and if the wood falls apart it is rotten. Samples 
+of dead wood in each class will then be collected to determine their density in the laboratory, after drying for 48 
+hours. Mass of dead wood is calculated as the product of volume per density class and the wood density for that 
+class (as per equations 60 a-c)42. 
+The total mass of lying dead wood for a given polygon should be calculated as the average of all transects 
+measured for that polygon. This value is then used for calculations of carbon storage in dead organic matter 
+(DOMLDW,i,t), as described in Section 8.2.3. 
+                                                                                                                                                                 
+41 Other sample line lengths may be used if referenced from other published sources (i.e. see (Harmon et al, 2008)).   
+42 Alternatively, projects may use other published decay sampling classifications and methods, and in particular may find useful additional 
+methods outlined in Harmon et al. 2008. Woody Detritus Density and Density Reduction Factors for Tree Species in the United States: A 
+Synthesis. USDA Forest Service GTR NRS-29. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+76 
+Standing dead wood should be measured in the same plots as used for measuring live trees. Snags suitability is 
+defined using the same criteria for live trees. However, measurement records will differ slightly from those for live 
+trees, depending on the degree to which branches and twigs are present. If the snag possesses branches and 
+twigs and its structure resembles a live tree (but without leaves), this should be indicated in the field data records. 
+From the measurement of DBH, the amount of biomass can then be estimated using the appropriate allometric 
+biomass equation and subtracting the biomass of leaves. Snags may possess only a fraction of their full 
+complement of small and large branches, only large branches, or no branches at all. These conditions will be 
+recorded in the field measurements. Branches will then be classified in proportion to the size of the standing dead 
+tree so that the total biomass can be reduced accordingly to account for less of the dead tree remaining. When a 
+tree has no branches and is only the bole, biomass can be estimated from measurements of its basal diameter 
+and height and an estimate of top diameter.  
+Once the biomass of standing dead trees within a plot has been calculated, the tree-level measurements (kg 
+biomass per tree) must be converted to area-based stand-level measurements (t ha-1) by summing the total mass 
+(aboveground + belowground) of all the standing dead trees within a sample plot (converting kg to t) and dividing 
+the sum by the plot area in ha.  All plots within a particular polygon should be averaged to get an average estimate 
+of stand-level live biomass (t ha-1).  This value is an estimate of the average snag biomass variable (DOMSNAG,i,t) 
+used in Section 8.2.3. 
+9.3.6 
+ Quality Assurance/Quality Control (QA/QC) Methods 
+The monitoring plan or associated SOPs should include QA/QC procedures for: (1) collecting reliable field 
+measurements; (2) verifying laboratory procedures; (3) verifying data entry; and (4) data archiving.  
+QA/QC for Field Measurements  
+A set of Standard Operating Procedures (SOP) must be developed for field carbon measurements. The SOPs will 
+detail all phases of the field measurements so that the measurements can be repeated reliably. A document will be 
+produced and filed with the project documents verifying that all QA/QC steps have been taken.  
+Field crews must be trained in all field data collection SOPs and records of training kept by the project proponent.   
+An audit program for field measurements and sampling must be established. A typical audit program should 
+consist of three types of checks. During a hot check, auditors observe members of the field crew during actual data 
+collection (this is primarily for training purposes). Cold checks occur when field crews are not present for the audit. 
+Blind checks represent the complete re-measurement of a plot by the auditors. Hot checks allow the correction of 
+errors in technique. Measurement variance can be calculated through blind checks.  
+At a minimum, 10% of the measured field plots will be check-cruised using blind checks with 100% re-
+measurement of all variables. Minimum thresholds in measurement error are as follows: 
+1. DBH (standing live and dead):  +/- 10% standard error at 90% confidence interval 
+2. Height (standing live and dead): +/- 10% standard error at 90% confidence interval 
+3. Tree Count: +/- 10% standard error at 90% confidence interval 
+These are minimum thresholds for monitoring plot field accuracy, and will require re-measurement or re-
+establishment of plots as necessary to meet these requirements.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+77 
+QA/QC for Laboratory Measurements  
+SOPs will be prepared and followed for each laboratory analyses. Typical steps in the SOP for laboratory 
+measurements will include calibrating standards for instruments used.   Where practical, 10 percent of the samples 
+will be re-analyzed/re-weighed following the check cruise thresholds outlined above.   
+QA/QC for Data Entry  
+Projects must develop procedures to ensure proper entry of data and conversion between paper and electronic 
+formats.  Data anomalies will be resolved using the original field data, or re-measurement of data if feasible.  If 
+there are anomalies that cannot be resolved, the plot will be omitted from the analysis.  
+Data Archiving  
+The project will provide data archiving SOPs which provide procedures for securely retaining and maintaining the 
+following records for each monitoring period for 2 years past the duration of the project:   
+1. Original copies of the field measurement, check plots,  laboratory data, and related data summaries will be 
+maintained in their original and electronic form  
+2. Copies of all monitoring data analyses, models, model input and output files, carbon calculations required 
+for this methodology, GIS inventory dated by year, and copies of the monitoring reports.    
+3. Records of the version and relevant change history of software or data storage media changed between 
+monitoring periods.   
+9.3.7 
+ Leakage Monitoring 
+Activity shifting leakage monitoring requires reporting the ‘demonstration of activity shifting’ annually, as required 
+by VCS, and as per the methods outlined in section 8.3.1.   
+Market leakage monitoring requirements depend on the selected option: 
+1. Market Leakage Option 1 – VCS Default Market Leakage Discount Factors: 
+a. No further leakage monitoring required 
+2. Market Leakage Option 2 – CAR Market Leakage Factor 
+a. The project proponent will annually update the leakage calculation using the most current project plan 
+harvest levels. 
+3. Market Leakage Option 3 – Leakage Assessment Tool 
+a. Project proponents must re-evaluate the data and calculations at each verification.   
+9.3.8 
+ Frequency of monitoring 
+Permanent sample plots must be re-measured at intervals of ≤ 5 years.  
+Spatial monitoring and leakage monitoring, are to be monitored annually.  
+9.3.9 
+ Use of Monitoring Data to Update Carbon Stock Calculations 
+Data gathered through the monitoring process must be used to:  
+1. Update the project inventory data and related modeling and monitoring stratification as per Section 8.2.2 
+and 9.3.10;  
+2. Update leakage calculations in Section 8.3;  
+3. Update the inventory error estimates used in the calculation of the uncertainty factor described in Section 
+8.5.3; and, 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+78 
+4. Update and improve calculations of carbon stocks in Section 8.2 and possibly Section 8.1 as described in 
+Section 8.2.2. 
+9.3.10 Updating of Monitoring Polygons 
+The ex-post stratification and polygon assignment to specific analysis units (see Section 9.3.2) must be updated 
+on an annual basis and, at minimum prior to each verification, for any of the following reasons:  
+1. Errors in the inventory from field sampling or other monitoring. If the criteria used to allocate a polygon are 
+not in accordance with field evidence, that polygon should be updated and re-assigned accordingly if 
+necessary. Any non-de minimis updates due to errors in the inventory will require recalculation of both the 
+annual project emissions (Section 8.2.5) and the annual baseline emissions (Section 8.1.2) prior to the 
+next verification;  
+2. Changes to spatial inventory from monitoring for natural disturbance and planned/unplanned project 
+activities.  Updates will be made for any monitored event that affects the criteria used to define a given 
+polygon or analysis unit in the project inventory.  Note that disturbance or activity events may result in 
+creation of a new polygon, or an age reclassification for the stand, and/or a re-assignment of the polygon.  
+These updates only affect the calculation of carbon emissions from the project scenario (Section 8.2.5). 
+3. Established polygons may be merged if the original justification for their separate creation no longer 
+applies. These updates only affect the calculation of carbon emissions from the project scenario (Section 
+8.2.5). 
+ 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+79 
+10 
+References and Other Information 
+Cairns, M. A. (1997). Root Biomass Allocation in the World's Upland Forests. Oecologia , 111:1-11. 
+CDM. (2007a). Tool for Testing Significance of GHG Emissions in A/R CDM Projects. CDM - Executive Board. 
+Climate Action Reserve. (2010). Forest Project Protocol Version 3.2. San Francisco: Climate Action Reserve. 
+FAO. (2001). FRA 2000 - Global Ecological Zoning for the Global Forest Resource Assessment 2000 - Final 
+Report. Rome: Food and Agricultural Organization of the United Nations. 
+Harmon et al. (2008). Woody Detritus Density and Density Reduction Factors for Tree Species in the United 
+States: A Synthesis. USDA Forest Service GTR NRS-29. 
+Harmon, M., & Sexton, J. (1996). Guidelines for measurements of woody detritus in forest ecosystems. US LTER 
+Publication No. 20. Seattle, WA: US LTER Network Office, University of Washington. 
+Harmon, M., Franklin, J., Swanson, F., Sollins, P., Gregory, S., Lattin, J., et al. (1986). Ecology of coarse woody 
+debris in temperate ecosystems.  
+Heath, L., Maltby, V., Miner, R., Skog, K., Smith, J., Unwin, J., et al. (2010). . Greenhouse gas and carbon profile 
+of the U.S. forest products industry value chain. . Environ. Sci. Technol. , 44: 3999-4005. Supplementary data. 
+IPCC. (2003a). Estimation, reporting and accounting of harvested wood products – technical paper. Bonn, 
+Germany: UNFCCC paper FCCC/TP/2003/7, UNFCCC Secreariat. 
+IPCC. (2003). Good Practice Guidance for Land Use, Land-Use Change and Forestry (GPG-LULUCF). Japan: 
+Institute for Global Environmental Strategies (IGES) for the IPCC. 
+IPCC. (2006a). Good Practice Guidance for Land Use, Land-Use Change and Forestry. Japan: Institute for Global 
+Environmental Strategies (IGES) for the IPCC. 
+Kimmins, J., Mailly, D., & Seely, B. (1999). Modelling forest ecosystem net primary production: the hybrid 
+simulation approach used in FORECAST. Ecol. Modeling , 122: 195-224. 
+Kurz, W., & Apps, M. (2006). Developing Canada's national forest carbon monitoring, accounting and reporting 
+system to meet the reporting requirements of the Kyoto Protocol. . Mitigation and Adaptation Strategies for Global 
+Change , 11(1): 33-43. 
+Kurz, W., & et al. (2009). CBM-CFS3: A model of carbon-dynamics in forestry and land-use change implementing 
+IPCC standards. Ecological modelling , 220: 480–504. 
+Laiho, R., & and Prescott, C. (2004). Decay and nutrient dynamics of coarse woody debris in northern coniferous 
+forests: a synthesis. . Can. J. For. Res. , 34: 763–777. 
+Masera, O., & et al. (2003). Modeling carbon sequestration in afforestation, agroforestry and forest management 
+projects: the CO2FIX V.2 approach. Ecological Modelling , 164(2003): 177–199. 
+Melin, Y., Petersson, H., & Nordfjell, T. (2009). Decomposition of stump and root systems of Norway spruce in 
+Sweden : a modeling approach. Forest Ecology and Management , 257: 1445-1451. . 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+80 
+Milota, M., West, C., & Hartley, I. (2005). Gate-to-gate life-cycle inventory of softwood lumber production. . Wood 
+and Fiber Science, Corrim Special Issue , 37: 47–57. . 
+Miner, R. (2006). The 100-year method for forecasting carbon sequestration in forest products in use. Mitigation 
+and Adaptation Strategies for Global Change , 1-12. 
+Moore, T., Trofymow, J., Siltanen, M., Prescott, C., & CIDET, W. G. (2005). Patterns of decomposition and carbon, 
+nitrogen, and phosphorus dynamics of litter in upland forest and peatland sites in central Canada. Can. J. For. 
+Res. , 35: 133-142. 
+Parish, R., Antos, J., Ott, P., & Di Lucca, M. (2010). Snag longevity of Douglas-ﬁr, western hemlock, and western 
+redcedar from permanent sample plots in coastal British Columbia. . Forest Ecology and Management , 259: 633–
+640. 
+Pearson, T., Brown, S., & Birdsey, R. (2007). Measurement guidelines for the sequestration of forest carbon. 
+USDA For Serv., North. Res. Station. Gen. Tech. Rep. NRS-18. 
+Pearson, T., Walker, S., & Brown, S. (2005). Sourcebook for Land use, Land-use Change and Forestry Projects. 
+Winrock International; BioCarbon Fund. 
+Perlack, R., Wright, L., Turhollow, A., Graham, R., Stodkes, B., & Erback, D. (2005). Biomass as feedstock for a 
+bioenergy and bioproducts industry: The technical feasibility of a billion-ton annual supply. Oak Ridge, Tennessee: 
+ORNL. 
+Pingoud, K., & Lehtila, A. (2002). Fossil Carbon Emissions Associated With Carbon Flows of Wood Products. 
+Mitigation and Adaption Strategies for Global Change , 7(1) 63-83. 
+Pingoud, K., Perälä, A., Soimakallio, S., & Pussinen, A. (2003). Greenhouse gas impacts of harvested wood 
+products. Evaluation and development of methods. VTT Tiedotteita Research Notes 2189. 
+Runkle, J. (2000). Canopy tree turnover in old-growth mesic forests of eastern North America. . Ecology , 81: 554-
+567. 
+Seely, B., Kimmins, J., Welham, C., & Scoullar, K. (1999). Defining stand-level sustainability, exploring stand-level 
+stewardship. J. For. , 97: 4-11. 
+Smith, W., Miles, P., Vissage, J., & Pugh, S. (2004). Forest resources of the United States, 2002. North Central 
+Research Station, Forest Service - USDA , Gen. Tech. Rep. NC-241. . 
+VCS. (2010b). Tool for the Demonstration and Assessment of Additionality in VCS Agriculture, Forestry and Other 
+Land Use (AFOLU) Project Activities. Washington D.C.: Verified Carbon Standard. 
+VCS. (2011d). VCS Program Definitions, v3.1. Washington D.C.: Verified Carbon Standards. 
+Voluntary Carbon Standard. (2008a). Guidance for Agriculture, Forestry and Other Land Use Projects. 
+Washington, D.C.: VCS Association. 
+Voluntary Carbon Standard. (2010c). May 24, 2010 AFOLU Program Update. Washington D.C.: VCS Association. 
+Voluntary Carbon Standard. (2008b). Tool for AFOLU Methodological Issues. Washington D.C.: VCS Association. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+81 
+Voluntary Carbon Standard. (2010a). Tool for AFOLU Non-Permanence Risk Analysis and Buffer Determination. 
+Washington D.C.: VCS Association. 
+Voluntary Carbon Standard. (2008d). Voluntary Carbon Standard 2007.1. Washington D.C.: VCS Association. 
+Voluntary Carbon Standard. (2008e). Voluntary Carbon Standard Program Guidelines. Washington, D.C.: VCS 
+Association. 
+Zhang, Y. M., Cormier, D., Lyng, R., Mabee, W., Ogino, A., & McLean, H. (2010). Life cycle emissions and cost of 
+producing electricity from coal, natural gas, and wood pellets in Ontario, Canada. . Environ. Sci. Technol. , 44: 
+538-544. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd.

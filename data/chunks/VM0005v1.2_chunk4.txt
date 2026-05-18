@@ -1,0 +1,77 @@
+4 
+APPLICABILITY CONDITIONS 
+This methodology is applicable to Improved Forest Management (IFM) activities, as defined by the VCS 
+rules.  
+Only areas that have been designated, sanctioned or approved for such activities (eg, as logging 
+concessions) by the national or local regulatory bodies are eligible for crediting under this VCS 
+Improved Forest Management (IFM) category.  
+In particular, this methodology is applicable to improved forest management practices that achieve the 
+conversion of low-productive forest to high-productive forest (LtHP) through the protection of logged-
+over, degraded forest from further logging or the adoption of silvicultural techniques increasing the 
+density of tree vegetation, or a combination of these activities.  
+This methodology is applicable to situations whereby the original forest is natural Evergreen Tropical 
+Rainforest, using the FAO definition where the term “Evergreen Tropical Rainforest” is defined as 
+follows: “Evergreen Tropical Rainforests occur where the annual rainfall is greater than 2,500 mm, 
+where forests grow mostly at low elevations, are evergreen, luxuriant, predominantly of hardwood 
+species, have a complex structure and are rich in both plants and animals. Soils tend to be mustow and 
+poor in nutrients, features having a marked effect on forest management practices.”1 
+The applicability conditions for this methodology are the following: 
+• 
+Project activities aim at the avoidance of relogging of logged-over, degraded natural Evergreen 
+                                                     
+1  Source: http://www.fao.org/docrep/W8212E/w8212e03.htm#a definition of tropical forests 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 6 
+ 
+Tropical Rainforest, or the rehabilitation of logged-over natural Evergreen Tropical Rainforest 
+through direct human intervention such as cutting of climbers and vines, liberation thinning 
+and/or enrichment planting, or a combination of these activities; 
+• 
+Land within the project area must have qualified as forest;  
+• 
+In the baseline, the logged-over forest in the project area is unlikely to revert to normal regrowth 
+patterns due to vines and climbers, which may include climbing bamboos, resulting from high-
+intensity logging operations in the past. In such cases, and subject to appropriate 
+substantiation, regrowth of tree biomass before and following relogging in the baseline can be 
+assumed to be zero. Where this is not the case, ex-ante estimates of regrowth must be made 
+and monitoring of the baseline for ex-post confirmation of regrowth rates must be conducted; 
+• 
+The soil carbon pool within the project boundary is either in a steady state at project 
+commencement, or, if not, the soil carbon pool is only expected to increase more or decrease 
+less in the with-project scenario in comparison to the baseline, and may therefore, 
+conservatively be omitted;2 
+• 
+Site preparation is carried out so as to avoid levels of soil disturbance or soil erosion sufficient 
+to significantly reduce the soil carbon pool over the project lifetime; 
+• 
+The use of nitrogen fertilizer in the project activities is prohibited; 
+• 
+During the project crediting period, harvesting must not occur in the with-project scenario3. 
+• 
+Biomass burning, fuel gathering, removal of litter, or removal of dead wood do not occur in the 
+baseline scenario and in the with-project scenario within the project boundary; 
+• 
+A reference area may be used to derive relevant parameter values for the baseline scenario. 
+This area must be of similar size as the project area, or larger (ie, 75% of the project area or 
+more), for which similarity with the project area can be demonstrated using criteria outlined in 
+this methodology, and for which it can be demonstrated that the management is not affected by 
+its selection as a reference area; and, 
+• 
+Flood irrigation or drainage of primarily saturated soils are not permitted as part of the project 
+activity, so associated non-CO2 greenhouse gas emissions can be neglected. 
+• 
+There is no peatland4 within the project area or emissions associated with peatland are not 
+significant.  
+• 
+The methodology is not applicable to grouped projects. 
+                                                     
+2  Project proponents must use the A/R CDM approved tool 6 to demonstrate insignificance. 
+3  If harvesting is planned or expected to occur after the project crediting period, the associated carbon sink 
+reversal will be addressed in the non-permanence risk assessment. 
+4  See VCS definition.  
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 7

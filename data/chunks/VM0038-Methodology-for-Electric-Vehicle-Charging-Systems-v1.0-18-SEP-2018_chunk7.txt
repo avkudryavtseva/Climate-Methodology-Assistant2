@@ -1,0 +1,33 @@
+7  
+ADDITIONALITY 
+Project proponents applying this methodology must determine additionality using the procedure 
+described below: 
+Step 1: Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the latest version of the VCS Standard.  
+Step 2: Positive List 
+The applicability conditions of the latest version of VCS module VMD0049 Activity Method for 
+Determining Additionality of Electric Vehicle Charging Systems represent the positive list. The 
+positive list was established using the activity penetration option (Option A in the VCS Standard). 
+Projects that meet all applicability conditions of this methodology and VCS module VMD0049 
+Activity Method for Determining Additionality of Electric Vehicle Charging Systems are deemed 
+additional.  
+Step 3: Project Method 
+Where Step 2 is not applicable, project proponents may apply the following17:   
+ 
+Where the project is small-scale, the project proponent must demonstrate that the project 
+activity would otherwise not be implemented due to the existence of one or more 
+                                                 
+17 When applying either tool, regardless of which entity is implementing the project, project proponents may 
+demonstrate that barriers apply for charging service providers and/or their associated partners (e.g., installation 
+customers, utilities, end-users, charging system network service providers, and EV manufacturer/retailer). 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+13
+barrier(s) listed in the latest version of the CDM methodological tool Demonstration of 
+additionality of small-scale project activities. 
+ 
+Where the project is large-scale, the project proponent must apply the latest version of 
+the CDM Tool for the demonstration and assessment of additionality.

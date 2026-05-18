@@ -1,0 +1,12 @@
+100  
+HF  
+mg/Nm3  
+5  
+5  
+HBr/Br2   
+mg/Nm3  
+5  
+5  
+Particulates  
+mg/Nm3  
+50

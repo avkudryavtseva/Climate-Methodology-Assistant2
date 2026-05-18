@@ -1,0 +1,15 @@
+2 SOURCES 
+This methodology is based on the following methodologies: 
+• 
+AMS-III.BC Emission Reductions Through Improved Efficiency of Vehicle Fleets, v3.0 
+• 
+VMR0004 Revision to AMS-III.BC to Include Mobile Machinery, v1.0 
+This methodology uses the most recent versions of the following sources: 
+ 
+VMR0004, v2.0 
+ 
+5 
+• 
+VT0008 Additionality Assessment1 
+• 
+VT0011 Electricity System Emission Factors2

@@ -1,0 +1,619 @@
+10 REFERENCES 
+ 
+Aguerre, M. J., Wattiaux, M. A., & Powell, J. M. (2012). Emissions of ammonia, nitrous oxide, 
+methane, and carbon dioxide during storage of dairy cow manure as affected by dietary forage-
+to-concentrate ratio and crust formation. Journal of Dairy Science, 95(12), 7409–7416. 
+https://doi.org/10.3168/jds.2012-5340 
+Aguerre, M. J., Wattiaux, M. A., Powell, J. M., Broderick, G. A., & Arndt, C. (2011). Effect of 
+forage-to-concentrate ratio in dairy cow diets on emission of methane, carbon dioxide, and 
+ammonia, lactation performance, and manure excretion. Journal of Dairy Science, 94(6), 
+3081–3093. https://doi.org/10.3168/jds.2010-4011 
+Boadi, D., Benchaar, C., Chiquette, J., & Massé, D. (2004). Mitigation strategies to reduce 
+enteric methane emissions from dairy cows: Update review. Canadian Journal of Animal 
+Science, 84(3), 319–335. https://doi.org/10.4141/A03-109 
+Broucek, J. (2014). Production of methane emissions from ruminant husbandry: A review. 
+Journal of Environmental Protection, 5(15), 1482–1493. 
+https://doi.org/10.4236/jep.2014.515141. 
+Chagunda, M. G. G. (2013). Opportunities and challenges in the use of the Laser Methane 
+Detector to monitor enteric methane emissions from ruminants. Animal, 7(2), 394–400. 
+https://doi.org/10.1017/S1751731113000724 
+Charan, J., & Kantharia, N. D. (2013). How to calculate sample size in animal studies? Journal 
+of Pharmacology & Pharmacotherapeutics, 4(4), 303–306. https://doi.org/10.4103/0976-
+500X.119726. 
+Dong, H., Mangino, J., McAllister, T. A., Hatfield, J. L., Johnson, D. E., Lassey, K. R., Aparecida de 
+Lima, M., & Romanovskaya, A. (2006). Chapter 10: Emissions from livestock and manure 
+management. In IPCC, 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Vol. 4 
+ 
+VM0041, Version 2.0 
+41 
+Agriculture, Forestry and Other Land Use (pp. 10.1–10.87). IGES, Japan. https://www.ipcc-
+nggip.iges.or.jp/public/2006gl/vol4.html 
+Eger, M., Graz, M., Riede, S., & Breves, G. (2018). Application of MootralTM reduces methane 
+production by altering the Archaea community in the rumen simulation technique. Frontiers in 
+Microbiology, 9, 2094. https://doi.org/10.3389/fmicb.2018.02094 
+Food and Agriculture Organization (2020). Environmental Performance of Feed Additives in 
+Livestock Supply Chains – Guidelines for Assessment – Version 1. Livestock Environmental 
+Assessment and Performance Partnership (FAO LEAP). Rome. 
+https://doi.org/10.4060/ca9744en 
+Food and Agriculture Organization (2018). Shaping the Future of Livestock. The 10th Global 
+Forum for Food and Agriculture (GFFA), Berlin, January 18–20, 2018. 
+http://www.fao.org/3/i8384en/I8384EN.pdf 
+Gerber, P. J., Steinfeld, H., Henderson, B., Mottet, A., Opio, C., Dijkman, J., Falcucci, A., & 
+Tempio, G. (2013). Tackling Climate Change Through Livestock — A Global Assessment of 
+Emissions and Mitigation Opportunities. Food and Agriculture Organization of the United 
+Nations (FAO), Rome. https://www.fao.org/3/i3437e/i3437e.pdf 
+Gibbs, M., Conneely, D., Johnson, D., Lasse, K. R., & Ulyatt, M. J. (2000). CH4 emissions from 
+enteric fermentation in domestic livestock. In Penman, J., Kruger, D., Galbally, I., Hiraishi, T., 
+Nyenzi, B., Emmanul, S., Buendia, L., Hoppaus, R., Martinsen, T., Meijer, J., Miwa, K., & Tanabe, 
+K. (Eds.) Good Practice Guidance and Uncertainty Management in National Greenhouse Gas 
+Inventories, Chapter 4, pp. 4.23–4.29. Institute for Global Environmental Strategies (IGES). 
+https://www.ipcc.ch/site/assets/uploads/2018/03/4_Agriculture-1.pdf 
+Grainger, C., & Beauchemin, K. A. (2011). Can enteric methane emissions from ruminants be 
+lowered without lowering their production? Animal Feed Science and Technology, 166–167, 
+308–320. https://doi.org/10.1016/j.anifeedsci.2011.04.021 
+Hammond, K. J., Crompton, L. A., Bannink, A., Dijkstra, J., Yáñez-Ruiz, D. R., O’Kiely, P., 
+Kebreab, E., Eugène, M. A., Yu, Z., Shingfield, K. J., Schwarm, A., Hristov, A. N., & Reynolds, C. K. 
+(2016). Review of current in vivo measurement techniques for quantifying enteric methane 
+emission from ruminants. Animal Feed Science and Technology, 219, 13–30. 
+https://doi.org/10.1016/j.anifeedsci.2016.05.018 
+Hegarty, R. S. (1999). Reducing rumen methane emissions through elimination of rumen 
+protozoa. Australian Journal of Agricultural Research, 50(8), 1321–1328. 
+https://doi.org/10.1071/ar99008 
+Hobson, P. N., Mann, S. O., & Stewart, C. S. (1981). Growth and rumen function of gnotobiotic 
+lambs fed on starchy diets. Microbiology, 126(1), 219–230. 
+https://doi.org/10.1099/00221287-126-1-219 
+ 
+VM0041, Version 2.0 
+42 
+Hristov, A. N., Oh, J., Giallongo, F., Frederick, T. W., Harper, M. T., Weeks, H. L., Branco, A. F., 
+Moate, P. J., Deighton, M. H., Williams, S. R. O., Kindermann, M., & Duval, S. (2015). An inhibitor 
+persistently decreased enteric methane emission from dairy cows with no negative effect on 
+milk production. Proceedings of the National Academy of Sciences, 112(34), 10663–10668. 
+https://doi.org/10.1073/pnas.1504124112 
+Hristov, A. N., Lee, C. Cassidy, T., Heyler, K., Tekippe, J. A., Varga, G. A., Corl, B., & Brandt, R. C. 
+(2013). Effect of Origanum vulgare L. leaves on rumen fermentation, production, and milk fatty 
+acid composition in lactating dairy cows. Journal of Dairy Science, 96(2), 1189–1202. 
+https://doi.org/10.3168/jds.2012-5975 
+Intergovernmental Panel on Climate Change (2019). 2019 Refinement to the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories, Calvo Buendia, E., Tanabe, K., Kranjc, A., 
+Baasansuren, J., Fukuda, M., Ngarize S., Osako, A., Pyrozhenko, Y., Shermanau, P., & Federici, 
+S. (Eds.). Intergovernmental Panel on Climate Change (IPCC), Switzerland. 
+Johnson, K. A., & Johnson, D. E. (1995). Methane emissions from cattle. Journal of Animal 
+Science, 73(8), 2483–2492. https://doi.org/10.2527/1995.7382483x 
+Kinley, R. D., Martinez-Fernandez G., Matthews, M. K., de Nys, R., Magnusson, M., & Tomkins, 
+N. W. (2020). Mitigating the carbon footprint and improving productivity of ruminant livestock 
+agriculture using a red seaweed. Journal of Cleaner Production, 259, 120836. 
+https://doi.org/10.1016/j.jclepro.2020.120836 
+Knapp, J. R., Laur, G. L., Vadas, P. A., Weiss, W. P., & Tricarico, J. M. (2014). Invited review: 
+Enteric methane in dairy cattle production: Quantifying the opportunities and impact of 
+reducing emissions. Journal of Dairy Science, 97(6), 3231–3261. 
+https://doi.org/10.3168/jds.2013-7234 
+Kreuzer, M., & Hindrichsen, I. K. (2006). Methane mitigation in ruminants by dietary means: 
+The role of their methane emission from manure. International Congress Series, 1293, 199–
+208. https://doi.org/10.1016/j.ics.2006.01.015 
+Loevinsohn, M., Sumberg, J., Diagne, A., & Whitfield, S. (2013). Under what circumstances and 
+conditions does adoption of technology result in increased agricultural productivity? A 
+systematic review. Institute of Development Studies. 
+https://opendocs.ids.ac.uk/opendocs/handle/20.500.12413/3208 
+Moate, P. J., Williams, S. R. O., Grainger, C., Hannah, M. C., Ponnampalam, E. N., & Eckard, R. J. 
+(2011). Influence of cold-pressed canola, brewers grains and hominy meal as dietary 
+supplements suitable for reducing enteric methane emissions from lactating dairy cows. Animal 
+Feed Science and Technology, 166–167, 254–264. 
+https://doi.org/10.1016/j.anifeedsci.2011.04.069 
+ 
+VM0041, Version 2.0 
+43 
+Morgavi, D. P., Forano, E., Martin, C., & Newbold, C. J. (2010). Microbial ecosystem and 
+methanogenesis in ruminants. Animal, 4(7), 1024–36. 
+https://doi.org/10.1017/S1751731110000546 
+Moss, A. R., Jouany, J. P., & Newbold, J. (2000). Methane production by ruminants: Its 
+contribution to global warming. Annales de Zootechnie, 49(3), 231–253. 
+https://doi.org/10.1051/animres:2000119 
+Murray, R. M., Bryant, A. M., & Leng, R. A. (1976). Rates of production of methane in the rumen 
+and large intestine of sheep. British Journal of Nutrition, 36(1), 1–14. 
+https://doi.org/10.1079/BJN19760053 
+Nampoothiri, V. M., Mohini, M., Thakur, S. S., & Mondal, G. (2015). Influence of diet on methane 
+and nitrous oxide emissions from cattle manure. Asian Journal of Atmospheric Environment, 
+9(3), 187–193. https://doi.org/10.5572/ajae.2015.9.3.187 
+Niu, M., Kebreab, E., Hristov, A. N., Oh, J., Arndt, C., Bannink, A., Bayat, A. R., Brito, A. F., Boland, 
+T., Casper, D., Crompton, L. A., Dijkstra, J., Eugène, M. A., Garnsworthy, P. C., Haque, M. N., 
+Hellwing, A. L. F., Huhtanen, P., Kreuzer, M., Kuhla, B., … Yu, Z. (2018). Prediction of enteric 
+methane production, yield, and intensity in dairy cattle using an intercontinental database. 
+Global Change Biology, 24(8), 3368–3389. https://doi.org/10.1111/gcb.14094 
+O’Brien, D., Shalloo, L., Grainger, C., Buckley, F., Horan, B., & Wallace, M. (2010). The influence 
+of strain of Holstein-Friesian cow and feeding system on greenhouse gas emissions from 
+pastoral dairy farms. Journal of Dairy Science, 93(7), 3390–3402. 
+https://doi.org/10.3168/jds.2009-2790 
+Weber, T. L., Hao, X., Gross, C. D., Beauchemin, K. A., & Chang, S. X. (2021). Effect of manure 
+from cattle fed 3-nitrooxypropanol on anthropogenic greenhouse gas emissions depends on soil 
+type. Agronomy, 11(2), 371. https://doi.org/10.3390/agronomy11020371 
+Whitford, M. F., Teather, R. M., & Forster, R. J. (2001). Phylogenetic analysis of methanogens 
+from the bovine rumen. BMC Microbiology, 1, 5. https://doi.org/10.1186/1471-2180-1-5 
+Zimmerman, P. R., & Zimmerman, R. S. (2012). Method and system for monitoring and 
+reducing ruminant methane production. United States Patent US8307785B2. 
+https://patents.google.com/patent/US8307785B2/en 
+ 
+ 
+ 
+VM0041, Version 2.0 
+44 
+APPENDIX 1: ACTIVITY METHOD 
+The initial assessment of activity penetration indicates that there is not enough activity in any country 
+that would put such penetration above the 5% threshold called for in the VCS Program rules. It is known 
+that no country has an activity penetration rate higher than 5% at this time due to limits in the 
+availability of unique technologies. 
+Per the VCS rules, Verra will reassess whether the activity penetration levels remain within the 
+permitted threshold within three years of the initial approval of the methodology. At that time, Verra will 
+base its assessment on national boundaries, focusing on countries where feed ingredients that reduce 
+methanogenesis have been used. Also, and in the spirit of conservativeness, where sub-national 
+regulations or policies may impact the likelihood of the project activity being implemented, Verra may 
+use such boundaries as the basis of the reassessment of the activity penetration rate. 
+Positive List 
+This project activity in particular, and CH4 enteric fermentation reduction in general, is a relatively new 
+field with few, if any, fully commercial technologies. Thus, the methodology uses an activity method for 
+demonstrating additionality, with this technology (the feed ingredient) as the basis for a positive list. 
+This approach stipulates that the total number of ruminants fed with a feed ingredient inhibiting 
+methanogenesis does not amount to 5% or more of the total number of ruminants in agricultural 
+settings worldwide. Five percent is the activity penetration threshold set by the VCS Methodology 
+Requirements v4.0 and is determined by taking the observed activity (OA) divided by the maximum 
+adoption potential (MAP). Where the result of this calculation is less than 5%, the project activity may 
+be considered additional. 
+Activity penetration is given as:  
+𝐴𝑃𝑦= 𝑂𝐴𝑦
+𝑀𝐴𝑃𝑦
+ ×  100 
+Where: 
+𝐴𝑃𝑦 = Activity penetration of the project activity in year y (percent) 
+𝑂𝐴𝑦 = Observed adoption of the project activity in year y 
+𝑀𝐴𝑃𝑦 = Maximum adoption potential of the project activity in year y 
+Maximum Adoption Potential of the Project Activity in Year y 
+The VCS Methodology Requirements v4.0 defines MAP as “the total adoption of a project activity that 
+could currently be achieved given current resource availability, technological capability, level of service, 
+implementation potential, total demand, market access and other relevant factors within the 
+methodology’s applicable geographically defined market.” In this case, given the early stage of 
+development of feed ingredients for reducing enteric methane emissions, it is difficult to determine 
+whether there are any resource (or other) constraints that would limit adoption of this technology. 
+ 
+VM0041, Version 2.0 
+45 
+However, for the purposes of this methodology, the maximum adoption potential of this activity may be 
+limited to ruminants that have been reared for the production of meat and dairy products worldwide. 
+The reason for this selection is due to market access and implementation constraints (e.g., necessary 
+infrastructure for transporting the feed ingredient to the farm, and appropriate facilities to administer 
+the feed ingredient to the animal on a regular basis). 
+In 2019, the global ruminant livestock population was roughly 4.44 billion,17 of which approximately 
+2.67 billion represents the total number of livestock animals used for meat and dairy products. Table 2 
+lists the number of ruminant livestock animals used for dairy and meat products. 
+Table 2: Total number of ruminant livestock animals used for dairy and meat products in 2019 
+(FAOSTAT, 2021) 
+Type of animal 
+Number of animals 
+Dairy buffalo 
+75,743,127 
+Dairy cattle 
+270,985,026 
+Dairy sheep and goat 
+508,839,234 
+Buffalo for meat production 
+32,154,715 
+Cattle for meat production 
+365,076,041 
+Sheep and goat for meat production 
+1,422,142,701 
+TOTAL 
+2,674,940,844 
+ 
+According to the UN FAO,18 grazing animals supply about 30% of the world's production of beef and 
+about 23% of the world's production of lamb and mutton. For this analysis, it is conservatively assumed 
+that 30% of buffalo and goat meat production also come from grazing animals. In grazing conditions, 
+logistical factors limit the ability to regularly administer feed ingredients (i.e., the dispersed nature of 
+livestock for long time periods). In theory, feed ingredients could be administered to some percentage 
+of grazing animals (e.g., through animal mineral blocks). Nonetheless, for this analysis, grazing animals 
+can be conservatively excluded from the calculation of MAP. On the contrary, dairy animals are not 
+excluded as they can have daily access to feed in the milking parlor. Therefore, for the purposes of this 
+methodology, the maximum adoption potential of this activity is limited to 𝑀𝐴𝑃𝑦 = 2,182,878,026. 
+ 
+17 For the purpose of this analysis, the ruminant sector comprises cattle, sheep, goat, and buffalo. The global ruminant 
+population in 2019 was estimated to be 4,438,416,429 (data retrieved in 2021, from 
+http://www.fao.org/faostat/en/#data). 
+18 Bruinsma, J. (Ed.) (2003). World Agriculture: Towards 2015/2030 – An FAO perspective. Earthscan. 
+http://www.fao.org/3/y4252e/y4252e.pdf 
+ 
+VM0041, Version 2.0 
+46 
+Observed Adoption of the Project Activity in Year y 
+Few dietary strategies have been proposed to lower methane production in ruminants (Boadi et al., 
+2004; Knapp et al., 2014). Most are not commercially available and/or have no impact on enteric 
+fermentation. Currently, only a few products have been observed in the market. Namely, linseed and 
+alfalfa products containing high levels of omega-3 fatty acids can reduce the level of saturated fatty 
+acids; the elevation of dietary fat levels in ruminant diets may be a suitable way of lowering methane 
+production. In 2008, linseed and alfalfa were fed to approximately 50,000 cows.19 By 2018, a different 
+product consisting of a blend of essential oils that claims to reduce methane production by cattle had 
+reached approximately one million cattle.20 Neither of these examples report on the reduction in enteric 
+emissions via a reduction in methanogenesis. However, for the purposes of this demonstration of 
+additionality, it is assumed that the project activities are the same (i.e., feed ingredients reducing 
+enteric emissions via reduction in methanogensis). To be conservative, it is assumed that the published 
+reports were only capturing half of all enteric emission reduction activities, which results in an 
+estimated activity of 2.1 million ruminants. 
+Therefore: 
+𝐴𝑃𝑦= 𝑂𝐴𝑦÷ 𝑀𝐴𝑃𝑦 × 100 
+𝐴𝑃𝑦= 2,100,000 ÷ 2,182,000,000 × 100 
+𝐴𝑃𝑦= 0.096% 
+𝐴𝑃𝑦 < 5%  
+Given the current ruminant population and the commercially available feed ingredients, in particular 
+those which have a significant effect on inhibiting or suppressing enteric methane emissions from 
+methanogens in the rumen, the activity penetration level of the project activity covered by this 
+methodology is below the 5% threshold, and the project activity may be deemed additional. 
+Where the project activity has been commercially available in any area of the applicable geographic 
+scope for less than three years (i.e., it uses a new technology or measure), it must be demonstrated 
+that the project activity faces barriers to its uptake, per the VCS rules. This proposed project activity is 
+deemed to face technological barriers that prevent its implementation for the following reasons: 
+1) The project activity requires extra effort from farmers to administer the feed ingredient as per 
+feeding instructions provided by the manufacturer. In some cases, this might require appropriately 
+trained farmers to secure the default level of reduction in enteric methane emissions, such as 
+through managing feeding routines and dosage, and to maintain the technology in a way that does 
+not lead to an unacceptably high risk of equipment disrepair and malfunctioning or other 
+underperformance. 
+ 
+19 FeedInfo News Service (2010). Interview: France’s Valorex extracts value from overlooked grains. March 8, 2010. 
+http://www.pinallet.com/data/FEEEDINFO%20Interviews%20VALOREX%20CEO.pdf 
+20 Munda, A. (2018). Swiss company develops new cow feed to cause fewer farts. The Green Optimistic, October 6, 
+2018. https://www.greenoptimistic.com/swiss-company-develops-new-cow-feed-fewer-farts-20181006/#.XF 
+ 
+VM0041, Version 2.0 
+47 
+2) Project activity implementation will require the purchase of feed ingredient, which is an addition to 
+variable costs for existing farmers. Farmers make multiple decisions in the agricultural cycle about 
+the adoption of products and practices. According to Loevinsohn et al. (2013), farmers’ decisions 
+about whether and how to adopt new technology are often the result of a comparison of the 
+uncertain benefits of the new invention with the uncertain costs of adopting it. For adoption to 
+occur, farmers need to know that a technology exists, believe that it will improve productivity, and 
+understand how to use it effectively. Given the early stage of development of feed ingredients for 
+reducing enteric methane emissions, and uncertainties with regard to their impacts on growth 
+performance, the lack of willingness of farmers to adopt and continue the activity may increase the 
+risk of technological failure. 
+3) The majority of feed ingredients applicable under this methodology are natural products that occur 
+during a certain time of year (seasonal crops). Therefore, working capital can fluctuate widely, 
+which can lead to an unacceptably high risk to technology availability. Since this methodology is 
+based on plants or algae, project activity implementation will require management of seasonal 
+effects on working capital. During the seasonal peak, a feed ingredient manufacturer may require 
+higher net investment in short-term (current) assets. 
+ 
+ 
+ 
+VM0041, Version 2.0 
+48 
+APPENDIX 2: BACKGROUND 
+INFORMATION ON PROJECT ACTIVITY 
+Enteric fermentation is the second largest source of global emissions from livestock supply chains, 
+contributing approximately 40% of total emissions. Cattle emit 77% of all enteric methane (Gerber et 
+al., 2013). Ruminants, in particular, release methane as a result of the fermentation of feed material in 
+the rumen. These are enteric emissions from ruminants and are significant contributors to greenhouse 
+gas emissions. 
+Research on various feed management activities has already been conducted to assess their ability to 
+reduce methane production (Eger et al., 2018). Enteric methane is produced from microbial 
+fermentation of feed (Hobson et al., 1981; Whitford et al., 2001). Primary anaerobic microbiomes 
+degrade organic matter into volatile fatty acids. In this process, hydrogen gas and carbon dioxide are 
+produced as by-products. Methanogens metabolize hydrogen and carbon dioxide into methane 
+(Hegarty, 1999; Moss et al., 2000). Figure 2 provides an illustration of the microbial fermentation of 
+feed polysaccharides and H2 reduction pathways to CH4 in the rumen. 
+Reducing enteric fermentation enables livestock producers to reduce the environmental impact of meat 
+and dairy products and provide consumers with sustainable climate-friendly products with a quantified 
+carbon footprint reduction. The production of methane in the rumen can represent a loss of energy of 
+up to 12% (Johnson and Johnson, 1995). Therefore, potential production increases and energy 
+efficiencies achieved through use of the feed ingredient could be complementary outcomes of reducing 
+enteric methanogenesis. 
+ 
+VM0041, Version 2.0 
+49 
+Figure 2: Schematic of microbial fermentation of feed polysaccharides and H2 reduction 
+pathways to CH4 in the rumen (Morgavi et al., 2010) 
+ 
+Direct Enteric Methane Measurements 
+Direct enteric methane measurements for ruminants may be conducted using state of the art methods, 
+which are well documented in the scientific literature. This includes respiration chambers, which have 
+been an established and widely used technique since 1958. However, some operations require 
+measurements of CH4 emissions of a larger number of animals. Short-term measurement techniques, 
+such as automated head chambers (e.g., the GreenFeed system) (Hammond et al., 2016), can be used 
+to meet this objective with spot measurement of gas concentrations in samples of exhaled air at 
+certain time points. A single spot measurement is not sufficient; repeated spot measurements are 
+required and can be taken whilst the animals are feeding or standing. There are diverse technologies 
+being used worldwide for quantifying enteric methane emission. However, there is no integrated 
+protocol covering all aspects, including data collection, data extraction, data handling, and estimating 
+methane volume from the measured concentration. Experience in animal studies is required to develop 
+a protocol that will generate accurate results. 
+In case the manufacturer of the feed ingredient cannot provide sufficient documentation through peer-
+reviewed publications to support calculation of emission reduction factors, the project proponent must 
+perform direct enteric methane measurements. The baseline emission factors may still be set using 
+ 
+VM0041, Version 2.0 
+50 
+Options 2 or 3 as described in Section 8.1. Overall, the chosen measurement technology and the 
+measuring procedures must meet the following conditions: 
+1) The technology must be well documented in the scientific literature in peer-reviewed publications. 
+2) The technology enables measurements for animals that can be applied under conditions relevant to 
+project livestock production. 
+3) The measurement error of the technology and sampling error must be reported under the project 
+conditions. 
+4) The project proponent or associated partner must demonstrate technical skills and experience in 
+operating direct enteric methane measurements to generate accurate results. 
+5) The recommended measurement protocol must determine: i) optimal sample size, and ii) recording 
+duration. Calculation of sample size is an important component of design in animal studies. Using 
+too few animals may lead to a failure to detect significant differences that may exist in the 
+population. The following formula can be used to calculate sample size for comparison between 
+baseline and project groups (Charan and Kantharia, 2013): 
+Sample size = 2 SD2 (1.96 + 0.842)2 d-2 
+Where SD is the standard deviation from previous studies or pilot studies to measure the variability 
+between animals and d is the minimum expected difference between the observed means of two 
+groups (baseline versus project). Detailed information on optimal sample size calculation is given 
+by Charan and Kantharia (2013). 
+6) A minimum trial duration of eight weeks is required. The recording duration depends on the 
+measurement method used. For respiration chambers, three measurement periods (lasting three 
+days each) over three weeks is considered adequate based on the literature. Methane emissions 
+measured using the GreenFeed system must be measured every two to three weeks for at least 
+three measurement periods. During each measurement period, gas emission data should be 
+collected over three days as follows: starting at 0900, 1500, and 2100 h (sampling day 1), 0300, 
+1200, and 1700 h (sampling day 2), and 0000 and 0500 h (sampling day 3) (Hristov et al., 2015). 
+Multiple visits to the measurement device by all individual animals within a group must be 
+confirmed. 
+7) The project proponent must estimate the measurement uncertainty and apply confidence 
+deductions to reduce bias and uncertainties as far as is practical. Methods used for estimating 
+uncertainty must be based on recognized statistical approaches such as those described in the 
+IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas 
+Inventories (Gibbs et al., 2000). Confidence deductions must be applied using conservative factors 
+such as those specified in the CDM Meth Panel Guidance on Addressing Uncertainty in the 
+Estimation of Emissions Reductions for CDM Project Activities.21 
+ 
+21 CDM Meth Panel (2008). Thirty-second meeting report, Annex 14. 
+https://cdm.unfccc.int/Panels/meth/meeting/mp_08.html#032 
+ 
+VM0041, Version 2.0 
+51 
+Table 3 provides a description of three different technologies for direct measurement of enteric 
+methane emissions and, therefore, calculation of emission reductions, following a specific scientific 
+protocol. These three technologies are used for demonstration purposes and are not restrictive, as 
+improvements to technologies could allow more accurate measurements in the future. 
+Table 3: Technologies for measuring enteric methane emissions 
+Type of 
+measurement 
+method/technology 
+Description 
+Respiration chamber 
+Respiration chambers are used to measure CH4 of individual animals under 
+research conditions. The principle of the respiration chamber is to collect 
+exhaled CH4 emissions from the animal from all sources of enteric 
+fermentation (mouth, nostrils, and rectum) and measure the CH4 
+concentration. The cow must be in the chamber for up to four days. All open-
+circuit chambers are characterized by an air inlet and exhaust fans. Each 
+chamber is fitted with internal ventilation fans for efficient mixing of expired 
+and incoming gases. The chamber is equipped with sensors for measuring 
+relative humidity, temperature, barometric pressure, and gases (CH4, H2, O2, 
+H2S). 
+Automated head 
+chamber – Infra-red 
+method for methane 
+measurements (e.g., 
+GreenFeed – Large 
+Animals) 
+ 
+Short-term CH4 emissions can be measured by automated head chambers. 
+One such device is the GreenFeed (GF) system (C-Lock Inc., Rapid City, South 
+Dakota, USA). The GF system is a static short-term measurement device that 
+measures emissions of CH4 (and other gases, including CO2) from individual 
+ruminants by integrating measurements of airflow, gas concentration, and 
+detection of head position during each animal’s visit to the unit (Zimmerman 
+and Zimmerman, 2012). 
+SF6 tracer gas 
+technique 
+The SF6 technique utilizes SF6 as a tracer gas, which is continuously released 
+from a permeation tube inserted in the rumen of the animal, collection of a 
+sample of the exhaled gases, and analysis of the gas for the SF6:CH4 ratio 
+(Hristov et al., 2015). SF6 is a powerful greenhouse gas, and thus should be 
+used responsibly, with all reasonable efforts to minimize SF6 losses and 
+waste. Accumulation of SF6 within confined feeding spaces can also reduce 
+the accuracy of the technique. 
+ 
+ 
+ 
+ 
+VM0041, Version 2.0 
+52 
+APPENDIX 3: PERCENTAGE OF GROSS 
+ENERGY IN FEED CONVERTED TO 
+METHANE (𝑌𝑚) FOR A SPECIFIC ANIMAL 
+GROUP 
+The 𝑌𝑚 value is defined as the percentage of gross energy intake by a ruminant that is converted to 
+methane in the rumen. As described in Section 9.1 for 𝑌𝑚, national environmental agencies or similar 
+government and research institutions may have accurate peer-reviewed studies that provide 𝑌𝑚 values. 
+In the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, default 
+values for CH4 conversion rates are provided for different animal categories that may be used when no 
+respective values are available from country-specific research (Table 4). These estimates are based on 
+the general feed characteristics and production practices found in either developed or developing 
+countries and take into account both digestible energy (DE) and neutral detergent fiber (NDF). When 
+the quality of the feed is good, the lower bounds must be used (i.e., high digestibility and energy value). 
+Higher bounds are more appropriate when poorer quality feed is available. NDF is often considered a 
+good determinant of quality. It measures total cell wall content of plant matter and indicates maturity; 
+the higher the value, the more mature and generally the lower quality the forage. 
+Table 4: Livestock CH4 Conversion Factors 
+Livestock category 
+Feed quality 
+𝒀𝒎22  
+(%) 
+Digestible energy (%) 
+Neutral detergent fiber (% DMI) 
+Dairy cows and buffalo 
+≥70 
+≥35 
+6.0 
+63–70 
+>37 
+6.3 
+≤62 
+>38 
+6.5 
+Nondairy and multi-purpose 
+cattle and buffalo 
+ 
+≤62 
+ 
+7.0 
+62–71 
+ 
+6.3 
+≥72 
+ 
+4.0 
+>75 
+ 
+3.0 
+ 
+22 Unless noted otherwise, uncertainty values are ±20% based on published standard deviations drawn from Niu et al. 
+(2018). 
+ 
+VM0041, Version 2.0 
+53 
+Sheep 
+N/A 
+ 
+6.7 ± 0.9 
+Goats 
+N/A 
+ 
+5.5 ± 1.0 
+Source: IPCC (2019). 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories, Volume 4, Chapter 10, Tables 10.12 and 10.13.  
+ 
+ 
+ 
+VM0041, Version 2.0 
+54 
+APPENDIX 4: ENTERIC FERMENTATION 
+EMISSION FACTORS FOR LIVESTOCK 
+Table 5 shows the enteric fermentation emission factors for cattle and buffalo. A range of emission 
+factors is shown based on typical regional conditions and type of productivity system. Table 6 shows 
+enteric fermentation emission factors for sheep and goats by production system type. These values are 
+derived from the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories. 
+Table 5:  Tier 1 and Tier 1a Enteric Fermentation Emission Factors for Cattle and Buffalo (kg CH4 
+head-1 y-1) 
+Region 
+Livestock 
+Emission Factor 
+North America 
+Dairy cattle 
+138 
+Other cattle 
+64 
+Western Europe 
+Dairy cattle 
+126 
+Other cattle 
+52 
+Buffalo 
+78 
+Eastern Europe 
+Dairy cattle 
+93 
+Other cattle 
+58 
+Buffalo 
+68 
+Oceania 
+Dairy cattle 
+93 
+Other cattle 
+63 
+Latin America 
+Dairy cattle 
+87 
+High productivity systems 
+103 
+Low productivity systems 
+78 
+Other cattle 
+56 
+High productivity systems 
+55 
+Low productivity systems 
+58 
+ 
+VM0041, Version 2.0 
+55 
+Buffalo 
+68 
+Asia 
+Dairy cattle 
+78 
+High productivity systems 
+96 
+Low productivity systems 
+71 
+Other cattle 
+54 
+High productivity systems 
+43 
+Low productivity systems 
+56 
+Buffalo 
+76 
+Africa 
+Dairy cattle 
+76 
+High productivity systems 
+86 
+Low productivity systems 
+66 
+Other cattle 
+52 
+High productivity systems 
+60 
+Low productivity systems 
+48 
+Middle East 
+Dairy cattle 
+76 
+High productivity systems 
+94 
+Low productivity systems 
+62 
+Other cattle 
+60 
+High productivity systems 
+61 
+Low productivity systems 
+55 
+Indian Subcontinent 
+Dairy cattle 
+73 
+High productivity systems 
+70 
+Low productivity systems 
+74 
+Other cattle 
+46 
+High productivity systems 
+41 
+Low productivity systems 
+47 
+ 
+VM0041, Version 2.0 
+56 
+Buffalo 
+85 
+Note: All estimates have an uncertainty of ±20%. Source: IPCC (2019). 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4, Chapter 10, Table 10.11. 
+ 
+Table 6: Tier 1 Enteric Fermentation Emission Factors for Sheep and Goats (kg CH4 head-1 y-1) 
+Livestock 
+Emission Factor 
+High Productivity System 
+Low Productivity System 
+Sheep 
+9 
+5 
+Goat 
+9 
+5 
+Note: All estimates have an uncertainty of ±30-50%. Source: IPCC (2019). 2019 Refinement to 
+the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4, Chapter 10, Table 
+10.10.

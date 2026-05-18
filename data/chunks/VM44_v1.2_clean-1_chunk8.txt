@@ -1,0 +1,34 @@
+7 ADDITIONALITY 
+The methodology uses a standardized approach for the demonstration of additionality, 
+specifically an activity method, combined with an investment analysis. Project activities that are 
+on the positive list are automatically deemed as additional provided they also demonstrate 
+regulatory surplus and investment barriers as described below. The processing of waste 
+biomass to biochar is the basis for a positive list in this methodology.  
+Project proponents applying this methodology must determine additionality using the procedure 
+below. 
+Step 1: Regulatory Surplus 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent version of the VCS 
+Standard and VCS Methodology Requirements.  
+Where the project proponent demonstrates regulatory surplus for the project activity, proceed 
+to the next step (positive list). Otherwise, the project activity is not additional. 
+Step 2: Positive List 
+The applicability conditions of this methodology represent the positive list. The project 
+proponent must demonstrate that it meets all of the applicability conditions, and in so doing, it 
+is deemed to comply with the positive list. The positive list was established using the activity 
+penetration option (Option A in the VCS Methodology Requirements). The justification for the 
+activity method and step-by-step explanation is provided in Appendix 1. 
+ 
+VM0044, v1.2 
+ 
+18 
+Where the project proponent demonstrates that the project activity meets all conditions of the 
+positive list, proceed to the next step (investment analysis). Otherwise, the project activity is not 
+additional. 
+Step 3: Investment Analysis  
+Project proponents must follow the procedures and requirements of the most recent version of 
+VCS tool VT0008 Additionality Assessment to conduct an investment analysis (Step 3) through 
+either an investment comparison analysis (Option 1) or benchmark analysis (Option 2).  
+Where the project proponent demonstrates that all conditions of the investment analysis per 
+VT0008 are met, the proposed project activity is additional. Otherwise, the project activity is not 
+additional and is not eligible for crediting.

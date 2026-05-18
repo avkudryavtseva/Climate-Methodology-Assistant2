@@ -1,0 +1,9 @@
+6 BASELINE SCENARIO 
+This methodology framework uses the project method to determine the crediting baseline 
+scenario.  
+The capture modules under this framework provide the procedures and requirements for 
+defining the baseline scenario for the relevant capture activities.  
+ 
+VM0049, v1.0 
+ 
+12

@@ -1,0 +1,174 @@
+5 PROJECT BOUNDARY 
+5.1 
+Geographical Boundaries 
+The project proponent must clearly define the spatial boundaries of the project to facilitate 
+accurate measurement, monitoring, accounting and verifying of the project’s emission 
+reductions and removals. 
+The IFM project activity may contain more than one discrete area of land. 
+When describing physical project boundaries, the following information must be provided per 
+discrete area: 
+• 
+Name of the project area (including compartment number, allotment number, local 
+name). 
+• 
+Unique identifier for each discrete land parcel used in the timber harvest plan. 
+• 
+Map(s) of the area (preferably in digital format). 
+• 
+Geographic coordinates of each polygon vertex (preferably obtained from a geodesic 
+coordinate or from a geo-referenced digital map). 
+• 
+Total land area. 
+• 
+Details of forest land rights holder and user rights. 
+The geographic boundaries of an IFM project are fixed and thus do not change over the project 
+crediting period. 
+The geographic boundaries for leakage from market effects are those of the country in which 
+the project area is located. 
+5.2 
+Temporal Boundaries 
+The temporal boundaries are defined by the project start date and the length of the project 
+crediting period. 
+  
+ 
+VM0010, v1.4 
+11 
+The minimum duration of a monitoring period is one year, and the maximum duration is 10 
+years. 
+5.3 
+Carbon Pools 
+The carbon pools included or excluded from the project boundary are shown in Table 1 below.  
+Table 1: Carbon Pools 
+Carbon Pools 
+Included? 
+Justification/Explanation of choice 
+Aboveground trees 
+Included 
+The stock change in the above ground tree biomass must 
+be estimated 
+Above ground non-tree 
+Excluded 
+Exclusion is always conservative when forests remain as 
+forest 
+Belowground 
+Excluded 
+Unlikely to change significantly in forests remaining as 
+forests, and is difficult to measure, thus omission is 
+conservative 
+Deadwood (logging 
+slash) 
+Included in 
+the baseline 
+The dead wood (logging slash) carbon pool is expected to 
+be larger in the baseline than in the project scenario, and 
+therefore this pool must be included 
+Dead wood (naturally 
+accumulated) 
+Excluded 
+Following IPCC guidelines4, it is assumed that carbon 
+stocks in the naturally occurring dead wood pool (both 
+standing and lying) are equivalent in both the project and 
+baseline scenario, and therefore this pool is conservatively 
+excluded. It is not conservative to account for this pool in 
+the baseline scenario only 
+Harvested wood 
+products 
+Included 
+Will be significant and greater in the baseline compared to 
+the project scenario  
+Litter 
+Excluded 
+Insignificant and exclusion is conservative 
+Soil organic carbon 
+Excluded 
+Exclusion is always conservative when forests remain as 
+forest 
+5.4 
+Greenhouse Gas Emissions Sources 
+The emission sources included in or excluded from the project boundary are shown in Table 2 
+below. 
+The project proponent may choose to exclude accounting for GHG emissions related to the 
+combustion of fossil fuels (please refer to Section 8.1.4), which is conservative. If the project 
+proponent decides to include accounting for GHG emissions related to fossil fuel combustion, 
+ 
+4 IPCC 2006, 2006 IPCC Guidelines for National Greenhouse Gas Inventories; Volume 4 AFOLU, Prepared by the 
+National Greenhouse Gas Inventories Programme, Eggleston H.S., Buendia L., Miwa K., Ngara T. and Tanabe K. (eds). 
+Published: IGES, Japan. 
+  
+ 
+VM0010, v1.4 
+12 
+then the specific GHGs must be tested for significance, using the most recent version of the 
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities. 
+If the application of the tool leads to the conclusion that the emission source is insignificant5, 
+then this GHG must be neglected. In addition, the sum of decreases in carbon pools and 
+increases in emissions that may be neglected must be less than 5% of the total project GHG 
+benefits. 
+Table 2: Emission Sources 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline and Project 
+Combustion 
+of fossil fuels 
+(in vehicles, 
+machinery 
+and 
+equipment) 
+CO2 
+Included, if 
+significant 
+Only included if tested as significant. Otherwise 
+excluded, which is deemed conservative, as emissions 
+will be greater in the baseline scenario than in the 
+project scenario 
+CH4 
+Included, if 
+significant 
+Only included if tested as significant. Otherwise 
+excluded, which is deemed conservative, as emissions 
+will be greater in the baseline scenario than in the 
+project scenario 
+N2O 
+Included, if 
+significant 
+Only included if tested as significant. Otherwise 
+excluded, which is deemed conservative, as emissions 
+will be greater in the baseline scenario than in the 
+project scenario 
+Removal of 
+herbaceous 
+vegetation 
+CO2 
+Excluded 
+Based on CDM EB decision reflected in paragraph 11 
+of the report of the 23rd session of the board:  
+https://cdm.unfccc.int/Panels/ar/023/ar_023_rep.pdf  
+Burning of 
+Biomass 
+CH4 
+Included 
+Included as CO2 equivalent emissions 
+N2O 
+Excluded 
+Potential emissions are negligible 
+Nitrogen 
+based 
+fertilizer 
+N2O 
+Excluded 
+Potential emissions are negligible. Following the VCS 
+update to the Tool for AFOLU Methodological Issues 
+and Guidance for AFOLU Projects, emissions via the 
+use of fertilizer are considered insignificant and are not 
+considered here. 
+ 
+ 
+ 
+ 
+5 http://cdm.unfccc.int/methodologies/ARmethodologies/approved_ar.html   
+  
+ 
+VM0010, v1.4 
+13

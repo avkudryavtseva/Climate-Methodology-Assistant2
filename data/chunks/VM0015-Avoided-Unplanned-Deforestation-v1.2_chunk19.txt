@@ -1,0 +1,542 @@
+0 
+ 
+TABLE NOTES  
+• 
+Numbers represent hectares or activity data (in this case numbers are for illustrative 
+purposes only, they do not represent any real case). 
+• 
+Column and row totals show net conversion of each LU/LC-class.  
+• 
+“Initial” indicates the area of the LU/LC class at the start date of the assessment period, 
+and “Final” the area of the class at the end date of the assessment period.  
+• 
+Net changes (bottom rows) are the final area minus the initial area for each of the LU/LC-
+classes shown at the head of the corresponding column.  
+• 
+Blank entries indicate no LU/LC change during the period assessed.  
+ 
+Table 72: Approximate Values of Daily Biomass Intake (d.m. dry mass) for Different Type 
+of Animals61 
+Animal Type  
+ 
+Daily Feed Intake  
+(MJ/head/day) 
+Daily Biomass Intake  
+(kg d.m./head/day) 
+Sheep  
+Developed Countries  
+20 
+2.0 
+Developing Countries  
+9 
+1.3 
+Goats  
+Developed Countries  
+14 
+1.4 
+Developing Countries  
+14 
+1.4 
+Mules/Asses  
+Developed Countries  
+60 
+6.0 
+Developing Countries  
+60 
+6.0 
+Sources: Feed intake from Crutzen et al. (1986).  
+ 
+ 
+61 Taken form AR-AM0003, v2 
+ 
+VM0015, v1.2 
+196 
+ 
+ 
+A4 Box 1: Geomod 
+Geomod is a land use land cover change simulation model implemented in TerrSet, a GIS 
+software developed by Clark University (Brown et al., 2007; Pontius et al., 2001). Geomod has 
+been used frequently to analyze baseline scenarios of deforestation at the continental scale for 
+Africa, Asia and Latin America; at the country scale for Costa Rica and India; and at local scales 
+within India, Egypt, the USA and several countries in Latin America (Pontius and Chen, 2006). 
+Geomod is a grid-based model that predicts the transition from one LU/LC class to another 
+LU/LC class (i.e., the location of grid cells that change over time from class 1 to class 2). Hence, 
+Geomod may be used to predict areas likely to change from forest class 1 to non-forest class 2 
+(deforestation) over a given time.  
+Geomod creates the LU/LC change risk map empirically, by using several driver images and the 
+land cover map from the start date. For example, Geomod’s deforestation risk maps have 
+relatively high values at locations that have biogeophysical attributes similar to those of 
+deforested land (= “developed land” in Geomod’s terminology) at the start date, and relatively 
+low values at locations that have biogeophysical attributes similar to those of forested land (“non-
+developed” land) at the start date.  
+A4 Box 2: Example of simple error propagation analysis (Tier I method; Brown et al., 2007) 
+Carbon Pool 
+Average Carbon Stock  
+(t C/ha) 
+95% CL  
+(t C/ha) 
+Aboveground biomass 
+113 
+11 
+Dead wood 
+18 
+3 
+Litter 
+7 
+2 
+Therefore, the total stock is 138 t C/ha and the uncertainty = √112 + 32 + 22 = 11.6 t C/ha 
+ 
+Mean 
+95% CL 
+Uncertainty % 
+Area (ha) 
+8564 
+1158 
+14 
+Carbon stock (t C/ha) 
+138 
+11.6 
+8 
+ 
+ 
+VM0015, v1.2 
+197 
+APPENDIX 6: LIST OF TABLES 
+Table 
+Ex Ante 
+Ex Post 
+At  
+validation 
+At 
+verification 
+At 
+baseline 
+update 
+Table 1 
+Scope of the Methodology 
+I 
+ 
+ 
+Table 2 
+Carbon Pools Included in or Excluded from the 
+Boundary of the Proposed AUD Project Activity 
+Y 
+ 
+Y 
+Table 3 
+Sources and GHG to be Included in or Excluded 
+from the Boundary of the Proposed AUD Project 
+Activity 
+Y 
+ 
+Y 
+Table 4 
+Data Used for Historical LU/LC Change Analysis 
+Y 
+Y 
+Y 
+Table 5 
+List of All Land Use and Land Cover Classes 
+Existing at the Project Start Date in the Reference 
+Region 
+Y 
+ 
+Y 
+Table 6 
+Potential Land Use and Land Cover Change 
+Matrix 
+Y-M2,ct 
+ 
+Y-M2,ct 
+Table 7 
+List of Land Use and Land Cover Change 
+Categories 
+Y-M2,ct 
+ 
+Y-M2,ct 
+Table 8 
+Stratification of the Reference Region 
+Y 
+ 
+Y 
+Table 9 
+Annual Areas of Baseline Deforestation in the 
+Reference Region 
+Y 
+ 
+Y 
+Table 10 
+Annual Areas of Baseline Deforestation in the 
+Project Area 
+Y 
+Y 
+Y 
+Table 11 
+Annual Areas of Baseline Deforestation in the 
+Leakage Belt 
+Y 
+Y 
+Y 
+Table 12 
+List of Variables, Maps and Factor Maps 
+Y 
+ 
+Y 
+ 
+VM0015, v1.2 
+198 
+Table 
+Ex Ante 
+Ex Post 
+At  
+validation 
+At 
+verification 
+At 
+baseline 
+update 
+Table 13 
+Annual Areas Deforested Per Forest Class icl 
+Within the Reference Region(baseline activity 
+data per forest class) 
+Y 
+ 
+Y 
+Table 14 
+Annual Areas Deforested Per Forest Class icl 
+Within the Project Area in the Baseline Case 
+(Baseline Activity Data Per Forest Class) 
+Y 
+Y 
+Y 
+Table 15 
+Annual Areas Deforested Per Forest Class icl 
+Within the Leakage Belt in the Baseline Case 
+(Baseline Activity Data Per Forest Class) 
+Y 
+Y 
+Y 
+Table 16 
+Zones of the Reference Region Encompassing 
+Different Combinations of Potential Post-
+Deforestation LU/LC Classes 
+Y 
+ 
+Y 
+Table 17 
+Annual Areas Deforested in Each Zone Within the 
+Reference Region in the Baseline Case (Baseline 
+Activity Data Per Zone) 
+Y 
+Y 
+Y 
+Table 18 
+Annual Areas Deforested in Each Zone Within the 
+Project Area in the Baseline Case (Baseline 
+Activity Data Zone) 
+Y 
+Y 
+Y 
+Table 19 
+Annual Areas Deforested in Each Zone Within the 
+Leakage Belt in the Baseline Case (Baseline 
+Activity Data Per Zone) 
+Y 
+Y 
+Y 
+Table 20 
+Baseline Activity Data for LU/LC Change 
+Categories (ct) in the Reference Region 
+Y-M2,ct 
+ 
+Y-M2,ct 
+Table 21 
+Baseline Activity Data For LU/LC Change 
+Categories (ct) in the Project Area 
+Y-M2,ct 
+Y-M2,ct 
+Y-M2,ct 
+Table 22 
+Baseline Activity Data For LU/LC Change 
+Categories (ct) in the Leakage Belt 
+Y-M2,ct 
+Y-M2,ct 
+Y-M2,ct 
+Table 23 
+Carbon Stocks Per Hectare of Initial Forest 
+Classes icl Existing in the Project Area and 
+Leakage Belt – Estimated Values 
+Y 
+ 
+Y 
+ 
+VM0015, v1.2 
+199 
+Table 
+Ex Ante 
+Ex Post 
+At  
+validation 
+At 
+verification 
+At 
+baseline 
+update 
+Table 24 
+Cwpicl Components Summed In  
+ 
+ 
+ 
+Table 25 
+Carbon Stocks Per Hectare of Initial Forest 
+Classes icl Existing in the Project Area and 
+Leakage Belt – Values After Discounting for 
+Uncertainty 
+Y 
+ 
+Y 
+Table 26 
+Long-Term (20-Year) Average Carbon Stocks Per 
+Hectare of Post-Deforestation LU/LC Classes 
+Present in the Reference Region 
+Y 
+ 
+Y 
+Table 27 
+Long-Term (20-Year) Area-Weighted Average 
+Carbon Stock Per Zone 
+Y 
+ 
+Y 
+Table 28 
+Potential Land Use and Land Cover Change 
+Matrix 
+Y-M2,ctz 
+ 
+Y-M2,ctz 
+Table 29 
+List of Land Use and Land Cover Change 
+Categories (ctz) 
+Y-M2,ctz 
+ 
+Y-M2,ctz 
+Table 30 
+Annual Areas Deforested in Each Category ctz 
+Within the Reference Region in the Baseline Case 
+(Baseline Activity Data Per Category ctz) 
+Y-M2,ctz 
+ 
+Y-M2,ctz 
+Table 31 
+Annual Areas Deforested in Each Category ctz 
+Within the Project Area in the Baseline Case 
+(Baseline Activity Data Per Category (ctz) 
+Y-M2,ctz 
+Y-M2,ctz 
+Y-M2,ctz 
+Table 32 
+Annual Areas Deforested in Each Category ctz 
+Within the Leakage Belt Area in the Baseline 
+Case (Baseline Activity Data Per Category ctz) 
+Y-M2,ctz 
+Y-M2,ctz 
+Y-M2,ctz 
+Table 33 
+Emission Factors for Initial Forest Classes icl 
+(Method 1) 
+Y-M1 
+ 
+Y-M1 
+Table 34 
+Emission Factors for Land Use Change Categories 
+(ct or ctz) (Method 2) 
+Y-M2,ct 
+Y-M2,ctz 
+ 
+Y-M2,ct 
+Y-M2,ctz 
+ 
+VM0015, v1.2 
+200 
+Table 
+Ex Ante 
+Ex Post 
+At  
+validation 
+At 
+verification 
+At 
+baseline 
+update 
+Table 35 
+Baseline Carbon Stock Change for Selected 
+Carbon Pools in the Reference Region (Method 1) 
+(Y-M1) 
+ 
+(Y-M1) 
+Table 36 
+Baseline Carbon Stock Change for Selected 
+Carbon Pools in the Project Area (Method 1) 
+Y-M1 
+Y-M1 (A) 
+Y-M1 
+Table 37 
+Baseline Carbon Stock Change for Selected 
+Carbon Pools in the Leakage Belt (Method 1) 
+(Y-M1) 
+Y-M1 (A) 
+(Y-M1) 
+Table 38 
+Baseline Carbon Stock Change for Selected 
+Carbon Pools in the Reference Region (Method 2) 
+(Y-M2) 
+ 
+(Y-M2) 
+Table 39 
+Baseline Carbon Stock Change for Selected 
+Carbon Pools in the Project Area (Method 2) 
+(Y-M2) 
+(Y-M2) (A) 
+(Y-M2) 
+Table 40 
+Baseline Carbon Stock Change in the Leakage 
+Belt (Method 2) 
+(Y-M2) 
+(Y-M2) (A) 
+(Y-M2) 
+Table 41 
+Parameters Used to Calculate Non-CO2 Emissions 
+from Forest Fires 
+Y* 
+Y* 
+Y* 
+Table 42 
+Baseline Non-CO2 Emissions from Forest Fires in 
+the Project Area 
+Y* 
+Y* (A) 
+Y* 
+Table 43 
+Ex Ante Estimated Actual Carbon Stock Decrease 
+Due to Planned Deforestation in the Project Area 
+Y* 
+Y* 
+Y* 
+Table 44 
+Ex Ante Estimated Actual Carbon Stock Decrease 
+Due to Planned Logging Activities in the Project 
+Area 
+Y* 
+Y* 
+Y* 
+Table 45 
+Ex Ante Estimated Actual Carbon Stock Decrease 
+Due to Planned Fuel-Wood Collection and 
+Charcoal Production in the Project Area 
+Y* 
+Y* 
+Y* 
+Table 46 
+Total Ex Ante Carbon Stock Decrease Due to 
+Planned Activities in the Project Area 
+Y* 
+Y* 
+Y* 
+Table 47 
+Ex Ante Estimated Net Carbon Stock Change in 
+the Project Area Under the Project Scenario 
+Y 
+Y 
+Y 
+ 
+VM0015, v1.2 
+201 
+Table 
+Ex Ante 
+Ex Post 
+At  
+validation 
+At 
+verification 
+At 
+baseline 
+update 
+Table 48 
+Total Ex Ante Estimated Actual Emissions of Non-
+CO2 Gases Due to Forest Fires in the Project Area 
+Y* 
+Y* 
+Y* 
+Table 49 
+Total Ex Ante Estimated Actual Net Carbon Stock 
+Changes and Emissions of Non-CO2 Gases in the 
+Project Area 
+Y 
+Y 
+Y 
+Table 50 
+Categories Subject to MRV 
+I 
+ 
+ 
+Table 55 
+Ex Ante Estimated Carbon Stock Change in 
+Leakage Management Zones in the Baseline 
+Case 
+Y* 
+Y* 
+Y* 
+Table 56 
+Ex Ante Estimated Carbon Stock Change in 
+Leakage Management Zones in the Project Case 
+Y* 
+Y* 
+Y* 
+Table 57 
+Ex Ante Estimated Net Carbon Stock Change in 
+Leakage Management Zones 
+Y* 
+Y* 
+Y* 
+Table 58 
+Parameters Used for the Ex Ante Estimation of 
+GHG Emissions from Grazing Activities 
+Y* 
+Y* 
+Y* 
+Table 59 
+Ex Ante Estimation of Leakage Emissions Above 
+the Baseline from Grazing Animals in Leakage 
+Management Zones 
+Y* 
+Y* 
+Y* 
+Table 60 
+Ex Ante Estimated Total Emissions Above the 
+Baseline from Leakage Prevention Activities 
+Y* 
+Y* 
+Y* 
+Table 61 
+Ex Ante Estimated Leakage due to Activity 
+Displacement 
+Y 
+Y 
+Y 
+Table 62 
+Ex Ante Estimated Total Leakage 
+Y 
+Y 
+Y 
+Table 64 
+Ex Ante Estimated Net GHG Emission Reductions: 
+(ΔREDDt) and Verified Carbon Units (VCUt) 
+Y 
+Y 
+Y 
+ 
+TABLE NOTES 
+I 
+Informative 
+ 
+VM0015, v1.2

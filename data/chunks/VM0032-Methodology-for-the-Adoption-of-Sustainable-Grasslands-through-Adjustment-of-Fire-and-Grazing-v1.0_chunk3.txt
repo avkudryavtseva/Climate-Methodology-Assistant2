@@ -1,0 +1,123 @@
+3 
+DEFINITIONS 
+In addition to the definitions set out in VCS document Program Definitions, the following 
+definitions and acronyms apply to this methodology: 
+3.1 
+Defined Terms 
+Baseline Period 
+A historical reference period over which the project’s baseline emissions are calculated, and that 
+consists of the ten consecutive years occurring immediately before the project start date  
+Calibration 
+Process by which predictive models use local measurements to determine the values of their 
+parameters, and which will make the models more representative of the project area.  
+Calibration Period 
+Under a modeled approach, the time in years following the project start date or most recent re-
+calibration when soil carbon is to be measured again in order to re-calibrate the chosen soil 
+carbon model. This period may be much longer than the verification period for modeled approach 
+projects in order to allow sufficient time for measureable changes in soil carbon to occur 
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 10 
+Cellulose  
+Carbon-rich plant material that, to decompose requires special enzymes (cellulases) typically 
+found only in certain fungi, bacteria or other microorganisms 
+Enteric Fermentation  
+Process of microbial digestion of plant material in the digestive tract of grazing animals that, in the 
+absence of oxygen, yields methane (CH4) as a byproduct 
+Equilibrium  
+State of a carbon pool when inputs to the pool are balanced by outputs, such as when inputs to 
+soil organic matter are balanced by losses from respiration by microorganisms 
+Exclosure 
+Fence or other device that excludes grazing animals from an area, sufficient to allow 
+measurement of aboveground biomass inside in order to compare with biomass outside; used in 
+estimating grazing intensity 
+Fire management 
+Set of practices that either inhibit fire or burn vegetation on purpose to achieve desired goals for 
+vegetation and soil carbon. 
+ 
+Grasslands  
+Lands with more than 250 mm mean annual precipitation covered by natural and managed 
+herbaceous cover that lack trees over 5m in height with greater than 50% canopy cover (forests)1 
+Grazing animal 
+Mammals that eat primarily herbaceous plants or the leaves of shrubs; in this methodology, 
+applies to livestock species subject to control by the project proponent 
+Legumes  
+Plants in the pea family, either woody or non-woody, that harbor bacteria in their roots that 
+perform nitrogen fixation, or the conversion of nitrogen gas in the atmosphere into chemical forms 
+that can be used by plants 
+Lignin  
+Carbon-rich plant material that is generally impervious to decomposition by microorganisms 
+Neutral Detergent Fiber  
+Plant material resistant to rapid digestion or decomposition, which includes cellulose and lignin 
+ 
+ 
+                                                
+1 http://www.fao.org/agriculture/crops/thematic-sitemap/theme/spi/gcwg/definitions/en/ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 11 
+Overgrazing 
+Grazing that has resulted in permanent vegetation species changes from mostly palatable to 
+unpalatable species, reduction in vegetation cover that expose more than 80 percent bare 
+ground, and/or consumption of more than 75 percent of production 
+Prescribed Fires 
+Fires that are set on purpose by landholders as part of a specific strategy to manage vegetation 
+in the project area 
+Rotational Grazing 
+Various practices of planned grazing in which animals are restricted, by herding or fencing, to 
+small portions (< 25%) of available grazing lands for relatively short periods of time, followed by 
+movement to new portions of available grazing land. The restricted access and time is designed 
+for livestock grazing animals to eventually visit all or most of available grazing lands but still allow 
+forage plant species sufficient time and resources (water, nutrients) to regrow and set seed 
+following grazing or to complete growth and seed set before grazing. 
+Soil Organic Carbon Density 
+Amount of carbon in the soil, expressed as a mass per unit area rather than as a percent 
+Soil Carbon Dynamic Model 
+A model published in the peer-reviewed scientific literature that predicts changes in soil organic 
+carbon as a function of various input variables, which may include aboveground production, 
+belowground production, precipitation, temperature, initial soil organic carbon, soil texture, and 
+grazing intensity and possibly other factors detailed in the peer-reviewed article(s) describing the 
+model  
+Soil Organic Carbon (SOC) 
+See VCS document Program Definitions. 
+Tier 1, 2, or 3 
+The level of precision and use of local measurements in calculating various emissions and 
+removals of greenhouse gases, as assigned by the IPCC 
+3.2 
+Acronyms 
+A/R  
+Afforestation / Reforestation 
+AFOLU  
+Agriculture, Forestry and Other Land Use  
+AIC 
+Akaike Information Criterion 
+ALM  
+Agricultural Land Management 
+CDM  
+Clean Development Mechanism 
+CI 
+Confidence Interval 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 12 
+IPCC  
+Intergovernmental Panel on Climate Change 
+NDVI 
+Normalized Difference Vegetation Index 
+SAVI 
+Soil-Adjusted Vegetation Index 
+SGMAFG  
+Sustainable grassland management though adjustment of fire and grazing 
+UNFCCC  
+United Nations Framework Convention on Climate Change 
+VCS 
+Verified Carbon Standard 
+VCU  
+Verified Carbon Unit

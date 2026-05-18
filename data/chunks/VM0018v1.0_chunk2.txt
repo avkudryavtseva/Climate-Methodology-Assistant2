@@ -1,0 +1,11 @@
+2   
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+This methodology provides a framework for the quantification of emission reductions for grouped 
+projects2, where energy efficiency and solid waste diversion activities have been initiated by a 
+Sustainable Community Service Promoter for an assortment of Client Facilities grouped in a Territory. 
+This methodology requires that the SCSP uses a consolidated, Information and Communication 
+Technology-enabled data monitoring and collection system to track project activity data. Even though the 
+activities of Client Facilities vary, energy consumption and waste management are similar across many 
+businesses and organizations. This methodology is meant to work with and support the provision of single 
+window reporting and measurement provided by a third party to capture the information required to 
+quantify emissions reductions.

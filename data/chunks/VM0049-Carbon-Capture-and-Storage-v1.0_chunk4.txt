@@ -1,0 +1,82 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology. 
+Bioenergy  
+Energy derived from any form of biomass such as recently living organisms or their metabolic 
+byproducts 
+Biogenic sources 
+Carbon/carbon dioxide sources that originate from organic materials (i.e., recently living 
+organisms, such as plants). Carbon dioxide may be released from these sources by combustion, 
+decomposition, or biomass processing. The biomass can be solid (e.g., wood), liquid (e.g., 
+bioethanol), or gaseous (e.g., biogas). 
+ 
+VM0049, v1.0 
+ 
+6 
+Biomass sources 
+Carbon/carbon dioxide sources that originate from organic material excluding material that is 
+fossilized or embedded in geological formations (i.e., includes municipal solid waste from 
+biogenic sources, landfill gas, sludge waste, agricultural crop byproducts, straw, and other 
+biomass solids, liquids, and gases; but excludes wood and wood-derived fuels (including black 
+liquor), biofuels feedstock, biodiesel, and fuel ethanol) 
+Capture facility 
+A facility engineered to capture carbon dioxide through various processes such as absorption, 
+adsorption, membrane, electro-chemical, and cryogenic methods from diverse sources.  
+Carbon dioxide 
+A naturally occurring gas and a by-product of burning fossil fuels and biomass, as well as of 
+land-use changes and other industrial processes. It is the principal anthropogenic greenhouse 
+gas that affects the Earth's radiative balance. 
+Direct air capture (DAC) 
+A process to capture and concentrate carbon dioxide from the atmosphere using various 
+separation methods 
+Flue gas 
+Gas produced by combustion of a fuel and normally emitted to the atmosphere 
+Geological reservoir 
+Subsurface body of rock with sufficient porosity and permeability to receive, transmit, and 
+contain gases and fluids, particularly supercritical or dense phase carbon dioxide. It includes 
+areas or zones for expansion and migration of the carbon dioxide plume defined by reservoir 
+modelling.  
+Geological storage complex 
+Consists of the geological reservoir and either an overlying impermeable seal (or caprock) that 
+prevents the escape of the fluids or other reliable trapping mechanisms 
+Intermediate storage 
+The processes and equipment on a site that enables temporary storage of carbon dioxide in 
+transit during the transfer of carbon dioxide from one mode of transport to another (e.g., 
+transfer of carbon dioxide from a pipeline to transport by ship) 
+Native carbon dioxide emissions 
+Carbon dioxide emissions that originate directly from natural sources or processes such as 
+volcanic eruptions, respiration by plants and animals, and decomposition of organic matter 
+Non-VCS carbon dioxide (non-VCS CO2) 
+Carbon dioxide captured outside the project boundary of a carbon capture and storage (CCS) 
+project activity registered under the Verified Carbon Standard (VCS) Program that is 
+conditioned, transported, or stored using (some of) the registered CCS project activity facilities 
+ 
+VM0049, v1.0 
+ 
+7 
+Oxy-fuel combustion 
+Combustion of fossil fuels with pure oxygen or a mixture of oxygen, water, and carbon dioxide 
+Post-combustion capture 
+Capture of carbon dioxide from flue gas streams after the combustion of fuels containing 
+carbon 
+Pre-combustion capture 
+Removing or absorbing carbon dioxide from fuels before combustion 
+Source facility 
+Facility generating CO2 and emitting it to the atmosphere 
+Supercritical carbon dioxide 
+A state where carbon dioxide is at a temperature and pressure above its critical point, where 
+the gas cannot be liquefied under any pressure. Typically, this occurs at temperatures above 
+31.11 °C and pressures exceeding 7.39 MPa. 
+ 
+Transport facility 
+Any facility used to transport carbon dioxide 
+Transport segment 
+A portion of a carbon dioxide transportation system that connects a capture facility to 
+intermediate storage facilities, other transport segments, or storage sites. A transport segment 
+has one mode of transport.  
+VCS carbon dioxide (VCS CO2) 
+Carbon dioxide captured, transported (as applicable), and stored inside the project boundary of 
+a CCS project under the VCS Program 
+Waste heat 
+Heat that is discarded by an existing thermal process and would have been wasted in the 
+absence of the project activity

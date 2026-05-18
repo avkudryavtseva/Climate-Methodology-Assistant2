@@ -1,0 +1,606 @@
+8 QUANTIFICATION OF ESTIMATED 
+GHG EMISSION REDUCTIONS AND 
+REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions have been predetermined by the performance benchmark for the 
+crediting baseline, which is the same as the additionality performance benchmark. The 
+crediting baselines from 2014 to 2025 are presented in Table 4. 
+Similar to the additionality benchmark, there are three strata of performance benchmarks 
+based on project types and one-way distances between the HMA plant and job site. 
+Appendix 1 describes the calculation of the performance benchmark for the crediting 
+baseline. 
+Table 4: Crediting Baseline for Estimation of Emission Reductions 
+ 
+Patching Project 
+(<40mile) 
+Patching Project 
+(>40mile) 
+Roadway Project 
+2014 
+121.9 
+142.4 
+95.1 
+ VM0039, v1.1 
+ 
+17 
+ 
+2015 
+121.8 
+142.3 
+95.0 
+2016 
+121.7 
+142.2 
+94.9 
+2017 
+121.6 
+142.1 
+94.8 
+2018 
+121.5 
+142.0 
+94.7 
+2019 
+121.4 
+141.9 
+94.6 
+2020 
+121.3 
+141.8 
+94.5 
+2021 
+121.2 
+141.7 
+94.4 
+2022 
+121.1 
+141.6 
+94.3 
+2023 
+121.0 
+141.5 
+94.2 
+2024 
+120.9 
+141.4 
+94.1 
+2025 
+120.8 
+141.3 
+94.0 
+Note: Unit: kgCO2e/t. 1 kgCO2e per tonne of output = 0.001 tCO2e per tonne of output 
+8.2 
+Project Emissions  
+Project emissions are calculated in one of two ways, depending on production method. 
+Where the project is performed using CCPR, the calculation of project emissions must follow 
+the process in Section 8.2.1. Where the project is performed using CIR or FDR, the 
+calculation of project emissions must follow the process in Section 8.2.2. 
+8.2.1 Emissions from CCPR  
+CCPR emission intensity (CCPR EI) represents the quantity of GHGs emitted from producing 
+and installing one metric ton of FSB and asphalt emulsions using CCPR. It is the summation 
+of raw material production emission intensity (EIM), to-plant delivery emissions intensity 
+(EIPD), in-plant production emission intensity (EIP), to-site delivery emissions intensity (EISD) 
+and on-site installation emission intensity (EII). CCPR EI is calculated as follows: 
+  =  + 
+ +  + 
+ + 
+ 
+(1) 
+Where: 
+CCPR EI
+=
+Emission intensity of CCPR (kgCO2e/t)
+EIM
+=
+Emission intensity of raw material production (kgCO2e/t)
+EIPD
+=
+Emission intensity of to-plant delivery (kgCO2e/t)
+EISD
+=
+Emission intensity of to-site delivery (kgCO2e/t)
+EIP
+=
+Emission intensity of in-plant production (kgCO2e/t)
+EII
+=
+Emission intensity of pavement installation (kgCO2e/t)
+Raw material production emission intensity4 (EIM) must be calculated as follows: 
+ 
+ 
+4 It is reasonable to assume zero leakage because there is no difference in site preparation activities between 
+baseline and project scenarios. Replacing HMA with FSB or asphalt emulsions for the pavement base layer does not 
+entail a change in carbon efflux or carbon sink at the construction site.5  
+ VM0039, v1.1 
+ 
+18 
+ 
+ =
+ × 
+  
+(2) 
+Where: 
+EIM
+=
+Emission intensity of raw material production (kgCO2e/t)
+EFM
+=
+Material emission factor (kgCO2e/kg)
+WM
+=
+Material weight (kg)
+Project amount
+=
+Amount of FSB/asphalt emulsions manufactured (t)
+To-plant delivery emissions intensity (EIPD) and to-site delivery emissions intensity (EISD) 
+must be calculated according to Equation 3 and Equation 4. Where hauling distance is not 
+directly monitored, the distance can be estimated using a map distance calculator. The 
+addresses of the start point, and destination must be documented. For conservativeness, a 
+discount factor for distance calculation (DFD) of 0.1 must be applied when a map distance 
+calculator is used to estimate hauling distance (Hauling distance = Map distance × 
+(1+DFD)). DFD is equal to 0 where using actual logged miles. 
+ 
+
+ = 
+ × 
+ × (1 + ) × #
+ 
+ 
+(3)
+Where: 
+EIPD
+=
+Emission intensity of to-plant delivery (kgCO2e/t)
+TripP
+=
+Number of trips from material manufacture to production plant
+DistanceP
+=
+Distance to plant (mile)
+DFD
+=
+Discount factor for distance calculation
+EFT
+=
+Truck emission factor (kgCO2e/mile)
+Project amount
+=
+Amount of FSB/asphalt emulsions manufactured (t)
+ 
+ = $ ×  × (1 + ) × #
+ 
+ 
+(4)
+Where: 
+EISD
+=
+Emission intensity of to-site delivery (kgCO2e/t)
+TripS
+=
+Number of trips from production plant to job site
+DistanceS
+=
+Distance to site (mile)
+DFD
+=
+Discount factor for distance calculation
+EFT
+=
+Truck emission factor (kgCO2e/mile)
+Project amount
+=
+Amount of FSB/asphalt emulsions manufactured (t)
+ 
+In-plant production emission intensity (EIP) includes the emissions from diesel and electricity 
+consumption by plant equipment, vehicles, and the plant office. 
+Diesel users are often mixing machines, loaders, and dump trucks. Their emissions are 
+calculated using Equations 5 and 6. Relevant emission factors are provided in Appendix 2. 
+ VM0039, v1.1 
+ 
+19 
+ 
+Equipment operating hours must be logged to determine the amount of time it was used in 
+the plant. 
+Electricity users are often the bitumen heater, RAP crusher, and plant office. Their 
+emissions are calculated using Equation 8. Electricity emission factors can be found at the 
+eGRID default emission factor database provided by the EPA. The electricity consumption 
+must be recorded according to the electric meter. 
+
+ =  + % 
+(5)
+Where: 
+EIP
+=
+Emission intensity of in-plant production (kgCO2e/t)
+EID
+=
+Emission intensity of diesel-consuming activities (kgCO2e/t)
+EIE
+=
+Emission intensity of electricity-consuming activities (kgCO2e/t)
+ 
+ =
+%& × '%&
+  
+(6)
+Where: 
+EID
+=
+Emission intensity of diesel-consuming activities (kgCO2e/t)
+EFEQ
+=
+Equipment emission factor (kgCO2e/hour)
+HREQ
+=
+Equipment operation hours (hour)
+Project amount
+=
+Amount of FSB/asphalt emulsions manufactured (t)
+ 
+% =
+%( × %(
+  
+(7)
+Where: 
+EIE
+=
+Emission intensity of electricity-consuming activities (kgCO2e/t)
+EFEL
+=
+Electricity emission factor (kgCO2e/kWh)
+CEL
+=
+Electricity consumption (kWh)
+Project amount
+=
+Amount of FSB/asphalt emulsions manufactured (t)
+On-site installation emission intensity (EII) is due to diesel consumption from the equipment 
+used for the installation project. The equipment includes milling machines, backhoes, 
+loaders, sweepers, pavers, rollers, and trucks. Equipment emissions must be calculated 
+using Equation 7. Relevant emission factors are provided in Appendix 2. Where equipment 
+operation hours are not available, labor hours can be used to approximate equipment 
+operation hours according to Equation 9. Labor hours must be documented in the project 
+daily log for verification. Conversion factors (CF) for commonly used equipment are listed in 
+Section 9.1.1. 
+
+ =
+%& × '%&
+  
+(8)
+ VM0039, v1.1 
+ 
+20 
+ 
+Where: 
+EII
+=
+Emission intensity of pavement installation (kgCO2e/t)
+EFEQ
+=
+Equipment emission factor (kgCO2e/hour)
+HREQ
+=
+Equipment operation hours (hour)
+Project amount
+=
+Amount of FSB/asphalt emulsions installed (t)
+ 
+'%& = '() ×  
+(9)
+Where: 
+HREQ
+=
+Equipment operation hours (hour)
+HRLA
+=
+Labor hours (hour)
+CF
+=
+Conversion factor
+Note that CCPR projects may include more than one installation project because FSB and 
+asphalt emulsions produced in central plants could be placed in a number of road areas. 
+Where there are i = 1,…, N installation projects using FSB and asphalt emulsions from the 
+same manufacturing process, the emission intensity of multiple CCPR projects (MCCPR EI) 
+must be calculated as follows: 
+*  =  + 
+ + 
+ + ∑,- ×  - + ∑
+,- ×  -
+.
+
+.
+-
+∑ -
+.
+
+ 
+(10) 
+Where: 
+MCCPR EI
+=
+Emission intensity of multiple CCPR projects (kgCO2e/t)
+EIM
+=
+Emission intensity of raw material production (kgCO2e/t)
+EIPD
+=
+Emission intensity of to-plant delivery (kgCO2e/t)
+EIP
+=
+Emission intensity of in-plant production (kgCO2e/t)
+EISD
+=
+To-site delivery emission intensity (kgCO2e/t)
+EII
+=
+On-site installation emission intensity (kgCO2e/t)
+Project amount
+=
+Amount of FSB and asphalt emulsions manufactured (t)
+8.2.2 Emissions from CIR or FDR  
+CIR or FDR emission intensity (CIR EI or FDR EI) represents the quantity of GHGs emitted 
+from producing and installing one metric ton of FSB or asphalt emulsions using CIR or FDR. 
+CIR EI or FDR EI must be calculated as follows: 
+ (  ) =  +  + 
+ 
+(11) 
+Where: 
+CIR EI
+=
+Emission intensity of CIR (kgCO2e/t)
+FDR EI
+=
+Emission intensity of FDR (kgCO2e/t)
+EIM
+=
+Material emissions intensity (kgCO2e/t)
+EISD
+=
+To-site delivery emission intensity (kgCO2e/t)
+EII
+=
+On-site installation emission intensity (kgCO2e/t)
+Material emissions intensity (EIM) must be calculated using Equation 2. 
+ VM0039, v1.1 
+ 
+21 
+ 
+To-site delivery emissions intensity (EISD) must be calculated using Equation 4. 
+On-site installation emissions intensity (EII) is derived from diesel consumption from the 
+equipment used for the installation project. This equipment typically includes a cold recycler 
+(e.g., Wirtgen 3800 CR), cement spreader, water truck, bitumen truck, vibratory roller, 
+pneumatic roller, etc. The equipment emissions must be calculated using Equation 8. 
+Relevant emission factors are provided in Appendix 2. 
+Where project proponents cannot record the operating hours of all the equipment, the hours 
+must be estimated using equipment running speeds according to Equation 12. The running 
+speed of the cold recycler can be read from the screen on the machine. The water truck and 
+bitumen truck are connected to the cold recycler to supply it with binding agents, and the 
+rollers normally follow the train of equipment to compact the newly produced layer. 
+Therefore, they can be assumed to run at the same speed as the cold recycler. 
+'/0 = 1
+2 
+(12)
+Where: 
+HRCR
+=
+Operation hours of cold recycler (hour)
+S
+=
+Running speed of cold recycler (mile/hour)
+L
+=
+Project length (mile)
+Note that CIR and FDR projects may include more than one installation project because FSB 
+and asphalt emulsion produced from CIR or FDR could be placed in a number of road 
+sections. Where there are i = 1,…, N road sections using FSB and asphalt emulsion from the 
+same CIR or FDR machinery, the emission intensity of multiple CIR or FDR projects (MCIR EI 
+or MFDR EI) must be calculated as follows: 
+*  ( * ) =  + ∑,- ×  - + ∑
+,- ×  -
+.
+
+.
+-
+∑ -
+.
+
+(13) 
+Where: 
+MCIR EI
+=
+Emission intensity of multiple CIR projects (kgCO2e/t)
+MFDR EI
+=
+Emission intensity of multiple FDR projects (kgCO2e/t)
+EISD
+=
+To-site delivery emission intensity (kgCO2e/t)
+EII
+=
+On-site installation emission intensity (kgCO2e/t)
+Project amount
+=
+Amount of FSB and asphalt emulsions manufactured (t)
+8.3 
+Leakage Emissions 
+There are no material leakage emissions .5 
+ 
+ 
+5 It is reasonable to assume zero leakage because there is no difference in site preparation activities between 
+baseline and project scenarios. Replacing HMA with FSB or asphalt emulsions for the pavement base layer does not 
+entail a change in carbon efflux or carbon sink at the construction site. 
+ VM0039, v1.1 
+ 
+22 
+ 
+8.4 
+Estimated GHG Emission Reductions and Carbon Dioxide 
+Removals 
+GHG emission reductions for FSB and asphalt emulsions are the emission intensity 
+differences adjusted by the weight differences. The emission reductions must be calculated 
+according to Equations 15 through 26. A discount factor (DF) to account for uncertainty 
+about the displacement of raw materials production and delivery caused by the project 
+activity is applied (upstream displacement). Further information about this discount factor is 
+given at section 9.1 and Appendix 1.  
+A correction factor6 (θ) of 1.02 for FSB and 1.17 for asphalt emulsions is applied. For 
+projects that have a different structural layer coefficient and material density, the correction 
+factor must be calculated as follows: 
+3 = 0.0025  / 1 
+(14) 
+Where: 
+DE
+=
+Density of FSB or asphalt emulsions, lb/cu.ft
+LC
+=
+Layer coefficient of FSB or asphalt emulsions
+Net GHG emission reductions for a single FSB project must be calculated as follows: 
+9:;//
+0 = <= × (1 −)
+39:
+− ? ×  
+1,000
+ 
+(15) 
+Where: 
+ERFSB-CCPR
+=
+Net emission reductions of FSB using CCPR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θFSB
+=
+Correction factor for FSB (default value is 1.02)
+CCPR EI
+=
+Emission intensity of CCPR project (kgCO2e/t)
+Project amount
+=
+Amount of FSB manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+ 
+ 
+6 The American Association of State Highway Transportation Officials (AASHTO) Design Guide is the recommended 
+reference for the thickness design of cold in-place recycled asphalt mixes. The composition and structural 
+properties of central plant recycled cold mix and cold in-place recycled paving materials are virtually the same; the 
+range of structural layer coefficients recommended for recycled cold mixes (0.25 to 0.35) is also applicable for cold 
+in-place recycled mixes. On average, various Departments of Transportation are considering a structural layer 
+coefficient of 0.32 for FSB and of 0.30 for asphalt emulsion mixes (Schwartz and Khosravifar, 2013). The structural 
+layer coefficient for a 0.75 inch HMA base mix is 0.40 (AASHTO, 1998). Accordingly, substituting FSB and asphalt 
+emulsions for HMA on a project would, on average, require the FSB and asphalt emulsions layer to be approximately 
+25% (or 33%) thicker than the HMA layer. The densities of FSB, asphalt emulsions, and HMA are 130 lb/cu.ft, 140 
+lb/cu.ft and 160 lb/cu.ft, respectively. After factoring in these density differences, the use of FSB and asphalt 
+emulsions must be 2% and 17% more than the HMA base by weight for the same length of paved road.   
+ VM0039, v1.1 
+ 
+23 
+ 
+9:;/
+0 = <= × (1 −)
+39:
+− ? ×  
+1,000
+ 
+(16) 
+Where: 
+ERFSB-CIR
+=
+Net emission reductions of FSB using CIR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θFSB
+=
+Correction factor for FSB (default value is 1.02)
+CIR EI
+=
+Emission intensity of CIR project (kgCO2e/t)
+Project amount
+=
+Amount of FSB manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+9:;90 = <= × (1 −)
+39:
+− ? ×  
+1,000
+ 
+(17) 
+Where: 
+ERFSB-FDR
+=
+Net emission reductions of FSB using FDR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θFSB
+=
+Correction factor for FSB (default value is 1.02)
+FDR EI
+=
+Emission intensity of FDR project (kgCO2e/t)
+Project amount
+=
+Amount of FSB manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+Net GHG emission reductions for multiple FSB projects must be calculated as follows: 
+9:;//
+0 = <= × (1 −)
+39:
+−* ? × @  -
+1,000
+ 
+(18) 
+Where: 
+ERFSB-CCPR
+=
+Net emission reductions of FSB using CCPR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θFSB
+=
+Correction factor for FSB (default value is 1.02)
+MCCPR EI
+=
+Emission intensity of multiple CCPR projects (kgCO2e/t)
+Project amount
+=
+Amount of FSB manufactured (t)
+DF
+=
+Discount factor for upstream displacement
+ 
+9:;/
+0 = <= × (1 −)
+39:
+−* ? × @  -
+1,000
+ 
+(19) 
+Where: 
+ERFSB-CIR
+=
+Net emission reductions of FSB using CIR (tCO2e)
+CB
+=
+Crediting baseline (kgCO2e/t)
+θFSB
+=
+Correction factor for FSB (default value is 1.02)
+MCIR EI
+=
+Emission intensity of multiple CIR projects (kgCO2e/t)
+Project amount
+=
+Amount of FSB manufactured (t)
+ VM0039, v1.1

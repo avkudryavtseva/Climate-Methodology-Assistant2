@@ -1,0 +1,438 @@
+7 
+ADDITIONALITY 
+7.1  
+Project Additionality 
+The project baseline and additionality must be determined using a Project Method, following the 
+procedures detailed in this section, and the guidance given in Section 7.2. The methods given in 
+this section are based on the CDM Tool 02 Combined tool to identify the baseline scenario and 
+demonstrate additionality20. 
+7.1.1 
+Introduction  
+Identification of the baseline scenario and determination of additionality for a project must follow a 
+step-wise approach. The required steps are:  
+Step 1: Identification of alternative scenarios;  
+Step 2: Barrier analysis;  
+Step 3: Investment analysis; and  
+Step 4: Common practice analysis.  
+7.1.2 
+Steps 
+Step 1: Identification of baseline and alternative scenarios  
+This step serves to identify all the alternative scenarios to the proposed project activity(s) which 
+could be the baseline scenario.   
+ 
+20 Found at: http://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-02-v5.0.0.pdf 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+27 
+Where the proponent has a history of managing the project area, the proponent must provide 
+documented evidence of the project proponent’s operating history, such as five or more years of 
+management records, to provide evidence of normal historical practices, and this information 
+must be considered in defining and evaluating the alternative baseline scenarios.  Note however 
+that evidence of operating history over a specified time period does not itself determine the 
+baseline scenario, as special factors, not expected to exist in the future, may have influenced the 
+proponent’s management of the area during that time. 
+For REDD projects, where ownership of the project area has not changed, the project proponent 
+must provide evidence to demonstrate, based on government plans (for publicly owned and 
+managed lands), community plans (for publicly owned and community managed lands), licensee 
+plans (for publicly owned lands managed by licensees) or landowner plans (for privately owned 
+lands), that the project area was intended to be cleared.   
+Where the project proponent is a new owner or manager, for REDD, RIL and LtPF projects the 
+baseline scenario must be based on the projected management activities of the most likely owner 
+or manager or class of owner or manager who would have managed the project area in the 
+absence of the project, providing that these actions were consistent with law, government land 
+use planning, and other constraints.  The most likely management activities must be determined 
+using the procedures outlined in steps 1b, 2 and 3 below.  In cases where a specific “most likely 
+owner or manager” cannot be identified, the baseline scenario must be based on the common 
+characteristics and rates of deforestation for the most likely types of owners or manager expected 
+to manage the project area.  Determination of these characteristics and rates of deforestation 
+must be based on an analysis of the recent historic practices of this type of owner or manager 
+within the region around the project area. 
+For ARR and IFM projects, the baseline scenario must reflect at minimum the local common 
+practices for areas comparable to the project area, and must not result in projected baseline GHG 
+emissions from the project area greater than those that would occur under the relevant local 
+common practice.  However, if local common practices are unsustainable, and unsustainable 
+practices are inconsistent with the mission or historical practices of the new owner or 
+management entity, the baseline must reflect at minimum sustainable practices. 
+Step 1a: Define alternative scenarios to the proposed project activity  
+Identify all alternative scenarios that:  
+1. Are available to the project proponent, or an alternative owner or manager who might be 
+managing the project area under the proposed scenario, and; 
+2. Cannot be implemented in parallel to the proposed project activity, and 
+can occur within the project area, and; 
+3. Are based on environmental practices not less rigorous than common practice among 
+forest managers in the area. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+28 
+These alternative scenarios must include:  
+4. Type S1: The proposed project activity undertaken without being registered as a GHG 
+reduction project. 
+5. Type S2: Where applicable, a situation where no investment or action is undertaken by 
+the project proponents, but third party(s) undertake(s) investments or actions which 
+provide the same output to users of the project activity.  For example, in the case of an 
+ARR project, an alternative scenario may be that the project proponent would not invest 
+in planting, but that trees would be planted by others.  
+6. Type S3: Where applicable, the continuation of the current situation, not requiring  any 
+investment or expenses beyond business as usual expenses to maintain the current 
+situation, such as, for example:  
+i. 
+The continued management of an area for forest harvest, instead of conversion 
+and development. 
+ii. 
+Land continuing in an unused, degraded state.  
+7. Type S4: Where applicable, the continuation of the current situation, requiring an 
+investment or expenses to maintain the current situation, such as, for example:  
+iii. 
+Continued harvest and processing of timber at existing rates and using existing 
+silvicultural and manufacturing techniques and technologies. 
+8. Type S5: Other plausible and credible alternative scenarios to the project activity 
+scenario, including the common practices in the relevant sector, which could occur on the 
+same land base. 
+If the proposed project activity includes several different facilities, technologies, or outputs, or 
+areas of land with different potential uses, alternative scenarios for each of them may be 
+identified separately.  Plausible combinations of these may be considered as possible alternative 
+scenarios to the proposed project activity. 
+For the purpose of identifying relevant alternative scenarios, provide an overview of other 
+technologies or practices that provide the same output as the proposed project activity, or that 
+can occur on the same land base, and that have been implemented previously or are currently 
+underway in the applicable geographical area. The applicable geographical area may include 
+preferably at least ten areas that provide the same output or occur on the same kind of land base 
+as the proposed project activity, not including other projects which include GHG reduction 
+incentives.  Provide relevant documentation to support the results of the analysis.  
+The description of the alternative baseline scenarios must provide relevant information 
+concerning present or future conditions, such as legislative, technical, economic, socio-cultural, 
+environmental, geographic, site-specific and temporal factors, assumptions or projections, and 
+these factors must be considered in the steps below. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+29 
+ 
+ 
+ 
+Step 1b: Consistency with mandatory applicable laws and regulations  
+The alternative scenario(s) must be in compliance with all mandatory applicable legal and 
+regulatory requirements, even if these laws and regulations have objectives other than GHG 
+reductions, eg, to mitigate local air pollution.  (National, provincial or local policies that do not have 
+legally-binding status are not required to be considered.  
+If the proposed project activity is the only alternative scenario among the ones considered by the 
+project proponent that is in compliance with all mandatory regulations, the proposed project 
+activity is not additional.  
+ 
+ 
+ 
+ 
+ 
+Step 2: Barrier analysis  
+This step serves to identify barriers and to assess which alternative scenarios are prevented by 
+these barriers.  
+In applying Steps 2a and 2b, provide transparent and documented evidence, and offer 
+conservative interpretations of this evidence, as to how it demonstrates the existence and 
+significance of the identified barriers and whether alternative scenarios are prevented by these 
+barriers. The type of evidence to be provided must include at least one of the following:  
+1. Relevant legislation, regulatory information or industry norms;  
+2. Relevant (sectoral) studies or surveys (eg, market surveys, technology studies, etc.) 
+undertaken by universities, research institutions, industry associations, companies, 
+bilateral/multilateral institutions, etc.;  
+3. Relevant statistical data from national or international statistics;  
+4. Documentation of relevant market data (eg, market prices, tariffs, rules);  
+5. Written documentation from the company or institution developing or implementing the 
+project activity or the project proponent, such as minutes from Board meetings, 
+correspondence, feasibility studies, financial or budgetary information, etc.;  
+Outcome of Step 1a: A description of plausible alternative scenarios to the project activity, to 
+be considered when selecting the project’s baseline scenario, using the steps below. 
+Outcome of Step 1b: List of alternative scenarios to the project activity that are in compliance 
+with mandatory legislation and regulations. 
+If the above-mentioned list contains only one scenario, namely: S1 - the proposed project 
+activity undertaken without being registered as a  GHG reduction project activity, then the 
+proposed project activity is not additional and any remaining procedures of this tool are not 
+applicable. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+30 
+6. Documents prepared by the project proponent, contractors or project partners in the 
+context of the proposed project activity or similar previous project implementations; 
+written documentation of independent expert judgements from industry, educational 
+institutions (eg, universities, technical schools, training centres), industry associations 
+and others. 
+Step 2a: Identify barriers that would prevent the implementation of alternative scenarios  
+Establish a complete list of plausible and credible barriers that may prevent alternative scenarios 
+from occurring. Such plausible and credible barriers may include:  
+1. Investment barriers, other than insufficient financial returns as analyzed in Step 3.  For 
+instance, situations where similar activities have only been implemented with grants or 
+with other non-commercial finance. Similar activities are defined as activities that rely on 
+a broadly similar technology or practices, are of a similar scale, take place in a 
+comparable environment with respect to regulatory framework, and are undertaken in the 
+applicable geographical area as defined in Step 1a above. 
+2. Technological barriers, inter alia:  
+i. 
+Skilled and/or properly trained labor to operate and maintain the scenario are not 
+available in the applicable geographical area, which leads to an unacceptably 
+high risk of failure or underperformance; 
+ii. 
+Lack of infrastructure for implementation and logistics for maintenance of the 
+scenario (eg, road network does not allow efficient forest fertilization); 
+iii. 
+Risk of technological failure: the process/technology failure risk in the local 
+circumstances is significantly greater than for other technologies that provide 
+services or outputs comparable to those of the proposed project activity, as 
+demonstrated by relevant scientific literature or technology manufacturer 
+information (eg, use of ground based equipment for selective harvesting within 
+the project area may result in unacceptable damage to harvested or retained 
+timber); 
+iv. 
+The particular technology used in the proposed scenario is not available in the 
+applicable geographical area (eg, the project involves importing new logging 
+machinery that has never been used in context of the geographical area). 
+3. Legal barriers.  The project activity faces certain legal barriers that prevent it from being 
+undertaken.  However, the potential to generate emission reductions/removals help to 
+convince regulators (provincial, municipal, etc.) to reconsider the project activities, work 
+with the proponent to address any areas of concern, and adjust the legal requirements to 
+permit the activity.  The situation where a project creates emission reductions or 
+removals partially or wholly through an agreement with government to change legislation 
+or regulation for the purposes of increasing carbon sequestration and thereby creating 
+incremental emissions reductions may constitute evidence of additionality. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+31 
+ 
+ 
+ 
+Step 2b: Eliminate alternative scenarios which are prevented by the identified barriers  
+Identify which alternative scenarios are prevented by at least one of the barriers listed in Step 2a, 
+and eliminate those alternative scenarios from further consideration. All alternative scenarios 
+must be compared to the same set of barriers. The assessment of the significance of barriers 
+may take into account the level of access to and availability of information, technologies and 
+skilled labour in the specific context of the industry where the project type is located.  For 
+example, projects located in sectors with small and medium sized enterprises may not have the 
+same means to overcome technological barriers as projects in a sector where typically large or 
+international companies operate.  
+ 
+ 
+Outcome of Step 2a: A description of the barriers that may prevent one or more alternative 
+scenarios from occurring, including a justification of the reasonableness of the identified 
+barriers. 
+Outcome of Step 2b: A list of alternative scenarios to the project activity that are not 
+prevented by any barrier. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+32 
+ 
+ 
+ 
+ 
+ 
+Step 3: Investment analysis  
+The objective of Step 3 is to compare the economic or financial attractiveness of the alternative 
+scenarios remaining after Step 2 by conducting an investment analysis. The analysis must 
+Outcome of Step 2: 
+If there is only one scenario that is not prevented by any barrier, then the following applies: 
+1. If this alternative scenario is the proposed project activity undertaken without being 
+registered as a GHG reduction activity, then the project activity is not additional.  
+If this alternative scenario is not the proposed project activity, then this alternative is 
+identified as the baseline scenario.  In this case, demonstrate, using quantitative and/or 
+qualitative evidence, how the registration of the project activity as a GHG reduction activity 
+overcomes identified barriers which prevent the proposed project activity from occurring in 
+the absence of registration as a GHG reduction activity. If registration alleviates these 
+barriers, proceed to Step 3.  Otherwise, it is not additional. 
+2. If there is more than one alternative scenario that is not prevented by any barrier, then the 
+following applies:  
+i. 
+If the alternative scenarios include the proposed project activity undertaken without 
+being registered as a GHG reduction project activity, then proceed to Step 3 
+(investment analysis). 
+ii. 
+If the alternative scenarios do not include the proposed project activity undertaken 
+without being registered as a GHG reduction project activity, then:  
+a. If registration alleviates the identified barriers that prevent the proposed project 
+activity from occurring, project participants must complete Step 3 (investment 
+analysis). 
+b. If registration as a GHG reduction activity does not alleviate the identified 
+barriers that prevent the proposed project activity from occurring, then the 
+project activity is not additional. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+33 
+include all alternative scenarios remaining after Step 2, including scenarios where the project 
+proponent does not undertake an investment (S2 or S3).  
+Step 3a: Identification of the financial indicator 
+Identify the financial indicator, such as IRR, NPV, cost benefit ratio, or unit cost of production (eg. 
+Production cost per cubic meter of processed timber or per bone dry tonne of pulp) most suitable 
+for the project type and decision-making context.  If one of the alternative scenarios remaining 
+after Step 2 corresponds to the situation described in S2 or S3, then use either the NPV or the 
+IRR as financial indicator in the analysis.  
+Step 3b: Calculation of alternatives 
+Calculate the suitable financial indicator for all alternative scenarios remaining after Step 2. 
+Include all relevant costs (including, for example, investment operations and maintenance costs), 
+and revenues (including subsidies/fiscal incentives, etc. where applicable), and, as appropriate, 
+non-market costs and benefits in the case of public investors if this is standard practice for the 
+selection of public investments. 
+For alternative scenarios that correspond to the situation described in S2 or S3 and that do not 
+involve any investment costs, operational costs or revenues, use the following values for the 
+financial indicator to reflect such a situation:  
+1. If the financial indicator is the NPV: Assume a value of NPV equal to zero;  
+2. If the financial indicator is the IRR: Use as the IRR the financial benchmark, as 
+determined through the options (1) to (5) below.  
+The financial/economic analysis must be based on parameters that are standard in the market, 
+considering the specific characteristics of the project type, but not linked to the subjective 
+profitability expectation or risk profile of a particular project proponent. In the particular case 
+where the project activity can only be implemented by the project proponent, the specific 
+financial/economic situation of the company undertaking the project activity can be considered. 
+The discount rate (in the case of the NPV) or the financial benchmark (in the case of the IRR) 
+may be derived from one or more of:  
+3. Government bond rates, increased by a suitable risk premium to reflect private 
+investment and/or the project type, as substantiated by an independent (financial) expert 
+or documented by official publicly available financial data; 
+4. Estimates of the cost of financing and required return on capital (eg, commercial lending 
+rates and guarantees required for the country and the type of project activity concerned), 
+based on banker’s views and private equity investors/funds’ required return on 
+comparable projects;  
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+34 
+5. A company internal financial benchmark (weighted average cost of capital of the 
+company), only in the particular case that the project activity can only be implemented by 
+the project proponent. The project proponents must demonstrate that this financial 
+benchmark has been consistently used in the past, ie, that project activities under similar 
+conditions developed by the same company used the same financial benchmark;  
+6. A government/officially approved financial benchmark where it can be demonstrated that 
+such financial benchmarks are used for investment decisions;  
+7. Any other indicators if the project proponent can demonstrate that the above options are 
+not applicable and their indicator is appropriately justified.  
+Present the investment analysis in the documentation submitted for validation in a transparent 
+manner and provide all the relevant assumptions, so that a reader can reproduce the analysis 
+and obtain the same results. Refer to critical techno-economic parameters and assumptions 
+(such as capital costs, fuel prices, lifetimes, and discount rate or cost of capital). Justify and/or 
+cite assumptions in a manner that can be validated. In calculating the financial indicator, the risks 
+of the alternative scenarios can be included through the cash flow pattern, subject to project-
+specific expectations and assumptions (eg, insurance premiums can be used in the calculation to 
+reflect specific risk equivalents). Assumptions and input data for the investment analysis must not 
+differ across alternative scenarios, unless differences can be well substantiated.  
+Each of the scenarios examined must be ranked according to the financial indicator. 
+Include a sensitivity analysis to assess whether the conclusion regarding the financial 
+attractiveness of each scenario is robust to reasonable variations in the critical assumptions. The 
+investment comparison analysis provides a valid argument in identifying the baseline scenario 
+only if it consistently supports (for a plausible range of assumptions) the conclusion that one 
+alternative scenario is the most economically and/or financially attractive. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+35 
+ 
+ 
+Step 4: Common practice analysis  
+Complete an analysis of the extent to which the proposed project type (eg, technology or 
+practice) has already diffused in the relevant sector and applicable geographical area. This test is 
+a credibility check to demonstrate additionality and complements the barrier analysis (Step 2) 
+and, where applicable, the investment analysis (Step 3).  
+Provide an analysis of the extent to which similar activities to the proposed project activity have 
+been implemented previously or are currently underway. Similar activities are defined as activities 
+(ie, technologies or practices) that are of similar scale, take place in a comparable environment, 
+inter alia, with respect to the regulatory framework, and are undertaken in the applicable 
+geographical area as defined in Step 1a above. Other registered or validated GHG reduction 
+project activities are not to be included in this analysis. Provide documented evidence and, where 
+relevant, quantitative information. On the basis of that analysis, describe whether and to which 
+extent similar activities have already diffused in the applicable geographical area.  
+If similar activities to the proposed project activity are identified, then compare the proposed 
+project activity to the other similar activities and assess whether there are essential distinctions 
+between the proposed project activity and the similar activities. If this is the case, point out and 
+explain the essential distinctions between the proposed project activity and the similar activities 
+and explain why the similar activities enjoyed certain benefits that rendered them financially 
+Outcome of Step 3: Ranking of the short list of alternative baseline scenarios according to the 
+most suitable financial indicator, taking into account the results of the sensitivity analysis.  
+If the sensitivity analysis is not conclusive, then the alternative scenario to the project activity 
+with greatest GHG removals (or least emissions, in the case that all alternatives are net 
+emitters) over the crediting period among the alternative scenarios is considered as the 
+baseline scenario. If the sensitivity analysis confirms the result of the investment comparison 
+analysis, then the most economically or financially attractive alternative scenario is considered 
+as baseline scenario. 
+Note that the baseline scenario for a REDD project must result in a Land Use and Land Cover 
+change from a forested to an unforested state.  If at this stage the identified baseline scenario 
+does not include a Land Use and Land Cover change – for instance, if the area remains forest 
+used for timber production under the most likely baseline, than the project cannot be a REDD 
+project, although it is possible that it may be an IFM project, 
+If the alternative identified in step 3 as the baseline scenario is the proposed project activity 
+undertaken without being registered as a British Columbia GHG reduction activity, then the 
+project activity is not additional. Otherwise, proceed to Step 4. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+36 
+attractive (eg,, subsidies or other financial flows) and which the proposed project activity cannot 
+use or why the similar activities did not face barriers to which the proposed project activity is 
+subject. 
+Essential distinctions may include a serious change in circumstances under which the proposed 
+GHG reduction project activity will be implemented when compared to circumstances under which 
+similar projects were carried out.  For example, new barriers may have arisen, or promotional 
+policies may have ended, leading to a situation in which the proposed  GHG reduction project 
+activity would not be implemented without the incentive provided by registration of the activity as 
+a GHG reduction activity.  The change must be fundamental and verifiable. 
+The proposed project activity is regarded as “common practice” if similar activities can be 
+observed and essential distinctions between the proposed GHG reduction project activity and 
+similar activities cannot be identified. 
+ 
+7.1.3  
+Documentation Requirements 
+Documentation of the steps and process completed to determine the project’s baseline scenario, 
+must include elements identified in the steps above.  In addition to the information required in the 
+VCS project document and representations, these must include:  
+1. An assertion by the proponent that the baseline scenario will result in a conservative 
+estimate of the greenhouse gas reduction to be achieved by the project, considering: 
+i. 
+existing or proposed regulatory requirements relevant to any aspect of the 
+baseline scenario; 
+ii. 
+provincial or federal incentives relevant to any aspect of the baseline scenario, 
+including tax incentives or grants that may be available; 
+iii. 
+the financial implications of carrying out a course of action referred to in the 
+baseline scenario, and 
+iv. 
+any other factor relevant to justify the claim that the baseline scenario is 
+reasonably likely to occur if the project is not carried out; 
+Outcome of Step 4: If outcome of Step 4 is that the proposed project activity is not regarded 
+as “common practice”, then the proposed project activity is additional. 
+If outcome of Step 4 is that the proposed project activity is regarded as “common practice” 
+then the proposed project activity is not additional, unless it can be demonstrated that 
+material and lasting changes in conditions have occurred since similar projects were carried 
+out, which make it unlikely that further projects of this type would be implemented in the 
+absence of incentives for GHG benefits. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+37 
+2. An assertion by the proponent that there are financial, technological or other obstacles to 
+carrying out the project that are overcome or partially overcome by the incentives 
+resulting from  the greenhouse gas project , and a justification for the assertion (Steps 2 
+and 3); 
+3. An assertion by the proponent that the project start date is no earlier than November 29, 
+2007.

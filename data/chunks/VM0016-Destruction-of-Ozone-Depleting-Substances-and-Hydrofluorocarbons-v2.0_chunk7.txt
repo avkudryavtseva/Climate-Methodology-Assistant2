@@ -1,0 +1,127 @@
+6 BASELINE SCENARIO 
+The following steps must be applied to establish the baseline scenario. 
+6.1 
+Step 1: Define the Applicable Geographic Area 
+The default applicable geographic area is the entire host country. The project proponent may 
+choose to limit the applicable geographic area to a specific geographic area within the host 
+VM0016, v2.0 
+13 
+country. In this case, the project proponent must justify the essential distinctions between the 
+applicable geographic region and the rest of the host country that lead to different 
+implementation conditions specific to the project activity. Relevant factors are limited to: 
+1) Subsidies, policies, laws, or regulations 
+2) Infrastructure development and accessibility 
+6.2 
+Step 2: Define Alternative Scenarios to the Proposed Project Activity 
+The following alternative scenarios must be assessed, depending on the project activity. For 
+project activities including a combination of ODS and HFC refrigerants, blowing agents, fire 
+suppressants and/or aerosol propellants, the baseline scenario must be assessed for each of 
+the products included. 
+For ODS and HFC refrigerants, realistic and credible alternatives may include, amongst others: 
+R1: 
+The proposed project activity is undertaken without being registered under a GHG 
+program. 
+R2: 
+Products containing the refrigerant are disposed of at an incineration facility and 
+thereby ODS or HFC refrigerants are destroyed.  
+R3: 
+Products are disposed of at a landfill/dump with eventual atmospheric release of ODS 
+or HFC refrigerant. 
+R4: 
+Atmospheric release of ODS or HFC refrigerant with potentially partial capture and 
+destruction. 
+R5: 
+Atmospheric release of ODS or HFC refrigerant with potentially partial capture and 
+reuse in existing products or continued storage in stockpile. 
+For ODS and HFC blowing agents, realistic and credible alternatives may include, amongst others: 
+BA1: 
+The proposed project activity is undertaken without being registered under a GHG 
+program.   
+BA2: 
+Refrigerators containing foams (blowing agents) are disposed of at an incineration 
+facility and thereby ODS or HFC blowing agents are destroyed.  
+BA3: 
+Refrigerators containing foams (blowing agents) are disposed of at a landfill/dump 
+with eventual atmospheric release. 
+BA4: 
+Before final disposal, refrigerators containing foam are shredded or intact foam is 
+removed from refrigerators and shredded. The foams are subsequently disposed of at 
+a landfill/dump.  
+VM0016, v2.0 
+14 
+For ODS and HFC fire suppressants, realistic and credible alternatives may include, amongst 
+others: 
+ 
+ 
+For ODS and HFC aerosol propellants, realistic and credible alternatives may include, amongst 
+others: 
+6.3 
+Step 3: Check Consistency with Mandatory Applicable Laws and 
+Regulations 
+The project proponent must use Step 1b of the most recent version of VT0008 Additionality 
+Assessment to identify the alternative scenarios from Step 1a that comply with all mandatory 
+applicable legal and regulatory requirements within the applicable geographic region. 
+When applying this step, all relevant policies and regulations in the applicable geographic 
+region related to the management of ODS or HFC must be taken into account, including those 
+that may provide a financial incentive or include mandatory ODS or HFC capture or destruction 
+requirements. 
+Where ODS or HFC is recovered from products that have been imported specifically for their 
+disassembly (i.e., the products have not been collected in the host country), the products must 
+not originate from any country in which any law, statute or other regulatory framework requires 
+the recovery and destruction of the relevant ODS of HFC from such products. 
+Project proponents must provide the list of alternative scenarios to the project activity that 
+comply with mandatory legislation and regulations, considering enforcement in the applicable 
+geographic region, following Step 1b of VT0008. 
+FS1: 
+The proposed project activity is undertaken without being registered under a GHG 
+program.  
+FS2: 
+Fire suppression equipment is disposed of at a landfill/dump with eventual 
+atmospheric release of ODS or HFC fire suppression agent. 
+FS3: 
+Atmospheric release of ODS or HFC fire suppression agent with potentially partial 
+capture and destruction. 
+FS4: 
+Atmospheric release of ODS or HFC fire suppression agent with potentially partial 
+capture and reuse in existing products or continued storage in stockpile. 
+AP1: 
+The proposed project activity is undertaken without being registered under a GHG 
+program.  
+AP2: 
+Aerosol products containing propellant are disposed of at an incineration facility and 
+thereby ODS or HFC propellants are destroyed. 
+AP3: 
+Aerosol products containing propellant are landfilled with eventual atmospheric 
+release of ODS or HFC propellant. 
+AP4: 
+Atmospheric release of ODS or HFC aerosol propellants. 
+VM0016, v2.0 
+15 
+Where the proposed project activity is the only remaining alternative, the proposed project 
+activity is the baseline scenario. Otherwise, proceed to Section 6.4. 
+6.4 
+Step 4: Apply a Barrier Analysis 
+Project proponents must apply Step 2 (barrier analysis) of the most recent version of VT0008 
+Additionality Assessment to all remaining alternatives identified in Section 6.3. 
+If additionality is demonstrated through a positive list or an investment analysis (Section 7), 
+project proponents may exclude the project scenario itself and assess only the other remaining 
+alternatives. In this case, Step 2b and Step 2d of the barrier analysis4 in VT0008 are not 
+required. 
+Project proponents must provide a list of alternative scenarios that do not face any barrier. 
+Where the proposed project activity is the only remaining alternative, the proposed project 
+activity is the baseline scenario.  
+Otherwise, if the project is demonstrated to be additional, the baseline scenario is represented 
+by the remaining alternative (if only one remains) or by a combination of the remaining 
+alternatives (if multiple remain) consistent with step 5 below. 
+6.5 
+Step 5: Confirm Eligibility of Baseline Scenario 
+This methodology is only applicable for ODS or HFC where the baseline scenario is one or a 
+combination of the following: 
+• 
+Refrigerants: R3, R4, R5, or a combination of these 
+• 
+Blowing agents: BA3, BA4, or a combination of these 
+• 
+Fire suppressants: FS2, FS3, FS4, or a combination of these 
+• 
+Aerosol propellants: AP3, AP4, or a combination of these

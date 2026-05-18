@@ -1,0 +1,14 @@
+1  
+SOURCES  
+This methodology uses the latest version of the following module: 
+ 
+VMD0049 Activity Method for Determining Additionality of Electric Vehicle Charging 
+Systems 
+This methodology used the latest version the following tools: 
+ 
+CDM methodological tool Demonstration of additionality of small-scale project activities 
+ 
+CDM methodological Tool for the demonstration and assessment of additionality 
+This methodology is based upon approaches used in the following methodology: 
+ 
+CDM methodology AMS-III.C. Emission Reductions by Electric and Hybrid Vehicles1.

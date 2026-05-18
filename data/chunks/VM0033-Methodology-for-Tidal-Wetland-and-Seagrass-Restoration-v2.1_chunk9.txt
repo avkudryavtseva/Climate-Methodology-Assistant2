@@ -1,0 +1,2504 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data / Parameter 
+Depthpeat,i,t0 
+Data unit 
+m 
+Description 
+Average organic soil depth above the drainage limit in stratum i 
+at the project start date; m 
+Equations 
+1, 8, 9 
+Source of data 
+Existing peat depth maps and/or field assessment and/or in 
+combination with remote sensing data. Literature involving the 
+project area or similar areas. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Organic soil depths at the project start date may be derived from: 
+• Existing peat depth maps 
+• Surface height measurements relative to a fixed reference 
+point in m a.s.l. (e.g., using poles fixed in the underlying 
+mineral soil or rock) within the project area; where 
+relevant in combination with gauge measurement of the 
+water table to determine the drainage limit 
+For the purpose of determining the PDT, where relevant, peat 
+depth may be determined as the depth of the peat layer down to 
+a level where no further oxidation or other losses occur (e.g., the 
+average water table depth). 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation of the maximum quantity of GHG emission reductions 
+that may be claimed by the project 
+Comments 
+Reassessed when baseline is reassessed 
+ 
+VM0033, v2.1 
+66 
+In the absence of peer-reviewed data sources, the project 
+proponent must justify that the data used are representative and 
+that standard methods have been used. 
+ 
+Data / Parameter 
+Ratepeatloss-BSL,i 
+Data unit 
+m yr-1 
+Description 
+Rate of organic soil loss due to subsidence and fire in the 
+baseline scenario in stratum i; a conservative (high) value must 
+be applied that remains constant over the time from t = 0 to PDT 
+Equations 
+1, 8, 14 
+Source of data 
+The rate of organic soil loss due to subsidence must be based on 
+verifiable information and may be derived from: 
+1) Expert judgment, datasets and/or literature of historic 
+subsidence involving the project or similar areas. Data must be 
+based on surface height measurements relative to a fixed 
+reference point in m asl, following methods described in Ballhorn 
+et al. 2009 (e.g., using poles fixed in the underlying mineral soil 
+or rock, or by remote sensing) or similar.  
+Or 
+2) CO2 emissions derived from GHG emission proxies (see 
+Section 8.1.4.2.1 above) in combination with data on volumetric 
+carbon content of the organic soil. Divide the annual CO2 
+emission (t CO2 ha-1) by 44/12, then divide by volumetric carbon 
+content (g C cm-3) to obtain height loss in m. 
+The average depth of burn scars may be derived from expert 
+judgment, datasets and/or literature of historic burn depths 
+involving the project or similar areas. Data must be based on 
+surface height measurements, using field measurements or 
+remote sensing (e.g., following methods described in Ballhorn et 
+al. 2009). The areal extent of burn scars may be obtained from 
+statistics and/or maps in official reports and/or field 
+measurements or remote sensing data. 
+For organic soil loss due to fire, based on the areal extent of 
+burnt and non-burnt areas, a mean annualized burn depth must 
+be calculated and applied to the entire project area. 
+The project proponent must demonstrate, using expert judgment, 
+datasets and/or scientific literature that the accuracy of the 
+ 
+VM0033, v2.1 
+67 
+derived rate of organic soil loss is sufficient to fulfill the criteria in 
+Section 5.2.2 (Stratification). 
+Similarity of areas must be demonstrated (via direct 
+measurements, literature resources, datasets or a combination 
+of these) with respect to organic soil type, climatic conditions, 
+land use (forestry, agriculture, peat extraction, or abandonment 
+after these activities), and average annual water table depth 
+(±20%). In case of dissimilarity, the project proponent must 
+demonstrate that such difference gives a conservative result for 
+the net GHG benefits of the project. Forecasting organic soil 
+subsidence rates must be based on the conservative 
+extrapolation of a historic trend, or conservative modeling of 
+proxies such as water table depth and land use type. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of the maximum quantity of GHG emission reductions 
+that may be claimed by the project 
+Comments 
+In the absence of an accurate value for the determination of PDT, 
+a conservative (high) value may be applied, while for the 
+determination of the maximum quantity of GHG emission 
+reductions which may be claimed from the soil carbon pool, a 
+conservative (low) value may be applied that remains constant 
+over time. 
+The use of a relatively low value for a constant rate of organic soil 
+loss may not be confused with a relatively high value when 
+determining the need for stratification of organic soil depth. 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+Ratepeatloss-WPS,i,t 
+Data unit 
+m yr-1 
+Description 
+Rate of organic soil loss due to subsidence in the project 
+scenario in stratum i in year t 
+Equations 
+9 
+ 
+VM0033, v2.1 
+68 
+Source of data 
+The rate of organic soil loss due to subsidence must be based on 
+verifiable information and may be derived from: 
+1) Expert judgment, datasets and/or literature of subsidence 
+involving areas representing conditions similar to the project. 
+Data must be based on surface height measurements relative to 
+a fixed reference point in m asl, following methods described in 
+Ballhorn et al. 2009 (e.g., using poles fixed in the underlying 
+mineral soil or rock, or by remote sensing or similar). 
+Or 
+2) CO2 emissions derived from GHG emission proxies, see 
+Section 8.1.4.2.1 above, in combination with data on volumetric 
+carbon content of the organic soil. Divide the annual CO2 
+emission (t CO2 ha-1) by 44/12, then divide by volumetric carbon 
+content (g C cm-3) to obtain height loss in m. 
+The project proponent must demonstrate, using expert judgment, 
+datasets and/or scientific literature that the accuracy of the 
+derived rate of organic soil loss is sufficient to fulfill the criteria in 
+Section 5.2.2 (Stratification). 
+Similarity of areas must be demonstrated (by direct 
+measurements, literature resources, datasets or a combination 
+of these) with respect to organic soil type, climatic conditions, 
+land use (forestry, agriculture, peat extraction, or abandonment 
+after these activities), and average annual water table depth 
+(±20%). In case of dissimilarity, the project proponent must 
+demonstrate that such difference gives a conservative result for 
+the net GHG benefits of the project. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of project emissions 
+• 
+Calculation of the maximum quantity of GHG emission 
+reductions that may be claimed by the project 
+Comments 
+N/A 
+ 
+Data / Parameter 
+RateCloss-BSL,i,t 
+ 
+VM0033, v2.1 
+69 
+Data unit 
+t C ha-1 yr-1 
+Description 
+Rate of organic carbon loss in mineral soil due to oxidation in the 
+baseline scenario in stratum i in year t  
+Rate of soil organic carbon loss due to oxidation in the baseline 
+scenario in stratum i; a conservative (high) value must be applied 
+that remains constant over the time from t = 0 to SDT 
+Equations 
+1, 1.0, 16 
+Source of data 
+May be estimated using published values (see Sections 8.1.4.1 
+and 8.1.4.2.2) or either historical data collected from the project 
+site or chronosequence data collected at similar sites (see 
+Sections 8.1.4.1 and 8.1.4.2.6).  
+Alternatively, a conservative (low) value may be applied that 
+remains constant over time. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Extrapolation of RateCloss-BSL,i over the entire project crediting 
+period for the quantification of the SDT must account for the 
+possibility of a non-linear decrease of soil organic carbon over 
+time, including the tendency of organic carbon concentrations to 
+approach steady-state equilibrium (see Section Error! Reference 
+source not found.). For this reason, a complete loss of soil 
+organic carbon may not occur in mineral soils. This steady-state 
+equilibrium must be determined conservatively. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of the maximum quantity of GHG emission reductions 
+that may be claimed by the project 
+Comments 
+In the absence of an accurate value for the determination of the 
+SDT, a conservative (high) value may be applied, while for the 
+determination of the maximum quantity of GHG emission 
+reductions which may be claimed from the soil carbon pool, a 
+conservative (low) value may be applied that remains constant 
+over time. 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+RateCloss-WPS,i,t 
+Data unit 
+t C ha-1 yr-1 
+ 
+VM0033, v2.1 
+70 
+Description 
+Rate of organic carbon loss in mineral soil due to oxidation in the 
+project scenario in stratum i in year t 
+Equations 
+17 
+Source of data 
+N/A 
+Value applied 
+0 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This value is conservatively set to zero as loss rates are likely to 
+be negative. The value must be reassessed when the baseline is 
+reassessed. If at that event there is evidence that SOC has 
+decreased, the calculation must be adjusted using the carbon 
+loss rate to date, unless it can be justified that the carbon loss 
+was temporary. 
+ Purpose of Data 
+Calculation of project emissions 
+Calculation of the maximum quantity of GHG emission reductions 
+that may be claimed by the project 
+Comments 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+ΔCTREE_BSL,t 
+Data unit 
+t CO2-e yr-1 
+Description 
+Change in carbon stock in baseline tree biomass within the 
+project area in year t 
+Equations 
+24 
+Source of data 
+Derived from application of AR-Tool14 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Calculations are done for each stratum i 
+Reassessed when baseline is reassessed 
+ 
+ 
+VM0033, v2.1 
+71 
+Data / Parameter 
+Ratesubs-BSL,i 
+Data unit 
+m yr-1 
+Description 
+Rate of organic soil loss due to subsidence in the baseline 
+scenario in stratum i 
+Equations 
+32 
+Source of data 
+The rate of organic soil loss due to subsidence must be based on 
+verifiable information and may be derived from: 
+1) Expert judgment, datasets and/or literature of historic 
+subsidence involving the project or similar areas. Data must be 
+based on surface height measurements relative to a fixed 
+reference point in m asl, following methods described in Ballhorn 
+et al. 2009 (e.g., using poles fixed in the underlying mineral soil 
+or rock, or by remote sensing) or similar.  
+ Or 
+2) CO2 emissions derived from GHG emission proxies, see 
+Section 8.1.4.2.1 above, in combination with data on volumetric 
+carbon content of the organic soil. Divide the annual CO2 
+emission (t CO2 ha-1) by 44/12, then divide by volumetric carbon 
+content (g C cm-3) to obtain height loss in m. 
+The average depth of burn scars may be derived from expert 
+judgment, datasets and/or literature of historic burn depths 
+involving the project or similar areas. Data must be based on 
+surface height measurements, using field measurements or 
+remote sensing (e.g., following methods described in Ballhorn et 
+al. 2009). The areal extent of burn scars may be obtained from 
+statistics and/or maps in official reports and/or field 
+measurements or remote sensing data. 
+The project proponent must demonstrate, using expert judgment, 
+datasets and/or scientific literature that the accuracy of the 
+derived rate of organic soil loss is sufficient to fulfill the criteria in 
+Section 5.2.2 (Stratification). 
+Similarity of areas must be demonstrated (via direct 
+measurements, literature resources, datasets or a combination 
+of these) with respect to organic soil type, climatic conditions, 
+land use (forestry, agriculture, peat extraction, or abandonment 
+after these activities), and average annual water table depth 
+(±20%). In case of dissimilarity, the project proponent must 
+demonstrate that such difference gives a conservative result for 
+the net GHG benefits of the project. Forecasting organic soil 
+ 
+VM0033, v2.1 
+72 
+subsidence rates must be based on the conservative 
+extrapolation of a historic trend, or conservative modeling of 
+proxies such as water table depth and land use type. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above and Couwenberg & Hooijer (2013). 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+In the absence of an accurate value, for the determination of 
+subsidence a conservative (low) value may be applied. 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+CBSL-soil,i,t 
+Data unit 
+t C ha-1 
+Description 
+Soil organic carbon stock in the baseline scenario in stratum i in 
+year t 
+Equations 
+28, 29, (36) 
+Source of data 
+Estimated using methods described in Section 8.1.4.1 
+Soil coring may be used to generate a value of CBSL-soil,i,t as 
+specified in Section 9.3.7  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+For the baseline scenario, soil cores must be collected within 2 
+years prior to the project start date. Where using an installed 
+reference plane for the baseline scenario, it must have been 
+installed at least 4 years prior to the baseline measurement, 
+which is good practice to ensure that a reliable average 
+accumulation rate is obtained. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+Depthsoil,i,t0 
+ 
+VM0033, v2.1 
+73 
+Data unit 
+m 
+Description 
+Mineral soil depth in stratum i at the project start date 
+Equations 
+12 
+Source of data 
+Direct measurements and/or literature involving the project area 
+or similar areas 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Mineral soil depths at the project start date may be derived from 
+direct measurements within the project area or literature 
+involving the project area or similar areas 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of the maximum quantity of GHG emission reductions 
+that may be claimed by the project 
+Comments 
+In the absence of peer-reviewed data sources, the project 
+proponent must justify that the data used are representative and 
+that standard methods have been used. 
+ 
+Data / Parameter 
+VC 
+Data unit 
+kg C m-3 
+Description 
+Volumetric organic carbon content of organic or mineral soil 
+Equations 
+6, 7 12, 14 – 17, 32 
+Source of data 
+Direct measurements and/or literature involving the project area 
+or similar areas 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Determined through procedures specified in Section 9.3.7 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions  
+• 
+Calculation of the maximum quantity of GHG emission 
+reductions that may be claimed by the project 
+ 
+VM0033, v2.1 
+74 
+Comments 
+ 
+ 
+Data / Parameter 
+ABSL,i (or Ai,t) 
+Data unit 
+ha 
+Description 
+Area of baseline stratum i (in year t) 
+Equations 
+4,13, 26, (79), 82, 83 
+Source of data 
+Delineation of strata is done preferably using a Geographical 
+Information System (GIS), which allows for integrating data from 
+different sources (including GPS coordinates and remote sensing 
+data). 
+Applied techniques must follow international standards of 
+application or local standards as laid out in pertinent scientific 
+literature or handbooks. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+CBSL-herb,i,t 
+Data unit 
+t C ha-1 
+Description 
+Carbon stock in herbaceous vegetation in the baseline scenario 
+in stratum i in year t 
+Equations 
+25 
+Source of data 
+Direct measurements or default factor 
+Value applied 
+N/A 
+ 
+VM0033, v2.1 
+75 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default factor32 of 3 t C ha-1 may be applied for strata with 
+100% herbaceous cover. For areas with a vegetation cover 
+<100%, a 1:1 relationship between vegetation cover and CBSL,-
+herb,i,t must be applied. The default may be claimed for one year 
+only during the project crediting period as herbaceous biomass 
+quickly reaches a steady state.  
+Vegetation cover must be determined by commonly used 
+techniques in field biology. 
+Procedures for measuring carbons stocks in herbaceous 
+vegetation are provided in Section 9.3.6 above. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Reassessed when baseline is reassessed 
+ 
+Data / Parameter 
+GHGBSL-insitu-CO2,i,t 
+Data unit 
+t CO2e ha-1 yr-1 
+Description 
+CO2 emissions from the SOC pool of in-situ soils in the baseline 
+scenario in stratum i in year t 
+Equations 
+27, 28, 34, (37), 38 
+Source of data 
+Estimated using methods described in Section 8.1.4.2 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+C%BSL-emitted,i,t 
+ 
+32 Calculated from peak aboveground biomass data from 20 sites summarized in Mitsch & Gosselink. The median of these 
+studies is 1.3 t d.m. ha-1. This was converted to the default factor value as follows: 1.3 × 0.45 × 0.5 × 10. The factor 0.45 
+converts organic matter mass to carbon mass; the factor 0.5 is a factor that averages annual peak biomass (factor = 1) and 
+annual minimum biomass (factor = 0, assuming ephemeral aboveground biomass and complete litter decomposition. 
+ 
+VM0033, v2.1 
+76 
+Data unit 
+% 
+Description 
+Organic carbon loss due to oxidation, as a percentage of C mass 
+present in in-situ soil material in the baseline scenario in stratum 
+i in year t (Section 8.1.4.2) 
+Organic carbon loss due to oxidation, as a percentage of C mass 
+present in eroded soil material in the baseline scenario in 
+stratum i in year t (Section 8.1.4.3)  
+Organic carbon loss due to oxidation, as a percentage of C mass 
+present in excavated soil material in the baseline scenario in 
+stratum i in year t (Section 8.1.4.4) 
+Equations 
+28, (48), (51)-  (57) 
+Source of data 
+Estimated using methods described in Sections 8.1.4.2, 8.1.4.3 
+and 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The default factors provided in Section 8.1.4.3.3 are the mean 
+values for the specified CPDE, published in Figure 9 of Blair and 
+Aller (2012). 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+C%BSL-emitted,i,t  and RateCloss-BSL,i,t in Section 5.2.4 are different 
+parameters with different units but relating to the same process 
+of soil organic carbon loss. 
+ 
+Data / Parameter 
+C%BSL-soil,i,t 
+Data unit 
+% 
+Description 
+Percentage of carbon of in-situ soil material in stratum i in year t 
+Equations 
+29, 34 
+Source of data 
+Estimated using methods described in Sections 8.1.4.2, 8.1.4.3 
+and 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+77 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Depth_iBSL,i,t 
+Data unit 
+m 
+Description 
+Depth of in-situ exposed soil in the baseline scenario in stratum i 
+in year t 
+Equations 
+29 
+Source of data 
+Estimated using commonly accepted procedures by the scientific 
+community and taking note of requirements in Section 8.1.4.2 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Crown cover, vegetation cover 
+Data unit 
+% 
+Description 
+Proportion of an area covered by the herbaceous vegetation, 
+shrubs, and/or the crowns of live trees 
+Equations 
+N/A  
+Source of data 
+For the baseline scenario, crown or vegetation covers must be 
+based on a time series of vegetation composition. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+See Source of data above 
+ 
+VM0033, v2.1 
+78 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+Relevant for the application of the default factor in Section 
+8.1.4.2 
+ 
+Data / Parameter 
+%OM (or %OMsoil) 
+Data unit 
+% 
+Description 
+Percentage of soil that is organic matter 
+Equations 
+41, (43), 45, 94 - 97 
+Source of data 
+Direct measurements based on loss-on-ignition or may be 
+derived from direct measurements of soil carbon. These 
+measurements may be made using samples collected in Section 
+9.3.7 or indirectly from the soil carbon percentage as described 
+in Section 8.1.4.2.7. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The equations provided were developed for tidal marsh soils by 
+Craft et al. 1991 and for mangrove soils by Kauffman et al. 
+2011, and for seagrass soils by Fourqurean et al. 2012, as 
+summarized in Howard et al. 2014 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+%Csoil 
+Data unit 
+% 
+Description 
+Percentage of soil organic C 
+Equations 
+(39), (43), 45 
+Source of data 
+Direct measurements or may be derived from direct 
+measurements of soil organic matter. These measurements may 
+be made using samples collected in Section 9.3.7 or indirectly 
+ 
+VM0033, v2.1 
+79 
+from the soil organic matter percentage determined through loss- 
+on-ignition as described in Section 9.3.6. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+BD 
+Data unit 
+kg m-3 
+Description 
+Dry bulk density 
+Equations 
+29, (49),  
+(57), 100 
+Source of data 
+Direct measurements, or from a relationship with organic carbon 
+content provided by the scientific literature. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Mass of soil material after drying per volume of soil material, 
+based on commonly accepted procedures by the scientific 
+community. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+%OMdepsed 
+Data unit 
+% 
+Description 
+Percentage of deposited sediment that is organic matter 
+ 
+VM0033, v2.1 
+80 
+Equations 
+ 
+(40), 44, (46) 
+Source of data 
+May be estimated directly using loss-on-ignition (LOI) data, indirectly 
+from soil carbon percentage as described in Section 8.1.4.2.7, or 
+from the default value provided in Section 8.1.4.2.7. 
+These measurements may be made using samples collected on 
+sediment tiles or through collection and carbon analysis (see 
+Section 9.3.7) of suspended sediments in tidal channels or 
+sediments deposits in tidal flats. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+LOI may be assessed using standard laboratory procedures 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+%Cdepsed 
+Data unit 
+% 
+Description 
+Percentage of deposited sediment that is organic C; % 
+Equations 
+44, (46), (47) 
+Source of data 
+May be estimated directly using loss-on-ignition (LOI) data or 
+indirectly from soil carbon percentage as described in Section 
+8.1.4.2.7. 
+ 
+These measurements may be made using samples collected on 
+sediment tiles or through collection and carbon analysis (see 
+Section 9.3.7) of suspended sediments in tidal channels or 
+sediments deposits in tidal flats. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+The default factor is derived from the maximum value 
+(conservative) provided by Mayer 1994 Figure 4 
+ 
+VM0033, v2.1 
+81 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+SA 
+Data unit 
+m2g-1 
+Description 
+Average Surface Area of the sediment 
+Equations 
+(47) 
+Source of data 
+Laboratory procedures described in Mayer 1994 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+GHGBSL-eroded-CO2,i,t 
+Data unit 
+t CO2e ha-1 yr-1 
+Description 
+CO2 emissions from the eroded SOC pool in the baseline scenario 
+in stratum i in year t 
+Equations 
+27, (48), (50) 
+Source of data 
+Estimated using methods described in Section 8.1.4.3 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+82 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+CBSL-eroded,i,t 
+Data unit 
+t C ha-1 yr-1 
+Description 
+C mass present in eroded soil material in the baseline scenario 
+in stratum i in year t 
+Equations 
+(48), (49) 
+Source of data 
+Estimated using methods described in Section 8.1.4.3 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+C%BSL-eroded,i,t 
+Data unit 
+% 
+Description 
+Percentage of carbon of soil material eroded in the baseline 
+scenario 
+Equations 
+(49) 
+Source of data 
+Estimated using methods described in Section 8.1.4.3 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+83 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Depth_eBSL,i,t 
+Data unit 
+m 
+Description 
+Depth of the eroded area from the surface to the surface prior to 
+erosion in the baseline scenario in stratum i in year t 
+Equations 
+(49) 
+Source of data 
+Estimated using methods described in Section 8.1.4.3 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions  
+Comments 
+N/A 
+ 
+Data / Parameter 
+GHGBSL-excav-CO2,i,t 
+Data unit 
+t CO2e ha-1 yr-1 
+Description 
+CO2 emissions from the SOC pool of tidal wetland soil exposed to 
+an aerobic environment in the baseline scenario in stratum i in 
+year t 
+Equations 
+27,  (56), 
+(58) 
+Source of data 
+Estimated using methods described in Section 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+84 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+CBSL-excav,i,t 
+Data unit 
+t C ha-1 yr-1 
+Description 
+Soil organic carbon stock in tidal wetland soil exposed to an 
+aerobic environment through excavation in the baseline scenario 
+in stratum i in year t 
+Equations 
+ 
+(56),  
+(57) 
+Source of data 
+Estimated using methods described in Section 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+C%BSL-excav,i,t 
+Data unit 
+% 
+Description 
+Percentage of carbon of soil material excavated in the baseline 
+scenario 
+Equations 
+ 
+(57) 
+Source of data 
+Estimated using methods described in Section 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+85 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Depth_exBSL,i,t 
+Data unit 
+m 
+Description 
+Depth of piled-up soil material due to excavation in the baseline 
+scenario in stratum i in year t 
+Equations 
+ 
+(57) 
+Source of data 
+Estimated using methods described in Section 8.1.4.4 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+Calculation of baseline emissions  
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFN2O,burn 
+Data unit 
+g N2O / kg dry biomass 
+Description 
+Emission factor for N2O emissions from vegetation burning 
+Equations 
+82 
+Source of data 
+The project proponent may use factors that have been 
+determined for grassland vegetation. A suitable EFN2O value is 
+0.21, from Table 2.5 of the 2006 IPCC Guidelines for National 
+Greenhouse Inventories. 
+Value applied 
+N/A 
+ 
+VM0033, v2.1 
+86 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Nitrous oxide emission factors for the combustion of herbaceous 
+wetland vegetation are not currently available in scientific 
+literature. However, these emissions are expected to be similar to 
+those for grassland vegetation. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFCH4,burn 
+Data unit 
+g CH4 / kg dry biomass 
+Description 
+Emission factor for CH4 emissions from vegetation burning 
+Equations 
+83 
+Source of data 
+The project proponent may use factors that have been 
+determined for grassland vegetation. A suitable EFCH4 value is 
+2.3, from Table 2.5 of the 2006 IPCC Guidelines for National 
+Greenhouse Inventories.  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Methane emission factors for the combustion of herbaceous 
+wetland vegetation are not currently available in scientific 
+literature. However, these emissions are expected to be similar to 
+those for grassland vegetation. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+allowable_uncert 
+Data unit 
+% 
+Description 
+Allowable uncertainty; 20% or 30% at a 90% or 95% confidence 
+level, respectively 
+Equations 
+(93) 
+Source of data 
+N/A 
+ 
+VM0033, v2.1 
+87 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of net GHG emissions reductions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Vex,ty,i,t 
+Data unit 
+m3 
+Description 
+Volume of timber extracted from within stratum i (does not 
+include slash left onsite) by species j and wood product class ty 
+in year t  
+Equations 
+103 
+Source of data 
+Data representing common practice in harvesting 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This volume does not include logging slash left onsite. The 
+project proponent should also make sure that extracted volumes 
+are gross volumes removed (i.e., not already discounting for 
+estimated wood waste). Assignment of volume extracted to wood 
+product class(es), must be substantiated on the basis of 
+participatory rural appraisal (PRA) findings or records of timber 
+sales. Assignment of volume extracted to species, must be 
+substantiated on the basis of either PRA findings, harvest 
+records, or a commercial inventory. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Dj 
+Data unit 
+t d.m. m-3 
+Description 
+Basic wood density in t d.m. m-3 for species j 
+ 
+VM0033, v2.1 
+88 
+Equations 
+103 
+Source of data 
+The source of data shall be chosen with priority from higher to 
+lower preference as follows: 
+(a) National species-specific or group of species-specific (e.g., 
+from National GHG inventory); 
+(b) Species-specific or group of species-specific from neighboring 
+countries with similar conditions. Sometimes (b) may be 
+preferable to (a); 
+(c) Global species-specific or group of species-specific (e.g., IPCC 
+2006 INV GLs AFOLU Chapter 4 Tables 4.13 and 4.14). 
+Species-specific wood densities may not always be available, and 
+may be difficult to apply with certainty in the typically species 
+rich forests of the humid tropics, hence it is acceptable practice 
+to use wood densities developed for forest types or plant families 
+or species groups. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Where using wood densities developed outside of the project 
+country (cases (b) and (c) above under Source of data), wood 
+densities must be validated with either limited destructive 
+sampling or direct measurement of wood hardness (e.g., with a 
+Pilodyn wood tester) in the field and correlating with wood 
+density. Samples or measurements should be from 20-30 trees. 
+For validation of mean forest type or species group wood 
+densities, representation of species in the sample should be 
+proportional to their occurrence in terms of basal area or volume 
+in the project area (not abundance or stem density). Samples 
+should provide representation across the length of the tree. 
+Wood samples are cut in discs and thickness and diameter 
+measured to calculate green volume. Samples are oven dried 
+(105o C) to a constant weight in the laboratory, and density 
+calculated as dry weight (g) per unit green volume (cm3).  
+If the density of the samples/measurements (or mean density in 
+the case of forest type or species group means) is within ±10% of 
+the selected density values, then the selected density values may 
+be used. Otherwise, a new density value must be developed with 
+more extensive sampling, using the validation samples as a 
+base. 
+Where new species are encountered in the course of monitoring, 
+new wood density values must be sourced from the literature and 
+ 
+VM0033, v2.1 
+89 
+validated, if necessary, as per requirements and procedures 
+above. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+CFj 
+Data unit 
+t C t-1 d.m. 
+Description 
+Carbon fraction of dry matter in t C t-1 d.m. for species j 
+Equations 
+103 
+Source of data 
+Species- or family-specific values from the literature (e.g., IPCC 
+2006 INV GLs AFOLU Chapter 4 Table 4.3) shall be used if 
+available, otherwise default value of 0.47 t C t-1 d.m. can be 
+used. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+SLFty 
+Data unit 
+Dimensionless 
+Description 
+Fraction of wood products that will be emitted to the atmosphere 
+within 5 years of production by class of wood product ty 
+Equations 
+104 
+Source of data 
+The source of data is the published paper of Winjum et al. 
+199833 
+ 
+33 Winjum, J.K., Brown, S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks of atmospheric 
+carbon dioxide. Forest Science 44: 272-284 
+ 
+VM0033, v2.1 
+90 
+Value applied 
+Winjum et al. 1998 give the following proportions for wood 
+products with short-term (<5 yr) uses after which they are retired 
+and oxidized (applicable internationally): 
+Sawnwood 
+ 
+ 
+ 
+0.2 
+Woodbase panels 
+ 
+ 
+0.1 
+Other industrial roundwood 
+ 
+0.3 
+Paper and Paperboard  
+ 
+0.4 
+The methodology makes the assumption that all other classes of 
+wood products, and where wood product class ty is unknown, are 
+100% oxidized within 5 years. 
+Therefore SLF, by wood product class, is equal to: 
+Wood Product Class 
+SLF 
+Sawnwood 
+0.2 
+Woodbase panels 
+0.1 
+Other industrial roundwood 
+0.3 
+Paper and paperboard 
+0.4 
+Other classes of wood 
+products 
+1.0 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Parameter values to be updated if new empirically-based peer-
+reviewed findings become available. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+OFty 
+Data unit 
+Dimensionless 
+Description 
+OF = Fraction of wood products that will be emitted to the 
+atmosphere between 5 and 100 years after production by class 
+of wood product ty 
+Equations 
+104 
+ 
+VM0033, v2.1 
+91 
+Source of data 
+The source of data is the published paper of Winjum et al. 
+199834 
+Value applied 
+Winjum et al. 1998 gives annual oxidation fractions for each 
+class of wood products split by forest region (boreal, temperate 
+and tropical). This methodology projects these fractions over 95 
+years to give the additional proportion (OF value) that is oxidized 
+between the 5th and 100th years after initial harvest: 
+Wood Product Class 
+OF 
+Boreal 
+Temperate 
+Tropical 
+Sawnwood 
+0.36 
+0.60 
+0.84 
+Woodbase panels 
+0.60 
+0.84 
+0.97 
+Other industrial 
+roundwood 
+0.84 
+0.97 
+0.99 
+Paper and 
+paperboard 
+0.36 
+0.60 
+0.99 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Parameter values to be updated if new empirically-based peer-
+reviewed findings become available. Every 10 years, project 
+proponents should review research findings to identify further 
+refinements to the emission factors that are empirically-based 
+and peer-reviewed. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+BCEF 
+Data unit 
+Dimensionless 
+Description 
+Biomass conversion and expansion factor for conversion of 
+commercial wood volume per unit area to total aboveground tree 
+biomass per unit area; note that BCEF as defined here, and in 
+most applications, is not applied on a per stem basis 
+Equations 
+104 
+Source of data 
+Equations must have been derived using a wide range of 
+measured variables (commercial wood volume per unit area and 
+total aboveground biomass per unit area) based on datasets that 
+ 
+34 Winjum, J.K., Brown, S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks of atmospheric 
+carbon dioxide. Forest Science 44: 272-284 
+ 
+VM0033, v2.1 
+92 
+comprise at least 30 trees. Equations must be based on 
+statistically significant regressions and must have an r2 that is ≥ 
+0.8. 
+The source of data shall be chosen with priority from higher to 
+lower preference as follows: 
+(a) Existing local forest type-specific; 
+(b) National forest type-specific or eco-region-specific (e.g., from 
+national GHG inventory); 
+(c) Forest type-specific or eco-region-specific from neighboring 
+countries with similar conditions. Sometimes (c) might be 
+preferable to (b); 
+(d) Global forest type or eco-region-specific (e.g., IPCC 2006 INV 
+GLs AFOLU Chapter 4 Table 4.5) 
+The project volume data to which the selected BCEF is applied 
+must conform to the data the BCEF was originally derived from, 
+in particular, it must match forest type, stand structure, minimum 
+DBH, and cover the range of potential independent variable 
+values (commercial volumes) likely to be encountered in the 
+project area. 
+Care must be taken to ensure that the selected BCEF does not 
+account for non-commercial species not represented in 
+commercial volume estimates (i.e., is restricted to expanding 
+merchantable volumes to account for only non-merchantable tree 
+components). 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Alternatively, BCEF, where not directly available, can be 
+calculated as wood density (t dry mass m-3 green volume) × BEF 
+(Biomass Expansion Factor = ratio of aboveground biomass to 
+biomass of the commercial volume). 
+If using BCEFs developed outside the project country (cases (c) 
+and (d) above under Source of data), it is necessary to validate 
+the applicability of BCEFs used. Validation is performed by: 
+1. Limited Measurements 
+Select at least 20 plots in the project area covering a wide range 
+of commercial volumes. 
+Obtain tree measurements (e.g. DBH, height to a 10 cm diameter 
+top) from which to calculate commercial volume and total 
+biomass. 
+Calculate commercial volume per unit area (e.g. using Smalian’s 
+formula) and total biomass per unit area (using the biomass 
+ 
+VM0033, v2.1 
+93 
+equation(s) selected for application in CP-AB) for each plot 
+Calculate BCEF for each plot (biomass (t) / commercial volume 
+(m3) 
+Graph the plot-level estimates of BCEF versus commercial 
+volume along with the BCEF equation (predicted) to be validated. 
+If the estimated BCEFs of the measured plots are distributed 
+both above and below the predicted value the BCEF equation 
+may be used. The BCEF equation may also be used if the 
+measured plots have a BCEF consistently lower than that 
+predicted. If graphing the BCEF of the measured plots indicates a 
+systematic bias to overestimation of BCEF (>75% of the plots 
+below the predicted value) then another BCEF equation must be 
+selected or developed anew. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Pcomi,t 
+Data unit 
+Dimensionless 
+Description 
+Commercial volume as a percent of total aboveground volume in 
+stratum i in year t 
+Equations 
+104 
+Source of data 
+The source of data shall be chosen with priority from higher to 
+lower preference as follows: 
+(a) Direct forest inventory of the project area, distinguishing 
+commercially viable stocks on the basis of species and tree size, 
+referencing local expert knowledge or a participatory rural 
+assessment (PRA) of harvest practices and markets; 
+(b) Forest inventory from a proxy area in the same region, 
+representing the same forest type and age class, distinguishing 
+commercially viable stocks on the basis of species and tree size, 
+referencing local expert knowledge of harvest practices and 
+markets National and forest type-specific or eco-region-specific 
+(e.g., from National GHG inventory). 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+94 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+CH4-GWP 
+Data unit 
+Dimensionless 
+Description 
+Global Warming Potential of CH4 
+Equations 
+ 
+(59)–  
+(61), 83, 101 
+Source of data 
+IPCC 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+N2O-GWP 
+Data unit 
+Dimensionless 
+Description 
+Global Warming Potential of N2O 
+Equations 
+ 
+(62)- 68, 82, 102 
+Source of data 
+IPCC 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+N/A 
+ 
+VM0033, v2.1 
+95 
+measurement methods 
+and procedures applied 
+ Purpose of Data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+9.2 
+Data and Parameters Monitored  
+For all equations used for the calculation of baseline emissions where the subscript BSL is used, 
+these must be substituted by WPS and applied to the project scenario. For data and 
+parameters used for the calculation of baseline emissions listed in Section Error! Reference 
+source not found. above that are also monitored in the project scenario, the frequency of 
+monitoring/recording is at each monitoring period, and QA/QC procedures to be applied are 
+provided in Section 9.3.2. 
+Data / Parameter: 
+Biomassi,t 
+Data unit: 
+kg d.m. ha-1 
+Description: 
+Aboveground shrub biomass in stratum i in year t 
+Equations 
+81, 82 
+Source of data: 
+Measured using field collected data at time of burning or 
+conservatively estimated from data collected during a period with 
+greater biomass within year t 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+This value may be obtained from BSHRUB,i,t in AR-Tool14 where 
+BSHRUB,i,t (shrub biomass per hectare in shrub biomass stratum i 
+at a given point of time in year t; t d.m. ha-1) is quantified. 
+Convert from t d.m. ha-1 to kg d.m. ha-1. 
+Frequency of 
+monitoring/recording: 
+One-time measurement for each burn event 
+QA/QC procedures to be 
+applied: 
+See Section 9.3.2 
+Purpose of data: 
+Calculation of project emissions  
+Calculation method: 
+N/A 
+ 
+VM0033, v2.1 
+96 
+Comments: 
+N/A 
+ 
+Data / Parameter 
+ΔCTREE_PROi,t 
+Data unit 
+t CO2-e yr-1 
+Description 
+Change in carbon stock in tree biomass in the project scenario in 
+year t 
+Equations 
+75) 
+Source of data 
+Derived from application of AR-Tool14 
+Value applied 
+See AR-Tool14 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See AR-Tool14 
+ Purpose of Data 
+See AR-Tool14 
+Comments 
+Calculation of project emissions  
+ 
+Data / Parameter 
+ΔCSHRUB_PROi,t 
+Data unit 
+t CO2-e yr-1 
+Description 
+Change in carbon stock in shrub biomass in the project scenario 
+in year t 
+Equations 
+75) 
+Source of data 
+Derived from application of AR-Tool14 
+Value applied 
+See AR-Tool14 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See AR-Tool14 
+ Purpose of Data 
+See AR-Tool14 
+ 
+VM0033, v2.1 
+97 
+Comments 
+Calculation of project emissions  
+ 
+Data / Parameter 
+CWPS-herb,i,t 
+Data unit 
+t C ha-1 
+Description 
+Carbon stock in herbaceous vegetation in the project scenario in 
+stratum i in year t 
+Equations 
+(78) 
+Source of data 
+Direct measurements or default factor 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+A default factor of 3 t C ha-1 may be applied for strata with 100% 
+herbaceous cover. For areas with a vegetation cover <100%, a 
+1:1 relationship between vegetation cover and CWPS,-herb,i,t must 
+be. The default factor may be claimed for one year only during 
+the project crediting period as herbaceous biomass quickly 
+reaches a steady state.  
+Vegetation cover must be determined by commonly used 
+techniques in field biology. 
+Procedures for measuring carbons stocks in herbaceous 
+vegetation are specified in Section 9.3.6. 
+ Purpose of Data 
+At each monitoring period 
+Comments 
+See Section 9.3.2 
+ 
+Data / Parameter 
+AWPS,i (or Ai,t) 
+Data unit 
+ha 
+Description 
+Area of project stratum i (in year t) 
+Equations 
+4, 13, 26, (79), 82, 83 
+Source of data 
+Delineation of strata must be done preferably using a 
+Geographical Information System (GIS), which allows for 
+integrating data from different sources (including GPS 
+coordinates and Remote Sensing data) 
+ 
+VM0033, v2.1 
+98 
+Value applied 
+See Source of data above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+At each monitoring period 
+ Purpose of Data 
+See Section 9.3.2 
+Comments 
+Calculation of project emissions 
+ 
+Data / Parameter 
+%OM (or %OMsoil) 
+Data unit 
+% 
+Description 
+Percentage of soil that is organic matter 
+Equations 
+34, 35, (37), (39), 76, 77, (79), (79) 
+Source of data 
+Direct measurements based on loss-on-ignition or may be 
+derived from direct measurements of soil carbon. These 
+measurements may be made using samples collected in Section 
+9.3.7 or indirectly from the soil carbon percentage as described 
+in Section 8.1.4.2.7. 
+Value applied 
+The equations provided were developed for tidal marsh soils by 
+Craft et al. 1991 and for mangrove soils by Kauffman et al. 
+2011, and for seagrass soils by Fourqurean et al. 2012, as 
+summarized in Howard et al. 2014 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+At each monitoring period 
+ Purpose of Data 
+See Section 9.3.2 
+Comments 
+Calculation of project emissions 
+ 
+Data / Parameter 
+%Csoil 
+Data unit 
+% 
+Description 
+Percentage of soil organic C 
+ 
+VM0033, v2.1 
+99 
+Equations 
+33, (37), (39) 
+Source of data 
+Direct measurements or may be derived from direct 
+measurements of soil organic matter. These measurements may 
+be made using samples collected in Section 9.3.7 or indirectly 
+from the soil organic matter percentage determined through loss- 
+on-ignition as described in Section 9.3.6. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+At each monitoring period 
+Comments 
+See Section 9.3.2 
+ 
+Data / Parameter 
+Crown cover, vegetation cover 
+Data unit 
+% 
+Description 
+Proportion of an area covered by the herbaceous vegetation, 
+shrubs, and/or the crowns of live trees 
+ 
+Equations 
+N/A  
+Source of data 
+For the project scenario, crown or vegetation cover mapping must 
+be performed 
+according to established methods in scientific literature. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Source of data above 
+ Purpose of Data 
+At each monitoring period 
+Comments 
+See Section 9.3.2 
+ 
+ 
+ 
+VM0033, v2.1 
+100 
+Data / Parameter: 
+BD 
+Data unit: 
+kg m-3 
+Description: 
+Dry bulk density 
+Equations 
+29, (49),  
+(57), 100 
+Source of data: 
+Direct measurements, or from a relationship with organic carbon 
+content provided by the scientific literature. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Mass of soil material after drying per volume of soil material, 
+based on commonly accepted procedures by the scientific 
+community. 
+Frequency of 
+monitoring/recording: 
+At each monitoring period 
+QA/QC procedures to be 
+applied: 
+See Section 9.3.2 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Refer to procedures in Sections 8.1.4.2.1 – 8.1.4.2.6. For all 
+equations in these sections, the subscript BSL must be 
+substituted by WPS to make clear that the relevant values are 
+being quantified for the project scenario. 
+ 
+Data / Parameter: 
+%OMdepsed 
+Data unit: 
+% 
+Description: 
+Percentage of deposited sediment that is organic matter 
+Equations 
+ 
+(40), 44, (46) 
+Source of data: 
+May be estimated directly using loss-on-ignition (LOI) data, 
+indirectly from soil carbon percentage as described in Section 
+8.1.4.2.7, or from the default value provided in Section 8.1.4.2.7. 
+ 
+These measurements may be made using samples collected on 
+sediment tiles or through collection and carbon analysis (see 
+ 
+VM0033, v2.1 
+101 
+Section 9.3.7) of suspended sediments in tidal channels or 
+sediments deposits in tidal flats 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+LOI may be assessed using standard laboratory procedures 
+Frequency of 
+monitoring/recording: 
+At each monitoring period 
+QA/QC procedures to be 
+applied: 
+See Section 9.3.2 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Refer to procedures in Sections 8.1.4.2.1 – 8.1.4.2.6. For all 
+equations in these sections, the subscript BSL must be 
+substituted by WPS to make clear that the relevant values are 
+being quantified for the project scenario. 
+ 
+Data / Parameter: 
+%Cdepsed 
+Data unit: 
+% 
+Description: 
+Percentage of carbon in deposited sediment; % 
+Equations 
+44, (46), (47) 
+Source of data: 
+May be estimated directly using loss-on-ignition (LOI) data or 
+indirectly from soil carbon percentage as described in Section 
+8.1.4.2.7. 
+These measurements may be made using samples collected on 
+sediment tiles or through collection and carbon analysis (see 
+Section 9.3.7) of suspended sediments in tidal channels or 
+sediments deposits in tidal flats. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The default factor is derived from the maximum value 
+(conservative) provided by Mayer 1994 Figure 4 
+ 
+VM0033, v2.1 
+102 
+Frequency of 
+monitoring/recording: 
+At each monitoring period 
+QA/QC procedures to be 
+applied: 
+See Section 9.3.2 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Refer to procedures in Sections 8.1.4.2.1 – 8.1.4.2.6. For all 
+equations in these sections, the subscript BSL must be 
+substituted by WPS to make clear that the relevant values are 
+being quantified for the project scenario. 
+ 
+Data / Parameter: 
+ETFC,y 
+Data unit: 
+t CO2-e yr-1 
+Description: 
+CO2 emissions from fossil fuel combustion during the year y; t 
+CO2 yr-1 
+Equations 
+ 
+(65) 
+Source of data: 
+Derived from application of CDM tool AR-Tool05 Estimation of 
+GHG emissions related to fossil fuel combustion in A/R CDM 
+project activities 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See AR-Tool05 
+Frequency of 
+monitoring/recording: 
+See AR Tool05 
+QA/QC procedures to be 
+applied: 
+See AR Tool05 
+Purpose of data: 
+Calculation of project emissions  
+Calculation method: 
+See AR Tool05 
+Comments: 
+Calculations are done for each stratum i 
+ 
+ 
+VM0033, v2.1 
+103 
+Data / Parameter: 
+NERERROR 
+Data unit: 
+% 
+Description: 
+Total uncertainty for project activity 
+Equations 
+72, 73 
+Source of data: 
+N/A 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+N/A 
+Frequency of 
+monitoring/recording: 
+At each monitoring period 
+QA/QC procedures to be 
+applied: 
+N/A 
+Purpose of data: 
+Calculation of net GHG emission reductions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+Vex,ty,i,t 
+Data unit: 
+m3 
+Description: 
+Volume of timber extracted from within stratum i (does not 
+include slash left onsite) by species j and wood product class ty 
+in year t 
+Equations 
+83 
+Source of data: 
+Estimates derived from field measurements or remote 
+assessments with aerial photography or satellite imagery. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Section 9.1 
+ 
+VM0033, v2.1 
+104 
+Frequency of 
+monitoring/recording: 
+At each monitoring period 
+QA/QC procedures to be 
+applied: 
+ 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+Vex,ty,i,t 
+ 
+9.3 
+Description of the Monitoring Plan 
+ 
+General 
+The main objective of project monitoring is to reliably quantify carbon stocks and GHG 
+emissions in the project scenario during the project crediting period, prior to each verification, 
+with the following main tasks: 
+• 
+Monitor project carbon stock changes and GHG emissions 
+• 
+Estimate ex-post net carbon stock changes and GHG emissions, and GHG emission 
+reductions 
+The monitoring plan must contain at least the following information: 
+• 
+A description of each monitoring task to be undertaken, and the technical requirements 
+therein 
+• 
+Parameters to be measured 
+• 
+Data to be collected and data collection techniques 
+• 
+Frequency of monitoring 
+• 
+Quality assurance and quality control (QA/QC) procedures 
+• 
+Data archiving procedures 
+• 
+Roles, responsibilities and capacity of monitoring team and management 
+ Uncertainty and quality management 
+Quality management procedures are required for the management of data and information, 
+including the assessment of uncertainty relevant to the project and baseline scenarios. As far 
+as practical, uncertainties related to the quantification of GHG emission reductions and 
+removals by sinks should be reduced. 
+ 
+VM0033, v2.1 
+105 
+To help reduce uncertainties in the accounting of emissions and removals, this methodology 
+uses whenever possible the methods from the GPG-LULUCF, GPG-2000, the IPCC’s Revised 
+2006 Guidelines and peer-reviewed literature. Despite this, potential uncertainties still arise 
+from the choice of parameters to be used. Uncertainties arising from input parameters would 
+result in uncertainties in the estimation of both baseline net GHG emissions and project net 
+GHG emissions, especially when global default factors are used. The project proponent must 
+identify key parameters that would significantly influence the accuracy of estimates. Local 
+values that are specific to the project circumstances must then be obtained for these key 
+parameters, whenever possible. These values should be based on: 
+• 
+Data from well-referenced peer-reviewed literature or other well-established published 
+sources35; 
+• 
+National inventory data or default data from IPCC literature that has, whenever possible 
+and necessary, been checked for consistency against available local data specific to 
+the project circumstances; or 
+• 
+In the absence of the above sources of information, expert opinion may be used to 
+assist with data selection. Experts will often provide a range of data, as well as a most 
+probable value for the data. The rationale for selecting a particular data value must be 
+described in the project description. 
+In choosing key parameters, or making important assumptions based on information that is not 
+specific to the project circumstances, such as in use of default data, the project proponent 
+must select values that will lead to an accurate estimation of net GHG emission reductions, 
+taking into account uncertainties. 
+If uncertainty is significant, the project proponent must choose data such that it indisputably 
+tends to under-estimate, rather than over-estimate, net GHG project benefits. 
+To ensure that carbon stocks are estimated in a way that is accurate, verifiable, transparent, 
+and consistent across measurement periods, the project proponent must establish and 
+document clear standard operating procedures and procedures for ensuring data quality. At a 
+minimum, these procedures must include: 
+• 
+Comprehensive documentation of all field measurements carried out in the project 
+area. This document must be detailed enough to allow replication of sampling in the 
+event of staff turnover between monitoring periods. 
+• 
+Training procedures for all persons involved in field measurement or data analysis. The 
+scope and date of all training must be documented. 
+• 
+A protocol for assessing the accuracy of plot measurements using a check cruise and a 
+plan for correcting the inventory if errors are discovered. 
+• 
+Protocols for assessing data for outliers, transcription errors, and consistency across 
+ 
+35 Typically, citations for sources of data used should include: the report or paper title, publisher, page numbers, publication 
+date, etc. (or a detailed web address). If web-based reports are cited, hardcopies should be included as annexes in the project 
+description if there is any likelihood that such reports may not be permanently available. 
+ 
+VM0033, v2.1 
+106 
+measurement periods. 
+• 
+Data sheets must be safely archived for the life of the project. Data stored in electronic 
+formats must be backed up. 
+ Expert judgment 
+The use of expert judgment for the selection and interpretation of methods, selection of input 
+data to fill gaps in available data, and selection of data from a range of possible values or 
+uncertainty ranges, is well established in the IPCC 2006 good practice guidance. Obtaining 
+well-informed judgments from domain experts regarding best estimates and uncertainties is an 
+important aspect in various procedures throughout this methodology. The project proponent 
+must use the guidance provided in Chapter 2 (Approaches to Data Collection), in particular, 
+Section 2.2 and Annex 2A.1 of the IPCC 2006 good practice guidance. 
+ Monitoring of project implementation 
+Information must be provided and recorded in the project description to establish that: 
+1) The geographic position of the project area is recorded for all areas of wetland. The 
+geographic coordinates of the project area (and any stratification or buffer zones inside the 
+area are established, recorded and archived. This can be achieved by field survey (e.g., 
+using GPS), or by using georeferenced spatial data (e.g., maps, GIS datasets, orthorectified 
+aerial photography or georeferenced remote sensing images). The above also applies to the 
+recording of strata. 
+2) Commonly accepted principles of land use inventory and management are implemented. 
+• 
+Standard operating procedures (SOPs) and quality control/quality assurance 
+(QA/QC) procedures for inventories including field data collection and data 
+management must be applied. Use or adaptation of SOPs already applied in 
+national land use monitoring, or available from published handbooks, or from the 
+IPCC GPG LULUCF 2003, is recommended. 
+• 
+Apply SOPs, especially, for actions likely to cause soil disturbances. 
+• 
+Project planning documentation, together with a record of the plan as actually 
+implemented during the project must be available for validation or verification, as 
+appropriate. 
+Continued compliance with the applicability conditions of this methodology must be ensured by 
+monitoring that: 
+• 
+The water table is not lowered except where the project converts open water to tidal 
+wetlands, or improves the hydrological connection to impounded waters. 
+• 
+The burning of organic soil as a project activity does not occur. 
+• 
+Peatland fires within the project area do not occur in the project scenario. If they do 
+occur as non-catastrophic events, they are accounted for by cancelling the Fire 
+Reduction Premium for the entire project or the individual project activity instance. 
+ 
+VM0033, v2.1 
+107 
+• 
+N-fertilizers are not used within the project area in the project scenario. 
+Where the project proponent chooses to monitor alterations of water table depth in the project 
+area to demonstrate no alteration of mean annual water table depths in adjacent areas, or that 
+such alteration is limited to levels that do not influence GHG emissions, the project proponent 
+must use water level gauges or vegetation assessments, or a combination of these. Water level 
+gauges must be installed in the project area and readings must be compared with the 
+hydrological modeling results or expert judgment on which the establishment of the project 
+area was based. The number and spacing of water level gauges must be based on hydrological 
+modeling or expert judgment. 
+ Stratification and sampling framework 
+Stratification of the project area into relatively homogeneous units may either increase the 
+measuring precision without increasing the cost unduly, or reduce the cost without reducing 
+measuring precision because of the lower variance within each homogeneous unit. The project 
+proponent must present in the project description an ex-ante stratification of the project area or 
+justify the lack of it. The number and boundaries of the strata defined ex ante may change 
+during the project crediting period (ex post). 
+The ex-post stratification must be updated where the following occur: 
+• 
+Unexpected disturbances occurring during the project crediting period (e.g., due to 
+changes in the hydrology, fire, pests or disease outbreaks), affecting differently various 
+parts of an originally homogeneous stratum; 
+• 
+Management activities (forestry, agriculture, hydrology) that are implemented in a way 
+that affects the existing stratification. 
+Established strata may be merged if the reasons for their establishment are no longer relevant. 
+The sampling framework, including sample size, plot size, plot shape, and determination of plot 
+location must be specified in the project description. Where changes in carbon stocks are to be 
+monitored (e.g., in trees), permanent sampling plots must be used, noting the following: 
+1) To determine the sample size and allocation among strata, the latest version of the CDM tool 
+AR-Tool03 Calculation of the number of sample plots for measurements within A/R CDM 
+project activities may be used. The targeted confidence interval must be 90% or 95%. Where 
+a 90% confidence interval is adopted and the width of the confidence interval exceeds 20% 
+of the estimated value or where a 95% confidence interval is adopted and the width of the 
+confidence interval exceeds 30% of the estimated value, an appropriate confidence 
+deduction must be applied, as specified in Section 8.5.2. 
+2) In order to avoid bias, sample plots should be marked inconspicuously. 
+3) The sample plot size must be established according to common practice in forest, vegetation 
+and soil inventories. 
+ 
+VM0033, v2.1 
+108 
+4) To avoid subjective choice of plot locations, the permanent sample plots must be located 
+either systematically with a random start or completely randomly inside each defined 
+stratum. The geographical position (GPS coordinate), administrative location, stratum and 
+stand, series number of each plot, as well as the procedure used for locating them must be 
+recorded and archived. The sampling plots are to be as evenly distributed as possible, where 
+larger strata have more plots than smaller strata. However, remote areas and areas with poor 
+accessibility may be excluded for the location of sampling plots. Such areas must be mapped 
+as separate strata and for these strata accounting of carbon stocks in tree biomass in the 
+project scenario is conservatively omitted (see Section 5.2.2). 
+The choice of monitoring frequency must be justified in the project description. 
+ Sampling of herbaceous vegetation 
+Aboveground herbaceous mass (herb) is defined as a pool that includes both living plant mass 
+(i.e., biomass) and dead plant mass (i.e., litter). All living and dead herbaceous mass is clipped 
+above the soil surface from inside each sample frame. Dry mass is determined by either drying 
+the entire wet sample to a constant weight, or drying a subsample of the wet mass to 
+determine a dry-to-wet mass ratio conversion factor. Because aboveground mass can be highly 
+seasonal, the average pool must be calculated from at least two samples representing the 
+minimum and maximum standing stocks. Alternatively, a conservative estimate of the pool may 
+be determined from a sample taken at the time of minimum standing stock. 
+ Soil coring approach for estimating soil carbon 
+Soil organic carbon (CWPS-soil,i,t) may be estimated by determining the organic carbon 
+accumulated above a consistent reference plane. The reference plane must be established 
+using a marker horizon (most commonly using feldspar)36, a strongly contrasting soil layer (such 
+as the boundary between organic and mineral soil materials), an installed reference plane 
+(such as the shallow marker in a surface elevation table)37, a layer identified biogeochemically 
+(such as through radionuclide, heavy metal, or biological tracers)38, a layer with soil organic 
+carbon indistinguishable from the baseline SOC concentration (as determined in Section 
+8.1.4.2)39 or other accepted technologies. Note that feldspar marker horizons should not be 
+used in systems where they are unstable, such as some sandy soils and systems with 
+significant bioturbation. The material below the reference plane may be conservatively 
+assumed to have zero change due to project activities.  
+The material located above the reference plane must be analyzed for total carbon and bulk 
+density. Sediment samples may be collected for the estimation of %Cdepsed (see Section 
+ 
+36 Cahoon & Turner 1989 
+37 Cahoon et al. 2002 
+38 DeLaune et al. 1978 
+39 Greinier et al. 2013 
+ 
+VM0033, v2.1 
+109 
+8.1.4.2.7) using sediment tiles,40 through collection of suspended sediments in tidal channels 
+during a period of high suspended sediment concentration or by collecting cores of sediment 
+deposits in tidal flats. Total organic carbon must be analyzed directly using CHN elemental 
+analysis or the Walkley-Black chromic acid wet oxidation method or determined from loss-on-
+ignition (LOI) data using the following equation: 
+%C = 0.04 × %OM + 0.0025 × %OM2 (only for marsh soils)   41   
+ 
+ 
+(95) 
+%C = 0.415 × %OM + 2.8857 (only for mangrove soils)  42 
+ 
+ 
+ 
+(96) 
+%C = -0.21 + 0.40 (%OM) (only for seagrass soils with %OM < 20%)   43  
+ 
+(97) 
+%C = -0.33 + 0.43 (%OM) (only for seagrass soils with %OM > 20%)   44  
+ 
+(98) 
+Alternatively, an equation developed using site-specific data may be used or an equation from 
+peer-reviewed literature may be used if the equation represents soils from the same or similar 
+systems as those in the project area. 
+Inorganic carbon should be removed from samples if present in significant quantities, usually 
+through acid treatment (such as sulfurous or hydrochloric acid). Live coarse below-ground tree 
+biomass should be removed from soil samples prior to analysis. Additional live below-ground 
+biomass may be removed or included. Soil samples collected may be aggregated to reduce the 
+variability. 
+The mass of carbon per unit area is calculated as follows: 
+𝐶𝑊𝑃𝑆−𝑠𝑜𝑖𝑙𝑖,𝑡= ∑
+(𝐶𝐹𝑆𝑂𝐶,𝑠𝑎𝑚𝑝𝑙𝑒× 𝐵𝐷× 𝑇ℎ𝑖𝑐𝑘𝑛𝑒𝑠𝑠× 100)
+𝑁𝑑𝑒𝑝𝑡ℎ
+𝑖=1
+ 
+ 
+ 
+(99) 
+Where: 
+CWPS-soil,i,t  
+ 
+= Carbon stock in the project scenario in stratum i in year t; t C ha-1 
+44/12   
+ 
+= Ratio of molecular weight of CO2 to carbon; dimensionless 
+Ndepth   
+ 
+= Number for soil horizons, based on subdivisions of soil cores 
+CFSOC_sample 
+ 
+= Carbon fraction of the sample, as determined in laboratory; % 
+BD 
+  
+ 
+= Bulk density, as determined in laboratory; g cm-3 
+Thickness 
+ 
+= Thickness of soil horizon; cm 
+100 
+  
+ 
+= Conversion factor of g cm-3 to tonne ha-1 
+ Monitoring CH4 and N2O emissions 
+Direct measurement of CH4 and/or N2O emissions may be made with either a closed chamber 
+technique or a chamber-less technique such as eddy covariance flux. For eddy covariance 
+ 
+40 Pasternack and Brush 1998 
+41 Craft et al. 1993 
+42 Kauffman et al. 2011, Howard et al. 2014 
+43 Fourqurean et al. 2012 as summarized in Howard et al. 2014 
+44 Fourqurean et al. 2012 as summarized in Howard et al. 2014 
+ 
+VM0033, v2.1 
+110 
+methods, the guidelines presented in VCS methodology VM0024 Methodology for Coastal 
+Wetland Creation must be followed, taking into account the additional guidance below.  
+Flux measurements are expected to conform to standard best practices used in the scientific 
+community45. The basic design of the closed chamber for wetlands requires a base that 
+extends into the soil (5 cm minimum), and a chamber that is placed over the plants and sealed 
+to the base. To prevent the measurement from disturbing CH4 emissions, the base should be 
+placed at least one day in advance, and the plot should be approached on an elevated ramp or 
+boardwalk when taking samples, although failure to do so is conservative because it will cause 
+higher fluxes. CH4 flux is calculated as the difference in initial and final headspace CH4 
+concentration, without removing non-linear increases caused by bubble (ebullition) fluxes that 
+may have occurred. Initial and final concentrations will be determined as the average of 
+duplicate determinations. Because CH4 and N2O emissions can be low from tidal wetlands, it 
+may be necessary to enclose large areas (≥ 0.25 m2) or lengthen the measurement period to 
+improve sensitivity. 
+Methane emissions from strata lacking vegetation (<25% cover), such as open water, hollows 
+or ponds, can be dominated by episodic bubble emissions (i.e., ebullition). Chambers for open 
+water emissions are typically a single piece that floats such that the bottom extends under the 
+water surface (5 cm minimum). Floating chambers must be deployed for a minimum of 4 days. 
+Eddy covariance techniques sense total CH4 and N2O emissions (diffusive and ebullition) at 
+high temporal resolution; such systems must be deployed for a minimum of 48 hours of 
+useable data. 
+CH4 and N2O emission estimates must be either accurate or conservative. Accurate estimates 
+must account for variation in time caused by changes in plant activity, temperature, water table 
+depth, salinity and other sources of variation, and in space caused by factors such as 
+topography (e.g., hummocks versus hollows) or plant cover. A conservative estimate may be 
+based on direct measurements taken at times and places in which CH4 or N2O emissions are 
+expected to be the highest based on expert judgment, datasets or literature. 
+Fluxes must be measured in the stratum with the highest emissions. For CH4, these are likely to 
+be strata in the wettest strata that support emergent vegetation, but may include stagnant 
+pools of water. Eddy flux towers must be placed so that the footprint lies in the stratum with the 
+highest CH4 or N2O emissions for 50% of the time. CH4 fluxes must be measured when the 
+water table is <10 cm from the soil surface, during times of year when emissions are highest, 
+such as the warmest month and/or wettest month. When CH4 emission rates incorporate 
+measurements from periods of time outside the peak, they must be made at approximately 
+monthly intervals.  
+In addition to the conservative principles above, the project proponent must consider other 
+factors that are specific to the method applied. In particular, closed chambers must be 
+ 
+45 Oremland 1975 
+ 
+VM0033, v2.1 
+111 
+transparent and deployed in daylight unless it is can be shown that CH4 emissions are not 
+sensitive to light. 
+Regardless of method, emissions must be averaged and expressed as daily (24 hour) rates and 
+converted to annual estimates using the following equations: 
+GHGWPS-soil-CH4,i,t = GHGCH4-daily,i,t × 365 × CH4-GWP × 100 
+ 
+ 
+ 
+(100) 
+Where: 
+GHGWPS-soil-CH4,i,t 
+ 
+= CH4 emissions from the SOC pool in the project scenario in stratum i in  
+ 
+ 
+ 
+year t; t CO2e ha-1 yr-1 
+GHGCH4-daily,i,t 
+ 
+= Average daily CH4 emissions in the baseline scenario based on direct  
+ 
+ 
+ 
+measurements of stratum i in year t; mg CH4 m-2 d-1 
+CH4-GWP
+ 
+ 
+= Global warming potential of CH4; dimensionless 
+i 
+ 
+ 
+= 1, 2, 3 …MWPS strata in the baseline scenario  
+t 
+ 
+ 
+= 1, 2, 3, … t* years elapsed since the project start date 
+100 
+ 
+ 
+= Conversion factor of mg m-2 to tonne ha-1 
+ 
+GHGWPS-soil-N2O,i,t = GHG N2O -daily,i,t × 365 × N2O-GWP × 100 
+ 
+ 
+ 
+(101) 
+Where: 
+GHGWPS-soil-N2O,i,t 
+ 
+= N2O emissions from the SOC pool in the project scenario in stratum i in  
+ 
+ 
+ 
+year t; t CO2e ha-1 yr-1 
+GHG N2O-daily,i,t 
+ 
+= Average daily N2O emissions in the baseline scenario based on direct  
+ 
+ 
+ 
+measurements of stratum i in year t; mg N2O m-2 d-1 
+N2O-GWP
+ 
+ 
+= Global warming potential of N2O; dimensionless 
+i 
+ 
+ 
+= 1, 2, 3 …MWPS strata in the baseline scenario  
+t 
+ 
+ 
+= 1, 2, 3, … t* years elapsed since the project start date 
+100 
+ 
+ 
+= Conversion factor of mg m-2 to tonne ha-1 
+ 
+ 
+Where the default factor approach is used for CH4 emissions (see Section 8.1.4.5.4), the 
+salinity average or salinity low point will be measured on shallow pore water (within 30 cm from 
+soil surface) using a handheld salinity refractometer or other accepted technology. The salinity 
+average must be calculated from observations that represent variation in salinity during periods 
+of peak CH4 emissions (e.g., during the growing season in temperate ecosystems or the wet 
+season in tropical ecosystems). When the number of observations during this period is small 
+(fewer than one per month for one year), the salinity low point from these data must be used. 
+The salinity of the floodwater source (e.g., an adjacent tidal creek) during this period may be 
+used as a proxy for salinity in pore water provided there is regular hydrologic exchange between 
+the source and the wetland (i.e., the source floods the wetland at least on 20% of high tides). 
+ 
+VM0033, v2.1 
+112 
+ Monitoring of soil subsidence 
+Where soil subsidence on drained wetlands is used as a proxy for carbon loss and CO2 
+emissions, applied techniques and calculations must follow international standards of 
+application or local standards as laid out in pertinent scientific literature or handbooks. The 
+lowering of the organic soil surface over time (subsidence) must be measured relative to a fixed 
+point (datum) (e.g., using a pole fixed in the mineral subsoil). Dipwells used for water table 
+depth monitoring may be used for subsidence monitoring with the advantage that water table 
+depth and subsidence are monitored at the exact same location. In areas where fire may occur, 
+it is best (also) to place iron poles. If poles are lost due to fire, new poles must be installed. 
+Height losses due to fire must be treated separately from those caused by microbial oxidation 
+of the organic soil in assessing carbon losses.  
+Interpolation of the trend in organic soil height loss over a longer period surrounding the fire 
+event allows for quantifying height loss due to the fire. At least 10 replicate subsidence poles 
+must be evenly distributed per stratum. To prevent disturbance, poles may need to be fenced 
+in. In order to avoid disturbance of the organic soil surface during readings it is advisable to 
+place boardwalks. For remote and inaccessible areas, the project proponent may rely on 
+vegetation cover as an indicator for water table depth and associated subsidence rates as 
+supported by data or literature references in a conservative way. The minimum monitoring 
+frequency for soil subsidence is once a year. 
+Consolidation of the saturated organic soil below the water table may contribute to subsidence 
+over multiple years. The project proponent must conservatively assess the contribution of 
+consolidation to overall subsidence by reference to literature values or expert judgment or 
+demonstrate that consolidation plays an insignificant role in overall subsidence (< 5%). 
+The calculation of carbon loss rates from subsidence data must follow pertinent scientific 
+literature (e.g., Couwenberg & Hooijer 2013) and usually requires data on the volumetric 
+carbon content of the organic soil. When subsidence measurements are used to establish 
+emission factors to be associated with other proxies, measurements must be carried out over a 
+period of at least 24 months to cover intra- and inter-annual variability. 
+ Estimation of Eroded Soil Depth and Depth of Soil Exposed to Aerobic Conditions 
+Soil carbon loss may occur through three mechanisms: 1) vertical edge erosion at a wetland 
+edge or channel bank, generally occurring at the seaward margin of wetlands exposed to wave 
+energy, 2) horizontal surface soil erosion; and/or 3) soil exposure to aerobic conditions.  
+1. Vertical edge erosion at a wetland edge or channel bank: The depth of eroded soil may 
+be measured in the field directly from the difference in elevation between the emergent 
+wetland surface at the wetland edge to the surface of an adjacent mudflat, or 
+sediments below adjacent waters. The adjacent point must be chosen conservatively, 
+and must represent the shallowest point of the transition from the wetland to mudflat 
+ 
+VM0033, v2.1 
+113 
+or adjacent subaquatic sediment surface. Determination of the surface elevation of 
+mudflat slope must be based upon the projected amount of emergent wetland retreat. 
+Internal loss of sediment through channel enlargement and or channel network 
+expansion occurs in wetlands with insufficient sediment supply to build at a pace 
+matching sea level rise in settings with a tidal range greater than 1 m. Change in 
+channel volume can be calculated using hydraulic geometry equations and 
+approaches.46 
+2. Horizontal surface soil erosion: Soil depth may be calculated by direct measurement at 
+a reference site with reference to a datum that can be justified as not having shifted 
+vertically relative to the original soil surface. This datum may be depth to a mineral soil 
+horizon that has not shifted due to compaction or a bedrock soil horizon, a point on 
+mangrove stumps held in place vertically (generally due to soils composed of coarse silt 
+or sand), or through radiometric analysis to identify the age of exposed soil surfaces. 
+3. Soil exposure to aerobic conditions: The depth of soil exposed to aerobic conditions 
+through drainage is intended to identify the depth at which anaerobic conditions no 
+longer suppress organic matter decomposition as they do in wetland soils. In wetland 
+science, these anaerobic conditions are generally understood to correspond to the 
+conditions in which iron is reduced. The depth to which the soil is reducing with respect 
+to iron may be identified using platinum electrodes, IRIS (Indicator of Reduction in 
+Soils) Tubes,47 the presence of reduced iron in pore water or on soil ped surfaces 
+(indicated with Alpha-alpha-Dipyridyl or other laboratory analysis), or other accepted 
+technologies. These methods must be used during the time of year with the peak height 
+of anaerobic conditions (i.e., peak sustained water table and sufficient temperature for 
+microbial activity48).  
+ Monitoring Water Table 
+If water table is used as a proxy for carbon loss and GHG emissions, monitoring of water tables 
+in the project or proxy area must be based on measurements in appropriate strata. Water table 
+depth measurements can be continuous with data loggers and using min-max devices or 
+simple water level gauges (dip wells consisting of e.g., perforated PVC tubes), Applied 
+techniques must follow international standards of application or local standards as laid out in 
+pertinent scientific literature or handbooks.  
+Water table depth measurements must be carried out at least every two months. At least 10 
+replicate dip wells must be evenly distributed per stratum, to ensure data consistency also 
+ 
+46  
+e.g., Allen 2000; Williams and Orr 2002 
+47  
+Rabenhorst et.al. 2013 
+48  
+Vaughan et.al. 2009 
+ 
+VM0033, v2.1 
+114 
+when dip wells are lost. In peat swamp forest, dip wells must be placed in surface depressions 
+between tree mounds. Visual inspection of the multiple records within a single stratum allows 
+for identification of outlier values at single locations, indicating measurement errors that 
+should be excluded from analysis. For remote and inaccessible areas, project proponents may 
+rely on vegetation cover as an indicator for water table depth as supported by data or literature 
+references in a conservative way.

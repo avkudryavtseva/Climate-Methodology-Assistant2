@@ -1,0 +1,33 @@
+1 
+SOURCES  
+The following have informed the development of the methodology: 
+ 
+The R Project for Statistical Computing 
+ 
+IPCC, 2000. Emissions: energy and transport. Pages 55-70 Good Practice Guidance and 
+Uncertainty Management in National Greenhouse Gas Inventories. IPCC National 
+Greenhouse Gas Inventories Programme 
+ 
+IPCC, 2006. Emissions from livestock and dung management. Pages 1-85 Guidelines for 
+National Greenhouse Gas Inventories. IPCC 
+ 
+IPCC, 2006. Grasslands. Pages 1-49 Guidelines for Greenhouse Gas Inventories. IPCC 
+ 
+IPCC, 2006. Quantifying uncertainties in practice. Chapter 6.in R. Odingo, editor. IPCC 
+Good Practice Guidance and Uncertainty Management in National Greenhouse Gas 
+Inventories IPCC 
+ 
+Microsoft, 2006. Monte Carlo Simulation for Excel 
+This methodology uses the latest versions of the following tools: 
+ 
+CDM A/R methodological tool Calculation of the number of sample plots for 
+measurements within A/R CDM project activities  
+ 
+VMD0016 Methods for stratification of the project area (X-STR) 
+ 
+VT0001 Tool for the Demonstration and Assessment of Additionality in VCS AFOLU 
+Project Activities 
+ 
+VMD0040 Leakage from Displacement of Grazing Activities 
+ 
+VCS AFOLU Non-Permanence Risk Tool

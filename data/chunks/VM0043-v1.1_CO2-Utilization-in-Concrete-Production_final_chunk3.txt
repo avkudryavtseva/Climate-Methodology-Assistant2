@@ -1,0 +1,57 @@
+3 DEFINITIONS 
+Captured CO2 
+Carbon dioxide captured from the atmosphere or a point source that would have 
+otherwise remained in or been emitted to the atmosphere. Captured CO2 from the 
+atmosphere or from sustainable biomass point source emissions are eligible to be 
+labelled as carbon dioxide removals. All other captured CO2 is an emission reduction.     
+ 
+VM0043, v1.1  
+ 
+5 
+Cement 
+Portland cement, Portland limestone cement, or blended cement. Blended cement also 
+includes supplementary cementitious materials. Portland cement, the most common, is a 
+hydraulic cement powder made by grinding a clinker comprised of calcinated limestone and 
+other secondary ingredients, including up to 5% limestone. This methodology will simply use 
+the term cement to refer to all types. 
+Cement replacement 
+A material that can fully replace Portland cement as the binder in concrete, often referred 
+to as Alternative Cementitious Material (ACM). 
+Clinker 
+A dark grey nodular material made by heating ground limestone and clay at a 
+temperature of about 1400°C - 1500°C. The nodules are ground up to a fine powder to 
+produce cement, with a small amount of gypsum added to control the setting properties.  
+Concrete  
+Concrete is a material traditionally composed of coarse aggregates (e.g., sand, gravel), 
+cement or cement replacement, and possibly supplementary cementitious materials that 
+hardens upon addition of water and following a curing process to form a stone-like 
+substance. Concrete is used in several forms, including ready mix and pre-cast (drycast 
+and wetcast).  
+Feedstock  
+The CO2 captured as part of project activities used along with other materials to produce 
+concrete.  
+Mix Design  
+The masses of ingredients, including cement (or cement replacement), sand, gravel, 
+aggregate, water, and any other additives used by a project proponent to produce a unit 
+of concrete of a given type and compressive strength. This mix design could be used in 
+the project activity and would then be referred to as the project mix design. In addition, 
+the mix design could be what would have occurred in the absence of the project activity, 
+which is then referred to as the baseline mix design. The baseline mix design is 
+determined in order to assess how much cement would have been used in the baseline 
+scenario. The same mix design can be used at multiple facilities. 
+Precast Concrete 
+Concrete that is cast in a mold and then cured in a controlled environment in a 
+manufacturing plant, instead of mixing and pouring it at the construction site. Examples 
+include concrete masonry, hardscapes, and reinforced concrete elements. 
+Supplementary Cementitious Material (SCM) 
+Material that is a waste by-product of another industrial process and that contributes to 
+the properties of a cementitious mixture through hydraulic or pozzolanic activity, or both, 
+without the need for additional thermal processing or calcining. Examples include 
+pozzolans like fly ash, slag cement, silica fume, biogenic limestone, biochar etc. 
+ 
+VM0043, v1.1  
+ 
+6 
+Waste CO2 
+Carbon dioxide from an anthropogenic source that would have otherwise been emitted 
+to the atmosphere.

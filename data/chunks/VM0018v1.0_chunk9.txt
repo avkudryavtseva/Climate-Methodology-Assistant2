@@ -1,0 +1,71 @@
+54 
+REFERENCES AND OTHER INFORMATION 
+Acronyms  
+AENV 
+Alberta Environment 
+CCX 
+Chicago Climate Exchange 
+CDM 
+Clean Development Mechanism 
+CI 
+Confidence Interval 
+DOC 
+Degradable Organic Carbon 
+ECM 
+Energy Conservation Measure 
+EF 
+Emission Factor 
+EE 
+Energy Efficiency 
+EPA 
+Environmental Protection Agency 
+EVO 
+Efficiency Valuation Organization 
+f 
+Fraction 
+GHG 
+Greenhouse Gases 
+GJ 
+Gigajoule 
+GWP 
+Global Warming Potential 
+HVAC 
+Heating, Ventilation and Air Conditioning 
+ICI 
+Industrial, Commercial and Institutional Business Unit 
+IPCC 
+Intergovernmental Panel on Climate Change 
+IPMVP 
+International Performance Measurement and Verification Protocol 
+Kg 
+Kilograms 
+kWh 
+Kilowatt hour 
+/L 
+Per Litres 
+LFG 
+Landfill Gas 
+/m2 
+Per square metre 
+/m3 
+Per cubic metre 
+MAT 
+Mean Annual Temperature 
+M&V 
+Monitoring and Verification 
+MSW 
+Municipal Solid Waste 
+Mt 
+Metric tonnes 
+PET 
+Potential Evapotranspiration 
+QA/QC 
+Quality Assurance/ Quality Control 
+SC 
+Sustainable Community 
+SCSP 
+Sustainable Community Service Promoter 
+SS 
+Sources and Sinks 
+VM0018, Version 1 
+Sectoral Scopes 3, 13

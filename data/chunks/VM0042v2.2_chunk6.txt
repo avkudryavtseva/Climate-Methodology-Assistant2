@@ -1,0 +1,180 @@
+6 BASELINE SCENARIO 
+Considering current market trends, existing government policies and legal requirements, 
+socioeconomic conditions, and technological developments in the agriculture sector, the 
+continuation of pre-project ALM practices is determined to be the most plausible baseline 
+scenario (see further justification in Appendix 3). For each quantification unit (e.g., for each 
+field), baseline scenario practices are set to match the practices implemented in the historical 
+look-back period, creating an annual schedule of activities to be repeated throughout the first 
+ 
+VM0042, v2.2 
+ 14 
+ 
+ 
+baseline period.8 Baseline emissions/stock changes are then modeled (Quantification 
+Approach 1) or (for SOC stock change only) directly measured in baseline control sites subject 
+to the annual schedule of activities (Quantification Approach 2). Note that under Quantification 
+Approach 1, direct SOC stock estimates are also required at time t = 0 years to serve as model 
+input for model initialization.9 The crops and practices assumed in the baseline scenario must 
+be reassessed every ten years in accordance with the requirements of the most recent version 
+of the VCS Standard and revised, where necessary, to reflect current agricultural production in 
+the region.10 However, where regional production practices change and/or data becomes 
+available across shorter timeframes, it is recommended to reassess the baseline every five 
+years. 
+Development of Schedule of Activities in the Baseline Scenario 
+For each quantification unit, a schedule of activities in the baseline scenario is determined by 
+assessment of practices implemented during the period prior to the project start date. The 
+interval over which practices are assessed, x years, must be a minimum of three years and 
+must include at least one complete crop rotation, where applicable. Where a crop rotation is not 
+implemented in the baseline, x ≥ 3 years. For each year, t = −1 to t = −x (i.e., years preceding 
+project start), information on ALM practices must be determined, per the requirements 
+presented in Table 4. 
+In most cases, quantitative information is associated with related qualitative information (see 
+Box 1). Thus, a negative response on a qualitative element would mean there is no quantitative 
+information related to that practice, whereas a positive response on a qualitative element 
+requires quantitative information related to that practice. 
+The schedule of activities, beginning with year t = −x, is applied in the baseline scenario, from 
+t = 1 onward, repeating every x years through the end of the first baseline period. 
+The schedule of activities in the baseline scenario is valid until baseline reassessment. At the 
+end of each baseline period, production of the commercial crop(s) in the baseline scenario is 
+re-evaluated. Published regional (sub-national) agricultural production data from within the five 
+years immediately preceding the end of the current baseline period must be consulted.  
+• 
+Where there is evidence of continued production of the relevant commercial crop(s) 
+using the same ALM practices in the region, the baseline scenario is valid as-is, 
+continuing with the previous schedule of activities.  
+ 
+8 For example, where the schedule of activities includes tillage events in years t = −3 and −1 but does not involve tillage 
+in year t = −2, the schedule of activities for tillage in the baseline scenario would be tillage, no tillage, tillage. This 
+pattern would be repeated as follows for the first baseline period: tillage, no tillage, tillage, tillage, no tillage, tillage, 
+tillage, no tillage, tillage, tillage. 
+9 Per Table 6, baseline SOC stocks may be (back-)modeled to t = 0 from measurements collected within ±5 years of 
+t = 0. 
+10 See Section 3.2.7 of the VCS Standard, v4.7.  
+ 
+VM0042, v2.2 
+ 15 
+ 
+ 
+• 
+Where there is no evidence of continued production of the relevant commercial crop(s), 
+a new schedule of ALM activities (evaluated against common practices in the region) is 
+developed based on written recommendations for the sample field provided by 
+independent professional agronomists, agricultural experts such as soil scientists, 
+husbandry specialists, and agronomists, or representatives of a governmental 
+agricultural body, including government agricultural extension agents. 
+Recommendations must provide sufficient detail to produce the minimum 
+specifications on ALM practices for the baseline scenario as outlined in Table 4.  
+• 
+Where more than one value is documented in recommendations (e.g., where a range of 
+application rates are prescribed in written recommendations), the principle of 
+conservativeness must be applied, selecting the value that results in the lowest 
+expected emissions (or highest rate of stock change) in the baseline scenario. 
+• 
+Where evidence is not field-specific, conservatively derived field-specific values must be 
+supported by a documented method justifying the appropriateness of selection. 
+Table 4: Minimum specifications for ALM practices in the baseline scenario 
+ALM Practice 
+Qualitative 
+Quantitative 
+Crop Planting and Harvesting 
+• Crop type(s) 
+• Approximate date(s) planted (where 
+applicable) 
+• Approximate date(s) 
+harvested/terminated (where 
+applicable) 
+• Crop yield (where applicable) 
+Nitrogen Fertilizer Application 
+• Manure (Y/N) 
+• Compost (Y/N) 
+• Synthetic N fertilizer 
+(Y/N)  
+• Manure type application rate (where 
+applicable) 
+• Compost type application rate 
+(where applicable) 
+• N application rate in synthetic 
+fertilizer (where applicable) 
+Tillage and/or Residue 
+Management 
+• Tillage (Y/N) 
+• Crop residue removal 
+(Y/N)  
+• Depth of tillage (where applicable) 
+• Frequency of tillage (where 
+applicable) 
+• Percent of soil area disturbed 
+(where applicable) 
+• Percent of crop residue removed 
+(where applicable) 
+Water Management/Irrigation  
+• Irrigation (Y/N) 
+• Flooding (Y/N) 
+• Irrigation rate (where applicable) 
+Grazing Practices 
+• Grazing (Y/N) 
+• Animal type (where 
+applicable) 
+• Harvesting/mowing 
+(Y/N) 
+• Animal stocking rate (i.e., number of 
+animals and length of time grazing 
+in each area annually, where 
+applicable) 
+• Frequency of harvest  
+Liming 
+• Application of calcitic 
+limestone or 
+dolomite (Y/N) 
+• Calcitic limestone or dolomite 
+application rate (where applicable) 
+*Y/N: Yes/No 
+ 
+ 
+VM0042, v2.2 
+ 16 
+ 
+ 
+  
+Box 1: Sources of qualitative and quantitative data 
+Sources of information for all undefined activity/management-related model input variables (see Table 6 
+and Table 8), and all parameters relevant to the baseline scenario (i.e., all parameters with the subscript 
+bsl that reference Box 1 in its respective parameter table), must follow the requirements detailed below. 
+All qualitative information on ALM practices must be determined via consultation with, and substantiated 
+with a signed attestation from, the farmer or landowner of the sample field during that period. Where the 
+farmer or landowner is not able to provide qualitative information (e.g., a sample field is newly leased), the 
+project proponent must follow the quantitative information hierarchy outlined below.  
+The following list specifies the allowable sources of quantitative information on ALM practices in 
+descending order of preference, as available: 
+1) Historical management records supported by one or more forms of documented evidence 
+pertaining to the selected sample field and period t = −1 to t = −3 (e.g., management logs, 
+receipts or invoices, farm equipment specifications, logs or files containing machine and/or 
+sensor data) or remote sensing (e.g., satellite imagery, manned aerial vehicle footage, drone 
+imagery), where requisite information on ALM practices can be reliably determined with these 
+methods (e.g., tillage status, crop type, irrigation) 
+2) Historical management plans supported by one or more forms of documented evidence pertaining 
+to the selected sample field and period t = −1 to t = −3 (e.g., management plan, 
+recommendations in writing solicited by the farmer or landowner from an agronomist). Where 
+more than one value is documented in historical management plans (e.g., where a range of 
+application rates are prescribed in written recommendations), the principle of conservativeness 
+must be applied and the value that results in the lowest expected emissions (or highest rate of 
+stock change) in the baseline scenario must be selected. 
+3) A signed attestation from the farmer or landowner of the sample field during that period – where 
+the attested value does not deviate significantly from other evidence-supported values for similar 
+fields (e.g., fertilizer data from adjacent fields with the same crop, adjacent years of the same 
+field, government data on application rates in that area, or statement from a local extension agent 
+regarding local application rates). The VVB must determine whether the data are sufficient. In 
+circumstances where this requirement is not met, Option 4 must be followed. 
+4) Regional (sub-national) average values derived from agricultural census data or other sources 
+from within the 20-year period preceding the project start date or the 10 most recent iterations of 
+the dataset, whichever is more recent. Where estimates have been disaggregated by relevant crop 
+or ownership classes, those should be used. The estimates must be substantiated with a signed 
+attestation from the farmer or landowner of the sample field during that period. Examples include 
+the USDA National Agricultural Statistics Service Quick Stats database and USDA Agricultural 
+Resource Management Survey.  
+This hierarchy applies to any additional quantitative inputs required by the model (Quantification 
+Approaches 1 and 2) or default factor (Quantification Approach 3) selected. The principle of 
+conservativeness must be applied in all cases. 
+ 
+VM0042, v2.2 
+ 17

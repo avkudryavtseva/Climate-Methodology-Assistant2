@@ -1,0 +1,373 @@
+8 QUANTIFICATION OF REDUCTIONS 
+8.1 
+Baseline Emissions 
+Baseline emissions are determined using the approaches described below which replace 
+paragraphs 27-39 in AMS-III.C.  
+Each project vehicle/EMM category i must be applied consistently with their respective units of 
+service, which is distance traveled (kilometers) for vehicles and hours of service for EMM. 
+Approach 1: Units of service 
+The baseline emissions are calculated based on the unit of service provided by the project 
+vehicles or EMM multiplied by the emission factor for the baseline vehicle / mobile machinery 
+that provides the same units of service as per the equation below: 
+𝐵𝐸௬= ∑𝐸ܨ஻௅,௜× ܷܵ௉௃,௜,௬× ܰ௉௃,௜,௬× 10−6
+௜
+ 
+ 
+ 
+ 
+ 
+Equation (1) 
+Where: 
+BEy 
+= 
+Total baseline emissions in year y (t CO2) 
+EFBL,i 
+= 
+Emission factor for baseline vehicle / mobile machinery category i (g CO2/km 
+for vehicles or g CO2/h for mobile machinery) 
+SUPJ,i,y 
+= 
+Units of service of project vehicle / EMM category i in year y (average annual 
+distance traveled in kilometers for vehicles or average annual operating 
+hours for EMM) 
+NPJ,i,y 
+= 
+Number of operational project vehicles / EMM in category i in year y 
+ 
+Approach 2: Electricity consumed for charging 
+The baseline emissions are calculated by transforming the electricity charged to the project 
+vehicles / EMM at the charging points into traveled distance / hours of service and multiplying 
+by the emission factor for fossil fuels used by the baseline vehicles that provide the same 
+service. 
+𝐵𝐸௬= ∑𝐸ܨ஻௅,௜×
+ா஼ು಻,೔,೤
+ௌா஼ು಻,೔,೤× 10−6
+௜
+ 
+ 
+ 
+ 
+ 
+ 
+Equation (2) 
+ 
+VMR0014, v1.0 
+ 
+9 
+Where: 
+BEy 
+= 
+Total baseline emissions in year y (t CO2) 
+EFBL,i 
+= 
+Emission factor for baseline vehicle / mobile machinery category i (g CO2/km 
+for vehicles or g CO2/h for mobile machinery) 
+ECPJ,i,y 
+= 
+Electricity consumed for charging project vehicle / EMM category i in year y 
+(kWh) 
+SECPJ,i,y = 
+Specific electricity consumption per unit of service of project vehicle / EMM 
+category i in year y (kWh/km for vehicles and kWh/h for EMM)  
+ 
+For plug-in hybrid vehicles/EMM, SECPJ,i,y must be determined based on running on 100% 
+electricity, i.e. no fuel consumption.  
+ 
+Under either of the two approaches, the emission factor per unit of service for baseline 
+vehicle / mobile machinery category i (EFBL,i) is determined as follows: 
+𝐸ܨ஻௅,௜= ܵܨܥ஻௅,௜× ܰܥܸ஻௅,௜× 𝐸ܨܥܱ2஻௅,௜× ܫܴ௧× 10−3 
+Equation (3) 
+ 
+Where: 
+EFBL,i 
+= 
+Emission factor for baseline vehicle / mobile machinery category i 
+(g CO2/km for vehicles and g CO2/h for mobile machinery) 
+SFCBL,i 
+= 
+Specific fuel consumption of baseline vehicle / mobile machinery 
+category i (g/km for vehicles and g/h for mobile machinery) 
+NCVBL,i 
+= 
+Net calorific value of fossil fuel consumed by baseline vehicle / mobile 
+machinery category i (MJ/kg) 
+EFCO2BL,i 
+= 
+CO2 emission factor of fossil fuel consumed by baseline vehicle / mobile 
+machinery category i (g CO2/MJ) 
+IRt 
+= 
+Technology improvement factor for baseline vehicle / mobile machinery in 
+year t. The improvement rate is applied to each calendar year. The default 
+value of the technology improvement factor for all baseline vehicle / 
+mobile machinery categories is 0.99. 
+t 
+= 
+Year counter for annual improvement (dependent on age of data per 
+vehicle / mobile machinery category) 
+ 
+There are five options for calculating the specific fuel consumption of a vehicle / mobile 
+machinery (SFCBL,i): 
+Option (1): Sample measurement 
+Measure the actual fuel consumption and corresponding units of service (distance traveled for 
+vehicles and hours of service for mobile machinery) of a sample of baseline vehicles / mobile 
+machinery that meets all of the following conditions: 
+a) Of the same vehicle / mobile machinery category as the project vehicles / EMM 
+b) Operating in comparable surroundings to the project vehicles / EMM 
+ 
+VMR0014, v1.0 
+ 
+10 
+c) Of a similar age to or newer than the project vehicles / EMM. The baseline vehicle / 
+mobile machinery must not be more than 10 years older than the project vehicle / 
+EMM. Where the baseline vehicle / mobile machinery sample is between 1 and 10 
+years older than the project vehicles / EMM, the technology improvement factor IRt 
+must be applied.1 
+d) With a comparable passenger or load carrying capacity with a maximum deviation of 
+±20% between the baseline and project vehicles / mobile machinery.  
+Sample vehicles must be randomly chosen in accordance with the most recent version of the 
+Guidelines for Sampling and Surveys for CDM Project Activities and Programmes of Activities 
+using a 90% confidence interval and ±10% precision to determine the sample size. The lower 
+bound of the 90% confidence interval must be used as the specific fuel consumption. 
+Option (2): Top 20% 
+The specific fuel consumption for comparable baseline vehicles / mobile machinery is 
+estimated by using the specific fuel consumption of the top 20% most efficient (i.e., least fuel-
+consuming) of the vehicle / mobile machinery fleet from manufacturer specifications for 
+vehicles / mobile machinery in the project region.   
+Option (3): Using operational data  
+The baseline vehicle / mobile machinery may be identified from the base case with comparable 
+operating conditions2 or in a similar area3 and that will not be replaced over the lifetime of the 
+project. The specific fuel consumption is determined from data of baseline vehicles / mobile 
+machinery under comparable conditions. Historical data for at least one year is collected per 
+vehicle / mobile machinery category. Otherwise, the specific fuel consumption is obtained from 
+manufacturer specifications. 
+In project activities where baseline vehicles / mobile machinery include non-standard vehicles / 
+mobile machinery for which manufacturer data are not available, the specific fuel consumption 
+may be determined using one of the following two options: 
+a) Measure the actual fuel consumption and corresponding unit of service of a sample of 
+baseline vehicles / mobile machinery that meets all of the following conditions: 
+i) 
+Operating in similar conditions to the project vehicles / EMM 
+ii) Of a similar age to or newer than the project vehicles / EMM. The baseline 
+vehicle / mobile machinery must not be more than 10 years older than the 
+project vehicle / EMM. Where the baseline vehicle / mobile machinery sample 
+ 
+1 This adjustment normalizes the baseline vehicle’s performance to the reference age of the project vehicle to account 
+for technological improvements over time. 
+2 Comparable conditions refer to usage types (e.g., usage of construction machinery in a quarry). 
+3 Comparable areas are primarily urban or inter-urban for vehicles.  
+ 
+VMR0014, v1.0 
+ 
+11 
+is between 1 and 10 years older than the project vehicles / EMM, the 
+technology improvement factor IRt must be applied.4 
+iii) With a similar or smaller engine size compared to the project vehicle / EMM 
+iv) With a similar or lower passenger / goods load capacity as the project vehicle / 
+EMM 
+v) Any other relevant factors to distinguish vehicles / mobile machinery with 
+different fuel consumption rates 
+Sample baseline vehicles / mobile machinery must be randomly chosen in accordance 
+with the most recent version of the Guidelines for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities using a 90% confidence interval and 
+±10% precision to determine the sample size. The lower bound of the 90% confidence 
+interval must be used as the specific fuel consumption. 
+b) Use values from peer-reviewed literature, publicly available studies, datasets, technical 
+reports, or publications from recognized independent third parties (e.g., research 
+institutes) where the specific fuel consumption value is derived with characteristics 
+leading to similar or lower emissions compared to the baseline vehicles / mobile 
+machinery (e.g., using specific fuel consumption values for vehicles / mobile machinery 
+of a similar age or newer, with a similar or smaller engine size, with a similar or lower 
+passenger / goods load capacity, and other relevant factors to distinguish vehicles / 
+mobile machinery with different fuel consumption rates). 
+Option (4): Using data from a control group  
+Where no specific baseline vehicle / mobile machinery can be identified or appropriate 
+operational data are not available, specific fuel consumption should be obtained through a 
+statistically significant control group or existing statistics that are regularly updated. Such a 
+control group or the source of data must have similar or conservative characteristics with 
+respect to vehicle / mobile machinery age (equal or newer) and operating conditions. The 
+control group must be chosen from the following, listed in descending order of preference: 
+1) Fleet of the same company operating simultaneously to the project activity 
+2) Fleet of a different company with similar operations operating simultaneously to the 
+project activity 
+3) Host country statistics 
+4) Intergovernmental Panel on Climate Change (IPCC) or other international data 
+ 
+4 This adjustment normalizes the baseline vehicle’s performance to the reference age of the project vehicle to account 
+for technological improvements over time. 
+ 
+VMR0014, v1.0 
+ 
+12 
+Under this option, specific fuel consumption is monitored throughout the project crediting 
+period, thus gradual efficiency improvements in the fleet or gradual deterioration of driving 
+conditions are automatically incorporated into project efficiency levels. Where using this option, 
+the technology improvement factor IRt is not applied in Equation (3). 
+Option (5): Existing statistics 
+Where none of the above options apply due to lack of data, other publicly available existing 
+statistics may be used as industry default values. Appropriate sources of data are host country 
+statistics (released by transportation department or other authorities), IPCC, and other 
+international data. Conservative (lower) values must be selected from available ranges. 
+8.2 
+Project Emissions  
+Project emissions include electricity and fossil fuel consumption associated with the operation 
+of project vehicles / EMM and are calculated using the equations in this section instead of 
+paragraphs 40-43 in AMS-III.C. 
+Each project vehicle / EMM category i must be applied consistently with their respective unit of 
+service (i.e. either km or hours). 
+Electricity emissions 
+ܲ𝐸𝐸௬= ∑𝐸ܥ௉௃,௜,௬× ܩ𝐸ܨ௬× 10−3
+௜
+  
+ 
+ 
+ 
+ 
+Equation (4) 
+Where: 
+PEEy 
+= 
+Total project emissions from electricity usage in year y (t CO2) 
+ECPJ,i,y 
+= 
+Electricity consumed for charging project vehicle / EMM category i in year y 
+(kWh) 
+GEFy 
+= 
+Grid emission factor in year y (t CO2/MWh) 
+ 
+Electricity consumed by project vehicles / EMM may be measured or calculated using the 
+following equation: 
+𝐸ܥ௉௃,௜,௬= ܵ𝐸ܥ௉௃,௜,௬× ܷܵ௉௃,௜,௬× ܰ௉௃,௜,௬   
+ 
+ 
+ 
+Equation (5) 
+Where: 
+ECPJ,i,y 
+= 
+Electricity consumed for charging project vehicle / EMM category i in year y 
+(kWh) 
+SECPJ,i,y = 
+Specific electricity consumption per unit of service of project vehicle / EMM 
+category i in year y (kWh/km for vehicles or kWh/h for EMM) 
+SUPJ,i,y 
+= 
+Unit of service of project vehicle / EMM category i in year y (average annual 
+distance in kilometers for vehicles and average annual operating hours for 
+EMM) 
+NPJ,i,y 
+= 
+Number of operational project vehicles / EMM in category i in year y  
+ 
+ 
+VMR0014, v1.0 
+ 
+13 
+Plug-in hybrid vehicles / EMM, must determine ECPJ,i,y based on measurement. Equation 5 may 
+be used if no simultaneous electricity and fuel is consumed. The grid emission factor is 
+established as follows: 
+ܩ𝐸ܨ௬=
+ாி೐೗೐೎,೤
+(1−்஽௅೤)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equation (6) 
+Where: 
+GEFy 
+= 
+Grid emission factor in year y (t CO2/MWh) 
+EFelec,y 
+= 
+Emission factor for electricity consumption in year y (t CO2/MWh) 
+TDLy 
+= 
+Average technical transmission and distribution losses for providing electricity 
+in year y (ratio) 
+ 
+The emission factor EFelec,y must be determined in accordance with the procedures in the most 
+recent version of VT0011 Electricity System Emission Factors. 
+Fossil fuel emissions 
+ܲ𝐸ܨ௬= ∑ܨܥ௉௃,௜,௬× ܰܥܸ௉௃,௜× 𝐸ܨܥܱ2௉௃,௜× 10−6
+௜
+ 
+ 
+ 
+ 
+Equation (7) 
+Where: 
+PEFy 
+= 
+Total project emissions from fossil fuel usage in year y (t CO2) 
+FCPJ,i,y 
+= 
+Fossil fuel consumed by project vehicle / EMM category i in year y (kg) 
+NCVPJ,i 
+= 
+Net calorific value of fossil fuel consumed by project vehicle / EMM category i 
+(MJ/kg) 
+EFCO2PJ,i = 
+CO2 emission factor of fossil fuel consumed by project vehicle / EMM 
+category i (g CO2/MJ) 
+Fossil fuel consumed by project vehicles or EMM may be measured or calculated using the 
+following equation: 
+ܨܥ௉௃,௜,௬= ܵܨܥ௉௃,௜,௬× ܷܵ௉௃,௜,௬× ܰ௉௃,௜,௬× 10−3  
+ 
+ 
+ 
+ 
+Equation (8) 
+Where: 
+FCPJ,i,y 
+= 
+Fossil fuel consumed by project vehicle / EMM category i in year y (kg) 
+SFCPJ,i,y = 
+Specific fuel consumption factor for project vehicle / EMM category i in year y 
+(g/km for vehicles and g/h for EMM) 
+SUPJ,i,y 
+= 
+Units of service of project vehicle / EMM category i in year y (average annual 
+distance in kilometers for vehicles or average annual operating hours for 
+EMM) 
+NPJ,i,y 
+= 
+Number of operational project vehicles / EMM in category i in year y 
+ 
+Plug-in hybrid vehicles / EMM, must determine FCPJ,i,y based on measurement. Equation 8 may 
+be used if no simultaneous electricity and fuel is consumed. 
+Total project emissions 
+ܲ𝐸௬= ܲ𝐸𝐸௬+ܲ𝐸ܨ௬  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Equation (9) 
+ 
+VMR0014, v1.0 
+ 
+14 
+Where: 
+PEy 
+= 
+Total project emissions in year y (t CO2) 
+PEEy 
+= 
+Total project emissions from electricity usage in year y (t CO2) 
+PEFy 
+= 
+Total project emissions from fossil fuel usage in year y (t CO2) 
+ 
+8.3 
+Leakage Emissions 
+No change from AMS-III.C. 
+8.4 
+Net Reductions 
+No change from AMS-III.C.

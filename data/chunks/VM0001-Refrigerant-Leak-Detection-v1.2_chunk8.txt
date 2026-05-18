@@ -1,0 +1,41 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. 
+Step 1: Regulatory surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements set out in the most recent versions of the VCS Standard and VCS Methodology 
+Requirements. The following additional guidance must be considered: 
+All national or regional policies and regulations relevant to HFC must be assessed, including 
+those that: 
+a) place a fixed limit on a cumulative basis for total HFC emissions within a given year’s 
+operations. 
+b) transfer ownership of all resulting HFC reductions to other entities to meet their 
+separate compliance obligations (e.g., such as would arise in upstream cap/trade 
+requirements). 
+c) stipulate the installation of leak detection systems as the only option to fulfill retail 
+operations’ compliance purposes. 
+d) may impact otherwise the compliance of the practice without an automatic leak 
+detection system. 
+Where the project activity demonstrates regulatory surplus, proceed to Step 2 (investment 
+analysis). Otherwise, the project activity is not additional.  
+ 
+VM0001, v1.2 
+ 
+8 
+Step 2: Investment analysis 
+The project proponent must apply an investment comparison analysis (option 1) of the most 
+recent version of VT0008 Additionality Assessment.  
+For the baseline scenario, ongoing refrigerant costs must be included as cash flows. For the 
+project scenario, cash flows must include the investment cost of the leak detection system, 
+ongoing refrigerant costs, and any other relevant expenses or revenues associated with the 
+implementation, operation, and maintenance of the leak detection system. 
+Where the investment comparison analysis (including sensitivity analysis) shows that the project 
+activity would not be the economically most attractive scenario in the absence of carbon credit 
+revenues, proceed to Step 3 (common practice analysis). Otherwise, the project activity is not 
+additional. 
+Step 3: Common practice 
+The project proponent must apply the common practice analysis following the most recent 
+version of VT0008 Additionality Assessment. 
+Where the proposed project activity is not considered common practice, and Step 1 (regulatory 
+surplus) and Step 2 (investment analysis) are met, the project activity is additional. 
+Where the proposed project activity is considered common practice, the project activity is not 
+additional.

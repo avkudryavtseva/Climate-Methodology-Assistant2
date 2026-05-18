@@ -1,0 +1,17 @@
+1 SUMMARY DESCRIPTION 
+Additionality, Crediting Method, and Mitigation Outcome 
+Additionality 
+Activity method 
+Crediting Baseline 
+Project method 
+Mitigation Outcome 
+Reductions and Removals 
+ 
+This methodology is globally applicable to project activities that capture CO2, which would 
+have otherwise been emitted into or remained in the atmosphere and utilize that gas as a 
+feedstock in the production of ready-mix or pre-cast concrete. These project activities 
+reduce greenhouse gas (GHG) emissions by sequestering CO2 via the production of 
+concrete. This manufacturing process has the additional benefit of requiring less Portland 
+cement, which further reduces upstream emissions from cement production. The project 
+activity takes place at the location where the concrete is manufactured (mixed with cement, 
+water, aggregates, etc.).

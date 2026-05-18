@@ -1,0 +1,38 @@
+2 
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+This methodology is applicable to project activities that aim at complete substitution of gasoline or 
+gasoline blends by ethanol in commercial fleets of flex-fuel vehicles. The monitoring plan must 
+guarantee exclusive consumption of ethanol by vehicles from the project boundary. This should 
+be done using a fuel monitoring system (direct or indirect measurement) with continuous 
+registration of place (gas station), date, type and quantity of fuel used in the project activity.  
+In order to calculate the baseline emissions, historical fuel consumption pattern shall be analysed 
+and a factor that shows the ratio of gasoline to ethanol in the total consumption of fuel by 
+commercial fleet shall be calculated. In cases where the project area is not homogenous in terms 
+of availability and prices of fuels, it should be stratified into project regions. The fuel consumption 
+pattern should be calculated for each project region. Historical fuel consumption pattern is based 
+on historical data of the project proponent. In cases when no credible historical data is available 
+or in the case of a Greenfield project activity instance, the historical average pattern of the same 
+regional group shall be used. 
+Additionality shall be demonstrated by applying the latest version of CDM Combined tool to 
+identify the baseline scenario and demonstrate additionality. 
+The baseline emissions are calculated by applying the determined fuel consumption pattern (ratio 
+of gasoline to ethanol in the total fuel consumption during the historical reference period), 
+corrected by a fuel conversion factor, to the total quantity of ethanol consumed in the year y of the 
+project activity. The fuel conversion factor determines a quantity of ethanol needed to substitute 
+one liter of gasoline in the type of vehicles used in the project activity.  
+Project emissions are calculated by applying the emission factor to the quantity of gasoline 
+consumed in the project activity and monitored in liters.  
+The emissions reductions are calculated as the difference between the baseline emissions and 
+the project emissions. No leakage emissions are attributed to this project type. 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+ 
+ 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 7

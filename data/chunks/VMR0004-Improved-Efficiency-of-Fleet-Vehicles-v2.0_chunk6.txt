@@ -1,0 +1,79 @@
+5 PROJECT BOUNDARY 
+The project boundary is the physical geographic location of the vehicles that are part of the 
+project activity. The spatial extent of the project boundary encompasses the geographic area of 
+the trips and areas of operation of the project vehicles.   
+The greenhouse gases included in or excluded from the project boundary are shown in Table 1. 
+ 
+Table 1: GHG sources included in or excluded from the project boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Vehicles exhaust 
+gas 
+CO2 
+Yes 
+Major source of GHG emissions in the exhaust 
+gas 
+CH4 
+No 
+Excluded for simplification. This is conservative. 
+ 
+VMR0004, v2.0 
+ 
+8 
+N2O 
+No 
+Excluded for simplification. This is conservative. 
+Other 
+No 
+Negligible in the exhaust gas 
+Electricity 
+consumption from 
+the grid 
+CO2 
+Yes 
+Major source of GHG emissions 
+CH4 
+No 
+Negligible 
+N2O 
+No 
+Negligible 
+Other 
+No 
+Negligible 
+Project 
+Vehicle exhaust 
+gas 
+CO2 
+Yes 
+Major source of GHG emissions in the exhaust 
+gas 
+CH4 
+No 
+Excluded for simplification. This is conservative 
+since the emissions are higher in the baseline. 
+N2O 
+No 
+Excluded for simplification. This is conservative 
+since the emissions are higher in the baseline. 
+Other 
+No 
+Negligible in the exhaust gas 
+Electricity 
+consumption from 
+the grid 
+CO2 
+Yes 
+Major source of GHG emissions 
+CH4 
+No 
+Negligible 
+N2O 
+No 
+Negligible 
+Other 
+No 
+Negligible

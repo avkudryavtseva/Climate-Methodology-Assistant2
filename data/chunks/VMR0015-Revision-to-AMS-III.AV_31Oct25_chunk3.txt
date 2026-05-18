@@ -1,0 +1,23 @@
+2 SOURCES 
+This methodology revision applies to the CDM small-scale methodology AMS-III.AV. Project 
+proponents must use this methodology revision in conjunction with the most recent version of 
+AMS-III.AV.  
+This methodology uses the following methodologies and tools: 
+• 
+VCS tool VT0010 Emissions from Electricity Consumption and Generation 
+• 
+VCS tool VT0008 Additionality Assessment 
+• 
+CDM TOOL03 Tool to Calculate Project or Leakage CO2 Emissions from Fossil Fuel 
+Combustion 
+• 
+CDM TOOL19 Demonstration of Additionality of Microscale Project Activities  
+• 
+CDM TOOL21 Demonstration of Additionality of Small-scale Project Activities  
+• 
+CDM TOOL30 Calculation of the Fraction of Non-renewable Biomass 
+• 
+CDM AMS-I.E Switch from Non-renewable Biomass for Thermal Applications by the User 
+• 
+CDM Standard: Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities

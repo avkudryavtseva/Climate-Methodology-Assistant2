@@ -1,0 +1,19 @@
+18 
+DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+03 July 2025 
+This revision to AMS-III.C. incorporates the following updates:  
+• 
+Inclusion of battery-electric mobile machinery and plug-in hybrid electric 
+mobile machinery 
+• 
+Replacement of CDM TOOL21 Demonstration of additionality of small-
+scale project activities with VT0008 Additionality Assessment  
+• 
+Replacement of CDM TOOL05 Baseline, project and/or leakage 
+emissions from electricity consumption and monitoring of electricity 
+generation (which uses TOOL07 Tool to calculate the emission factor for 
+an electricity system) with VT0011 Electricity System Emission Factors

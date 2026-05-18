@@ -1,0 +1,46 @@
+8 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+The procedures in the module being applied must be followed. 
+Where both campus-wide and building reductions are sought in combination from the same 
+campus (ie, both the campus-wide and LEED modules have been applied), then the building 
+reductions must be subtracted from the campus-wide reductions, as follows: 
+VM0025, Version 1.0 
+ 
+Sectoral Scopes 1 and 3 
+ 
+Page 10 
+ 
+ 
+lcb
+y
+cw
+y
+y
+ER
+ER
+ER
+,
+,
+−
+=
+ 
+(1) 
+Where: 
+ERy 
+= Net GHG emission reductions in year y for the project 
+ERy,cw 
+= Net GHG emission reductions in year y from campus-wide module 
+ERy,lcb 
+= Net GHG emission reductions in year y from LEED-certified building module 
+Only the relevant scope of emissions used in the quantification of campus-wide emission 
+reductions must be subtracted (ie, only stationary combustion emissions reductions from LEED-
+certified buildings must be subtracted from projects quantifying campus-wide stationary 
+combustion emission reductions). The LEED certification documents contain all the relevant 
+information regarding the contributions that each source of energy (ie, stationary combustion or 
+scope 2 electricity) contributed to the building’s total energy consumption. These may be used, if 
+sub-metering of the LEED-certified building is not accessible, to assess the total portion of the 
+emission reductions from LEED-certified buildings that should be subtracted. For example, if a 
+project sought emission reductions from both campus-wide stationary combustion and LEED-
+certified buildings, and the stationary combustion energy sources represent 40% of the LEED-
+certified building’s energy consumption, then 40% of the LEED-certified building’s emission 
+reductions must be deducted from the campus-wide emission reductions.8

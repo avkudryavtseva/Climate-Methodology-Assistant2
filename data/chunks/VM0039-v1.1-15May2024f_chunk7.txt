@@ -1,0 +1,21 @@
+6 BASELINE SCENARIO 
+The baseline scenario for projects applying this methodology is the application of HMA, or 
+the subcategory WMA, to both the surface and base layers. The emissions associated with 
+the quarry, transportation, and production of HMA or WMA serve as performance 
+benchmarks, which are identified in Table 3 of Section 7.2 
+CCPR, CIR, and FDR projects replace HMA or WMA base layers with FSB or asphalt 
+emulsions. These processes typically outperform the performance benchmarks because 
+ 
+ 
+2 More than 94% of U.S. roads are paved with HMA (EPA, 2015). The National Asphalt Pavement Association (NAPA) 
+statistics show that approximately one third of HMA projects in the U.S. in 2014 used WMA technologies (NAPA 
+2017). HMA and WMA typically requires that more than 70% virgin aggregates are used in HMA production. They 
+need to be quarried, transported to the hot mix plant, sorted into cold bins, dried by the heaters, blended with hot 
+bitumen binders, and then fed into a mixer. The emissions associated with a series of these processes serve as 
+performance benchmarks. 
+ VM0039, v1.1 
+ 
+15 
+ 
+they can reduce the emissions from producing bitumen and producing, transporting, and 
+heating virgin aggregates.

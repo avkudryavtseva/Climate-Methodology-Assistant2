@@ -1,0 +1,598 @@
+8  
+MONITORING 
+The purpose of monitoring is to generate field measurements after each harvest from which 
+emission reductions can be estimated. Thus, following completion of each harvest, all impact 
+parameters from all logging emission source categories (felling, skidding and hauling), as 
+identified in the applicable region-specific RIL-C performance method module, must be sampled 
+in the field and estimated according to procedures detailed in the applicable region-specific RIL-C 
+performance method. 
+ 
+Throughout the project crediting period, monitoring must be conducted within five years after 
+each harvest unless otherwise specified in the applicable geographic-specific performance 
+method module.  
+ 
+The expectation of users of this methodology and future modules developed based on this 
+methodology is that verification audit teams are able to resample monitoring activities that have 
+occurred over an entire verification period. The appropriate monitoring time frame will be dictated 
+by regional forest regrowth rates and decomposition rates. For example, areas in dry forest with 
+slow forest regrowth and decomposition may be able to monitor every 5 years, and areas in wet 
+tropical forest with very fast growth rates and decomposition may need to be monitored every 2 
+years. 
+ 
+Data and Parameters Available at Validation 
+8.1
+Data / Parameter 
+fAGC (FELLt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating emission reductions from 
+aboveground carbon related to felling in year t 
+(ERfell_AGC,t) as a function of felling impacts 
+measured in year t (FELLt) 
+Equation 
+1 
+Source of data 
+Applicable RIL-C performance module 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+17 
+ 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter: 
+fBGB (FELLt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating emission reductions from 
+belowground carbon related to felling in year t 
+(ERfell_BGB,t) as a function of felling impacts 
+measured in year t (FELLt) 
+Equation 
+4 
+Source of data 
+Applicable RIL-C performance module 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter: 
+fAGC (SKIDt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating emission reductions from 
+aboveground carbon related to skidding in year t 
+(ERskid_AGC,t) as a function of skidding impacts 
+measured in year t (SKIDt) 
+Equation 
+2 
+Source of data 
+Applicable RIL-C performance module 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+18 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter: 
+fBGB (SKIDt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating savings factor for emissions 
+from belowground carbon related to skidding in 
+year t (ERskid_BGB,t) as a function of skidding 
+impacts measured in year t (SKIDt) 
+Equation 
+3 
+Source of data 
+Applicable RIL-C performance module 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter: 
+fAGC (HAULt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating savings factor for emissions 
+from aboveground carbon related to hauling in 
+year t (ERhaul_AGC,t) as a function of hauling 
+impacts measured in year t (HAULt) 
+Equation 
+3 
+Source of data 
+Applicable RIL-C performance module 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+19 
+ 
+Data / Parameter: 
+fBGB (HAULt) 
+Data unit 
+Dimensionless 
+Description 
+Equation estimating savings factor for emissions 
+from belowground carbon related to hauling in 
+year t (ERhaul_BGB,t) as a function of hauling 
+impacts measured in year t (HAULt) 
+Equation 
+6 
+Source of data 
+Applicable RIL-C performance module 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+Refer to applicable RIL-C performance method 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter: 
+K 
+Data unit 
+Percent/year 
+Description 
+Dead wood annual decomposition rate  
+Equation 
+9a 
+Source of data 
+Values from the literature (eg, Chambers et al. 
+2000) must be used 
+Value applied 
+ 
+Justification of choice of data or description 
+of measurement methods and procedures 
+applied 
+The rate used should be derived from a similar 
+climate regime and forest type as the project 
+area 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+Note that this rate is justified and applied in 
+project accounting (using equation 9a ex post), 
+and is not specified or incorporated in the RIL-C 
+performance method modules.  
+ 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+20 
+ 
+ 
+Data and Parameters Monitored 
+8.2
+Data / Parameter 
+At. 
+Data unit 
+Ha 
+Description 
+Area of actual harvest area in year t. It is 
+expected that this area may be smaller than the 
+authorized area of harvest due to un-stocked 
+areas or areas where timber harvest and skidding 
+are infeasible (eg, due to geographic features), or 
+areas set aside from logging activity. 
+Equations 
+9a, 9b 
+Source of data 
+Paper maps or GIS files 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+Any imagery or GIS datasets used must be geo-
+registered referencing corner points, clear 
+landmarks or other intersection points.  
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+. 
+Comment 
+ 
+ 
+Data / Parameter: 
+FELLt 
+Data unit 
+Units as specified in the applicable RIL-C 
+performance module 
+Description 
+Felling impact parameter, measured in year t 
+Equation 
+1, 4 
+Source of data 
+ 
+Description of measurement methods and 
+procedures to be applied 
+See procedures as specified in applicable RIL-C 
+Performance Method  
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+See applicable RIL-C performance module  
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+21 
+ 
+Comment 
+ 
+ 
+Data / Parameter 
+SKIDt 
+Data unit 
+Units as specified in the applicable performance 
+module  
+Description 
+Skidding impact parameter, measured in year t 
+Equation 
+2, 5 
+Source of data 
+ 
+Description of measurement methods and 
+procedures to be applied 
+See procedures as specified in the applicable 
+performance module 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+See applicable performance module 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+ 
+ 
+Data / Parameter 
+HAULt 
+Data unit 
+Units as specified in the applicable performance 
+module 
+Description 
+Hauling impact parameter, measured in year t  
+Equation 
+4, 6 
+Source of data 
+ 
+Description of measurement methods and 
+procedures to be applied 
+See procedures as specified in the applicable 
+performance module 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+See applicable performance module 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+22 
+ 
+Data / Parameter 
+ERfell_AGC,t 
+Data unit 
+t CO2 /ha 
+Description 
+Emission reductions from aboveground carbon 
+related to felling in year t  
+Equation 
+1, 7 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+ 
+ 
+Data / Parameter 
+ERskid_AGC,t 
+Data unit 
+ t CO2 /ha 
+Description 
+Emission reductions from aboveground carbon 
+related to skidding in year t 
+Equation 
+2, 7 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+ 
+ 
+Data / Parameter 
+ERhaul_AGC,t 
+Data unit 
+ t CO2 /ha 
+Description 
+Emission reductions from aboveground carbon 
+related to hauling in year t 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+23 
+ 
+Equation 
+3, 7 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+ 
+ 
+Data / Parameter 
+ERfell_BGB,t 
+Data unit 
+t CO2 /ha/year 
+Description 
+Emission reductions from belowground biomass 
+related to felling in year t  
+Equation 
+4, 8 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+Emission reductions from the belowground 
+biomass pool are applied annually over a 10 year 
+period post-harvest (annual emission reductions 
+from belowground biomass are equal to 1/10 of 
+the total emission reduction) 
+ 
+Data / Parameter 
+ERskid_BGB,t 
+Data unit 
+t CO2 /ha/year 
+Description 
+Emission reductions from belowground biomass 
+related to skidding in year t 
+Equation 
+5, 8 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+24 
+ 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+Emission reductions from the belowground 
+biomass pool are applied annually over a 10 year 
+period post-harvest (annual emission reductions 
+from belowground biomass are equal to 1/10 of 
+the total emission reduction) 
+ 
+Data / Parameter 
+ERhaul_BGB,t 
+Data unit 
+t CO2 /ha/year 
+Description 
+Emission reductions from belowground biomass 
+related to hauling in year t 
+Equation 
+6, 8 
+Source of data 
+Applicable RIL-C performance module 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Comment 
+Emission reductions from the belowground 
+biomass pool are applied annually over a 10 year 
+period post-harvest (annual emission reductions 
+from belowground biomass are equal to 1/10 of 
+the total emission reduction) 
+ 
+Data / Parameter 
+RILC,AGC,t 
+Data unit 
+t CO2 /ha  
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+25 
+ 
+Description 
+Emission reductions from aboveground carbon 
+from RIL-C in year t 
+Equation 
+7, 9a, 9b 
+Source of data 
+Calculated 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Any comment 
+ 
+ 
+Data / Parameter 
+RILC,BGB,t 
+Data unit 
+t CO2 /ha/year 
+Description 
+Emission reductions from belowground biomass 
+from RIL-C in year t 
+Equation 
+8, 9a, 9b 
+Source of data 
+Calculated 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+Emission reductions from the belowground 
+biomass pool are applied annually over a 10 year 
+period post-harvest (annual emission reductions 
+from belowground biomass are equal to 1/10 of 
+the total emission reduction). 
+ 
+Data / Parameter 
+CRIL,t 
+Data unit 
+t CO2-e 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+26 
+ 
+Description 
+Total emission reductions at time t  
+Equation 
+9a, 9b 
+Source of data 
+Calculated 
+Description of measurement methods and 
+procedures to be applied 
+ 
+Frequency of monitoring/recording 
+Following completion of each annual harvest 
+QA/QC procedures to be applied 
+ 
+Purpose of data 
+Calculation of emission reductions 
+Calculation method 
+ 
+Comment 
+ 
+ 
+Description of the Monitoring Plan 
+8.3
+Monitored parameters, and sampling and measurement procedures are specified in the 
+applicable region-specific RIL-C performance method module.

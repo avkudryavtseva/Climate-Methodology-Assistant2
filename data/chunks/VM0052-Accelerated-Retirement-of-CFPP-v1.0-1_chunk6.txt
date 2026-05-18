@@ -1,0 +1,94 @@
+5 PROJECT BOUNDARY 
+The spatial extent of the project boundary encompasses the CFPP to be retired and, where 
+applicable, the emissions from the operation of paired renewable electricity sources. 
+Sources of leakage that must be quantified are all the power plants/units connected to the grid 
+that would compensate for electricity generation that is not produced by the retired CFPP and is 
+not covered by paired renewable electricity capacity. Other leakage emissions are associated 
+with certain paired renewable electricity sources. 
+The GHG sources included in or excluded from the project boundary are shown in Table 1. 
+ 
+6 Verra is consulting on program-level rules for the use of biomass that will apply to this methodology once implemented. 
+ 
+VM0052, v1.0 
+12 
+Table 1. GHG sources associated with baseline, project and leakage emissions 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+CFPP electricity 
+generation 
+CO2 
+Yes 
+Major source  
+CH4 
+No 
+Conservative to exclude 
+N2O 
+No 
+Conservative to exclude 
+Other 
+No 
+N/A 
+Project 
+Electricity production 
+by new renewable 
+sources 
+CO2 
+Yes  
+To be considered for landfill gas, 
+geothermal, hydro, biomass thermal, 
+wastewater, and waste-to-energy plants. Not 
+to be considered for other eligible 
+renewable electricity sources.  
+CH4 
+Yes/No 
+Depending on the renewable electricity 
+technology and the relevant CDM 
+methodology referenced in Section 8.2.   
+N2O 
+No 
+De minimis 
+Other 
+No 
+N/A 
+Leakage 
+Electricity sourced 
+from the grid  
+CO2 
+Yes  
+Major source  
+CH4 
+Yes 
+Upstream methane emissions considered 
+for gas-fired power plants where 
+incremental gas is burned to compensate 
+for retired CFPP electricity generation 
+N2O 
+No 
+De minimis 
+Other 
+No 
+De minimis 
+Paired renewable 
+electricity sources 
+CO2 
+Yes/No 
+Depending on the renewable electricity 
+technology and the relevant CDM 
+methodology referenced in Section 8.3.3.   
+CH4 
+Yes/No 
+Depending on the renewable electricity 
+technology and the relevant CDM 
+methodology referenced in Section 8.3.3.   
+N2O 
+No 
+De minimis 
+Other 
+No 
+De minimis 
+ 
+VM0052, v1.0 
+13

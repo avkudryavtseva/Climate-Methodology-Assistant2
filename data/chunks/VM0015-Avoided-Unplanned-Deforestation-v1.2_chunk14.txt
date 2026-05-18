@@ -1,0 +1,64 @@
+1 
+  
+  
+  
+  
+  
+ 
+ 
+T 
+  
+  
+  
+  
+  
+ 
+ 
+ 
+36 This table is optional. 
+ 
+VM0015, v1.2 
+ 
+81 
+ 
+Table 32: Annual Areas Deforested in Each Category ctz Within the Leakage Belt Area in 
+the Baseline Case (Baseline Activity Data Per Category ctz) 
+  
+Activity Data Per LU/LC Category ctz Within the 
+Leakage Belt 
+Total Baseline 
+Deforestation in the 
+Leakage Belt 
+IDct > 
+1 
+2 
+3 
+… 
+Ctz 
+ABSLLKt 
+ABSLLK 
+Name > 
+ZoneCat1 
+ZoneCat2 
+ZoneCat3 
+ZoneCat4 
+ZoneCat5 Annual 
+Cumulative 
+Project 
+year t 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+ha 
+0 
+  
+  
+  
+  
+  
+ 
+ 
+1

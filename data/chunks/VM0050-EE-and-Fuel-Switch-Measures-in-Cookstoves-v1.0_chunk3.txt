@@ -1,0 +1,62 @@
+2 SOURCES 
+This methodology is based on the following methodologies: 
+• 
+CDM AMS-II.G. Energy Efficiency Measures in Thermal Applications of Non-Renewable 
+Biomass, v13.1 
+• 
+CDM AMS-I.E. Switch from Non-renewable Biomass for Thermal Applications by the 
+User, v13.0 
+• 
+VMR0006 Energy Efficiency and Fuel Switch Measures in Thermal Applications, v1.2 
+This methodology uses the most recent versions of the following methodologies, tools, and 
+guidelines: 
+• 
+VCS Tool VT0008 Additionality Assessment 
+• 
+VCS Tool VT0010 Emissions from Electricity Consumption (under development) 
+• 
+CDM AMS-III.K. Avoidance of Methane Release from Charcoal Production    
+• 
+CDM General Guidelines for SSC CDM Methodologies 
+• 
+CDM Standard for Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities 
+• 
+CDM TOOL01 Tool for the Demonstration and Assessment of Additionality 
+ 
+1 This includes micro enterprises. Some regions and countries refer to micro, small, and medium enterprises 
+(MSMEs). 
+ 
+VM0050, v1.0  
+ 
+6 
+• 
+CDM TOOL03 Tool to Calculate Project or Leakage CO2 Emissions from Fossil Fuel 
+Combustion 
+• 
+CDM TOOL05 Baseline, Project and/or Leakage Emissions from Electricity 
+Consumption and Monitoring of Electricity Generation 
+• 
+CDM TOOL07 Tool to Calculate the Emission Factor for an Electricity System 
+• 
+CDM TOOL12 Project and Leakage Emissions from Transportation of Freight 
+• 
+CDM TOOL15 Upstream Leakage Emissions Associated with Fossil Fuel Use 
+• 
+CDM TOOL16 Project and Leakage Emissions from Biomass 
+• 
+CDM TOOL24 Common Practice 
+• 
+CDM TOOL30 Calculation of the Fraction of Non-renewable Biomass 
+• 
+CDM TOOL33 Default Values for Common Parameters 
+This methodology refers to the most recent versions of the following protocols developed 
+collaboratively between Clean Cooking Alliance (CCA) and partners: 
+• 
+Durability Protocol 
+• 
+Controlled Cooking Test Protocol 
+• 
+Kitchen Performance Test Protocol 
+• 
+Water Boiling Test Protocol

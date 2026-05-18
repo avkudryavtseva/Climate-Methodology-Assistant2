@@ -1,0 +1,48 @@
+7 ADDITIONALITY 
+7.1 
+Destruction of CFC or HCFC Refrigerant 
+This methodology uses an activity method to demonstrate additionality for the destruction of 
+CFC or HCFC refrigerant. 
+ 
+4 Step 2b: Demonstrate That Barriers Would Prevent Project Activity Implementation 
+Step 2d: Demonstrate That Carbon Credit Revenues are Decisive in Overcoming Barriers 
+VM0016, v2.0 
+16 
+Step 1: Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent version of the VCS 
+Standard.  
+Where the project proponent demonstrates regulatory surplus, proceed to Step 2. Otherwise, 
+the project activity is not additional. 
+Step 2: Positive List 
+Where the project proponent demonstrates that the project meets all applicability conditions of 
+this methodology and VMD0048 Activity Method for the Determination of Additionality for 
+Recovered and Stockpiled ODS Refrigerants, the project is additional. 
+7.2 
+Destruction of Other ODS or HFC Refrigerant, Blowing Agent, Fire 
+Suppression Agent, and Propellant 
+This methodology uses a project method to demonstrate additionality for the destruction of 
+other ODS or HFC refrigerant, blowing agent, fire suppression agent, and propellant where the 
+activity method is not applicable.   
+Step 1: Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements set out in the most recent versions of the VCS Standard.  
+Where the project proponent demonstrates regulatory surplus, proceed to Step 2. Otherwise, 
+the project activity is not additional. 
+Step 2: Barrier analysis and/or investment analysis 
+Project proponents must follow the procedures and requirements of the most recent version of 
+VT0008 Additionality Assessment to conduct either a barrier analysis or an investment 
+analysis. For the investment analysis, the option “investment comparison analysis” must be 
+applied. Project proponents may choose to apply both analyses to further strengthen the 
+additionality demonstration. 
+Where the project proponent demonstrates that all conditions of either the barrier analysis 
+and/or the investment analysis per VT0008 are met, proceed to Step 3. Otherwise, the project 
+activity is not additional. 
+VM0016, v2.0 
+17 
+Step 3: Common practice analysis 
+Project proponents must conduct a common practice analysis in accordance with “Step 4c: 
+Common Practice Analysis for Measures Not Listed in Step 4a” of the most recent version of 
+VT0008. 
+Where the project proponent demonstrates that the project is not considered common practice, 
+the project is additional. Otherwise, the project activity is not additional.

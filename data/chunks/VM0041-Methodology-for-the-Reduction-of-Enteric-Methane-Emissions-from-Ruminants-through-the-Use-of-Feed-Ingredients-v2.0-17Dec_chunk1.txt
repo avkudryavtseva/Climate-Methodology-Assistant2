@@ -1,0 +1,17 @@
+1 SOURCES 
+The following have informed the development of this methodology: 
+• 
+2006 IPCC Guidelines for National Greenhouse Gas Inventories, Volume 4: Agriculture, 
+Forestry and Other Land Use. Chapter 10: Emissions from livestock and manure 
+management 
+• 
+Government of Alberta (2016). Quantification Protocol for Reducing Greenhouse Gas 
+Emissions from Fed Cattle, v3.0 
+• 
+American Carbon Registry (2014). Methodology for Grazing Land and Livestock 
+Management, v1.0 
+This methodology uses the latest versions of the following modules: 
+• 
+VMD0027: Estimation of Domesticated Animal Populations, v1.0 
+• 
+VMD0028: Estimation of Emissions from Domesticated Animals, v1.0

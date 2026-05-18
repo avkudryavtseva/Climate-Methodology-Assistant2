@@ -1,0 +1,118 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to project activities that recover and/or collect and destroy ODS or 
+HFC where the baseline scenario is the partial or total atmospheric release of ODS or HFC. 
+This methodology is applicable under the following conditions: 
+1) The project activity is implemented in countries that are a party to the Montreal 
+Protocol, including both Article 5 and non-Article 5 countries.1 
+2) The project activity destroys any of the following substances as specified in the 
+Montreal Protocol for which the IPCC publishes a global warming potential (100-year 
+time horizon) (see Appendix 1 for more information2): 
+a) Annex A, Group I (CFCs) 
+b) Annex B, Group I (other CFCs) 
+c) Annex C, Group I (HCFCs) 
+d) Annex F, Group I (HFCs) 
+3) The substances to be destroyed come from the following sources: 
+a) Refrigerants recovered from refrigeration or air conditioning cooling circuits 
+b) Blowing agents contained in insulation foams from end-of-life domestic 
+refrigeration appliances. The blowing agent is: 
+i) extracted from the foam under negative pressure (to ensure that fugitive 
+release of ODS or HFC do not occur) to a concentrated form prior to 
+destruction, or 
+ii) destroyed through the destruction of intact foam.  
+c) Fire suppression agents recovered from fire suppression systems or equipment 
+d) Propellants recovered from used or discarded aerosol cans or canisters 
+ 
+1 Recovery and/or collection and destruction activities may take place in separate countries. 
+2 While Appendix I lists pure substances, commercial blends containing a substance listed in Appendix I are also eligible. 
+VM0016, v2.0 
+9 
+e) CFCs, HCFCs, or HFCs contained in government or privately held stockpiles  
+4) All ODS and HFC are recovered and/or collected, stored, and transported in cylinders or 
+other hermetically sealed containers that meet applicable technical specifications and 
+safety standards. In case of intact foam, the foam is also stored, transported, and 
+destroyed in sealed containers. 
+5) Destruction technologies meet screening criteria set by the UNEP TEAP Task Force on 
+Destruction Technologies (TFDT).3 
+6) The project meets applicable destruction date requirements outlined in Section 4.1. 
+This methodology is not applicable under the following conditions: 
+7) The project activity destroys ODS or HFC refrigerants, blowing agents, fire suppression 
+agents, or propellants that are manufactured for the sole purpose of being 
+subsequently destroyed. 
+8) ODS or HFC for destruction are recovered from pre-polymers. 
+4.1 
+Destruction Date 
+Projects must comply with the following in relation to eligible destruction date, with the 
+exceptions provided in Sections 4.1.1–4.1.2. Eligible destruction dates are dependent on 
+whether a country produced or imported ODS and HFC.  
+The Montreal Protocol ODS phaseout scenarios below exclude material produced or consumed 
+for essential or critical uses, and material produced for feedstock uses. For projects in 
+countries with essential use or critical use exemptions that destroy ODS, the project proponent 
+must demonstrate (e.g., with formal communications to the Montreal Protocol) that the relevant 
+ODS is not needed now or in the future for such uses. 
+• 
+For countries that only produced the relevant ODS or HFC for export: The destruction must 
+not start until the final stepdown of the Montreal Protocol production phaseout for the 
+relevant ODS, or phasedown for HFCs, has been completed by the country. It must also be 
+demonstrated that all intended recipient countries no longer require imports of the relevant 
+ODS or HFC from the source country (e.g., where exports had already ceased). 
+• 
+For countries that produced the relevant ODS or HFC for both domestic consumption and 
+export: The destruction must not start until the final stepdown of the Montreal Protocol 
+production phaseout for the relevant ODS, or phasedown for HFCs, has been completed by 
+the country. It must also be demonstrated that the intended recipient country(ies) no longer 
+requires imports of the relevant ODS or HFC from the source country. 
+ 
+3 According to their most recent report. Reports available at: https://ozone.unep.org/science/assessment/teap 
+VM0016, v2.0 
+10 
+• 
+For countries that only imported the relevant ODS or HFC: The destruction must not start 
+until the final stepdown of the Montreal Protocol consumption phaseout for the relevant 
+ODS, which implies no further imports will occur (i.e., an import ban is in place for the 
+relevant ODS), or consumption phase-down for HFCs, has been completed by the country. 
+Countries that phase out an ODS in advance of its Montreal Protocol consumption phaseout 
+deadline must have in place, before the destruction date, an import ban on the ODS for all uses 
+except critical and essential uses. Countries that phase down an HFC in advance of its Montreal 
+Protocol consumption phasedown deadline must have in place, prior to the destruction date, an 
+HFC import cap that ensures consumption remains below the final HFC consumption limit. 
+Note – Relevant ODS production phaseout deadlines are those of the individual substances 
+and not the substance groups.  
+4.1.1 HCFC Destruction Date Eligibility Exceptions 
+Project proponents may source HCFC from a country (i.e. the source country) that has initiated, 
+but not yet completed, a consumption (and production, where appropriate) phaseout, where at 
+least one of the following applies: 
+1) Stockpile of virgin material: The virgin HCFC was imported into or produced in the 
+source country, prior to the date of approval of this methodology.  
+2) Stockpile of recovered material: The recovered HCFC has been stored in government 
+stockpiles or in the possession of a waste handler for more than one year prior to the 
+destruction date. 
+3) The HCFC was recovered from equipment (and not recycled or reclaimed) 
+4) The HCFC was owned and held by an individual or company (not an HCFC importer or 
+producer) for more than one year prior to the destruction date and consists of virgin, 
+recycled, or reclaimed material. 
+ 
+4.1.2 HFC Destruction Date Eligibility Exceptions 
+HFC projects are also eligible where the HFC is sourced from a country (i.e. the source country) 
+that has not yet completed a consumption (and production, where appropriate) phasedown and 
+one of the following applies: 
+1) The HFC was obtained from a government stockpile. 
+2) The HFC was recovered from equipment or products at end of life, and the project 
+proponent can demonstrate that the source country lacks reclamation infrastructure 
+capacity. 
+3) The HFC is contained in insulation foams. 
+VM0016, v2.0 
+11 
+4) The country has reached both of the following: 1) a phasedown of at least 70% of the 
+baseline for non-Article 5 countries (i.e., 30% or less of the baseline remaining) or at 
+least 50% of the baseline for Article 5 countries (i.e., 50% or less of the baseline 
+remaining) and 2) at least one of the following statements is true: 
+a) The virgin HFC was imported into or produced in the source country prior to the 
+date of approval of this methodology. 
+b) The HFC was produced more than two years prior to acquisition by the project 
+proponent and has been in the possession of a third party (e.g., building owner or 
+waste handler but not producer or importer) for more than one year prior to the 
+destruction date. 
+c) The HFC was recovered from equipment (and not recycled or reclaimed) 
+d) The HFC was owned and held by an individual or company (not an HFC importer or 
+producer) for more than one year prior to the destruction date and consists of 
+recycled or reclaimed material.

@@ -1,0 +1,134 @@
+7 ADDITIONALITY 
+This methodology uses the project method to assess additionality using the following steps. A 
+justification for this approach is provided in Appendix 1.  
+7.1 
+Step 1: Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus per the rules and requirements set 
+out in the most recent version of the VCS Methodology Requirements. 
+Project proponents must consider the laws, statutes, regulatory frameworks, and policies 
+applicable in the jurisdiction of the capture site(s). 
+7.2 
+Step 2: Implementation Barrier 
+Project proponents must demonstrate that they face an investment barrier (i.e., capital or 
+investment return constraints) that would prevent the project from being implemented without 
+carbon credit revenues. 
+To analyze the investment barrier, project proponents must conduct an investment analysis per 
+Step 2 in the most recent version of CDM TOOL01 Tool for the Demonstration and Assessment 
+of Additionality following Option III “Apply the benchmark analysis” and using CDM TOOL27 
+Investment Analysis.  
+The following also applies to the investment analysis: 
+1) The assessment must be from the perspective of the capture activity. Transport and 
+storage activities must be treated as costs to the capture activity. This applies to both:  
+a) Projects with diverse operatorships where costs may be incurred as real fees from 
+transport and storage site operators; and  
+b) Vertically integrated projects, where the project proponent must internally account 
+for capital and operating costs of the transport and storage site(s).   
+2) Revenues (e.g., from subsidies paid by governments) from capture, transport (where 
+applicable), and storage activities must be incorporated into the investment analysis 
+(e.g., a fee per tonne of CO2 transported and/or stored), regardless of the 
+owner/operator of the transport facilities and storage site(s). This does not apply to 
+revenues arising from payments between capture, transport, and storage services as 
+part of the project activities.  
+3) Where shared infrastructure is relevant to the economics of a project, costs or revenues 
+must reflect the estimated (or contracted, where available) usage rate of transport and 
+storage by each capture activity (e.g., where a capture activity uses 10% of the 
+transport and storage capacity, the costs must be prorated and not reflect the cost of 
+the entire transport and storage capacity).  
+ 
+VM0049, v1.0 
+ 
+13 
+4) Where multiple capture activities exist, the investment analysis must consider all 
+capture activities in the project when demonstrating the existence of an investment 
+barrier.  
+5) Where a project has undersubscribed transportation and/or storage usage at the time 
+of the investment analysis, the expected usage rate, fee structure, and return on 
+investment must be used as inputs.  
+6) Revenue and indirect financial benefits (e.g., savings) for the CO2 source facilities must 
+be accounted for, regardless of whether the operators of source facilities and capture 
+facilities are the same entity. Examples include: 
+a) Savings from avoiding or reducing the payment of carbon tax or other fines/levies; 
+b) Revenue generation based on the forecasted value of emissions allowances 
+granted to the project activity for periods when Verified Carbon Units (VCUs) are 
+not issued (VCUs are not issued for the reductions and removals benefit where 
+emissions allowances are also granted); and 
+c) Savings from avoiding or reducing costs for (flue) gas cleaning. 
+7) Payments from the capture facilities to the source facilities for the CO2 captured are not 
+considered costs in the investment analysis. 
+8) Funding from governments or other institutions in the form of grants, tax credits, 
+concessional loans, guarantees, contracts for difference, negative emission payments, 
+or other subsidies (all herein referred to as public support mechanisms) must be 
+reflected as revenues, savings, or in the determination of the benchmark as applicable, 
+regardless of whether the project is vertically integrated or has diverse ownership. 
+However, public support mechanisms should not be considered in the financial 
+additionality analysis where: 
+a) The funder requires the project proponent to try to generate and sell carbon 
+credits as a condition for the public support mechanism; and 
+b) The carbon credit revenue (in whole or part) displaces funds from the public 
+support mechanism that would have otherwise been provided to the project.  
+9) In addition to the requirements of paragraph 20 (Tool01), the alternatives to the project 
+activity used for comparison must also be mutually exclusive. 
+10) Option c in paragraph 38 (Tool01) (i.e. – a company internal benchmark) cannot be 
+used  
+11) The assumptions, data, and conclusions of the investment analysis referred to 
+paragraphs 40 – 42 (Tool01), must be consistent with information presented to the 
+company’s decision-making management and investors/lenders.  
+ 
+VM0049, v1.0 
+ 
+14 
+12) In addition to the requirements of paragraph 42 (Tool01), the investment analysis must 
+also demonstrate that carbon revenues are the deciding factor in increasing the overall 
+economic performance of the proposed activity to a level at or above the benchmark. 
+7.2.1 Contingencies for Operating and Maintenance Costs  
+Contingency costs account for costs that cannot be anticipated/forecasted when applying the 
+investment analysis tool. Estimated contingency costs are expressed as a percentage of the 
+operating and maintenance costs used in the investment analysis completed for a comparable 
+prior activity. One of the following options must be used to determine contingency costs in the 
+context of operating and maintenance costs of the project activity:  
+Option 1: Reference previously estimated contingency costs from other activities undertaken by 
+the project proponent, with a comparable level of technological maturity and risk to the project 
+activity at the time of the final investment decision.  
+Option 2: Reference actual historical contingency costs incurred when the project proponent 
+implemented other activities using technologies with similar levels of maturity and risk to the 
+project activity. The contingency costs are calculated by subtracting the actual operating and 
+maintenance costs incurred over a given period from the estimated operating and maintenance 
+costs for the same period. The estimated operating and maintenance costs must be obtained 
+from background work such as feasibility studies to inform investment decisions. 
+Option 3: Use other approaches that have been applied in a relevant industrial sector (i.e., 
+related to the applicable source facilities) to determine contingency costs, with a maximum 
+value of 15% for this option.  
+7.3 
+Step 3: Common Practice 
+The project activity must not be common practice, determined for each capture activity 
+included or added to the project as follows: 
+1) The project type must not be common practice in the respective sector and country.  
+• 
+Common practice is defined as the project activity implemented in more than 20% of 
+comparable source facilities in the sector and country.  
+• 
+Similar project activities under validation, submitted for registration, or registered 
+under any GHG crediting program may be excluded from the common practice 
+analysis. 
+• 
+The “sector” refers to the source facility sector (e.g., fossil fuel or geothermal-based 
+power and heat generation, industrial processes, oil and gas production and 
+processing, bioethanol production, biomass power and heat).  
+• 
+Where a project includes multiple source facilities representing different sectors, each 
+source facility requires a separate common practice assessment.  
+ 
+VM0049, v1.0 
+ 
+15 
+• 
+Where different types of capture facilities are included in the project, a common 
+practice assessment is required for each.  
+• 
+DAC is not considered common practice by default, as there is no source facility.  
+2) Where similar activities exist, the project proponent must identify barriers faced compared 
+with existing projects to underpin the risks, costs, and/or limitations to regular 
+advancement of the project activity, to demonstrate that this is not common practice for the 
+project activity. 
+Projects that demonstrate regulatory surplus, an investment barrier, and are not common 
+practice are deemed additional.

@@ -1,0 +1,28 @@
+83 
+DOCUMENT HISTORY 
+Version 
+Date 
+Comment 
+v1.0 
+20 Sep 2011 
+Initial version 
+v1.1 
+30 Nov 2017 
+Minor revision, including updates to account for destruction of unused 
+stockpiled ODS. Introduction of a positive list for CFCs in stockpile. 
+v2.0 
+12 Dec 2025 
+Major revision, including the following updates: 
+• Inclusion of additional sources and gases for destruction: 
+o HFC as eligible substance 
+o Destruction of intact foam 
+o Destruction of fire suppressants and propellants 
+o HCFC and HFC in stockpile under specific conditions 
+• Inclusion of destruction of HCFC/HFC in countries that have not fully 
+completed their phase-out under the Montreal Protocol subject to specific 
+conditions 
+• Adoption of VT0008 Additionality Assessment  
+• Improvements to Section 6 (baseline scenario) 
+• Clarifications to requirements related to sampling, analysis, container 
+characteristics, and mixed substances, among others 
+• Adoption of the latest VCS methodology template

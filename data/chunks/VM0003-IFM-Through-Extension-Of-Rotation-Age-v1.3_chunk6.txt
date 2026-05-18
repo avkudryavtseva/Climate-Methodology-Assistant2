@@ -1,0 +1,172 @@
+6 BASELINE SCENARIO 
+6.1 
+Selected Baseline Approach 
+Changes in carbon stocks in the pools within the project boundary from the most likely land use 
+at the time the project starts. 
+6.2 
+Preliminary Screening Based on the IFM Project Activity Start Date 
+In accordance with the VCS Standard, projects using this methodology must initiate the pipeline 
+listing process within three years of the project start date and must complete validation within 
+eight years of the project start date. 
+6.3 
+Determination of Baseline Scenario 
+ 
+Step 1a. Identify credible alternative forest management scenarios to the proposed VCS project 
+activity 
+As per the applicability conditions, the project must demonstrate a baseline scenario that 
+involves clear cut, patch cut, seed tree, continuous thinning or group selection forest 
+management techniques, using evidence such as management plans, forest inventories, 
+assessments by reputable forestry consultants, the common practice of alternative landowners 
+and common practice in the region. Where it is not possible to demonstrate such a baseline, 
+this methodology must not be applied. Baseline scenarios with no timber harvesting or 
+management without a timber revenue objective must be excluded as per the methodology 
+applicability conditions. Identify realistic and credible land-use scenarios that would have 
+occurred on the land within the proposed project area in the absence of the IFM project activity 
+under the VCS.2 The scenario must be feasible for the project proponents or similar project 
+ 
+2 For example, continuation of the pre-project land use or a switch to land use typical for the region in which the planned 
+IFM project is located, establishing agricultural plantation, tourist resort, hunting area/farm, utilizing regionally typical 
+forms of funds investment or other economically attractive activities. 
+ 
+VM0003, v1.3  
+ 
+8 
+ 
+proponents taking into account relevant national and/or sectoral policies3 and circumstances, 
+such as historical land uses, practices and economic trends. The identified land-use scenario 
+must be limited to forested land uses. This process must clearly identify barriers to and benefits 
+of all potential scenarios. 
+The possible land-use scenarios to be evaluated must include: 
+1) Continuation of pre-project forest management (historical baseline); 
+2) Legal requirements for forest management in the region (legal baseline); 
+3) Common practice forest management in the region (common practice baseline); and 
+4) Forest management as modeled under the project but in the absence of registration as 
+an IFM project activity. 
+For identifying realistic and credible land-use scenarios, land-use records, field surveys, data 
+and feedback from stakeholders and information from other appropriate sources, including 
+participatory rural appraisal (PRA)4 should be used as appropriate. All current land uses within 
+the boundary of the proposed IFM project activity may be deemed realistic and credible.  
+IFM project proponents must use the following guidelines to define these possible land-use 
+scenarios. 
+Guidance for Defining the Legal Baseline 
+The legal baseline is defined by the forest management scenario that maximizes net present 
+value to the forest owner(s) through timber harvesting while reflecting all legal requirements for 
+forest management. In many cases, the specific management practices defined by the project 
+proponent in the legal baseline may not be explicitly addressed in the relevant forest practices 
+regulations, and the legality and plausibility of these practices must be confirmed by an 
+independent forest consulting entity. 
+Guidance for Defining the Common Practice Baseline 
+Common practice in the project region must be defined by an independent forest consulting 
+entity and must consider the following elements of forest management: 
+1) Harvest rotations, 
+ 
+3 Annex 3 to the report of the EB at its twenty-second meeting and Annex 19 to the report of the EB at its twenty-third 
+meeting clarify how relevant national and/or sectoral policies should be taken into account during identification of a 
+baseline scenario. Available at: https://cdm.unfccc.int/EB/022/eb22_repan3.pdf  and 
+https://cdm.unfccc.int/EB/023/eb23_repan19.pdf 
+4 Participatory rural appraisal (PRA) is an approach to the analysis of local problems and the formulation of tentative 
+solutions with local stakeholders. It makes use of a wide range of visualization methods for group-based analysis to 
+deal with spatial and temporal aspects of social and environmental problems. This methodology is described in 
+Chambers, R. (1992). Rural appraisal: Rapid, relaxed, and participatory. Discussion Paper 311, Institute of 
+Development Studies, and Theis, J., & Grady, H. (1991). Participatory rapid appraisal for community development. 
+Save the Children Fund. 
+ 
+VM0003, v1.3  
+ 
+9 
+ 
+2) Harvest methods, 
+3) Species harvested and planted, 
+4) No-harvest zones, 
+5) Riparian management areas, 
+6) Areas of steep slope or unstable soils, and/or 
+7) Maximum patch cut areas. 
+ 
+Step 1b. Selection of a single baseline forest management scenario 
+IFM project proponents must evaluate the identified plausible baseline management systems 
+relative to all of the following:  
+1) A documented history of the operator (e.g., operator must have at least 20 years of 
+management records to show normal historical practices). Common records to 
+document history include data on timber cruise volumes, inventory levels or harvest 
+levels on the property;  
+2) The legal requirements for forest management and land use in the area; and 
+3) A common practice standard among similar landowners in the area. 
+In all cases these three scenarios must be described by the project proponent, then reviewed 
+and approved as plausible and accurate by an independent forest consulting entity. 
+Requirements for forest consultant qualifications will vary by region, however, the 
+validation/verification body must consider the following elements when reviewing consultant 
+qualifications: 
+a) In regions where a legally recognized certified forester designation exists, the forest 
+consulting entity must have that designation. 
+b) In areas where there are no legal certified forester designations, the consultant must 
+have either of the following: 
+i) 
+Accreditation under a widely recognized elective accreditation program that 
+grants “certified forester” designation (e.g., Society of American Foresters); or 
+ii) 
+Publicly filed management plans or harvest plans that demonstrate the 
+participation of the consulting entity and their qualifications to review the 
+required documentation.  
+The alternative land-use scenario that is not prevented by any barrier or is the most financially 
+viable is identified as the baseline scenario.  
+IFM project proponents must use the following guidelines to select the most plausible baseline 
+scenario to be modeled. 
+Historical Baseline 
+ 
+VM0003, v1.3  
+ 
+10 
+ 
+The historical baseline must be selected as the most plausible baseline scenario where the 
+following documents exist for the forest property: 
+1) Historical records of forest management for 20 or more years preceding the project 
+start date; 
+2) Historical records that indicate that the management practices have surpassed the 
+legal barriers provided by conforming with all local and regional forest legislation; and 
+3) Historical records that indicate that the historical management does not surpass 
+financial barriers as indicated by providing below average market returns.5 
+Where these documents do not exist, the project must be developed using the legal or common 
+practice baselines.  
+Legal Baseline 
+Where the historical baseline is not applicable based on the criteria above, the legal baseline 
+must be selected as the most plausible baseline scenario where regulations of forest 
+management practices exist and are readily enforced within the project region.  
+An independent forest consulting entity must confirm that the practices defined in the legal 
+baseline by the project proponent are plausible considering verifiable evidence. During 
+validation, the forest consultant must share with the validation/verification body evidence for 
+their determination of the plausibility of the legal baseline. Such evidence must in all situations 
+be considered confidential and must not be published or shared by the validation/verification 
+body. Such evidence may include, for example: management plans, records of timber sales or 
+harvesting by the project proponent within the project area or in other properties under their 
+control; management plans, records of timber sales or harvesting by other entities similar to 
+the project proponent in the region; national or regional government statistics on forest 
+management in the region; published data and analyses on forest management in the region; 
+and/or spatial analyses on management options and/or carbon stocks in the focal region. As 
+needed, the validation/verification body may consult additional independent forest consulting 
+entities to verify the opinion provided by the independent forest consulting entity selected by 
+the proponent and to determine that the legal baseline is plausible. 
+Common Practice Baseline 
+The common practice baseline must be selected as the most plausible baseline scenario where 
+there is insufficient documentation to utilize the historical baseline and where forest 
+management regulations do not exist or are not readily enforced in the project region.  
+It is possible that the common practice baseline and project scenarios are the same, in which 
+case the project scenario is not considered additional. 
+ 
+5 Below average market returns are defined as 80 percent or less of the current prevailing internal rate of return for 
+forestland investment in comparable forest types and locations, after considering the full array of timber, non-timber 
+and ecosystem service net revenues associated with the property, averaged over the last five years. Forestland 
+investment in comparable forest types and locations is defined as common practice management.   
+ 
+VM0003, v1.3  
+ 
+11 
+ 
+During validation, the forest consultant must share with the validation/verification body 
+evidence for their determination of common practice. Such evidence must in all situations be 
+considered confidential and must not be published or shared by the validation/verification 
+body. Such evidence may include, for example: management plans, records of timber sales or 
+harvesting by the project proponent within the project area or in other properties under their 
+control; management plans, records of timber sales or harvesting by other entities similar to 
+the project proponent in the region; national or regional government statistics on forest 
+management in the region; published data and analyses on forest management in the region; 
+and/or spatial analyses on management options and/or carbon stocks in the region.

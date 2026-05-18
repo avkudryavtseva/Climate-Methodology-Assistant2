@@ -1,0 +1,53 @@
+1 SUMMARY DESCRIPTION  
+Table 1. Additionality, crediting baseline, and mitigation outcome 
+Additionality, Crediting Method, and Mitigation Outcome 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+Mitigation Outcome 
+Reductions 
+ 
+This agricultural land management (ALM) methodology provides procedures to estimate the 
+greenhouse gas (GHG) emission reductions (CH4, N2O, and CO2) resulting from the adoption of 
+improved management practices in rice production systems.  
+The methodology is compatible with sustainable agriculture and has a particular focus on 
+reducing methane (CH4) emissions from the cultivation of rice. Practices that are expected to 
+result in material declines in soil organic carbon (SOC) are not eligible under this methodology. 
+Projects that seek credits for SOC stock increases (removals) or that employ practices that 
+result in material declines in SOC must use VCS methodology VM0042 Improved Agricultural 
+Land Management.  
+The crediting baseline and additionality are determined via a project method (Table 1). The 
+baseline scenario assumes the continuation of pre-project rice cultivation practices. The 
+management practices in the baseline scenario are determined by applying a historical look-
+back period to produce an annual schedule of activities (i.e., irrigation and water regime, 
+planting date and type, fertilization practices, drainage event(s), harvest dates, and off-season 
+practices) for each quantification unit (e.g., for each field) within the project area, over the 
+project crediting period.1  
+Each project must include activities that materially reduce soil methanogenesis (reducing CH4 
+emissions) and may optionally include further practices, including avoided biomass burning 
+(reducing CH4 and N2O emissions), application of biochar, use of methanotrophs, improved 
+nitrogen fertilizer management (i.e., reductions in total nitrogen usage and/or the use of 
+interventions such as nitrification inhibitors), and more efficient fossil fuel usage (reducing CO2 
+ 
+1 At crediting period renewal, the validity of the original baseline scenario must be reassessed. Where the original 
+baseline is determined to be invalid, a new baseline scenario reflecting current rice production practices in the region 
+must be developed. For more details, see the most recent rules on baseline reassessment and project crediting renewal 
+in Sections 3.2.7 and 3.9.8 of the VCS Standard, v4.7 or equivalent sections of the most recent version. 
+ 
+VM0051, v1.0 
+ 
+ 
+6
+emissions). Any quantitative adjustment in optional practices must exceed 5% of the pre-
+existing value to qualify as a practice change. 
+Additionality is demonstrated by a regulatory surplus assessment, barrier and/or investment 
+analysis, and a common practice test to determine that the practice change implemented 
+under the project activity is not common practice.  
+Reductions are quantified using one of three eligible quantification approaches (QAs), including 
+QA1: using a biogeochemical, process-based model; QA2: direct measurements of CH4 
+emissions; and QA3: default equations and emission factors. Available options differ depending 
+on the GHG pool or source being assessed and the scale of the project. Simplified procedures 
+are provided for projects using Quantification Approach 3 that have a capacity limit of 60 000 
+t CO2e per year. See Table 4 for a summary of allowable quantification options and Section 8.1 
+for the details of each approach.

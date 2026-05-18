@@ -1,0 +1,755 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+Biochar is made from a diverse array of feedstocks and may be produced with a wide variety of 
+technologies. Life cycle assessment (LCA) studies of biochar indicate that the climate benefits 
+of biochar material are highly variable and dependent on many factors. For example, if fossil 
+fuel energy (diesel, gasoline, propane) is used to chip, grind, transport, and dry feedstocks then 
+the GHG benefits of biochar to soil and non-soil applications may be reduced or eliminated 
+(Hedley et al., 2020; Puettmann et al., 2017; Sahoo et al., 2021). 
+Biochar production systems vary substantially by technology type. During production, there are 
+mix of emissions including carbon dioxide (CO2), methane (CH4) and soot. Carbon in biomass is 
+biogenic, and part of the active natural carbon cycle. Because the CO2 released during biochar 
+production has been recently captured from the atmosphere and stored in plant tissues 
+through photosynthesis, biomass is generally considered carbon neutral. However, emissions of 
+CH4 and soot have a more powerful global warming potential than CO2 (Amonette et al 2021). 
+Eligible high technology production systems involve some form of post-pyrolysis combustion 
+process such as funneling gases through an afterburner (to control CO2 and CH4 production), 
+re-injection of gases into the pyrolysis system to increase efficiency of production, and/or using 
+the excess heat produced to generate electricity or other useful purposes. (See Section 3 for 
+complete definitions and eligibility conditions for high technology and low technology production 
+facilities). 
+Eligible low technology production systems lack the same controls as high-technology 
+production systems; however, project proponents must be able to demonstrate that the low-
+technology system used is minimizing CH4 and soot production. Examples of low-technology 
+systems that meet the criteria for minimizing CH4 and soot are those that harness the natural 
+convection processes to create a combustion zone above the pyrolysis zone, as excess 
+ 
+VM0044, v1.2 
+ 
+19 
+methane may be produced, particularly at start-up and shut-down, that may counter the long-
+term sequestration benefits of biochar. 
+Biochar GHG benefits may increase if the syngas or bio-oil produced are used to replace fossil 
+fuel-based (mainly coal) energy sources. However, the reverse may be true if diesel fuel or 
+propane are used during production or processing of feedstocks. Furthermore, the methodology 
+eliminates the use of technologies and feedstocks that lead to health and safety issues, 
+unwanted environmental emissions, and contamination risk in soils. 
+Biochar materials are most used in soil applications; however, non-soil applications are 
+increasingly common, for example as an asphalt additive or addition to concrete mixes. The 
+total GHG benefits of biochar are therefore influenced both by the type of feedstocks or the 
+technology used, and the potential fossil fuel inputs used to create the final product. GHG 
+inputs may include fossil fuel or electrical energy used for waste biomass pre-treatment or 
+biochar post-treatment.  
+Given the diversity and complexity of biochar GHG accounting, existing biochar certification 
+programs like the European Biochar Certificate (EBC) and this methodology limit feedstock 
+types, the technologies that may be used to produce biochar, and the type of products that 
+qualify.  
+The methodology provides a complete, robust, and credible approach to quantifying net GHG 
+removals resulting from biochar management, including at the stages of waste biomass 
+sourcing, production, and application of biochar. Baseline and project emissions consider the 
+flux of CH4, N2O, and CO2 and are defined and quantified in terms of tonnes of CO2e per year.  
+To facilitate the future inclusion of further feedstocks and other biochar end-uses, the GHG 
+quantification is set up in a framework, which allows a broad approach to estimate the climate 
+impacts of the biochar value chain. This framework includes:  
+• 
+The sourcing stage, where waste biomass is sourced and collected, 
+• 
+The production stage, during which waste biomass is prepared (if applicable) and 
+thermochemically converted into biochar and, 
+• 
+The application stage, where the biochar is applied to a long term end-use (in soils or 
+eligible non-soil applications).  
+8.1 
+Baseline Emissions 
+8.1.1 Sourcing Stage 
+The baseline scenario is the situation where, in the absence of the project activity, waste 
+biomass would have been left to decay or would have been combusted for purposes other than 
+energy production in the year that the biochar is made within the project boundary. 
+Following the CDM EB23 Annex 18: Definition of renewable biomass, waste biomass may be 
+classified as renewable. As the decay rate pathway of diverse feedstock types varies by region 
+ 
+VM0044, v1.2 
+ 
+20 
+and time, the methodology defines the default net baseline emission avoidance as zero 
+following a conservative scenario (BESS,y). 
+8.1.2 Production Stage 
+In the baseline scenario at production stage, no biochar is produced for the purpose of the 
+project activity and therefore no GHG removals or related emissions are considered.  
+8.1.3 Application Stage 
+Emissions at application stage refer to GHG emissions associated with the post-production and 
+end-use application of biochar. In the baseline scenario at application stage, since no biochar 
+was produced, no GHG removals or related emissions are considered.  
+8.2 
+Project Emissions 
+8.2.1 Sourcing Stage 
+At the sourcing stage, the methodology relies on the collection of waste biomass. Therefore, the 
+emissions at the sourcing stage (PESS,y) are set to zero. 
+8.2.2 Production Stage 
+In the project scenario, the net GHG balance depends on the organic carbon content at the 
+biochar production stage. Equation 1 summarizes the carbon balance at the production stage 
+by comparing the difference between the stabilized carbon content in the biochar and the 
+resulting project emissions from feedstock pre-treatment (where applicable) and from 
+conversion of waste biomass into biochar. The former includes emissions from energy 
+consumption of drying and pre-processing feedstocks, and the latter includes other relevant 
+emissions from the production facilities. The project emission removals during production at 
+the biochar facility are as follows: 
+𝐸𝑅𝑃𝑆,𝑦= ∑((∑𝐶𝐶𝑡,𝑘,𝑦
+𝑘
+× 44
+12) −(∑𝑃𝐸𝑃𝑆,𝑡,𝑝,𝑦
+𝑝
+))
+𝑡
+ 
+(1) 
+Where: 
+ERPS,y 
+= GHG emissions removals at production stage in year y (tCO2e) 
+CCt,k,y 
+= Organic carbon content on a dry weight basis for biochar type t used for 
+application type k in year y (tonnes) 
+PEPS,t,p,y 
+= Project emissions at production stage for production of biochar type t at 
+production facility p in year y (tCO2e) 
+44
+12 
+= Coefficient to convert organic carbon to tCO2e 
+ 
+VM0044, v1.2 
+ 
+21 
+As production facilities and technologies differ in terms of potential to measure and report 
+relevant parameters, the methodology provides two options (low and high technology) to derive 
+the respective parameters based on characteristics of the technology used in the production 
+facility. Further, as the biochar produced may be utilized differently in the project activity (both 
+in soil and in non-soil applications), different decay rates must be considered for the respective 
+mass of biochar utilized amongst different applications.  
+8.2.2.1 Option P.1: High Technology Production Facility 
+High technology production facilities are defined in Section 3. If any of the conditions in this 
+definition are not met, the production facility must be categorized immediately as a low 
+technology production facility. 
+For all high technology facilities, organic carbon content of the produced biochar must be 
+derived from material analysis conducted via established laboratory and standardized methods. 
+Project proponents must determine organic carbon content on a dry weight basis using 
+methods described in the latest version of the IBI Biochar Testing Guidelines or EBC Production 
+Guidelines or other internationally/nationally accredited standards. 
+Step 1: Estimate organic carbon content (CCt,k,y) of biochar for high technology facilities 
+The total organic carbon content of the produced biochar is the foundation for the GHG 
+calculation. The value is derived from the mass of biochar, its respective organic carbon 
+content, and the decay rate of organic carbon in the biochar taken over a period of 100 years 
+(100-year permanence value which is based on 100-year global warming potential horizon).  
+The methodology provides default decay values when the biochar is used in soil applications. If 
+the project proponent produces biochar for eligible non-soil applications, the project proponent 
+must either provide a permanence value or utilize conservative default factors (i.e., the soil 
+decay value).  
+The total organic carbon content on a dry weight basis attributable to the project activity is 
+estimated as follows: 
+𝐶𝐶𝑡,𝑘,𝑦= ∑(𝑀𝑡,𝑘,𝑝,𝑦× 𝐹𝐶𝑝,𝑡,𝑝× 𝑃𝑅𝑑𝑒,𝑘)
+𝑝
+ 
+(2) 
+Where: 
+CCt,k,y 
+= Organic carbon content on a dry weight basis for biochar type t used for 
+application type k in year y (tonnes). Biochar type is based on the feedstock used 
+to produce the biochar. 
+Mt,k,p,y  
+= Mass on a dry weight basis of biochar type t for application type k produced at the 
+production facility p in year y (tonnes)  
+ 
+VM0044, v1.2 
+ 
+22 
+FCp,t,p 
+= Organic carbon content of biochar type t produced in production facility p per 
+tonne of biochar, taken on a dry weight basis (percent). For high technology 
+production facilities, this is defined through laboratory material analysis of biochar. 
+PRde,k 
+= Permanence adjustment factor due to decay of biochar per application type k 
+(dimensionless) 
+PRde,k must be established for soil or non-soil end-use as follows: 
+• 
+Soil end-use: See Table 3 which draws from IPCC (2019) and Woolf et al. (2021) and 
+uses production temperatures Tprod to determine conservative defaults for PRde,k. 
+Table 3. Default values for PRde,k from Table 4AP.2 of IPCC (2019) 
+Temperature 
+Default Value 
+High temperature pyrolysis and gasification 
+(> 600 °C) 
+0.89 
+Medium temperature pyrolysis (450 – 600 
+°C) 
+0.80 
+Low temperature (350 – 450 °C) 
+0.65 
+• 
+Non-soil end-use: Where no scientifically robust information on the permanence of 
+organic carbon content is available, project proponents must use the soil application 
+decay factor in Table 3. Project proponents may propose any other value for PRde,k as a 
+substitute for the values in Table 3. The project proponent must provide at least one 
+form of evidence of the proposed value of PRde,k following the requirements for default 
+factors established in Section 2.5.2 of the latest version of the VCS Methodology 
+Requirements. Where the scientific literature proposes different values of PRde,k the 
+project proponent must adopt the lower value to ensure conservativeness. 
+Documentation and information such as white papers or non-peer reviewed research 
+papers are not considered as credible and appropriate forms of evidence. 
+ 
+Step 2: Estimate project emissions (PEPS,p,y) for high technology production facilities 
+Emissions under the project scenario are determined using the following equation: 
+𝑃𝐸𝑃𝑆,𝑝,𝑦= (𝑃𝐸𝐷,𝑝,𝑦+ 𝑃𝐸𝑃,𝑝,𝑦+ 𝑃𝐸𝐶,𝑝,𝑦) ×
+∑∑𝑀𝑡,𝑘,𝑝,𝑦
+𝑘
+𝑡
+𝑀𝑝,𝑦
+ 
+(3) 
+Where:  
+PEPS,p,y 
+= Project emissions at the production stage for production of biochar at production 
+facility p in year y (tCO2e) 
+ 
+VM0044, v1.2 
+ 
+23 
+PED,p,y 
+= Emissions associated with the pre-treatment of waste biomass at production 
+facility p in year y (tCO2e) 
+PEP,p,y 
+= Emissions associated with the conversion of waste biomass into biochar at 
+production facility p in year y (tCO2e) 
+PEC,p,y 
+= Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis at 
+production facility p in year y (tCO2e) 
+Mt,k,p,y 
+= Mass on a dry weight basis of biochar type t for application type k produced at 
+production facility p in year y (tonnes)   
+Mp,y 
+= Total mass of biochar on a dry weight basis produced in production facility p in 
+year y (tonnes) 
+Determining PED,p,y: Emissions associated with pre-treatment of feedstock at production facility 
+p in year y   
+Energy consumption for any necessary pre-treatment of waste biomass must be accounted for. 
+This may include feedstock preparation (e.g., feedstock agglomeration, homogenization, 
+pelletizing) either inside the production facility or in field preparation, drying of wet waste 
+biomass, or other processes. If the energy source is renewable, PED,p,y must be zero. Otherwise, 
+it must be calculated as follows: 
+𝑃𝐸𝐷,𝑝,𝑦 = 𝑃𝐸𝐷𝐸,𝑝,𝑦 + 𝑃𝐸𝐷𝐹,𝑝,𝑦 
+(4) 
+Where:  
+PED,p,y 
+= Emissions associated with pre-treatment of feedstock at production facility p in 
+year y (tCO2e) 
+PEDE,p,y  
+= Emissions associated with use of grid-connected electricity utilized for pre-
+treatment of waste biomass at production facility p in year y (tCO2e). PEDE,p,y  must 
+be calculated as per the provisions of CDM TOOL05: Baseline, project and/or 
+leakage emissions from electricity consumption and monitoring of electricity 
+generation.17 
+PEDF,p,y   
+= Emissions associated with combustion of fossil fuels utilized for pre-treatment of 
+waste biomass at production facility p in year y (tCO2e). PEDF,p,y  must be calculated 
+as per the provisions of CDM TOOL03: Tool to calculate project or leakage CO2 
+emissions from fossil fuel combustion.18 
+Determining PEP,p,y: Emissions associated with the thermochemical process at production facility 
+p in year y for high technology facilities 
+Processing of waste biomass refers to the pyrolysis process, which fixes the organic carbon 
+from biomass into permanent carbon in biochar. The value PEP,p,y  accounts for the emissions 
+ 
+17 Available at https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-05-v3.0.pdf  
+18 Available at https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-03-v3.pdf  
+ 
+VM0044, v1.2 
+ 
+24 
+from pyrolysis, which are emitted into the atmosphere. In alignment with eligibility requirements 
+for high technology production facilities, net emissions are considered de minimis.19 Therefore,  
+𝑃𝐸𝑃,𝑝,𝑦 = 0 
+ 
+Where: 
+PEP,p,y 
+= Emissions associated with the conversion of waste biomass into biochar at 
+production facility p in year y (tCO2e) 
+Determining PEC,p,y: Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis 
+at production facility p in year y 
+When external energy is required to initiate and maintain the pyrolysis reactor, it must be 
+accounted as project emissions. If the source of auxiliary energy is renewable, PEC,p,y must be 
+zero. Otherwise, it must be calculated as follows: 
+𝑃𝐸𝐶,𝑝,𝑦 = 𝑃𝐸𝐶𝐸,𝑝,𝑦 + 𝑃𝐸𝐶𝐹,𝑝,𝑦 
+(5) 
+Where:  
+PEC,p,y 
+= Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis at 
+production facility p in year y (tCO2e) 
+PECE,p,y  
+= Emissions associated with use of grid-connected electricity utilized for starting the 
+reactor at production facility p in year y (tCO2e). PECE,p,y must be calculated as per 
+CDM TOOL05: Baseline, project and/or leakage emissions from electricity 
+consumption and monitoring of electricity generation. 
+PECF,p,y 
+= Emissions associated with combustion of fossil fuels utilized for starting the 
+reactor at production facility p in year y (tCO2e). PECF,p,y must be calculated as per 
+the provisions of CDM TOOL03: Tool to calculate project or leakage CO2 emissions 
+from fossil fuel combustion. 
+8.2.2.2 Option P.2: Low Technology Production Facility  
+Technologically less advanced production facilities usually have lower efficiency of converting 
+organic carbon and often lack emissions controls during the production process. However, 
+these also play an important role in carbon removal associated with production and use in 
+certain cases, e.g., smallholder and farm level settings. Low technology production facilities are 
+all production facilities that do not meet the conditions defined under high technology 
+production.  
+ 
+19 Following condition (a) of the definition of a high technology production facility, the ability to combust or recover 
+pyrolysis gases, thereby limiting the emissions of methane to the atmosphere. 
+ 
+VM0044, v1.2 
+ 
+25 
+Step 1: Estimate organic carbon content (CCt,k,y) of biochar for low technology facilities 
+As with high technology settings, in low technology settings the total organic carbon content of 
+the produced biochar is the foundation of the GHG calculations. The value is derived from the 
+mass of biochar, its respective organic carbon content, and the decay rate of organic carbon in 
+the biochar taken over a period of 100 years (100-year permanence value). 
+For low technology production facilities, a conservative approach has been selected, related to 
+the organic carbon content of biochar (FCp), based on feedstock type and heating temperature 
+as provided in Table 4 which draws from IPCC Method for Estimating the Change in Mineral Soil 
+Organic Carbon Stocks from Biochar Amendments: Basis for Future Methodological 
+Development.20 In Equation 6, permanence (the fraction of carbon in the biochar remaining 
+after 100 years) is included.  
+𝐶𝐶𝑡,𝑘,𝑦= ∑(𝑀𝑡,𝑘,𝑝,𝑦× 𝐹𝐶𝑝,𝑡,𝑝× 𝑃𝑅𝑑𝑒,𝑘)
+𝑝
+ 
+(6) 
+Where: 
+CCt,k,y 
+= Organic carbon content on a dry weight basis for biochar type t used for 
+application type k in year y (tonnes). Biochar type is based on the feedstock used 
+to produce the biochar. 
+Mt,k,p,y 
+= Mass on a dry weight basis of biochar type t for application type k produced at 
+production facility p in year y (tonnes)  
+FCp,t,p  
+= Organic carbon content of biochar type t produced in production facility p per 
+tonne of biochar, taken on a dry weight basis (percent). For low technology 
+production facilities. this is determined through laboratory material analysis of 
+biochar where possible. Otherwise, values are obtained from Table 4 per type of 
+feedstock. Where feedstocks are mixed, the most conservative value of the 
+relevant feedstocks must be used. 
+PRde,k 
+= Permanence adjustment factor due to decay of biochar to be defined for 
+application type k (dimensionless). Biochar is subject to natural decay rate when 
+used in soil applications such as in agriculture, forests, croplands, or grasslands. 
+Many low technology production facilities do not measure the temperature at 
+biochar production. A default value of 0.5621 must be used where pyrolysis 
+temperature is unknown. This follows a conservative approach for carbon 
+permanence. 
+Determining FCp: Values for organic carbon content per tonne of biochar per production type 
+The organic carbon content must be determined in a qualified laboratory following IBI Biochar 
+Testing Guidelines or EBC Production Guidelines on the production of biochar. However, project 
+ 
+20 Available at https://www.ipcc-nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf  
+21 Value of 0.56 is used where the temperature of pyrolysis is not measured, recorded and reported. Default value taken 
+from Figure 4Ap.1(b) in IPCC (2019) Appendix 4: Method for Estimating the Change in Mineral Soil Organic Carbon 
+Stocks from Biochar Amendments: Basis for Future Methodological Development. Available at https://www.ipcc-
+nggip.iges.or.jp/public/2019rf/pdf/4_Volume4/19R_V4_Ch02_Ap4_Biochar.pdf 
+ 
+VM0044, v1.2 
+ 
+26 
+proponents using low technology production facilities may adopt values from IPCC (2019) for 
+different feedstocks and production types (Table 4). Further, project proponents may also refer 
+to other scientific literature such as Woolf et al. (2021).  
+Table 4. Values for organic carbon content in biochar from Table 4AP.1 of IPCC (2019) 
+Feedstock 
+Production Process 
+Values for FCp 
+Animal manure 
+ 
+Pyrolysis 
+0.38 
+Gasification 
+0.09 
+Wood 
+Pyrolysis 
+0.77 
+Gasification 
+0.52 
+Herbaceous (grasses, forbs, leaves; 
+excluding rice husks and rice straw) 
+Pyrolysis 
+0.65 
+Gasification 
+0.28 
+Rice husks and rice straw 
+Pyrolysis 
+0.49 
+Gasification 
+0.13 
+Nut shells, pits, and stones 
+Pyrolysis 
+0.74 
+Gasification 
+0.40 
+Biosolids (paper sludge) 
+Pyrolysis 
+0.35 
+Gasification 
+0.07 
+Step 2: Estimate project emissions PEPS,p,y for low technology production facilities 
+Emissions under the project scenario are determined using the following equation: 
+ 
+𝑃𝐸𝑃𝑆,𝑝,𝑦= (𝑃𝐸𝐷,𝑝,𝑦+ 𝑃𝐸𝑃,𝑝,𝑦+ 𝑃𝐸𝐶,𝑝,𝑦) ×
+∑∑𝑀𝑡,𝑘,𝑝,𝑦
+𝑘
+𝑡
+𝑀𝑝,𝑦
+ 
+(7) 
+Where:  
+PEPS,p,y 
+= Project emissions at the production stage at production facility p in year y (tCO2e) 
+PED,p,y 
+= Emissions associated with the pre-treatment of waste biomass at production 
+facility p in year y (tCO2e) 
+PEP,p,y 
+= Emissions associated with the conversion of waste biomass into biochar at 
+production facility p in year y (tCO2e) 
+PED,p,y  
+= Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis at 
+production facility p in year y (tCO2e) 
+ 
+VM0044, v1.2 
+ 
+27 
+Determining PED,p,y: Emissions associated with the pre-treatment of feedstock at production 
+facility p in year y for low technology facilities 
+Energy consumption for necessary pre-treatment of waste biomass must be accounted for. This 
+may include feedstock preparation (e.g., feedstock agglomeration, homogenization, pelletizing) 
+either inside the production facility or in field preparation, drying of wet biomass, or other 
+processes. If the energy source is renewable, PED,p,y must be zero. Otherwise, it must be 
+calculated as follows:  
+𝑃𝐸𝐷,𝑝,𝑦 = 𝑃𝐸𝐷𝐸,𝑝,𝑦 + 𝑃𝐸𝐷𝐹,𝑝,𝑦 
+(8) 
+Where:  
+PED,p,y 
+= Emissions associated with pre-treatment of feedstock at production facility p in 
+year y (tCO2e) 
+PEDE,p,y 
+= Emissions associated with grid-connected electricity utilized for pre-treatment of 
+waste biomass at production facility p in year y (tCO2e). 𝑃𝐸𝐷𝐸,𝑝,𝑦 must be calculated 
+as per the provisions of CDM TOOL05: Baseline, project and/or leakage emissions 
+from electricity consumption and monitoring of electricity generation. 
+PEDF,p,y 
+= Emissions associated with combustion of fossil fuels utilized for pre-treatment of 
+waste biomass at production facility p in year y (tCO2e). 𝑃𝐸𝐷𝐹,𝑝,𝑦 must be calculated 
+as per the provisions of CDM TOOL03: Tool to calculate project or leakage CO2 
+emissions from fossil fuel combustion. 
+Determining PEP,p,y: Emissions associated with the thermochemical process at production facility 
+p in year y for low technology facilities 
+In the absence of direct emission measurements that can reliably measure and report project 
+emissions, data from peer-reviewed literature must be used in the following equation: 
+𝑃𝐸𝑃,𝑝,𝑦 = ∑∑(𝐹𝑒× 𝐺𝑊𝑃𝐶𝐻4 × 𝑀𝑡,𝑘,𝑝,𝑦)
+𝑡
+ 
+𝑘
+ 
+(9) 
+Where: 
+PEP,p,y 
+= Emissions associated with the conversion of waste biomass into biochar at 
+production facility p in year y (tCO2e) 
+Fe 
+= Average methane emissions from producing one tonne of biochar in year y 
+(tCH4/tonne). Values from Table 3 in Cornelissen et al. (2016)22 may be used 
+based on the corresponding kiln type (i.e., low technology production facility type). 
+Where the kiln type is not listed a default average emission factor of 0.049 t 
+CH4/tonne may be conservatively used based on the value for traditional kilns 
+ 
+22 Cornelissen, G., Pandit, N. R., Taylor, P., Pandit, B. H., Sparrevik, M., & Schmidt, H. P. (2016). Emissions and char 
+quality of flame curtain “kon tiki” kilns for farmer-scale charcoal/biochar production. PLoS ONE, 11(5), e0154617. 
+https://doi.org/10.1371/journal.pone.0154617 
+ 
+VM0044, v1.2 
+ 
+28 
+since simple low-cost technologies are known to emit higher levels of CH4.23 
+Project proponent may propose more appropriate values based on scientific 
+studies, research papers or any other credible documentation and/or information 
+related to the utilized production technology.  
+GWPCH4 
+= Global warming potential of methane. Use value referenced in the latest version of 
+the VCS Standard 
+Mt,k,p,y 
+= Mass on a dry weight basis of biochar type t and application type k produced at 
+production facility p in year y (tonnes) 
+Determining PEC,p,y: Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis  
+When external energy is required to initiate and maintain the pyrolysis reactor, it must be 
+accounted as project emissions. If the source of auxiliary energy is renewable, PEC,p,y must be 
+zero. Otherwise, it must be calculated as follows: 
+𝑃𝐸𝐶,𝑝,𝑦 = 𝑃𝐸𝐶𝐸,𝑝,𝑦 + 𝑃𝐸𝐶𝐹,𝑝,𝑦 
+(10) 
+Where:  
+PEC,p,y 
+= Emissions due to the utilization of auxiliary energy for the purpose of pyrolysis at 
+production facility p in year y (tCO2e) 
+PECE,p,y  
+= Emissions associated with use of grid-connected electricity utilized for starting the 
+reactor at production facility p in year y (tCO2e). PECE,p,y must be calculated as per 
+CDM TOOL05: Baseline, project and/or leakage emissions from electricity 
+consumption and monitoring of electricity generation. 
+PECF,p,y 
+= Emissions associated with combustion of fossil fuels utilized for starting the 
+reactor at production facility p in year y (tCO2e). PECF,p,y must be calculated as per 
+the provisions of CDM TOOL03: Tool to calculate project or leakage CO2 emissions 
+from fossil fuel combustion. 
+8.2.3 Application Stage 
+In the project scenario, emissions associated with processing and utilizing biochar after its 
+production will have a potential impact on the overall emission removal potential. Equation 11 
+determines the GHG emissions at the application stage. 
+𝑃𝐸𝐴𝑆,𝑦 = ∑∑(𝐸𝑃,𝑡,𝑘,𝑦+ 𝐸𝑎𝑝,𝑡,𝑘,𝑦)
+𝑡
+𝑘
+ 
+(11) 
+ 
+23 Woolf, D., Lehmann, J., Ogle, S., Kishimoto-Mo, A. W., McConkey, B., & Baldock, J. (2021). Greenhouse gas inventory 
+model for biochar additions to soil. Environmental Science & Technology, 55(21), 14795-14805. 
+ 
+VM0044, v1.2 
+ 
+29 
+Where: 
+PEAS,y 
+= GHG emissions at application stage in year y (tCO2e) 
+EP,t,k,y 
+= Emissions from processing of biochar type t for application type k in year y (tCO2e) 
+Eap,t,k,y 
+= Emissions from utilization of biochar type t for application type k in year y (tCO2e) 
+Determining EP,k,y: Emissions associated with processing of biochar for application type k 
+In a scenario where biochar undergoes further processing (e.g., sizing, grinding, sifting) before 
+final soil or non-soil application, project proponents must quantify energy-related emissions 
+associated with grinding and other mechanical treatment of biochar. This methodology does not 
+account for emissions related to the production or generation of materials with which biochar is 
+mixed/infused for non-soil application (e.g., biochar-amended concrete or biochar-amended 
+asphalt).  
+If the energy source is renewable, EP,k,y is not considered and the default value of zero must be 
+used. Otherwise, it must be calculated as follows: 
+𝐸𝑃,𝑘,𝑦 = 𝑃𝐸𝑃𝐸,𝑘,𝑦 + 𝑃𝐸𝑃𝐹,𝑘,𝑦 
+(12) 
+Where:  
+EP,k,y 
+= Emissions from processing of biochar for application type k in year y (tCO2e) 
+PEPE,k,y 
+= Emissions associated with grid-connected electricity utilized for processing biochar 
+for application type k in year y (tCO2e). PEPE,k,y must be calculated as per the 
+provisions of CDM TOOL05: Baseline, project and/or leakage emissions from 
+electricity consumption and monitoring of electricity generation. 
+PEPF,k,y 
+= Emissions associated with combustion of fossil fuels utilized for processing of 
+biochar for application type k in year y (tCO2e). PEPF,k,y must be calculated as per 
+the provisions of CDM TOOL03: Tool to calculate project or leakage CO2 emissions 
+from fossil fuel combustion. 
+Where there is no processing of biochar, EP,k,y must be zero. 
+Determining Eap,k,y: Emissions associated with utilization of biochar for application k 
+Eap,k,y corresponds to emissions during the utilization of biochar for application type k in year y. 
+GHG emissions resulting from fossil fuel combustion or mixing of biochar with fertilizer products 
+are considered negligible. Thus, Eap,k,y is zero.24 
+8.3 
+Leakage Emissions 
+In the case of biochar use, leakage emissions are primarily attributed to transport emissions at 
+various stages of the biochar life cycle. Emissions due to activity-shifting leakage or biomass 
+ 
+24 As per CDM AR-ACM0003 Afforestation and reforestation of lands except wetlands. Available at 
+https://cdm.unfccc.int/methodologies/DB/C9QS5G3CS8FW04MYYXDFOQDPXWM4OE 
+ 
+VM0044, v1.2 
+ 
+30 
+diversion are considered zero, as currently only waste biomass is eligible for biochar 
+production. Quantification of leakage emissions are as follows: 
+𝐿𝐸𝑦 = 𝐿𝐸𝑎𝑠,𝑦+ 𝐿𝐸𝑏𝑑,𝑦+ 𝐿𝐸𝑡𝑠,𝑦+ 𝐿𝐸𝑡𝑎𝑝,𝑦 
+(13) 
+Where: 
+LEy 
+= Total leakage emissions in year y (tCO2e) 
+LEas,y 
+= Leakage due to activity shift in year y (tCO2e). Leakage due to activity shift is zero 
+as use of purposely grown biomass for production of biochar is currently not 
+allowed. 
+LEbd,y 
+= Leakage due to biomass diversion in year y (tCO2e). Leakage due to biomass 
+(waste/residue) diversion is considered negligible since only biomass which would 
+have been combusted or left to decay is utilized for biochar production. 
+LEts,y 
+= Leakage emissions from transportation of waste biomass from sourcing to biochar 
+production facility in year y (tCO2e). As per CDM TOOL16: Project and leakage 
+emissions from biomass,25 GHG emissions must be accounted for only if 
+transportation distance is more than 200 km. Project proponent must use CDM 
+TOOL12: Project and leakage emissions from transportation of freight26 to 
+calculate LEts,y 
+LEtap,y 
+= Leakage emissions from transportation of biochar from the production facility to 
+the site of end application in year y (tCO2e). As per CDM Tool 16: Project and 
+leakage emissions from biomass, GHG emissions must be accounted for only if 
+transportation distance is more than 200 km. Project proponent must use CDM 
+TOOL12: Project and leakage emissions from transportation of freight to calculate 
+LEtap,y. 
+Determining LEts,y: Emissions related to leakage from transportation of waste biomass from 
+sourcing to biochar production facility 
+Project emissions from transportation of waste biomass from the place of origin to the biochar 
+production site may have the following components: 
+i. 
+Transport emissions from field to the production facility 
+LEts,y is considered zero if transportation distance (to and from—round trip) is less than 200 km. 
+Project emissions from transportation of biochar must be calculated as per the latest version of 
+CDM TOOL12: Project and leakage emissions from transportation of freight. 
+Determining LEtap,y: Emissions related to leakage from transportation of biochar from production 
+facility to site of end-use application 
+Project emissions from transportation of biochar from facility to end-use application may have 
+the following components:  
+i) 
+Transport emissions from biochar facility to processing facility; AND  
+ 
+25 Available at https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-16-v4.pdf   
+26 Available at https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-12-v1.1.0.pdf  
+ 
+VM0044, v1.2 
+ 
+31 
+ii) Transport emissions from processing facility to end-use site; 
+OR 
+iii) Transport emissions from biochar facility to end-use site.  
+LEtap,y is considered zero if transportation distance (to and from—round trip) is less than 200 
+km. Project emissions from transportation of biochar must be calculated as per the latest 
+version of CDM TOOL12: Project and leakage emissions from transportation of freight. 
+8.4 
+Reversal Risk Mitigation 
+After the production of biochar, there exist sources of risk that could lead to reversals, i.e., loss 
+of sequestered carbon in the biochar that has previously been verified. Prior to use in soil or 
+non-soil applications, the produced biochar may be intentionally combusted for use as a fuel 
+source. This risk is wholly mitigated by the requirement that biochar is used only in approved 
+soil or non-soil applications (as per applicability conditions 5 and 7) with required end-use 
+application monitoring (see Section 9.3). During and after use in soil or non-soil applications, 
+there exist various natural and non-natural reversal risks which are mitigated in this 
+methodology as discussed in the following sections.  
+8.4.1 Natural Risks 
+When biochar is utilized for soil applications, natural risks are associated with climatic and 
+geological factors such as fires, floods, wind, and precipitation, among others. Of these, fire 
+represents the most significant risk by far since it can result in the immediate loss of 
+sequestered carbon due to the combustion of biochar. On the other hand, erosion by wind or 
+water (flooding) poses the risk of transport of biochar outside of the project boundary and 
+beyond the control of the project proponent. 
+All of these natural risks are substantially mitigated through the incorporation of the biochar 
+into the soil subsurface, ideally to a minimum of 10 cm depth. However, projects may also apply 
+biochar on the soil surface. In this case, the risk of loss due to fire or erosion (wind or water) is 
+heightened since the biochar remains exposed on the soil surface. Risks can be mitigated by 
+mixing biochar with other amendments such as manures and composts prior to surface 
+application which reduces biochar’s combustibility and erodibility (IBI, 2010). Hence, for 
+surface application biochar must be mixed with other substrates according to applicability 
+condition 5. With these mitigation approaches, risks of losses for soil applications are greatly 
+reduced as substantiated by the scientific literature:  
+• 
+Loss due to combustion: The nature of changes in soil during and after fires depends 
+on both the temperatures reached at different soil depths and the degree of heating 
+that the different soil components may withstand before being altered (González-Pérez 
+et al., 2004). Temperatures during fires decrease dramatically with soil depth (Enninful 
+& Torvi, 2008) and most loss of soil organic matter during wildfires is limited to the very 
+top layer of soil (Boerner, 2009; Majder-Łopatka, 2019). Except for high-intensity 
+wildfires in forest settings, the heat generated during a fire does not typically combust 
+ 
+VM0044, v1.2 
+ 
+32 
+the organic matter in soils, particularly in agricultural settings. Furthermore, with 
+subsoil application, studies have shown that biochar increases the resilience of the soil 
+to different abiotic and biotic stressors. For example, application of biochar increases 
+the water retention capacity of the soil (Głąb et al., 2016), thus itself acting as a risk 
+mitigation against loss due to combustion. Thus, when biochar is applied into the soil 
+subsurface the risk of its combustion decreases significantly, and when applied in 
+combination with amendments to the soil surface its combustibility is further reduced 
+(IBI, 2010).  
+• 
+Loss due to transport outside the project boundary: Studies have shown that when 
+biochar is applied into soils, it may reduce water runoff and overall soil erosion 
+(Gholami et al., 2019; Lee et al., 2015) and thus transport of biochar outside the 
+project boundary. Similarly, risk of wind erosion is greatly reduced by incorporating 
+biochar into the subsurface of soil. Even so, some biochar could still be transported 
+outside the project boundary due to erosion, but this does not directly imply that the 
+sequestered carbon in the biochar will be lost to the atmosphere. Rather, biochar may 
+be transported via overland flow or wind into waterways and eventually deposited into 
+sediments where it is likely to persist for as long as or longer than the soil where it was 
+originally applied.  
+When biochar is used for non-soil applications natural risks are considered minimal. Lee et al. 
+(2019) have shown that when biochar is used in bio-composites such as those with inorganic 
+clay, biochar reduces thermal conductivity, thus increasing the thermal resistance of the 
+material to combustion. When biochar is incorporated into building materials such as mineral 
+plasters, gypsum, or clay, the material is not prone to incineration; rather the biochar is 
+protected against biological and chemical decay (Gupta & Kua, 2019). For this reason, other 
+established biochar accounting programs (i.e., EBC) indicate that when biochar is incorporated 
+into building materials such as concrete, lime plaster, gypsum or clay, combustion is nearly 
+impossible (EBC, 2021).   
+8.4.2 Non-Natural Risks  
+Non-natural risks are those associated with project management, financial viability (for 
+example, insufficient funds to complete the project cycle), government policies, or community 
+and stakeholder resistance, among others.  
+• 
+Social risks (i.e., community resistance or non-acceptability) are considered minimal 
+since the methodology considers only waste biomass as an eligible feedstock for biochar 
+production. Therefore, competing uses for feedstock will not exist and communities may 
+be expected to find new livelihood and revenue stream opportunities from the 
+introduction of biochar projects.  
+• 
+Project management and financial risks are considered minimal due to the 
+independence of annual removals achieved from project activities. It is possible that the 
+project proponent may go bankrupt at some point after verification and issuance of 
+carbon credits, or a project proponent may terminate the project before the end of the 
+ 
+VM0044, v1.2 
+ 
+33 
+crediting period. In that event, non-natural risk due to project and financial viability are 
+considered to have a minimal impact on project claims from the previous year because 
+once utilized at the application stage (soil or non-soil applications), biochar will remain as 
+a sequestered material. For example, biochar applied to agricultural soils will continue to 
+act as a carbon sink irrespective of the fate of the project and/or continuation of biochar 
+application in the case of project proponent bankruptcy. In the case of a non-soil 
+application (e.g., biochar infused in cement), the carbon sink function will continue 
+irrespective of activities in subsequent years (Akinyemi & Adesina, 2020). GHG benefits 
+associated with biochar applied in year one of the project are not dependent on 
+continuation of application of biochar in year two. 
+Given the mitigation measures for natural and non-natural risks in both soil and non-soil 
+applications described above, this methodology considers reversal risk of verified biochar 
+carbon sequestration negligible.  
+8.5 
+Net Reductions and Removals 
+Emission reductions at the sourcing stage are calculated as follows: 
+𝐸𝑅𝑆𝑆,𝑦 = 𝐵𝐸𝑆𝑆,𝑦−𝑃𝐸𝑆𝑆,𝑦 
+(14) 
+Where: 
+ERSS,y 
+= GHG emission reductions at sourcing stage in year y (tCO2e) 
+BESS,y 
+= Baseline emissions at sourcing stage in year y; conservatively assumed default 
+value of zero (tCO2e) 
+PESS,y 
+= Project emissions at sourcing stage in year y, conservatively assumed to be zero 
+(waste biogenic source material is considered as renewable biomass) (tCO2e) 
+Net GHG emission reductions and removals are calculated as follows: 
+𝐸𝑅𝑦 = 𝐸𝑅𝑆𝑆,𝑦+ 𝐸𝑅𝑃𝑆,𝑦 − 𝑃𝐸𝐴𝑆,𝑦− 𝐿𝐸𝑦 
+(15) 
+Where: 
+ERy 
+= Net GHG emissions reductions and removals in year y (tCO2e) 
+ERSS,y  
+= GHG emission reductions at sourcing stage in year y (tCO2e) 
+ERPS,y 
+= GHG emission removals at production stage in year y (tCO2e) 
+PEAS,y 
+= GHG emissions at application stage in year y (tCO2e) 
+LEy 
+= Total leakage emissions in year y (tCO2e) 
+ 
+ 
+VM0044, v1.2 
+ 
+34

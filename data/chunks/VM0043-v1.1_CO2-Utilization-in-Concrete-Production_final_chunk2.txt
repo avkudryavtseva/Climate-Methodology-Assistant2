@@ -1,0 +1,13 @@
+2 SOURCES 
+This methodology is informed by the following methodologies: 
+• 
+CDM methodology, AMS-III.BA, Recovery and recycling of materials from E-Waste, 
+v2.0 
+• 
+VCS methodology, VM0031, Methodology for Precast Concrete Production using 
+Sulphur Substitute, v1.0 
+• 
+VCS methodology, VM0040, Methodology for Greenhouse Gas Capture and 
+Utilization in Plastic Materials 
+• 
+VCS Tool, VT0011 - Electricity System Emission Factors

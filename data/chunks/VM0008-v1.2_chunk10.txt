@@ -1,0 +1,639 @@
+24 
+I 
+= Number of dwellings 
+J 
+= Number of fuel types 
+j 
+= Fuel type 
+y 
+= Any consecutive twelve months during the project’s crediting period, and must 
+be defined with an integer from 1 on in a consecutive manner 
+Leakage emissions must be calculated as follows: 
+Where:  
+LCO2,y 
+= Leakage emissions from continued operation of appliances in year y (t CO2/yr) 
+LHFC,y 
+= Leakage emissions from improper disposal of refrigerators, air conditioners or 
+heat pumps in year y (t CO2/yr) 
+LHFC OP,y 
+= Leakage emissions from refrigerant leaks during operation in year y (t CO2/yr) 
+ 
+Leakage from continued operation of appliances must be calculated as follows: 
+ܮ஼ை2,௬= ∑(ܽ௡௣,௞,௬∗ℎ௞∗ܧௗ௘௠,௣௥௘,௞) ∗ܧ݈݁ܿ஼ை2 +
+௄
+௞=௟
+∑ܮ(௬−௧),஼ை2
+்−1
+௧=1
+ 
+(7a) 
+Where:  
+anp,k,y 
+= Appliance type k not properly disposed of in year y 
+K 
+= Number of appliance types 
+Edem,pre,k 
+= Electricity demand of appliance type k before replacement 
+hk 
+= Annual working hours of appliance type k 
+ElecCO2 
+= Emission factor for grid electricity (t CO2e/kWh) 
+T 
+= Years from the beginning of the crediting period (number) 
+When fuel switching applies, EFf,CO2 will substitute for ElecCO2 and Ef,dem,pre,k will be applied 
+across each energy source f using Equation (9b): 
+ 
+ܮ஼ை2,௬=
+∑
+(ܽ௡௣,௞,௬∗ܧ௙,ௗ௘௠.௣௥௘,௞∗ℎ௞−௣௥௘) ∗ܧܨ௙,஼ை2 +
+∑
+ܮ(௬−௧),஼ை2
+௧=1 ௧௢ ்−1
+௞=1 ௧௢ ௄,௙
+ 
+(9b) 
+Where:  
+EFf,CO2 
+= Emission factor for energy source f (t CO2e/Btu) 
+Ef,dem,pre,k 
+= Energy demand of appliance type k using energy source f before replacement 
+(Btu/hour) 
+hk-pre 
+= Annual working hours of appliance type k before replacement 
+ܮ௬= ܮ஼ை2,௬+ ܮܪܨܥ,ݕ+ ܮܪܨܥ ܱܲ,ݕ 
+(6) 
+ 
+VM0008, v1.2 
+25 
+Leakage from improper disposal of refrigerators, air conditioners or heat pumps must be 
+calculated as follows: 
+ܮுி஼,௬= ∑ܽ௡௣,௞,௬∗ܴܥܥ௔∗ܩܹܲோ∗
+௄
+௞=௟
+1௧
+1,000,000௚
+ 
+(8) 
+Where:  
+RCCa 
+= Charge capacity of refrigerant gas of replaced cooling or heat pump appliance a 
+(grams) 
+GWPR 
+= Global Warming Potential of refrigerant gas R used in appliance (t CO2e/t gas) 
+ 
+Refrigeration equipment often uses blends of HFC refrigerant gases. The GWP of these blends 
+must be calculated based on the proportion of different refrigerants used.16 The GWP values 
+from the most recent version of the VCS Standard must be used. 
+Leakage emissions from refrigerant leaks during operation must be accounted for unless the 
+project proponent can demonstrate that one of the following conditions is met: 
+a) the installation/operation of the new refrigerators, air conditioners or heat pumps 
+replace baseline appliances which also contain refrigerants;17 or  
+b) LHFC OP,y, can be demonstrated to be de minimis. 
+Otherwise, leakage emissions from refrigerant leaks during operation must be calculated per 
+Equation (9). Such leakage emissions must also be accounted for if the project proponent 
+cannot demonstrate which baseline appliances are replaced or demonstrate that the baseline 
+appliances did not contain refrigerants. 
+ܮுி஼ ை௉,௬=
+∑
+ܽ௞,௬,ை௉ௌ∗ܴܥܥ݅݊ݏݐ݈݈ܽ݁݀௔∗ܩܹܲ௥∗ܮܴ%௞,௬/1000000
+௞=1 ௧ℎ௥௨ ௄
+ 
+(9) 
+Where:  
+ak,y, OPS 
+= Number of appliances of type k in operation during project year y 
+RCCinstalleda 
+= Charge capacity of refrigerant gas of installed cooling or heat pump 
+appliance a (grams) 
+GWPR 
+= Global Warming Potential of refrigerant gas R used in appliance 
+(t CO2e/t gas) 
+LR%k,y 
+= Annual leakage rate of refrigerant gas R used in appliance type k (t CO2e/t 
+gas) 
+K 
+= Number of appliance types 
+ 
+16 Examples of the available compositions of refrigerant blends are available at the US Environmental Protection Agency 
+website: http://www.epa.gov/Ozone/snap/refrigerants/refblend.html  
+17 In this case, there is reasonable comparability between operational leak rates for baseline and project appliances so that 
+LHFC OP,y,  can be set at zero (e.g., if a refrigerator replaces an old refrigerator, if a heat pump replaces an old air conditioner). 
+ 
+VM0008, v1.2 
+26 
+k 
+= Appliance type 
+LR% default values may be applied: 
+Table 2. LR % Values 
+Technology 
+LR% Value 
+Source Reference 
+Heat Pumps 
+ 
+DEFRA18, EPA/industry 
+experts19 
+Air source HP, split system 
+1-4% if justified to VVB or 
+3.5% as default value 
+ 
+Air source HP, self contained 
+central system 
+<1% 
+ 
+HPWH 
+0.3% 
+ 
+Geothermal Closed Loop HP 
+0.3% 
+ 
+Air Conditioning 
+ 
+EPA20 
+Small, self contained 
+<1% 
+ 
+ 
+Small, split system 
+1-4% 
+ 
+Refrigerators 
+0.3% 
+DEFRA21 
+The grid emission factor (ElecCO2) must be calculated in a transparent and conservative manner 
+based on one of the following approaches: 
+1) A combined margin, consisting of the combination of operating margin and build 
+margin according to the procedures prescribed in the most recent version of 
+VT0011 Electricity System Emission Factors. The grid emission factor must be 
+monitored following either the Ex ante option or the Ex post option within the tool.  
+OR 
+2) The weighted average emissions (in t CO2e/kWh) of the current generation mix 
+obtained from a regulated source. The data from the most recent year for which data 
+are available must be used. The grid emission factor must be monitored annually, and 
+updated as the regulated source publishes data. If the grid emission factor is published 
+later than year y, the emission factor from an earlier year, up to three years prior (y − 3), 
+may be used.  
+The ECF represents the trend in electricity demand based on average electricity consumption 
+within a region or state over a period of at least ten years. Historical data from a recognized 
+ 
+18 https://www.gov.uk/government/publications/impacts-of-leakage-from-refrigerants-in-heat-pumps 
+19 https://www.epa.gov/sites/default/files/2016-12/documents/international_transitioning_to_low-
+gwp_alternatives_in_res_and_com_ac_chillers.pdf    
+20 https://www.epa.gov/sites/default/files/2016-12/documents/international_transitioning_to_low-
+gwp_alternatives_in_res_and_com_ac_chillers.pdf   
+21 https://www.gov.uk/government/publications/impacts-of-leakage-from-refrigerants-in-heat-pumps 
+ 
+VM0008, v1.2 
+27 
+national authority may be used to determine the ECF. Projected trends in changes in the rate of 
+electricity demand reported by a national authority may also be used as the ECF.22 The ECF 
+must be stated as a multiplier. For example, 0.98 represents an electricity consumption growth 
+rate of −2%.  
+The ECF is used to update the baseline electricity consumption based on decreases in 
+electricity demand over time. The ECF must only be applied when it is less than 1 to maintain 
+conservativeness in the emission reduction calculation. This factor must be applied to the 
+calculation of the emission reductions after project implementation because electricity 
+consumption in the baseline may not remain the same (see Figure 3). The factor must be 
+determined from local, regional or national electricity household consumption data from a 
+government agency, a public utility or regulatory agency, or a recognized energy research 
+organization.  
+In a situation where overall electricity consumption decreases, the Electricity Correction Factor 
+ECF ensures against over-estimation of emission reductions (see Figure 4). 
+Figure 4 shows how the adjusted consumption approach takes into account a reduction in 
+electricity consumption over time. Failure to adjust for decreasing consumption over time would 
+result in an over-estimation of emission reductions. 
+Figure 4. Reduction in electricity consumption as a result of an adjusted consumption 
+approach 
+ 
+ 
+22 Examples of reported values that may be used as an ECF are available at the Department of Energy website: 
+http://apps1.eere.energy.gov/states/electricity.cfm/state=ME.  
+ 
+VM0008, v1.2 
+28 
+The heating/cooling degree day correction factors (HDDCF and CDDCF) are used to update the 
+baseline energy consumption annually based on changes in temperature. These factors 
+account for changes in heating/cooling degree days and associated changes in heating and 
+cooling loads (see Figure 3). The factors must be determined based on data from reputable 
+regional or national meteorological organizations.23  
+The heating degree day correction factor must be calculated as follows: 
+ܪܦܦܥܨ௬= ܪܦܦ௬
+ܪܦܦ௕
+ 
+(10) 
+Where:  
+HDDy 
+= Heating degree days for year y after the retrofit 
+HDDb 
+= Heating degree days for one year before the retrofit 
+The cooling degree day correction factor must be calculated as follows: 
+ܥܦܦܥܨ௬= ܥܦܦ௬
+ܥܦܦ௕
+ 
+(11) 
+Where:  
+CDDy 
+= Cooling degree days for year y after the retrofit 
+CDDb 
+= Cooling degree days for one year before the retrofit 
+Figure 5 shows how heating degree days affect fuel/electricity consumption over time. Failure 
+to adjust the baseline based on changes in temperature would result in inaccurate calculation 
+of emission reductions. 
+ 
+23 An example of such organization is the National Oceanic and Atmospheric Administration (NOAA) in the United States.  
+ 
+VM0008, v1.2 
+29 
+Figure 5. Fuel/electricity consumption change caused by heating degree days 
+ 
+8.1.1 Quality Assurance 
+ When using the adjusted consumption approach, a sample group of dwellings weatherized as 
+part of the project must be monitored to ensure the reduction in energy consumption and 
+resulting reduction in emissions is real. The sample group must measure the emission 
+reductions resulting from the change in energy consumption. In case of a significant 
+discrepancy between emission reductions calculated according to the approach and emission 
+reductions calculated from the sample group, the adjusted baseline consumption approach 
+must be calibrated accordingly. The sample size of the sample group must be established by 
+multiplying 0.6 by the square root of the total number of dwellings, i, or appliances, included in 
+the project.24 Monitoring of the sample group for quality assurance must occur for two years 
+and must consist of collecting electricity and fuels bills that represent a twelve month period. 
+When the data come from two different processes, such as the adjusted consumption 
+calculation and the measurements from the sample group, significant discrepancy is defined on 
+the basis of an independent two-sample t-test for equality of two means. If the value T of the 
+above statistic obtained from a t-value table or calculation is greater than the corresponding 
+value of the t-distribution for a 95% confidence level and degrees of freedom given by 2n − 2, 
+then the null hypothesis of equal means is rejected and the observed discrepancy is concluded 
+to be significant. 
+ 
+24 The equation for determining the minimum sample size number for quality assurance purposes was taken from the 
+surveillance requirements in the IAF Guidance on the Application of ISO/IEC Guide 66 Issue 4 IAF GD: 2006.  
+ 
+VM0008, v1.2 
+30 
+A t-test is a standard statistical tool and readily available. One of the t-tests set forth below 
+must be applied. The particular test must be determined by the type of samples, samples sizes 
+and assumptions made on the underlying population variances. 
+1) An independent two-sample t-test for samples of equal sizes and equal variances must 
+be used when the number of observations (data points) in both samples is equal and it 
+can reasonably be assumed that the population variance of both samples is the same. 
+2) An independent two-sample t-test for unequal sample sizes and equal variances must 
+be used when the number of observations (data points) in both samples is not equal 
+and it can reasonably be assumed that the population variance of both samples is the 
+same. 
+3) An independent two-sample t-test for unequal sample sizes and unequal variances 
+must be used when the two data samples are of unequal size and it can be reasonably 
+assumed that the population variance is different. This test is referred to as Welch’s t-
+test.  
+The parameters to be monitored in the adjusted consumption approach are listed in Section 9. 
+8.2 
+Pre- and Post-Retrofit Audit Approach 
+The emission reductions are calculated as follows: 
+Monitoring emission reductions must be based on the data generated by a pre- and post- 
+retrofit energy audit for a sample of the dwellings. A pre-retrofit audit must take place once 
+before project implementation for every dwelling and a post-retrofit audit must take place once 
+after the retrofit has been completed for a sample of the dwellings. In every multi-family 
+building, a representative sample of the dwellings must undergo a pre- and post-retrofit audit. 
+The pre-retrofit audit must determine the electricity demand and heat load in the baseline. The 
+pre-retrofit electricity demand and heat load must then be compared to the post-retrofit 
+electricity demand and heat load. This comparison must provide the electricity demand 
+reduction factor and the heat load reduction factor, which must be used to calculate emission 
+reductions created by the project.  
+To calculate GHG emission reductions, the reduction factors obtained from the pre- and post- 
+energy audit must be applied to the baseline consumption of electricity and fuel. The result 
+must then be multiplied by the emission factor of the fuel type. Reductions must be adjusted for 
+changes in electricity demand over time and adjusted for heating/cooling degree days during 
+the project crediting period. 
+Energy auditors must be certified by a public authority or a private certification program 
+recognized by a public authority. Energy audits must be conducted using industry best-
+practices, cover both fuel and electricity consumption, include diagnostic tests (such as a 
+ 
+VM0008, v1.2 
+31 
+blower door test, pressure pan test or thermal imaging) and use energy modeling software, or 
+appropriate calculations.25  
+The electricity demand reduction factor (EDF) must be calculated for a sample of the dwellings 
+as follows:  
+ܧܦܨ= 1 −
+∑
+ܧௗ௘௠,௣௢௦௧,௦
+ௌ
+௦=1
+∑
+ܧௗ௘௠,௣௥௘,௦
+ௌ
+௦=1
+ 
+(12) 
+Where:  
+EDF 
+= Electricity demand reduction factor (no unit) 
+Edem,post,s 
+= Electricity demand post-retrofit for dwelling s (kW) 
+Edem,pre,s 
+= Electricity demand pre-retrofit for dwelling s (kW) 
+S 
+= Number of sample dwellings 
+s 
+= Sample dwelling undergoing post retrofit audit 
+The heat load reduction factor (HLF) must be calculated for a sample of the dwellings as 
+follows:  
+ܪܮܨ= 1 −
+∑
+ܪ௟௢௔ௗ,௣௢௦௧,௦
+ௌ
+௦=1
+∑
+ܪ௟௢௔ௗ,௣௥௘,௦
+ௌ
+௦=1
+ 
+(13) 
+Where:  
+HLF 
+= Heat load reduction factor (no unit) 
+Hload,post,s 
+= Heat load post-retrofit for dwelling s (kWh/m2) 
+Hload,pre,s 
+= Heat load pre-retrofit for dwelling s (kWh/m2) 
+S 
+= Number of sample dwellings 
+s 
+= Sample dwelling undergoing post retrofit audit 
+Reductions must be calculated as follows: 
+ܧܴ௬= ∑
+ܧ݈݁ܿ௕,௜
+ூ
+௜=௟
+∗ܧܦܨ∗ܧܥܨ௬∗ܥܦܦܥܨ௬∗ܧ݈݁ܿ஼ை2 + ∑
+ܨ௕,௜,௝
+ூ,௃
+௜,௝=௟
+∗ܪܮܨ∗
+ܪܦܦܥܨ௬∗ܥ݈ܽ௝∗ܨ஼ை2 −ܮ௬  
+(14) 
+Leakage, Ly, must be calculated using Equation (6). 
+ 
+25 In the United States there are several established energy auditing programs that are credible and accepted as industry 
+best practice. Examples include, but are not limited to RESNET HERS rating, Building Performance Institute Audit, Home 
+Performance with Energy Star, Maine Certified Energy Audit, Energy Plus. The certification process is a substitute for a single 
+industry standard. 
+ 
+VM0008, v1.2 
+32 
+8.2.1 Quality Assurance 
+When using the pre- and post-audit approach, energy bills based on direct metering of 
+consumption must be collected for one year pre-retrofit and compared with post-retrofit energy 
+bills based on direct metering of consumption in a sample of dwellings. When dealing with non-
+regulated fuels, an acceptable alternative measure must be compared to that same measure 
+as shown in the post-retrofit audit to ensure the energy savings were achieved. The sample size 
+for quality assurance samples must be established by multiplying the 0.6 by square root of the 
+total number of dwellings, i, or appliances, included in the project. The reduction in demand as 
+calculated in Equation (12) and Equation (13), must be compared to the reduction in 
+consumption based on directly metered electricity or natural gas consumption data, or in the 
+case of non-regulated fuels an acceptable alternative measure. The sample group must be 
+tested for a significant discrepancy between the calculated reduction in energy demand as 
+shown in the post-retrofit audit and actual reduction in consumption calculated from directly 
+metered energy bills. When dealing with non-regulated fuels an acceptable alternative measure 
+must be used, as noted above. If the discrepancy between the two mean values is found to be 
+significant, the mean energy consumption from the directly metered value must be used to 
+calculate the HLF or EDF. 
+When the two data samples come from the same dwelling, significant discrepancy is defined on 
+the basis of a dependent two-sample t-test for equality of two means. If the t-value of the above 
+statistic obtained from a t-value table or calculation is greater than the corresponding value of 
+the t-distribution for a 95% confidence level and degrees of freedom given by n − 1, then the 
+null hypothesis of equal means is rejected and the observed discrepancy is concluded to be 
+significant. 
+A dependent two-sample t-test must be applied to test for the difference of the two means. The 
+two means to be compared must be from the sample group of weatherized dwellings, and must 
+be the mean of the energy demand determined by the post-retrofit audit and the mean of the 
+directly metered energy bill in the case of electricity and natural gas. However, in the case of 
+non-regulated fuels, the two means compared must be based on an acceptable alternative 
+measure, such as blower door test value as shown in the post-retrofit audit, and the blower 
+door test value recorded one year post-retrofit.  
+The parameters to be monitored in the pre-and post-retrofit audit approach are listed in Section 
+9. 
+8.3 
+Control Group Approach 
+In this approach a control group and a sample group must be defined. The control group must 
+be comprised of dwellings from the same building stock that are not, and must not be 
+ 
+VM0008, v1.2 
+33 
+weatherized.26 The sample group must be comprised of dwellings to be weatherized, or, in the 
+case of mobile homes, replaced. Electricity and fuel bills must be collected for both groups 
+annually throughout the project crediting period. The control group must consist of dwellings 
+that have not been weatherized as part of the project. The project must not prevent or deny 
+weatherization to any homeowner, or individual for the purpose of maintaining the control 
+group. Instead, as the population of weatherized dwellings increases, the control group sample 
+may include different dwellings as long as the control group contains only non-weatherized 
+dwellings. 
+The difference in the energy consumption between the control group and the sample group 
+each year will constitute the fuel and electricity savings for all dwellings in the project for that 
+year and must serve as the basis for calculating emission reductions.27  
+The sample group must come from dwellings included in the project activity. The control group 
+must be selected from dwellings not included in the project activity and must have the following 
+requirements:  
+1) Participants must not have the ability to “opt-in” to the control group.  
+2) Once selected, homeowners must be required to make their fuel and electricity bills 
+available to the project. Where appropriate, the homeowner will be requested to sign a 
+waiver granting the project proponent electronic access to directly metered electricity 
+and gas bills. 
+3) Dwellings must be in the same building stock.  
+GHG emission reductions must be calculated as follows: 
+ܧܴ௬= ∑
+{(ܧ݈݁ܿ஼ீ,௬,௕−ܧ݈݁ܿௌீ,௬,௕) ∗ܧ݈݁ܿ஼ை2}
+஻
+௕=1
++ ∑
+{(ܨ஼ீ,௬,௝,௕−ܨௌீ,௬,௝,௕) ∗ܥ݈ܽ௝∗
+௃
+௝=1
+ܨ஼ை2௝} ∗ܫ௕−ܮ௬,௕  
+(15) 
+Where:  
+ElecSG,y,b 
+= Mean electricity consumed by sample group dwellings in building stock b in year 
+y 
+ElecCG,y,b 
+= Mean electricity consumed by control group dwellings in building stock b in year 
+y 
+FSG,y,j,b 
+= Mean fuel type j consumed by sample group dwellings in building stock b in year 
+y 
+ 
+26 The control group sample size must be large enough to be statistically valid. When approaching complete saturation of 
+weatherized homes, the control group will diminish in size as the number of non-weatherized homes diminishes. This is a 
+risk that must be weighed when choosing the control group approach. One option for addressing the diminishing control 
+group is to use the control group approach for as long as possible and then switch to the adjusted consumption approach. 
+The control group monitoring will be able to be used as the baseline in the adjusted consumption approach.  
+27 Since the energy consumed by retrofitted dwellings must be directly compared to the energy consumed by non-retrofitted 
+dwellings within the same building stock and the same year, there is no need to apply the electricity and heating/cooling 
+degree day correction factors. 
+ 
+VM0008, v1.2 
+34 
+FCG,y,j,b 
+= Mean fuel type j consumed by control group dwellings in building stock b in year 
+y 
+Ib 
+= Number of dwellings in building stock b 
+Ly,b 
+= Leakage in building stock b in year y 
+Leakage, Ly,b, must be calculated for each building stock using Equation (6). 
+To ensure conservativeness in the emission reduction calculation approach, a 95% confidence 
+interval, with an alpha value equal to 5% (α =0.05) must be applied to the fuel and/or 
+electricity consumption within the control group and the sample group, denoted by ElecSG,y,b, 
+ElecCG,y,b, FSG,y,j,b, and FCG,y,j,b above. The lower bound of the confidence interval of the control 
+group, and the upper bound of the confidence interval of the sample group must be the values 
+compared to determine the emission reductions resulting from project activity.  
+The 95% confidence interval must be calculated as follows:  
+𝑥−ܼ0.025(ܵܧ) < ߤ< 𝑥+ ܼ0.025(ܵܧ)  
+ܵܧ= ߪ
+√݊
+⁄
+ ܽ݊݀ ߪ= ݏ∗√݊/(݊−1)  
+(16) 
+Where:  
+x 
+= Mean energy consumption calculated from the sample 
+Z0.025 
+= 1.960, established standard value 
+s 
+= Standard deviation calculated from the sample 
+n 
+= Sample size 
+µ 
+= Mean of the population; not actually calculated, instead it is contained within 
+the upper and lower bounds of the equation 
+SE 
+= Standard error 
+σ 
+= Standard deviation that approximates the standard deviation of the population, 
+used to calculate the standard error 
+The parameters to be monitored in the control group approach are listed in Section 9. 
+8.4 
+Deemed Savings Approach 
+ Emission reductions for the replacement of appliances must be calculated as follows: 
+1) The energy demand (rated capacity) of both the appliance to be replaced and of the 
+replacement appliance must be determined from the nameplate, manufacturer’s 
+specification sheet, or direct metering;  
+2) The typical annual hours of operation of the appliance to be replaced in the project 
+area must be recorded or, for HP/HPWHs, modelled (see Section 4 for modelling 
+requirements);  
+3) The GHG emission reductions from an individual appliance must be calculated by 
+comparing the energy demand of the replacement appliance with that of the replaced 
+ 
+VM0008, v1.2 
+35 
+appliance, multiplied by annual hours of operation and by the grid emission factor. To 
+account for failed operation of appliances a correction factor must be applied.  
+GHG emission reductions must be calculated as follows: 
+ܧܴ௬= ∑
+ܽ௞(ܧ௙,ௗ௘௠.௣௥௘,௞∗ℎ௞−௣௥௘∗ܧܨ௙,௣௥௘,஼ை2 −ܧ௙,ௗ௘௠௡.௣௢௦௧,௞∗
+௞=1 ௧ℎ௥௨ ௄,௙
+ℎ௞−௣௢௦௧∗ܧܨ௙,௣௢௦௧,஼ை2) ∗ܥ݋ݎݎ௞−ܮ௬  
+(17) 
+Where:  
+Ef,dem,pre,k 
+= Energy demand of appliance type k using energy source f before the 
+replacement takes place (Btu/hour) 
+Ef,dem.post,,k = Energy demand of appliance type k using energy source f after the 
+replacement (Btu/hour) 
+hk-pre 
+= Annual working hours of the appliance type k before replacement (hours) 
+hk-post 
+= Annual working hours of the appliance type k after replacement (hours) 
+Corrk 
+= Correction factor for failed operation of each appliance type k 
+ak 
+= Number of appliances of type k 
+K 
+= Number of appliance types 
+K 
+= Appliance type 
+Ff,pre,CO2 
+= 
+Emission factor for energy sources f applicable before replacement (t 
+CO2e/Btu) 
+Ff,post,CO2 
+= 
+Emission factor for energy sources f applicable post replacement (t CO2e/Btu) 
+ 
+Leakage, Ly, must be calculated using Equation (6).  
+Note – EFf,pre,CO2 and EFf,post,CO2  are calculated using the procedures for EFf,CO2 which are given 
+in Equation (9b) as emission factor for energy source f (t CO2e/Btu). 
+Note – When baseline and project appliances use electricity as their energy source f, Ef,dem,pre,k 
+and Ef,dem,post,k can be supplied in kWh, whereupon EFf,pre/post,CO2 must then be substituted by 
+ElecCO2, (applied appropriately pre and/or post) using the grid emission factor per Equation (5).  
+Modelling results for HP and HPWH will yield comparable Btu (or kWh) results (that is Edem × hk 
+both pre and post) for baseline and project (pre/post) appliances (not Btu/hour as E is defined 
+in Equation (17)) since the models calculate the equivalent hours that HP/HPWHs need to run 
+to deliver the same level of service as the baseline systems. So the Btu/kWh results from 
+modelling will incorporate both the product of both the E and Hk factors. 
+Monitoring must consist of verifying the operation of a sample of the appliances within the first 
+year of installation and in three year intervals thereafter or, for HP/HPWHs, modelling results .  
+The parameters to be monitored in the deemed savings approach are listed in Section 9. 
+ 
+VM0008, v1.2 
+36 
+8.5 
+Mobile Homes Approach 
+GHG emission reductions for the replacement of mobile homes must be calculated as follows: 
+1) The heat load of both the mobile home to be replaced and of the replacement home 
+must be determined from best practice heat load modelling. In the case of the home to 
+be replaced, the heat load must be calculated by applying a heat load formula that 
+applies a default energy consumption value determined from statistically significant 
+fuel consumption records.28 In the case of the replacement home, the heat load must 
+be modelled taking into account the building specifications. The building specifications 
+may include but are not limited to; R-value of insulation in the floor, walls and ceiling, U-
+value and size of the windows, and the R-value of the skirting.  
+2) Emission reductions must be based on the difference between pre- and post-
+replacement heat load29 and pre-and post-replacement size of the mobile home, 
+multiplied by the annual heating/cooling degree days, and both the calorific value and 
+the emission factor of the fuel consumed within the dwelling.30  
+3) If appliances are replaced at the same time the mobile home is replaced, the 
+calculation of emission reductions from appliance replacement must follow the deemed 
+savings approach. Total emission reductions must be the sum of emission reductions 
+from the replacement of the mobile home plus the emission reductions from 
+replacement of the appliances, minus leakage.  
+GHG emission reductions must be calculated as follows:  
+ܧܴ௬=
+∑
+(ܪ௝,௟௢௔ௗ௣௥௘,௜∗ܵ௣௥௘,௜−ܪ௝,௟௢௔ௗ.௣௢௦௧,௜∗ܵ௣௢௦௧,௜) ∗ܪܦܦ௬∗ܨ஼ை2,௝ + ܧܴ஺ோ௬
+௜=1 ௧௢ ூ,௝
+ 
+(18) 
+Where:  
+Hj,load,pre,i 
+= Heat load from fuel type j of mobile dwelling i to be replaced (GJ/m2/HDD) 
+Hj,load,post,i 
+= Heat load from fuel type j of replacement dwelling I (GJ/m2/HDD) 
+HDDy/CDDy = Heating/cooling degree days 
+Spre,i 
+= Size of dwelling i to be replaced (m2) 
+Spost,i 
+= Size of replacement dwelling i (m2) 
+ERARy 
+= Emission reductions from appliance replacement 
+ 
+28 The heat load formula must be based on best practice energy modeling software that takes into account the number of 
+rooms, the metric size of the rooms, the energy load per meter, and the degree days of the region. In the United States, for 
+example, the design heat load calculation that is used to determine fuel award amounts in the national Low Income Home 
+Energy Assistance Program may be used. That equation is: number of rooms multiplied by the square feet per room, 
+multiplied by the Btu consumption per square foot per degree day multiplied by degree days, all divided by 1 000 000 Btus 
+to yield the MBtu needed to heat/cool the space. In metric the equation would be: number of rooms multiplied by the 
+square meters per room, multiplied by the kJ consumption per square meter per degree day multiplied by degree days, all 
+divided by 1 000 000 kJ to determine the GJ needed to heat/cool the space. 
+29 The heat load of a dwelling must include cooling load when both heating and cooling are provided by one central system.  
+30 When electricity is the central heating/cooling source, the grid electricity factor must replace both the fuel calorific value 
+(Calj) and the fuel emission factor (FCO2,j). In this case, the heat load must be expressed in kWh per square meter per degree 
+day.  
+ 
+VM0008, v1.2 
+37 
+i 
+= Number of dwellings 
+Note – In a region with a predominantly hot climate, the equation may be changed to 
+incorporate cooling load Cj,load,pre,j and cooling degree days CDDy, which would replace Hj.load,pre,j 
+and heating degree days HDDy respectively.  
+GHG emission reductions from appliance replacement, ERARy, must be calculated using (17).  
+The parameters to be monitored in the mobile homes approach are listed in Section 9.

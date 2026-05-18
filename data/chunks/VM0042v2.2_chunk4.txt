@@ -1,0 +1,99 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to a broad range of project activities that increase SOC storage 
+and/or decrease net emissions of CO2, CH4, and N2O from ALM operations compared to the 
+baseline scenario. The methodology is globally applicable. 
+This methodology is applicable under the following conditions: 
+1) Projects introduce or implement one or more new changes to pre-existing ALM practices 
+which: 
+a) Improve fertilizer (organic or inorganic) management; 
+b) Improve water management/irrigation; 
+c) Reduce tillage/improve residue management;  
+d) Improve crop planting and harvesting (e.g., improved agroforestry, crop rotations, 
+cover crops); and/or 
+e) Improve grazing practices.  
+Appendix 1 provides a non-exhaustive list of eligible ALM practices. A change in practice 
+constitutes adoption of a new practice, cessation of a pre-existing practice, or 
+adjustment to a pre-existing practice that results in reductions or removals. 
+2) Projects introduce or implement quantitative adjustments (e.g., decrease in fertilizer 
+application rate) that exceed 5% of the pre-existing value, calculated as the average 
+value over the historical look-back period, developed for the baseline schedule of 
+ 
+VM0042, v2.2 
+ 10 
+ 
+ 
+activities (see Section 6). Appendix 1 gives additional details and guidance on practices 
+and on determining practice change.  
+3) Project activities are implemented on land that is either cropland or grassland at the 
+project start date. The land must remain cropland or grassland throughout the project 
+lifetime except under the following scenarios: 
+a) Introduction of temporary grassland into cropland where it is demonstrated, prior 
+to the project start date and to the addition of new project activity instances, that 
+the integration of forage crops (e.g., annual/perennial grasses, legumes) into 
+annual crops is part of a planned, long-term ALM system (e.g., integrated crop-
+livestock system). Project proponents must provide documentation of the long-
+term management plans, covering the duration of the project, that describe 
+proposed practices, crops, and expected benefits and outcomes of integrated 
+grassland-cropland management; or 
+b) A one-time conversion from grassland to cropland or vice versa where it is 
+demonstrated, prior to project validation, that project lands in the baseline 
+scenario are degraded and the introduction of improved land use change 
+practices would significantly improve soil health. Project proponents must provide 
+documentation demonstrating that lands are degraded at the start of the project 
+and degradation will continue in the baseline scenario due to the presence of 
+degradation drivers or pressures in the baseline scenario. See Appendix 2 for 
+procedures on how to propose this type of land use change.  
+4) Empirical or process-based models used to estimate stock change/emissions via 
+Quantification Approach 1 are:  
+a) Publicly available, though not necessarily free of charge,4 from a reputable and 
+recognized source (e.g., the model developer’s website, IPCC, or government 
+agency). Sufficient conceptual documentation of inputs, outputs, and information 
+on how the model functionally represents SOC dynamics must be accessible to 
+the public. The project proponent must include the model source in the project 
+description (e.g., hyperlink to the model and date of webpage access or citation 
+of peer-reviewed publication). Providing the source code or an API for 
+independent replication of calculations is not required;  
+b) Shown in peer-reviewed scientific studies to successfully simulate changes in 
+SOC and trace gas emissions resulting from the changes in ALM practices 
+included in the project description; 
+c) Able to support repetition of the project model simulations. This includes clear 
+versioning of the model used in the project and stable software support, as well 
+as fully reported sources and values for all parameters used with the project 
+version of the model. Where multiple sets of parameter values are used in the 
+project, clearly identify the sources of varying parameter sets and how they were 
+applied to estimate stock change/emissions in the project. Acceptable sources 
+ 
+4 It is the responsibility of the project proponent to ensure they have any required licenses for models used in a project. 
+ 
+VM0042, v2.2 
+ 11 
+ 
+ 
+include peer-reviewed literature and statements from appropriate expert groups 
+that demonstrate evidence of expertise with the model via authorship of peer-
+reviewed model publications or authorship of reports for entities supporting 
+climate-smart agriculture. These sources must describe the datasets and 
+statistical processes used to set parameter values;  
+d) Validated per datasets and procedures detailed in Section 5.2 of VCS Module 
+VMD0053 Model Calibration, Validation, and Uncertainty Guidance for Improved 
+Agricultural Land Management. Model prediction error must be calculated using 
+datasets as described in Section 5.2.5 of VMD0053 and must use the same 
+parameters or sets of parameters applied to estimate stock change/emissions in 
+the project; and 
+e) Using the same model version in the baseline and project scenarios. Further, the 
+same parameters/parameter sets must be used in the baseline and project 
+scenarios. Model input data must be derived following guidance in Table 6 and 
+Table 8. Model uncertainty must be quantified following guidance in Section 8.6.  
+This methodology is not applicable under the following conditions: 
+5) The project area has been cleared of native ecosystems within the 10-year period 
+immediately prior to the project start date. 
+6) The project activity is expected to cause a sustained reduction in productivity of greater 
+than 5%, as demonstrated by peer-reviewed and/or published studies on activity in the 
+region or a comparable region. 
+7) The project activity is biochar application. Biochar may be applied as a soil amendment 
+in the project area provided that the total organic carbon content5 of the biochar 
+applied is subtracted from the estimated SOC stock change in the project scenario at 
+each verification event.  
+8) The project activities occur on a wetland; this condition does not exclude crops subject 
+to artificial flooding where it is demonstrated that crop cultivation does not impact the 
+hydrology of any nearby wetlands.

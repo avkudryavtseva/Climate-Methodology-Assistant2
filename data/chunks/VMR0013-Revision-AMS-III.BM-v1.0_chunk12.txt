@@ -1,0 +1,12 @@
+16 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+17 Jun 2025 
+This revision to AMS-III.BM. incorporates the following updates: 
+• Inclusion of other two- or three-wheeled e-vehicles such as e-
+motorcycles and e-scooters 
+• Inclusion of business-oriented delivery services involving goods, food, 
+or other tangible items

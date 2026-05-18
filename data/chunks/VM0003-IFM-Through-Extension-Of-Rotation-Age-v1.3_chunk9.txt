@@ -1,0 +1,941 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+In addition to the parameters listed in the tables below, the provisions on data and parameters 
+to be monitored according to the tools referred to in this methodology apply. 
+ 
+24 This requirement is intended to reduce the risk of over-crediting when harvesting is scheduled or expected to occur 
+shortly after a verification event. 
+ 
+VM0003, v1.3  
+ 
+40 
+ 
+In choosing key parameters or making important assumptions based on information that is not 
+specific to the project circumstances, such as in use of existing published data, project 
+proponents must retain a conservative approach — that is, where different values for a 
+parameter are equally plausible, a value that does not lead to over-estimation of net 
+anthropogenic GHG removals by sinks must be selected. 
+Data/Parameter 
+�㌵!"#,% 
+Data unit 
+ha 
+Description 
+Area of baseline stratum i 
+Equations 
+Implicitly used in Section 8.4.1 
+Source of data 
+GPS coordinates and/or remote sensing data and/or legal parcel 
+records 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline carbon storage 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵�㌵�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Biomass expansion factor for conversion of merchantable 
+biomass to total above-ground tree biomass 
+Equations 
+(15) 
+Source of data 
+The source of data must be chosen from the following, listed in 
+descending order of preference: 
+(a) Existing local and forest type-specific; 
+(b) National and forest type-specific or eco-region-specific 
+(e.g., from national GHG inventory); 
+(c) Forest type-specific or eco-region-specific from 
+neighboring countries with similar conditions (sometimes 
+(c) may be preferable to (b); 
+(d) Specific at a global level to forest type or eco-region 
+using the most recent version of the IPCC GPG-LULUCF. 
+Value applied 
+ 
+ 
+VM0003, v1.3  
+ 
+41 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of carbon stocking from inventory measurements 
+Comments 
+BEFs are age-dependent. Use of average data may result in 
+significant errors for both young and old stands, as BEFs are 
+usually large for young stands and quite small for old stands. 
+ 
+Data/Parameter 
+�㌵�㌵9 
+Data unit 
+t C t-1 d.m. 
+Description 
+Carbon fraction of biomass for species j 
+Equations 
+(9), (13), (19), (29), (31), (38) 
+Source of data 
+Default value may be used, or species-specific values from the 
+literature. 
+Value applied 
+Default value is 0.5 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of baseline and project carbon storage 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵9 
+Data unit 
+t d.m. m-3 
+Description 
+Basic wood density of species j 
+Equations 
+(9), (13), (29), (31), (38) 
+Source of data 
+The source of data must be chosen from the following, listed in 
+descending order of preference: 
+(a) National and specific to a species or group of species 
+(e.g., from national GHG inventory); 
+(b) Specific to a species or group of species from neighboring 
+countries with similar conditions (sometimes (b) may be 
+preferable to (a)); 
+(c) Specific to a species or group of species at a global level 
+(e.g., from IPCC GPG-LULUCF). 
+ 
+VM0003, v1.3  
+ 
+42 
+ 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline and project carbon storage 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵BC 
+Data unit 
+t d.m. m-3 
+Description 
+Basic wood density of dead wood categorized into three classes: 
+sound (1), intermediate (2) and rotten (3) 
+Equations 
+(27) 
+Source of data 
+The source of data must be chosen from the following, listed in 
+descending order of preference: 
+(a) Research publications relevant to the project area; 
+(b) National and specific to a species or group of species 
+(e.g., from national GHG inventory); 
+(c) Specific to a species or group of species from neighboring 
+countries with similar conditions (sometimes (c) may be 
+preferable to (b)); 
+(d) Specific to a species or group of species at a global level 
+(e.g., IPCC GPG-LULUCF). 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Project-specific determination of density is most likely necessary. 
+Purpose of data 
+Calculation of project and baseline carbon storage 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵9(�㌵�㌵�㌵, �㌵) 
+Data unit 
+t d.m. tree-1 
+Description 
+Allometric equation for species j, linking diameter at breast height 
+(DBH) and possibly height (H) to above-ground biomass of living 
+trees 
+ 
+VM0003, v1.3  
+ 
+43 
+ 
+Equations 
+(9), (19), (38) 
+Source of data 
+Where available, use allometric equations that are specific to a 
+species or group of species, provided the equations have been 
+derived using a wide range of diameters and heights and are 
+based on datasets that comprise at least 20 trees. Otherwise, 
+default equations from the most recent version of the IPCC’s GPG-
+LULUCF, national inventory reports or published peer-reviewed 
+studies may be used.  
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of baseline and project carbon storage 
+Comments 
+The applicability of the allometric equations used must be verified 
+using one of the following methods: 
+1) Verification of equation conditions: Justification must be 
+provided for the applicability of the equation to the 
+project locations. Such justification must include 
+identification of climatic, edaphic, geographical and 
+taxonomic similarities between the project location and 
+the location in which the equation was derived. Any 
+equation used must have an r2 value greater than 0.5 (50 
+percent) and a p value that is significant (<0.05 at the 95 
+percent confidence level). 
+2) Additional field verification: For field verification either of 
+the two methods below may be used: 
+a) Destructive sampling: 
+i) 
+Select at least 5 trees covering the range of DBH 
+existing in the project area, and fell and weigh the 
+above-ground biomass to determine the total 
+(wet) weight of the stem and branch components; 
+ii) Extract and immediately weigh subsamples from 
+each of the wet stem and branch components, 
+followed by oven-drying at 70 °C to determine dry 
+biomass; 
+iii) Determine the total dry weight of each tree from 
+the wet weights and the averaged ratios of wet 
+and dry weights of the stem and branch 
+components. 
+b) Limited measurements: 
+i) 
+Select at least 10 trees per species distributed 
+across the age range (but excluding trees less 
+than 15 years old for which relative inaccuracy in 
+equations is usually low); 
+ 
+VM0003, v1.3  
+ 
+44 
+ 
+ii) Calculate volume of tree from basal and top 
+diameters and tree height. Multiply by species-
+specific density to gain biomass of bole. Add an 
+additional percentage to approximately cover 
+biomass of branches: 15 percent for spruce/fir, 5 
+percent for pines or 20 percent for broadleaf 
+forests.25 
+Where the biomass of the harvested trees is within ±10 percent 
+of the mean values predicted by the selected default allometric 
+equation and is not biased, or where biased, errs on the 
+conservative side (i.e., use of the equation results in under- rather 
+than over-estimates of project net anthropogenic removals by 
+sinks), mean values from the equation may be used. 
+ 
+Data/Parameter 
+�㌵�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Fraction of extracted biomass effectively emitted to the 
+atmosphere during production 
+Equations 
+(32) 
+Source of data 
+Winjum et al. (1998)26 
+ 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵�㌵#O> 
+Data unit 
+% 
+Description 
+Mean merchantable biomass as a proportion of total above-
+ground tree biomass for each forest type 
+Equations 
+Section 8.6.1 
+ 
+25 Calculated conservatively from the biomass expansion factors used to calculate total tree biomass from the biomass 
+of the bole in Table 3A.1.10 of IPCC (2003). Good practice guidance for land use, land use change and forestry.  
+26 Winjum, J. K., Brown, S., & Schlamadinger, B. (1998). Forest harvests and wood products: Sources and sinks of 
+atmospheric carbon dioxide. Forest Science, 44(2), 272–284.  
+ 
+VM0003, v1.3  
+ 
+45 
+ 
+Source of data 
+The source of data must be chosen from the following, listed in 
+descending order of preference:  
+1) Peer-reviewed published sources (including 
+carbon/biomass maps or growing stock volume27 maps 
+with a scale of at least 1 km) 
+2) Official government data and statistics 
+3) Original field measurements 
+The forest types considered are only those relevant for the 
+specific market effects leakage (i.e., only forest types with active 
+timber production). 
+An appropriate source of data is government records on annual 
+allowable cuts for the areas of commercial forests.  
+Where volumes are used, wood density is required to convert to 
+merchantable biomass. The source of data for wood density must 
+be chosen from the following, listed in descending order of 
+preference: 
+a) Knowledge on commercial species and thus an 
+appropriately weighted wood density derived from the 
+density of these species 
+b) A region-specific mean wood density for example as given 
+in Brown (1997)28 
+For the lower 48 US states, the following defaults have been 
+calculated29 from the US Forest Service Forest Inventory Analysis 
+Database and must be used where appropriate. 
+Forest Type Group 
+Merchantable Biomass as 
+Proportion of Total Biomass (%) 
+White Red Jack Pine 
+77 
+Spruce Fir 
+58 
+Longleaf Slash Pine 
+73 
+Loblolly Shortleaf Pine 
+73 
+Ponderosa Pine 
+64 
+Oak Pine 
+71 
+Oak Hickory 
+73 
+ 
+27 Volumes must be converted to merchantable biomass using wood densities/specific gravities. A weighted wood 
+density must be used to convert multi-species data on growing stock volume to merchantable biomass. 
+28 Brown, S. (1997). Estimating biomass and biomass change of tropical forests: A primer. FAO Forestry Paper 134. 
+Available at: http://www.fao.org/docrep/W4095E/W4095E00.htm  
+29 The FIA mapmaker program (Lowe and Cieszewski, 2005) was used. For the lower 48 states, the total biomass and 
+merchantable biomass by forest type were downloaded in order to calculate the proportions given here. 
+ 
+VM0003, v1.3  
+ 
+46 
+ 
+Oak Gum Cypress 
+72 
+Elm Ash Cottonwood 
+73 
+Maple Beech Birch 
+76 
+Aspen Birch 
+61 
+Douglas Fir 
+70 
+Western White Pine 
+62 
+Fir-Spruce/Mountain 
+Hemlock 
+62 
+Lodgepole Pine 
+64 
+Hemlock/Sitka Spruce 
+67 
+Western Larch 
+66 
+Redwood 
+43 
+Western Oak 
+69 
+ 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of leakage emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Root-shoot ratio appropriate for biomass increment based on 
+forest type or biome 
+Equations 
+(16), (20) 
+Source of data 
+The source of data must be chosen from the following, listed in 
+descending order of preference: 
+(a) Research publications relevant to the project area; 
+ 
+VM0003, v1.3  
+ 
+47 
+ 
+(b) National and forest type-specific or eco-region-specific 
+(e.g., from national GHG inventory) (sometimes (b) may be 
+preferable to (a));30 
+(c) Forest type-specific or eco-region-specific from neighboring 
+countries with similar conditions; 
+(d) Forest type-specific or eco-region-specific at a global level 
+(e.g., from IPCC GPG-LULUCF). 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of project and baseline emissions 
+Comments 
+Guidelines for conservative choice of default values: 
+1) Where default data are available in the sources of data 
+mentioned above for conditions that are similar to the project 
+(same vegetation genus, same climate zone, similar forest 
+type), mean values of default data may be used and 
+considered conservative. 
+2) Global values may be selected from the most recent version of 
+the IPCC’s GPG-LULUCF, by choosing a climatic zone and 
+species that most closely matches the project circumstances. 
+ 
+Data/Parameter 
+�㌵�㌵�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Short-lived fraction: proportion of wood products that oxidize 
+immediately in the first three years following harvest  
+Equations 
+(30), (33), (34), (37) 
+Source of data 
+The Forestry Appendix of the US Department of Energy’s 
+Technical Guidelines for The Voluntary Reporting of Greenhouse 
+Gas Program (Section 1605b) 
+Also available as a US Forest Service General Technical Report at: 
+https://www.srs.fs.usda.gov/pubs/22954 
+Winjum et al. (1998) 
+Value applied 
+ 
+ 
+30 (b) must only be used instead of (a) when the dataset for (b) is significantly larger and the relationship between root 
+and shoot tighter. For example, projects may elect to use defaults from Table 4.4. in IPCC (2006). Guidelines for 
+national greenhouse gas inventories: Volume 4 AFOLU. Available at: http://www.ipcc-
+nggip.iges.or.jp/public/2006gl/pdf/4_Volume4/V4_04_Ch4_Forest_Land.pdf 
+ 
+VM0003, v1.3  
+ 
+48 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of project and baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵�㌵�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Medium-lived fraction: proportion of wood products that decay 
+over the 20-year period following harvest  
+Equations 
+(30),(36), (37), (35) 
+Source of data 
+The Forestry Appendix of the US Department of Energy’s 
+Technical Guidelines for The Voluntary Reporting of Greenhouse 
+Gas Program (Section 1605b) 
+Also available as a US Forest Service General Technical Report at: 
+https://www.srs.fs.usda.gov/pubs/22954 
+Winjum et al. (1998) 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of project and baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+�㌵�㌵�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Long-lived fraction: proportion of wood products that remain 
+stored for 100 years following harvest  
+Equations 
+(30) 
+Source of data 
+The Forestry Appendix of the US Department of Energy’s 
+Technical Guidelines for The Voluntary Reporting of Greenhouse 
+Gas Program (Section 1605b)  
+Also available as a US Forest Service General Technical Report at: 
+https://www.srs.fs.usda.gov/pubs/22954 
+ 
+VM0003, v1.3  
+ 
+49 
+ 
+Winjum et al. (1998) 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ 
+Purpose of data 
+Calculation of project and baseline emissions 
+Comments 
+ 
+ 
+9.2 
+Data and Parameters Monitored  
+ 
+Data/Parameter 
+�㌵% 
+Data unit 
+ha 
+Description 
+Area of stratum i 
+Equations 
+(17), (22), (27) 
+Source of data 
+Strata and stand boundaries must be monitored preferably using 
+a Geographic Information System (GIS), which allows for 
+integrating data from different sources (including GPS 
+coordinates and remote sensing data). 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+ 
+Comments 
+It must be assumed ex-ante that stand boundaries and strata 
+areas do not change over time. 
+ 
+Data/Parameter 
+�㌵�㌵ 
+Data unit 
+m2 
+ 
+VM0003, v1.3  
+ 
+50 
+ 
+Description 
+Area of sample plot 
+Equations 
+(14) 
+Source of data 
+Recording and archiving of size of sample plots 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+ 
+Calculation method 
+ 
+Comments 
+The size of plots must be defined ex-ante and recorded in the 
+monitoring plan. 
+ 
+Data/Parameter 
+�㌵�㌵3,%,+ 
+Data unit 
+cm 
+Description 
+Diameter of piece n of dead wood along the transect in stratum i 
+at time t 
+Equations 
+(26) 
+Source of data 
+Field measurements in sample plots 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Lying dead wood must be sampled using the line intersect 
+method (Harmon & Sexton, 199631). Two 50-meter lines are 
+established bisecting each plot and the diameters of the lying 
+dead wood (≥10 cm diameter) intersecting the lines are 
+measured. 
+Minimum measurement diameter for all sites must not be less 
+than 10 cm. 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions  
+ 
+31 Harmon, M. E., & Sexton, J. (1996). Guidelines for measurements of woody detritus in forest ecosystems. US LTER 
+Publication No. 20. US LTER Network Office, University of Washington. 
+ 
+VM0003, v1.3  
+ 
+51 
+ 
+Calculation method 
+ 
+Comments 
+The change in carbon stocks in all applicable pools will be 
+modeled ex-ante following the requirements in Section 8.5.1. 
+ 
+Data/Parameter 
+�㌵�㌵�㌵ 
+Data unit 
+cm 
+Description 
+Diameter at breast height of tree 
+Equations 
+(9), (19), (38) 
+Source of data 
+Field measurements in sample plots 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Typically measured 1.3 m above ground. Measure all trees above 
+some minimum DBH in the sample plots of the IFM project 
+activity. The minimum DBH for all sites must not be more than 
+20 cm. 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+ 
+Comments 
+The change in carbon stocks in all applicable pools will be 
+modeled ex-ante following the requirements in Section 8.5.1. 
+ 
+Data/Parameter 
+�㌵ 
+Data unit 
+m 
+Description 
+Height of tree 
+Equations 
+(9), (19), (38) 
+Source of data 
+Field measurements in sample plots 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+ 
+ 
+VM0003, v1.3  
+ 
+52 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+ 
+Comments 
+The change in carbon stocks in all applicable pools will be 
+modeled ex-ante following the requirements in Section 8.5.1. 
+ 
+Data/Parameter 
+�㌵ 
+Data unit 
+m 
+Description 
+Length of the transect to determine volume of lying dead wood 
+(default 100 m) 
+Equations 
+(26) 
+Source of data 
+Field measurements 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+ 
+Comments 
+The change in carbon stocks in all applicable pools will be 
+modeled ex-ante following the requirements in Section 8.5.1. 
+ 
+Data/Parameter 
+�㌵ 
+Data unit 
+Dimensionless 
+Description 
+Total number of wood pieces intersecting the transect 
+Equations 
+(26) 
+Source of data 
+Field measurements 
+Description of 
+measurement methods 
+ 
+ 
+VM0003, v1.3  
+ 
+53 
+ 
+and procedures to be 
+applied 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+ 
+Calculation method 
+ 
+Comments 
+The change in carbon stocks in all applicable pools will be 
+modeled ex-ante following the requirements in Section 8.5.1. 
+ 
+Data/Parameter 
+�㌵�㌵�㌵% 
+Data unit 
+% 
+Description 
+Merchantable biomass as a proportion of total above-ground tree 
+biomass for stratum i within the project boundary 
+Equations 
+Section 8.6.2 
+Source of data 
+Within each stratum i, divide the summed merchantable 
+biomass (defined as “total gross biomass (including bark) of a 
+tree 5 inches (12.7 cm) DBH or larger from a 1 ft (30.48 cm) 
+stump to a minimum 4 inches (10.2 cm) top DOB of the central 
+stem”) by the summed total above-ground tree biomass. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+At least every five years, at verification 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of leakage emissions 
+Calculation method 
+ 
+Comments 
+A time-zero measurement must be made of this factor ex-ante. 
+ 
+Data/Parameter 
+�㌵ 
+Data unit 
+yr. 
+Description 
+Number of years between monitoring time t1 and t2 (T = t2 – t1) 
+ 
+VM0003, v1.3  
+ 
+54 
+ 
+Equations 
+(18), (23), (24), (28) 
+Source of data 
+ 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+ 
+Frequency of 
+monitoring/recording 
+ 
+QA/QC procedures to be 
+applied 
+ 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+ 
+Comments 
+The monitoring plan must detail ex-ante the planned monitoring 
+intervals through the project life. 
+ 
+9.3 
+Description of the Monitoring Plan 
+All data collected as part of monitoring must be archived electronically and kept for at least 2 
+years after the end of the project. All of the data must be monitored unless indicated otherwise 
+in Section 9.2. All measurements must be conducted according to relevant standards. In 
+addition, the monitoring provisions in the tools referred to in this methodology apply. 
+Monitoring of Project Implementation 
+Information must be provided, and recorded in the project description, to establish that: 
+1) The geographic position of the project area is recorded for all areas of land: 
+a) The geographic coordinates of the project area (and any stratification inside the 
+boundary) are established, recorded and archived. This may be achieved by 
+field survey (e.g., using GPS), or by using georeferenced spatial data (e.g., 
+maps, GIS datasets, orthorectified aerial photography or georeferenced remote 
+sensing images). 
+2) Commonly accepted principles of forest inventory and management are implemented: 
+a) Standard operating procedures (SOPs) and quality control/quality assurance 
+(QA/QC) procedures for forest inventory including field data collection and data 
+management must be applied. Use or adaptation of SOPs already applied in 
+national forest monitoring, or available from published handbooks, or from the 
+most recent version of the IPCC’s GPG-LULUCF values is recommended; 
+b) The forest management plan, together with a record of the plan as actually 
+implemented during the project, must be available for validation and 
+verification, as appropriate. 
+ 
+VM0003, v1.3  
+ 
+55 
+ 
+Sampling Design and Stratification 
+Stratification of the project area into relatively homogeneous units may either increase the 
+measuring precision without increasing the cost unduly, or reduce the cost without reducing 
+measuring precision because of the lower variance within each homogeneous unit. Project 
+proponents must present in the project description an ex-ante stratification of the project area 
+or justify the lack of stratification. The number and boundaries of the strata defined ex-ante 
+may change during the project crediting period (ex-post). 
+Updating of strata 
+The stratification must be updated ex-post in the following situations: 
+1) Unexpected disturbances occur during the project crediting period (e.g., due to fire, 
+pests or disease outbreaks), differently affecting various parts of an originally 
+homogeneous stratum; or 
+2) Forest management activities (cleaning, planting, thinning, harvesting, coppicing, 
+re-planting) have been implemented in a way that affects the existing stratification. 
+Established strata may be merged where reasons for their establishment have disappeared. 
+Sampling Framework 
+To determine the sample size and allocation among strata, this methodology uses the latest 
+version of the CDM Tool for the calculation of the number of sample plots for measurements 
+within A/R CDM project activities approved by the CDM Executive Board. The targeted precision 
+level for biomass estimation across the project is ±10 percent of the mean at a 90 percent 
+confidence level. In contrast to the CDM tool, note that temporary plots are permissible under 
+this methodology. 
+Data and Parameters Monitored 
+The parameters listed in Section 9.2 must be monitored during the project activity. When 
+applying all relevant equations provided in this methodology for the ex-ante calculation of net 
+anthropogenic GHG removals by sinks, project proponents must provide transparent 
+estimations of the parameters that are monitored during the project crediting period. These 
+estimates must be based on measured or existing published data where possible and project 
+proponents must retain a conservative approach — that is, where different values for a 
+parameter are equally plausible, a value that does not lead to over-estimation of net 
+anthropogenic GHG removals by sinks must be selected. 
+Future developments may allow remote sensing of carbon stocks and changes in carbon 
+stocks, however, in this case a new version of this methodology will be necessary to 
+accommodate the currently unknown components of such future technology. 
+ 
+VM0003, v1.3  
+ 
+56 
+ 
+Conservative Approach and Uncertainties 
+To help reduce uncertainties in accounting of emissions and removals, this methodology uses, 
+where possible, the proven methods from the most recent version of IPCC’s GPG-LULUCF and 
+the tools and methodologies of the CDM Executive Board. Tools and guidance from the CDM 
+Executive Board on conservative estimation of emissions and removals are also used. Despite 
+this, potential uncertainties still arise from the choice of parameters to be used. Uncertainties 
+arising from, for example, biomass expansion factors (BEFs) or wood density would result in 
+uncertainties in the estimation of both baseline net GHG removals by sinks and the actual net 
+GHG removals by sinks, especially when global default values are used. 
+It is recommended that project proponents identify key parameters that would significantly 
+influence the accuracy of estimates. Local values that are specific to the project circumstances 
+must then be obtained for these key parameters, where possible. These values must be based 
+on: 
+1) Data from well-referenced peer-reviewed literature or other well-established published 
+sources32; or 
+2) National inventory data or default data from IPCC literature that has, where possible 
+and necessary, been checked for consistency against available local data specific to the 
+project circumstances; or 
+3) In the absence of the above sources of information, expert opinion may be used to 
+assist with data selection. Experts will often provide a range of data, as well as a most 
+probable value for the data. The rationale for selecting a particular data value must be 
+briefly noted in the project description. For any data provided by experts, the project 
+description must also record the expert’s name, affiliation and principal qualification as 
+an expert (e.g., member of a national forest inventory technical advisory group), and 
+must include a 1-page summary CV for each expert consulted, included in an annex. 
+In choosing key parameters or making important assumptions based on information that is not 
+specific to the project circumstances, such as in use of default data, project proponents must 
+select values that will lead to an accurate estimation of net GHG removals by sinks, taking into 
+account uncertainties. Where uncertainty is significant, project proponents must choose data 
+such that it tends to under-estimate, rather than over-estimate, net GHG removals by sinks.

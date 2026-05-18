@@ -1,0 +1,31 @@
+2 SOURCES 
+This methodology is based on the following methodologies: 
+• 
+VM0042 Improved Agricultural Land Management, v2.1 
+• 
+Clean Development Mechanism (CDM) AMS-III.AU Methane Emission Reduction by 
+Adjusted Water Management Practice in Rice Cultivation, v04.0 
+• 
+Joint Crediting Mechanism (JCM) PH_AM004 Methane Emission Reduction by Water 
+Management in Rice Paddy Fields, v01.0 
+• 
+Gold Standard Methodology for Methane Emission Reduction by Adjusted Water 
+Management Practice in Rice Cultivation, v1.0 
+This methodology uses the most recent versions of the following tools, modules, and guidelines: 
+• 
+VMD0053 Model Calibration, Validation, and Uncertainty Guidance for the 
+Methodology for Improved Agricultural Land Management 
+• 
+VT0008 Additionality Assessment  
+• 
+CDM Tool for Testing Significance of GHG Emissions in A/R CDM Project Activities 
+• 
+CDM TOOL16 Project and Leakage Emissions from Biomass 
+• 
+CDM EB67 A06 Guideline: Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities 
+ 
+VM0051, v1.0 
+ 
+ 
+7

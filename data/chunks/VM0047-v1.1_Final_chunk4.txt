@@ -1,0 +1,52 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS Program Definitions, the following definitions 
+apply to this methodology: 
+Accounting boundary 
+Applies to census-based projects as the specific spatial area within the project boundary where 
+GHG emissions, carbon dioxide removals, and GHG emission reductions are quantified. The 
+accounting boundary exists entirely within the project boundary and is limited to individual 
+planting units. It excludes soil organic carbon, litter, and non-woody biomass outside those units. 
+ 
+VM0047, v1.1 
+7 
+Control plot 
+Plot located outside of the project area that is selected based on its similarity to a project plot 
+and that is monitored via remote sensing techniques. 
+Donor pool area 
+Geospatial domain with similar attributes to project plots, within which control plots may be 
+selected. 
+Land use change date 
+Date on which a change in land use occurred (e.g., cessation of grazing, establishment of an 
+exclosure). 
+Managed forests 
+Forest lands actively managed for wood products, including saw timber, pulpwood, and fuelwood. 
+This includes both plantation forests and natural forests (primary and secondary) where 
+harvesting or other silvicultural activities occur. 
+Matching covariates 
+Continuous variables from which control plots are matched to each project plot, minimally 
+including historical and initial stocking indices (SI) 
+Multivariate distance metric 
+Metric that computes the distance between two vectors (e.g., Mahalanobis distance). It is used to 
+quantify the match or “closeness” between prospective control plots and project plots. 
+Planting unit 
+Clearly defined individual woody plants (e.g., tree, shrub, discrete bamboo clump) that are 
+identifiable in the field and subject to a complete census under the census-based approach. 
+Pre-existing woody biomass 
+Woody biomass in the project area prior to project implementation, including aboveground, 
+belowground, and deadwood (where included as a relevant pool). 
+Project plot 
+Remotely sensed plot of up to 10 ha representatively sampled from the project area, from 
+which the stocking index (SI) is evaluated. 
+Site preparation 
+ARR project activities undertaken prior to any planting that remove or disturb pre-existing 
+biomass or soil in the project area. 
+Stocking index (SI) 
+An unspecified remote sensing metric with demonstrated correlation with terrestrial aboveground 
+carbon stocks (e.g., normalized difference fraction index – NDVI - from Landsat imagery, average 
+canopy height derived from light detection and ranging (LiDAR)). 
+ 
+VM0047, v1.1 
+8 
+Woody biomass 
+Biomass in plants with hard, lignified stems (e.g., trees, shrubs, palms, and bamboo). Includes 
+aboveground and belowground woody biomass pools.

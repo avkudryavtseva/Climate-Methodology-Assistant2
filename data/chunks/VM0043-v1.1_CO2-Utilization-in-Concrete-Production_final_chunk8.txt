@@ -1,0 +1,683 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+ 
+Baseline Emissions 
+Emissions in the baseline scenario are associated with two components. The first 
+component is the emissions associated with the production of Portland cement. The second 
+component is the CO2 that is captured and sequestered in the ready-mix or pre-cast 
+concrete products produced by the project activity. 
+8.1.1 Component 1: Avoided Cement Emissions (BEACU):  
+The first component of the baseline emissions calculation is the displacement of 
+conventional cement production by the project activity. These baseline emissions are 
+calculated in the equation below. The amount of displacement is calculated by determining 
+the quantity of cement that would have been used in the absence of the project and 
+multiplying that by the emissions factor of the cement. There are three options for 
+determining the emissions factor. 
+𝐵𝐸𝐴𝐶𝑈,𝑦= ∑(𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑖,𝑏,𝑦× 𝐸𝐹𝑐𝑒𝑚𝑒𝑛𝑡)
+𝑖
+ × (1 −𝐷𝐹)  
+ 
+ 
+ 
+(1) 
+ 
+1 Section 3.5.3 of the VCS Methodology Requirements  
+2 Section 3.5.10 of the VCS Methodology Requirements, v4.4  
+ 
+VM0043, v1.1  
+ 
+11 
+ 
+Where:  
+BEACU,y 
+= Emissions from the production of Portland cement that would have been 
+used in the absence of the project (tCO2e) in year y 
+Qcement,i,b,y  
+= Quantity of Portland cement that would have been used in the baseline 
+for concrete produced using a project mix design i in year y (tonnes) 
+EFcement  
+= Emissions factor of Portland cement production (tCO2e/tonne of 
+cement) 
+DF 
+= Discount factor for upstream displacement (30%) 
+ 
+Determining Qcement,i,b.y: Project proponents must use a testing procedure that measures the 
+cement required to produce concrete products with equivalent or better functional or 
+compressive strength per industry standards, such as ASTM Volume 04.02. This procedure 
+involves comparing the compressive strength of concrete with and without the project 
+activity to establish a cement use ratio between the project scenario and the baseline 
+scenario applicable to all project concrete produced with mix design i.  
+Where concrete products do not utilize compressive strength as a metric, project 
+proponents must apply the appropriate ASTM tests to determine functional equivalence. 
+The testing process is outlined in Appendix II. Note that the equations below refer to 
+concrete mix designs, which include both ready-mix and pre-cast concrete products. 
+ 
+𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑖,𝑏,𝑦= ∑[𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑖,𝑝,𝑦× (
+∑𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑏,𝑖,𝑡𝑒𝑠𝑡 𝑛
+𝑛
+∑𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑝,𝑖,𝑡𝑒𝑠𝑡 𝑛
+𝑛
+)]
+𝑖
+ 
+(2) 
+ 
+Where: 
+Qcement,i,p,y  
+= Quantity of Portland cement used in the project scenario for concrete 
+produced using a project mix design i in year y (tonnes).   
+ 
+QCement,p,i,test n 
+= Quantity of Portland cement used (e.g., tonnes) to prepare project 
+compressive strength or equivalent test specimen n for concrete produced 
+using project mix design i. The testing process is outlined in Appendix II. 
+ 
+QCement,b,i,test n  
+= Quantity of Portland cement used (e.g., tonnes) to prepare baseline 
+compressive strength or equivalent test specimen n for concrete produced 
+using a baseline mix design, that results in a concrete of equivalent 
+compressive strength to project mix design i.  The testing process is 
+outlined in Appendix II. 
+ 
+Requirements for mix designs:  The key differentiation between mix designs include 
+compressive strength, cement input, and carbon content. Requirements for mix designs are 
+listed below.  
+A.  Mix Design Assessment: 
+• 
+The baseline mix design is determined to assess the amount of cement that would 
+have been used in the baseline scenario. 
+ 
+VM0043, v1.1  
+ 
+12 
+• 
+The same mix design can be utilized at multiple facilities. 
+B. Description and Rationale: 
+• 
+The project proponent must describe the different mix designs in the Project 
+Description (PD). 
+• 
+Minor variations in the ratio of ingredients within different batches of concrete of 
+the same mix design can be considered the same mix design category. 
+• 
+A rationale for categorizing different mix designs must be provided. The 
+categorization should consider how much concrete is produced with each mix, 
+giving more importance to mix designs that are used in larger quantities. 
+C. New vs. Existing Concrete Facilities: 
+If the project operates in a new concrete facility, as opposed to an existing one (i.e., where 
+baseline concrete was not previously produced), the concrete manufacturer must: 
+• 
+Produce samples in an independent laboratory that is not undertaking the project 
+activity. 
+• 
+Develop baseline samples with the equivalent or better function and/or 
+compressive strength as the project concrete, enabling an accurate comparison 
+between the baseline and project scenarios. 
+2) Use an independent laboratory that is accredited by a credible/relevant agency of the 
+host country. 
+Determining EFcement: The emissions factor for the cement must be determined using one of 
+the following options:  
+Option 1. Plant-Specific Data: Where the source of the cement used both in the baseline 
+and project scenario is known, and the concrete production is co-located at the cement 
+production facility (e.g., when the cement and concrete production is by the same 
+company), plant-specific factors must be used if they are available. The information from 
+the cement plant(s) must include total energy and fuel use (including electricity usage, on-
+site mobile fuel usage and regional electricity emission factors) and the project proponent 
+must calculate the total GHG emissions per unit of cement produced.  
+ 
+Option 2. Environmental Product Declarations (EPDs): Where Option 1 is not applicable, 
+project proponents may use environmental product declarations (EPDs) that provide key 
+information on GHG intensity of cement. An EPD is a comprehensive summary report of 
+environmental impacts of a material’s production based on life cycle assessment (LCA) and 
+verified by a third party. It provides a clear, consistent, and transparent basis for reporting 
+broad environmental performance for similar types of materials or products.3 When 
+different cement sources are mixed together in a single truckload of concrete, a weighted 
+average must be calculated based on the proportion of each cement source used. 
+ 
+3 For example, the EPD published by the Portland Cement Association in the US cites that the cradle to gate total emissions 
+per tonne of cement production is 1.040 tonnes of CO2e.  See: https://www.cement.org/docs/default-
+source/sustainabilty2/pca-portland-cement-epd-062716.pdf?sfvrsn=2.  Many countries publish EPDs – for example, the UK 
+can be found at https://cement.mineralproducts.org/documents/UK_Average_Portland_Cement_EPD.pdf. 
+ 
+VM0043, v1.1  
+ 
+13 
+ 
+EPDs typically incorporate the entire cradle-to-gate life cycle of the cement process and as 
+such, they are not directly comparable to plant-specific data (Option 1) or the use of 
+regional factors (Option 3). The use of an emissions factor based on the entire lifecycle 
+would thus raise the EFcement value and lead to a higher level of baseline emissions as 
+compared to the other options. To compensate for this difference would therefore be 
+conservative. Two studies have been identified that provide similar estimates of the 
+emissions not directly associated with the cement production process itself. Specifically, it 
+is estimated that extraction of the raw materials accounts for 12% of the cradle-to-gate 
+impact of a cement LCA.4 Another study estimates that figure as 11.2%.5 Thus, where 
+Options 1 and 3 are used, project proponents must increase the EF figure (tCO2e/tonne of 
+cement) by 11.2% in order to make all methods to determine the EF comparable. 
+ 
+Option 3: Use of Regional Factors: Where EPDs are not available, or where the project 
+activity is in a country where the data needed for Options 1 and 2 are not available, the 
+project proponent must use regional factors. Refer to Appendix III for the parameters 
+needed to calculate regional factors. For this option, the following formula must be used to 
+determine EFcement. 
+𝐸𝐹𝑐𝑒𝑚𝑒𝑛𝑡=
+𝑀𝑐𝑙𝑖𝑛𝑘𝑒𝑟
+𝑀𝑐𝑒𝑚𝑒𝑛𝑡 × 𝐸𝐹𝑐𝑙𝑖𝑛𝑘𝑒𝑟  
+ 
+ 
+ 
+ 
+ 
+(3) 
+Where:  
+EFcement  
+= Emission factor for Portland cement production (tCO2e/tonne of cement) 
+MClinker/MCement  = Clinker to cement ratio (unitless).  
+EFClinker  
+= Emission factor of clinker (tCO2e/tonne of clinker).  
+ 
+8.1.2 Component 2: Captured CO2 (CRCO2,cap or BECO2,cap):   
+If the CO2 is captured from the atmosphere through direct air capture or bioenergy6 carbon 
+capture technologies, it results in carbon dioxide removals and CRCO2,cap must be 
+determined.   
+If the CO2 is captured from flue gases resulting from fossil fuel combustion or other 
+industrial processes (e.g., cement, blue hydrogen production), it results in emission 
+reductions and BECO2,cap must be determined.  The source of CO2 must be recorded to make 
+this distinction. 
+ 
+4 “Improving the CO2 Performance of Cement, Part I: Utilizing Life-Cycle Assessment and Key Performance Indicators to 
+Assess Development Within the Cement Industry”, Roozbeh Feiz, et. al., Linkoping University Post Print.   
+5 “A Life-Cycle Assessment of Portland Cement Manufacturing: Comparing the Traditional Process with Alternative 
+Technologies”, Deborah Huntzinger, et. al. Journal of Cleaner Production, 2009. 
+6 To be eligible for the removal label, the CO2 sourced from bioenergy carbon capture must be from renewable biomass 
+that is sustainably sourced, for example this includes CO2 from ethanol production facilities using renewable biomass 
+feedstocks that are sustainable sourced. 
+ 
+VM0043, v1.1  
+ 
+14 
+There are two options for determining the amount of CO2 captured and mineralized in the 
+concrete or concrete products. 
+Option 1: Testing to Determine Quantity of CO2 Stored in the Concrete:  Determining the 
+amount of CO2 sequestered into the concrete products involves the testing of concrete 
+samples using a carbon analyzer. This device can ascertain the level of carbon embedded 
+in a sample of concrete products. The difference between the carbon contents of the 
+baseline sample and the project sample indicates the additional CO2 that is embedded in 
+the project concrete. The testing procedure is detailed in Appendix IV.  The results of the 
+tests are used in the equations below: 
+𝐵𝐸𝐶𝑂2,𝑐𝑎𝑝,𝑦= ∑[𝑄𝑐𝑜𝑛𝑐𝑟𝑒𝑡𝑒,𝑖,𝑝,𝑦× (𝐶𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑠𝑎𝑚𝑝𝑙𝑒,𝑖,𝑦−𝐶𝑏𝑎𝑠𝑒𝑙𝑖𝑛𝑒 𝑠𝑎𝑚𝑝𝑙𝑒,𝑖,𝑦) × 44
+12 
+𝑖
+] 
+(4a) 
+or 
+ 
+𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦= ∑[𝑄𝑐𝑜𝑛𝑐𝑟𝑒𝑡𝑒,𝑖,𝑝,𝑦× (𝐶𝑝𝑟𝑜𝑗𝑒𝑐𝑡 𝑠𝑎𝑚𝑝𝑙𝑒,𝑖,𝑦−𝐶𝑏𝑎𝑠𝑒𝑙𝑖𝑛𝑒 𝑠𝑎𝑚𝑝𝑙𝑒,𝑖,𝑦) × 44
+12 
+𝑖
+] 
+(4b) 
+Where: 
+ 
+BECO2,cap,y   
+= Baseline emissions from the capture of CO2 (tCO2e) in year y 
+CRCO2,cap,y   
+= Carbon dioxide removals from the capture of CO2 (tCO2e) from the 
+atmosphere in year y 
+QConcrete,i,p,y  
+= Quantity of concrete products produced by the project for product mix 
+design i in year y (tonnes).   
+Cproject sample,i,y   
+ = Carbon content of samples of concrete products for each design mix i in 
+year y taken from the project activity (kgC/kg of concrete in the sample)   
+ 
+Cbaseline sample,i,y    = Carbon content of samples of concrete products for each design mix i in 
+year y that are not using the project activity technology (kgC/kg of concrete 
+in the sample)    
+ 
+Option 2: Default Efficiency of Mineralization: In some cases, one concrete manufacturer 
+may be producing too many mix designs for the testing to be feasible or practical. In this 
+case, project proponents may use a default based on the percentage of CO2 injected into 
+the process (as determined by a meter) and actually mineralized. This indicates the 
+efficiency of mineralization. There have been tests done on this efficiency as outlined in 
+Appendix VI. These tests show quite a range of results in terms of the efficiency of the 
+uptake of CO2 into the concrete, and there appears to be little correlation between the 
+efficiency of mineralization and the percent dosing of CO2. However, the lowest test result is 
+76%, meaning that about three-quarters of the CO2 that is injected into the process is 
+ 
+VM0043, v1.1  
+ 
+15 
+actually mineralized into the concrete. As a conservative default, the assumed efficiency of 
+mineralization is set at 60%, which is applicable for both ready-mix and precast concrete.  
+BECO2,cap,y  = QCO2,meter,s,y X 0.60 
+ 
+ 
+ 
+ 
+ 
+(5a) 
+𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦= 𝑄𝐶𝑂2,𝑚𝑒𝑡𝑒𝑟,𝑠,𝑦× 0.60 
+(5b) 
+Where: 
+QCO2,meter,s,y  
+= Amount of CO2 injected from source s in year y into the concrete 
+production process, as determined by a flow meter (tCO2) at the project 
+activity location 
+0.60  
+= Conservative default for the efficiency of CO2 mineralization into the 
+concrete 
+ 
+ 
+Project Emissions 
+Project emissions are determined as follows: 
+𝑃𝐸𝑦= 𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦+ 𝑃𝐸𝑒𝑙𝑒𝑐,𝑦+ 𝑃𝐸𝑓𝑓𝑐,𝑦+ 𝑃𝐸𝐶𝑂2,𝑦+ 𝑃𝐸𝐶𝑂2,𝑖𝑛𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒,𝑦 
+ 
+(6) 
+Where: 
+PEy 
+ 
+= Project emissions in year y (tCO2e) 
+PEcement,y  
+= Emissions from the production of cement used at the project facility in 
+year y (tCO2e) 
+PEelec,y 
+= Emissions from the incremental use of electricity by the CO2 injection 
+equipment at the project facility in year y (tCO2e) 
+PEffc,y 
+= Emissions from the incremental combustion of fossil fuels by the CO2 
+injection and any other related equipment at the project facility in year y 
+(tCO2e) 
+PECO2,y 
+= Emissions associated with the capture, compression and transport of CO2 
+to the location where it will be sequestered in concrete in year y (tCO2e) 
+PECO2,ineligible,y 
+=Amount of CO2 non-mineralized that comes from a non-eligible source of 
+CO2 or when CO2 source is unknown in year y (tCO2e) 
+ 
+8.2.1 Project emissions from cement production 
+The project emissions from the amount of cement used at the project facility are 
+calculated as follows: 
+𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦= ∑𝑄𝑐𝑒𝑚𝑒𝑛𝑡,𝑖,𝑝,𝑦× 𝐸𝐹𝑐𝑒𝑚𝑒𝑛𝑡
+𝑖
+  ×(1 −𝐷𝐹) 
+ 
+ 
+ 
+(7) 
+Where:  
+PEcement,y  
+= Emissions from the amount of cement used at the project facility in year 
+y (tCO2e) 
+Qcement,i,p,y 
+= Quantity of Portland cement used in the project for concrete produced 
+using a project mix design i in year y (tonnes)    
+ 
+VM0043, v1.1  
+ 
+16 
+EFcement 
+= Emissions factor for the Portland cement used in the project (tCO2e/ 
+tonne of cement). One of the three options described above must be used. 
+DF 
+= Discount factor for upstream displacement (30%) 
+ 
+ 
+8.2.2 Project emissions from electricity use 
+The project emissions from the use of electricity at the project facility are calculated as 
+follows: 
+𝑃𝐸𝑒𝑙𝑒𝑐,𝑦= 𝑄𝑒𝑙𝑒𝑐,𝑦× 𝐸𝐹𝑒𝑙𝑒𝑐 
+ 
+ 
+ 
+ 
+ 
+ 
+(8) 
+Where: 
+PEelec,y   
+= Emissions from the use of electricity at the project facility in year y 
+(tCO2e) 
+ 
+Qelec,y 
+= Quantity of electricity used by the CO2 injection equipment from the grid 
+in year y used to power the equipment needed to operate the project 
+activity in year y (MWh) 
+EFelec   
+= Emissions intensity of the electricity (tCO2/MWh)    
+ 
+Determining EFelec:  Project proponents may follow one of two alternatives to calculate this 
+parameter: 
+3) Use a grid emission factor published by a government agency. For example, for projects 
+located in the United States use the eGrid emissions factor for the sub-region where the 
+facility is located (latest available information). Where grid emission factors are not 
+available from a government agency, an emission factor published by another reputable 
+and recognized source, and reviewed for publication by an appropriate qualified, 
+independent organization or appropriate peer review group may be used (if available). 
+4) Use the latest version of the VCS Tool VT0011 – Electricity System Emission Factors. 
+ 
+8.2.3 Project emissions from fossil fuel use 
+The project emissions from the incremental combustion of fossil fuels used to power the 
+equipment needed to run the project activity are calculated as follows7: 
+𝑃𝐸𝑓𝑓𝑐,𝑦= ∑(𝑄𝑓𝑓,𝑎,𝑦× 𝐹𝐶𝑎× 𝐸𝐹𝑎)
+𝑎
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(9) 
+ 
+Where: 
+PEffc,y   
+= Emissions from the combustion of fossil fuels used at the project facility in year 
+y (tCO2e) 
+Qff,a,y   
+= Quantity of fossil fuel a used by the CO2 injection equipment in year y (volume 
+of liquid fuel, mass of solid fuel or cubic meters of natural gas) 
+ 
+7 Note that incremental means just the energy requirements required to inject the CO2 into the concrete – in other words, 
+just the additional energy to carry out the project activity, which would not have taken place in the baseline scenario.   
+ 
+VM0043, v1.1  
+ 
+17 
+ 
+FCa 
+= Energy content of fuel type a combusted (TJ/unit of fuel)   
+EFa     
+= Emission factor of fuel type a (tCO2/TJ)   
+ 
+8.2.4 Project emissions from CO2 processing and transport 
+The project emissions from the capture, compression and transport of CO2 to the 
+location where it will be sequestered in concrete can be calculated using two options.   
+Option 1: 
+ 
+𝑃𝐸𝐶𝑂2,𝑦= 𝑃𝐸𝐶𝑂2,𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔,𝑦+ 𝑃𝐸𝐶𝑂2,𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡,𝑦  
+ 
+ 
+(10) 
+Where: 
+PECO2,y  
+= Emissions associated with the capture, compression and transport of 
+CO2 to the location where it will be sequestered in concrete in year y 
+(tCO2e) 
+PECO2,processing,y  = Emissions associated with the capture, compression and processing of 
+CO2 in year y (tCO2e) 
+PECO2,transport,y  
+= Project emissions associated with the transport of CO2 to the project 
+site in year y (tCO2e) 
+ 
+ 
+𝑃𝐸𝐶𝑂2,𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔,𝑦= 𝑄𝐶𝑂2,𝑚𝑒𝑡𝑒𝑟,𝑦×
+∑(𝑄𝑓𝑓,𝑎,𝑦,𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔×𝐹𝐶𝑎×𝐸𝐹𝑓𝑓,𝑎,𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔)+𝑄𝑒𝑙𝑒𝑐 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔,𝑦×𝐸𝐹𝑒𝑙𝑒𝑐
+𝑎
+𝑇𝑜𝑡𝑎𝑙𝐶𝑂2 𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑒𝑑,𝑦
+ (11) 
+ 
+Where: 
+PECO2,processing,y  = Emissions associated with the capture, compression and processing of 
+CO2 in year y (tCO2e) 
+ 
+QCO2,meter,y  
+= Amount of CO2 injected in year y into the concrete production process, 
+as determined by a flow meter (tCO2) at the project activity location. 
+ 
+Qff,a,y,processing   
+= Total quantity of fossil fuel used to capture, compress, process CO2 in 
+year y  (gallons (oil fuels), cubic meters (natural gas), tonnes (solid fuels))8  
+ 
+FCa 
+= Energy content of fuel type a for the entire CO2 production facility (TJ/unit 
+of fuel)  
+EFff,a,processing 
+= Emission factor of fuel a (tCO2/TJ)  
+EFelec  
+= Emissions intensity of the electricity (tCO2/MWh) 
+ 
+8 This parameter refers to the fuel used at the entire facility where the CO2 would be emitted but is instead being captured 
+and processed for use “CO2 production facility” (or facilities if multiple sources are used) in year y (volume of liquid fuel, 
+mass of solid fuel or cubic meters of natural gas). 
+ 
+VM0043, v1.1  
+ 
+18 
+Qelec,processing,y 
+= Total quantity of electricity from the grid in year y used to capture, 
+compress and process CO2 (MWh) 
+TotalCO2 processed,y  = Total amount of CO2 processed from the facility (or facilities) supplying 
+the captured CO2 in year y (tCO2)9  
+ 
+Note that where the CO2 is sent via pipeline from the production facility to the project 
+facility, the energy requirements of moving that gas through the pipeline must be included 
+in the processing equation (Eq. 11) rather than Equation 12, which uses default factors for 
+modes of transport such as ship, air, and rail.   
+ 
+The supplier(s) of the CO2 will be required to provide information on the electricity and fuel 
+requirements of all energy required to capture, compress and transport (via pipeline) the 
+CO2 to the point where it is used by the project activity in a 12-month period. If 12 months 
+of data are not available, it can be estimated or extrapolated from monthly data. This 
+includes each location where the processing emissions take place in order to determine 
+the electricity intensity of the grid at that location. This information comprises:  
+ 
+1. At the point of capture, provide the following: 
+a. Quantity of total CO2 captured,  
+b. Total amount of electricity used to carry out the capture process,   
+c. Total amounts and types of all fossil fuels used in the process, and 
+d. Source of CO2. 
+ 
+2. For the points of compression and (if applicable) transport , provide the following: 
+a. Quantity of total CO2 compressed/transported, 
+b. Total amount of electricity used to carry out compression/transport, and  
+c. Total amounts and types of all fossil fuels used in the process. 
+ 
+ 
+3. If third-party suppliers of the CO2 provide this information, that the third-party must 
+agree to spot-checking by the verifier VVB for backup documentation to confirm 
+the data. If this backup documentation cannot be provided, the project proponent 
+will not be able to count emission reductions from the sequestration of CO2 into 
+concrete during that project crediting period. In this situation, carbon credits can 
+still be awarded for avoided cement usage. 
+ 
+Option 2:  
+ 
+Project proponents may elect to use a default of 200 kWh/tonne of CO2 processed.  To 
+convert kWh to GHG emissions, the project proponent would use the EFelec at the facility 
+where the CO2 is being processed.  Note that this figure does not include the transport of 
+gaseous CO2 via pipeline, which must be calculated in addition to the default.  Appendix V 
+explains the derivation of this default factor.  
+    
+𝑃𝐸𝐶𝑂2,𝑝𝑟𝑜𝑐𝑒𝑠𝑠𝑖𝑛𝑔,𝑦= 𝑄𝐶𝑂2,𝑚𝑒𝑡𝑒𝑟,𝑦× 200
+𝑘𝑊ℎ
+𝑡𝑜𝑛𝑛𝑒× 𝐸𝐹𝑒𝑙𝑒𝑐 
+ 
+ 
+ 
+(11a) 
+Where: 
+ 
+ 
+9 This will be measured at the source of the CO2 production, and any fugitive emissions of CO2 from the pipeline will be 
+considered de minimis. 
+ 
+VM0043, v1.1  
+ 
+19 
+QCO2,meter,y 
+= Amount of CO2 injected in year y into the concrete production process, 
+as determined by a flow meter (tCO2) at the project activity location. 
+ 
+EFelec  
+= Emissions intensity of the electricity (tCO2/MWh)    
+ 
+The project emissions from the transport of CO2 from the capture site to the project site 
+are calculated as follows: 
+ 
+𝑃𝐸𝐶𝑂2,𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡,𝑦= ∑(𝑄𝐶𝑂2,𝑠𝑢𝑝𝑝𝑙𝑖𝑒𝑑,𝑦,𝑖× 𝑚𝑖𝑙𝑒𝑠 𝑡𝑟𝑎𝑛𝑠𝑝𝑜𝑟𝑡𝑒𝑑𝑖× 𝐸𝐹𝐶𝑂2,𝑖)
+𝑖
+  
+(12) 
+Where: 
+PECO2,transport,y 
+= Project emissions associated with the transport of CO2 to the project 
+site in year y (tCO2e) 
+ 
+QCO2,supplied,y,i 
+= Amount of CO2 procured in year y and brought to the project activity 
+site by mode i (tCO2) 
+ 
+miles transported i = Miles that CO2 is transported to reach the point of use in year y by 
+mode i (miles) 
+ 
+EFCO2,i 
+= CO2 emission factor for mode i (barge, rail, or truck), (tCO2/tonne-
+mile). See Table 3 below 
+ 
+Note that the parameter QCO2,supplied,y,i must be measured when Option 1 is used to 
+determine BECO2,cap. Because this option employs carbon content testing (and not metering 
+to determine the quantity of CO2), data from the supplier is required. For projects that apply 
+Option 2, which measures CO2 through a meter, the parameter QCO2,supplied,s,y,i may be 
+substituted by QCO2,meter,s,y, 
+Modal Transport of CO2 and other materials/inputs: CO2 may be transported via railway, 
+truck, etc. from the point of capture to the project activity site. However, other materials may 
+also be transported, such as sustainable and renewables biomass waste that is transported 
+to the project activity to burn and provide biogenic CO2 for mineralization, or the finished 
+product to the source of the CO2. In either case, the formula would work the same – the 
+quantity of material in tonnes would be shipped a certain number of miles and multiplied 
+together to determine the number of tonne-miles. 
+A tonne-mile refer to shipping one tonne of product for one mile. If the CO2 is not captured 
+on the same site where the concrete is produced, the project proponent must gather 
+specific data from the CO2 deliverer. This data must include the total tonnes delivered and 
+the total miles traveled. Note that not all tonne-miles are equivalent in terms of their 
+impact. The US EPA’s globally applicable Center for Corporate Climate Leadership program 
+identifies different GHG emission factors for different modes of transport (Table 3).10 Also, 
+Equation 12 combines units that multiply the tonnes of CO2 shipped by the tonnes of 
+emissions from transporting that CO2. The final unit, however, is tonnes of emissions.  
+ 
+10 https://www.epa.gov/sites/production/files/2020-04/documents/ghg-emission-factors-hub.pdf 
+ 
+VM0043, v1.1  
+ 
+20 
+ 
+Table 3: Quantifying GHG Emissions Associated with Transport* 
+Transport Mode 
+Emissions in metric tC02/tonne-mile 
+Rail 
+0.0000231 
+Waterborne  
+0.000044 
+Truck 
+0.00023 
+Air 
+0.00139 
+*Note: these factors may be updated by US EPA, and project proponents have the option of 
+using updated figures. The figures above have been converted from the original EPA table to 
+metric tonnes from short tons.  
+ 
+8.2.5 Project emissions from ineligible CO2 sources 
+When the source of CO2 is not known, the project proponent must assume it comes from an 
+ineligible source, such as a geologic reservoir.  The CO2 that is mineralized, i.e., absorbed into 
+the cement, would not be eligible for a VCU and count as a project emission. When the CO2 
+sources are known and eligible, this value would be 0.  
+ 
+𝑃𝐸𝐶𝑂2,𝑖𝑛𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒,𝑦= 𝑄𝐶𝑂2,𝑚𝑒𝑡𝑒𝑟,𝑖𝑛𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒,𝑦  
+ 
+(13) 
+Where: 
+PECO2,ineligible,y 
+= Amount of CO2 non-mineralized that comes from a non-eligible 
+source of CO2 or when CO2 source is unknown in year y (tCO2e) 
+QCO2,meter,ineligible,y  
+= Amount of CO2 injected from source ineligible on unknown in year 
+y into the concrete production process, as determined by a flow 
+meter (tCO2) at the project activity location 
+ 
+ 
+Leakage Emissions 
+No sources of leakage have been identified for this project activity.  
+ 
+Net Reductions and Removals 
+Net GHG emission reductions are calculated as follows: 
+𝐸𝑅𝑦= 𝐵𝐸𝐴𝐶𝑈,𝑦−𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦+ 𝐵𝐸𝐶𝑂2,𝑐𝑎𝑝,𝑦
+−(
+𝐵𝐸𝐴𝐶𝑈,𝑦−𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦+ 𝐵𝐸𝐶𝑂2,𝑐𝑎𝑝,𝑦
+𝐵𝐸𝐴𝐶𝑈,𝑦−𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦+ 𝐵𝐸𝐶𝑂2,𝑐𝑎𝑝,𝑦+ 𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦
+)
+× (𝑃𝐸𝑒𝑙𝑒𝑐,𝑦+ 𝑃𝐸𝑓𝑓𝑐,𝑦+ 𝑃𝐸𝐶𝑂2,𝑦+ 𝑃𝐸𝐶𝑂2,𝑖𝑛𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒,𝑦)  
+(14) 
+Where: 
+ERy 
+  
+= Net GHG emissions reductions in year y (tCO2e) 
+ 
+VM0043, v1.1  
+ 
+21 
+BEACU,y  
+ = Emissions from the production of Portland cement that would have been 
+used in the absence of the project activity (avoided cement usage) (tCO2e) in 
+year y 
+BECO2,cap,y   
+= Baseline emissions from the capture of CO2 (tCO2e) in year y 
+CRCO2,cap,y   
+= Carbon dioxide removals from the capture of CO2 (tCO2e) in year y 
+PEcement,y  
+= Emissions from the production of cement used at the project facility in 
+year y (tCO2e) 
+PEelec,y 
+= Emissions from the incremental use of electricity by the CO2 injection 
+equipment at the project facility in year y (tCO2e) 
+PEffc,y 
+= Emissions from the incremental combustion of fossil fuels by the CO2 
+injection and any other related equipment at the project facility in year y 
+(tCO2e) 
+PECO2,y 
+= Emissions associated with the capture, compression and transport of CO2 
+to the location where it will be sequestered in concrete in year y (tCO2e) 
+PECO2,ineligible,y 
+=Amount of CO2 non-mineralized that comes from a non-eligible source of 
+CO2 or when CO2 source is unknown in year y (tCO2e) 
+ 
+Net carbon dioxide removals are calculated as follows: 
+𝐶𝑅𝑦= 𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦
+−(
+𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦
+𝐵𝐸𝐴𝐶𝑈,𝑦−𝑃𝐸𝑐𝑒𝑚𝑒𝑛𝑡,𝑦+ 𝐵𝐸𝐶𝑂2,𝑐𝑎𝑝,𝑦+ 𝐶𝑅𝐶𝑂2,𝑐𝑎𝑝,𝑦
+)
+× (𝑃𝐸𝑒𝑙𝑒𝑐,𝑦+ 𝑃𝐸𝑓𝑓𝑐,𝑦+ 𝑃𝐸𝐶𝑂2,𝑦+ 𝑃𝐸𝐶𝑂2,𝑖𝑛𝑒𝑙𝑖𝑔𝑖𝑏𝑙𝑒,𝑦) 
+(15) 
+ 
+Where: 
+CRy 
+= Net carbon dioxide removals in year y (tCO2e) 
+CRCO2,cap,y   
+= Carbon dioxide removals from the capture of CO2 (tCO2e) in year y 
+BEACU,y 
+= Emissions from the production of Portland cement that would have been 
+used in the absence of the project activity (avoided cement usage) (tCO2e) 
+in year y 
+BECO2,cap,y   
+= Baseline emissions from the capture of CO2 (tCO2e) in year y 
+PEcement,y  
+= Emissions from the production of cement used at the project facility in 
+year y (tCO2e) 
+PEelec,y 
+= Emissions from the incremental use of electricity by the CO2 injection 
+equipment at the project facility in year y (tCO2e) 
+PEffc,y 
+= Emissions from the incremental combustion of fossil fuels by the CO2 
+injection and any other related equipment at the project facility in year y 
+(tCO2e) 
+PECO2,y 
+= Emissions associated with the capture, compression and transport of CO2 
+to the location where it will be sequestered in concrete in year y (tCO2e) 
+ 
+VM0043, v1.1  
+ 
+22 
+PECO2,ineligible,y 
+=Amount of CO2 non-mineralized that comes from a non-eligible source of 
+CO2 or when CO2 source is unknown in year y (tCO2e)

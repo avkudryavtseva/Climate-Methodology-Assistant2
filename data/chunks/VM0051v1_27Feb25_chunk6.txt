@@ -1,0 +1,203 @@
+6 BASELINE SCENARIO 
+This methodology considers multiple baseline scenarios, all of which are founded on an 
+assessment of pre-project rice management practices, in particular on-season water regime 
+management. For each project field, the baseline scenario is derived from practices 
+implemented in the (minimum three-year) historical look-back period, creating an annual 
+schedule of activities to be repeated throughout the baseline scenario and used to estimate 
+baseline emissions and net project emission reductions during each monitoring period. 
+Baseline emissions are modeled (QA1), directly measured for soil methanogenesis only (QA2), 
+and/or estimated using default emission factors (QA3).  
+The practices assumed in the baseline scenario must be reassessed at the end of a project 
+crediting period (i.e., when applying for project crediting period renewal) to ensure that they 
+reflect the current rice production system in the region.  
+Development of Schedule of Activities in the Baseline Scenario  
+For each project field, a schedule of activities in the baseline scenario is determined by 
+assessment of historical practices implemented during the period prior to the project start date. 
+The interval over which practices are assessed, x years, must be a minimum of three years and 
+must include at least one complete crop rotation, where applicable. Where a crop rotation is not 
+implemented in the baseline, x ≥ 3 years. To develop the schedule of activities, project 
+proponents must refer to Table 3 to collect data on all cropping management-related 
+parameters (as defined in the “ALM practices” column) for each project field and for each year 
+from t = −1 to t = −x (i.e., years preceding project start) of the historical look-back period. In 
+addition, project proponents must collect data on machinery operations and liming applications 
+(i.e., type, rates, and timing). In most cases, quantitative information is associated with related 
+qualitative information (see Box 1 for guidance on and a hierarchy of data sources). Thus, a 
+negative response to a qualitative element would mean there is no quantitative information 
+related to that practice, whereas a positive response to a qualitative element requires 
+quantitative information related to that practice.  
+The schedule of activities, beginning with year t = −x, is applied in the baseline scenario from 
+t = 1 onward, repeating every x years through the end of the first baseline period. At the end of 
+each baseline period, production of the commercial crop (i.e., rice) in the baseline scenario is 
+re-evaluated. Published regional (sub-national) agricultural production data from within the five 
+years immediately preceding the end of the current baseline period must be consulted. The 
+schedule of activities in the baseline scenario is valid until re-assessment is required. 
+ 
+VM0051, v1.0 
+ 
+ 
+13
+Table 3. Minimum specifications for the identification of agricultural land management 
+(ALM) practices in rice production systems in the baseline scenario 
+ALM practices 
+Qualitative 
+Quantitative 
+Water regime (pre- 
+and on-season) 
+• Irrigation (Y/N) 
+• Flooding on-season 
+(Continuous/Single/Multiple) 
+• Flooding pre-season 
+(Flooded/Short- or Long-drainage) 
+• Irrigation rate/volume 
+• Flooding duration (days) 
+• Water level (below surface) 
+Crop planting and 
+harvesting 
+• Crop type(s) 
+• Rice variety 
+• Rice seeding practice 
+(DSR/Transplanting) 
+• Approximate date(s) of seeding 
+• Approximate date(s) 
+harvested/terminated 
+• Crop yield 
+Tillage and/or residue 
+management 
+• Tillage (Y/N) 
+• Crop residue removal (Y/N) 
+• Crop residue incorporation (Y/N) 
+• Burning crop residue (Y/N) 
+• Usage of non-burned crop residue 
+(final end-use type) 
+• Tillage depth (where applicable) 
+• Tillage frequency (where applicable) 
+• Tillage area (where applicable) 
+• Crop residue rate left in situ (where 
+applicable) 
+• Crop residue incorporation timing 
+(where applicable) 
+• Burned area (where applicable) 
+Nitrogen fertilizer 
+application 
+• Organic amendment (Y/N) 
+• Organic amendment type(s) 
+• Synthetic N fertilizer (Y/N) 
+• Synthetic N fertilizer type(s) 
+• Organic amendment type 
+application rate (where applicable) 
+• Synthetic fertilizer type application 
+rate (where applicable) 
+Other amendments 
+• Biochar (Y/N) 
+• Methanotrophs (Y/N) 
+• Biochar application rate (where 
+applicable) 
+• Methanotroph application rate 
+(where applicable) 
+Liming 
+• Application of calcitic limestone or 
+dolomite (Y/N) 
+• Calcitic limestone or dolomite 
+application (where applicable) 
+• Approximate date(s) of calcitic 
+limestone or dolomite application 
+(where applicable) 
+Machinery and 
+equipment operations 
+• Fossil fuel usage (Y/N) 
+• Fossil fuel type(s) 
+• Fossil fuel type rate (where 
+applicable) 
+*Y/N: Yes/No 
+ 
+VM0051, v1.0 
+ 
+ 
+14 
+This may result in a baseline scenario of a continuously flooded on-season water regime (with 
+associated management practices, e.g., N fertilizer management and organic amendment 
+applications) and the length of flooding conditions pre-season, since this methodology targets 
+the transition from continuous flooding to single drainage, and/or the shortened period of 
+flooding conditions pre-season, AWD, and/or DSR to reduce CH4 emissions from soil 
+methanogenesis. However, where the on-season water regime includes single drainage during 
+the historical look-back period, project proponents must conservatively set single-season 
+drainage as the on-season water regime for the entirety of the baseline scenario for those 
+project fields (i.e., even where there is just one year of single-season drainage during the 
+minimum three-year historical look-back period, the schedule of activities for on-season water 
+regime must include annual single-season drainage). This represents an alternative baseline 
+scenario and is a more conservative approach to baseline setting because it requires projects 
+to assume that single-season drainage (which has lower CH4 emissions than continuous 
+flooding) would have happened every year of the baseline scenario. Further, in fields where the 
+alternative baseline scenario is used, projects must implement the shortened period of flooding 
+conditions prior to the start of the cultivation period, multiple drainage events, and/or DSR.6  
+Last, in circumstances where actual weather conditions during the monitoring period result in a 
+cultivation period with a longer duration than the baseline scenario cultivation period (as 
+derived from the schedule of activities), project proponents may set the baseline scenario 
+cultivation period equal to the project scenario cultivation period for affected fields during the 
+same season of the monitoring period. To qualify for this exception, project proponents must 
+demonstrate that the duration of the project scenario cultivation period (from pre-planting to 
+harvesting) is commensurate with non-project fields by using data from reference fields in the 
+same region as the project area7 or providing other evidence following the data sourcing 
+hierarchy in Box 1.   
+Box 1. Sources of qualitative and quantitative data  
+Sources of information for all activity/management-related variables and all parameters 
+relevant to the baseline must follow the requirements detailed below. 
+All qualitative information on ALM practices must be determined via consultation with the 
+farmer or landowner. Where the farmer or landowner is not able to provide qualitative 
+information (e.g., a field is newly leased), the project proponent must follow the quantitative 
+information hierarchy outlined below.  
+ 
+6 This ensures that greater CH4 reductions are achieved than would have occurred where implementing solely single-
+season drainage in the project scenario.  
+7 This ensures that baseline conditions are dynamic and project proponents are not unduly penalized for changes in 
+weather conditions that are outside of their control.  
+ 
+VM0051, v1.0 
+ 
+ 
+15
+The following list specifies the allowable sources of quantitative information on ALM 
+practices in descending order of preference, as available:  
+1) Historical management records supported by one or more forms of documented 
+evidence pertaining to the selected field and period t = −1 to t = −x (e.g., 
+management logs, receipts or invoices, farm equipment specifications, logs or files 
+containing machine and/or sensor data) or remote sensing (e.g., satellite imagery, 
+manned aerial vehicle footage, drone imagery), where requisite information on ALM 
+practices can be reliably determined with these methods (e.g., irrigation patterns 
+before and during the cultivation period, type and amount of synthetic N fertilizers 
+and organic amendments, and the duration of the cultivation period) 
+2) Historical management plans supported by one or more forms of documented 
+evidence pertaining to the selected field and period t = −1 to t = −x (e.g., 
+management plan, recommendations in writing solicited by the farmer or landowner 
+from an agronomist). Where more than one value is documented in historical 
+management plans (e.g., where a range of application rates are prescribed in written 
+recommendations), the principle of conservativeness must be applied and the value 
+that results in the lowest expected emissions in the baseline scenario must be 
+selected.  
+3) A signed attestation from the farmer or landowner where the attested value does not 
+deviate significantly from other evidence-supported values for similar fields (e.g., 
+fertilizer data from adjacent fields with the same crop, adjacent years of the same 
+field, government data on application rates in that area, or statement from a local 
+extension agent regarding local application rates). Digital technologies may be used 
+to generate farmer attestations. For example, where an application is used to 
+present information to a farmer and to digitally record their acceptance of the 
+information as accurately reflecting their cultivation practices, such a digital record is 
+considered a farmer attestation. The validation/verification body (VVB) must 
+determine whether the data are sufficient. In circumstances where this requirement 
+is not met, the source listed in 4) below must be used.  
+4) Regional (sub-national) average values derived from agricultural census data or 
+other sources from within the 20-year period preceding the project start date or the 
+10 most recent iterations of the dataset, whichever is more recent. Where estimates 
+have been disaggregated by ownership classes, those should be used. The estimates 
+must be substantiated with a signed attestation from the farmer or landowner of the 
+field during that period. Examples include the US Department of Agriculture (USDA) 
+National Agricultural Statistics Service Quick Stats database and USDA Agricultural 
+Resource Management Survey. 
+This hierarchy applies to any quantitative inputs required by the model (QA1), direct 
+measurements (QA2), and default factors (QA3). The principle of conservativeness must be 
+applied in all cases. 
+ 
+VM0051, v1.0 
+ 
+ 
+16

@@ -1,0 +1,35 @@
+4 APPLICABILITY CONDITIONS 
+This methodology applies to all improved forest management activities, including activities 
+representing discrete interventions and activities representing changes in management regime 
+realized over long time horizons. 
+The methodology is applicable under the following conditions: 
+1) The project area qualifies as forests remaining as forests, and the project activity 
+involves an intervention expected to achieve improved net carbon emission outcomes 
+relative to business-as-usual practices.2 
+2) The project is located in a national or sub-national jurisdiction for which approved data 
+sources and matching covariates, and procedures in which they occur, are specified in 
+an appendix to this methodology. 
+This methodology is not applicable under the following conditions: 
+3) The project activity involves reducing the frequency and/or intensity of timber harvest 
+and the project area is subject to any pre-existing legal encumbrance specifically 
+restricting timber harvest. 
+4) The project activity involves a change in hydrology and/or soil disturbance exceeding 
+10% of the project area. Note that the absence of changes in hydrology and soil 
+disturbance exceeding 10% of the project area, resulting from the project activity, must 
+be verified on an ongoing basis 
+5) This methodology is not applicable to Wetland Restoration and Conservation (WRC) 
+activities. 
+6) The project activity involves any deliberate reduction in lying dead wood stocks that is 
+expected to exceed 5% of net GHG emission reductions3 
+ 
+ 
+2 Including but not limited to extended rotations/cutting cycles, designating reserves, fuel load treatments to mitigate 
+fire risk, enrichment planting, release of natural regeneration via management of competing vegetation, stand irrigation, 
+and/or fertilization. 
+3 As determined by applying Appendix 2 of this methodology.  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+8

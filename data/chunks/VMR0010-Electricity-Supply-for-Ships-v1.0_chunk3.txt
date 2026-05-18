@@ -1,0 +1,15 @@
+1 SOURCES 
+This methodology revision applies to CDM methodology AMS-III.BP Emission Reduction by 
+Shore-Side Electricity Supply System. Project proponents must use this methodology revision in 
+conjunction with the latest version of AMS-III.BP. 
+This methodology uses the following sources:  
+• 
+TOOL03 Tool to calculate project or leakage CO2 emissions from fossil fuel combustion 
+• 
+TOOL05 Baseline, project and/or leakage emissions from electricity consumption and 
+monitoring of electricity generation 
+• 
+TOOL09 Determining the baseline efficiency of thermal or electric energy generation 
+systems 
+• 
+AMS-I.F. Renewable electricity generation for captive use and mini-grid

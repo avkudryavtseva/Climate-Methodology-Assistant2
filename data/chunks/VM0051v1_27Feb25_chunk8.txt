@@ -1,0 +1,1337 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS  
+8.1 
+ Summary 
+This methodology provides three approaches to quantify GHG emission reductions from the 
+sources included in the project boundary (Table 2) due to the adoption of improved 
+management practices in rice production. The project proponent must demonstrate that 
+implementing a proposed practice improves the pre-existing practice within the rice production 
+system in the project region. 
+Baseline and project emissions are defined in terms of flux of CH4, N2O, and CO2 in tonnes of 
+carbon dioxide equivalent (t CO2e) per unit area per monitoring period. Within each 
+quantification unit, emission changes in each included source are treated on a per unit basis in 
+accounting procedures. Section 8.5 provides equations using total emission changes in the 
+project to quantify net reductions. Where a verification period spans multiple calendar years, 
+the equations quantify reductions by year to appropriately define vintage periods.  
+The entire project area is divided into multiple quantification units that must be more 
+homogeneous than the project area in its entirety for the purpose of estimating emission 
+reductions (e.g., similar management activities and biophysical conditions; see  for further 
+details on defining the cultivation pattern and stratifying the project area). 
+The allowable approaches for quantifying CH4, N2O, and CO2 emissions by GHG source are 
+listed in Table 4. A project may employ multiple quantification approaches provided that the 
+same approach is used for both the project and baseline scenarios for the given GHG source 
+within the given monitoring period.  
+ 
+VM0051, v1.0 
+ 
+ 
+19
+Table 4. Summary of quantification approaches 
+GHG 
+Source 
+Quantification 
+Approach 1: 
+Modeling 
+Quantification 
+Approach 2: 
+Direct 
+Measurement 
+Quantification 
+Approach 3: 
+Default Emission 
+Factors 
+CH4 
+Soil methanogenesis 
+X 
+X 
+X 
+CH4, 
+N2O 
+Biomass burning 
+ 
+ 
+X 
+N2O 
+Use of nitrogen 
+fertilizers, including 
+nitrogen from rice straw 
+(crop residue) 
+X 
+ 
+X 
+CO2 
+Fossil fuels 
+ 
+ 
+X 
+CO2 
+Liming 
+ 
+ 
+X 
+CO2 
+SOC* 
+X* 
+ 
+ 
+*This methodology does not credit removals (i.e., SOC stock increase). However, where Quantification 
+Approach 1 is used, the SOC pool must be modeled. 
+Three quantification approaches are available under this methodology, described below. 
+Quantification Approach 1 (QA1): Modeling of Soil Methanogenesis and Nitrous Oxide Fluxes 
+An acceptable model is used to estimate GHG flux following the requirements and procedures 
+in VM0042 and VMD0053. The requirements for demonstrating the selection of an acceptable 
+model are detailed in Section 2.5.1 of the VCS Methodology Requirements, v4.4. It must be 
+demonstrated that the model domain sufficiently covers any potential flux changes in CH4 (soil 
+methanogenesis) and N2O (if modeled) associated with the implementation of project activities, 
+including changes in the water regime, cultivation period (duration), fertilization practices, and 
+changes in rice varieties.  
+Neither initial nor periodic measurements of CH4 and N2O fluxes are required as part of project 
+monitoring. High-quality observed experimental data on soil CH4 and N2O emissions from 
+controlled research trials or approved data sources as described in VMD0053 are required for 
+model calibration (see Section 5.1 of VMD0053, v2.0) and validation (see Section 5.2.3 of 
+VMD0053, v2.0). Measured datasets must be drawn from peer-reviewed and published 
+experimental datasets with measurements of N2O and CH4 fluxes, ideally using control plots to 
+test the impact of practice change on GHG fluxes. Datasets may also be drawn from a 
+benchmark database maintained by a third party or from measurements made within the 
+project boundary, where approved by the independent modeling expert (see Appendix 1 of 
+VMD0053, v2.0). 
+Other GHG fluxes not covered by the model domain (such as CO2 due to liming, CO2 from fossil 
+fuel usage, and avoided biomass burning) must be accounted for using the default emission 
+factor approach (QA3). 
+ 
+VM0051, v1.0 
+ 
+ 
+20 
+Quantification Approach 2 (QA2): Direct Measurement of Soil Methanogenesis 
+Direct flux chamber measurements are used to quantify flux in CH4 emissions from soil 
+methanogenesis. This approach is relevant where models are unavailable or have not yet been 
+validated or parameterized, or where project proponents prefer to use a direct measurement 
+approach for CH4 emissions.  
+QA2 must be used where the project is implementing any of the following: 
+1) Use of methanotrophs 
+2) Application of biochar 
+3) Planting low-emission rice varieties 
+4) AWD to a depth of less than 10 cm below the soil level, as recommended by a project 
+expert 
+QA2 requires establishing baseline control sites which are linked to one or more quantification 
+units to directly measure and remeasure CH4 emissions in the baseline scenario and project 
+activity. The guidance for directly measuring CH4 using flux chambers is outlined in Appendix 2. 
+All other GHG fluxes (e.g., N2O from fertilizers, CO2 from liming, CO2 from energy usage, and 
+combustion emissions related to avoided biomass burning) must be accounted for and 
+quantified by using either QA1 or QA3.  
+Quantification Approach 3 (QA3): Default Emission Factors (Global/Regional/Country-Specific) 
+Baseline and project emissions are calculated for quantification units using applicable default 
+emission factors. Flux in CH4 from biomass burning and CO2 from both fossil fuel usage and 
+liming is calculated using emission factors and guidance in the 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories with specific equations and additional 
+guidance contained in this methodology. Flux in CH4 from soils and in N2O from nitrogen 
+fertilizers or rice straw management may optionally also follow this approach. However, where 
+default emission factors are not available for these sources, one of the other quantification 
+approaches must be used. For N2O emissions, emission factors for nitrification inhibitors and 
+enhanced efficiency fertilizers may be derived from the literature. The most accurate and 
+geographically specific emission factor applicable to the project must be used from the 
+following (listed in descending order of preference): 
+1) Where available, a project-specific emission factor from a peer-reviewed scientific 
+publication12 must be used. 
+2) Where there is no relevant peer-reviewed scientific literature, the project proponent may 
+propose alternative sources of information (e.g., government databases, industry 
+publications) to establish the default factor(s) and must provide evidence that the 
+ 
+12 As stated in Section 2.5 of the VCS Methodology Requirements, v4.4, peer-reviewed scientific literature used to 
+derive (default) emission factors must be published in a journal indexed in the Web of Science: Science Citation Index. 
+ 
+VM0051, v1.0 
+ 
+ 
+21
+alternative source of information is robust and credible (e.g., independent expert 
+attestation). This approach must not be used for CH4 and N2O from soils. 
+3) Where no alternative information source is available that is applicable to the project 
+conditions, projects may derive emission factors using peer-reviewed scientific 
+literature following the guidance to derive Tier 2 emission factors in the respective 
+sections of the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories.  
+4) Where projects have an emission capacity limit13 equal to or less than 60 000 t CO2e 
+per year, simplified (e.g., global or regional) Tier 1 emission factors for CH4 emission 
+from soils from the 2019 Refinement to the 2006 IPCC Guidelines for National 
+Greenhouse Gas Inventories may be used. All other projects must use country-specific 
+emission factors for CH4 from soils. 
+ 
+ 
+ 
+13 See Section 3.6.9 of VCS Standard, v4.7. 
+ 
+VM0051, v1.0 
+ 
+ 
+22 
+Figure 1. Equation map of this methodology 
+ 
+ 
+ 
+ 
+VM0051, v1.0 
+ 
+ 
+23 
+8.2 
+Baseline Emissions 
+Baseline quantification must be undertaken following the guidance below and in Sections 
+8.2.1–8.2.7.  
+Quantification Approach 1 (QA1): Modeling  
+The baseline emissions are modeled for each quantification unit. The model serves to project 
+future emissions resulting from the schedule of activities in the baseline scenario (derived in 
+Section 6 and Appendix 1). Under QA1, direct measurements of SOC stocks are required as 
+model inputs for model initialization and, at minimum, at every project crediting renewal 
+period.14 Where the project involves the introduction of a new cultivar with a materially different 
+root biomass from the cultivar(s) used in the baseline, the project proponent must demonstrate 
+that the model domain sufficiently covers such changes. Further guidance on the use of 
+biophysical model inputs is given in Section 8.1 and in VM0042 and VMD0053.  
+Quantification Approach 2 (QA2): Direct Measurement  
+Under this approach, project proponents must perform direct field chamber measurements of 
+CH4 fluxes during every cultivation period at baseline control sites and linked quantification 
+units (i.e., at the sample unit). One baseline control site may be linked to more than one 
+quantification unit provided the control site meets the similarity criteria for each quantification 
+unit to which it is linked. Projects must use QA2 for all fields where biochar, methanotrophs, or 
+low-emission rice varieties are being implemented.   
+Quantification Approach 3 (QA3): Default Emission Factors (Global/Regional/Country-Specific) 
+Baseline scenario emissions are calculated using the equations provided based on practices 
+established in the schedule of activities (derived in Section 6). These emissions are estimated 
+using default emission factors and data are determined for each field at validation.  
+8.2.1 Carbon Dioxide Emissions from Fossil Fuel Combustion 
+Where CO2 emissions from fossil fuel are included in the project boundary per Table 2, they are 
+quantified in the baseline scenario under Quantification Approach 3, using Equations (1) and 
+(2). 
+𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡= (∑𝐸𝐹𝐹𝑏𝑠𝑙,𝑖,𝑗,𝑡
+𝐽
+𝑗=1
+)/𝐴𝑖 
+(1) 
+ 
+14 Initial measurements of SOC may be conducted at t = 0 or (back-) modeled to t = 0 from measurements collected 
+within ±5 years of t = 0. This time frame (5 years) should be shortened where possible. For projects with more than one 
+project crediting period (i.e., more than a 10-year cycle), SOC measurements must be taken for each renewal period. For 
+further guidance on SOC measurement procedures refer to Section 8.2.1 of VM0042, v2.1 or equivalent section in the 
+most recent version. 
+ 
+VM0051, v1.0 
+ 
+ 
+24 
+Where: 
+𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean carbon dioxide emissions from fossil fuel combustion for 
+quantification unit i in year t in the baseline scenario (t CO2e/ha) 
+EFFbsl,i,j,t 
+= Carbon dioxide emissions from combustion of fossil fuel type j for 
+quantification unit i in year t in the baseline scenario (t CO2e) 
+Ai 
+= Area of quantification unit i (ha) 
+j 
+= Type of fossil fuel (gasoline, diesel, or other) 
+ 
+𝐸𝐹𝐹𝑏𝑠𝑙,𝑖,𝑗,𝑡= 𝐹𝐹𝐶𝑏𝑠𝑙,𝑖,𝑗,𝑡× 𝐸𝐹𝐶𝑂2,𝑗 
+(2) 
+Where: 
+FFCbsl,i,j,t 
+= Consumption of fossil fuel type j for quantification unit i in year t in the 
+baseline scenario (L) 
+EFCO2,j 
+= Emission factor for combustion of fossil fuel type j (t CO2e/L) 
+8.2.2 Carbon Dioxide Emissions from Liming 
+Application of calcitic limestone (CaCO3) or dolomite (CaMg(CO3)2) releases bicarbonate 
+(HCO3−), which evolves into CO2 and water (H2O) as carbonate limes dissolve. Where one of the 
+rice production practices is liming and resulting CO2 emissions are not deemed de minimis, 
+emissions are quantified in the baseline scenario using Quantification Approach 3 and 
+Equations (3) and (4) or Quantification Approach 1 where the chosen model includes 
+estimations of CO2 emissions from liming. 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡= 𝐸𝐿𝑏𝑠𝑙,𝑖,𝑡 /𝐴𝑖 
+(3) 
+Where: 
+𝐶𝑂2_𝑙𝑖𝑚𝑒𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean carbon dioxide emissions from liming for quantification unit i 
+in year t in the baseline scenario (t CO2e/ha) 
+ELbsl,i,t 
+= Carbon dioxide emissions from liming for quantification unit i in year t in 
+the baseline scenario (t CO2e) 
+ 
+𝐸𝐿𝑏𝑠𝑙,𝑖,𝑡= ((𝑀𝑙𝑖𝑚𝑒𝑠𝑡𝑜𝑛𝑒,𝑏𝑠𝑙,𝑖,𝑡 × 𝐸𝐹𝑙𝑖𝑚𝑒𝑠𝑡𝑜𝑛𝑒) + (𝑀𝑑𝑜𝑙𝑜𝑚𝑖𝑡𝑒,𝑏𝑠𝑙,𝑖,𝑡 × 𝐸𝐹𝑑𝑜𝑙𝑜𝑚𝑖𝑡𝑒)) × 44
+12   
+(4) 
+ 
+VM0051, v1.0 
+ 
+ 
+25 
+Where: 
+Mlimestone,bsl,i,t 
+= Amount of calcitic limestone (CaCO3) applied to quantification unit i in 
+year t in the baseline scenario (t) 
+EFlimestone 
+= Emission factor for calcitic limestone (0.12) (t C/t limestone) 
+Mdolomite,bsl,i,t 
+= Amount of dolomite (CaMg(CO3)2) applied to quantification unit i in 
+year t in the baseline scenario (t) 
+EFdolomite 
+= Emission factor for dolomite (0.13) (t C/t dolomite) 
+44/12   
+= Molar mass ratio of carbon dioxide to carbon (dimensionless) 
+8.2.3 Methane Emissions from Soil Methanogenesis 
+All project proponents must quantify methane emissions from soil methanogenesis in the 
+baseline scenario, and may select from Quantification Approaches 1, 2, or 3. Where projects 
+with a capacity limit of 60 000 t CO2e per year use QA3, IPCC Tier 1 global or regional emission 
+factors may be applied. All other projects must use country-specific emission factors when 
+using QA3.  
+Quantification Approach 1: Modeling  
+Methane emissions are calculated in the baseline scenario using Equation (5):  
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐺𝑊𝑃CH4 × ʄ(𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡)  
+(5) 
+Where: 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean methane emissions from soil methanogenesis for 
+quantification unit i in year t in the baseline scenario (t CO2e/ha) 
+GWPCH4 
+= Global warming potential for methane (t CO2e/t CH4) 
+ƒ(CH4_soilbsl,i,t) 
+= Modeled methane emissions from soil methanogenesis for 
+quantification unit i in year t in the baseline scenario, calculated by 
+modeling soil methane fluxes over the preceding year (t CH4/ha) 
+Quantification Approach 2: Direct Measurement  
+For projects using Quantification Approach 2, the values in Equation (5) for ƒ(CH4_soilbsl,i,t) 
+must be set using the detailed guidance in Section 8.2.4. 
+Quantification Approach 3: Default Factors (Global/Regional/Country-Specific) 
+For projects using Quantification Approach 3, the values in Equation (5) for ƒ(CH4_soilbsl,i,t) 
+must be calculated using Equations (6)–(8). 
+Where root biomass changes significantly relative to baseline conditions, the project proponent 
+must account for the changes in biomass to soil using Equation (7), unless such change in the 
+root biomass is deemed de minimis.  
+ 
+VM0051, v1.0 
+ 
+ 
+26 
+𝐸𝐹𝑏𝑠𝑙,𝑖,𝑡 =  𝐸𝐹𝑏𝑠𝑙,𝑐  × 𝑆𝐶𝑏𝑠𝑙,𝑤× 𝑆𝐶𝑏𝑠𝑙,𝑝  × 𝑆𝐶𝑏𝑠𝑙,𝑜  
+(6) 
+Where: 
+EFbsl,i,t 
+= 
+Adjusted baseline methane emission factor for continuously flooded 
+fields without organic amendments for quantification unit i in year t 
+(kg CH4/ha/day) 
+EFbsl,c 
+= 
+Baseline methane emission factor for continuously flooded fields without 
+organic amendments (kg CH4/ha/day)15 
+SCbsl,w 
+= 
+Baseline scaling factor to account for differences in water regime during 
+the cultivation period; scaling factors must be sourced from Table 5.12 
+(Updated) in Chapter 5, Volume 4 of the 2019 Refinement to the 2006 
+IPCC Guidelines for National Greenhouse Gas Inventories (unitless) 
+SCbsl,p 
+= 
+Baseline scaling factor to account for differences in water regime in the 
+pre-season before the cultivation period; scaling factors must be 
+sourced from Table 5.13 (Updated) in Chapter 5, Volume 4 of the 2019 
+Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories (unitless) 
+SCbsl,o 
+= 
+Baseline scaling factor to account for organic amendments, set using 
+Equation (7) (unitless) 
+ 
+𝑆𝐶𝑏𝑠𝑙,𝑜 = (1  + ∑𝑅𝑂𝐴𝑎× 𝐶𝐹𝑂𝐴𝑎
+𝑎
+)
+0.59
+  
+(7) 
+Where: 
+ROAa 
+= Application rate of organic amendment type a, in dry weight for straw 
+and fresh weight for others (t/ha)16 
+CFOAa 
+= Conversion factor for organic amendment type a; must be sourced 
+from Table 5.14 (Updated) in Chapter 5, Volume 4 of the 2019 
+Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories (unitless) 
+ 
+15 Projects with dynamic baseline activities must use the most conservative baseline assumption from a three-year 
+historical look-back period, following the guidance in Section 6, above Table 4. This may mean that a project must set 
+EFbsl,c using the emission factor for single drainage.   
+16 For the baseline, 5 t/ha of straw is assumed. This should be adjusted where material changes to biomass 
+management occur in the project, such as increased biomass to soils. 
+ 
+VM0051, v1.0 
+ 
+ 
+27 
+Methane emissions are calculated in the baseline scenario using Equation (8): 
+𝐵𝐸𝐶𝐻4,𝑖,𝑡= 𝐸𝐹𝑏𝑠𝑙,𝑖,𝑡× 𝐿𝑡× 10−3 × 𝐺𝑊𝑃𝐶𝐻4  
+(8) 
+Where: 
+BECH4,i,t 
+= Baseline emissions of methane from soils for quantification unit i in 
+year t (t CO2e/ha) 
+Lt 
+= Cultivation period of rice in year t (days)17 
+8.2.4 Direct Measurement of Methane Emissions 
+Where project proponents adopt Quantification Approach 2, direct measurements of methane 
+emissions are made using chamber measurements following the requirements and guidance in 
+this section and in Appendix 2.  
+The following guidance is structured according to the procedures for field measurement (see 
+Appendix 2) to derive emission factors for each cultivation period specific to the project. Project 
+proponents must make sure that the flux calculations are developed and supervised by experts 
+in this domain or at least experienced staff trained by experts (e.g., from research institutions, 
+governmental agricultural bodies). For each measurement event, the average hourly CH4 fluxes 
+in a sample unit are calculated using Equations (9)–(12): 
+𝑚𝐶𝐻4,𝑝𝑡= 𝐶𝑜𝑛𝑐𝐶𝐻4,𝑝𝑡× 𝑉𝑜𝑙𝑐ℎ× 𝑀𝐶𝐻4 ×
+1 𝑎𝑡𝑚
+𝑅× 𝑇𝑝𝑡× 1000 
+(9) 
+Where: 
+mCH4,pt 
+= 
+Mass of methane in chamber at time pt (mg) 
+pt 
+= 
+Point of time at which sample is taken (e.g., 0, 15, 30 in case of three 
+samples within 30 minutes) 
+ConcCH4,pt 
+= 
+Methane concentration in chamber at time pt (ppm) 
+Volch 
+= 
+Volume of chamber ch (L) 
+MCH4 
+= 
+Molar mass of methane (16) (g/mol) 
+1 atm 
+= 
+Assume constant pressure of 1 atm, unless pressure measurement 
+equipment is installed 
+R 
+= 
+Universal gas constant (0.08206) (L atm/K/mol) 
+Tpt 
+= 
+Temperature at time pt (K) 
+ 
+17 Each cultivation period commences at land preparation and continues until whichever comes later, harvest or post-
+season drainage.  
+ 
+VM0051, v1.0 
+ 
+ 
+28 
+Determine the slope of the line of best fit for describing the relationship between mCH4,pt and pt 
+using Equation (10). 
+𝑠𝑙= ∆𝑚𝐶𝐻4,𝑝𝑡
+∆𝑝𝑡
+ 
+(10) 
+Where: 
+sl 
+= Slope of line of best fit (mg/min) 
+The hourly flux must be calculated for each chamber measurement in a sample unit:18 
+𝐹𝑐ℎ= 𝑠𝑙× 60𝑚𝑖𝑛
+𝐴𝑐ℎ
+ 
+(11) 
+Where: 
+Fch 
+= Flux of chamber ch (mg/m2/h) 
+ch 
+= Index for replicate chamber on a sample unit  
+Ach 
+= Basal area of chamber ch (m2) 
+Calculate the mean hourly flux in a sample unit: 
+𝐹𝑓= 
+∑
+𝐹𝑐ℎ
+𝑁𝑐ℎ
+𝑐ℎ=1
+𝑁𝑐ℎ
+ 
+(12) 
+Where: 
+Ff 
+= Mean flux for sample unit f (mg/m2/h) 
+Nch 
+= Number of replicate chambers per sample unit 
+Further Procedure for Calculation of Seasonally Integrated Emission Factor 
+Once an average emission rate has been calculated for each sample unit, a seasonally 
+integrated emission factor must be calculated by integration of the results of each 
+measurement event over the season length (i.e., cultivation period). The simplest way of 
+integration is multiplying the average emission rate for each sample unit by the number of 
+hours in the measurement interval (e.g., one week = 168 hours) and accumulating the results 
+of every measurement interval over the season. Convert from mg/m2 to t/ha by multiplying by 
+10−5. This procedure is outlined in Equations (13)–(15). 
+ 
+18 This methodology does not prescribe the ideal number of replicate chambers per sample unit. A project expert must 
+determine whether more than one replicate chamber per sample unit is required to minimize the measurement error. 
+ 
+VM0051, v1.0 
+ 
+ 
+29 
+Calculate the total emissions in one measurement interval z:  
+𝐸𝑓,𝑧= (𝐹𝑓,𝑧+ 𝐹𝑓,𝑧+1) ×  24ℎ × 𝐷𝑧
+2
+ 
+(13) 
+Where: 
+Ef,z 
+= Total emissions in sample unit f in interval z (mg/m2) 
+z 
+= Index for weekly measurement interval in season s 
+Fz 
+= Hourly flux at the start of interval z (mg/m2/h) 
+Fz+1 
+= Hourly flux rate at the end of interval z (mg/m2/h) 
+Dz 
+= Number of days in interval z (d) 
+ 
+Note – CH4 flux on planting day and on harvest day may be assumed to be zero where 
+measurement is not implemented on those days. 
+Calculate the emission factor in sample unit f in season s: 
+𝐸𝑓,𝑠= ∑
+𝐸𝑓,𝑧
+𝑁
+𝑧=1
+ 
+(14) 
+Where: 
+Ef,s 
+= 
+Total methane emissions in sample unit f in season s (mg/m2) 
+N 
+= 
+Number of measurement intervals z in season s 
+Calculate the emission factor for methane in quantification unit i in season s: 
+𝐸𝐹𝑏𝑠𝑙,𝑖,𝑠= 
+∑
+𝐸𝑓,𝑠× 10−5
+𝑁𝐹
+𝑓=1
+𝑁𝐹
+ 
+(15) 
+Where: 
+EFbsl,i,s 
+= 
+Emission factor of methane in quantification unit i in season s (t CH4/ha) 
+NF 
+= 
+Number of sample units f in quantification unit i 
+Methane emissions are calculated in the baseline scenario using Equation (16): 
+𝐵𝐸𝐶𝐻4,𝑖,𝑡= ∑𝐸𝐹𝑏𝑠𝑙,𝑖,𝑠
+𝑆
+𝑠
+× 𝐺𝑊𝑃𝐶𝐻4 
+(16) 
+Where: 
+BECH4,i,t 
+= Baseline emissions of methane from soils for quantification unit i 
+in year t (t CO2e/ha) 
+ 
+VM0051, v1.0 
+ 
+ 
+30 
+8.2.5 Methane Emissions from Biomass Burning 
+Where CH4 emissions from biomass burning are included in the project boundary per Table 2, 
+they are quantified in the baseline scenario under QA3 using Equation (17). 
+𝐶𝐻4 _𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡  = (𝐺𝑊𝑃𝐶𝐻4 ×  𝑀𝐵𝑏𝑠𝑙,𝑖,𝑡× 𝐶𝐹𝑟× 𝐸𝐹𝐶𝐻4
+106
+) /𝐴𝑖 
+(17) 
+Where: 
+𝐶𝐻4_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡  
+= Areal mean methane emissions from biomass burning for quantification 
+unit i in year t in the baseline scenario (t CO2e/ha) 
+GWPCH4 
+= Global warming potential for methane (t CO2e/t CH4) 
+MBbsl,i,t 
+= Mass of rice straw burned for quantification unit i in year t in the baseline 
+scenario (kg) 
+CFr 
+= Combustion factor for rice straw expressed as proportion of pre-fire fuel 
+biomass consumed (fraction) 
+EFCH4 
+= Methane emission factor for the burning of rice straw (g CH4/kg dry 
+matter burned) 
+106 
+= Conversion factor from grams to tonnes 
+8.2.6 Nitrous Oxide Emissions from Nitrogen Fertilizers  
+Where N2O emissions due to nitrogen inputs to soils from nitrogen fertilizers and rice straw are 
+included in the project boundary per Table 2, they are quantified in the baseline scenario using 
+the equations below. Nitrous oxide emissions due to nitrification/denitrification include N2O 
+emissions from nitrogen fertilizers and from nitrogen derived from rice straw.  
+Where using QA1 and the model domain covers N2O flux from both fertilizers and rice straw 
+incorporation, only Equation (18) should be used, applying model outputs. Where the model 
+domain does not include both of these sources, Equations (19)–(22) and default emission 
+factors for the given source must be used to generate inputs for Equation (18).  
+Quantification Approach 1 
+In Quantification Approach 1, N2O emissions due to nitrogen inputs to soils (nitrogen fertilizers) 
+in the baseline scenario are quantified as: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ = 𝐺𝑊𝑃𝑁2𝑂× ʄ (𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡) 
+(18) 
+Where: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= 
+Areal mean nitrous oxide emissions due to nitrogen inputs to soils for 
+quantification unit i in year t in the baseline scenario (t CO2e/ha) 
+GWPN2O 
+= 
+Global warming potential for nitrous oxide (t CO2e/t N2O) 
+ 
+VM0051, v1.0 
+ 
+ 
+31
+ƒ(N20_soilbsl,i,t) 
+= 
+Modeled nitrous oxide emissions from soil for quantification unit i in 
+year t in the baseline scenario, calculated by modeling soil fluxes of 
+nitrogen forms over the preceding year (t N2O/ha) 
+Quantification Approach 3 
+Where N2O emissions due to fertilizer use are included in the project boundary per Table 2, 
+they are quantified in the baseline scenario using Equations (19)–(22).  
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡= [(𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡+ 𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡+ 𝐹𝐶𝑅𝑏𝑠𝑙,𝑖,𝑡) × 𝐸𝐹𝑁] × 44
+28 × 𝐺𝑊𝑃𝑁2𝑂/𝐴𝑖 
+(19) 
+𝐹𝑆𝑁𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝑏𝑠𝑙,𝑆𝐹,𝑖,𝑡× 𝑁𝐶𝑆𝐹
+ 
+𝑆𝐹
+ 
+(20) 
+𝐹𝑂𝑁𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝑏𝑠𝑙,𝑂𝐹,𝑖,𝑡× 𝑁𝐶𝑂𝐹  
+ 
+𝑂𝐹
+ 
+(21) 
+𝐹𝐶𝑅𝑏𝑠𝑙,𝑖,𝑡= ∑𝑀𝑏𝑠𝑙,𝐶𝑅,𝑖,𝑡× 𝑁𝐶𝐶𝑅  
+ 
+𝐶𝑅
+ 
+(22) 
+Where: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean nitrous oxide emissions due to nitrogen inputs to soils 
+for quantification unit i in year t in the baseline scenario (t CO2e/ha) 
+FSNbsl,i,t 
+= Total nitrogen applied to quantification unit i in year t as synthetic 
+nitrogen fertilizer in the baseline scenario (t N) 
+FONbsl,i,t 
+= Total nitrogen applied to quantification unit i in year t as organic 
+nitrogen fertilizer in the baseline scenario (t N) 
+FCRbsl,i,t 
+= Total nitrogen applied to quantification unit i in year t as crop residue 
+(aboveground and belowground) nitrogen fertilizer in the baseline 
+scenario (t N)19 
+EFN 
+= Emission factor for nitrous oxide emissions from nitrogen additions 
+from synthetic fertilizers, organic amendments, and crop residues in 
+flooded rice (t N2O-N/t N applied) 
+Mbsl,SF,i,t 
+= Mass of nitrogen-containing synthetic fertilizer type SF applied to 
+quantification unit i in year t in the baseline scenario (t) 
+NCSF 
+= Nitrogen content of synthetic fertilizer type SF (t N/t fertilizer) 
+ 
+19 This must include nitrogen from any crop residues left in the field over the off-season period. 
+ 
+VM0051, v1.0 
+ 
+ 
+32 
+Mbsl,OF,i,t 
+= Mass of nitrogen-containing organic fertilizer type OF applied to 
+quantification unit i in year t in the baseline scenario (t) 
+NCOF 
+= Nitrogen content of organic fertilizer type OF (t N/t fertilizer) 
+Mbsl,CR,i,t 
+= Total dry mass of rice straw returned to soils (aboveground and 
+belowground) in quantification unit i in year t in the baseline 
+scenario (t dry mass) 
+NCCR 
+= Nitrogen content in dry mass of crop residue type CR (above- and 
+belowground) before the rice season (t N/t dry mass) 
+SF 
+= Synthetic nitrogen fertilizer type 
+OF 
+= Organic nitrogen fertilizer type 
+CR 
+= Crop residue type (e.g., rice straw) 
+44/28 
+= Molar mass ratio of nitrous oxide to nitrogen 
+8.2.7 Nitrous Oxide Emissions from Biomass Burning 
+Where N2O emissions from biomass burning are included in the project boundary per Table 2, 
+they are quantified in the baseline scenario under QA3 using Equation (23). 
+𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡  = (𝐺𝑊𝑃𝑁2𝑂× 𝑀𝐵𝑏𝑠𝑙,𝑖,𝑡×  𝐶𝐹𝑟× 𝐸𝐹 𝑁2𝑂
+106
+) /𝐴𝑖 
+(23) 
+Where: 
+𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡 
+= Areal mean nitrous oxide emissions from biomass burning for 
+quantification unit i in year t in the baseline scenario (t CO2e/ha) 
+GWPN2O 
+= Global warming potential for nitrous oxide (t CO2e/t N2O) 
+MBbsl,i,t 
+= Mass of agricultural residues of rice straw burned for 
+quantification unit i in year t in the baseline scenario (kg) 
+CFr 
+= Combustion factor for rice straw expressed as proportion of pre-
+fire fuel biomass consumed (fraction) 
+EFN2O 
+= Nitrous oxide emission factor for the burning of rice straw 
+(g N2O/kg dry matter burned) 
+106 
+= Conversion factor from grams to tonnes 
+8.3 
+Project Emissions  
+Emissions of CO2, CH4, and N2O resulting from project scenario rice cultivation activities are 
+calculated or modeled based on monitored inputs following the approaches found in Table 4 
+and using the equations provided in Section 8.2. For all equations, the subscript bsl must be 
+substituted with wp to indicate that the relevant values are being calculated for the project 
+scenario.  
+In addition to the equations in Section 8.2, other GHG emission sources must be accounted for 
+when implementing any of the following project activities:   
+ 
+VM0051, v1.0 
+ 
+ 
+33 
+1) Where rice straw burning is reduced, project proponents must account for emissions 
+associated with the alternative fate of the rice straw (using Equation (24)).  
+2) Where irrigation practices are changed, project proponents must account for N2O 
+emissions associated with such changes by applying an N2O correction factor (using 
+Equation (25)).  
+8.3.1 Project Emissions from Diverting Rice Straw to Alternative End-Uses 
+Where a project materially reduces the amount of rice straw burned, Equation (24) must be 
+used to account for project emissions associated with alternative end uses of the rice straw.  
+𝑃𝐸𝐴𝐵,𝑡= (𝑅𝑆𝑟𝑒𝑚𝑜𝑣𝑒𝑑,𝑟× 𝐸𝐹𝑒𝑢,𝑟×  0.001)  
+(24) 
+Where: 
+PEAB,t 
+= Project emissions from diverting rice straw to alternative off-farm end uses 
+in year t (t CO2e) 
+RSremoved,r 
+= Mass of rice straw removed from field and sent to end use category r 
+(t d.m.) 
+EFeu,r 
+= Emission factor for rice straw for off-farm end use category r (kg CO2e/t dry 
+rice straw) 
+0.001 
+= Unit conversion from kilogram to tonne 
+8.3.2 Project Emissions of Nitrous Oxide Due to Irrigation Change 
+All fields that employ changes in irrigation patterns from continuous flooding to AWD (single or 
+multiple drainage) must account for N2O emissions associated with such changes by applying 
+an N2O correction factor, regardless of whether there are any changes in the application rate of 
+nitrogen.20  
+𝑃𝐸𝑅𝑒𝑑−𝐼𝑟𝑟𝑖,𝑡= ∑
+(𝑄𝑁,𝑖 × 𝐴𝑖) × 𝐶𝐹𝑁2𝑂× 10−3 × 𝐺𝑊𝑃𝑁2𝑂
+𝑛
+𝑖=1
+ 
+(25) 
+Where: 
+PERed-Irri,t 
+= Deduction to account for flux in nitrous oxide emissions due to period 
+of drying on rice fields in year t (t CO2e) 
+QN,i 
+= Application rate of nitrogen input for quantification unit i in the project 
+scenario (kg N/ha)  
+ 
+20 Where project activities include changes (increase or decrease) in N fertilization rates, N2O emissions must be 
+calculated using the equations in Section 8.2.6. 
+ 
+VM0051, v1.0 
+ 
+ 
+34 
+CFN2O 
+= Nitrous oxide correction factor for calculating nitrous oxide emissions 
+flux due to period of drying on rice fields; value of 0.00314 must be 
+used21 (kg N2O/kg N-input) 
+10−3 
+= Unit conversion from kilogram to tonne 
+8.4 
+Leakage Emissions 
+Improved rice production projects may result in leakage through: 
+• 
+new application of organic amendments from outside the project area (i.e., organic 
+amendments applied in the project from outside of the project area that were not 
+previously applied in the historical look-back period);  
+• 
+declines in rice yield; and/or  
+• 
+diversion of biomass residues that were used for bioenergy applications in the pre-
+project scenario.  
+Guidance on how to account for each type of leakage is provided below. 
+Where the sum of increases in GHG emissions from any leakage source is less than 5% of the 
+total reductions due to the project activities, such sources may be deemed de minimis and may 
+be ignored. This demonstration must be conducted via application of the CDM Tool for Testing 
+Significance of GHG Emissions in A/R CDM Project Activities. 
+8.4.1 Leakage from New Application of Organic Amendments from Outside the 
+Project Area 
+Where new22 or additional23 manure, compost, or biosolids are applied in the project that were 
+not applied in the historical look-back period, there is a risk of activity-shifting leakage. To 
+account for this type of leakage, a deduction must be used unless any of the following apply: 
+1) The manure or compost applied in the project is produced on-site from farms within the 
+project area. 
+2) The manure is documented to have been diverted from an uncontrolled anaerobic 
+lagoon, pond, tank, or pit from which there is no recovery of CH4 for generation of heat 
+and/or electricity. 
+ 
+21 The correction factor is derived from the emission factors (kg N2O-N/t N) from Table 11.1 (Updated), Chapter 11, 
+Volume 4 in the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. The difference 
+between the aggregated default value emission factors for continuously flooded rice fields and rice fields with single or 
+multiple drainage was converted from N2O-N into N2O emissions. See Appendix 3 for further details.   
+22 In this context, “new” refers to organic amendment application to fields that did not have organic amendment applied 
+during the historical look-back period. 
+23 In this context, “additional” refers to organic amendment application to fields that had organic amendment applied 
+during the historical look-back period, where the amount of organic amendment increases in the project scenario. 
+ 
+VM0051, v1.0 
+ 
+ 
+35 
+3) The manure, compost, or biosolids are documented to not have been used as a soil 
+amendment. 
+The deduction represents the portion of manure, compost, or biosolids carbon that remains in 
+the project area without degrading and which would have otherwise been applied to agricultural 
+land outside of the project area. 
+Equation (26) estimates the leakage from imported manure, compost, or biosolids that are 
+diverted from other applications and could have led to an increase in SOC outside the project 
+boundary in the absence of the project activity. The total amount of carbon applied is reduced 
+to 12% based on the global manure C retention coefficient from Maillard and Angers (2014). 
+This value reflects the fraction of manure carbon expected to remain in the project area. While 
+derived for manure, the equation is also conservatively applied to compost and biosolids in this 
+methodology.  
+𝐿𝐸𝑂𝐴,𝑡= ∑(𝑀_𝑂𝐴𝑤𝑝,𝑙,𝑡× 𝐶𝐶𝑤𝑝,𝑙,𝑡× 0.12 × 44
+12)
+𝑙
+ 
+(26) 
+Where: 
+LEOA,t 
+= Leakage from organic amendments in year t (t CO2e) 
+M_OAwp,l,t 
+= Mass of organic amendment (from livestock type l) applied as fertilizer in 
+the project area in year t (t) 
+CCwp,l,t 
+= Carbon content of organic amendment applied as fertilizer in the project 
+area in year t, disaggregated by livestock type I for manure (t C/t organic 
+amendment) 
+0.12 
+= Fraction of manure carbon expected to remain in project area soils 
+(Maillard and Angers 2014); also applied to other organic amendments 
+(unitless) 
+44/12 
+= Molar mass ratio of carbon dioxide to carbon 
+Note – as set out in Section 4, project activities that result in a material decline in the volume 
+of biomass to soils in the project are ineligible under this methodology.  
+8.4.2 Leakage from Rice Yield Declines 
+Market leakage (LEyield) is likely to be negligible because the land remains in rice production in 
+the project scenario. Further, producers are unlikely to implement and maintain rice production 
+practices that result in productivity declines, since their livelihoods depend on rice yield as a 
+source of income. Nevertheless, to ensure leakage does not occur, the following steps must be 
+completed during the first monitoring period. Where material leakage is detected, the steps 
+must be repeated each season of the project until no material yield decrease is detected. 
+Where no material decrease in yield is detected, these steps need not be repeated until the 
+first monitoring period of the subsequent crediting period.  
+ 
+VM0051, v1.0 
+ 
+ 
+36 
+Step 1: Demonstrate that rice yield has not declined by more than 5% in the monitoring period 
+by one of the following: 
+1) Comparing average rice yield during the monitoring period (excluding years with 
+extreme weather events) with average baseline rice yield during the historical look-back 
+period, using Equation (27): 
+∆𝑃= (𝑃𝑤𝑝− 𝑃𝑏𝑠𝑙
+𝑃𝑏𝑠𝑙
+) × 100 
+(27) 
+Where: 
+ΔP 
+= 
+Change in productivity (%) 
+Pwp 
+= 
+Average rice yield during the monitoring period (output/ha) 
+Pbsl 
+= 
+Average rice yield during the historical look-back period (output/ha) 
+Or 
+2) Comparing the ratio of average baseline rice yield to average regional rice yield during 
+the historical look-back period with the ratio of average monitoring period rice yield to 
+average regional rice yield during the monitoring period, using Equation (28) and 
+regional data from government, industry, peer-reviewed, academic, or international 
+organizations (e.g., Food and Agriculture Organization (FAO) or IRRI) sources: 
+∆𝑃𝑅= ( 𝑃𝑤𝑝
+𝑅𝑃𝑤𝑝
+−𝑃𝑏𝑠𝑙 
+𝑅𝑃𝑏𝑠𝑙
+) × 100 
+(28) 
+Where: 
+ΔPR 
+= 
+Change in rice yield ratio per hectare (%) 
+RPwp 
+= 
+Average regional rice yield during the monitoring period (output/ha) 
+RPbsl 
+= 
+Average regional rice yield during the historical look-back period 
+(output/ha) 
+For new rice production techniques introduced as part of the project (e.g., DSR, 
+nitrification inhibitors, reduced rice straw burning) that are not present in the historical 
+look-back period, project proponents should use regional data sources instead of 
+project-specific data sources to determine historical rice yield, and set Pbsl equal to 
+RPbsl. 
+Monitoring period yield averages must be based on data collected in the previous 10 years. 
+Yield averages must not include data that are more than 10 years old. Where yield has 
+improved, stayed constant, or declined by less than 5%, no further action is needed and LEyield 
+ 
+VM0051, v1.0 
+ 
+ 
+37
+should be set to zero. Where a reduction in yield of greater than 5% is observed, complete Step 
+2. 
+Step 2: Determine whether the yield decline was caused by a short-term yield decrease by 
+repeating the calculation in Step 1 and excluding all data inputs from the first three years of 
+project implementation. Where the monitoring period yield with the first three years removed is 
+within 5% of the baseline yield, no further action is needed and LEyield should be set to zero. 
+Where a reduction in yield of greater than 5% is still observed, complete Step 3. 
+Step 3: Determine whether the yield decline is limited to a certain combination of factors by 
+stratifying the analysis by: 
+1) practice change category, 
+2) practice change category combinations, 
+3) soil type, and/or 
+4) climatic zone. 
+Where the yield decline is limited to a certain combination of project implementation activities, 
+that combination of project activities becomes ineligible for future crediting, until the yield 
+decline is demonstrated to have been remedied. For example, where a 10% decline in rice 
+yields is observed and stratification shows that the yield decline is linked to fertilizer rate 
+reductions combined with DSR, fertilizer rate reduction practices on DSR fields would no longer 
+be eligible for future crediting until the project monitoring plan is updated to include measures 
+to address the issue, and until the project proponent demonstrates no leakage has occurred. 
+Where a yield decline above 5% is not limited to a certain combination of project 
+implementation activities, the portion of the observed yield decline above 5% is used to set the 
+value for LEyield. Where the project proponent is unable to isolate the source(s) of leakage 
+through stratification, the entire project becomes ineligible for future crediting until the yield 
+decline is demonstrated to have been remedied. 
+8.4.3 Leakage from Diversion of Biomass Residues Used for Energy Applications in the 
+Baseline Scenario 
+Where changes in straw management (i.e., due to implementation of avoided biomass burning) 
+is a component of the project activity, and this biomass residue is diverted from the project 
+area (baseline scenario) to energy applications (e.g., fuel for cookstoves or biomass power 
+generation), there is a risk of leakage. Due to implementation of the project activity, these 
+competing applications may be forced to use inputs that are not carbon neutral. Leakage 
+emissions due to the diversion of biomass residues used in the baseline for renewable fuel 
+production (LEBR,t) must be determined following procedures in CDM TOOL16 Project and 
+Leakage Emissions from Biomass.24 
+ 
+24 Available at: https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-16-v2.pdf/history_view  
+ 
+VM0051, v1.0 
+ 
+ 
+38 
+8.5 
+Net Reductions  
+Emission reductions are calculated by subtracting baseline (subscript bsl) from project 
+(subscript wp) emissions. Equation (29) is used to calculate net reductions under 
+Quantification Approaches 1, 2, and 3. UNCt,CH4_soil and UNCt,N2O_soil must be calculated in 
+accordance with the guidance in Section 8.6.4. Projects using Quantification Approach 3 that 
+have a capacity limit of 60 000 t CO2e per year must use a 15% default uncertainty deduction.  
+𝐸𝑅𝑡= Δ𝐶𝑂2_𝑓𝑓𝑡+ Δ𝐶𝑂2_𝑙𝑖𝑚𝑒𝑡+ ∆𝐶𝐻4_𝑏𝑏𝑡
++ (∆𝐶𝐻4_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝐶𝐻4_𝑠𝑜𝑖𝑙,𝑡)) 
++ (∆𝑁2𝑂_𝑠𝑜𝑖𝑙𝑡 × (1 − 𝑈𝑁𝐶𝑁2𝑂_𝑠𝑜𝑖𝑙,𝑡)) + ∆𝑁2𝑂_𝑏𝑏𝑡− 𝐿𝐸𝑂𝐴,𝑡
+−𝐿𝐸𝐵𝑅,𝑡− 𝑃𝐸𝐴𝐵,𝑡− 𝑃𝐸𝑅𝑒𝑑−𝐼𝑟𝑟𝑖,𝑡 
+(29) 
+Where: 
+ERt 
+= Estimated net reductions in year t (t CO2e) 
+ΔCO2_fft 
+= Total carbon dioxide reductions from fossil fuel combustion in year t 
+(t CO2e) 
+ΔCO2_limet 
+= Total carbon dioxide reductions from liming in year t (t CO2e)  
+ΔCH4_bbt 
+= Total methane reductions from avoided or reduced biomass burning 
+in year t (t CO2e) 
+ΔCH4_soilt 
+= Total methane reductions from soils in year t (t CO2e) 
+UNCCH4_soil,t 
+= Uncertainty deduction for methane emissions in year t (fraction 
+between 0 and 1) 
+ΔN20_soilt 
+= Total nitrous oxide reductions from nitrification/denitrification in 
+year t (t CO2e) 
+UNCN2O_soil,t 
+= Uncertainty deduction for nitrous oxide emissions in year t 
+ΔN2O_bbt 
+= Total nitrous oxide reductions from avoided or reduced biomass 
+burning in year t (t CO2e)  
+LEBR,t 
+= Leakage from diversion of biomass residues used for energy 
+application in the baseline scenario, derived from Section 8.4.3 
+8.5.1 Fossil Fuel Combustion Emission Reductions (ΔCO2_fft) 
+Emissions impacts of changes in fossil fuel usage are quantified as follows:  
+Δ𝐶𝑂2_𝑓𝑓𝑡= ∑(  𝐶𝑂2_𝑓𝑓𝑏𝑠𝑙,𝑖,𝑡− 𝐶𝑂2_𝑓𝑓𝑤𝑝,𝑖,𝑡) × 𝐴𝑖
+𝑛
+𝑖=1
+ 
+(30) 
+Where: 
+𝐶𝑂2_𝑓𝑓𝑤𝑝,𝑖,𝑡
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅ 
+= Areal mean carbon dioxide emissions from fossil fuel combustion 
+for quantification unit i in year t in the project scenario (t CO2e/ha) 
+ 
+VM0051, v1.0 
+ 
+ 
+39 
+8.5.2 Methane Emission Reductions (ΔCH4t) 
+Methane reductions from soil methanogenesis are quantified as follows: 
+∆𝐶𝐻4_𝑠𝑜𝑖𝑙𝑡= ∑
+(𝐶𝐻4_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡− 𝐶𝐻4_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡)
+𝑛
+𝑖=1
+ × 𝐴𝑖  
+(31) 
+Where: 
+𝐶𝐻4_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡 
+= Areal mean methane emissions from soil methanogenesis for 
+quantification unit i in year t in the project scenario (t CO2e/ha) 
+Methane reductions from avoided or reduced biomass burning are quantified as follows: 
+∆𝐶𝐻4_𝑏𝑏𝑡= ∑
+(𝐶𝐻4_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡− 𝐶𝐻4_𝑏𝑏𝑤𝑝,𝑖,𝑡) 
+𝑛
+𝑖=1
+× 𝐴𝑖  
+(32) 
+Where: 
+𝐶𝐻4_𝑏𝑏𝑤𝑝,𝑖,𝑡 
+= Areal mean methane emissions from biomass burning for 
+quantification unit i in year t in the project scenario (t CO2e/ha) 
+8.5.3 Nitrous Oxide Emission Reductions (ΔN2Ot) 
+Nitrous oxide reductions from nitrification/denitrification are quantified as follows: 
+∆𝑁2𝑂_𝑠𝑜𝑖𝑙𝑡= ∑
+(  𝑁2𝑂_𝑠𝑜𝑖𝑙𝑏𝑠𝑙,𝑖,𝑡− 𝑁2𝑂_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡) × 𝐴𝑖
+𝑛
+𝑖=1
+   
+(33) 
+Where: 
+𝑁2𝑂_𝑠𝑜𝑖𝑙𝑤𝑝,𝑖,𝑡 
+= Areal mean nitrous oxide emissions due to nitrogen inputs to soils 
+for quantification unit i in year t in the project scenario (t CO2e/ha) 
+Nitrous oxide reductions from biomass burning are quantified as follows: 
+∆𝑁2𝑂_𝑏𝑏𝑡= ∑
+(  𝑁2𝑂_𝑏𝑏𝑏𝑠𝑙,𝑖,𝑡− 𝑁2𝑂_𝑏𝑏𝑤𝑝,𝑖,𝑡) × 𝐴𝑖
+𝑛
+𝑖=1
+  
+(34) 
+Where: 
+𝑁2𝑂_𝑏𝑏𝑤𝑝,𝑖,𝑡 
+= Areal mean nitrous oxide emissions from biomass burning for 
+quantification unit i in year t in the project scenario (t CO2e/ha) 
+8.6 
+Uncertainty 
+Uncertainty deductions are estimated separately for each GHG source within a project. 
+Deductions are based on an estimate of the total error of the project’s calculated reductions for 
+ 
+VM0051, v1.0 
+ 
+ 
+40 
+that source over a given verification period. Key sources of uncertainty that contribute to this 
+error differ for each quantification approach. This section details these sources of error and 
+methods to estimate such errors for use in an uncertainty assessment and calculation of the 
+required uncertainty deduction. 
+Under Quantification Approaches 1 and 2, the uncertainty guidance provided here assumes 
+that all gas sampling/analysis and modeling occurs on a point basis. In other words, the model 
+results and/or direct gas sample measurements each represent a single point in space at which 
+initial management data have been collected, and uncertainty is calculated by combining 
+estimates of sampling, modeling, and measurement error based on the design chosen to select 
+the points. Alternative approaches (e.g., modeling on an areal basis) are considered a deviation 
+and project proponents must demonstrate that such approaches will not negatively impact the 
+conservativeness of reduction estimates per the most recent version of the VCS Standard.25 
+Across Quantification Approaches 1 and 2, a key source of error is sampling error, which emerges 
+from only being able to measure/model a portion of the total project area. Appropriate estimates 
+of this source of error are specific to the sample design employed.  
+This methodology requires stratification of the project area. Each stratum should be based on 
+physical and management factors (see Appendix 2) that minimize within-stratum variability. 
+Data from each quantification unit must be collected for all three quantification approaches. 
+Under QA2, control sites must be allocated within each stratum based on recommendations 
+from an expert; refer to Appendix 3 for details on direct gas chamber measurements. The 
+remainder of this section is based on a simplified example of a stratified random sampling design 
+in which the entire project is divided into strata and points within those strata are placed using 
+simple random sampling with replacement.  
+8.6.1 Quantification Approach 1 
+Quantification Approach 1 is a modeling approach in which a biogeochemical model is used to 
+simulate changes in CH4 and/or N2O fluxes over a given time period in both the project and 
+baseline scenarios. Initial measurements of SOC must be taken at the project start26 and used 
+for model initialization. Project proponents must follow the guidance in VMD0053 and Section 
+8.6.1 of VM0042, v2.127 with respect to uncertainty calculations while using modeling under 
+Quantification Approach 1.  
+Key sources of error accounted for under Quantification Approach 1 include: 
+ 
+25 Section 3.20 in the VCS Standard, v4.7 
+26 Initial measurements of SOC may be conducted at t = 0 or (back-) modeled to t = 0 from measurements collected 
+within ±5 years of t = 0. This time frame (5 years) should be shortened where possible. For projects with more than one 
+project crediting period (i.e., more than a 10-year cycle), SOC measurements must be taken for each crediting renewal 
+period.  
+27 Or equivalent section in the most recent version 
+ 
+VM0051, v1.0 
+ 
+ 
+41 
+• 
+Model prediction error resulting from uncertainty in model parameters or model 
+structural errors (i.e., inaccurate representation of actual biogeochemical processes). 
+Model prediction error is calculated using independent statistical validation datasets 
+per the processes outlined in VMD0053. Alternatively, project proponents may account 
+for model prediction error by calibrating models to include parameter uncertainty (e.g., 
+a Bayesian implementation of the model) and using the Monte Carlo simulation or error 
+propagation approach.  
+• 
+Sampling error resulting from measuring/modeling only a portion of the project area. 
+Estimates of sampling error are contingent on the sampling design employed by the 
+project proponent.  
+• 
+Measurement error of model inputs. In many cases, the impact of these measurement 
+errors on the error of reduction estimates is assumed to be captured in model 
+prediction error and/or sampling error. In this case, Monte Carlo simulation is required 
+unless it is demonstrated that such errors have a de minimis effect on model estimates 
+of reductions. 
+For each GHG flux, these sources of error are estimated separately and then combined to 
+estimate a single uncertainty deduction for that GHG flux across the entire project. Two 
+approaches are eligible to estimate the uncertainty: 
+1) Analytical calculation of error propagation 
+2) Monte Carlo simulation 
+Guidance on performing a Monte Carlo simulation is found in Section 8.6.1.1 of VM0042, 
+v2.1.28  
+8.6.2 Quantification Approach 2 
+Quantification Approach 2 is applicable for CH4 flux measurements. The baseline is 
+represented by control sites that are linked to one or more strata. The CH4 flux difference and 
+its uncertainty is calculated based on comparisons of control sites and paired strata. Key 
+sources of error accounted for under QA2 include: 
+• 
+Sampling error derived from only measuring a subset of the entire project area, 
+resulting in a potentially inaccurate estimate of the true variance of CH4 flux. Sampling 
+error is determined by calculating the approximate standard error of CH4 flux as directly 
+measured following the guidance in Appendix 2.  
+• 
+Measurement error of methods used to determine CH4 flux measurements at sample 
+points. Where samples are collected in accordance with the guidance in Appendix 3 
+and tested in a laboratory with demonstrated proficiency and quality control (e.g., 
+ 
+28 Ibid. 
+ 
+VM0051, v1.0 
+ 
+ 
+42 
+through participation in the North American Proficiency Testing program), these errors 
+are assumed to be unbiased and negligible.   
+These sources of error are estimated separately and then combined to estimate a single 
+uncertainty deduction for CH4 flux across the entire project. Similar to QA1, an analytical error 
+propagation or Monte Carlo simulation method may be used. The Monte Carlo simulation 
+method is more appropriate in cases where measurement error is deemed significant and must 
+be propagated through calculations.  
+The various sources of error outlined above are independently estimated for each CH4 flux that 
+results in a reduction. The estimated errors are then combined to provide an estimate of the 
+total variance of the areal mean reductions across the project for each source in each 
+verification period (𝑠Δ•
+̅̅̅̅,𝑡
+2
+). This is used to determine an appropriate uncertainty deduction.  
+This section is based on a stratified random sampling design in which the entire project area is 
+divided into strata, and sites for gas measurements (i.e., baseline control sites and sample 
+units) are allocated within each stratum.29 Methane flux measurements are collected at these 
+points in the quantification units and/or control sites. Formulas for uncertainty estimators are 
+drawn from Som (1995, ch. 10). Project-specific strata, their area, and the sampling points 
+(quantification units and/or control sites) within strata must be reported in a spreadsheet and 
+submitted as an annex to project documentation at every verification. This information feeds 
+into Equation (35) for the parameters stratum identifier (h), area of stratum (Ah), and sample 
+point identifier (ip).  
+𝑆𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,𝑡
+2
+= ∑𝑆𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,ℎ,𝑡
+2
+𝐻
+ℎ=1
+ 
+(35) 
+Where: 
+𝑆𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆• ,ℎ,𝑡
+2
+=
+𝐴ℎ
+2
+𝑛ℎ(𝑛ℎ−1) ∑(∆• ℎ,𝑖𝑝,𝑡−∆• ℎ,𝑡)
+2
+𝑛ℎ
+𝑖𝑝=1
+ 
+(36) 
+And: 
+𝑆𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,𝑡
+2
+ 
+= Variance of reductions in gas • due to sampling error at time t 
+across the entire project area (t CO2e)2 
+𝑆𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆• ,ℎ,𝑡
+2
+ 
+= Variance of reductions in gas • within stratum h due to sampling 
+error at time t (t CO2e)2 
+∆• ℎ,𝑡 
+= Areal mean reduction in gas • in stratum h at time t, computed as 
+the average across the sample points in stratum h (t CO2e/ha) 
+ 
+29 While applying random sampling, the selection of sites for gas measurements should consider site accessibility, and 
+the project proponent must justify the choice of sampling allocation. 
+ 
+VM0051, v1.0 
+ 
+ 
+43 
+∆• ℎ,𝑖𝑝,𝑡 
+= Estimated reduction in gas • on an area basis in year t in stratum 
+h at point ip (t CO2e/ha) 
+h 
+= 1, …, H strata across the entire project area 
+ip 
+= 1, …, nh sample points (gas chamber) within stratum h 
+Ah 
+= Area of stratum h 
+The variance of Δ •𝑡
+̅̅̅̅̅ incorporating sample uncertainty is estimated by dividing the variance 
+estimates of error sources by the square of the total project area (Cochran 1977, Eq. 13.39; 
+Som 1995, Eq. 25.10).  
+𝑆Δ•
+̅̅̅̅,𝑡
+2
+=
+𝑆s𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+ 
+𝐴2
+ 
+(37) 
+Where: 
+𝑆Δ•
+̅̅̅̅,𝑡
+2  
+= Variance of the estimate of mean reductions in gas • at time t 
+(t CO2e/ha)2 
+A 
+= Total project area (ha) 
+8.6.3 Quantification Approach 3 
+The uncertainty approach for CH4 and N2O from soils varies depending on emission factor tiers 
+and project scale. Project proponents using global or regional IPCC Tier 1 emission factors for 
+projects with a capacity limit of 60 000 t CO2e per year must apply a standardized default 
+uncertainty deduction of 15%. Project proponents using country-specific emission factors for 
+projects with estimated reductions above 60 000 t CO2e per year must calculate the 
+uncertainty associated with the applied emission factors.  
+Project proponents may derive country-specific emission factors using literature, following the 
+guidance to derive Tier 2 emission factors in the 2019 Refinement to the 2006 IPCC Guidelines 
+for National Greenhouse Gas Inventories. Uncertainty estimates must be derived from the 
+source literature or otherwise calculated in accordance with the above guidance for estimating 
+uncertainty using analytical calculation of error propagation or Monte Carlo simulation (Section 
+8.6.1). While these emission factors likely include some prediction error, availability of source 
+data for estimating that error may be inconsistent. As such, the prediction error of emission 
+factors is presumed to be zero for the purpose of calculating an uncertainty deduction. Project 
+proponents must use the available emission factor that results in the most conservative 
+reduction estimates when applied across both the baseline and project scenarios. 
+Uncertainty of fossil fuel burning and liming default emission factors is expected to be lower 
+than 10%30 and is conservatively excluded from calculations. Uncertainty of biomass burning 
+ 
+30 Refer to guidelines from Chapter 3, Vol. 1 of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories, 
+available at: https://www.ipcc-nggip.iges.or.jp/public/2006gl/pdf/1_Volume1/V1_3_Ch3_Uncertainties.pdf 
+ 
+VM0051, v1.0 
+ 
+ 
+44
+default emission factors may be higher than 10%, but the relative contribution to total 
+uncertainty is expected to be small and it is therefore excluded from calculations.  
+8.6.4 Uncertainty Deductions 
+Uncertainty deductions are estimated and applied separately for each source of reductions 
+within the project boundary. This deduction is estimated using a probability of exceedance 
+method as follows (see Section 2.4 of the VCS Methodology Requirements, v4.4): 
+𝑈𝑁𝐶∆•
+̅̅̅,𝑡=
+(
+ 
+ √𝑠∆•
+̅̅̅,𝑡
+2
+∆•
+̅̅̅̅𝑡
+ ×  100
+)
+  × 𝑡0.667 
+(38) 
+Where: 
+𝑈𝑁𝐶∆•
+̅̅̅,𝑡 
+= Uncertainty deduction for gas • to be applied in verification period t (%) 
+∆•
+̅̅̅̅𝑡 
+= Mean estimated reduction in gas • across the entire project area in year t 
+(t CO2e/ha) 
+tα=0.667 
+= Critical value of a one-sided student’s t-distribution at significance level 
+α = 0.667 (66.7%) with degrees of freedom appropriate to the sampling 
+design used; equal to approximately 0.4307 at large sample sizes 
+(dimensionless) 
+This uncertainty deduction is based on a defined threshold in the estimated probability density 
+function of the reduction for a given source. This enables a judgment of the extent to which the 
+achieved reduction by the project may be expected to be accurate. By this procedure, estimate 
+what proportion of the estimates of ∆•
+̅̅̅̅𝑡 would have a 66.7% probability of exceeding the true 
+value of ∆•
+̅̅̅̅𝑡. That proportion is then used as a percentage uncertainty deduction. Where it is 
+unlikely that the half-width of the two-sided 90% percent confidence interval for estimating 
+reductions could exceed 10% of the estimated value, random uncertainty may be excluded. 
+Where the half-width of the two-sided 90% confidence interval exceeds 100% of the reduction 
+estimate, the project is not eligible for crediting. Figure 2 demonstrates this concept. 
+ 
+VM0051, v1.0 
+ 
+ 
+45 
+Figure 2. Probability of exceedance. The value for ∆•
+̅̅̅̅𝒕 used in calculation of net 
+reductions is determined by applying an uncertainty deduction based on the 33.3rd 
+percentile of the estimated probability distribution of ∆·
+̅̅̅̅𝒕  
+ 
+ 
+ 
+ 
+ 
+VM0051, v1.0 
+ 
+ 
+46

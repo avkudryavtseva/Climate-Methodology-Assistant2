@@ -1,0 +1,17 @@
+8 QUANTIFICATION OF ESTIMATED GHG 
+EMISSION REDUCTIONS AND 
+REMOVALS 
+8.1 
+Baseline Emissions 
+The quantification of baseline emissions follows the same approach as in AMS-III.BP. The only 
+change is that the term “shore-side” is replaced by “shore-side or off-shore.” 
+8.2 
+Project Emissions 
+The quantification of project emissions in year y follows the same approach as in AMS-III.BP. The 
+only change is that the term “shore-side” is replaced by “shore-side or off-shore.” 
+8.3 
+Leakage 
+No change from AMS-III.BP. 
+8.4 
+Net GHG Emission Reductions and Removals 
+No change from AMS-III.BP.

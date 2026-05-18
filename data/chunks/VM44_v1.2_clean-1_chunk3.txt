@@ -1,0 +1,49 @@
+2 SOURCES 
+This methodology uses the most recent versions of the following tools: 
+CDM 
+• 
+CDM TOOL03: Tool to Calculate Project or Leakage CO2 Emissions from Fossil Fuel 
+Combustion 
+• 
+CDM TOOL05: Baseline, Project and/or Leakage Emissions from Electricity 
+Consumption and Monitoring of Electricity Generation 
+• 
+CDM TOOL09: Tool to Determine the Baseline Efficiency of Thermal or Electric Energy 
+Generation Systems 
+• 
+CDM TOOL12: Project and Leakage Emissions from Transportation of Freight 
+• 
+CDM TOOL16: Project and Leakage Emissions from Biomass 
+VCS 
+• 
+VT0008 Additionality Assessment 
+ 
+This methodology is based on the following sources: 
+• 
+CDM methodology AMS-III.L: Avoidance of methane production from biomass decay 
+through controlled pyrolysis, v2.0 
+• 
+CDM methodology Small-Scale Methodology AMS-III.E: Avoidance of methane 
+production from decay of biomass through controlled combustion, gasification or 
+mechanical/thermal treatment, v17.0 
+• 
+CDM methodology AMS-III.BG: Emission reduction through sustainable charcoal 
+production and consumption, v3.0 
+• 
+CDM Executive Board report EB23 Annex 18: Definition of Renewable Biomass 
+ 
+The following has also informed the development of the methodology: 
+• 
+Intergovernmental Panel on Climate Change (IPCC) (2019) Appendix 4: Method for 
+Estimating the Change in Mineral Soil Organic Carbon Stocks from Biochar 
+Amendments: Basis for Future Methodological Development 
+• 
+International Biochar Initiative (IBI) Standardized Product Definition and Product Testing 
+Guidelines for Biochar That Is Used in Soil, v2.1 
+• 
+European Biochar Certificate (EBC) Guidelines for a Sustainable Production of Biochar, 
+v10.1 
+ 
+VM0044, v1.2 
+ 
+6

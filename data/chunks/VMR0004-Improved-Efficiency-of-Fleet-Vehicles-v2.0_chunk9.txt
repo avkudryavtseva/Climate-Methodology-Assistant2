@@ -1,0 +1,270 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions are calculated using a baseline emission factor for each vehicle category i 
+using fuel type x or electricity in period y, BEFi,x,y and BEFi,elec,y. This factor represents the 
+specific fuel consumption (SFCBL,i,x,y) or specific electricity consumption (SECBL,i,y) per activity 
+level (ALi,x,y).  
+The activity level reflects the operational usage or output of the vehicle, such as kilometers 
+traveled, kilowatt-hours consumed, tonnes transported, or hours of operation. Specific 
+fuel/electricity consumption is measured in a fuel metric per activity level (e.g., liters per 
+kilometer, liters per tonne, kilowatt-hours per kilometer, kilowatt-hours per tonne). 
+Baseline emissions are calculated by multiplying the baseline emission factors by the 
+corresponding activity level of each project group vehicle category i: 
+𝐵𝐸𝑦= ∑𝐵𝐸𝐹𝑖,𝑥,𝑦× 𝐴𝐿𝑖,𝑥,𝑦× 10−6
+𝑖,𝑥
+ 
+(1) 
+Where:  
+BEy 
+= 
+Baseline emissions in period y (t CO2) 
+BEFi,x,y 
+= 
+Baseline emission factor of vehicle category i using fuel type x or 
+electricity in period y (g CO2/activity level) 
+ 
+VMR0004, v2.0 
+ 
+11 
+ALi,x,y 
+= 
+Activity level of project group vehicle category i using fuel type x or 
+electricity in period y (activity level) 
+For vehicles using fuel (with or without telematics), the baseline emission factor is determined 
+using the following equation: 
+𝐵𝐸𝐹𝑖,𝑥,𝑦= 𝑆𝐹𝐶𝐵𝐿,𝑖,𝑥,𝑦× 𝐸𝐹𝐶𝑂2,𝑥,𝑦  
+(2) 
+Where:  
+SFCBL,i,x,y 
+= 
+Specific baseline fuel consumption of vehicle category i using fuel type x 
+in period y (fuel metric/activity level) 
+EFCO2,x,y 
+= 
+CO2 emission factor for fuel type x in period y (g CO2/fuel metric) 
+For vehicles using electricity (with or without telematics), the baseline emission factor is 
+determined as follows: 
+𝐵𝐸𝐹𝑖,𝑒𝑙𝑒𝑐,𝑦= 𝑆𝐸𝐶𝐵𝐿,𝑖,𝑦× 𝐸𝐹𝑒𝑙𝑒𝑐,𝑦× (1 + 𝑇𝐷𝐿𝑦)  
+(3) 
+Where:  
+BEFi,elec,y 
+= 
+Baseline emission factor of vehicle category i using electricity in period y 
+(g CO2/activity level) 
+SECBL,i,y 
+= 
+Specific baseline electricity consumption of vehicle category i in period y 
+(kWh/activity level) 
+EFelec,y 
+= 
+CO2 emission factor of electricity in period y (g CO2/kWh) 
+TDLy 
+= 
+Average technical transmission and distribution losses for providing electricity 
+in period y (%) 
+In cases where mobile machinery uses both electricity and fossil fuels, emissions from both 
+sources are summed. Where biofuel blends are used, the biofuel share is treated as zero-
+emitting. 
+8.1.1 Specific Baseline Fuel and Electricity Consumptions 
+The specific baseline fuel consumption (SFCBL,i,x,y) and the specific baseline electricity 
+consumption (SECBL,i,y) are determined using one of the following methods: 
+1) For vehicles equipped with telematics systems, historical fuel and electricity 
+consumption and activity level are used. 
+2) For vehicles without telematics systems, values are based on the monitored fuel and 
+electricity consumption and activity level of a control group. 
+ 
+VMR0004, v2.0 
+ 
+12 
+8.1.1.1 Option 1: Telematics Systems 
+For vehicle types using telematics systems, specific baseline fuel/electricity consumptions and 
+activity level must be determined using the vehicle’s own data prior to implementation of the 
+project activity by applying one of the following options: 
+1) Monitoring the fuel/electricity consumption and activity level of all project vehicles for 
+a minimum of 5000 km or 200 hours3 of vehicle operation before implementation of 
+the energy efficiency measures. 
+2) Monitoring fuel/electricity consumption and activity level for a sample of project 
+vehicles before implementation of the energy efficiency measures. The sampling must 
+achieve at least 90/5 confidence/precision following the most recent versions of the 
+CDM’s Standard: Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities and Guidelines: Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities. 
+The project proponent must demonstrate that the fuel type, driving terrain (e.g., percentage of 
+city driving compared to highway driving), operational characteristics, and applications (e.g., 
+crane loads) of the baseline measurements are comparable to the project scenario or are 
+conservative. 
+8.1.1.2 Option 2: Control Group  
+Control group vehicles must be selected from the vehicle fleets of the project proponent or from 
+third-party fleets. A control group must be established for each vehicle category that uses this 
+option and that belongs to the same fleet. 
+The specific baseline fuel/electricity consumptions and activity level are monitored within the 
+control group and project group of vehicles. 
+To avoid crediting GHG emission reductions to the project that are due to external factors, the 
+specific baseline fuel/electricity consumptions must be based on comparable vehicles driving 
+in comparable situations. This may be based on a project control group that complies with the 
+following conditions to ensure the control group is comparable to the project group: 
+1) For buses, passenger cars, taxis, and jeepneys: 
+a) Control group vehicles must be of the same age or younger on average than the 
+project group vehicles. 
+b) Control group vehicles must be used in the same area of usage on average as the 
+project vehicles. 
+c) Control group vehicles must have the same or a lower passenger capacity on 
+average than the project vehicles. 
+ 
+3 Based on approximately 5% of annual travel for an average class 8 vehicle in North America from US 
+Department of Energy data available at: https://afdc.energy.gov/data/10309 
+ 
+VMR0004, v2.0 
+ 
+13 
+d) The share of vehicles with air conditioning in the control group must be the same or 
+lower than that in the project group. 
+2) For trucks:  
+a) The average GVW of control group vehicles must be the same as or greater than 
+that of project group vehicles. 
+b) The average annual distance driven by control group vehicles must be the same as 
+or greater than that driven by project group vehicles. 
+c) The share of inter-urban trips made by control group vehicles must be on average 
+equal to or higher than that made by project group vehicles. 
+3) For mobile machinery: 
+a) Mobile machinery in both groups must have a comparable power rating with 
+variations of not more than ±20%. 
+b) Control group mobile machinery must be of the same age or younger on average 
+than project group mobile machinery. 
+c) Control group mobile machinery can be used to produce the same product or 
+perform the same activity as project group mobile machinery and operates in 
+similar conditions (e.g., geography, temperature, sloping, idling). 
+The project proponent must demonstrate that the control group is comparable to the project 
+group and leads to conservative baseline estimations. 
+8.1.2 Activity Level  
+The activity level must be established in the project description and meet the following criteria: 
+1) The activity level metric must be measurable with an acceptable level of certainty 
+(acceptable data precision is ±5% with 90% confidence). 
+2) Changes in the relationship between fuel usage and activity level must be related to 
+improvements in efficiency or changes in the type of fuel used. These changes should 
+not result from exogenous factors that are not associated with the project activity. To 
+prove this relationship, data used to determine the baseline emission factor must show 
+a deviation of less than 20% from the mean value at the lower boundary of the 90% 
+confidence interval. If this deviation exceeds 20%, more homogenous subgroups of 
+vehicles must be established. 
+At validation, the project proponent must demonstrate that the activity level metric is 
+appropriate to the project, and provide a qualitative analysis or ex-ante data to demonstrate 
+that changes in fuel consumption are directly linked to efficiency improvements.  
+At verification, the project proponent must demonstrate that changes in fuel consumption are 
+directly linked to efficiency improvements by conducting the 20% deviation check within the 
+90% confidence interval, as described above. 
+ 
+VMR0004, v2.0 
+ 
+14 
+8.1.3 Net Zero Transition 
+To align with net zero goals, the project proponent must apply the requirements in Sections 
+8.1.3.1 and 8.1.3.2. Additional background is provided in Appendix 2. 
+8.1.3.1 Exclusion of New Fossil Fuel Vehicles 
+From 1 January 2035, no new fossil fuel vehicles may be added to the project vehicle 
+fleets. Where the host country or region has an earlier phase-out date specified in its net zero 
+transition plan or equivalent policy, this earlier date must be applied. 
+8.1.3.2 Net Zero Alignment 
+Projects must align with the net zero transition plans and decarbonization strategies of the host 
+country and region. This includes adherence to targets related to vehicle fleet emissions, 
+composition, technologies, fuels, and other relevant targets related to GHG emissions set forth 
+in these plans. 
+The project proponent must monitor and report the net zero targets relevant to the project 
+fleets and adjust the baseline emissions to reflect the targets for reducing fossil fuel 
+consumption and GHG emissions, starting from the date on which these targets become 
+effective. Both binding and non-binding targets must be considered when adjusting baseline 
+emissions.  
+The project proponent must explain in the monitoring reports how the baseline emission 
+adjustments are made, demonstrate how these adjustments align with the applicable net zero 
+targets, and ensure that they are conservative. 
+The following guiding examples outline how baseline emissions could be adjusted to reflect net 
+zero targets: 
+• 
+Example 1: Transition all light-duty and passenger vehicles to fully electric vehicles 
+(EVs) by 2035. 
+Guidance: From 2035 onwards, replace the baseline emission factors for all light-duty 
+and passenger vehicles with baseline emission factors of comparable EVs. Emission 
+factors should be taken from comparable EVs of the project proponent’s fleets or third-
+party evidence, such as independent studies or market data. Alternatively, exclude all 
+light-duty and passenger vehicles from the project activity from this date. 
+• 
+Example 2: Reduce overall GHG emissions from all vehicle fleets, including heavy-duty 
+trucks and mobile machinery, by 50% by 2030 compared to the 2020 baseline. 
+Guidance: Establish the 2020 baseline GHG emissions for all project vehicle fleets. 
+From 2030 onwards, apply a cap of 50% of the 2020 baseline emissions of the project 
+fleets when calculating baseline emissions in Equation (1). 
+ 
+VMR0004, v2.0 
+ 
+15 
+• 
+Example 3: By 2040, all mobile machinery and trucks should use renewable fuels such 
+as biodiesel, hydrogen, or renewable natural gas (RNG). 
+Guidance: From 2040 onwards, exclude all mobile machinery and trucks from the 
+project activity, since no further GHG emission reductions can be achieved for these 
+vehicle fleets. 
+• 
+Example 4: Phase out fossil fuel consumption for mobile machinery by 2030 
+Guidance: From 2030 onwards, replace the baseline emission factors for mobile 
+machinery with non-fossil fuel baseline emission factors for mobile machinery that 
+represent realistic alternatives for substitution of fossil fuels (e.g., electricity). 
+Alternatively, exclude all mobile machinery from the project activity. 
+8.2 
+Project Emissions 
+8.2.1 Project Emission Equations and Calculations 
+Project emissions for all vehicle categories with or without telematics systems must be 
+determined following the procedure below.  
+𝑃𝐸𝑦= ∑
+𝑃𝐸𝐹𝑖,𝑥 𝑜𝑟 𝑒𝑙𝑒𝑐,𝑦× 𝐴𝐿𝑖,𝑥,𝑦× 10−6
+𝑖,𝑥
+  
+(4) 
+Where:  
+PEy 
+= 
+Project emissions in period y (t CO2) 
+PEFi,x,y 
+= 
+Project emission factor of vehicle category i using fuel type x in period y 
+(g CO2/activity level) 
+PEFi,elec,y 
+= 
+Project emission factor of vehicle category i using electricity in period y 
+(g CO2/activity level) 
+For vehicles using fuel with or without telematics: 
+𝑃𝐸𝐹𝑖,𝑥,𝑦= 𝑆𝐹𝐶𝑃𝐽,𝑖,𝑥,𝑦× 𝐸𝐹𝐶𝑂2,𝑥,𝑦  
+(5) 
+Where:  
+SFCPJ,i,x,y 
+= 
+Specific project fuel consumption of vehicle category i using fuel type x in 
+period y (fuel metric/activity level) 
+For vehicles using electricity with or without telematics: 
+𝑃𝐸𝐹𝑖,𝑒𝑙𝑒𝑐,𝑦= 𝑆𝐸𝐶𝑃𝐽,𝑖,𝑦× 𝐸𝐹𝑒𝑙𝑒𝑐,𝑦× (1 + 𝑇𝐷𝐿𝑦)  
+(6) 
+Where:  
+ 
+VMR0004, v2.0 
+ 
+16 
+SECPJ,i,y 
+= 
+Specific project electricity consumption of vehicle category i in period y 
+(kWh/activity level) 
+8.3 
+Leakage Emissions 
+There are no leakage emissions associated with the project activity. 
+8.4 
+Net Reductions and Removals 
+Net GHG emission reductions are calculated as follows: 
+𝐸𝑅𝑦= 0.95 × (𝐵𝐸𝑦−𝑃𝐸𝑦)    
+(7) 
+Where: 
+ERy 
+= 
+Net GHG emission reductions in year y (t CO2) 
+0.95 
+= 
+Conservativeness deduction to account for uncertainties

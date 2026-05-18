@@ -1,0 +1,16 @@
+3 DEFINITIONS 
+The definitions in AM0057 and the latest version of the VCS Program Definitions apply to this 
+methodology unless this methodology or the VCS Program Definitions indicate otherwise.  
+The definition of “agricultural waste” in AM0057 must be replaced by “biomass waste” and 
+applied throughout AM0057 when using this revision. 
+ 
+VMR0009, v1.0 
+5 
+Biomass waste 
+By-products and residues or waste streams from agricultural activities, food production and 
+processing, and waste streams from wood production and processing in the timber/wood 
+industry and wood-related manufacturing and industrial processes (e.g., veneer and plywood 
+timber processing industries). Municipal solid waste is excluded. 
+The following additional definitions must be used for this revision: 
+Excluded wood waste 
+Firewood and any wood waste resulting from non-industrial, non-manufacturing processes.

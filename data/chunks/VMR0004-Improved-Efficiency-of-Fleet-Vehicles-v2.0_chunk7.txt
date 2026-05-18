@@ -1,0 +1,4 @@
+6 BASELINE SCENARIO 
+The baseline scenario is the operation of a group of vehicles of the same fleet without energy 
+efficiency measures, providing comparable transportation and operational services as the 
+project vehicles.

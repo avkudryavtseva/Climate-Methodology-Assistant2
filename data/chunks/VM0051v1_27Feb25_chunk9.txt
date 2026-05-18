@@ -1,0 +1,1650 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+FFCbsl,i,j,t 
+Data unit 
+liters 
+Description 
+Consumption of fossil fuel type j for quantification unit i in year t in the 
+baseline scenario 
+Equations 
+(2) 
+Source of data 
+See Box 1. 
+Value applied 
+See Box 1. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Fossil fuel consumption may be monitored or the amount of fossil fuel 
+combusted may be estimated using fuel efficiency (e.g., L/100 km, 
+L/km, L/hour) of the vehicle and the appropriate unit of use for the 
+selected fuel efficiency (e.g., km driven where efficiency is given in 
+L/100 km). 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+Fuel efficiency may be obtained from peer-reviewed studies or the most 
+recent version of the IPCC guidelines (Volume 2, Chapter 3). 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+Mlimestone,bsl,i,t  
+Mdolomite,bsl,i,t 
+Data unit 
+tonnes 
+Description 
+Amount of calcitic limestone (CaCO3) applied to quantification unit i in 
+year t in the baseline scenario 
+Amount of dolomite (CaMg(CO3)2) applied to quantification unit i in year 
+t in the baseline scenario 
+Equations 
+(4) 
+Source of data 
+See Box 1. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+All limestone and dolomite applied to soils should be included, even the 
+proportion applied in mixture with fertilizers. Use of oxides (e.g., CaO) 
+and hydroxides of lime for soil liming need not be included in the 
+calculations to estimate CO2 emissions from liming. As these materials 
+do not contain inorganic carbon, CO2 is not released following soil 
+application; it is only produced during material manufacture. 
+Purpose of data 
+Calculation of baseline and project emissions 
+ 
+VM0051, v1.0 
+ 
+ 
+47
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+GWPCH4 
+Data unit 
+t CO2e/t CH4 
+Description 
+Global warming potential for methane 
+Equations 
+(5), (8), (16), (17) 
+Source of data 
+Most recent version of the VCS Standard 
+Value applied 
+See the most recent version of the VCS Standard. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The VCS Standard provides the GWPs that must be used under the VCS 
+Program. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFbsl,c 
+Data unit 
+kg CH4/ha/day  
+Description 
+Baseline methane emission factor for continuously flooded fields 
+without organic amendments 
+Equations 
+(6) 
+Source of data 
+Most recent version of IPCC guidelines (Table 5.11, Chapter 5, Volume 
+4) 
+Value applied 
+Value depends on the country in which the project area is located. See 
+Table 5.11 in data source.  
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See “Source of data.” 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+Default values are to be considered at a country-specific, regional, and 
+global level, listed here in descending order of preference. 
+ 
+Data/Parameter 
+SCbsl,w 
+Data unit 
+unitless 
+ 
+VM0051, v1.0 
+ 
+ 
+48 
+Description 
+Baseline scaling factor to account for differences in water regime 
+during the cultivation period 
+Equations 
+(6)  
+Source of data 
+Most recent version of IPCC guidelines (Table 5.12, Chapter 5, Volume 
+4) 
+Value applied 
+Value depends on water regime employed. Values from IPCC (2019) 
+are:  
+• Continuously flooded: 1 
+• Single drainage period: 0.71 
+• Multiple drainage periods: 0.55 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See “Source of data.” 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+SCbsl,p 
+Data unit 
+unitless 
+Description 
+Baseline scaling factor to account for differences in water regime in the 
+pre-season before the cultivation period 
+Equations 
+(6) 
+Source of data 
+Most recent version of IPCC guidelines (Table 5.13, Chapter 5, 
+Volume 4) 
+Value applied 
+Value depends on water regime employed. Values from IPCC (2019) 
+are:  
+• Non-flooded pre-season <180 days (indicating double cropping): 1.00 
+• Non flooded pre-season >180 days (indicating single cropping): 0.89 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See “Source of data.” 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+CFOAa 
+Data unit 
+unitless 
+ 
+VM0051, v1.0 
+ 
+ 
+49 
+Description 
+Conversion factor for organic amendment type a 
+Equations 
+(7) 
+Source of data 
+Most recent version of IPCC guidelines (Table 5.14, Chapter 5, Volume 
+4) 
+Value applied 
+Value depends on organic amendment type applied (see Section 8.2.3) 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See “Source of data.” 
+Where the project involves the introduction of a new cultivar that is 
+known to have a materially larger root system to the cultivar(s) being 
+deployed in the baseline, the change in root biomass must be 
+accounted for using this conversion factor.  
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+MBbsl,i,t 
+Data unit 
+kg 
+Description 
+Mass of rice straw burned for quantification unit i in year t in the 
+baseline scenario 
+Equations 
+(17), (23) 
+Source of data 
+See Box 1. 
+Value applied 
+See Box 1. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Peer-reviewed published data may be used to estimate aboveground 
+biomass prior to burning. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+Mass of residues burned is a function of the amount of aboveground 
+biomass, the removal of aboveground biomass, and whether remaining 
+residues are burned. It is assumed that 100% of aboveground biomass 
+is burned in the baseline scenario. 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+GWPN2O 
+Data unit 
+t CO2e/t N2O  
+Description 
+Global warming potential for nitrous oxide 
+Equations 
+(18), (19), (23), (25) 
+Source of data 
+Most recent version of the VCS Standard 
+ 
+VM0051, v1.0 
+ 
+ 
+50 
+Value applied 
+See the most recent version of the VCS Standard. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The VCS Standard provides the GWPs that must be used under the VCS 
+Program. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+CFN2O 
+Data unit 
+kg N2O/kg N-input  
+Description 
+N2O correction factor for calculating N2O emissions flux due to period of 
+drying on rice fields 
+Equations 
+(25) 
+Source of data 
+The correction factor is derived from the emission factors (kg N2O-
+N/t N) from the most recent version of Table 11.1 (Updated) in Chapter 
+11, Volume 4 in the IPCC guidelines. The difference between the 
+aggregated default value emission factors for continuously flooded rice 
+fields and rice fields with single or multiple drainage was converted 
+from N2O-N into N2O emissions. See Appendix 3 for further details on 
+how the correction factor was derived. 
+Value applied 
+0.00314 (IPCC 2019) 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See “Source of data.” 
+Purpose of data 
+Calculation of baseline and project emissions  
+Comments 
+None 
+ 
+Data/Parameter 
+Pbsl 
+Data unit 
+output/ha 
+Description 
+Average rice yield during the historical look-back period 
+Equations 
+(27), (28) 
+Source of data 
+See Box 1. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Average productivity for each livestock/crop following guidance in 
+Section 8.4.2. 
+ 
+VM0051, v1.0 
+ 
+ 
+51
+Purpose of data 
+Calculation of leakage 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+RPbsl 
+Data unit 
+output/ha 
+Description 
+Average regional rice yield during the historical look-back period 
+Equations 
+(28) 
+Source of data 
+Secondary evidence sources of regional productivity (e.g., peer-
+reviewed literature, industry associations, international databases, 
+government databases) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Average regional productivity for each livestock/crop product following 
+guidance in Section 8.4.2. 
+Purpose of data 
+Calculation of leakage 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+9.2 
+Data and Parameters Monitored  
+ 
+Data/Parameter 
+Ai 
+Data unit 
+ha 
+Description 
+Area of quantification unit i 
+Equations 
+(1), (3), (17), (19), (23), (25), (30)–(34)  
+Source of data 
+Measurement of each quantification unit within the project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+The quantification unit area is measured prior to verification. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Delineation of the quantification unit area may be determined using a 
+combination of geographic information system (GIS) coverages, ground 
+survey data, remote imagery (satellite or aerial photographs), and other 
+appropriate data. Any imagery or GIS datasets used must be geo-
+ 
+VM0051, v1.0 
+ 
+ 
+52 
+registered referencing corner points, landmarks, or other intersection 
+points. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+Other units used to determine area (e.g., acres) must be converted to 
+hectares. 
+ 
+Data/Parameter 
+EFCO2,j 
+Data unit 
+t CO2e/liter 
+Description 
+Emission factor for combustion of fossil fuel type j 
+Equations 
+(2) 
+Source of data 
+Most recent version of IPCC guidelines (Table 3.3.1 in Chapter 3, 
+Volume 2) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+From IPCC (2019): 
+• 
+gasoline EFCO2 = 0.002810 t CO2e per liter 
+• 
+diesel EFCO2 = 0.002886 t CO2e per liter 
+Frequency of 
+monitoring/recording 
+Source of data for emission factor must be monitored every five years 
+and must be updated when more accurate data applicable to the 
+project conditions become available. 
+QA/QC procedures to be 
+applied 
+See “Source of data.” 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+Assumes four-stroke gasoline engine for gasoline combustion and 
+default values for energy content of 44.3 GJ/t and 43.0 GJ/t for 
+gasoline and diesel respectively (IPCC 2006). 
+ 
+Data/Parameter 
+EFlimestone  
+EFdolomite 
+Data unit 
+t C/t limestone 
+t C/t dolomite 
+Description 
+Emission factor for calcitic limestone (CaCO3) 
+Emission factor for dolomite (CaMg(CO3)2) 
+Equations 
+(4) 
+Source of data 
+Most recent version of IPCC guidelines (Section 11.3, Chapter 11, 
+Volume 4) 
+Description of 
+measurement methods 
+IPCC (2019) values:  
+ 
+VM0051, v1.0 
+ 
+ 
+53 
+and procedures to be 
+applied 
+• 
+EFlimestone = 0.12 t C/t limestone 
+• 
+EFdolomite = 0.13 t C/t dolomite 
+Frequency of 
+monitoring/recording 
+Source of data for emission factor must be monitored every five years 
+and must be updated when more accurate data applicable to the 
+project conditions become available. 
+QA/QC procedures to be 
+applied 
+See “Source of data” and the guidance in Section 8.1. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+ƒ(CH4_soilbsl,i,t) 
+Data unit 
+t CH4/ha 
+Description 
+Modeled methane emissions from soil methanogenesis for 
+quantification unit i in year t in the baseline scenario, calculated by 
+modeling soil methane fluxes over the preceding year 
+Equations 
+(5) 
+Source of data 
+Modeled in the project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Modeled CH4 emissions from soil methanogenesis in the baseline 
+scenario are determined according to the following equation:  
+ƒ(CH4_soilbsl,i,t) = ƒCH4soil(Val Absl,i,t, Val Bbsl,i,t, ...)  
+Where:  
+ƒ(CH4_soilbsl,i,t) 
+= 
+Modeled methane emissions from soil 
+methanogenesis for quantification unit i in 
+year t in the baseline scenario (t CH4/ha) 
+ƒCH4soil 
+= 
+Model predicting methane emissions from 
+soil methanogenesis 
+Val Absl,i,t 
+= 
+Value of model input variable A for 
+quantification unit i at time t in the baseline 
+scenario (units unspecified) 
+Val Bbsl,i,t 
+= 
+Value of model input variable B for 
+quantification unit i at time t in the baseline 
+scenario (units unspecified) 
+See Box 1 for sources of data and description of measurement 
+methods and procedures to be applied to obtain values for model input 
+variables. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted annually or prior to each verification 
+event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+See VMD0053. 
+Purpose of data 
+Calculation of baseline and project emissions (QA1) 
+ 
+VM0051, v1.0 
+ 
+ 
+54 
+Calculation method 
+Methods are specific to model used. 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+ROAa 
+Data unit 
+t/ha 
+Description 
+Application rate of organic amendment type a, in dry weight of straw 
+and fresh weight for others 
+Equations 
+(7) 
+Source of data 
+Management records from project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. 
+In the baseline scenario, 5 t/ha of straw is assumed. This should be 
+adjusted where material changes in biomass management occur in the 
+project, such as increased biomass to soils. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season.  
+QA/QC procedures to be 
+applied 
+See Box 1. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Lt 
+Data unit 
+days 
+Description 
+Cultivation period of rice in year t 
+Equations 
+(8) 
+Source of data 
+Farm management records 
+In circumstances where climatic conditions result in a monitoring 
+period’s cultivation period lasting longer than the baseline cultivation 
+period, project proponents may set the baseline cultivation period 
+duration as the actual number of days in the cultivation period during 
+the monitoring period.   
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1.  
+Each cultivation period commences at land preparation and continues 
+until whichever comes later, harvest or post-season drainage. 
+ 
+VM0051, v1.0 
+ 
+ 
+55 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season.  
+QA/QC procedures to be 
+applied 
+See Box 1. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+ConcCH4,pt 
+Data unit 
+ppm 
+Description 
+Methane concentration in chamber at time pt 
+Equations 
+(9) 
+Source of data 
+Measured in the project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Appendix 2. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted annually or prior to each verification 
+event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+See Appendix 2. 
+Purpose of data 
+Calculation of baseline and project emissions (QA2) 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Volch 
+Data unit 
+liters 
+Description 
+Volume of chamber ch 
+Equations 
+(9) 
+Source of data 
+Measurements of the chamber based on the height, width and 
+length. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Appendix 2. 
+ 
+VM0051, v1.0 
+ 
+ 
+56 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+See Appendix 2. 
+Purpose of data 
+Calculation of baseline and project emissions (QA2) 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Tpt 
+Data unit 
+Kelvin 
+Description 
+Temperature at time pt 
+Equations 
+(9) 
+Source of data 
+Measured 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Appendix 2. 
+ 
+ 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted annually or prior to each verification 
+event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+See Appendix 2. 
+Purpose of data 
+Calculation of baseline and project emissions (QA2) 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Ach 
+Data unit 
+m2 
+Description 
+Basal area of chamber ch 
+Equations 
+(11) 
+Source of data 
+Measured 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Appendix 2. 
+Frequency of 
+monitoring/recording 
+Must be monitored once per chamber. 
+ 
+VM0051, v1.0 
+ 
+ 
+57 
+QA/QC procedures to be 
+applied 
+See Appendix 2. 
+Purpose of data 
+Calculation of baseline and project emissions (QA2) 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Nch 
+Data unit 
+Dimensionless 
+Description 
+Number of replicate chambers per sample unit 
+Equations 
+(12) 
+Source of data 
+Measured 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Appendix 2. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+See Appendix 2. 
+Purpose of data 
+Calculation of baseline and project emissions (QA2) 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+CFr 
+Data unit 
+fraction 
+Description 
+Combustion factor for rice straw expressed as proportion of pre-fire fuel 
+biomass consumed 
+Equations 
+(17), (23) 
+Source of data 
+Most recent version of IPCC guidelines (Table 2.6 in Chapter 2, Volume 
+4)  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+IPCC (2019) value: 0.80 
+Frequency of 
+monitoring/recording 
+Source of data for combustion factor must be monitored every five 
+years and must be updated when more accurate data applicable to the 
+project conditions become available.  
+ 
+VM0051, v1.0 
+ 
+ 
+58 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+EFCH4 
+Data unit 
+g CH4/kg dry matter burned 
+Description 
+Methane emission factor for the burning of rice straw 
+Equations 
+(17) 
+Source of data 
+Most recent version of IPCC guidelines (Table 2.5 in Chapter 2, Volume 
+4) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+IPCC (2019) value: 2.7 
+Frequency of 
+monitoring/recording 
+Source of data for the emission factor must be monitored every five 
+years and must be updated when more accurate data applicable to the 
+project conditions become available. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+ƒ(N2O_soilbsl,i,t) 
+Data unit 
+t N2O/ha 
+Description 
+Modeled nitrous oxide emissions from soil for quantification unit i in 
+year t in the baseline scenario, calculated by modeling soil fluxes of 
+nitrogen forms over the preceding year 
+Equations 
+(18) 
+Source of data 
+Modeled in the project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Modeled N2O emissions from soil in the baseline scenario are 
+determined according to the following equation:  
+ƒ(N2O_soilbsl,i,t) = ƒN2Osoil(Val Absl,i,t, Val Bbsl,i,t, … )  
+Where:  
+ 
+VM0051, v1.0 
+ 
+ 
+59 
+ƒ(N2O_soilbsl,i,t) 
+= 
+Modeled nitrous oxide emissions from soil for 
+quantification unit i in year t in the baseline 
+scenario (t N2O/ha) 
+ƒN2Osoil 
+= 
+Model predicting nitrous oxide emissions from 
+soils 
+Val Absl,i,t 
+= 
+Value of model input variable A for 
+quantification unit i at time t in the baseline 
+scenario (units unspecified) 
+Val Bbsl,i,t 
+= 
+Value of model input variable B for 
+quantification unit i at time t in the baseline 
+scenario (units unspecified) 
+See Box 1 for sources of data and description of measurement 
+methods and procedures to be applied to obtain values for model input 
+variables. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted annually or prior to each verification 
+event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+See VMD0053. 
+Purpose of data 
+Calculation of baseline and project emissions (QA1) 
+Calculation method 
+N/A 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+EFN 
+Data unit 
+(t N2O-N/t N applied) 
+Description 
+Emission factor for nitrous oxide emissions from nitrogen additions 
+from synthetic fertilizers, organic amendments, and crop residues in 
+flooded rice  
+Equations 
+(20) 
+Source of data 
+See Section 8.2.6 under Quantification Approach 3. Where no 
+information source is available that is applicable to the project 
+conditions, project proponents may derive emission factors following 
+the guidance in Chapter 11, Section 11.2.1.1 and Chapter 2, Section 
+2.2.2 in Volume 4 of IPCC (2019). Where project proponents justify a 
+lack of sufficient activity data and project-specific information sources, 
+an appropriate disaggregated Tier 1 value from Table 11.1, Chapter 11, 
+Volume 4 in IPCC (2019) may be selected.  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See “Source of data.”  
+Frequency of 
+monitoring/recording 
+Source of data for emission factor must be monitored every five years 
+and must be updated when more accurate data applicable to the 
+project conditions become available. 
+ 
+VM0051, v1.0 
+ 
+ 
+60 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None  
+ 
+Data/Parameter 
+SF 
+Data unit 
+dimensionless 
+Description 
+Synthetic nitrogen fertilizer type 
+Equations 
+(20) 
+Source of data 
+Determined in quantification unit i 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. Synthetic fertilizer type is determined prior to verification. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+NCSF 
+Data unit 
+t N/t fertilizer 
+Description 
+Nitrogen content of synthetic fertilizer type SF 
+Equations 
+(20) 
+Source of data 
+See Box 1. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N content is determined following the fertilizer manufacturer’s 
+specifications. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+Parameter value must be updated when synthetic fertilizer product is 
+changed or when new manufacturer specifications are issued. 
+ 
+VM0051, v1.0 
+ 
+ 
+61
+QA/QC procedures to be 
+applied 
+See “Source of data” and Quantification Approach 3 in Section 8.2.6. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Mbsl,SF,i,t 
+Data unit 
+tonnes 
+Description 
+Mass of nitrogen-containing synthetic fertilizer type SF applied to 
+quantification unit i in year t in the baseline scenario 
+Equations 
+(20) 
+Source of data 
+Management records from project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+OF 
+Data unit 
+dimensionless 
+Description 
+Organic nitrogen fertilizer type 
+Equations 
+(21) 
+Source of data 
+Determined in quantification unit i 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. Organic fertilizer type is determined prior to verification. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+ 
+VM0051, v1.0 
+ 
+ 
+62 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+NCOF 
+Data unit 
+t N/t fertilizer 
+Description 
+Nitrogen content of organic fertilizer type OF 
+Equations 
+(21) 
+Source of data 
+Peer-reviewed published data may be used. For example, default 
+manure N content may be selected from Edmonds et al. (2003) cited in 
+US EPA (2021) or other regionally appropriate sources such as the 
+European Environment Agency. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See “Source of data.” 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+Parameter value must be updated when organic fertilizer product is 
+changed or as new default values become available in peer-reviewed 
+publications or databases. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Mbsl,OF,i,t 
+Data unit 
+tonnes 
+Description 
+Mass of nitrogen-containing organic fertilizer type OF applied to 
+quantification unit i in year t in the baseline scenario 
+Equations 
+(21) 
+Source of data 
+Management records from project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. 
+ 
+VM0051, v1.0 
+ 
+ 
+63 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+CR 
+Data unit 
+dimensionless 
+Description 
+Crop residue type 
+Equations 
+(21) 
+Source of data 
+Determined in quantification unit i 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. Crop residue type is determined prior to verification. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+NCCR 
+Data unit 
+t N/t dry mass 
+Description 
+Nitrogen content in dry mass of crop residue type CR (above- and 
+belowground) before the rice season 
+Equations 
+(22) 
+Source of data 
+Peer-reviewed published data may be used.  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See “Source of data.” 
+ 
+VM0051, v1.0 
+ 
+ 
+64
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+Parameter value must be updated as new default values become 
+available in peer-reviewed publications or databases. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Mbsl,CR,i,t 
+Data unit 
+tonnes 
+Description 
+Total dry mass of crop residue returned to soils (aboveground and 
+belowground) before rice season in quantification unit i in year t in the 
+baseline scenario 
+Equations 
+(22) 
+Source of data 
+Management records from project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+For all equations, the subscript bsl must be substituted by wp where 
+the relevant values are being quantified for the monitoring period. 
+ 
+Data/Parameter 
+EFN2O 
+Data unit 
+g N2O/kg dry matter burned 
+Description 
+Nitrous oxide emission factor for the burning of rice straw 
+Equations 
+(23) 
+Source of data 
+Where no information source is available that is applicable to the 
+project conditions, project proponents may define value from the most 
+recent version of IPCC guidelines in Table 2.5 in Chapter 2, Volume 4 of 
+IPCC (2019). 
+ 
+VM0051, v1.0 
+ 
+ 
+65 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+IPCC (2019) default value: 0.07 
+Frequency of 
+monitoring/recording 
+Source of data for the emission factor must be monitored every five 
+years and must be updated when more accurate data applicable to the 
+project conditions become available. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+EFeu,r 
+Data unit 
+kg CO2e/t dry rice straw 
+Description 
+Emission factor for rice straw for off-farm end use category r 
+Equations 
+(24) 
+Source of data 
+Project proponents must derive suitable values for EFeu,r using evidence 
+including peer-reviewed literature, government records, production 
+facility records, survey data, publicly available life cycle analysis 
+databases, or reports compiled by industry associations.  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See guidance in Section 8.3.1. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season.  
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+RSremoved,r 
+Data unit 
+t d.m. 
+Description 
+Mass of rice straw removed from field and sent to end use category r 
+Equations 
+(24) 
+ 
+VM0051, v1.0 
+ 
+ 
+66 
+Source of data 
+See guidance in Section 8.3.1. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See guidance in Section 8.3.1. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+QN,i 
+Data unit 
+kg N/ha 
+Description 
+Application rate of nitrogen input for quantification unit i in the project 
+scenario 
+Equations 
+(25) 
+Source of data 
+Fertilizer application log books from farmers, surveys among farmers 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Box 1. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Consolidated purchase receipts may be used to check N inputs. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+M_OAwp,l,t 
+Data unit 
+tonnes 
+Description 
+Mass of organic amendment (from livestock type l) applied as fertilizer 
+in the project area in year t 
+Equations 
+(26) 
+ 
+VM0051, v1.0 
+ 
+ 
+67 
+Source of data 
+Management records from project area 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For manure application, data should be disaggregated for each 
+livestock type l. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of leakage 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+CCwp,l,t 
+Data unit 
+t C/t organic amendment 
+Description 
+Carbon content of organic amendment applied as fertilizer in the 
+project area in year t, disaggregated by livestock type I for manure  
+Equations 
+(26) 
+Source of data 
+See Box 1. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For manure application, data should be disaggregated for each 
+livestock type l. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted every five years or prior to each 
+verification event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of leakage 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+Pwp 
+Data unit 
+output (e.g., kg)/ha 
+Description 
+Average rice yield during the monitoring period 
+Equations 
+(27) 
+Source of data 
+Farm productivity (e.g., yield) records 
+ 
+VM0051, v1.0 
+ 
+ 
+68 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Measured using locally available technologies (e.g., mobile weighing 
+devices, commercial scales, storage volume measurements, fixed 
+scales, weigh scale tickets) 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted each season.  
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of leakage 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+RPwp 
+Data unit 
+output (e.g., kg)/ha 
+Description 
+Average regional rice yield during the monitoring period 
+Equations 
+(28) 
+Source of data 
+Regional productivity data from government (e.g., USDA Actual 
+Production History data), industry, published, academic, or international 
+organization (e.g., FAO) sources 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+Every 10 years 
+QA/QC procedures to be 
+applied 
+Guidance provided in IPCC (2003) Section 5.5 or IPCC (2000) Chapter 
+8 must be applied. 
+Purpose of data 
+Calculation of leakage 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+h 
+Data unit 
+dimensionless 
+Description 
+Stratum identifier 
+Equations 
+(35), (36) 
+Source of data 
+Determined in project area 
+ 
+VM0051, v1.0 
+ 
+ 
+69 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project fields are grouped by cultivation pattern; stratum h covers all 
+project fields with the same cultivation pattern. 
+Frequency of 
+monitoring/recording 
+Monitoring must be conducted annually or prior to each verification 
+event where verification occurs more frequently. 
+QA/QC procedures to be 
+applied 
+None 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+9.3 
+Description of the Monitoring Plan 
+Ongoing monitoring of project activities is required to ensure accurate and conservative 
+estimates of project emission reductions. While project activities are primarily implemented 
+during the rice cultivation period, parameters must be monitored continuously during the whole 
+year, including pre- and post-cultivation period.  
+Where possible, project proponents should employ digital monitoring, reporting, and verification 
+(DMRV) tools – in particular remote sensing – to enable efficient third-party validation and 
+verification of project data. Appendix 4 provides guidance on best practices for utilizing DMRV 
+for projects developed under this methodology.  
+Where discretion exists in the selection of a value for a parameter, the principle of 
+conservativeness must be applied (see the most recent version of the VCS Standard). 
+All projects must meet the requirements in Section 3.19 of the VCS Standard, v4.7 (or 
+equivalent section in the most recent version) with respect to environmental impacts. Examples 
+of potential negative environmental impacts of projects include harm to migratory bird 
+populations associated with reductions in winter flooding and challenges associated with the 
+introduction of genetically modified organisms. 
+9.3.1 Monitoring Plan 
+The main objective of monitoring is to quantify emissions of CO2, CH4, and N2O resulting from 
+the monitoring period during the verification period. 
+Project proponents must detail the procedures for collecting and reporting all data and 
+parameters listed in Section 9.2. The monitoring plan must contain at least the following 
+information: 
+1) Description of each monitoring task to be undertaken, and the technical requirements 
+therein 
+ 
+VM0051, v1.0 
+ 
+ 
+70 
+2) Definition of the accounting boundary, spatially delineating any differences in the 
+accounting boundaries and/or quantification approaches 
+3) Parameters to be measured, including any parameters required for the selected model 
+(additional to those specified in this methodology) 
+4) Data to be collected and data collection techniques and sample designs for directly 
+sampled parameters (for additional guidance see Appendices 1 and 2) 
+5) Ten-year baseline re-evaluation plan, detailing source of regional (sub-national) 
+agricultural production data and procedures to revise31 the baseline schedule of 
+activities 
+6) Quality assurance and quality control (QA/QC) procedures to: 
+a) ensure accurate data collection. 
+b) screen for, and where necessary, correct anomalous values. 
+c) ensure completeness. 
+d) perform independent checks on analysis results. 
+e) provide other safeguards as appropriate. 
+7) Data archiving procedures, including procedures for any anticipated updates to 
+electronic file formats. All data collected as a part of monitoring, including QA/QC data, 
+must be archived electronically and kept for at least two years after the end of the last 
+project crediting period. 
+8) Roles, responsibilities, and capacity of monitoring team and management 
+9) Modeling plan, where Quantification Approach 1 is applied. The project modeling plan 
+must describe: 
+a) the model(s) selected. 
+b) the datasets used for model validation and calibration, including their sources. 
+c) the baseline schedule of rice cultivation activities for each quantification unit 
+(fixed ex-ante).  
+It is expected that management data is collected across all project fields within the 
+quantification units in the project area according to the hierarchy outlined in Box 1, and as such 
+sampling error does not factor into uncertainty deductions. However, where management data 
+cannot be collected across the entire project area, sampling error must be accounted for. 
+Where management data cannot be collected across all project fields, project proponents must 
+justify the selected approach to collect data and follow guidance from the most recent version 
+ 
+31 Applicable to projects seeking crediting period renewal 
+ 
+VM0051, v1.0 
+ 
+ 
+71 
+of the CDM guidelines Sampling and Surveys for CDM Project Activities and Programmes of 
+Activities.32   
+9.3.2 Training and Technical Support 
+The project proponent must provide training and technical support to deliver appropriate 
+information and guidance to the farmer in field preparation, irrigation, drainage, use of 
+fertilizer, data collection, and other project implementation and monitoring requirements. Such 
+support must be documented in a verifiable manner at both validation and verification (e.g., 
+training protocol and documentation of on-site visits). 
+The training provided to project implementation staff and farmers must include training specific 
+to the eligible project activities being employed. Training must, at a minimum, cover all of the 
+eligible activities employed by the project and must provide holistic agronomic guidance 
+regarding the new cultivation system being deployed. For example, where a new cultivar is 
+introduced as part of the project, guidance must be given regarding any unique requirements 
+for optimum cultivation of the new cultivar.  
+9.3.3 Implementation of AWD  
+When implementing AWD as a project activity, project proponents must use the services of 
+professional experts with suitable qualifications and/or agronomic experience to develop 
+criteria specific to each stratum and/or rice variety with respect to the recommended depth 
+and duration for AWD drainage events. In developing guidance for the project farmers, the 
+expert must take into account the critical goal of ensuring yield does not decline by more than 
+5% as a result of implementing the AWD activities. Where it is recommended by the expert that 
+a region of the project should employ AWD to a depth of less than 10 cm below the soil level, 
+the project must use Quantification Approach 2 for any such areas of the project. Note that 
+where QA2 is applied, it is still necessary to ensure all project farmers are following the 
+agronomic guidance provided by the project proponent with respect to the appropriate depth 
+and duration of drainage specific to their strata. With respect to the timing of when AWD events 
+are to occur, it is recommended, but not required, that farmers undertake their first AWD 
+drainage event at least 21 days after the initial flood to ensure the pre-flood N application has 
+time to be absorbed and is not washed away. 
+ 
+ 
+32 Available at: https://cdm.unfccc.int/sunsetcms/storage/contents/stored-file-
+20151023152925068/Meth_GC48_%28ver04.0%29.pdf 
+ 
+VM0051, v1.0 
+ 
+ 
+72

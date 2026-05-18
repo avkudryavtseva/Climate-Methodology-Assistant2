@@ -1,0 +1,41 @@
+4 
+APPLICABILITY CONDITIONS 
+This methodology applies to project activities that adjust the number, type and husbandry of 
+grazing animals, adjust the frequency and intensity of planned or unplanned fires, and/or 
+introduce herbaceous grassland species as potential forage for grazing animals or to restore 
+degraded soils. 
+The methodology is applicable under the following conditions: 
+1) The project area must be grasslands in the baseline and project scenarios. 
+2) Lands are grazed and/or subject to fires in the baseline and/or project scenarios. Lands 
+may be used for different purposes, such as livestock production, conservation, hunting 
+or tourism. 
+3) The project must be structured to keep livestock within the project area, and the project 
+proponent must be able to enforce the boundaries of the project area.  
+4) The project must result in no net increase in the density of, or time spent by animals in 
+confined corrals where dung can pile up and begin to decompose anaerobically[5] and 
+result in CH4 and N2O emissions, such as an increase in the number of livestock 
+aggregated (eg, kept in corrals or pens) that would result in more than 50 percent of the 
+ground area covered by dung.2  
+5) Baseline emissions derived from livelihood-driven human impacts on aboveground 
+woody biomass (eg, cutting for fuel wood, charcoal or timber sales) must be deemed de 
+minimis (ie, not included in the cumulative 95 percent of total baseline emissions) and 
+project activities cannot significantly alter such livelihood-driven activities. 
+6) For projects that propose to modify grazing, the maximum individual project size3 is 3 
+million ha or 5 percent of a country’s land area currently or potentially used to graze 
+livestock, as judged by national government land use inventories or other documentation.  
+                                                
+2 This criterion is conservative relative to the conditions of dung accumulation that would result in significant 
+anaerobic decomposition 
+3 These constraints are designed to avoid market leakage, such as if a reduction in livestock created a meat or milk 
+shortage that would encourage overstocking of livestock elsewhere in a country 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 13 
+ 
+The methodology is not applicable under the following conditions: 
+ 
+Project activities that involve mechanical vegetation removal or soil tillage 
+ 
+The project area receives a net import of inorganic or organically-derived fertilizer

@@ -1,0 +1,183 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions must be determined following the procedures provided in the most recent 
+version of AMS-III.BM, with the inclusion of the procedures described below. 
+Option 1: Ex-post survey of baseline travel modes 
+Paragraphs (24), (25), (30), and (31) in Section 5.4 “Baseline Emissions” must read as follows: 
+24. The vehicle categories index i indicated in Step 1 of TOOL18 shall be included, and 
+“cycling” and “walking” should be considered as potential baseline “vehicle categories” 
+with an emission factor of zero. If some vehicle categories are not explicitly identified or 
+do not fit into the categories from the tool, they should be included in the survey as 
+“others” and baseline emissions of this category are counted as zero. The survey shall 
+be undertaken at locations of the project infrastructure and origin/destination of the 
+cycling trip shall be substituted for “entry/exit station” in TOOL18. The survey may be 
+conducted with a sample of users in the case of the bicycle sharing program or new 
+tricycles, e-bikes, e-tricycles, or other two- or three-wheeled e-vehicles. 
+25. When applying Step 4 of TOOL18, the following provisions shall apply: 
+… 
+(b) Parameter Di may be determined  
+(ii)  as an average value for bicycle, tricycle, e-tricycle, e-bike or other two- or 
+three-wheeled e-vehicle trips (as relevant) from official data or studies at the 
+city level; or 
+(iii)  by applying the default conservative value of 2.5 km for bicycle or tricycle 
+trips and 5 km for e-bike, e-tricycle, or other two- or three-wheeled e-vehicles 
+trips. 
+ 
+VMR0013, v1.0 
+ 
+9 
+Where multiple data sources are available, the most conservative values must be applied 
+unless a clear and well-documented justification is provided for using an alternative. 
+Option 2: Baseline emissions based on public transportation (excluding cars, taxis and 
+motorcycles) as benchmark 
+The procedures and requirements in AMS-III.BM. must be applied for Option 2. 
+Option 3: Based on a survey of users of e-bikes and users of bicycle sharing programs 
+30. Under this option, the baseline emission factor is determined through a survey of users 
+of e-bike or other two- or three-wheeled e-vehicle promotion programs or bicycle sharing 
+programs (EFBL,CO2,survey) and the distance traveled will be monitored for each user of the 
+programs (DTu,y). 
+31. … 
+Where: 
+… 
+DTu,y 
+= Total distance travelled by the individual user u of the bicycle 
+sharing program and/or of the promoted e-bikes and/or other 
+two- or three-wheeled e-vehicles in year y (km) 
+ EFBL,CO2 
+= Average CO2 emission factor per passenger-kilometer based on 
+survey conducted with users of e-bike and/or other two- or three-
+wheeled e-vehicles promotion programs or bicycle sharing 
+programs (tCO2/pkm) 
+ 
+For the introduction of e-bikes and/or other two- or three-wheeled e-vehicles in business-
+oriented activities (project type 9), the following paragraph additions are applicable in AMS-
+III.BM, Section 5.4 “Baseline emissions.” 
+Option 4: Based on monitored users of e-bikes and/or other two- or three-wheeled e-vehicles 
+This option is applicable to project type 9. 
+Under this option, the baseline emission factor is determined through the monitored data of 
+trips before the start date of the project activity (EFBL,CO2) and the distance traveled for each 
+user of the promoted programs (DTu,y). The monitored period considered for the determination 
+of the baseline emission factor is one year prior to the start date of the project activity. If less 
+than one full year of operational data is available, this option is not applicable. 
+Baseline emissions are determined through the following equation: 
+𝐵𝐸௬= 𝐸ܨ஻௅,஼ை2,௠௢௡௜௧௢௥ × ∑ܦܶ௨,௬
+௨
+ 
+(2a) 
+ 
+VMR0013, v1.0 
+ 
+10 
+Where: 
+BEy 
+= Baseline emissions in year y (t CO2) 
+DTu,y 
+= Total distance traveled by the individual user u of the promoted e-
+bikes and/or other two- or three-wheeled e-vehicles in year y (km) 
+EFBL,CO2,monitor 
+= Average CO2 emission factor based on monitored trips prior to the 
+start date of the project activity (t CO2/km) 
+ 
+The average CO2 emission factor (EFBL,CO2) is determined using information from one year of 
+monitored operation, prior to the start date of the project activity, applying the following steps: 
+Step 1: Determine the relevant vehicle categories 
+Only vehicles that are relevant to the business-oriented activities must be included. 
+(a) Bicycles 
+(b) Electric bicycles (e-bicycles, e-bikes) 
+(c) Motorcycles 
+(d) Electric motorcycles (e-motorcycles) 
+(e) Tricycles 
+(f) Electric tricycles (e-tricycles) 
+(g) Other two- or three-wheeled vehicles 
+(h) Other two- or three-wheeled e-vehicles 
+(i) On foot 
+(j) Passenger cars 
+(k) Other vehicle categories 
+Step 2: Determine the emission factor per kilometer for each relevant vehicle category 
+The parameter EFKM,i,x must be calculated using the most recent version of CDM TOOL18 
+Baseline emissions for modal shift measures in urban passenger transport, step 2, with the 
+following modifications: 
+The baseline year corresponds to the 12-month period immediately preceding the project start 
+date.  
+Step 3: Determine the average baseline emission factor per kilometer 
+For business-oriented activities the main objective of the personal transportation is the delivery 
+of a product or a service. Therefore, a single passenger per trip is assumed in all trips, i.e., 
+emission factor per passenger-kilometer is the same as the emission factor per kilometer. 
+ 
+VMR0013, v1.0 
+ 
+11 
+𝐸ܨ஻௅,஼ை2,௠௢௡௜௧௢௥= ∑𝐸ܨ௄ெ,௜,௫× ܦܶ௜,0
+ܦܶ0
+௜
+ 
+(2b) 
+Where: 
+EFBL,CO2,monitor 
+= 
+Average CO2 emission factor based on monitored trips prior to the start 
+date of the project activity (t CO2/km) 
+EFKM,i,x 
+= 
+Emission factor per kilometre of vehicle category i in year x (t CO2/km) 
+DTi,0 
+= 
+Total distance travelled using vehicle category i in the baseline year (km) 
+DT0 
+= 
+Total distance travelled in the baseline year (km) 
+8.2 
+Project Emissions  
+Project emissions must be determined following the procedures provided in the most recent 
+version of AMS-III.BM. applying the changes indicated in this section. 
+32. Project emissions are determined based on the amount of electricity consumed to recharge 
+the batteries of e-bikes, e-tricycles and other two- or three-wheeled e-vehicles (ECPJ,y) using 
+Equation (2) from VCS tool VT0010 Emissions from Electricity Consumption and 
+Generation. 
+33. The electricity consumed to recharge the batteries (ECPJ,y) may be determined by:  
+(a) Directly measuring the electricity consumed by all e-bikes,e-tricycles, and other two- or 
+three-wheeled e-vehicles included in the project; or  
+(b) Assuming a default consumption ECi,default and determining the electricity consumed 
+using the following equation: 5 
+𝐸ܥ௉௃,௬= ∑∑𝐸ܥ௜,ௗ௘௙௔௨௟௧× ܦܶ௜,௨,௬
+௨
+௜
+ 
+(3a) 
+Where: 
+ECPJ,y  
+= Quantity of electricity consumed to recharge the batteries of e-bikes, e-tricycles, 
+and other two- or three-wheeled e-vehicles in year y (kWh) 
+ECi,default  = Default quantity of electricity consumed to recharge the batteries of e-vehicle i 
+per kilometer traveled (kWh/km) 
+ 
+5 For projects developed under baseline scenario option 1, DTi,u,y is determined following the provisions from AMS-
+III.BM. Section 5.4.1, applying the updated procedures in Section 8.1. 
+ 
+VMR0013, v1.0 
+ 
+12 
+DTi,u,y 
+= Total distance traveled per e-vehicle i by the individual user u of the bicycle 
+sharing program and/or of the promoted e-bikes, e-tricycles, or other two- or 
+three-wheeled e-vehicles in year y (km) 
+Project proponents may propose the default amount of electricity consumed for other two- or 
+three-wheeled e-vehicles, based on transparent and documented evidence, including, but not 
+limited to: 
+(a) Relevant (sectoral) studies or surveys (e.g., market surveys, technology studies, etc.) 
+undertaken by universities, research institutions, industry associations, companies, 
+bilateral/multilateral institutions etc. 
+(b) Relevant statistical data from national or international statistics 
+(c) Written documentation of independent judgments from experts in industry, educational 
+institutions (e.g., universities, technical schools, training centers), industry associations, 
+and others 
+8.3 
+Leakage Emissions 
+Leakage emissions must be determined following the procedures provided in the most recent 
+version of AMS-III.BM. 
+8.4 
+Net Reductions and Removals 
+Estimated GHG emission reductions must be determined following the procedures provided in 
+the most recent version of AMS-III.BM.

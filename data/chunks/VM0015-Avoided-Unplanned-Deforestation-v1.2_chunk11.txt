@@ -1,0 +1,47 @@
+3 
+ 
+ 
+T 
+ 
+ 
+ 
+Table 19: Annual Areas Deforested in Each Zone Within the Leakage Belt in the Baseline 
+Case (Baseline Activity Data Per Zone) 
+iDz > 
+1 
+2 
+… 
+Z 
+Total baseline 
+deforestation in the 
+leakage belt 
+Name > 
+Zone 1 
+Zone 2 
+Zone 3 
+Zone Z 
+ABSLLKt 
+ABSLLK 
+Project 
+year t 
+ha 
+ha 
+ha 
+  
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+ 
+ 
+1 
+  
+  
+  
+  
+ 
+ 
+2

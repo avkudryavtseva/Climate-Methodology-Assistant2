@@ -1,0 +1,2696 @@
+10 REFERENCES 
+Achard et al., (2004). Presentation at UNFCCC Workshop in Rome on Reducing emissions from 
+deforestation. 
+Achard, F., Eva, H. D., Stibig, H. J., Mayaux, P., Gallego, J., Richards, T., & Malingreau, J. P. 
+(2002). Determination of deforestation rates of the world’s humid tropical forests. Science, 
+297(5583), 999–1002. https://doi.org/10.1126/science.1070656 
+Angelsen, A. & Kaimowitz, D. (1999). Rethinking the causes of deforestation: Lessons from 
+economic models. The World Bank Research Observer, 14(1), 73–98. 
+https://doi.org/10.1093/wbro/14.1.73 
+Brown, S. (1997). Estimating Biomass and Biomass Change of Tropical Forests: A primer. FAO 
+Forestry Paper 134, UN FAO. 
+Brown, S., & Dushku, A. (2003). Spatial modeling for LULUCF carbon projects: The GEOMOD 
+modeling approach. 2003 International Conference on Tropical Forests and Climate Change: 
+“Carbon Sequestration and the Clean Development mechanism”, Manila. October 21. 
+Brown, S., Hall, M. Andrasko, K., Ruiz, F., Marzoli, W., Guerrero, G., Masera, O., Dushku, A., 
+DeJong, B., & Cornell, J. (2007). Baselines for land-use change in the tropics: Application to 
+ 
+VM0015, v1.2 
+152 
+avoided deforestation projects. Mitigation and Adaptation Strategies for Climate Change, 12(6), 
+1001–1026. https://doi.org/10.1007/s11027-006-9062-5 
+Castillo-Santiago, M.A., Hellier, A., Tipper, R., & De Jong, B. H. J. (2007). Carbon emissions from 
+land-use change: A regional analysis of causal factors in Chiapas, México. Mitigation and 
+Adaptation Strategies for Global Change, 12(6), 1213–1235. https://doi.org/10.1007/s11027-
+006-9060-7 
+Chomitz, K. M., Buys, P., De Luca, C., Thomas, T. S., & Wertz-Kanounnikoff, S. (2006). At 
+loggerheads? Agricultural Expansion, Poverty Reduction, and Environment in the Tropical 
+Forests. World Bank Policy Research Report. 
+Congalton, R. G. (1991). A review of assessing the accuracy of classifications of remotely 
+sensed data. Remote Sensing of Environment, 37(1), 35-46. https://doi.org/10.1016/0034-
+4257(91)90048-B. 
+Cox, P. M., Betts, R. A., Jones, C. D., Spall, S. A., & Totterdell, I. J. (2000). Acceleration of global 
+warming due to carbon-cycle feedbacks in a coupled climate model. Nature, 408, 184–187. 
+https://doi.org/10.1038/35041539 
+De Jong, B. H.J., Hellier, A., Castillo-Santiago, M. A., & Tipper, R. (2005). Application of the 
+‘Climafor’ approach to estimate baseline carbon emissions of a forest conservation project in 
+the Selva Lacandona, Chiapas, Mexico. Mitigation and Adaptation Strategies for Global Change, 
+10(2), 265–278. https://doi.org/10.1007/s11027-005-7132-8 
+De Jong, B. H. J., Esquivel Bazán, E., & Quechulpa Montalvo, S. (2007). Application of the 
+“Climafor” baseline to determine leakage: The case of Scolel Té. Mitigation and Adaptation 
+Strategies for Global Change, 12(6), 1153–1168. https://doi.org/10.1007/s11027-006-9068-
+z 
+De Mendonça, M. J. C., del Carmen Vera Diaz, M., Nepstad, D., Seroa da Motta, R., Alentar, A., 
+Gomes, J. C., & Ortiz, R. A. (2004). The economic cost of the use of fire in Amazon. Ecological 
+Economics, 49(1), 89–105. https://doi.org/10.1016/j.ecolecon.2003.11.011 
+DeFries, R. S., Houghton, R. A., Hansen, M. C., Field, C. B., Skole, D., & Townshend, J. (2002). 
+Carbon emissions from tropical deforestation and regrowth based on satellite observations for 
+the 1980s and 1990s. Proceedings of the National Academy of Sciences, 99(22), 14256–
+14261. https://doi.org/10.1073/pnas.182560099 
+Figueroa, E. E. B., Kanninen, M., Louman, B., Pedroni, L., & Gómez, M. (2004). Contenido del 
+carbono en los productos y residuos forestales generados por el aprovechamiento y el aserrío 
+en la reserva de Biosfera Maya. Recursos Naturales y Ambiente, 41(2004), 102–110.  
+Freese, F. (1962). Elementary Forest Sampling. USDA Handbook 232. GPO. 
+ 
+VM0015, v1.2 
+153 
+Gillespie, A. J. R, Brown, S., & Lugo, A. E. (1992). Tropical forest biomass estimation from 
+truncated stand tables. Forest Ecology and Management, 48(1–2), 69–87. 
+https://doi.org/10.1016/0378-1127(92)90122-P 
+GOFC-GOLD (2010). A sourcebook of methods and procedures for monitoring and reporting 
+anthropogenic greenhouse gas emissions and removals caused by deforestation, gains and 
+losses of carbon stocks in forests remaining forests and forestation. Available at: 
+http://www.gofcgold.wur.nl/redd/sourcebook/GOFC-GOLD_Sourcebook.pdf 
+Houghton, R. A. (2006). Presentation at the UNFCCC Rome workshop on Reducing emissions 
+from deforestation. 
+Houghton, R. A. (2005). Aboveground forest biomass and the global carbon balance. Global 
+Change Biology, 11(6), 945–958. https://doi.org/10.1111/j.1365-2486.2005.00955.x 
+Intergovernmental Panel on Climate Change (1996). IPCC Guidelines for National Greenhouse 
+Gas Inventories. 
+Intergovernmental Panel on Climate Change (2003). Good Practice Guidance for Land Use, 
+Land Use-Change, and Forestry. 
+Intergovernmental Panel on Climate Change (2006). Guidelines for National Greenhouse Gas 
+Inventories, Volume 4, Agriculture, Forestry and Other Land Uses 
+Intergovernmental Panel on Climate Change (2007). Climate Change 2007, Physical Science 
+basis.  
+Lesschen, J. P., Verburg, P. H., & Staal, S. J. (2005). Statistical methods for analysing the spatial 
+dimension of changes in land use and farming systems. LUCC Report series No. 7, International 
+Livestock Research Institute and Wageningen University.  
+Loetsch, F., & Haller, K. (1964). Forest Inventory. Volume 1. BLV-Verlags Gesellschaft.  
+Malhi, Y., Baker, T.R., Phillips, O. L., Almeida, S., Alvarez, E., Arroyo, L., Chave, J., Czimczik, C. I., 
+Di Fiore, A., Higuchi, N., Killeen, T. J., Laurance, S. G., Laurance, W. F., Lewis, S. L., Mercado 
+Montoya, L. M., Monteagudo, A., Neill, D. A., Vargas, P. N., Patiño, S., Pitman, N. C. A., Quesada, 
+C. A., Silva, J. N. M., Lezama, A. T., Vásquez Martinez, R., Terborgh, J., Vinceti, B., & Lloyd, J. 
+(2004). The above-ground coarse wood productivity of 104 Neotropical forest plots. Global 
+Change Biology, 10(5), 563–591. https://doi.org/10.1111/j.1529-8817.2003.00778.x 
+Nobre, C. A., Sellers, P., & Shukla, J. (1991). Regional climate change and Amazonian 
+deforestation model. Journal of Climate, 4(10), 957–988. 
+Olander, L. P., Murry, B. C., Gibbs, H., & Steininger, M. (2006). Establishing credible national 
+baselines for efforts to reduce emissions from degradation and deforestation. Coalition for 
+Rainforest Nations. 
+ 
+VM0015, v1.2 
+154 
+Page, S. E., Siegert, F., Rieley, J. O., Boehm, H. D. V., Jaya, A., & Limin, S. (2002). The amount of 
+carbon released from peat and forest fires in Indonesia during 1997. Nature, 420, 61–65. 
+https://doi.org/10.1038/nature01131 
+Pearson, T., Walker, S., & Brown, S. (2005). Sourcebook for Land Use, Land Use Change and 
+Forestry Projects. BioCarbon Fund (World Bank) and Winrock International. 
+Pontius Jr., R. G., Peethambaram, S., & Castella, J. C. (2011). Comparison of three maps at 
+multiple resolutions: A case study of land change simulation in Cho Don District, Vietnam. 
+Annals of the Association of American Geographers, 101(1), 45–62. 
+https://doi.org/10.1080/00045608.2010.517742 
+Pontius Jr., R. G., & Chen, H. (2006). GEOMOD Modeling. Clark University. 
+Pontius Jr., R. G. (2002). Statistical methods to partition effects of quantity and location during 
+comparison of categorical maps at multiple resolutions. Photogrammetric Engineering and 
+Remote Sensing, 68(10), 1041–1049.  
+Pontius Jr., R. G., Cornell, J. D., & Hall, C. A. S. (2001). Modeling the spatial pattern of land-use 
+change within GEOMOD2: Application and validation for Costa Rica. Agriculture, Ecosystems 
+and Environment, 85(1–3), 191–203. https://doi.org/10.1016/S0167-8809(01)00183-9 
+Pontius Jr., R. G. (2000). Quantification error versus location error in comparison of categorical 
+maps. Photogrammetric Engineering and Remote Sensing, 66(8), 1011–1016. 
+Pontius Jr., R. G., Boersma, W., Castella, J.C., Clarke, K., de Nijs, T., Dietzel, C., Duan, Z., Fotsing, 
+E., Goldstein, N., Kok, K., Koomen, E., Lippitt, C. D., McConnell, W., Mohd Sood, A., Pijanowski, 
+B., Pithadia, S., Sweeney, S., Trung, T. N., Veldkamp, A. T., & Verburg, P. H. (2008). Comparing 
+the input, output, and validation maps for several models of land change. Annals of Regional 
+Science, 42(1): 11–37. https://doi.org/10.1007/s00168-007-0138-2 
+Pontius Jr., R. G., Walker, R., Yao-Kumah, R., Arima, E., Aldrich, S., Caldas, M. & Vergara, D. 
+(2007). Accuracy assessment for a simulation model of Amazonian deforestation. Annals of the 
+Association of American Geographers, 97(4), 677–695. https://doi.org/10.1111/j.1467-
+8306.2007.00577.x 
+Puyravaud, J. P. (2003). Standardizing the calculation of the annual rate of deforestation. 
+Forest Ecology and Management, 177(1–3), 593–596. https://doi.org/10.1016/S0378-
+1127(02)00335-3 
+Reyes, G., Brown, S., Chapman, J., & Lugo, A. E. (1992). Wood densities of tropical tree species. 
+USDA. 
+Santilli, M., Moutinho, P., Schwartzman, S., Nepstad, D., Curran, L. & Nobre C. (2005). Tropical 
+deforestation and the Kyoto Protocol. Climatic Change, 71, 267–276. 
+https://doi.org/10.1007/s10584-005-8074-6 
+ 
+VM0015, v1.2 
+155 
+Sathaye, J. A., & Andrasko, K. (2007). Land use change and forestry climate project regional 
+baselines: A review. Mitigation and Adaptation Strategies for Global Change, 12(6), 971–1000. 
+https://doi.org/10.1007/s11027-006-9061-6 
+Schlamandinger, B., Carlens, H., Bird, N., Emmer, I., Garcia-Quijano, J. F., Jara, L. F., Muys, B., 
+Robledo, C., Stilma, A., & Tennigkeit, T. (2006). Guiding principles for including avoidance of 
+emission from deforestation, forest degradation and devegetation (DDD) in the international 
+response to climate change. Submission by the ENCOFOR project team. Available at: 
+https://unfccc.int/resource/docs/2006/smsn/ngo/010.pdf 
+Siegert, F., Ruecker, G., Hinrichs, A., & Hoffmann, A. A. (2001). Increased damage from fires in 
+logged forests during droughts caused by El Niño. Nature, 414, 437–440. 
+https://doi.org/10.1038/35106547 
+Sierra, C. A., del Valle, J. I., Orrego, S. A., Moreno, F. H., Harmon, M. E., Zapata, M., Colorado, G. 
+J., Herrera, M. A., Lara, W., Restrepo, D. E., Berrouet, L. M., Loaiza, L. M., & Benjumea, J. F. 
+(2007). Total carbon stocks in a tropical forest landscape of the Porce region, Colombia. Forest 
+Ecology and Management, 243(2–3), 299–309. 
+https://doi.org/10.1016/j.foreco.2007.03.026 
+Silva-Dias, M. A. F., Rutledge, S., Kabat, P., Silva-Dias P. L., Nobre, C., Fisch, G., Dolman, A. J., 
+Zipser, E., Garstang, M., Manzi, A. O., Fuentes, J. D., Rocha, H. R., Marengo, J., Plana-Fattori, A., 
+Sá, L. D. A., Alvalá, R. C. S., Andreae, M. O., Artaxo, P., Gielow, R., & Gatti, L. (2002). Clouds and 
+rain processes in a biosphere-atmosphere interaction context in the Amazon Region. Journal of 
+Geophysical Research: Atmospheres, 107(D20), LBA39-1–LBA39-18. 
+https://doi.org/10.1029/2001JD000335 
+Smith, D. (1954). Maximum moisture content method for determining specific gravity of small 
+wood samples. Forest Products Laboratory, Forest Service, U.S. Department of Agriculture. 
+Soares-Filho, B. S., Nepstad, D. C., Curran, L. M., Cerqueira, G. C., Garcia, R. A., Ramos, C. A., 
+Voll, E., McDonald, A., Lefebvre, P., & Schlesinger, P. (2006). Modelling conservation in the 
+Amazon basin. Nature, 440, 520–523. https://doi.org/10.1038/nature04389 
+Timmermann, A., Oberhuber, J., Bacher, A., Esch, M., Latif, M., & Roeckner, E. (1999). Increased 
+El Niño frequency in a climate model forced by future greenhouse warming. Nature, 398, 694–
+697. https://doi.org/10.1038/19505 
+Trenberth, K. E., & Hoar, T. J. (1997). El Niño and climate change. Geophysical Research 
+Letters, 24(23), 3057–3060. https://doi.org/10.1029/97GL03092 
+Wenger, K.F. (ed). (1984). Forestry Handbook (2nd edition). John Wiley and Sons. 
+White A., Cannell, M. G. R., & Friend, A. D. (1999). Climate change impacts on ecosystems and 
+the terrestrial carbon sink: A new assessment. Global Environmental Change, 9(Suppl. 1), S21–
+S30. https://doi.org/10.1016/S0959-3780(99)00016-3 
+ 
+VM0015, v1.2 
+156 
+Winjum, J.K., Brown, S., & Schlamadinger, B. (1998). Forest harvests and wood products: 
+Sources and sinks of atmospheric carbon dioxide. Forest Science 44(2), 272–284. 
+https://doi.org/10.1093/forestscience/44.2.272 
+ 
+VM0015, v1.2 
+157 
+APPENDIX 1: NOTATIONS AND CHARTS 
+A1.1 Notations 
+ 
+ 
+A1.2 Activity-specific Charts 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+158 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+159 
+ 
+ 
+ 
+VM0015, v1.2 
+160 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+161 
+ 
+Project 
+Start Date  
+Threshold 
+of forest 
+definition 
+C/ha 
+time 
+Baseline Validity Period 
+H – Avoided Deforestation of Secondary Forest   
+with Logging in the Project Case  
+ 
+ 
+ 
+VM0015, v1.2 
+162 
+APPENDIX 2: TESTING SIGNIFICANCE OF 
+GHG EMISSIONS 
+The following stepwise procedure must be used to test the significance of GHG emissions. It is an 
+adaptation of the CDM Tool for testing the significance of GHG emissions in A/R CDM project activities, 
+v01. The procedure may be used to justify the omission of pools and GHG sources within the project 
+boundaries, as well as to justify the omission of GHG emissions resulting from leakage mitigation 
+measures.  
+The significance of GHG emissions by source and carbon stock changes by pool must be at minimum 
+tested ex ante to justify the project boundaries and at baseline reassessment. The significance of 
+leakage GHG emissions must be tested ex ante for the entire baseline validity period and ex post for a 
+specific monitoring period.  
+1) Define the period over which the significance will be tested (i.e., either a baseline validity 
+period for ex ante estimates or a specific monitoring period or annually for ex post estimates).  
+2) Identify and estimate the following where relevant:  
+a) GHG emissions by source (per each source) to be included and tested for the specified 
+period. Estimation must be based on site/project-specific data, scientific peer-reviewed 
+literature and/or the most recent default emission factors provided by IPCC.   
+b) GHG emissions attributable to net carbon stock changes by pool (per each pool to be 
+included and tested). The estimation of net carbon stock changes must follow the 
+methodology and be consistent with the baseline scenario and project activities. 
+Estimation must be based on site/project-specific data, scientific peer-reviewed 
+literature and/or the most recent default emission factors provided by IPCC. 
+c) Leakage GHG emissions by source attributable to project leakage mitigation measures 
+(i.e., net carbon stock changes in above- and belowground tree biomass, emissions 
+associated with biomass burning and nitrogen application) that the planned leakage 
+mitigation measures are expected to cause during the baseline validity period. 
+Estimation must follow sound procedures consistent with calculation approaches in the 
+applicable activity-type module(s). Estimation must be based on site/project-specific 
+data, scientific peer-reviewed literature and/or the most recent default emission factors 
+provided by IPCC.  
+3) Where needed, convert the GHG emissions to CO2e using 100-year global warming potential 
+(GWP) values from the latest version of the VCS Standard.   
+4) Calculate the relative contributions of the GHG emissions listed in Steps 2a–c above according 
+to the following equation:   
+𝑅𝐶𝐸𝑖=
+𝐸𝑖
+∑
+𝐸𝑖
+𝐼
+𝑖=1
+ 
+(A2) 
+ 
+VM0015, v1.2 
+163 
+ 
+Where:  
+RCEi 
+=  
+Relative contribution of each source i to the sum of project and leakage GHG 
+emissions 
+Ei 
+ 
+=  
+GHG project and leakage emissions for source i as estimated under Steps 2a–
+c above  
+i  
+=  
+Index for individual sources of project and leakage GHG emissions due to 
+leakage mitigation measures (I = total number of sources considered in 
+Step 2) 
+5) Rank the GHG emissions in descending order of their relative contributions RCEi and order them 
+according to their ranks (i.e., the lowest emission must get the highest rank and must occupy 
+the last position in the ordered sequence of leakage emissions).  
+6) Start calculating the cumulative sum of the relative contributions RCEi (ordered according to 
+Step 5), beginning with the lowest rank. Cease the summation when the cumulative sum 
+reaches the lowest value not less than the threshold of 0.95.  
+The GHG and project leakage emissions by source excluded from the cumulative sum in Step 6 are 
+considered insignificant where their total is lower than five percent of net anthropogenic GHG ERRs in 
+the project area. Otherwise, the procedure described in Step 6 must be continued beyond the threshold 
+of 0.95 until this condition is met. Even where they are insignificant, project proponents may include 
+any qualifying sources and sinks in the project case.  
+For the purposes of testing GHG emissions significance, the net GHG ERRs must be calculated before 
+discounting the cumulative GHG emissions resulting from leakage.  
+Significance test calculations must be summarized in the PD or monitoring reports and detailed in a 
+calculation spreadsheet to be shared with the VVB and Verra.  
+ 
+ 
+VM0015, v1.2 
+164 
+APPENDIX 3: METHODS TO ESTIMATE 
+CARBON STOCKS 
+A3.1 Sampling Framework 
+The sampling framework, including sample size, plot size, plot shape and plot location should be 
+specified in the PD.  
+Areas to be sampled in forest classes should be at locations expected to be deforested according to 
+baseline projections. 
+The sampling areas for non-forest classes should be selected within the reference region at locations 
+that represent a chrono-sequence of 10 to 30 years since the deforestation date.  
+A3.2 Temporary or Permanent Plots 
+Plots may be temporary or permanent depending on the specific project circumstances, interests and 
+needs, but in general temporary plots should be sufficient.  
+Where changes in carbon stocks are to be monitored, permanent sampling plots are recommended. 
+Permanent sample plots are generally regarded as statistically efficient in estimating changes in forest 
+carbon stocks because typically there is high covariance between observations at successive sampling 
+events. However, it should be ensured that the plots are treated in the same way as other lands within 
+the project boundary (e.g., during logging operations) and should not be destroyed over the monitoring 
+interval. Ideally, staff involved in forest management activities should not be aware of monitoring plot 
+locations. Where local markers are used, these should not be visible. Where trees markers are required 
+(e.g., if plots are also used for ecological or structural monitoring), these should be as inconspicuous as 
+possible and no bias in the treatment of plots compared to the surrounding forest must be granted. 
+Permanent plots may also be considered to reduce the uncertainty of average carbon density of a 
+forest class undergoing carbon stock changes due to management and to detect changes in carbon 
+stocks induced by climate change or large-scale natural disturbances. 
+A3.3 Definition of Sample Size and Allocation Among LU/LC Classes 
+The number of sample plots is estimated as dependent on accuracy, the variability of the parameter to 
+estimate in each class and costs. The sample size calculation also corresponds to the method of 
+samples drawn without replacement. Where at the beginning of a REDD project activity accurate data 
+for sample size estimation and allocation are not available, the sampling size may initially be estimated 
+by using a desired level of accuracy (10 percent of sampling error at 90 percent confidence level), and 
+ 
+VM0015, v1.2 
+165 
+by allocating the estimated sample size proportionally to the area of each class,43 using Eqs. (A3-1) and 
+(A3.2) respectively. Then, once data on carbon stock variability within each class become available, the 
+sample size and allocation is recalculated using the methodology described by Wenger (1984),44 which 
+also accounts for the cost of sampling (see Eqs. A3-3 and A3-4). 
+Eq. A3-1 was chosen because it works with percentages rather than absolute units (biomass, carbon or 
+CO2), and coefficient of variation data may be more easy to find in the literature at the beginning of a 
+project activity. The initial allocation of sample plots must be proportional to the area of LU/LC classes, 
+but with a minimum of 5 plots per class. The t student value for a 95 percent confidence level is 
+approximately equal to 2 when the number of sample plots is greater than 30. As the first step, use 2 
+as the t student value, and where the resulting n is less than 30, use the new n to get a new t student 
+value and conduct a new estimation of the sample size. This process may be repeated until the 
+calculated n is stabilized. 
+𝑛=
+𝑡𝑠𝑡
+2 ×(𝐶𝑉%)2
+(𝐸%)2+
+𝑡𝑠𝑡
+2 ×(𝐶𝑉%)2
+𝑁
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-1) 
+𝑛𝑐𝑙= 𝑛×
+𝑁𝑐𝑙
+𝑁 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-2) 
+Where: 
+cl 
+= 
+1, 2, 3, …., Cl LU/LC classes 
+Cl 
+= 
+Total number of LU/LC classes 
+tst 
+= 
+t student value for a 90 percent confidence level (initial value t = 2) 
+n 
+= 
+Total number of sample units to be measured (in all LU/LC classes) 
+E% 
+= 
+Allowable sample error in percentage (10%) 
+CV% 
+= 
+Highest coefficient of variation (%) reported in the literature from different volume or  
+biomass forest inventories in forest plantations, natural forests, agro-forestry and/or  
+silvo-pastoral systems 
+ni 
+= 
+Number of samples units to be measured in LU/LC class cl that is allocated in  
+proportion to class size; where estimated ncl < 3, set ncl = 3 
+Ni 
+= 
+Maximum number of possible sample units for LU/LC class cl, calculated by dividing the  
+area of class cl by the measurement plot area 
+N 
+= 
+Population size or maximum number of possible sample units (all LU/LC classes),  
+where 𝑁= ∑
+𝑁𝑐𝑙
+𝐶𝑙
+𝑐𝑙=1
+ 
+In Eq. (A3-3) the standard deviation of each LU/LC class (Scl) must be determined using the actual data 
+from the most recent field measurement. The allowable error is an absolute value, and may be 
+estimated as 10 percent of the observed overall average carbon stock per hectare. It is possible to 
+reasonably modify the LU/LC class limits and the sample size after each monitoring event based on the 
+actual variation in carbon stock changes determined from taking n sample plots. Where costs for 
+ 
+43 Loetsch, F., & Haller, K. (1964). Forest Inventory. Volume 1. BLV-Verlags Gesellschaft.  
+44 Wenger, K.F. (ed). (1984). Forestry Handbook (2nd edition). John Wiley and Sons. 
+ 
+VM0015, v1.2 
+166 
+selecting and measuring plots are not a significant consideration, the calculation and allocation of 
+sample size may be simplified by setting Ccl equal to 1 across all LU/LC classes. 
+𝑛= (
+𝑡𝑠𝑡
+𝐸)
+2
+[∑
+𝑊𝑐𝑙× 𝑆𝑐𝑙× √𝐶𝑐𝑙
+𝐶𝑙
+𝑐𝑙=1
+] × [∑
+𝑊𝑐𝑙× 𝑆𝑐𝑙/√𝐶𝑐𝑙
+𝐶𝑙
+𝑐𝑙=1
+] 
+ 
+ 
+ 
+ 
+ 
+(A3-3) 
+𝑛𝑐𝑙= 𝑛×
+𝑊𝑐𝑙×𝑆𝑐𝑙/√𝐶𝑐𝑙
+∑
+𝑊𝑐𝑙×𝑆𝑐𝑙/√𝐶𝑐𝑙
+𝐶𝑙
+𝑐𝑙=1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-4) 
+Where: 
+cl 
+= 
+1, 2, 3, … Cl LU/LC classes 
+Cl 
+= 
+Total number of LU/LC classes 
+tst 
+= 
+t student value for a 95 percent confidence level, with n − 2 degrees of freedom 
+E 
+= 
+Allowable error (10 percent of the mean) 
+Scl 
+= 
+Standard deviation of LU/LC class cl 
+ncl 
+= 
+Number of samples units to be measured in LU/LC class cl allocated in proportion to  
+Wcl × Scl / √Ccl. Where ncl < 3, set ncl= 3 
+Wcl 
+= 
+Ncl/N 
+n 
+= 
+Total number of sample units to be measured (in all LU/LC classes) 
+Ncl 
+= 
+Maximum number of possible sample units for LU/LC class cl, calculated by dividing the  
+area of LU/LC class cl by the measurement plot area 
+N 
+= 
+Population size or maximum number of possible sample units (all strata), 𝑁= ∑
+𝑁𝑐𝑙
+𝐶𝑙
+𝑐𝑙=1
+ 
+Ci 
+= 
+Cost to select and measure a plot of LU/LC class cl 
+A3.4 Sample Plot Size 
+The plot area a has major influence on sampling intensity, time and resources spent on field 
+measurements. The area of a plot depends on the stand density. Therefore, increasing the plot area 
+decreases the variability between two samples. According to Freese (1962),45 the relationship between 
+the coefficient of variation and plot area may be denoted as follows:  
+𝐶𝑉2
+2 = 𝐶𝑉1
+2√(𝑎1/𝑎2) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-5) 
+Where a1 and a2 represent different sample plot areas and their corresponding coefficient of variation 
+(CV). Thus, by increasing the sample plot area, variation among plots is reduced, permitting the use of 
+small sample sizes at the same precision level. Usually, the size of plots is between 100 m2 for dense 
+stands and 1000 m2 for open stands.46 
+ 
+45 Freese, F. (1962). Elementary Forest Sampling. USDA Handbook 232. GPO. 
+46 It is recommended to use sample plots of equal area for the strata. This methodology is not applicable where sample 
+plot areas vary within a stratum. The density of trees to be considered is that at tree maturity. 
+ 
+VM0015, v1.2 
+167 
+A3.5 Plot Location 
+To avoid subjective choice of plot locations (plot centers, plot reference points, movement of plot 
+centers to more “convenient” positions), permanent sample plots must be located either systematically 
+with a random start (which is considered good practice in IPCC GPG-LULUCF) or completely randomly 
+inside each defined stratum. This may be accomplished with the help of the project GIS platform and a 
+GPS in the field. The geographical position (GPS coordinate), administrative location, stratum and 
+stand, series number of each plot, as well as the procedure used for locating plots must be recorded 
+and archived.  
+Sampling plots should be as evenly distributed as possible. For example, where one stratum consists of 
+three geographically separated sites, it is proposed to:  
+1) Divide the total stratum area by the number of plots, resulting in the average area represented 
+by each plot. 
+2) Divide the area of each site by this average area per plot, and assign the integer part of the 
+result to this site (e.g., if the division results in 6.3 plots, then 6 plots are assigned to this site, 
+and 0.3 plots are carried over to the next site, and so on).  
+However, remote areas and areas with poor accessibility (either because of physical or social barriers 
+such as unsafe areas) may be excluded from sampling plot locations, using a transparent and 
+conservative procedure, such as creating a buffer zone along roads, paths or navigable rivers that may 
+be used for reaching the sampling plots. In this case, the representativeness of the plots for the 
+corresponding stratum must be ensured. 
+The exact total number of plots is unknown at the beginning of field sampling and thus a perfectly even 
+distribution of sampling plots is not possible. This is also the case where pre-existing inventory data are 
+used. Uneven distribution of sampling plots will be accepted provided that statistical 
+representativeness and the use of standard sampling techniques are applied, clearly reported and 
+archived. 
+A3.6 Estimation of Carbon Stocks 
+The total average carbon stock per hectare (carbon density) in an LU/LC class is estimated by the 
+following equation. 
+𝐶𝑡𝑜𝑡𝑐𝑙= 𝐶𝑎𝑏𝑐𝑙+ 𝐶𝑏𝑏𝑐𝑙+ 𝐶𝑑𝑤𝑐𝑙+ 𝐶𝑙𝑐𝑙+ 𝐶𝑠𝑜𝑐𝑐𝑙−𝐶𝑤𝑝𝑐𝑙 
+ 
+ 
+ 
+ 
+(A3-6) 
+Where: 
+Ctotcl 
+= 
+Average carbon stock per hectare in all accounted carbon pools of the LU/LC class cl  
+(t CO2e/ha) 
+Cabcl 
+= 
+Average carbon stock per hectare in aboveground biomass carbon pool of LU/LC class  
+cl (t CO2e/ha) 
+Cbbcl 
+= 
+Average carbon stock per hectare in belowground biomass carbon pool of LU/LC class  
+cl (t CO2e/ha) 
+ 
+VM0015, v1.2 
+168 
+Cdwcl 
+= 
+Average carbon stock per hectare in dead wood carbon pool of LU/LC class cl  
+(t CO2e/ha) 
+Clcl 
+= 
+Average carbon stock per hectare in litter carbon pool of LU/LC class cl (t CO2e/ha) 
+Csoccl = 
+Average carbon stock per hectare in soil organic carbon pool of LU/LC class cl  
+(t CO2e/ha) 
+Cwpcl 
+= 
+Average carbon stock per hectare in wood products carbon pool of LU/LC class cl 
+Note – Cwpcl is subtracted where cl is an initial pre-deforestation forest class in the baseline 
+case. It is added where cl is a final post-deforestation class or a forest class not deforested in 
+the project scenario. 
+A3.7 Estimation of Carbon Stocks in Living Biomass Carbon Pools (Cabcl 
+and Cbbcl) 
+In a forest, most of the carbon is stored in the tree component of living biomass. Hence, for the majority 
+of forest classes it is sufficient to estimate carbon stock in the tree component and to ignore carbon 
+stock in the non-tree vegetation component. 
+However, there may be situations where carbon stocks in the non-tree vegetation component are 
+significantly increased in the LU/LC classes adopted after deforestation (e.g., coffee plantations). Under 
+such circumstances, carbon stocks in the non-tree vegetation component should be estimated.47 
+The living biomass components that are measured and the minimum diameter at breast height (DBH) 
+above which trees are measured must be specified in the PD. 
+Carbon stocks in living biomass are given by the following equations: 
+𝐶𝑎𝑏𝑐𝑙= 𝐶𝑎𝑏𝑡𝑐𝑙+ 𝐶𝑎𝑏𝑛𝑡𝑐𝑙 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-7) 
+𝐶𝑏𝑏𝑐𝑙= 𝐶𝑏𝑏𝑡𝑐𝑙+ 𝐶𝑏𝑏𝑛𝑡𝑐𝑙 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-8) 
+Where: 
+Cabcl 
+= 
+Average carbon stock per hectare in aboveground biomass carbon pool of LU/LC class  
+cl (t CO2e/ha) 
+Cabtcl = 
+Average carbon stock per hectare in aboveground tree biomass carbon pool of LU/LC  
+class cl (t CO2e/ha) 
+Cabntcl 
+= 
+Average carbon stock per hectare in aboveground non-tree biomass carbon  
+pool of LU/LC class cl (t CO2e/ha) 
+Cbbcl 
+= 
+Average carbon stock per hectare in belowground biomass carbon pool of  
+LU/LC class cl (t CO2e/ha) 
+Cbbtcl 
+= 
+Average carbon stock per hectare in belowground tree biomass carbon pool of  
+LU/LC class cl (t CO2e/ha) 
+Cbbntcl 
+= 
+Average carbon stock per hectare in belowground non-tree biomass carbon  
+ 
+47 The same carbon pools are to be estimated for the two classes of an LU/LC-change category. 
+ 
+VM0015, v1.2 
+169 
+pool of LU/LC class cl (t CO2e/ha) 
+A3.8 Tree Component (Cabtcl and Cbbcl) 
+The carbon stock of trees may be estimated using: existing forest inventory data or direct field 
+measurements. 
+A3.8.1 Estimations using Forest Inventory Data 
+(See the most recent version of the GOFC-GOLD sourcebook for REDD for more detail.) 
+Forest inventory data typically come in two different forms: stand tables and stock tables. 
+A3.8.1.1 
+Stand Tables 
+Stand tables provide the number of trees in diameter (DBH) classes. The method basically involves 
+estimating the biomass per average tree of each diameter class of the stand table, multiplying by the 
+number of trees in the class, and summing across all classes. The mid-point diameter of a diameter 
+class should be used in combination with an allometric biomass regression equation (see Section 
+A3.8.2.1). 
+Stand tables often include trees with a minimum diameter of 30 cm or more, which essentially ignores 
+a significant amount of carbon particularly for younger or heavily logged forests. To overcome this 
+problem Gillespie et al. (1992) developed a technique that is used to estimate the number of trees in 
+lower diameter classes (see Box 1). 
+ 
+ 
+Box 1. Adding diameter classes to truncated stand tables 
+DBH Class 
+Midpoint 
+Diameter 
+Number of 
+Stems Per ha 
+(cm) 
+(cm) 
+(no.) 
+10–19 
+15 
+- 
+20–29 
+25 
+- 
+30–39 
+35 
+35.1 
+40–49 
+45 
+11.8 
+50–59 
+55 
+4.7 
+… 
+… 
+… 
+DBH class 1 = 30–39 cm, DBH class 2 =40–49 cm 
+ 
+VM0015, v1.2 
+170 
+A3.8.1.2 
+Stock Tables  
+Stock tables indicate the volume of merchantable timber by diameter class or total per hectare. Where 
+volume data are only available for commercial species, do not use them for estimating carbon stocks 
+because a large and unknown proportion of the total volume is excluded. 
+The biomass density may be calculated from volume over bark (VOB) by multiplying this value with the 
+biomass conversion and expansion factor (BCEF). When using this approach and default values of the 
+BCEF provided in the IPCC GL AFOLU, it is important that the definitions of VOB match. The values of 
+BCEF for tropical forests in the AFOLU report are based on a definition of VOB as follows: 
+“Inventoried volume over bark of free bole, i.e., from stump or buttress to crown point or first 
+main branch. Inventoried volume must include all trees, whether presently commercial or not, 
+with a minimum diameter of 10 cm at breast height or above buttress if this is higher”.  
+Values of the BCEF are given in Table 4.5 of the IPCC GL AFOLU guidelines, and those relevant to 
+tropical humid broadleaf and pine forests are shown in Table 66.  
+Table 66: Values of BCEF for Application to Volume Data 
+(Modified by GOFC-GOLD (2008) from Table 4.5 in IPCC GL AFOLU) 
+Forest Type 
+Growing Stock Volume Average and Range (VOB, m3/ha) 
+<20 
+21–40 
+41–60 
+61–80 
+80–120 
+120–200 
+>200 
+Natural 
+broadleaf 
+4.0 
+2.8 
+2.1 
+1.7 
+1.5 
+1.3 
+1.0 
+2.5–12.0 
+1.8–304 
+1.2–2.5 
+1.2–2.2 
+1.0–1.8 
+0.9–1.6 
+0.7–1.1 
+Conifer 
+1.8 
+1.3 
+1.0 
+0.8 
+0.8 
+0.7 
+0.7 
+1.4–2.4 
+1.0–1.5 
+0.8–1.2 
+0.7–1.2 
+0.6–1.0 
+1.6–0.9 
+0.6–0.9 
+In cases where the definition of VOB does not exactly match the definition given above, GOFC-GOLD 
+(2008) recommend the following: 
+1) Where the definition of VOB also includes stem tops and large branches, the lower bound of the 
+range for a given growing stock should be used. 
+2) Where the definition of VOB has a large minimum top diameter or the VOB is comprised of 
+trees with particularly high basic wood density, the upper bound of the range should be used. 
+Forest inventories often report volumes for trees above a minimum DBH. To include the volume of DBH 
+classes below the minimum DBH, GOFC-GOLD (2008) proposes volume expansion factors (VEF). 
+However, due to large uncertainties in the volume of smaller DBH classes, inventories with a minimum 
+diameter higher than 30 cm should not be used. Volume expansion factors range from about 1.1 to 2.5, 
+and are related to the VOB30 as follows to allow conversion of VOB30 to a VOB10 equivalent:  
+ 
+VM0015, v1.2 
+171 
+ 
+a) 
+For VOB30 < 250 m3/ha use the following equation: 
+𝑉𝐸𝐹= 𝑒𝑥𝑝 (1.300 −0.209 × 𝑙𝑛(𝑉𝑂𝐵30)) 
+ 
+ 
+ 
+ 
+(A3-9) 
+b) 
+For VOB30 > 250 m3/ha use VEF = 1.9  
+See Box 2 for a demonstration of the use of the VEF correction factor and BCEF to estimate biomass 
+density. 
+Box 2. Use of volume expansion factor (VEF) and biomass conversion and expansion factor 
+(BCEF) 
+Tropical broadleaf forest with a VOB30 = 100 m3/ha  
+1) Calculate the VEF: VEF = exp(1.300 − 0.209 × ln(100)) = 1.40  
+2) Calculate VOB10: VOB10 = 100 m3/ha × 1.40 = 140 m3/ha  
+3) Take BCEF from Table 67: BCEF for tropical hardwood with growing stock of 140 
+m3/ha = 1.3  
+4) Calculate above-ground biomass density: = 1.3 × 140 = 182 t/ha 
+ 
+Below-ground tree biomass (roots) is almost never measured, but instead is included through a 
+relationship to aboveground biomass (usually a root-to-shoot ratio). Where the vegetation strata 
+correspond with tropical or subtropical types listed in Table 67 (modified by GOFC-GOLD, 2008 from 
+Table 4.4 in IPCC GL AFOLU to exclude non-forest or non-tropical values and to account for incorrect 
+values) then it makes sense to include roots. 
+ 
+ 
+ 
+VM0015, v1.2 
+172 
+Table 67: Roots to Shoot Ratios 
+(Modified48 by GOFC-GOLD, 2008 from Table 4.4 in IPCC GL AFOLU) 
+Domain 
+Ecological Zone 
+Aboveground 
+Biomass 
+Root-to-shoot 
+Ratio  
+Range 
+Tropical 
+Tropical rainforest 
+<125 t/ha 
+0.20 
+0.09–0.25 
+>125 t/ha 
+0.24 
+0.22–0.33 
+Tropical dry forest 
+<20 t/ha 
+0.56 
+0.28–0.68 
+>20 t/ha 
+0.28 
+0.27–0.28 
+Subtropical 
+Subtropical humid forest 
+<125 t/ha 
+0.20 
+0.09–0.25 
+>125 t/ha 
+0.24 
+0.22–0.33 
+Subtropical dry forest 
+<20 t/ha 
+0.56 
+0.28–0.68 
+>20 t/ha 
+0.28 
+0.27–0.28 
+ 
+A3.8.2 Estimations Using Direct Field Measurements 
+Two methods are available to estimate the carbon stock of trees: allometric equations and biomass 
+expansion factors (BEF). The allometric equations method is preferred. However, where no biomass 
+equations are available for a given species or forest type, the BEF method must be used. 
+A3.8.2.1 
+Allometric Method 
+1) In the sample plots, identify the plot unique identification number and record the measurement 
+date. Then identify the tree species and identification numbers and measure the diameter at 
+breast height (DBH, at 1.3 m above ground), and where relevant (depending on the form of the 
+allometric equation) the height of all trees above a minimum DBH.  
+2) Choose or establish the appropriate allometric equations for each species or species group j. 
+𝑇𝐵𝑎𝑏𝑗= 𝑓𝑗(𝐷𝐵𝐻, 𝐻)𝑎𝑏  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-10) 
+Where: 
+TBabj 
+= 
+Aboveground biomass of a tree of species, species group or forest type  
+j (kg/tree) 
+ 
+48 The modification corrects an error in the table based on communications with Karel Mulroney, the lead author of the 
+peer reviewed paper from which the data were extracted. 
+ 
+VM0015, v1.2 
+173 
+Note – the unit (kg/tree) may instead be t/tree or t/ha, depending on the type of allometric 
+equation 
+fj(DBH,H)ab 
+= 
+Allometric equation for species, group of species or forest type j, linking  
+aboveground tree biomass (in kg/tree – see the note above) to  
+diameter at breast height (DBH) and possibly tree height (H) 
+The allometric equations are preferably locally derived and forest type-specific. Where 
+allometric equations developed from a biome-wide database are used,49 a few trees of different 
+species and sizes within the project area (or forest class), but outside the sample plots, must 
+be destructively harvested and their biomass estimated for comparison against the selected 
+equation. The number of trees to be felled depends on the number of species and the range of 
+size of trees that the model(s) will represent. As a general rule, there should be two trees 
+sampled for each 5 cm DBH width class. In case of mixed species natural forests, the sample 
+should represent all strata existing in the forest. Where the biomass estimated from the 
+harvested trees is within about 10 percent of that predicted by the equation, then the selected 
+equation may be deemed suitable for the project. Otherwise, full allometric models valid for the 
+project must be developed. In this case, the sample must be increased until obtaining an 
+appropriated statistical fit (all model variables should be statistically significant and the R2 of 
+the equation should be at least 0.7). Where resources permit, carbon content may be 
+determined in the laboratory. Finally, allometric equations are constructed relating the biomass 
+to values from easily measured variables, such as basal area or tree diameter and total height 
+(see Chapter 4.3 in GPG LULUCF). Generic allometric equations may be used where it is 
+demonstrated that they are conservative.  
+3) Estimate the carbon stock in aboveground biomass of all trees measured in the permanent 
+sample plots using the allometric equations selected or established for each species, group of 
+species or forest type. 
+𝑇𝐶𝑎𝑏𝑡𝑟= 𝑇𝐵𝑎𝑏𝑡𝑟× 𝐶𝐹𝑗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-11) 
+Where: 
+TCab,tr = 
+Carbon stock in aboveground biomass of tree tr (kg C/tree) or (t C/tree) 
+TBabtr = 
+Aboveground biomass of tree tr (kg/tree) or (t/tree) 
+CFj 
+= 
+Carbon fraction for tree tr of species, group of species or forest type j  
+(t C/t d.m.) 
+4) Calculate the carbon stock in aboveground biomass per plot on a per area basis. Calculate by 
+summing the carbon stock in aboveground biomass of all trees within each plot and multiplying 
+by a plot expansion factor that is proportional to the measurement plot area. Where carbon 
+stock is calculated in kilograms, divide by 1000 to convert to tonnes. 
+ 
+49 Such as those in Annex 4A.2, Tables 4.A.1 and 4.A.2 of GPG LULUCF 
+ 
+VM0015, v1.2 
+174 
+𝑃𝐶𝑎𝑏𝑝𝑙=
+∑
+𝑇𝐶𝑎𝑏𝑡𝑟×𝑋𝐹
+𝑇𝑅𝑝𝑙
+𝑡𝑟=1
+1000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-12) 
+𝑋𝐹= 10000/𝐴𝑃 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-13) 
+Where: 
+PCabpl = 
+Carbon stock in aboveground biomass in plot pl (t C/ha) 
+TCabtr = 
+Aboveground biomass of tree tr (kg/tree) or (t/tree) 
+XF 
+= 
+Plot expansion factor from per plot values to per hectare values (dimensionless) 
+AP 
+= 
+Plot area (m2) 
+tr 
+= 
+1, 2, 3, …, TRpl number of trees in plot pl (dimensionless) 
+5) Calculate average carbon stock by averaging across all plots within an LU/LC class. 
+𝐶𝑎𝑏𝑐𝑙=
+44
+12 ×
+∑
+𝑃𝐶𝑎𝑏𝑝𝑙
+𝑃𝐿𝑐𝑙
+𝑝𝑙=1
+𝑃𝐿𝑐𝑙
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-14) 
+Where: 
+Cabcl 
+= 
+Average carbon stock per hectare in aboveground biomass in LU/LC class cl  
+(t CO2e/ha) 
+PCabpl = 
+Carbon stock in aboveground biomass in plot pl (t C/ha) 
+44/12 = 
+Ratio converting C to CO2e 
+pl 
+= 
+1, 2, 3, …, PLcl plots in LU/LC class cl (dimensionless) 
+PLcl 
+= 
+Total number of plots in LU/LC class cl (dimensionless) 
+6) Estimate carbon stock in belowground biomass of tree tr using root-shoot ratios and 
+aboveground carbon stock and apply Steps 4 and 5 to belowground biomass.  
+𝑇𝐶𝑏𝑏𝑡𝑟= 𝑇𝐶𝑎𝑏𝑡𝑟× 𝑅𝑗  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-15) 
+𝑃𝐶𝑏𝑏𝑝𝑙=
+∑
+𝑇𝐶𝑏𝑏𝑡𝑟
+𝑇𝑅
+𝑡𝑟=1
+ × 𝑋𝐹
+1000
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-16) 
+𝐶𝑏𝑏𝑐𝑙=
+44
+12 ×
+∑
+𝑃𝐶𝑏𝑏𝑝𝑙
+𝑃𝐿𝑙
+𝑝𝑙=1
+𝑃𝐿𝑙
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-17) 
+Where:  
+TCbbtr = 
+Carbon stock in belowground biomass of tree tr (kg C/tree) or (t C/tree) 
+TCabtr = 
+Carbon stock in aboveground biomass of tree tr (kg C/tree) or (t C/tree) 
+Rj 
+= 
+Root-shoot ratio appropriate for species, group of species or forest type j 
+(dimensionless) 
+PCbbpl = 
+Carbon stock in belowground biomass in plot pl (t C/ha) 
+XF 
+= 
+Plot expansion factor from per plot values to per hectare values 
+tr 
+= 
+1, 2, 3, …, TRpl number of trees in plot pl (dimensionless) 
+Cbbcl 
+= 
+Average carbon stock per hectare in belowground biomass in LU/LC class cl  
+(t CO2e/ha) 
+44/12 = 
+Ratio converting C to CO2e 
+pl 
+= 
+1, 2, 3, …, PLl plots in LU/LC class cl (dimensionless) 
+ 
+VM0015, v1.2 
+175 
+PLcl 
+= 
+Total number of plots in LU/LC class cl (dimensionless) 
+ 
+A3.8.2.2 
+Biomass Expansion Factor (BEF) Method 
+1) In the sample plots, identify the plot unique identification number and record the measurement 
+date. Then identify the tree species and identification numbers and measure the diameter at 
+breast height (DBH, at 1.3 m above ground), and depending on the form of the volume 
+equation, the height of all the trees above a minimum DBH.  
+2) Estimate the volume of the commercial component of each tree based on locally derived 
+equations by species, species group or forest type. Then, sum for all trees within a plot, and 
+express as commercial volume per unit of area (m3/ha). These steps may be combined where 
+there are available field instruments that measure volume per hectare directly (e.g., a Bitterlich 
+relascope). Volume per plot is an ancillary variable and may be needed in some cases to 
+estimate the proper biomass expansion factor or the root-shoot ratio.50 
+𝑉𝑡𝑟= 𝑓𝑗(𝐷𝐵𝐻, 𝐻)𝑣 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-18) 
+𝑉𝑝𝑙= ∑
+𝑉𝑡𝑟× 𝑋𝐹
+𝑇𝑅
+𝑡𝑟=1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-19) 
+𝑋𝐹=
+10 000
+𝐴𝑃 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-20) 
+Where: 
+Vtr 
+ 
+= 
+Commercial volume of tree tr (m3/tree) 
+Vpl 
+ 
+= 
+Commercial volume of plot pl (m3/plot) 
+fj(DBH,H)V 
+= 
+Commercial volume equation for species or species group j, linking  
+commercial volume to diameter at breast height (DBH) and possibly  
+tree height (H) 
+tr 
+ 
+= 
+1, 2, 3, …, TRp number of trees in plot p (dimensionless) 
+XF 
+ 
+= 
+Plot expansion factor from per plot values to per hectare values 
+AP 
+ 
+= 
+Plot area (m2) 
+3) Choose a biomass expansion factor (BEF) and a root-shoot ratio (R). The BEF and root-shoot 
+ratio vary with local environmental conditions, forest type, species and age of trees, and the 
+volume of the commercial component of trees, therefore, they should be calculated for each 
+plot in a given LU/LC class. Use the result from (2) above to choose them.  
+These parameters may be determined by either developing a local regression equation or 
+selecting from national inventory, Annex 3A.1 Table 3A.1.10 of GPG LULUCF, or from published 
+sources.  
+Where a significant amount of effort is required to develop local BEFs and root-shoot ratios, 
+involving, for instance, harvest of trees, this method is not recommended. Instead, the 
+ 
+50 See for example Brown, S. (1997). Estimating Biomass and Biomass Change of Tropical Forests: A Primer. FAO 
+Forestry Paper 134, UN FAO. 
+ 
+VM0015, v1.2 
+176 
+resources should be used to develop local allometric equations as described in the allometric 
+method above (refers to Chapter 4.3 in GPG LULUCF). Where this is not possible either, national 
+species-specific defaults for BEF and R may be used. Since both BEF and the root-shoot ratio 
+(R) are age or stand density-dependent, use of age-dependent or stand density-dependent 
+equations (for example, volume per hectare) is preferred. Stem wood volume may be very small 
+in young stands and BEF may be very large, while for old stands BEF is usually significantly 
+smaller. Therefore using average BEF values may result in significant errors for both young 
+stands and old stands. It is preferable to use allometric equations, if the equations are 
+available, and as a second-best solution, to use age-dependent or stand density-dependent 
+BEFs (but for very young trees, multiplying a small number for stem wood with a large number 
+for BEF may result in significant error). 
+4) Convert the volume of the commercial component of each tree in a plot into carbon stock in 
+aboveground biomass and belowground biomass per tree via basic wood density, BEF, root-
+shoot ratio and carbon fraction (applicable to the species): 
+𝑇𝐶𝑎𝑏𝑡𝑟= 𝑉𝑡𝑟× 𝐷𝑗× 𝐵𝐸𝐹𝑝𝑙× 𝐶𝐹𝑗 
+ 
+ 
+ 
+ 
+ 
+(A3-21) 
+𝑇𝐶𝑏𝑏𝑡𝑟= 𝑇𝐶𝑎𝑏𝑡𝑟× 𝑅𝑗,𝑝𝑙,𝑡𝑟 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-22) 
+Where: 
+TCabtr 
+= 
+Carbon stock in aboveground biomass of tree tr (kg C/tree) 
+TCbbtr 
+= 
+Carbon stock in belowground biomass of tree tr (kg C/tree) 
+Vtr 
+= 
+Commercial volume of tree tr (m3/tree) 
+Dj 
+= 
+Wood density for species j; see IPCC GPG-LULUCF, 2003 Table 3A.1.9  
+or USDA wood density table51 (t d.m./m3) 
+BEFpl 
+= 
+Biomass expansion factor for converting volumes of extracted round  
+wood to total aboveground biomass (including bark), applicable to tree  
+tr in plot p (dimensionless) 
+CFj 
+= 
+Carbon fraction applicable to tree tr of species j (t C/t d.m.) 
+Rj,pl,tr 
+= 
+Root-shoot ratio, applicable to tree tr of species j in plot p  
+(dimensionless) 
+5) Continue with Section A3.8.A3.8.2.1 Step (4) of the allometric equation method to calculate the 
+carbon stock in aboveground and belowground biomass by aggregating successively at the 
+tree, plot and LU/LC class levels. 
+A3.9 Non-tree Component (Cabntcl and Cbbntcl) 
+In tropical forests, non-tree vegetation includes palms, shrubs, herbaceous plants, lianas and other 
+epiphytes. These types of plants are difficult to measure. Unless they form a significant component of 
+ 
+51 Reyes et al., (1992). Wood Densities of Tropical Tree Species. USDA. 
+ 
+VM0015, v1.2 
+177 
+the ecosystem, they should not be measured, which is conservative as their biomass is usually much 
+reduced in the LU/LC classes adopted after deforestation. 
+Carbon stock estimations for non-tree vegetation components are usually based on destructive 
+harvesting, drying and weighing. These methods are described in the Sourcebook for LULUCF projects 
+(Pearson et al., 2005) from which most of the following explanations are taken. 
+For herbaceous plants, a square frame of 1 m2 made from PVC pipe or another appropriated material is 
+sufficient for sampling. For shrubs and other large non-tree vegetation, similar or larger frames should 
+be used (about 1–2 m2, depending on the size, distribution and frequency of this vegetation). 
+Allometric equations may be developed for specific forest species (e.g., bamboo) or crop types (e.g., 
+coffee). When using destructive sampling, apply the following steps: 
+1) Place the clip frame at the sampling site. Where necessary, open the frame and place around 
+the vegetation. 
+2) Clip all vegetation within the frame to ground level. Cut everything growing within the quadrat 
+(ground surface not three-dimensional column) and sample this. 
+3) Weigh the sample and remove a well-mixed sub-sample for determination of dry-to-wet mass 
+ratio. Weigh the sub-sample in the field, then oven-dry to constant mass (usually at ~70 °C). 
+4) Calculate the dry mass of each sample. Where a sub-sample was taken for determination of 
+moisture content use the following equation: 
+𝐷𝑟𝑦 𝑚𝑎𝑠𝑠= (
+𝑠𝑢𝑏𝑠𝑎𝑚𝑝𝑙𝑒 𝑑𝑟𝑦 𝑚𝑎𝑠𝑠
+𝑠𝑢𝑏𝑠𝑎𝑚𝑝𝑙𝑒 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑠𝑠) × 𝑓𝑟𝑒𝑠ℎ 𝑚𝑎𝑠𝑠 𝑜𝑓 𝑤ℎ𝑜𝑙𝑒 𝑠𝑎𝑚𝑝𝑙𝑒 
+ 
+ 
+(A3-23) 
+5) The carbon stock in aboveground non-tree biomass per hectare is calculated by multiplying the 
+dry mass by an expansion factor calculated from the sample-frame or plot size and then by 
+multiplying by the carbon fraction and CO2/C ratio. To calculate the average carbon stock per 
+LU/LC class, average over all samples as follows: 
+𝐶𝑎𝑏𝑛𝑡𝑐𝑙=
+∑
+𝐷𝑀𝑝𝑙×𝑋𝐹×𝐶𝐹𝑝𝑙×44/12
+𝑃𝐿𝑐𝑙
+𝑝𝑙=1
+𝑃𝐿𝑐𝑙
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-24) 
+Where: 
+Cabntcl = 
+Average carbon stock per hectare in aboveground non-tree biomass carbon  
+pool of LU/LC class cl (t CO2e/ha) 
+DMpl 
+= 
+Dry mass of sample pl (t d.m.) 
+XF  
+= 
+Plot expansion factor = [10.000 / Plot Area (m2)] (dimensionless) 
+CFpl 
+= 
+Carbon fraction of sample pl (t C/t d.m.) 
+44/12 = 
+Ratio converting C to CO2e 
+pl  
+= 
+1, 2, 3, …, PLpl plots in LU/LC class cl (dimensionless) 
+PLcl  
+= 
+Total number of plots in LU/LC class cl (dimensionless) 
+6) The carbon stock per hectare of belowground non-tree biomass is calculated by multiplying 
+the estimated aboveground estimate by an appropriate root to shoot ratio. 
+ 
+VM0015, v1.2 
+178 
+A3.10 Estimation of Carbon Stocks in Dead Wood Carbon Pool (Cdwcl) 
+Carbon stocks in the dead wood carbon pool may be significant in forest classes although are usually 
+insignificant or zero in most agricultural and pastoral LU/LC classes. However, where burning is used to 
+clear slash, dead wood may be a significant component of carbon stocks in agricultural/pasture lands, 
+especially in the short term. Therefore, in most cases it is conservative to ignore the dead wood carbon 
+pool.  
+Dead wood comprises two types: standing dead wood and lying dead wood. Different sampling and 
+estimation procedures are used to estimate the carbon stocks of the two components. 
+𝐶𝑑𝑤𝑐𝑙=  𝐶𝑠𝑑𝑤𝑐𝑙 +  𝐶𝑙𝑑𝑤𝑐𝑙 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-25) 
+Where: 
+Cdwcl 
+= 
+Average carbon stock per hectare in dead wood carbon pool of LU/LC class cl ( 
+t CO2e/ha) 
+Csdwcl = 
+Average carbon stock per hectare in standing dead wood carbon pool of LU/LC class cl  
+(t CO2e/ha) 
+Cldwcl = 
+Average carbon stock per hectare in lying dead wood carbon pool of LU/LC class cl (t  
+CO2e/ha) 
+Standing dead wood must be measured using the sampling criteria and monitoring frequency used for 
+measuring live trees. Lying dead wood must be measured using the transect method as explained 
+below. The description of the method to measure lying dead wood is taken from Harmon and Sexton 
+(1996). 
+A3.10.1 
+Standing Dead Wood (Csdwcl) 
+1) Within the plots delineated for live trees, the diameter at breast height (DBH) of standing dead 
+trees may also be measured. The standing dead wood is categorized under the following four 
+decomposition classes: 
+a) Tree with branches and twigs that resemble a live tree (except for leaves); 
+b) Tree with no twigs, but with persistent small and large branches; 
+c) Tree with large branches only; 
+d) Bole (trunk) only, no branches. 
+2) For classes 2, 3 and 4, the height of the tree (H) and the diameter at ground level should be 
+measured and the diameter at the top should be estimated. Height may be measured using a 
+clinometer. 
+3) Top diameter may be estimated using a relascope or through the use of a transparent 
+measuring ruler. Hold the ruler approximately 10–20 cm from your eye and record the 
+apparent diameter of the top of the tree. The true diameter is equal to: 
+𝑇𝑟𝑢𝑒 𝑑𝑖𝑎𝑚𝑒𝑡𝑒𝑟(𝑚) =
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑒𝑦𝑒 𝑡𝑜 𝑡𝑟𝑒𝑒(𝑚)
+𝐷𝑖𝑠𝑡𝑎𝑛𝑐𝑒 𝑒𝑦𝑒 𝑡𝑜 𝑟𝑢𝑙𝑒𝑟(𝑚) × 𝑅𝑢𝑙𝑒𝑟 𝑚𝑒𝑎𝑠𝑢𝑟𝑒𝑚𝑒𝑛𝑡(𝑚)  
+(A3-26) 
+Distance may also be measured with a laser range finder. 
+ 
+VM0015, v1.2 
+179 
+4) For decomposition class 1, the carbon content of each dead tree is estimated using the 
+allometric or BEF methods applied for live trees and by subtracting out the biomass of 
+leaves (about 2–3 percent of aboveground biomass for hardwood/broadleaf species and 
+5–6 percent for softwood/conifer species).  
+5) For classes 2, 3 and 4, where it is not clear what proportion of the original biomass has 
+been lost, it is conservative to estimate the biomass of just the bole (trunk) of the tree. The 
+volume is calculated using DBH and height measurements and the estimate of the top 
+diameter, and estimated as the volume of a truncated cone: 
+𝑉𝑜𝑙𝑢𝑚𝑒(𝑚3) = 1/3 × 𝜋× 𝐻× (𝑟1
+2 + 𝑟2
+2 + 𝑟1 × 𝑟2)  
+ 
+ 
+ 
+(A3-27) 
+Where: 
+H = 
+Height of tree (m) 
+r1 = 
+Radius at base of tree (m) 
+r2 = 
+Radius at top of tree (m) 
+The volume is converted to dry biomass using the appropriate wood density Dj and then to 
+carbon dioxide equivalents using the carbon fraction Cuff and CO2/C ratio (44/12), as in 
+the BEF method, but ignoring the biomass expansion factor. 
+6) To aggregate the carbon stock of each standing dead tree at the plot level and then at the 
+LU/LC class level, continue with Step (4) of the allometric equation method (Section 
+A3.8.2.1).  
+A3.10.2 
+ Lying Dead Wood (Cldwcl) 
+Lying dead wood is most efficiently measured using the line-intersect method. Only coarse dead wood 
+above a predefined minimum diameter (e.g., greater than 10 cm) is measured with this method – dead 
+wood of smaller diameters may be measured with litter. 
+1) At each plot location, lay out two lines of 50 meters either in a single line or at right angles. The 
+lines should be outside the boundaries of the plot to avoid damage to seedlings in the plots 
+during measurement, and to avoid biasing the dead wood pool by damaging during tree 
+measurement. Alternatively, separate and independent sampling of lying dead wood may be 
+used, in which case dead wood transects must be randomly located (to avoid subjective choice 
+of plot locations), without sample replacement, using the same procedure used for live trees.52 
+Their location must be permanently marked and their coordinates reported. 
+2) Along the length of the lines, measure the diameter of each intersecting piece of coarse dead 
+wood above a predefined minimum diameter (e.g., greater than 10 cm). Calipers work best for 
+measuring the diameter. A piece of dead wood should only be measured where: (a) more than 
+50 percent of the log is aboveground and (b) the sampling line crosses through at least 50 
+percent of the diameter of the piece. Where the log is hollow at the intersection point, measure 
+the diameter of the hollow: the hollow portion in the volume estimates should be excluded. 
+ 
+52 Using this alternate approach, transects may be located in places distant to live tree plots, increasing sampling costs. 
+Even where lying dead wood stocks are very homogeneous in all strata, implying that fewer samples will be required, the 
+cost of additional displacements and work is unlikely to compensate for the decrease in sample size. 
+ 
+VM0015, v1.2 
+180 
+3) Assign each piece of dead wood to one of the three following density classes: 
+a) Sound 
+b) Intermediate 
+c) Rotten 
+4) To determine which density class a piece of dead wood fits into, each piece should be struck 
+with a machete. If the blade does not sink into the piece (that is, it bounces off), it is classified 
+as sound. If it sinks partly into the piece and there has been some wood loss, it is classified as 
+intermediate. If the blade sinks into the piece, there is more extensive wood loss and the piece 
+is crumbly, it is classified as rotten. 
+5) At least 10 random dead wood samples of each three density classes, representing a range of 
+species present, should be collected for density determination. This determination may be 
+accomplished using the maximum moisture content method (Smith, 1954), which does not 
+require sample volume determination. Using a chainsaw or a handsaw, cut a compete disc or a 
+piece of reasonable size from the selected piece of dead wood and bring to the laboratory for 
+wood density determination. 
+6) Submerge wood samples in water until saturation is reached. Weigh saturated samples. Then, 
+dry samples at 105 °C for 26 hours. Extract and weigh samples again, quickly withdrawing 
+samples from oven immediately before weighing so that no moisture is absorbed by dried 
+samples before weighing. 
+7) Calculate the wood density for each density class (sound, intermediate, rotten) from the pieces 
+of dead wood collected. Density is calculated by the following equation: 
+𝐷𝑚=
+1
+𝑝𝑠−𝑝𝑜
+𝑝𝑜+ 1
+1.53
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-28) 
+Where: 
+Dm 
+= 
+Deadwood density (g/cm3) 
+Ps 
+= 
+Saturated weight of sample (g) 
+Po 
+= 
+Anhydrous weight of sample (g) 
+1.53 
+= 
+Wood density constant 
+Average the densities to get a single density value for each class. 
+8) For each density class, the volume is calculated separately as follows: 
+𝑉𝑜𝑙𝑢𝑚𝑒(𝑚3/ℎ𝑎) = 𝜋2 × (
+𝑑12+𝑑22+⋯+𝑑𝑛2
+8×𝐿
+)  
+ 
+ 
+ 
+ 
+ 
+(A3-29) 
+Where: 
+d1, d2, ..., dn 
+= 
+Diameters of intersecting pieces of dead wood (cm) 
+L 
+ 
+= 
+Length of the line (m) 
+9) The per hectare carbon stock in the lying dead wood carbon pool of each LU/LC class is 
+calculated as follows: 
+ 
+VM0015, v1.2 
+181 
+𝐶𝑙𝑑𝑤𝑐𝑙=
+∑
+(∑
+𝑉𝑜𝑙𝑢𝑚𝑒𝑑𝑐×𝐷𝑑𝑐×𝐶𝐹𝑑𝑐×44/12)
+𝐷𝐶
+𝑑𝑐=1
+𝑝𝑙
+𝑃𝐿𝑐𝑙
+𝑝𝑙=1
+𝑃𝐿𝑐𝑙
+ 
+ 
+ 
+ 
+(A3-30) 
+Where: 
+Cldwcl  
+= 
+Average carbon stock per hectare in lying dead wood carbon pool of  
+LU/LC class cl (t CO2e/ha) 
+Volumedc 
+= 
+Volume of lying dead wood in density class dc (m3) 
+Ddc 
+ 
+= 
+Dead wood density of class dc (t d.m./m3) 
+CFdc 
+ 
+= 
+Carbon fraction of density class dc (t C/t d.m.) 
+44/12  
+= 
+Ratio converting C to CO2e 
+pl 
+ 
+= 
+1, 2, 3, …, PLcl plots in LU/LC class cl (dimensionless) 
+PLcl 
+ 
+= 
+Total number of plots in LU/LC class cl (dimensionless) 
+dc 
+ 
+= 
+1, 2, 3 dead wood density classes (dimensionless) 
+DC 
+ 
+= 
+Total number of density classes (3) (dimensionless) 
+A3.11 Estimation of Carbon Stocks in the Litter Carbon Pool (CLcl) 
+In some forest ecosystems, carbon stocks in the litter pool are a significant component of total carbon 
+stock while in anthropogenic ecosystems, particularly agricultural or pastoral systems, litter is almost 
+absent.  
+Litter is defined as all dead organic surface material on top of mineral soil that is not considered in the 
+lying dead wood pool. Some of this material is recognizable (e.g., dead leaves, twigs, dead grasses and 
+small branches) and some is unidentifiable (decomposed fragments of different components of 
+originally live biomass). To differentiate small woody debris from lying dead wood it is necessary to 
+define a diameter (i.e., 10 cm) below which small dead wood pieces are classified as litter and above 
+which they are considered dead wood. 
+Where litter is measured, it should be sampled at the same time of year at each monitoring event in 
+order to eliminate seasonal effects. The sampling technique is similar to that used for non-tree 
+vegetation: a square frame of 1.0 m2 made from PVC pipe or another suitable material may be used. 
+The following description of sampling and data analysis techniques is taken from the sourcebook for 
+LULUCF projects (Pearson et al., 2005). 
+1) Place the sampling frame at the sample site. 
+2) Collect all the litter inside the frame. Pieces of twigs or wood that cross the border of the frame 
+should be cut using a knife or pruning scissors. Place all the litter on a tarpaulin beside the 
+frame or inside a weighing bag. Weigh the sample on-site, then oven-dry to a constant weight. 
+3) Where sample bulk is excessive, the fresh weight of the total sample should be recorded in the 
+field and a sub-sample of manageable size (approximately 80–100 g) taken for moisture 
+content determination, from which the total dry mass is calculated. 
+4) Calculate the dry mass of the sample. Where a sub-sample is taken for determination of the 
+moisture content, use Eq. (A3-23) to estimate the dry mass of the whole sample. 
+ 
+VM0015, v1.2 
+182 
+5) The carbon stock per hectare in the litter carbon pool is calculated by multiplying the dry mass 
+by an expansion factor calculated from the sample-frame or plot size and then by multiplying by 
+the carbon fraction and CO2/C ratio. To calculate the average carbon stock per LU/LC class, 
+average over all samples (see Equation A3-24). 
+A3.12 Estimation of Carbon Stocks in Soil Organic Carbon Pool (Csoccl) 
+Methods to estimate carbon stocks in the soil organic carbon pool are described in the sourcebook for 
+LULUCF projects (Pearson et al., 2006) from which the following explanations have been taken. 
+Three types of variables must be measured to estimate soil organic carbon stocks: depth, bulk density 
+(calculated from the oven-dried weight of soil from a known volume of sampled material) and the 
+concentration of organic carbon within the sample. 
+The sample depth should be constant; 30 cm is usually a sufficient sampling depth. 
+1) Steadily insert the soil probe to a 30 cm depth. Where the soil is compacted, use a rubber 
+mallet to fully insert. If the probe will not penetrate to the full depth, do not force it as it is likely 
+that a stone or root is blocking its route and, if forced, the probe will be damaged. Instead, 
+withdraw the probe, clean out any collected soil and insert in a new location. 
+2) Carefully extract the probe and place the sample into a bag. Because the carbon concentration 
+of organic materials is much higher than that of mineral soil, including even a small amount of 
+surface material may result in a serious overestimation of soil carbon stocks. 
+3) To reduce variability, aggregate four samples from each collection point for carbon 
+concentration analysis. 
+4) At each sampling point, take two additional aggregated cores to determine bulk density. When 
+taking cores for measurements of bulk density, care should be taken to avoid any excess or 
+loss of soil from the cores.  
+5) Soil samples may be sent to a professional laboratory for analysis. Commercial laboratories 
+routinely analyze plant and soil samples using standard techniques. The selected laboratory 
+should follow commonly accepted standard procedures with respect to sample preparation 
+(e.g., mixing and sieving), drying temperatures and carbon analysis methods. 
+For bulk density determination, ensure the laboratory dries the samples in an oven at 105 °C for a 
+minimum of 48 hours. Where the soil contains coarse, rocky fragments, these must be retained and 
+weighed. For soil carbon determination, the material is sieved through a 2 mm sieve, and then 
+thoroughly mixed. The well-mixed sample should not be oven-dried for carbon analysis, but only air-
+dried. However, the carbon concentration must be expressed on an oven dry basis at 105 °C. The dry 
+combustion method using a controlled temperature furnace (e.g., a LECO CHN-2000 or equivalent) is 
+recommended for determining total soil carbon, but the Walkley-Black method is also commonly used.  
+1) Calculate the bulk density of the mineral soil core: 
+𝐵𝑢𝑙𝑘 𝑑𝑒𝑛𝑠𝑖𝑡𝑦(𝑔/𝑐𝑚3) =
+𝑜𝑣𝑒𝑛𝑑𝑟𝑦 𝑚𝑎𝑠𝑠 (𝑔/𝑐𝑚3)
+𝑐𝑜𝑟𝑒 𝑣𝑜𝑙𝑢𝑚𝑒(𝑐𝑚3)−
+𝑚𝑎𝑠𝑠 𝑜𝑓 𝑐𝑜𝑎𝑟𝑠𝑒 𝑓𝑟𝑎𝑔𝑚𝑒𝑛𝑡𝑠 (𝑔)
+𝑑𝑒𝑛𝑠𝑖𝑡𝑦 𝑜𝑓 𝑟𝑜𝑐𝑘 𝑓𝑟𝑎𝑔𝑚𝑒𝑛𝑡𝑠(𝑔/𝑐𝑚3)
+  
+ 
+ 
+(A3-31) 
+ 
+VM0015, v1.2 
+183 
+Where the bulk density is for the <2 mm fraction, coarse fragments are >2 mm. The density of 
+rock fragments is often given as 2.65 g/cm3. 
+2) Using the carbon concentration data obtained from the laboratory, the amount of carbon per 
+unit area is given by: 
+𝐶𝑠𝑜𝑐𝑐𝑙(𝑡/ℎ𝑎) = [𝑠𝑜𝑖𝑙 𝑏𝑢𝑙𝑘 𝑑𝑒𝑛𝑠𝑖𝑡𝑦(𝑔/𝑐𝑚3) × 𝑠𝑜𝑖𝑙 𝑑𝑒𝑝𝑡ℎ(𝑐𝑚) × 𝐶] × 100 
+ 
+(A3-32) 
+In the above equation, C must be expressed as a decimal fraction. For example, 2.2 percent 
+carbon is expressed as 0.022 in the equation. 
+3) The carbon stock per hectare in the soil organic carbon pool is calculated by averaging the 
+carbon stock estimates for each LU/LC class: 
+𝐶𝑠𝑜𝑐𝑐𝑙=
+∑
+𝐶𝑠𝑜𝑐𝑝𝑙
+𝑃𝐿𝑝𝑙
+𝑝𝑙=1
+𝑃𝐿𝑝𝑙
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-33) 
+Where: 
+Csoccl = 
+Average carbon stock per hectare in soil organic carbon pool of LU/LC class cl  
+(t CO2e/ha) 
+Csocpl = 
+Carbon stock per hectare in soil organic carbon pool estimated for plot pl  
+(t CO2e/ha) 
+pl 
+= 
+1, 2, 3, …, PLpl  plots in LU/LC class cl (dimensionless) 
+PLpl 
+= 
+Total number of plots in LU/LC class cl (dimensionless) 
+A3.13 Estimation of Carbon Stocks in the Harvested Wood Products 
+Carbon Pool (Cwpcl)  
+The wood products carbon pool must be included where there is timber harvest in the baseline 
+scenario prior to or in the process of deforestation and where project activities may significantly reduce 
+the pool. The wood products carbon pool may be included where baseline activities may significantly 
+reduce the pool. In this case, Cwpcl must be subtracted in the calculation of Ctotcl in the baseline case 
+and may be added in the calculation of Ctotcl in the project case. 
+Carbon stocks in the wood product pool are those stocks that become wood products at the time of 
+deforestation. They are divided in three fractions, as follows:  
+1) Short-term wood products: wood products and waste that will decay within 3 years; all carbon 
+must be assumed to be lost immediately; 
+2) Medium-term wood products: wood products that are retired between 3 and 100 years; for this 
+group of wood products, a 20-year linear decay function must be applied; and 
+3) Long-term wood products: wood products that are considered permanent (i.e., carbon is stored 
+for 100 years or more); it may be assumed that no carbon is released.  
+ 
+VM0015, v1.2 
+184 
+Accounting for carbon stocks in wood products in the baseline case should only take place at the time 
+of deforestation (year t). In the project case, Cwpcl may be accounted at the years of planned timber 
+harvest, in which case monitoring is mandatory. 
+The proportion of carbon stock stored in each fraction of the wood products carbon pool must be 
+obtained from specific studies applicable to local conditions or from country-specific data about the 
+volume of timber harvested per forest class. Where data on the proportion of carbon stocks in each 
+fraction of the wood product carbon pool are unavailable, it is conservative to assume that 100 percent 
+of the carbon is stored in the long-term fraction in the baseline case (in which case no carbon is 
+released into the atmosphere in the baseline case), and that 100 percent of the carbon is stored in the 
+short-term fraction in the project case (in which case all carbon is emitted immediately in the project 
+case).  
+Where data on carbon stocks in each fraction of wood products are available and timber harvest plans 
+specifying harvest intensity per forest class in terms of volume extracted per hectare are available for 
+the project area, use Method 1 (Section A3.13.1). Where approved harvest plans are not available use 
+Method 2 (Section A3.13.2). 
+A3.13.1 
+Method 1:  Direct Volume Extraction Estimation 
+Step 1: Calculate the biomass carbon of the commercial volume extracted since the project start date 
+and in the process of deforestation as follows: 
+𝐶𝑋𝐵𝑤,𝑖𝑐𝑙,𝑡=
+1
+𝐴𝐵𝑆𝐿𝑃𝐴𝑖𝑐𝑙,𝑡× (∑
+∑
+𝑉𝐸𝑋𝑤,𝑗,𝑖𝑐𝑙,𝑡× 𝐷𝑗× 𝐶𝐹𝑗×
+44
+12)
+𝐽
+𝑗=1
+𝑡∗
+𝑡=1
+  
+ 
+ 
+ 
+(A3-34) 
+Where: 
+CXBw,icl,t 
+= 
+Mean carbon stock per hectare of extracted biomass carbon by class of wood  
+product w from forest class icl at time t (t CO2e/ha) 
+icl 
+ 
+= 
+1, 2, 3, …, Icl initial pre-deforestation forest classes (dimensionless) 
+w 
+ 
+= 
+1, 2, 3, … W wood product class (sawn-wood, wood-based panels, other  
+industrial round-wood, paper and paper board, and other) (dimensionless) 
+t 
+ 
+= 
+1, 2, 3…, T years, a year of the project crediting period (dimensionless) 
+t* 
+ 
+= 
+Year in which the area ABSLPAicl,t is deforested in the baseline case  
+(dimensionless) 
+j 
+ 
+= 
+1, 2, 3 …, J tree species (dimensionless) 
+ABSLPAicl,t 
+= 
+Area of forest class icl deforested at year t* (ha) 
+VEXw,j,icl,t 
+= 
+Volume of timber for product class w of species j extracted from within forest  
+class icl at time t (m3) 
+Dj 
+ 
+= 
+Mean wood density of species j (t d.m./m3) 
+CFj 
+ 
+= 
+Carbon fraction of biomass for tree species j (t C/t d.m.) 
+44/12  
+= 
+Ratio of molecular weight of CO2 to carbon (dimensionless) 
+ 
+Step 2: Calculate the carbon stock in the wood products carbon pool extracted from the biomass at 
+time t (year of deforestation).  
+ 
+VM0015, v1.2 
+185 
+𝐶𝑤𝑝𝑖𝑐𝑙,𝑡= ∑
+𝐶𝑋𝐵𝑤,𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤)
+𝑊
+𝑤=1
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-35) 
+Where: 
+Cwpicl,t =  
+Carbon stock in wood products carbon pool in initial forest class icl at time t (t CO2e/ha) 
+icl 
+= 
+1, 2, 3, …, Icl forest classes (dimensionless) 
+w 
+= 
+1, 2, 3, …, W wood product class (sawn-wood, wood-based panels, other industrial 
+round-wood, paper and paper board and other) (dimensionless) 
+t 
+= 
+1, 2, 3, …, T years, a year of the project crediting period (dimensionless) 
+CXBw,icl,t = 
+Mean stock of extracted biomass carbon by class of wood product w from forest class  
+icl at time t (t CO2e/ha) 
+STFw 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere within 3  
+years; all carbon must be assumed to be lost immediately (dimensionless) 
+Step 3: Calculate the biomass carbon extracted at time t that becomes medium-term wood products at 
+the time of deforestation. 
+𝐶𝑤𝑝𝑚𝑡,𝑖𝑐𝑙,𝑡= 𝐶𝑤𝑝𝑖𝑐𝑙,𝑡−(𝐶𝑤𝑝𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤) × (1 −𝐿𝑇𝐹𝑤) 
+ 
+ 
+ 
+ 
+(A3-36) 
+Where: 
+Cwpmt,icl,t= 
+Carbon stock in the medium-term wood products carbon pool at time of deforestation t  
+of initial forest class icl (t CO2e/ha) 
+Cwpicl,t =  
+Carbon stock in wood products carbon pool at time of deforestation t of initial forest  
+class icl (t CO2e/ha) 
+STFw 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere within 3  
+years; all carbon must be assumed to be lost immediately (dimensionless) 
+LTFw 
+= 
+Fraction of wood products that are considered permanent (i.e., carbon is stored for 100  
+years or more); it may be assumed no carbon is released (dimensionless) 
+Step 4: Calculate the biomass carbon extracted at time t that becomes long-term wood products at the 
+time of deforestation. 
+𝐶𝑤𝑝𝑙𝑡,𝑖𝑐𝑙,𝑡= 𝐶𝑤𝑝𝑖𝑐𝑙,𝑡−(𝐶𝑤𝑝𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤) × (1 −𝑀𝑇𝐹𝑤)) 
+ 
+ 
+ 
+ 
+(A3-37) 
+Where: 
+Cwplt,icl,t = 
+Carbon stock in long-term wood products carbon pool at time of deforestation t of initial  
+forest class icl (t CO2e/ha) 
+Cwpicl,t = 
+Carbon stock in wood products carbon pool at time of deforestation t of initial forest  
+class icl (t CO2e/ha) 
+STFw 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere within 3  
+years; all carbon must be assumed to be lost immediately (dimensionless) 
+MTFw 
+= 
+Fraction of wood products that are retired between 3 and 100 years; for this group of  
+wood products, a 20-year linear decay function must be applied 
+A3.13.2 
+Method 2: Commercial Inventory Estimation 
+Step 1: Calculate the biomass carbon of the commercial volume extracted prior to or in the process of 
+deforestation: 
+ 
+VM0015, v1.2 
+186 
+𝐶𝑋𝐵𝑖𝑐𝑙,𝑡= 𝐶𝑎𝑏𝑖𝑐𝑙,𝑡×
+1
+𝐵𝐶𝐸𝐹× 𝑃𝑐𝑜𝑚𝑖𝑐𝑙 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-38) 
+Where: 
+CXBicl,t = 
+Mean stock of extracted biomass carbon from initial forest class icl at time t  
+(t CO2e/ha) 
+Cabicl,t = 
+Mean aboveground biomass carbon stock in initial forest class icl at time t (t CO2e/ha) 
+BCEF 
+= 
+Biomass conversion and expansion factor for conversion of merchantable volume to  
+total aboveground tree biomass (dimensionless) 
+Pcomicl = 
+Commercial volume as a percentage of total aboveground volume in initial forest class  
+icl (dimensionless) 
+t 
+= 
+1, 2, 3, …, T years, a year of the project crediting period (dimensionless) 
+icl 
+= 
+1, 2, 3, …, Icl forest classes (dimensionless) 
+Step 2:  Identify the wood product class(es) (w, defined here as sawn-wood, wood-based panels, other 
+industrial round-wood, paper and paper board and other) that are the anticipated end use of the 
+extracted carbon calculated in Step 1. Gross percentages of volume extracted may be assigned to wood 
+product classes on the basis of local expert knowledge of harvest activities and markets. 
+Step 3: Calculate the biomass carbon extracted at time t that becomes wood products at the time of 
+deforestation.  
+𝐶𝑤𝑝𝑖𝑐𝑙,𝑡= ∑
+𝐶𝑋𝐵𝑤,𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤)
+𝑊
+𝑤=1
+  
+ 
+ 
+ 
+ 
+ 
+ 
+(A3-39) 
+Where: 
+Cwpicl,t = 
+Carbon stock in wood products pool in initial forest class icl at time t (t CO2e/ha) 
+icl 
+= 
+1, 2, 3, …, Icl forest classes (dimensionless) 
+w 
+= 
+Wood product class (sawn-wood, wood-based panels, other industrial round-wood,  
+paper and paper board and other) (dimensionless) 
+t 
+= 
+1, 2, 3, …, T years, a year of the project crediting period (dimensionless) 
+CXBw,icl,t = 
+Mean stock of extracted biomass carbon by class of wood product w from initial forest  
+class icl at time t (t CO2e/ha) 
+STFw 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere within 3  
+years; all carbon must be assumed to be lost immediately (dimensionless) 
+Step 4: Calculate the biomass carbon extracted at time t that becomes medium-term wood products at 
+the time of deforestation. 
+𝐶𝑤𝑝𝑚𝑡,𝑖𝑐𝑙,𝑡= 𝐶𝑤𝑝𝑖𝑐𝑙,𝑡−(𝐶𝑤𝑝𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤) × (1 −𝐿𝑇𝐹𝑤))   
+ 
+ 
+ 
+(A3-40) 
+Where: 
+Cwpmt,icl,t 
+= 
+Carbon stock in medium-term wood products carbon pool at time of  
+deforestation t of initial forest class icl (t CO2e/ha) 
+Cwpicl,t  
+= 
+Carbon stock in wood products carbon pool at time of deforestation t of initial  
+forest class icl (t CO2e/ha) 
+ 
+VM0015, v1.2 
+187 
+STFw 
+ 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere  
+within 3 years; all carbon must be assumed to be lost immediately  
+(dimensionless) 
+LTFw 
+ 
+= 
+Fraction of wood products that are considered permanent (i.e., carbon is stored  
+for 100 years or more); it may be assumed no carbon is released  
+(dimensionless) 
+Step 5: Calculate the biomass carbon extracted at time t that becomes long-term wood products at the 
+time of deforestation. 
+𝐶𝑤𝑝𝑙𝑡,𝑖𝑐𝑙,𝑡= 𝐶𝑤𝑝𝑖𝑐𝑙,𝑡−(𝐶𝑤𝑝𝑖𝑐𝑙,𝑡× (1 −𝑆𝑇𝐹𝑤) × (1 −𝑀𝑇𝐹𝑤) 
+ 
+ 
+ 
+ 
+(A3-41) 
+Where: 
+Cwplt,icl,t = 
+Carbon stock in the long-term wood products carbon pool at time of deforestation t of  
+initial forest class icl (t CO2e/ha) 
+Cwpicl,t = 
+Carbon stock in wood products carbon pool at time of deforestation t of initial forest  
+class icl (t CO2e/ha) 
+STFw 
+= 
+Fraction of wood products and waste that will be emitted to the atmosphere within 3  
+years; all carbon must be assumed to be lost immediately (dimensionless) 
+MTFw 
+= 
+Fraction of wood products that are retired between 3 and 100 years; for this group of  
+wood products, a 20-year linear decay function must be applied (dimensionless) 
+ 
+VM0015, v1.2 
+188 
+APPENDIX 4: METHODS TO ESTIMATE 
+EMISSIONS FROM ENTERIC 
+FERMENTATION AND MANURE 
+MANAGEMENT 
+A4.1 Estimation of CH4 Emissions from Enteric Fermentation (ECH4ferm,t,t)  
+The amount of methane53 emitted by a population of animals is calculated by multiplying the emission 
+rate per animal by the number of animals above the baseline case. To reflect the variation in emission 
+rates among animal types, the population of animals is divided into subgroups, and an emission factor 
+per animal is estimated for each subgroup. As per IPCC GPG 2000 and IPCC 2006 Guidelines for 
+AFOLU, use the following equations:54 
+𝐸𝐶𝐻4𝑓𝑒𝑟𝑚𝑡= 𝐸𝐹1 × 𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑡× 0.001 × 𝐺𝑊𝑃𝐶𝐻4 
+ 
+ 
+ 
+ 
+ 
+(A4-1) 
+𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑡= 𝑃𝑓𝑜𝑟𝑎𝑔𝑒𝑡/(𝐷𝐵𝐼× 365)  
+ 
+ 
+ 
+ 
+ 
+ 
+(A4-2) 
+Where: 
+ECH4fermt 
+= 
+CH4 emissions from enteric fermentation at year t (t CO2e) 
+EF1 
+ 
+= 
+Enteric CH4 emission factor for livestock group (kg CH4/head/yr) 
+Populationt 
+= 
+Equivalent number of forage-fed livestock at year t (heads) 
+Pforaget 
+= 
+Production of forage at year t (kg d.m./yr) 
+DBI 
+ 
+= 
+Daily biomass intake (kg d.m./head/day) 
+GWPCH4  
+=  
+Global warming potential for CH4, equal to 21 for the first commitment period  
+(dimensionless) 
+0.001  
+= 
+Conversion factor of kilograms into tonnes (dimensionless) 
+365 
+ 
+= 
+Number of days per year (dimensionless) 
+t 
+ 
+= 
+1, 2, 3, …, T years of project crediting period 
+The production of forage may be estimated by collecting production rates from the literature that 
+represent the shrub species, climate, soil conditions and other features of the areas in which forage will 
+be produced, or by sampling surveys. 
+ 
+53 Methane is produced in herbivores as a by-product of enteric fermentation, a digestive process by which 
+carbohydrates are broken down by microorganisms into simple molecules for absorption into the bloodstream. Both 
+ruminant animals (e.g., cattle, sheep) and some non-ruminant animals (e.g., pigs, horses) produce CH4, although 
+ruminants are the largest source since they are able to digest cellulose due to the presence of specific microorganisms 
+in their digestive tracts. The amount of CH4 that is released depends on the type, age and weight of the animal, the 
+quality and quantity of the feed and the energy expenditure of the animal. 
+54 Refer to Equations 10.19 and 10.20 in IPCC 2006 GL AFOLU or Equations 4.12 and 4.13 in GPG 2000 for agriculture. 
+ 
+VM0015, v1.2 
+189 
+Country-specific emission factors for enteric CH4 emissions are documented in peer reviewed literature 
+or may be obtained from national GHG inventories. Default values are given in Tables 10.10 and 10.11 
+in the IPCC 2006 Guidelines for AFOLU. It is important to select emission factors from a region that is 
+similar to the project area. The tables in Annex 10A.1 of the IPCC 2006 Guidelines for AFOLU specify 
+the animal characteristic such as weight, growth rate and milk production used to estimate the 
+emission factors. These tables should be consulted in order to ensure that the local conditions are 
+similar. In particular, data on average milk production by dairy livestock should be analyzed when 
+selecting an emission factor for dairy livestock. To estimate the emission factor, the data in Table 10A.1 
+may be interpolated using data on local average milk production. 
+For data on daily biomass intake, use local data or data that are applicable to the local conditions 
+according to peer-reviewed literature or the national GHG inventory. When selecting a value for daily 
+biomass intake, ensure that the chosen data are applicable to both forage types to be produced and 
+the livestock group (see also Table 72).  
+A4.2 Estimation of CH4 Emissions from Manure Management (ECH4mant)55 
+The storage and treatment of manure under anaerobic conditions produces CH4. These conditions 
+occur most readily when large numbers of animals are managed in confined area (e.g., dairy farms, 
+beef feedlots and swine and poultry farms), and where manure is disposed of in liquid-based systems. 
+The main factors affecting CH4 emissions are the amount of manure produced and the portion of 
+manure that decomposes anaerobically. The former depends on the rate of waste production per 
+animal and the number of animals, and the latter on how the manure is managed. When manure is 
+stored or treated as a liquid (e.g., in lagoons, ponds, tanks or pits), it decomposes anaerobically and 
+may produce a significant quantity of CH4. The temperature and storage retention time greatly affect 
+the amount of methane produced. Where manure is handled as a solid (e.g., in stacks or piles) or 
+deposited on pastures and rangelands, it tends to decompose under more aerobic conditions and less 
+CH4 is produced. 
+CH4 emissions from manure management for forage-fed livestock may be estimated using IPCC 
+methods.56 
+𝐸𝐶𝐻4𝑚𝑎𝑛𝑡= 𝐸𝐹2 × 𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑡× 0.001 × 𝐺𝑊𝑃𝐶𝐻4 
+ 
+ 
+ 
+ 
+ 
+(A4-3) 
+Where: 
+ECH4mant 
+= 
+CH4 emissions from manure management at year t (t CO2e) 
+EF2 
+ 
+= 
+Manure management CH4 emission factor for livestock group (kg CH4/head/yr) 
+Populationt 
+= 
+Equivalent number of forage-fed livestock at year t (heads) 
+GWPCH4  
+= 
+Global warming potential for CH4 equal to 21 for the first commitment period  
+(dimensionless) 
+0.001  
+= 
+Conversion factor of kilograms into tonnes (dimensionless) 
+ 
+55 Taken from AR-AM0006, v1 
+56 Refer to Equation 10.22 in the AFOLU volume of the IPCC 2066 Guidelines or Equation 4.15 in GPG 2000 for 
+agriculture. 
+ 
+VM0015, v1.2 
+190 
+t 
+ 
+= 
+1, 2, 3, …, T years of the project crediting period 
+The best estimate of emissions is usually obtained using country-specific emission factors that have 
+been published in peer-reviewed literature or in the national GHG inventory. Emission factors should 
+reflect the actual duration of storage and type of treatment of animal manure in the management 
+system used. Where appropriate country-specific emission factors are unavailable, default emission 
+factors presented in Table 10.14-10.16 of IPCC 2006 Guidelines for AFOLU may be used. These 
+emission factors represent those for a range of livestock types and associated management systems, 
+by regional management practices and temperature. When selecting a default factor, be sure to consult 
+the supporting tables in Annex 10A.2 of IPCC 2006 Guidelines for AFOLU for the distribution of manure 
+management systems and animal waste characteristics used to estimate emissions. Select an 
+emission factor for a region that most closely matches the circumstances of the livestock that are fed 
+forage from the project area. 
+A4.3 Estimation of N2O Emissions from Manure Management (EN2Omant)57 
+Nitrous oxide emissions from manure management vary significantly between the type of management 
+system used, and may also result in indirect emissions due to other forms of nitrogen loss from the 
+system. The N2O emissions from manure management may be estimated using the method provided in 
+the IPCC 2006 Guidelines for AFOLU, or in IPCC GPG 2000.58 
+𝐸𝑁20𝑚𝑎𝑛𝑡= 𝐸𝑑𝑖𝑟𝑁20𝑚𝑎𝑛𝑡+ 𝐸𝑖𝑛𝑑𝑁20𝑚𝑎𝑛𝑡  
+ 
+ 
+ 
+ 
+ 
+(A4-4) 
+𝐸𝑑𝑖𝑟𝑁20𝑚𝑎𝑛𝑡= 𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑡× 𝑁𝑒𝑥× 𝐸𝐹3 × 0.001 × 44/28 × 𝐺𝑊𝑃𝑁2𝑂  
+ 
+ 
+(A4-5) 
+𝐸𝑖𝑛𝑑𝑁20𝑚𝑎𝑛𝑡= 𝑃𝑜𝑝𝑢𝑙𝑎𝑡𝑖𝑜𝑛𝑡× 𝑁𝑒𝑥× 𝐹𝑟𝑎𝑐𝑔𝑎𝑠× 𝐸𝐹4 × 0.001 × 44/28 × 𝐺𝑊𝑃𝑁2𝑂 
+ 
+(A4-6) 
+Where: 
+EN2Omant 
+= 
+N2O emissions from manure management at year t (t CO2e) 
+EdirN2Omant 
+= 
+Direct N2O emissions from manure management at year t (t CO2e) 
+EindN2Omant = 
+Indirect N2O emissions from manure management at year t (t CO2e) 
+Populationt 
+= 
+Equivalent number of forage-fed livestock at year t (heads) 
+Nex 
+ 
+= 
+Annual average N excretion per livestock head (kg N/head/yr) 
+EF3 
+ 
+= 
+Emission factor for N2O emissions from manure management for livestock  
+group (kg N2O-N/(kg N)/head/yr 
+EF4 
+ 
+= 
+Emission factor for N2O emissions from atmospheric deposition of forage- 
+sourced nitrogen on soils and water surfaces (kg N2O-N/(kg NH3-N and NOx-N 
+emitted)/head/yr) 
+Note – use of the IPCC default factor for EF4 of 0.01 is recommended. 
+Fracgas  
+= 
+Fraction of managed livestock manure nitrogen that volatilizes as NH3 and NOx  
+ 
+57 Taken from AR-AM0006, v1 
+58 Refer to Equations 10.25, 10.26 and 10.27 in AFOLU volume of the IPCC 2006 Guidelines and/or Equation 4.18 in 
+GPG 2000 for agriculture. 
+ 
+VM0015, v1.2 
+191 
+in the manure management phase (kg NH3-N and NOx-N emitted/kg N) 
+GWPN2O  
+= 
+Global warming potential for N2O, equal to 310 for the first commitment  
+period (dimensionless) 
+44/28  
+= 
+Conversion of N20-N emissions to N2O emissions (dimensionless) 
+0.001  
+= 
+Conversion factor of kilograms into tonnes (dimensionless) 
+The best estimate of annual nitrogen excretion rates for each livestock group is usually obtained using 
+country-specific rates from published peer reviewed literature or from the national GHG inventory. 
+Where it is not possible to collect nor derive country-specific data, or appropriate data are not available 
+from another country with similar conditions, default nitrogen excretion rates may be obtained from 
+Table 10.19 of IPCC 2006 Guidelines for AFOLU.  
+The possible data sources for emission factors are similar. Default emission factors are given in Tables 
+10.21 and 11.3 of the IPCC 2006 Guidelines for AFOLU and default values for volatilization of NH3 and 
+NOx (Fracgas) in the manure management system are presented in Table 10.22 of the same IPCC 2006 
+Guidelines. For EF4 the IPCC default value 0.01 is recommended (Equation 10.27, IPCC 2006 
+Guidelines for AFOLU). 
+ 
+ 
+ 
+VM0015, v1.2 
+192 
+APPENDIX 5: INDICATIVE TABLES 
+Table 68: Guidance on Carbon Pool Selection Depending on the Land Use/Land Cover 
+Change Category Considered59 
+Type of Land Use/Land 
+Cover Transition 
+Living Biomass (trees) 
+Dead Organic Matter 
+Soil 
+Abovegroun
+d 
+Belowgroun
+d 
+Wood 
+products 
+Dead 
+wood 
+Litter 
+Organic 
+matter 
+Forest to cropland 
++++ 
+++ 
++ 
++ 
++  
++ 
+Forest to pasture 
++++ 
+++ 
++ 
++ 
++  
+  
+Forest to shifting cultivation 
++++ 
+++ 
+ 
++ 
+  
+  
+Forest to degraded forest 
++++ 
+++ 
++ 
+  
+  
+  
++++ = include always; ++ = inclusion recommended; + = inclusion possible 
+ 
+Table 69: Present Availability of Optical Mid-resolution (10–60m) Sensors (GOFC-GOLD, 
+2008) 
+Nation 
+Satellite 
+and sensor 
+Resolution 
+and coverage 
+Cost (archive60) 
+Feature 
+USA 
+Landsat-5 
+TM 
+30 m 
+180×180 km2 
+USD 600/scene 
+USD 0.02/km2 
+Images every 16 days to any satellite-
+receiving station. Operating beyond 
+expected lifetime. 
+USA 
+Landsat-7 
+ETM+ 
+30 m 
+60×180 km2 
+USD 600/scene 
+USD 0.06/km2 
+In April 2003, failure of the scan line 
+corrector resulted in data gaps 
+outside of the central portion of 
+images, seriously compromising data 
+quality. 
+USA/Japan 
+Terra ASTER 
+15 m 
+USD 60/scene 
+Data are acquired on request and not 
+routinely collected for all areas. 
+ 
+59 Modified from GOFC-GOLD (2008). See the most recent version of the GOFC-GOLD sourcebook for REDD, as new 
+remote sensing platforms are becoming available.  
+60 Some acquisitions may be programmed (e.g., DMC, SPOT). The cost of programmed data is generally at least twice 
+the cost of archived data. 
+ 
+VM0015, v1.2 
+193 
+Nation 
+Satellite 
+and sensor 
+Resolution 
+and coverage 
+Cost (archive60) 
+Feature 
+60×60 km2 
+USD 0.02/km2 
+India 
+IRS-P2 LISS-
+III & AWIFS  
+23.5 and 56 m 
+ 
+Experimental craft shows promise, 
+although images are hard to acquire. 
+China/Brazil 
+CBERS-2 
+HRCCD  
+20 m 
+ 
+Experimental; Brazil uses on-demand 
+images to bolster their coverage. 
+Algeria/China/
+Nigeria/Turkey/
+UK 
+DMC 
+32 m 
+160×660 km2 
+EUR 3000/scene 
+EUR 0.03/km2 
+Commercial; Brazil uses alongside 
+Landsat data. 
+France 
+SPOT-5 
+HRVIR  
+5–20 m 
+60×60 km2 
+EUR 2000/scene 
+EUR 0.5/km2 
+Commercial; Indonesia and Thailand 
+use alongside Landsat data. 
+ 
+Table 70: Example of a Potential Land-use Change Matrix 
+ 
+Initial 
+Forest Land 
+Final 
+ 
+Class 1 
+Class 2 
+Class 3 
+Class 4 
+Class 5 
+Forest Land 
+Class 1 
+Category 1/1 
+Category 2/1 
+Category 3/1 
+Category 4/1 
+Category 5/1 
+Class 2 
+Category 1/2 
+Category 2/2 
+Category 3/2 
+Category 4/2 
+Category 5/2 
+Class 3 
+Category 1/3 
+Category 2/3 
+Category 3/3 
+Category 4/3 
+Category 5/3 
+Class 4 
+Category 1/4 
+Category 2/4 
+Category 3/4 
+Category 4/4 
+Category 5/4 
+Class 5 
+Category 1/5 
+Category 2/5 
+Category 3/5 
+Category 4/5 
+Category 5/5 
+Grassland 
+Class 6 
+Category 1/6 
+Category 2/6 
+Category 3/6 
+Category 4/6 
+Category 5/6 
+Cropland 
+Class 7 
+Category 1/7 
+Category 2/7 
+Category 3/7 
+Category 4/7 
+Category 5/7 
+Wetland 
+Class 8 
+Category 1/8 
+Category 2/8 
+Category 3/8 
+Category 4/8 
+Category 5/8 
+Settlement 
+Class 9 
+Category 1/9 
+Category 2/9 
+Category 3/9 
+Category 4/9 
+Category 5/9 
+Other Land 
+Class 10 
+Category 1/10 Category 2/10 Category 3/10 Category 4/10 Category 5/10 
+ 
+ 
+ 
+VM0015, v1.2 
+194 
+Table 71: Example of a Land Use/Land Cover Change Matrix 
+  
+  
+Initial 
+Forest Land 
+Final area 
+  
+ 
+ 
+Old growth 
+forests 
+Degraded old 
+growth forest  
+Secondary forest  
+Plantations 
+Final 
+  
+Intact 
+Managed 
+Initial 
+Intermediate  
+Advanced 
+Initial 
+Intermediate 
+Advanced 
+Young 
+Mid 
+Mature 
+Forest 
+Land 
+Old-growth  
+Intact 
+100 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+100 
+Managed 
+1 
+5 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+6 
+Degraded 
+Initial 
+1 
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+3 
+Intermediate 
+  
+  
+2 
+1 
+  
+  
+  
+  
+  
+  
+  
+3 
+Advanced 
+  
+  
+  
+2 
+3 
+  
+  
+  
+  
+  
+  
+5 
+Secondary  
+Initial 
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+2 
+Intermediate 
+  
+  
+  
+  
+  
+1 
+3 
+  
+  
+  
+  
+4 
+Advanced 
+  
+  
+  
+  
+  
+  
+1 
+1 
+  
+  
+  
+2 
+Plantations 
+Young 
+  
+  
+  
+  
+1 
+1 
+1 
+  
+1 
+  
+1 
+5 
+Mid 
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+3 
+Mature 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+1 
+Grassland 
+Unimproved 
+1 
+1 
+1 
+2 
+  
+1 
+1 
+1 
+  
+  
+  
+8 
+Improved 
+  
+  
+  
+1 
+1 
+  
+  
+  
+  
+  
+  
+2 
+Cropland 
+  
+1 
+  
+1 
+  
+2 
+3 
+3 
+  
+  
+  
+10 
+Wetland 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 
+Settlement 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 
+ 
+VM0015, v1.2 
+195 
+Other Land 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+0 
+Initial Area 
+103 
+7 
+5 
+7 
+5 
+7 
+9 
+5 
+2 
+2 
+2 
+154 
+Net Change 
+−3 
+−1 
+−2 
+−4 
+0 
+−5 
+−5 
+−3 
+3 
+1 
+−1

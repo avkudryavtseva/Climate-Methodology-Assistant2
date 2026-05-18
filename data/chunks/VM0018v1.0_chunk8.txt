@@ -1,0 +1,826 @@
+36 
+SS 
+Units 
+Baseline SS Formula 
+B7 Building/System Energy 
+Consumption (without 
+ECMs) 
+kgCO2e 
+Emissions Building/System Energy Consumption w/o ECM = 
+∑ [(Vol. Fuel i * EF Fuel i CO2) ; (GWPCH4 * 
+Vol. Fuel i * EF Fuel i CH4) ; (GWPN2O * Vol. 
+Fuel i * EF Fuel i N20)] + [Electricity * EF 
+GridCO2e] + [Thermal Energy * EF Thermal 
+EnergyCO2e] 
+B8 Maintenance 
+kgCO2e 
+Emissions Maintenance = ∑ [(Vol. Fuel i * EF 
+Fuel i CO2) ; (GWPCH4 * Vol. Fuel i * EF Fuel i 
+CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i N20)] + 
+[Electricity * EF GridCO2e] + [Thermal Energy 
+* EF Thermal EnergyCO2e] 
+B9 Unit Operation: 
+Biological / Chemical / 
+Mechanical Processes 
+kgCO2e 
+Emissions Unit Operation = ∑ [(Vol. Fuel i * EF 
+Fuel i CO2) ; (GWPCH4 * Vol. Fuel i * EF Fuel i 
+CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i N20)] + 
+[Electricity * EF GridCO2e] + [Thermal Energy 
+* EF Thermal EnergyCO2e] 
+B10 Energy Consumption 
+from Waste Processing 
+kgCO2e 
+Emissions Energy Consumption from Waste Processing = 
+∑ [(Vol. Fuel i * EF Fuel i CO2) ; (GWPCH4 * 
+Vol. Fuel i * EF Fuel i CH4) ; (GWPN2O * Vol. 
+Fuel i * EF Fuel i N20)] + [Electricity * EF 
+GridCO2e] + [Thermal Energy * EF Thermal 
+EnergyCO2e] 
+B13 Energy Consumption 
+from Waste Processing 
+kgCO2e 
+Emissions Energy Consumption from Waste Processing = 
+∑ [(Vol. Fuel i * EF Fuel i CO2) ; (GWPCH4 * 
+Vol. Fuel i * EF Fuel i CH4) ; (GWPN2O * Vol. 
+Fuel i * EF Fuel i N20)] + [Electricity * EF 
+GridCO2e] + [Thermal Energy * EF Thermal 
+EnergyCO2e] 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+37 
+B14 Waste 
+Decomposition 
+and Methane 
+Release 
+kgCO2e 
+Emissions Waste Decomposition and Methane Release  
+        (   )         (    )  (  
+  )             
+ ∑∑    
+ 
+ 
+   
+          (   )  (       ) 
+Waste Decomposition and Methane Release  =  
+Methane emissions avoided during 
+the year y from preventing waste disposal at the solid waste disposal site 
+during the period from the start of the project activity to the end of the 
+year y 
+Model correction factor to account for model uncertainties (0.9)  
+Fraction of methane captured at the solid waste disposal sites (SWDS) 
+and flared, combusted or used in another manner  
+Global Warming Potential (GWP) of methane, valid for the relevant 
+commitment period  
+Oxidation factor (reflecting the amount of methane from SWDS that is 
+oxidised in the soil or other material covering the waste)  
+Fraction of methane in the SWDS gas (volume fraction) (0.5)  
+Fraction of degradable organic carbon (DOC) that can decompose  
+Methane correction factor  
+Mass of Waste Material type j Sent to Landfill in the year x (tons) 
+Fraction of degradable organic carbon (by weight) in the waste type j  
+Decay rate for the waste type j  
+Waste type category (index)  
+Year during the crediting period: x runs from the first year of the first 
+crediting period (x = 1) to the year y for which avoided emissions a re-
+calculated (x =  y)  
+Year for which methane emissions are calculated 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+38 
+7.3 
+Project Emissions 
+Emissions Project EE  
+= sum of the energy efficiency related emissions under the project scenario 
+Emissions Project EE  
+= Emissions Building/System Energy Consumption with ECM + Emissions Maintenance + Emissions Unit Operation 
+ 
+Emissions Building Energy Consumption with ECM  
+= 
+ 
+Emissions under SS P7 Building/System 
+Energy  
+Consumption (with ECMs) 
+ 
+Emissions Maintenance  
+= 
+ 
+Emissions under SS P8 Maintenance  
+ 
+Emissions Unit Operation  
+= 
+ 
+Emissions under SS P9 Unit Operation: 
+Biological/Chemical/Mechanical Processes 
+Emissions Project WASTE  
+= sum of the waste related emissions under the project scenario 
+Emissions Project WASTE 
+= Emissions Energy Consumption from Waste Processing  
++ Emissions Waste Decomposition and Methane Release  
++ Emissions Energy Consumed from Alternative Processing of Waste Use  
++ Emissions Process Emissions from Alternative Processing of Waste 
+ 
+Emissions Energy Consumption from Waste Processing = 
+Emissions under SS P10 Energy Consumption from Waste 
+Processing 
+ 
+Emissions Waste Decomposition and Methane Release = 
+Emissions under SS P14 Waste Decomposition and Methane 
+Release 
+Emissions Energy Consumed from alternative processing of waste / use = Emissions under SS P16 Energy Consumed from alternative 
+processing of waste / use 
+Emissions Process Emissions from Alternative Processing of Waste = 
+Emissions under SS P17 Process Emissions from Alternative 
+Processing of Waste 
+Table 5 provides SS-specific equations for comparisons of the project SS.  
+ 
+ 
+ 
+ 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+39 
+Table 5: Project SS Emission Adjustment Quantification 
+SS 
+Units 
+Project SS Formula 
+P7 
+Building/System 
+Energy 
+Consumption 
+(with ECMs) 
+kgCO2e 
+Emissions Building/System Energy Consumption with ECM = ∑ [(Vol. Fuel i * EF Fuel i CO2) 
+; (GWPCH4 * Vol. Fuel i * EF Fuel i CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i 
+N20)] 
+P8 Maintenance 
+kgCO2e 
+Emissions Maintenance = ∑ [(Vol. Fuel i * EF Fuel i CO2) ; (GWPCH4 * Vol. Fuel i 
+* EF Fuel i CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i N20)] + [Electricity * EF 
+GridCO2e] + [Thermal Energy * EF Thermal EnergyCO2e] 
+P9 Unit 
+Operation: 
+Biological / 
+Chemical / 
+Mechanical 
+Processes 
+kgCO2e 
+Emissions Unit Operation = ∑ [(Vol. Fuel i * EF Fuel i CO2) ; (GWPCH4 * Vol. Fuel i 
+* EF Fuel i CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i N20)] + [Electricity * EF 
+GridCO2e] + [Thermal Energy * EF Thermal EnergyCO2e] 
+P10 Energy 
+Consumption 
+from Waste 
+Processing 
+kgCO2e 
+Emissions Energy Consumption from Waste Processing = ∑ [(Vol. Fuel i * EF Fuel i CO2) ; 
+(GWPCH4 * Vol. Fuel i * EF Fuel i CH4) ; (GWPN2O * Vol. Fuel i * EF Fuel i N20)] 
++ [Electricity * EF GridCO2e] + [Thermal Energy * EF Thermal EnergyCO2e] 
+P14 Waste 
+Decomposition 
+and Methane 
+Release 
+kgCO2e 
+Emissions Waste Decomposition and Methane Release  
+        (   )         (    )  (  
+  )             
+ ∑∑    
+ 
+ 
+   
+          (   )  (       ) 
+P16 Energy 
+Consumed from 
+alternative 
+processing of 
+waste / use 
+kgCO2e 
+Emissions Energy Consumed from alternative processing of waste / use = ∑ [(Vol. Fuel i * EF 
+Fuel i CO2) ; (GWPCH4 * Vol. Fuel i * EF Fuel i CH4) ; (Vol. Fuel i * EF Fuel i 
+N20)] + [Electricity * EF GridCO2e] + [Thermal Energy * EF Thermal 
+EnergyCO2e] 
+P17 Process 
+Emissions from 
+Alternative 
+Processing of 
+Waste 
+kgCO2e 
+Emissions Process Emissions from Alternative Processing of Waste = ∑ [(Mass CO2) ; (Mass 
+N2O) ; (Mass CH4)] 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+40 
+7.4 
+Leakage 
+The project proponent must assess the likelihood of leakage based on the specific project activities. If it 
+cannot be shown that no plausible material leakage would occur based on the specific project activities, 
+then this methodology shall not be applied. 
+The project proponent must quantify GHG emissions sources occurring outside the project boundary as a 
+result of implementation of the project activities, which are expected to contribute more than 1% of the 
+overall average emission reductions.  
+7.5 
+Summary of GHG Emission Reduction and/or Removals 
+Quantification of the net GHG reductions must be calculated using the equation set out below. 
+Emission Reductions  
+= [Emission Adjusted Baseline EE – Emissions Project EE] 
++ [Emission Adjusted Baseline WASTE – Emissions Project WASTE] 
+Where: 
+Emissions Adjusted Baseline EE  
+= the energy efficiency related baseline emissions plus any 
+adjustments needed to adjust it to the conditions of the monitoring period 
+Emissions Adjusted Baseline WASTE  
+ 
+= the waste related baseline emissions plus any adjustments needed 
+to adjust it to the conditions of the monitoring period 
+Emissions Project EE  
+= sum of the energy efficiency related emissions under the project 
+scenario 
+Emissions Project WASTE  
+= sum of the waste related emissions under the project scenario 
+ 
+8  
+Monitoring 
+8.1 
+Parameters Available at Validation 
+The following data units/parameters are referred to numerous times in the formulas presented in Section 
+6. Actual measured or local data are to be used when available. If not available, regional data must be 
+used.  The data sources for each parameter are offered below, however; in their absence, IPCC defaults 
+can be used from the most recent version of the IPCC Guidelines for National Greenhouse Gas 
+Inventories.    
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+41 
+Parameter:   
+EF Thermal EnergyCO2e 
+Data unit:   
+Kg CO2e per GJ 
+Description:   
+CO2e emissions factor for local generation of thermal energy 
+Source of data:   
+For the Territory of interest, the project proponent must identify 
+the most appropriate CO2e emission factor for the source of 
+thermal energy used under the project scenario. Regional data 
+(for example: US Department of Energy’s Form EIA-1605 
+Appendix N. Emission factors for Steam and Chilled/Hot Water) 
+shall be used. In its absence, IPCC defaults must be used from 
+the most recent version of IPCC Guidelines for National 
+Greenhouse Gas Inventories providing they are deemed to 
+reasonably represent local circumstances. The project proponent 
+must choose the values in a conservative manner and justify the 
+choice.  
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+Thermal Energy generation characteristics are likely to remain 
+relatively stable over a year’s time. 
+ 
+Parameter:   
+EF Fuel i N20 
+Data unit:   
+Kg N2O per L, m3
+, or other 
+Description:   
+N2O emissions factor for combustion of each type of fuel  
+(EF Fuel i N2O) 
+Source of data:   
+For both mobile and stationary fuel combustion for the Territory of 
+interest, the project proponent must identify the most appropriate 
+emission factors for the source of thermal energy used under the 
+project condition. Regional data (for example: EPA’s AP 42, 
+Compilation of Air Pollutant Emission Factors) shall be used. In its 
+absence, IPCC defaults must be used from the most recent 
+version of IPCC Guidelines for National Greenhouse Gas 
+Inventories providing they are deemed to reasonably represent 
+local circumstances. The project proponent must choose the 
+values in a conservative manner and justify the choice. 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+This is one of the most comprehensive fuel emission factor 
+databases available. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+42 
+Parameter:   
+EF Fuel i CH4 
+Data unit:   
+Kg CH4 per L, m3
+, or other 
+Description:   
+CH4 emissions factor for combustion of each type of fuel  
+(EF Fuel i CH4) 
+Source of data:   
+For both mobile and stationary fuel combustion for the Territory of 
+interest, the project proponent must identify the most appropriate 
+emission factors for the source of thermal energy used under the 
+project scenario. Regional data (for example: EPA’s AP 42, 
+Compilation of Air Pollutant Emission Factors) shall be used. In its 
+absence, IPCC defaults can be used from the most recent version 
+of IPCC Guidelines for National Greenhouse Gas Inventories 
+providing they are deemed to reasonably represent local 
+circumstances.  The project proponent must choose the values in 
+a conservative manner and justify the choice. 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+This is one of the most comprehensive fuel emission factor 
+databases available. 
+ 
+Parameter:   
+EF Fuel i CO2 
+Data unit:   
+Kg CO2 per L, m3
+, or other 
+Description:   
+CO2 Emissions Factor for combustion of each type of fuel  
+(EF Fuel i CO2) 
+Source of data:   
+For both mobile and stationary fuel combustion for the Territory of 
+interest, the project proponent must identify the most appropriate 
+emission factors for the source of thermal energy used under the 
+project scenario. Regional data (for example: EPA’s AP 42, 
+Compilation of Air Pollutant Emission Factors) shall be used. In its 
+absence, IPCC defaults can be used from the most recent version 
+of IPCC Guidelines for National Greenhouse Gas Inventories 
+providing they are deemed to reasonably represent local 
+circumstances.  The project proponent must choose the values in 
+a conservative manner and justify the choice. 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+This is one of the most comprehensive fuel emission factor 
+databases available. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+43 
+Parameter:   
+  
+Data unit:   
+-  
+Description:   
+Model correction factor to account for model uncertainties (0.9) 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+Parameter:   
+OX 
+Data unit:   
+-  
+Description:   
+Oxidation factor (reflecting the amount of soil or other material 
+covering the waste) 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+Parameter:   
+DOCf 
+Data unit:   
+-  
+Description:   
+Fraction of degradable organic carbon (DOC) that can 
+decompose 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+44 
+Parameter:   
+DOCj 
+Data unit:   
+-  
+Description:   
+Fraction of degradable organic carbon (by weight) 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+Parameter:   
+MCF 
+Data unit:   
+- 
+Description:   
+Methane correction factor 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+45 
+Parameter:   
+kj 
+Data unit:   
+- 
+Description:   
+Decay rate for the waste type j 
+Source of data:   
+IPCC 2006 Guidelines for National Greenhouse Gas Inventories 
+(adapted from Volume 5, Table 3.3) 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+Apply the following default values for the different waste types j 
+ 
+NB: MAT – mean annual temperature, MAP – Mean annual 
+precipitation, PET – potential evapotranspiration. MAP/PET is the 
+ratio between the mean annual precipitation and the potential 
+evapotranspiration. 
+If a waste type, prevented from disposal by the proposed CDM 
+project activity, cannot clearly be attributed to one of the waste types 
+in the table above, project participants choose among the waste 
+types that have similar characteristics that waste type where the 
+values of DOCj and kj result in a conservative estimate (lowest 
+emissions), or request a revision of / deviation from this 
+methodology. 
+Document in the CDM-PDD the climatic conditions at the SWDS site 
+(temperature, precipitation and, where applicable, 
+evapotranspiration). Use long-term averages based on statistical 
+data, where available. Provide references. 
+ 
+ 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+46 
+8.2 
+Data and Parameters Monitored 
+The specific data and parameters associated with each SS are identified below.  
+ 
+Data Unit / Parameter:   
+Vol. Fuel i 
+Data unit:  
+L, m3
+, or other 
+Description: 
+Volume of each type of fuel combusted. This volume of fuel is 
+adjusted for both functional equivalence and units of productivity. 
+Source of data: 
+The volume of fuel is determined by third party custody invoices, 
+consolidated monthly. Un-calibrated internal meters cannot be 
+used. 
+Description of measurement 
+methods and procedures to be 
+applied: 
+Monthly invoices filed for verification. 
+Frequency of monitoring/recording:   
+Monthly. 
+QA/QC procedures to be applied: 
+Manual transcription is avoided where possible. 
+ 
+Data Unit / Parameter:   
+Electricity 
+Data unit:  
+kWh 
+Description: 
+The amount of electricity consumed from the grid. 
+Source of data: 
+The amount of electricity consumed from the grid is determined by 
+third party custody invoices, consolidated monthly. If internal 
+meters are required for the Isolation Parameter Measurement 
+option, calibration records is provided as per the manufacturer’s 
+schedule. 
+Description of measurement 
+methods and procedures to be 
+applied: 
+Monthly. 
+Frequency of monitoring/recording:   
+Manual transcription is avoided where possible. 
+QA/QC procedures to be applied: 
+Cross reference when possible. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+47 
+Data Unit / Parameter:   
+EF GridCO2e 
+Data unit:   
+Kg CO2e per kWh 
+Description:   
+CO2e Emissions Factor for electricity from the grid. 
+Source of data:   
+For the Territory of interest, the project proponent must calculate 
+the emission factor for the appropriate emission factor using the 
+CDM’s “Tool to calculate the emission factor for an electricity 
+system (Version 2.2.1)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+Refer to the latest version of the CDM tool.  
+ 
+ 
+Data Unit / Parameter:   
+Thermal Energy 
+Data unit:  
+GJ 
+Description: 
+Thermal Energy consumed at the facility. This amount is adjusted 
+for both functional equivalence and units of productivity. 
+Source of data: 
+Thermal energy crossing the boundary is measured with monthly 
+invoices. If the thermal energy crosses the boundary without a 
+custody caliber meter, only calibrated internal meters is relied 
+upon. Calibration records must be made available during 
+verification. 
+Description of measurement 
+methods and procedures to be 
+applied: 
+Continuous Metering or invoice reconciliation 
+Frequency of monitoring/recording:   
+Frequency of metering and reconciliation is most frequent as 
+possible. 
+QA/QC procedures to be applied: 
+Cross-checked with the quantity of heat invoiced if relevant 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+48 
+Data Unit / Parameter:   
+Wj,x  
+Data unit:  
+kg 
+Description: 
+Mass of Waste Material Sent to Landfill 
+Source of data: 
+Direct measurement of mass of waste sent for disposal. 
+Description of measurement 
+methods and procedures to be 
+applied: 
+Continuous metering or invoice reconciliation. The mass of 
+material diverted from conventional landfill disposal may be 
+measured by invoice reconciliation from a sight appropriate for no 
+anaerobic disposal of waste. The mass of organic material sent to 
+landfill may be measured upon departure from the composting 
+site or at the waste disposal site. Care must be taken to ensure no 
+material is then diverted to landfill without being accounted for. 
+Frequency of monitoring/recording:   
+Both methods are standard practice. Frequency of metering is 
+highest level possible. 
+QA/QC procedures to be applied: 
+As per the latest version of the “Tool to determine methane 
+emissions avoided from disposal of waste at a solid waste 
+disposal site (Version 05.1.0)” (CDM, 2011). 
+ 
+Data Unit / Parameter:   
+f 
+Data unit:   
+-  
+Description:   
+Fraction of methane captured in the SWDS gas 
+Source of data:   
+This factor is determined using the CDM’s “Tool to determine 
+methane emissions avoided from disposal of waste at a solid 
+waste disposal site (Version 05.1.0)” (CDM, 2011). 
+Justification of choice of data or 
+description of measurement 
+methods and procedures applied:  
+The most used tool for calculation landfill gas emission 
+reductions. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+49 
+Data Unit / Parameter:   
+Mass CO2 
+Data unit:  
+Kg 
+Description: 
+Mass of CO2 emitted as a process emissions 
+Source of data: 
+Measured or Estimated 
+Description of measurement 
+methods and procedures to be 
+applied: 
+This variable can be either measured or estimated. Measured 
+process emissions would be conducted via a continuous 
+monitoring system that records both the flow rate of the gas and 
+the percent composition of CO2. This would allow a mass to be 
+accurately determined. If measurement is in place, calibration 
+schedules and records must be provided in the project document. 
+If estimation is used in absence of a continuous monitoring 
+system, the details of the mass balance must be provided in the 
+project document. The mass balance must include the justification 
+around an average waste composition used in the mass balance. 
+Frequency of monitoring/recording:   
+Continuous measurement or hourly estimations 
+QA/QC procedures to be applied: 
+If the measurement results differ significantly from previous 
+measurements or other relevant data sources, conduct additional 
+measurements or cross checking with other reported values. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+50 
+Data Unit / Parameter:   
+Mass N2O 
+Data unit:  
+Kg 
+Description: 
+Mass of N2O emitted as a process emissions 
+Source of data: 
+Measured or Estimated 
+Description of measurement 
+methods and procedures to be 
+applied: 
+This variable can be either measured or estimated. Measured 
+process emissions would be conducted via a continuous 
+monitoring system that records both the flow rate of the gas and 
+the percent composition of N2O. This would allow a mass to be 
+accurately determined. If measurement is in place, calibration 
+schedules and records must be provided in the project document. 
+If estimation is used in absence of a continuous monitoring 
+system, the details of the mass balance must be provided in the 
+project document. The mass balance must include the justification 
+around an average waste composition used in the mass balance.  
+Frequency of monitoring/recording:   
+Continuous measurement or hourly estimations 
+QA/QC procedures to be applied: 
+If the measurement results differ significantly from previous 
+measurements or other relevant data sources, conduct additional 
+measurements or cross checking with other reported values. 
+ 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+51 
+Data Unit / Parameter:   
+Mass CH4 
+Data unit:  
+Kg 
+Description: 
+Mass of CH4 emitted as a process emissions 
+Source of data: 
+Measured or Estimated 
+Description of measurement 
+methods and procedures to be 
+applied: 
+This variable can be either measured or estimated. Measured 
+process emissions would be conducted via a continuous 
+monitoring system that records both the flow rate of the gas and 
+the percent composition of CH4. This would allow a mass to be 
+accurately determined. If measurement is in place, calibration 
+schedules and records must be provided in the project document. 
+If estimation is used in absence of a continuous monitoring 
+system, the details of the mass balance must be provided in the 
+project document. The mass balance must include the justification 
+around an average waste composition used in the mass balance.  
+Frequency of monitoring/recording:   
+Continuous measurement or hourly estimations 
+QA/QC procedures to be applied: 
+If the measurement results differ significantly from previous 
+measurements or other relevant data sources, conduct additional 
+measurements or cross checking with other reported values. 
+ 
+8.3 
+Description of the Monitoring Plan 
+Data quality management must include sufficient data capture such that the mass and energy balances 
+may be easily performed with the need for minimal assumptions and use of contingency procedures. The 
+data shall be of sufficient quality to fulfill the quantification requirements and be substantiated by company 
+records for the purpose of verification. 
+The project proponent shall establish and apply quality management procedures to manage data and 
+information. Written procedures must be established for each measurement task outlining responsibility, 
+timing and record location requirements. The greater the rigor of the management system for the data, 
+the easier it will be to conduct an audit for the project. 
+In case of doubt regarding appropriateness of the proposed sample, the project proponent shall refer to 
+the latest version of the CDM General Guidelines for Sampling and Surveys for Small-Scale Project 
+Activities and Programme of Activities (PoAs). 
+Record keeping practices shall include the following procedures: 
+ 
+Electronic recording of values of logged primary parameters for each measurement interval; 
+ 
+Offsite electronic back-up of all logged data; 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+52 
+ 
+Written logs of operations and maintenance of the project system including notation of all 
+shut-downs, start-ups and process adjustments; and 
+ 
+Storage of all documents and records in a secure and retrievable manner for at least two 
+years after the end of the project crediting period. 
+Quality assurance/Quality control (QA/QC) shall also be applied to add confidence that all measurements 
+and calculations have been made correctly. These include, but are not limited to: 
+ 
+Protecting monitoring equipment (sealed meters and data loggers);  
+ 
+Protecting records of monitored data (hard copy and electronic storage);  
+ 
+Checking data integrity on a regular and periodic basis (manual assessment, comparing 
+redundant metered data, and detection of outstanding data/records);  
+ 
+Comparing current estimates with previous estimates as a ‘reality check’;  
+ 
+Provide sufficient training to operators to perform maintenance and calibration of monitoring 
+devices;  
+ 
+Establish minimum experience and requirements for operators in charge of project and 
+monitoring; and  
+ 
+Performing recalculations to make sure no mathematical errors have been made.  
+Requirements for sampling eligibility of a Territory within a Sustainable Community6: 
+ 
+Project Units in the Territory, connected to the Sustainable Community and which apply all or 
+part of the Sustainable Community activities (identified as ECM and/or waste diversion) are 
+applicable for sampling as long the Sustainable Community data are collected and stored in 
+the project proponent system. 
+ 
+The project proponent’s data collection and storage shall be centrally controlled and 
+administered.  
+ 
+The project proponent shall demonstrate its capacity to identify project units with data that 
+inappropriately7 affects the confidence interval of the Sustainable Community; these project 
+units shall either be audited or excluded from the Sustainable Community. 
+Confidence Interval requirements: 
+ 
+The Confidence Interval shall be set to 95%. 
+ 
+                                                          
+6  Sampling requirements follow guidance provided in ANSI/ASQC Z1.4-2008 “Sampling Procedures and Tables for 
+Inspection” by Attributes and IAF MD 1:2007 “IAF Mandatory Document for the Certification of Multiple Sites Based 
+on Sampling.”   
+7  Inappropriate in this context means data collected which, when compared to regional conditions, are outside the 
+acceptable range (defect). 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+53 
+Sampling size requirements: 
+ 
+The sample shall be partly selective based on factors, such as importance of activities and 
+GHG reduction volume, range of activities being conducted, exceptional performance 
+(beyond Territory and sectoral performance). 
+ 
+The sample shall be partly nonselective, with at least 20% of the sample being selected at 
+random. 
+ 
+The project proponent shall have a documented procedure for determining the sample to be 
+taken when verifying project sites and submit to the validation/verification body.  
+ 
+When necessary, stratified random sampling shall be conducted on homogeneous sub-
+populations. The criteria for sub-population grouping are based on appropriate economic 
+sectors. The criteria are based on an official territory authority classification or an 
+internationally recognized equivalent (examples include the North American Industry 
+Classification System (NAICS) or Statistical Classification of Economic Activities in the 
+European Community (NACE8). 
+For a Territory, there are three different levels of sampling:  
+ 
+Normal: the size of the sample shall be the square root of the number of project units 
+connected to the project proponent, rounded to the upper whole number. 
+ 
+Reduced: the size of the sample shall be the square root of the number of project units 
+connected to the project proponent reduced by a coefficient (max. 0.6) when the overall 
+confidence interval of the Sustainable Community data exceeds the target value9. 
+ 
+Reinforced: the size of the sample shall be the square root of the number of project units 
+connected to the project proponent increased by a coefficient (max. 1.3) when the overall 
+confidence interval of the Sustainable Community data is below the target value. 
+Sample Defect requirements: 
+ 
+The sample size shall be enlarged to a maximum of 160% of the initial size if the reported 
+values for one or more GHG reduction activities is beyond the acceptable range (defect) and 
+the number of defects exceeds the acceptable quality level. 
+ 
+The sample size shall be reduced to a maximum of 60% of the initial size if all client facility 
+reported values are within the acceptable range (no defects) for five consecutive samplings. 
+                                                          
+8 The Statistical Classification of Economic Activities in the European Community (in French: Nomenclature 
+Statistique des Activités économiques dans la Communauté Européenne (NACE)) is a pan-European classification 
+system which groups organizations according to their business activities. 
+9  The target value corresponds to a confidence interval of 95%. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13

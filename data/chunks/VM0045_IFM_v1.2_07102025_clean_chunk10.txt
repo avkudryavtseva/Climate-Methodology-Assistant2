@@ -1,0 +1,787 @@
+10 REFERENCES 
+Brady, N. C., and R. R. Weil. 2008. The Nature and Properties of Soils. Vol. 13. Prentice Hall. 
+Cochran, W. G. 1977. Sampling Techniques. 3rd ed. John Wiley & Sons. 
+Ducey, M. J., and R. A. Knapp. 2010. “A Stand Density Index for Complex Mixed Species Forests 
+in the Northeastern United States.” Forest Ecology and Management 260 (9): 1613–22. 
+https://doi.org/10.1016/j.foreco.2010.08.014 
+Ducey, M. J., M. S. Williams, J. H. Gove, S. Roberge, and R. S. Kenning. 2013. “Distance-limited 
+Perpendicular Distance Sampling for Coarse Woody Debris: Theory and Field Results.” Forestry 
+86 (1): 119–28. https://doi.org/10.1093/forestry/cps059 
+Harmon, M. E., C. W. Woodall, B. Fasth, J. Sexton, and M. Yatkov. 2011. Differences Between 
+Standing and Downed Dead Tree Wood Density Reduction Factors: A Comparison Across Decay 
+Classes and Tree Species. Res. Pap. NRS-15. US Department of Agriculture, Forest Service, 
+Northern Research Station. https://doi.org/10.2737/NRS-RP-15 
+Helms, J. A., ed. 1998. Dictionary of Forestry. Society of American Foresters. 
+Hoover, C., R. Birdsey, B. Goines, et al. 2014. “Quantifying Greenhouse Gas Sources and Sinks in 
+Managed Forest Systems. In Quantifying Greenhouse Gas Fluxes in Agriculture and Forestry: 
+Methods for Entity-scale Inventory. Technical Bulletin Number 1939, edited by M. Eve, D. Pape, 
+M. Flugge, et al. (pp. 6.1–6.114). USDA Office of the Chief Economist. 
+Jenkins, J. C., D. C. Chojnacky, L. S. Heath, and R. A. Birdsey. 2003. “National-scale Biomass 
+Estimators for United States Tree Species.” Forest Science 49 (1): 12–35. 
+https://doi.org/10.1093/forestscience/49.1.12 
+Smith, J. E., L. S. Heath, K. E. Skog, and R. A. Birdsey. 2006. Methods for Calculating Forest 
+Ecosystem and Harvested Carbon with Standard Estimates for Forest Types of the United States. 
+Gen. Tech. Rep. NE-343. US Department of Agriculture, Forest Service, Northeastern Research 
+Station.  
+Som, R. K. 1995. Practical Sampling Techniques. 2nd ed. Taylor & Francis. 
+Van Wagner, C. E. 1968. “The Line Intersect Method in Forest Fuel Sampling.” Forest Science 14 
+(1): 20–6.  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+55 
+Warren, W. G., and P. F. Olsen. 1964. “A Line Intersect Technique for Assessing Logging Waste.” 
+Forest Science 10 (3): 267–76.  
+Williams, M. S., and J. H. Gove. 2003. “Perpendicular Distance Sampling: An Alternative Method 
+for Sampling Downed Coarse Woody Debris.” Canadian Journal of Forest Research 33 (8): 1564–
+79. https://doi.org/10.1139/x03-056 
+Williams, M. S., H. T. Valentine, J. H. Gove, and M. J. Ducey. 2005. “Additional Results for 
+Perpendicular Distance Sampling.” Canadian Journal of Forest Research 35 (4): 961–6. 
+https://doi.org/10.1139/x05-023 
+Winjum, J. K., S. Brown, and B. Schlamadinger. 1998. “Forest Harvests and Wood Products: 
+Sources and Sinks of Atmospheric Carbon Dioxide.” Forest Science 44 (2): 272–84. 
+https://doi.org/10.1093/forestscience/44.2.272 
+Woodall, C. W., L. S. Heath, G. M. Domke, and M. C. Nichols. 2011. Methods and Equations for 
+Estimating Aboveground Volume, Biomass, and Carbon for Trees in the US Forest Inventory, 
+2010. US Department of Agriculture, Forest Service, Northeastern Research Station. 
+https://doi.org/10.2737/NRS-GTR-88 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+56 
+APPENDIX 1: PERFORMANCE METHOD – 
+UNITED STATES 
+A1.1 Introduction 
+This appendix must be used in tandem with the main methodology body for all projects in the United 
+States. The appendix focuses on a step-by-step process for developing a composite baseline using US 
+Forest Service Forest Inventory and Analysis (FIA) data. All steps included in this appendix must be 
+considered a requirement of the methodology unless explicitly labeled as optional. Similar appendices 
+may be required for additional geographies based on available national or regional forest inventory data 
+that meet all requirements within the main methodology body. 
+A1.2 Applicability Conditions 
+This appendix is applicable where both of the following conditions are met: 
+1) The project activity meets all applicability conditions set out in Section 4 of the methodology. 
+2) The project area is located within the conterminous United States. 
+Note that application of the performance benchmark effectively excludes, based on comparative 
+outcomes, crediting of project activities that may be expected to be implemented without carbon 
+incentives. It also ensures that credited projects produce performance improvements relative to the 
+business-as-usual case (represented by the crediting baseline). The most plausible baseline scenario is 
+defined by the level of carbon stock change observed in the matched control (without carbon finance) 
+plots. For example: 
+• 
+IFM activity implementing constraints on timber harvest: Matched control plots may be 
+expected to witness business-as-usual timber harvests of greater magnitude and/or higher 
+frequency than the project activity that imposes constraints on timber harvest. 
+• 
+IFM activity implementing management of competing vegetation to release natural 
+regeneration: Matched control plots, subject to business-as-usual minimal or no treatment of 
+competing invasive shrubs may be expected to witness continued suppression of natural 
+regeneration and lower tree growth than the project activity that reduces the extent of 
+competing vegetation and releases the regenerating trees. 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+57 
+A1.3 Baseline Scenario 
+The baseline scenario is represented by business-as-usual practice on US Forest Service (USFS) Forest 
+Inventory and Analysis (FIA) inventory plots matched to specific project sample units.21 FIA inventory 
+plots are an appropriate source for establishing business-as-usual practices in the US, selected via 
+representative sampling at a national scale and meeting all other requirements specified in Section 6 
+of the methodology. Selection of appropriately matched FIA inventory plots is ensured through 
+requirements regarding donor pool selection (see Section A1.5). 
+A1.4 Performance Benchmark 
+The performance benchmark is set equal to weighted average stock change measured on FIA plots 
+matched to specific project sample units (with weighting proportional to the closeness of the match), 
+representing business-as-usual practice. Equation (1) in the methodology derives and applies the 
+performance benchmark for demonstration of additionality. Equation (6) derives the performance 
+benchmark for the crediting baseline. The performance benchmarks essentially represent expected 
+business-as-usual practice in forest stands similar to the project area. Equations (1) and (6) are 
+dependent on periodic measurement of matched FIA plots. Procedures to match FIA plots to project 
+sample units are provided below. Nearest-neighbor matching is an established impact evaluation 
+approach in the environmental field22 and has been previously applied to evaluate the impacts of 
+incentive programs on forest management using US Forest Service National Woodland Owner Survey 
+data.23 
+A1.5 Procedure for Developing Composite Baselines in the United States 
+In the United States, composite baselines (used to derive performance benchmarks for additionality 
+and crediting baselines) must be developed using data derived from the USFS FIA database. The 
+following steps must be followed to develop matches for the population of sample units: 
+ 
+21 The measurement frequency of control plots in VM0045 is currently constrained by the availability of FIA sampling 
+data. The FIA program collects and updates forest inventory data on a rolling basis via a rotating panel design (Bechtold 
+and Patterson 2005), where a fraction of the total plots is measured each year, ensuring a steady stream of updated 
+data. The data are collected continuously, measuring a subset (~10–20%) of total plots each year. This means that full 
+forest inventories are completed every 5–10 years, depending on the state or region (i.e., each FIA plot is revisited every 
+5–7 years in the Eastern US while in the Western US, where forest change is generally slower, plots are remeasured 
+every 10 years) (see Appendix J in the 2024 FIA user guide). As a result, at any given time, the FIA dataset contains both 
+newly measured plots and older measurements awaiting updates. In consequence, in this methodology, carbon stock 
+change is annualized over the length of the measurement interval, mitigating the potential delay in reflecting changes 
+by smoothing data over time.  
+22 Ferraro, P. J., and M. M. Hanauer. 2014. “Advances in Measuring the Environmental and Social Impacts of 
+Environmental Programs.” Annual Review of Environment and Resources 39 (1): 495–517. 
+https://doi.org/10.1146/annurev-environ-101813-013230 
+23 Song, N., F. X. Aguilar, and B. J. Butler. 2014. “Cost-share Program Participation and Family Forest Owners' Past and 
+Intended Future Management Practices.” Forest Policy and Economics 46: 39–46. 
+https://doi.org/10.1016/j.forpol.2014.06.003 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+58 
+1) Donor pool selection: The donor pool for each sample unit is set by a process that involves the 
+application of both exact matching criteria and calipers (maximum permitted difference 
+between sample unit and individual control plots). 
+a) Subset the FIA database to select eligible FIA plots. Begin with the most recent 
+measurement of potential donor plots (i.e., exclude plots whose PLT_CN is listed as 
+another plot’s PREV_PLT_CN in the FIA PLOT table). Then, exclude plots that meet any of 
+the following criteria (plots must not be excluded on the basis of any criteria other than 
+those provided below): 
+i) 
+Lacking at least two completed measurement cycles (i.e., KINDCD in FIA PLOT 
+table is equal to 2) or lacking measurement from the most recently completed re-
+measurement cycle 
+ii) 
+Spanning more than one condition code (i.e., FIA COND table variable 
+CONDPROP_UNADJ is equal to 1) 
+iii) 
+Located inside of the project area (to assess the location of any FIA plot, the 
+nearest project area boundary is buffered externally by 1.6 kilometers) 
+iv) 
+Optional – Located within a registered GHG mitigation project area (where this is 
+possible to determine;24 to assess the location of any FIA plot, the nearest project 
+area boundary is buffered externally by 1.6 kilometers) 
+v) 
+Not of the same stand origin category as the project sample unit (i.e., STDORGCD 
+from FIA COND table) 
+vi) 
+Not of the same forest type group25 as the project sample unit 
+vii) 
+Not within the same land ownership class (public, private) as the project sample 
+unit 
+viii) 
+Not within the same US Forest Service ecological section26 as the project sample 
+unit. 
+ix) 
+Optional – calipers: FIA plots may be excluded where they exceed a user-
+specified caliper value (an absolute value of the difference between the sample 
+unit and FIA plot value) for one or more of the included continuous covariates 
+(see Table A1.1). The magnitude of any calipers applied may be set by the project 
+proponent, justified based on the expected relationship between the covariate 
+ 
+24 Note that (iv) is optional and it is conservative to include plots located within a registered GHG mitigation project area. 
+25 Forest type groups are listed in Appendix D in Burrill, E. A., G. A. Christensen, B. L. Conkling, et al. 2023. The Forest 
+Inventory and Analysis Database: Database Description and User Guide Version 9.1 for Phase 2. US Department of 
+Agriculture, Forest Service. https://www.fia.fs.usda.gov/library/database-
+documentation/current/ver91/FIADB%20User%20Guide%20P2_9-1_final.pdf 
+26 Cleland, D. T., J. A. Freeouf, J. E. Keys, G. J. Nowacki, C. A. Carpenter, and W. H. McNab. 2007. Ecological Subregions: 
+Sections and Subsections for the Conterminous United States. Gen. Tech. Report WO-76D. USDA Forest Service. 
+https://doi.org/10.2737/WO-GTR-76D 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+59 
+and stock change (in the context of the IFM project activity), and number of 
+available FIA plots (see Part b). 
+b) Where after donor pool selection there are fewer than 50 plots available for matching, 
+redefine the donor pool in a stepwise fashion following the criteria below. After each 
+step, assess the size of the donor pool; when it exceeds 50 plots, proceed to matching in 
+Step 2 below. 
+i) 
+Remove any calipers applied in Step (ix) above. 
+ii) 
+Remove the restriction to ecological section, incorporating all FIA plots within the 
+ecological province where that ecological section is found. 
+iii) 
+Remove the restriction to ecological province, incorporating all FIA plots within 
+the states where that ecological province is found. 
+2) Matching: Matching applies a k-nearest neighbor optimal matching approach with 
+replacement,27 with k equal to 10. For each FIA plot in the donor pool, calculate initial condition 
+covariates from the most recent plot measurements collected prior to project start, then 
+calculate Mahalanobis distances relative to each project sample unit. For each project sample 
+unit, select the 10 FIA plots with the lowest Mahalanobis distances and derive relative weights 
+proportional to the inverse of the Mahalanobis distance, that sum to 1 (Equation (A1) below). 
+The vector of initial condition covariates must include the covariates specified in Table A1.1. 
+Additional covariates may be incorporated provided that there is a theoretically sound or 
+empirically demonstrated basis for including them (e.g., peer-reviewed study), they are derived 
+from direct measurements or published sources (e.g., US Census Bureau data), and minimum 
+match quality is obtained (see below). 
+𝑊𝑏𝑠𝑙,𝑖,𝑗=
+1 𝑀𝐷𝑖𝑗
+⁄
+× 100
+∑
+1 𝑀𝐷𝑖𝑗
+⁄
+× 100
+10
+𝑗=1
+ 
+(A1) 
+Where: 
+Wbsl,i,j = 
+Weight of constituent baseline plot j in matched composite baseline i; value 
+between 0 and 1 (dimensionless) 
+MDij 
+= 
+Mahalanobis distance of constituent baseline plot ij relative to project sample 
+unit i (dimensionless) 
+Mahalanobis distance is a multivariate measure defining the “nearness” or similarity of two 
+individuals, here a project sample unit and a FIA plot in the donor pool. The R package 
+optmatch28 may be used to calculate Mahalanobis distances and implement the matching 
+ 
+27 See Stuart, E. A. 2010. “Matching Methods for Causal Inference: A Review and a Look Forward.” Statistical Science 
+25 (1): 1–21. https://doi.org/10.1214/09-STS313 
+28 Hansen, B. B., and S. O. Klopfer. 2006. “Optimal Full Matching and Related Designs Via Network Flows.” Journal of 
+Computational and Graphical Statistics 15 (3): 609–27. https://doi.org/10.1198/106186006X137047 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+60 
+approach outlined above. Calculation of Mahalanobis distance is further explained in Rosenbaum 
+(201029) and Stuart (201030). 
+Table A1.1. Required covariates for obtaining matches of composite baselines from 
+USFS FIA plots (see also Data and parameters available at validation for project sample 
+unit, below) 
+Covariate 
+FIA Database Code31 
+Unit 
+Distance to sample 
+(treatment/project case) unit 
+ 
+Kilometers 
+Stand age 
+STDAGE 
+Years 
+Site productivity class code 
+SITECLCD 
+FIA Classes 1–7 (in cubic 
+feet/acre/year) 
+Regeneration Stocking – Total 
+relative density per acre 
+(Ducey and Knapp 201032) of 
+all live trees ≥1” and <5” dbh, 
+of commercial species from 
+FIA’s SEEDLING and TREE 
+tables. Commercial species 
+are defined as those not from 
+species groups 23, 43, or 48 
+(see FIA Database User Guide 
+Appendix E). Relative density 
+(RD) per acre is calculated for 
+each individual as RDper acre = 
+2.47 × (0.00015 + (0.00218 
+× SpecificGravitySpecies)) × 
+(dbh/10)1.6 
+Derived from FIA database 
+(FIADB) data regeneration 
+microplot and tree subplot 
+Dimensionless (0 to 1) 
+Elevation (optional)  
+ELEV 
+Feet (in 10 or 100 foot categories) 
+ 
+29 Rosenbaum, P. R. 2010. Design of Observational Studies. 1st ed. Springer. https://doi.org/10.1007/978-1-4419-
+1213-8 
+30 Stuart, E. A. 2010. “Matching Methods for Causal Inference: A Review and a Look Forward.” Statistical Science 25 
+(1): 1–29. https://doi.org/10.1214/09-STS313 
+31 Burrill, E. A., G. A. Christensen, B. L. Conkling, et al. 2023. The Forest Inventory and Analysis Database: Database 
+Description and User Guide Version 9.1 for Phase 2. US Department of Agriculture, Forest Service. 
+https://www.fia.fs.usda.gov/library/database-documentation/current/ver91/FIADB%20User%20Guide%20P2_9-
+1_final.pdf 
+32 Ducey, M. J., and R. A. Knapp. 2010. “A Stand Density Index for Complex Mixed Species Forests in the Northeastern 
+United States.” Forest Ecology and Management 260 (9): 1613–22. https://doi.org/10.1016/j.foreco.2010.08.014 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+61 
+Covariate 
+FIA Database Code31 
+Unit 
+Slope 
+SLOPE 
+Percent 
+Commercial Stocking – Total 
+relative density per acre 
+(Ducey and Knapp 2010) of 
+live trees of commercial 
+species ≥5” dbh, with at least 
+one sound, straight eight-foot 
+section. Commercial species 
+are defined as above. 
+Derived from FIADB data, 
+uses TREECLCD to identify 
+trees with requisite form 
+characteristics 
+Dimensionless (0 to 1) 
+Quadratic mean diameter = 
+diameter of tree with average 
+basal area (considering only 
+live trees >5” dbh) 
+Derived from FIADB data 
+Inches 
+Horizontal distance to 
+improved road 
+RDDISTCD 
+Code (1 to 9) 
+ 
+3) Match quality: Match quality is assessed across the sample population of matched pairs (project 
+sample units and matched composite baselines). For each included covariate x, calculate the 
+standardized difference of means (SDM) as: 
+𝑆𝐷𝑀= |𝑥𝑤𝑝,𝑥−𝑥𝑏𝑠𝑙,𝑥|
+√(
+𝜎𝑤𝑝,𝑥
+2
++ 𝜎𝑏𝑠𝑙,𝑥
+2
+2
+)
+⁄
+ 
+(A2) 
+Where: 
+SDM 
+= 
+Standardized difference of means 
+x wp,x 
+= 
+Mean value of covariate x in the population of sample units representing the 
+project scenario 
+x bsl,x 
+= 
+Mean value of weighted sum of covariate x in the population of matched 
+composite baselines representing the baseline scenario 
+𝜎𝑤𝑝,𝑥
+2
+ 
+= 
+Sample variance of covariate x in the population of sample units representing 
+the project scenario 
+𝜎𝑏𝑠𝑙,𝑥
+2
+ 
+= 
+Sample variance of covariate x in the population of sample units representing 
+the baseline scenario 
+The mean value of the weighted sum of covariate x in the population of matched composite 
+baselines representing the baseline scenario is calculated as: 
+𝑥𝑏𝑠𝑙,𝑥= (1
+𝑛) × ∑
+∑
+𝐶𝑜𝑣𝑎𝑟𝑖𝑎𝑡𝑒𝑥,𝑖,𝑗
+10
+𝑗=1
+𝑛
+𝑖=1
+× 𝑊𝑏𝑠𝑙,𝑖,𝑗 
+(A3) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+62 
+Where: 
+Covariatex,i,j 
+= 
+Value of covariate x for constituent baseline plot j in matched composite 
+baseline i  
+Wbsl,i,j 
+= 
+Weight of constituent baseline plot j in matched composite baseline i; 
+value between 0 and 1, derived in Equation (A1) (dimensionless) 
+n 
+= 
+Number of matched composite baselines 
+Note – Distance to sample unit (a required covariate) will necessarily be equal to 0 for all sample units. 
+As a result, distance to sample unit must be replaced with latitude and longitude for calculation of 
+SDMs and matching quality assessment.  
+Overall match results are deemed valid where SDM for each covariate is less than or equal to 
+0.25. Where the overall match is deemed valid, component plots and their respective weights 
+across the population of composite baselines are fixed for the duration of the crediting period. 
+If the overall match is not deemed valid, the donor pool selection and matching steps above 
+are repeated with progressively smaller k values until a valid overall match is achieved. 
+Data and parameters available at validation for project sample units (sources of covariate 
+values for project sample units) 
+Data/Parameter 
+Distance to sample (treatment/project case) unit 
+Data unit 
+Kilometers 
+Description 
+Distance to sample (treatment/project case) unit 
+Equations 
+N/A 
+Source of data 
+Calculated from GIS analysis of geo-referenced locations 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Sample unit centers must be geo-referenced in the field with GPS using 
+latitude/longitude. Where a two-stage sample is used (e.g., with a stand 
+as the primary unit and plots as the secondary unit), the relevant 
+location is the centroid of the primary unit.  
+“Fuzzed” (uncorrected) locations of FIA plots recorded in the FIADB are 
+used for the analysis. 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+STDAGE 
+Data unit 
+Years 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+63 
+Description 
+Stand age 
+Equations 
+N/A 
+Source of data 
+Increment cores taken at breast height from sampled trees, obtained via 
+plot-based sampling (see description of measurement methods for live 
+aboveground biomass, LAG) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Stand age calculated as average total age (age at breast height + the 
+number of years that passed from germination until the tree reached the 
+point of core extraction).  
+Stand age is estimated from increment cores from three or more 
+representatively sampled live trees >5” dbh, and not over-topped, from 
+within the project sample unit.  
+Core each tree at the point of diameter measurement and count the rings 
+between the outside edge and the core to the pith. Add in the number of 
+years that passed from germination until the tree reached the point of 
+core extraction to determine the total age of the tree: 5 years for all 
+eastern species, 5 years for western hardwoods, and 10 years for 
+western softwoods. Compute the average age across all cored trees in 
+the project sample unit.33 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+SITECLCD 
+Data unit 
+FIA Classes 1–7 (in cubic feet/acre/year) – see definitions in the FIADB 
+User Guide 
+Description 
+Site productivity class code 
+Equations 
+N/A 
+Source of data 
+NRCS Web Soil Survey Database34  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+SITECLCD is determined for the sample unit location (center), or where 
+a two-stage sample is used (e.g., with a stand as the primary unit and 
+ 
+33 Taken from USFS FIA Regional Field Guides for Standard (Phase 2) Measurements. Available at: 
+https://www.fia.fs.usda.gov/library/field-guides-methods-proc/ 
+34 Available at: https://websoilsurvey.sc.egov.usda.gov/App/HomePage.htm 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+64 
+measurement methods 
+and procedures applied 
+plots as the secondary unit), SITECLCD is determined as the area-
+weighted average value for the primary unit. 
+For each map unit, the relevant reference tree species in the NRCS 
+Web Soil Survey is identified as the available tree species with the 
+highest relative basal area, determined from plot-based sampling (see 
+description of measurement methods for live aboveground biomass, 
+LAG).  
+Where a map unit has <NULL> site productivity values, SITECLCD is 
+sourced from the map unit nearest to the project sample unit for which 
+site productivity values are available. 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+Regeneration stocking 
+Data unit 
+Dimensionless 
+Description 
+Total relative density per acre (Ducey and Knapp 2010) of all live trees 
+≥1” and <5” dbh of commercial species. Commercial species are defined 
+as those not from species groups 23, 43, or 48 (see FIA Database User 
+Guide Appendix E).  
+Equations 
+N/A 
+Source of data 
+Plot-based sampling (see description of measurement methods for live 
+aboveground biomass, LAG) 
+Value applied 
+Between 0 and 1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Relative density (RD) per acre is calculated for each individual tree as 
+follows and is then summed for the sample unit: 
+𝑅𝐷𝑝𝑒𝑟 𝑎𝑐𝑟𝑒= 2.47 × ((0.00015 + (0.00218 × 𝑆𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝐺𝑟𝑎𝑣𝑖𝑡𝑦𝑆𝑝𝑒𝑐𝑖𝑒𝑠))
+× (𝑑𝑏ℎ
+10 )1.6 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+Commercial stocking 
+Data unit 
+Dimensionless 
+Description 
+Total relative density per acre (Ducey and Knapp 2010) of live trees of 
+commercial species, ≥5” dbh, with at least one sound, straight eight-
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+65 
+foot section. Commercial species are defined as those not from species 
+groups 23, 43, or 48 (see FIA Database User Guide Appendix E).  
+Equations 
+N/A 
+Source of data 
+Plot-based sampling (see description of measurement methods for live 
+aboveground biomass, LAG) 
+Value applied 
+Between 0 and 1 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Relative density (RD) per acre is calculated for each individual tree as 
+follows and then summed for the sample unit. 
+𝑅𝐷𝑝𝑒𝑟 𝑎𝑐𝑟𝑒= 2.47 × ((0.00015 + (0.00218 × 𝑆𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝐺𝑟𝑎𝑣𝑖𝑡𝑦𝑆𝑝𝑒𝑐𝑖𝑒𝑠))
+× (𝑑𝑏ℎ
+10 )1.6 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+ELEV 
+Data unit 
+Feet (in 10 or 100 foot categories) 
+Description 
+Elevation 
+Equations 
+N/A 
+Source of data 
+GPS or digital elevation model 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+ELEV is determined for the sample unit location (center), or where a 
+two-stage sample is used (e.g., with a stand as the primary unit and 
+plots as the secondary unit), ELEV is determined as the average value 
+for the secondary units. 
+Purpose of data 
+Matching 
+Comments 
+As per Table A1.1, elevation may be considered optional.  
+ 
+Data/Parameter 
+SLOPE 
+Data unit 
+Percent 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+66 
+Description 
+Slope 
+Equations 
+N/A 
+Source of data 
+Digital elevation model or plot-based sampling with hypsometer or 
+clinometer (sample unit average slope) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Where determined referencing a digital elevation model, SLOPE is 
+determined for the sample unit location, or where a two-stage sample is 
+used (e.g., with a stand as the primary unit and plots as the secondary 
+unit), SLOPE is determined as the area-weighted average value for the 
+primary unit. 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+Quadratic mean diameter 
+Data unit 
+Inches (to the nearest 0.1 inch) 
+Description 
+Diameter of tree with average basal area 
+Equations 
+N/A 
+Source of data 
+Plot-based sampling (see description of measurement methods for live 
+aboveground biomass, LAG) 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Based on live trees >5” dbh only 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+Data/Parameter 
+RDDISTCD 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+67 
+Data unit 
+Code (0 to 9) – see definitions in the FIADB User Guide35 
+Description 
+Horizontal distance to improved road 
+Equations 
+N/A 
+Source of data 
+GIS analysis 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Calculated as the shortest straight line, overland distance from the 
+sample unit center to the nearest improved road. An improved road is a 
+road of any width that is maintained as evidenced by pavement, gravel, 
+grading, ditching, and/or other improvements.  
+Where a two-stage sample is used (e.g., with a stand as the primary 
+unit and plots as the secondary unit), the relevant location is the 
+centroid of the primary unit. 
+Purpose of data 
+Matching 
+Comments 
+None 
+ 
+ 
+ 
+35 Burrill, E. A., G. A., Christensen, B. L., Conkling, et al. 2023. The Forest Inventory and Analysis Database: Database 
+Description and User Guide Version 9.1 for Phase 2. US Department of Agriculture, Forest Service. 
+https://www.fia.fs.usda.gov/library/database-documentation/current/ver91/FIADB%20User%20Guide%20P2_9-
+1_final.pdf 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+68 
+APPENDIX 2: TESTING THE SIGNIFICANCE 
+OF CARBON POOLS AND GHG 
+EMISSIONS 
+This appendix outlines a stepwise procedure for determining the significance of decreases in optional 
+carbon pools and GHG emission sources, (Es). All Es may be deemed de minimis and excluded from 
+quantification if their combined impact (in tCO2e) is less than 5% of the total amount of carbon 
+removals and reductions expected from the project, see Step 1, Equation (A4). Where the combined 
+significance of optional pools and emissions sources is greater than 5% proceed to Step 2 Equation 
+(A5) to determine which individuals carbon pools and GHG emissions sources must be included.  
+Step 1: Determine Combined Significance of Es  
+𝐶𝑆𝑅=
+∑𝐸𝑠
+𝐶𝑅 x 100 
+(A4) 
+ 
+1) If CSR < 0.05 (i.e., less than 5%), all optional sources are deemed de minimis, 
+2) If CSR ≥ 0.05, proceed to Step 2 to determine which decreases in carbon pools and GHG 
+emissions must be included.  
+Step 2: Determine Significance of Individual Es  
+For each Es, calculate its relative contributions (RCEs ) to the total carbon pool decrease and GHG 
+emissions sources (Es)   
+𝑅𝐶𝐸𝑠= 𝐸𝑠
+∑𝐸𝑠
+ 
+(A5) 
+Where: 
+RCEs 
+= Relative contribution of each source s to the sum of project and leakage 
+GHG emissions and decreases in optional carbon pools 
+Es 
+= GHG project emissions,  and decreases in optional carbon pools 
+s 
+= 1, 2, 3, …, S sources of project GHG emissions (excluding leakage) and 
+decreases in carbon pools 
+1) Order Es according to their ranks from largest sources to smallest.  
+CSR 
+= Combined Significance Ratio (%) 
+CR 
+= Net carbon removals and reductions during the project crediting period   
+Es 
+= GHG project emissions and decreases in optional carbon pools 
+s 
+= 1, 2, 3, …, S sources of project GHG emissions (excluding leakage) and 
+decreases in carbon pools 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+69 
+2) Sum RCEs starting from the largest. Stop when the cumulative sum equals or exceeds 0.95.  
+3) Include all the sources that add up to, or exceed, 0.95. 
+4) Any remaining sources (those that make up the last 5%) may be excluded, but only if their combined 
+impact is also less than 5% of total CR. If not, keep adding GHG emissions sources until that condition 
+is met. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0045, v1.2

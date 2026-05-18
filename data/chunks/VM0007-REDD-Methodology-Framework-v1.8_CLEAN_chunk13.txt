@@ -1,0 +1,462 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data / Parameter 
+∆CBSL,planned 
+Data unit 
+tCO2e 
+Description 
+Net greenhouse gas emissions in the baseline from planned 
+deforestation 
+Equations 
+(3), (13) 
+Source of data 
+Module BL-PL 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module BL-PL 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+∆CBSL,unplanned 
+Data unit 
+tCO2e 
+Description 
+Net greenhouse gas emissions in the baseline from unplanned 
+deforestation 
+Equations 
+(3), (14) 
+Source of data 
+Module BL-UP 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+See Module BL-UP 
+ 
+VM0007, v1.8 
+40 
+measurement methods 
+and procedures applied 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+ 
+Data / Parameter 
+GHGBSL-WRC  
+Data unit 
+tCO2e 
+Description 
+Net GHG emissions in the WRC baseline scenario up to year t* 
+Equations 
+(6), (7) 
+Source of data 
+Module BL-PEAT 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module BL-PEAT 
+Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFC,i,t 
+Data unit 
+tCO2e  
+Description 
+Emissions from fossil fuel combustion in stratum i in year t 
+Equations 
+(14), (15) 
+Source of data 
+Module E-FFC 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module E-FFC 
+Purpose of Data 
+Calculation of project emissions 
+ 
+VM0007, v1.8 
+41 
+Comments 
+ 
+9.2 
+Data and Parameters Monitored 
+Data / Parameter: 
+CWPS-REDD 
+Data unit: 
+tCO2e 
+Description: 
+Net GHG emissions in the REDD project scenario up to year t* 
+Equations 
+(2) 
+Source of data: 
+Module M-REDD 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Module M-REDD 
+Frequency of 
+monitoring/recording: 
+See Module M-REDD 
+QA/QC procedures to be 
+applied: 
+See Module M-REDD 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+See Module M-REDD 
+Comments: 
+ 
+ 
+Data / Parameter 
+∆CLK-AS,planned 
+Data unit 
+tCO2e 
+Description 
+Net greenhouse gas emissions due to activity shifting leakage for 
+projects preventing planned deforestation 
+Equations 
+(4) 
+Source of data 
+Module LK-ASP 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module LK-ASP 
+Purpose of Data 
+Calculation of leakage 
+ 
+VM0007, v1.8 
+42 
+Calculation method: 
+See Module LK-ASP 
+Comments 
+ 
+ 
+Data / Parameter 
+∆CLK-AS,unplanned 
+Data unit 
+tCO2e 
+Description 
+Net greenhouse gas emissions due to activity shifting for projects 
+preventing unplanned deforestation 
+Equations 
+(4) 
+Source of data 
+Module LK-ASU 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module LK-ASU 
+Purpose of Data 
+Calculation of leakage 
+Calculation method: 
+See Module LK-ASU 
+Comments 
+ 
+ 
+Data / Parameter 
+∆CLK-ME 
+Data unit 
+tCO2e 
+Description 
+Net greenhouse gas emissions due to market-effects leakage 
+Equations 
+(4) 
+Source of data 
+Module LK-ME 
+Value applied 
+ 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module LK-ME 
+Purpose of Data 
+Calculation of leakage 
+Calculation method: 
+See Module LK-ME 
+ 
+VM0007, v1.8 
+43 
+Comments 
+ 
+ 
+ 
+ 
+Data / Parameter: 
+GHGWPS-WRC 
+Data unit: 
+tCO2e 
+Description: 
+Net GHG emissions in the WRC project scenario up to year t* 
+Equations 
+(6) 
+Source of data: 
+Module M-PEAT 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Module M-PEAT 
+Frequency of 
+monitoring/recording: 
+See Module M-PEAT 
+QA/QC procedures to be 
+applied: 
+See Module M-PEAT 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+See Module M-PEAT 
+Comments: 
+See Module M-PEAT 
+ 
+Data / Parameter 
+GHGLK-ECO 
+Data unit 
+tCO2e 
+Description 
+Net GHG emissions due to ecological leakage from the WRC project 
+activity up to year t 
+Equations 
+(6) 
+Source of data 
+Module LK-ECO 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+See Module LK-ECO 
+ 
+VM0007, v1.8 
+44 
+measurement methods 
+and procedures applied 
+Purpose of Data 
+Calculation of leakage 
+Calculation method: 
+See Module LK-ECO 
+Comments 
+ 
+ 
+Data / Parameter 
+EFC,i,t 
+Data unit 
+tCO2e  
+Description 
+Emission from fossil fuel combustion in stratum i in year t 
+Equations 
+(14), (15) 
+Source of data 
+Module E-FFC 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module E-FFC 
+Purpose of Data 
+Calculation of project emissions 
+Calculation method: 
+See Module E-FFC 
+Comments 
+ 
+ 
+Data / Parameter 
+N2Odirect-N,i,t 
+Data unit 
+tCO2e  
+Description 
+Direct N2O emission as a result of nitrogen application on the 
+alternative land use within the project boundary in stratum i in year t 
+Equations 
+(14), (15) 
+Source of data 
+Module E-NA 
+Value applied 
+n/a 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Module E-NA 
+ 
+VM0007, v1.8 
+45 
+Purpose of Data 
+Calculation of project emissions 
+Calculation method: 
+See Module E-NA 
+Comments 
+ 
+9.3 
+Description of the Monitoring Plan 
+9.3.1 Development of Monitoring Plan 
+General 
+The monitoring plan must address the following monitoring tasks, which must be included in the 
+monitoring plan: 
+1) Monitoring of project implementation 
+2) Monitoring of actual carbon stock changes and greenhouse gas emissions 
+3) Monitoring of leakage carbon stock changes and greenhouse gas emissions 
+4) Ex post estimation of net carbon stock changes and greenhouse gas emissions 
+For each of these tasks, the monitoring plan must include the following information: 
+1) Technical description of the monitoring task  
+2) Data to be collected (the list of data and parameters to be collected must be given in PD) 
+3) Overview of data collection procedures 
+4) Quality control and quality assurance procedure  
+5) Data archiving 
+6) Organisation and responsibilities of the parties involved in all of the above 
+Uncertainty and Quality Management 
+Quality management procedures are required for the management of data and information, 
+including the assessment of uncertainty relevant to the project and baseline scenarios. As far as 
+is practical, uncertainties related to the quantification of GHG emission reductions and removals 
+by sinks should be reduced. 
+To help reduce uncertainties in the accounting of emissions and removals, this methodology 
+uses, whenever possible, the proven methods from the latest available IPCC guidance documents 
+(GPG-LULUCF and Reporting Guidelines) and peer-reviewed literature. Despite this, potential 
+uncertainties still arise from the choice of parameters to be used. Uncertainties arising from input 
+parameters would result in uncertainties in the estimation of both baseline and project net GHG 
+emissions – especially when global default factors are used. The project must identify key 
+parameters that would significantly influence the accuracy of estimates. Local values that are 
+specific to the project circumstances must then be obtained for these key parameters, whenever 
+possible. These values must be based on: 
+ 
+VM0007, v1.8 
+46 
+• 
+Data from well-referenced peer-reviewed literature or other well-established published 
+sources21F21; or 
+• 
+National inventory data or default factors from IPCC literature that has, whenever 
+possible and necessary, been checked for consistency against available local data 
+specific to the project circumstances; or 
+• 
+In the absence of the above sources of information, expert opinion must be used to 
+assist with data selection. Experts will often provide a range of data, as well as a most 
+probable value for the data. The rationale for selecting a particular data value must be 
+briefly noted. 
+In choosing key parameters, or making important assumptions based on information that is not 
+specific to the project circumstances, such as in use of default factors, the project must select 
+values that will lead to an accurate estimation of net GHG emission reductions, taking into 
+account uncertainties. 
+If uncertainty is significant, the project must choose data such that it indisputably tends to under-
+estimate, rather than over-estimate, net GHG project benefits. 
+To ensure that GHG fluxes are estimated in a way that is accurate, verifiable, transparent, and 
+consistent across measurement periods, the project must establish and document clear standard 
+operating procedures and procedures for ensuring data quality. At a minimum, these procedures 
+must include: 
+• 
+Comprehensive documentation of all field measurements carried out in the project area. 
+This document must be detailed enough to allow replication of sampling in the event of 
+staff turnover between monitoring periods 
+• 
+Training procedures for all persons involved in field measurement or data analysis. The 
+scope and date of all training must be documented 
+• 
+A protocol for assessing the accuracy of plot measurements using a check cruise and a 
+plan for correcting the inventory if errors are discovered 
+• 
+Protocols for assessing data for outliers, transcription errors, and consistency across 
+measurement periods 
+• 
+Data sheets must be safely archived for the life of the project. Data stored in electronic 
+formats must be backed up 
+ 
+21 Typically, citations for sources of data used must include: the report or paper title, publisher, page numbers, 
+publication date, etc. (or a detailed web address). If web-based reports are cited, hardcopies must be included as 
+annexes in the PD if there is any likelihood that such reports may not be permanently available. 
+ 
+VM0007, v1.8 
+47 
+Expert judgement 
+The use of expert judgment for the selection and interpretation of methods, selection of input 
+data to fill gaps in available data, and selection of data from a range of possible values or 
+uncertainty ranges, are all well established in the IPCC 2006 good practice guidance. Obtaining 
+well-informed judgments from domain experts regarding best estimates and uncertainties is an 
+important aspect in various procedures throughout this methodology. The project proponent must 
+use the guidance provided in Chapter 2 (Approaches to Data Collection), in particular, Section 2.2 
+and Annex 2A.1 of the IPCC 2006 good practice guidance. 
+Monitoring of Project Implementation 
+Information must be provided, and recorded, to establish that: 
+1) The geographic position of the project boundary is recorded for all areas of land. The 
+geographic coordinates of the project boundary (and any stratification or buffer zones 
+inside the boundary) are established, recorded and archived. This may be achieved by field 
+survey (e.g., using GPS), or by using georeferenced spatial data (e.g., maps, GIS datasets, 
+orthorectified aerial photography or georeferenced remote sensing images). 
+The above also applies to the recording of strata, including strata resulting from peatland 
+fires in the project scenario. 
+2) Commonly accepted principles of land use inventory and management are implemented. 
+• 
+Standard operating procedures (SOPs) and quality control/quality assurance 
+(QA/QC) procedures for inventories including field data collection and data 
+management must be applied. Use or adaptation of SOPs already applied in 
+national land use monitoring, or available from published handbooks, or from the 
+latest IPCC guidance documents (GPG–LULUCF, Reporting Guidelines, is 
+recommended 
+• 
+Apply SOPs, especially for actions likely to cause peat disturbances 
+• 
+The project plan, together with a record of the plan as actually implemented during 
+the project must be available for validation or verification, as appropriate 
+For WRC project activities, continued compliance with the applicability conditions of this 
+methodology must be ensured by monitoring that: 
+• 
+The water table is not lowered except where the project converts open water to tidal 
+wetlands, or improves the hydrological connection to impounded waters 
+• 
+The burning of organic soil as a project activity does not occur 
+• 
+Peatland fires within the project area do not occur in the project scenario. If they do occur 
+as non-catastrophic events, they are accounted for by cancelling the Fire Reduction 
+Premium for the entire project or the individual project activity instance. 
+ 
+VM0007, v1.8 
+48 
+• 
+Nitrogen fertilizers are not used within the project area in the project scenario 
+REDD 
+For monitoring changes in forest cover and carbon stock changes, the monitoring plan must use 
+the methods given in Module M-REDD. All relevant parameters from the modules are to be 
+included in the monitoring plan.  
+WRC 
+For monitoring GHG emissions from peatland or tidal wetlands, the monitoring plan must use the 
+methods given in Module M-PEAT or M-TW, respectively. All relevant parameters from the 
+modules are to be included as the SOC pool in the monitoring plan.  
+9.3.2 Monitoring 
+Ex-post monitoring must have two key aspects: 
+• 
+TASK 1. Monitoring according to monitoring plan 
+• 
+TASK 2. Revising the baseline for future project crediting periods  
+TASK 1: Monitoring of key variables according to the monitoring plan 
+ 
+ 
+ 
+VM0007, v1.8

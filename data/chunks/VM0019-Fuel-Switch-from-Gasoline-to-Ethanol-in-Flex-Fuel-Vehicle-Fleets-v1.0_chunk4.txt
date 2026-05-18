@@ -1,0 +1,85 @@
+4 
+APPLICABILITY CONDITIONS 
+This methodology applies to project activities that aim at complete substitution of fossil fuels or 
+blends of gasoline by ethanol in commercial fleets of the project proponent. The methodology is 
+applicable under the following conditions: 
+• 
+Project boundary contains commercial fleets that consist exclusively of flex-fuel vehicles 
+(i.e. only flex-fuel vehicles are used both in baseline scenario and in the project activity); 
+• 
+Only existent fleets of flex-fuel vehicles are eligible (i.e. flex-fuel vehicle acquisition is not 
+acceptable under this methodology); 
+• 
+In the baseline scenario, the vehicles use gasoline or blend of any proportion of ethanol 
+and gasoline (0-99%); 
+• 
+Fuel consumed in the project activity is exclusively ethanol (E100); up to 5% of total fuel 
+consumed per fleet and per year can be gasoline, for emergency cases and for the start-
+up mechanism as required by the flex-fuel motor technology. Where a fleet consumes 
+more than 5% of gasoline in a given year, it shall be permanently excluded from the 
+project activity, with no possibility to be reinserted and no right to receive credits for the 
+reductions achieved in that year and all subsequent ones; 
+• 
+The project activity fuel (ethanol) is available at the same gas stations as the baseline fuel 
+(gasoline or blend of ethanol and gasoline) for at least 50% of the gas stations available 
+in the project region; 
+• 
+Gasoline, ethanol and their blends comply with relevant regulations (national or regional 
+market); 
+• 
+Ethanol used in the project is produced from renewable resources2; 
+• 
+Ethanol used in the project shall have lower lifecycle emissions than the gasoline used in 
+the baseline. The onus is upon the project proponent to clearly demonstrate this, failing 
+which the project shall not be eligible for crediting.3 
+                                                          
+2  In order to demonstrate that the ethanol used in the project activity is produced from renewable materials, the 
+project proponent shall evaluate the production of the ethanol available in the project region and the 
+Validation/Verification Body must evaluate such assessment and issue its favorable opinion on the renewable 
+characteristic of ethanol for the project region. 
+ 
+3  Several lifecycle analyses have concluded that ethanol can have lower lifecycle emissions than gasoline. Such 
+studies have been performed by the U.S. EPA, UNEP and FAO. In order to demonstrate compliance with this 
+applicability condition, project proponents may also reference other studies, as relevant to their project, 
+available from a recognized, credible source, and reviewed for publication by an appropriately qualified, 
+independent organization or appropriate peer review group, or be published by a government agency. 
+ 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 9
+• 
+The monitoring system is designed to allow measurement of the fuel consumption for 
+each vehicle in each fleet within the project boundaries continuously (on each fueling 
+operation), over the whole project crediting period and during the period to which the 
+historical consumption pattern refers; 
+• 
+The system of measurement (direct and indirect) shall guarantee that 95% of the fuel 
+consumed per fleet and per year under the project activity is ethanol. When direct 
+measurement is used, the Validation/Verification Body has the authority to decide when 
+the measurement method adopted by the project activity is robust enough to ensure that 
+the data (type and quantity of fuel consumed) obtained, processed and registered is 
+reliable. When indirect measurement is used, the project activity must guarantee that the 
+width of a 95% confidence interval does not exceed 30% of the estimated value, in order 
+to ensure that the uncertainty range is not significant. If the data does not satisfy this 
+criteria, it cannot be used in the project activity; 
+• 
+No legal requirement exists to use exclusively ethanol fuel in commercial fleets in the 
+relevant market (national or regional); 
+• 
+Where the project proponent is not the owner of the commercial fleet vehicles (e.g., the 
+project proponent is a fleet manager with many clients, each client being the owner of its 
+respective commercial fleet vehicles), there shall exist a contract between the project 
+proponent and each fleet owner to establish clear ownership of the emission reductions; 
+• 
+As in the CDM baseline and monitoring methodologies related to the biofuel production 
+(i.e., AMS.III-T, AMS.III-AK, and AMS.III-AQ discussed above), “the retailer, the final 
+users, and the producer are bound by a contract that states that the final consumers and 
+retailers shall not claim emission reductions resulting from its consumption”, the contract 
+between the project proponent and the fleet owner shall include a clause stating that, to 
+avoid double counting in the supply chain, the commercial fleet owner must not 
+participate in any other emission reduction project associated with a biofuel producer or 
+retailer. Only the commercial fleet owner or manager can claim emissions reductions 
+under this methodology.

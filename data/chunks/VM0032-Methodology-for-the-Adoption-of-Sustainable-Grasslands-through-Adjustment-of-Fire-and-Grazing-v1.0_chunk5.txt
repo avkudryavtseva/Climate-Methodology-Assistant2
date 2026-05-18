@@ -1,0 +1,179 @@
+5 
+PROJECT BOUNDARY 
+The spatial extent of the project boundary must be established following the guidelines in the 
+latest version of the VCS document AFOLU Requirements.  
+ 
+Table  and 3 below identify the carbon pools and GHG sources included or excluded from the 
+project boundary. 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 14 
+Table 2: Selected Carbon Pools under Baseline and Project Activity 
+Carbon 
+Pools 
+Included? Justification/ Explanation  
+Aboveground 
+woody 
+biomass 
+Optional 
+Where the project activities involve changes in fire management, 
+the project proponent must monitor changes in aboveground 
+woody plant biomass. Where the project activity is to reduce fire 
+frequency, there may be increases in removals from woody 
+biomass which must be quantified and monitored. Where the 
+project plans to burn woody biomass to promote soil 
+sequestration, aboveground woody biomass must be included, 
+because woody plants in some savanna grasslands can account 
+for 10-30 percent of carbon stocks[6] and can be dramatically 
+reduced by fire. 
+ 
+Where the project activities do not involve changes in fire 
+management, quantification and monitoring of changes in 
+removals from woody plant biomass is optional. 
+Aboveground 
+non-woody 
+biomass 
+No 
+Aboveground non-woody biomass is typically burned or 
+decomposed within the same year of its production and therefore 
+is not a major sink and is considered in balance with CO2 uptake, 
+respiration by plants, and annual decomposition[7] 
+Belowground 
+biomass 
+No 
+Belowground non-woody biomass is typically burned or 
+decomposed within the same year of its production and therefore 
+is not considered  a major sink in grasslands because it is 
+considered in balance with CO2 uptake, respiration by plants, and 
+annual decomposition [7]. As tillage is not allowed according to 
+applicability conditions, any increase from project activities may 
+be conservatively excluded. 
+Dead wood 
+No 
+Negligible in grasslands, particularly those with fire. 
+Litter 
+No 
+In grasslands, litter exhibits high turnover which further reflects 
+balance with CO2 uptake, respiration by plants, and annual 
+decomposition[7]. 
+Soil organic 
+carbon 
+(SOC) 
+Yes 
+Major carbon pool covered by SGMAFG  
+Wood 
+products 
+No 
+An optional pool for VCS ALM projects, it is considered negligible 
+for untilled grasslands 
+This methodology has applicability conditions for no tillage and activities that do not include 
+avoided conversion of grasslands. Consequently, aboveground non-woody biomass, litter, and 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 15 
+belowground biomass are considered negligible sinks because they turnover considerably 
+throughout the year, sometimes by as much as 100 percent [7]. These carbon pools may later be 
+used as potential parameters for soil carbon models because they influence the input of carbon to 
+the soil, but they do not represent significant, permanent sinks or reservoirs of carbon. 
+Table 3: GHG Sources Included In or Excluded From the Project Boundary 
+Source 
+Gas 
+Included?
+Justification/Explanation 
+Baseline 
+Grazing animals 
+CO2 
+No 
+Balanced with CO2 uptake, respiration by plants, 
+and annual decomposition [7] 
+CH4 
+Yes 
+Target removal for methodology 
+N2O 
+No 
+No increase in concentration of dung and forage 
+if not fertilized (see applicability conditions) 
+Burning biomass 
+CO2 
+No 
+Balanced with CO2 uptake by plants 
+CH4 
+Optional 
+If reducing or maintaining fire is a project activity, 
+CH4 may be conservatively excluded. Otherwise 
+CH4 emissions must be calculated to determine 
+net change in carbon stocks from increasing fire 
+to induce an increase in SOC 
+N2O 
+No 
+Negligible under applicability conditions 
+Soil emissions 
+CO2 
+No 
+Assumed to be in balance with C inputs to SOC 
+(SOC at equilibrium) 
+CH4 
+No 
+Negligible since project is not in wetland  
+N2O 
+No 
+Negligible under applicability conditions 
+Project 
+Grazing animals 
+CO2 
+No 
+Balanced with CO2 uptake by plants 
+CH4 
+Yes 
+Target removal for methodology 
+N2O 
+No 
+No increase in concentration of dung 
+(applicability conditions) and forage is low in N 
+Burning biomass 
+CO2 
+No 
+Balanced with CO2 uptake by plants[7] 
+CH4 
+Optional 
+If reducing or maintaining fire is a project activity, 
+may be conservatively excluded. Otherwise CH4 
+emissions must be calculated to determine net 
+change in carbon stocks from increasing fire to 
+induce an increase in SOC 
+N2O 
+No 
+Negligible under applicability conditions 
+Soil emissions 
+CO2 
+No 
+Accounted for in measured ∆SOC 
+CH4 
+No 
+Negligible since project not in wetland  
+N2O 
+No 
+Negligible under applicability conditions 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 16 
+Unless specifically planted at high density to achieve aboveground biomass greater than 120 
+g/m2 on average, leguminous plants, either woody (eg, Acacia or Prosopis species) or 
+herbaceous, are not likely to produce soil N2O emissions to levels that approach 5 percent of total 
+CO2 emissions from soil [8, 9]. Consequently, N2O emissions from soil or biomass burning are 
+negligible.  
+As per applicability condition 4, this methodology does not apply to projects that result in a net 
+increase in the density of, or time spent by, animals in confined corrals where dung can pile up 
+and begin to decompose anaerobically[5] and result in CH4 and N2O emissions. Dung in pastures 
+or open rangelands typically decompose aerobically [10, 11], which releases negligible CH4 and 
+N2O emissions. 
+Increase in the use of fossil fuels due to management, harvesting, and fighting fires is likely to be 
+negligible because the same general activities (eg, livestock grazing, wildlife conservation and 
+tourism) will be occurring in the project area during the project lifetime as under baseline 
+conditions.

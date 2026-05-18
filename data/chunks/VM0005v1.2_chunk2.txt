@@ -1,0 +1,105 @@
+2 
+SUMMARY DESCRIPTION OF THE METHODOLOGY 
+This methodology facilitates the quantification of the net GHG benefits of Improved Forest Management 
+projects in natural Evergreen Tropical Rainforests that achieve carbon benefits in one of, or a 
+combination of, two activities: 
+• 
+Avoiding emissions from re-logging of already logged-over forest; and, 
+• 
+Rehabilitation of previously logged-over forest by cutting climbers and vines, or liberation 
+thinning, or enrichment planting, or a combination of these activities.  
+The baseline scenario therefore consists of a logged-over natural Evergreen Tropical Rainforest, 
+normally with no or insignificant regrowth, that may or may not be relogged. To determine the emissions 
+in the baseline, the following components are quantified: volume of timber removed during relogging 
+(expanded to include emissions from total associated biomass losses); the amount of dead wood left 
+after relogging; the carbon stored in harvested wood products; if absence of regrowth cannot be 
+substantiated, regrowth of the residual stand; and, emissions associated with the establishment of 
+infrastructure and fuel consumption. 
+Because baselines often become counter factual once the project gets implemented, this methodology 
+facilitates the quantification of the above components in two ways: 
+• 
+On the basis of a-spatial data in a pre-relogging situation in the project area, in combination 
+with, for instance, logging information in a management plan; or, 
+• 
+By the determination of the carbon stock components after relogging has occurred in a 
+reference area for which similarity to the project area is demonstrated.  
+The relationship between the two baseline options and the project area is then established by analyzing 
+the logging rates in the various strata in the baseline, determining the same strata in the project area, 
+and applying the stratum-specific logging rates to the strata in the project area. 
+The methodology allows for the use of both approaches together, if either of the two cannot be 
+supported with a complete set of information, with the following examples: (1) While obtaining spatially 
+explicit post-relogging carbon stock data from a reference area through direct measurements, spatially 
+explicit pre-relogging data based on direct measurements may be lacking. Once the similarity of the 
+reference area and the project area has been ensured, pre-relogging carbon stock data may also be 
+obtained from the project area. (2) If spatially explicit pre-relogging carbon stock data based on direct 
+measurements is lacking, similarity between the reference area and the project area may be justified by 
+reconstructing pre-relogging carbon stocks from the post-relogging data of the reference area and 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 4 
+ 
+harvesting volumes from management files of the forest management unit, and comparing these with 
+pre-relogging carbon stock data from the project area. The validity of reconstructed pre-relogging 
+carbon stocks may be supported by other inventory data of the reference area (eg, inventories of 
+commercial timber prior to relogging), the supporting data being subject to the scrutiny of the validator. 
+(3) While using a-spatial data for assessing baseline carbon stock changes, carbon stocks in dead 
+wood may be derived from a reference area. 
+While ensuring conservative results for net GHG project benefits, these options support the 
+implementation of FM project activities in areas where data collection has not been organized in such a 
+way that it facilitates compliance a priori with international carbon standards, which is very often the 
+case. 
+The with-project scenario constitutes the avoidance of relogging, or rehabilitation of previously logged-
+over forest, or both. Rehabilitation, if any, is achieved by cutting climbers and vines, or liberation 
+thinning, or enrichment planting, or a combination of these activities. To determine the emissions and 
+removals in the with-project scenario, the following components are quantified: carbon stocks before 
+the intervention; increases in carbon stocks over time; and emissions due to site preparation and 
+project implementation. 
+An additional feature of this methodology is the determination of the regrowth of the residual forest in 
+both the baseline and the with-project scenario. If regrowth occurs in the baseline scenario this is 
+assumed to be small compared to regrowth in the with-project scenario. 
+The removal of herbaceous vegetation (including climbers and vines) is deemed an insignificant 
+emissions source and therefore is not accounted for in the with-project scenario. 
+The methodology also provides for the quantification of leakage. 
+Finally, the methodology provides for the determination of the project’s net GHG benefits and the 
+resulting Verified Carbon Units (VCUs) that are generated. The methodology details the steps 
+necessary to come to the final calculation of the project’s net GHG benefits, represented by ∆CIFM.  
+∆CIFM = ∆CBSL – ∆CWPS – ∆CLK  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(1) 
+Where: 
+Parameter 
+Description 
+∆CIFM 
+Total net GHG emission reductions from the IFM project activity 
+∆CBSL 
+Sum of the carbon stock changes and greenhouse gas emissions 
+under the baseline scenario 
+∆CWPS 
+Sum of the carbon stock changes and greenhouse gas emissions 
+under the with-project scenario 
+VM0005, Version 1.2 
+Sectoral Scope 14 
+ 
+Page 5 
+ 
+∆CLK 
+Sum of the carbon stock changes and greenhouse gas emissions 
+due to leakage 
+ 
+Thus, the basis of the methodology is the estimation of total carbon benefits from the IFM project 
+activity as the result of the total carbon loss in the baseline scenario (∆CBSL) avoided due to the project 
+activity and the net removals through the enhancement of forest growth due to liberation thinning and 
+enrichment planting (∆CWPS), minus any leakage (∆CLK) that might occur. 
+ 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method

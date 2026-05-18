@@ -1,0 +1,1631 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Data/Parameter 
+GWPrefr,i 
+GWPfoam,i 
+GWPfire,i 
+GWPprop,i 
+GWPrefr,substitute,s 
+GWPfire,substitute,s 
+Data unit 
+t CO2e/t refrigerant 
+t CO2e/t blowing agent 
+t CO2e/t fire suppression agent 
+t CO2e/t propellant 
+t CO2e/t substitute refrigerant 
+t CO2e/t substitute fire suppression agent 
+Description 
+Global warming potential of refrigerant i  
+Global warming potential of blowing agent i 
+Global warming potential of fire suppression agent i 
+Global warming potential of propellant i 
+Global warming potential of substitute refrigerant s  
+Global warming potential of substitute fire suppression agent s 
+Equations 
+(2), (6), (10), (14), (31), (33)  
+Source of data 
+IPCC Assessment Report according to the most recent version of the 
+VCS Standard 
+Value applied 
+According to the most recent version of the VCS Standard 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+NA 
+Purpose of data 
+Calculation of baseline, project and leakage emissions 
+Comments 
+None 
+ 
+VM0016, v2.0 
+32 
+Data/Parameter 
+VRrefr,i  
+Data unit 
+% 
+Description 
+Proportion of destroyed refrigerant i that would be vented into the 
+atmosphere in the baseline scenario 
+Equations 
+(2), (3) 
+Source of data 
+Project-specific rates sourced from official published national data, 
+research studies, or industry data, or default values given below: 
+Non-Article 5 countries:  
+• 
+0%; it is conservatively assumed that no intentional venting 
+occurs and all refrigerant is used, reused, or stored as a stockpile. 
+Article 5 countries: 
+• 
+0% for stockpiles of virgin, recycled or reclaimed refrigerants  
+• 
+100% for refrigerant recovered from products in the absence of 
+any regulatory prohibition on venting. 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+In Article 5 countries, maintain point of origin documentation to 
+demonstrate the portion of refrigerant sourced from products at end-of-
+life. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+DRrefr,i  
+Data unit 
+% 
+Description 
+Proportion of destroyed refrigerant i that would also be destroyed in the 
+baseline scenario 
+Equations 
+(2), (3) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data,  
+0% may only be applied in the absence of a government mandate, 
+product stewardship scheme, or other program that creates an 
+incentive or mechanism for refrigerant destruction in the country(ies) 
+where the project activity occurs. 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+VM0016, v2.0 
+33 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+RRrefr,i,y 
+Data unit 
+% 
+Description 
+Proportion of refrigerant i that would be used, reused, or remain in 
+storage in the baseline scenario in year y 
+Equations 
+(2), (3) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data, or default values given below: 
+Non-Article 5 countries:  
+• 
+100%; it is conservatively assumed that all refrigerant recovered 
+from products is recycled or reclaimed for reuse. If in a stockpile, 
+it is assumed that the refrigerant is used to recharge existing 
+equipment, or if in a government stockpile that cannot legally be 
+sold into the commercial refrigerant market, that it remains in 
+storage.  
+Article 5 countries:  
+• 
+100% for stockpiles of virgin, recycled or reclaimed refrigerants 
+• 
+0% for refrigerant recovered from products at end-of-life 
+Value applied 
+See “Source of data” above. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Maintain point of origin documentation to demonstrate the quantity of 
+refrigerant sourced from a government stockpile that cannot legally be 
+sold into the commercial refrigerant market. 
+In Article 5 countries, maintain point of origin documentation to 
+demonstrate the quantity of refrigerant not sourced from products at 
+end-of-life. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+LRrefr,i 
+Data unit 
+% 
+Description 
+Leak rate of destroyed refrigerant i that would be used as refrigerant for 
+existing equipment or remain in storage in the baseline scenario 
+Equations 
+(4) 
+VM0016, v2.0 
+34 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data (e.g., UNEP Refrigeration and Air Conditioning 
+Technical Options Committee), or default values given below: 
+Default values for refrigerant used or reused in existing equipment:  
+• 
+Non-Article 5 countries: annual weighted average emission rates 
+given in the most recent version of the following: 
+Climate Action Reserve’s US ODS Project Protocol (for ODS) and 
+Inventory of US Greenhouse Gas Emissions and Sinks, Annex 3.9 
+(for ODS and HFC) 
+• 
+Article 5 countries: applicable annual emission rates given in the 
+most recent version of the Climate Action Reserve’s Article 5 ODS 
+Project Protocol 
+Default values for refrigerant remaining in storage:  
+• 
+Non-Article 5 and Article 5 countries: 10% for government 
+stockpiles of refrigerant that cannot legally be sold into the 
+commercial refrigerant market and therefore remain in storage5 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Used to calculated the cumulative rate over the 10-year period following 
+ODS or HFC destruction 
+ 
+Data/Parameter 
+ERfoam,i 
+Data unit 
+% 
+Description 
+Proportion of blowing agent i contained in insulation foam of 
+refrigerated appliances that would be released into the atmosphere 
+based on the baseline disposal practice in the source country 
+Equations 
+(6) 
+Source of data 
+CAR US Ozone Depleting Substances Project Protocol Tables 5.3 and 
+5.4, based on Scheutz et al. (2007a, b), Fredenslund et al. (2005), and 
+EPA (2023a) 
+Value applied 
+CFC-11:  
+0.44  
+CFC-12:  
+0.55  
+HCFC-22:  
+0.75  
+HCFC-141b:  0.50  
+ 
+5 United Nations Environment Programme. 2013. Report on Progress and Experiences Gained in Demonstration 
+Projects for the Disposal of Unwanted ODS, Annex III. Executive Committee of the Multilateral Fund. Document No. 
+7054. http://www.multilateralfund.org/70/English/1/7054.pdf 
+VM0016, v2.0 
+35 
+HFC-134a:  0.87 
+HFC-245fa:  0.93 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+ERremoval,foam,i 
+Data unit 
+% 
+Description 
+Proportion of blowing agent i contained in intact foam of refrigerated 
+appliances that is released to the atmosphere upon removal from 
+refrigerated appliance (%) 
+Equations 
+(7) 
+Source of data 
+California Air Resources Board (2011) 
+Value applied 
+• 
+Intact foam removed manually, resulting in sections smaller than 
+or equal to 100 cm3: 15% 
+• 
+Intact foam removed manually, resulting in sections larger than 
+100 cm3: 5% 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+As documentation for verification purposes, the project proponent must 
+provide images of the recovered foam blocks alongside the appliances 
+from which the foam was recovered. See Section 9.3 for additional 
+monitoring and documentation requirements. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+The method of manual foam removal impacts the quantity of blowing 
+agent released during the removal process (e.g., cutting the foam into 
+pieces results in higher quantities of blowing agent released than 
+removing the foam as a single block). 
+ 
+Data/Parameter 
+VRfire,i  
+Data unit 
+% 
+Description 
+Proportion of destroyed fire suppression agent i that would be vented 
+into the atmosphere in the baseline scenario 
+Equations 
+(9), (10) 
+Source of data 
+Project-specific rates sourced from official published national data, 
+research studies, or industry data, or default values given below: 
+VM0016, v2.0 
+36 
+Non-Article 5 countries:  
+• 
+0%; it is conservatively assumed that no intentional venting 
+occurs and all fire suppression agent is used, reused, or stored as 
+a stockpile.  
+Article 5 countries: 
+• 
+0% for stockpiles of virgin, recycled or reclaimed fire suppression 
+agent  
+• 
+100% for fire suppression agent recovered from products at end-
+of-life in the absence of any regulatory prohibition on venting 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+In Article 5 countries, maintain point of origin documentation to 
+demonstrate the portion of fire suppression agent sourced from 
+products at end-of-life. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+DRfire,i  
+Data unit 
+% 
+Description 
+Proportion of fire suppression agent i destroyed by the project activity 
+that would also be destroyed in the baseline scenario 
+Equations 
+(9), (10) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data,  
+0% may only be applied in the absence of a government mandate, 
+product stewardship scheme, or other program that creates an 
+incentive or mechanism for fire suppression agent destruction in the 
+country(ies) where the project activity occurs 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+RRfire,i,y  
+VM0016, v2.0 
+37 
+Data unit 
+%  
+Description 
+Proportion of fire suppression agent i that would be used, reused, or 
+remain in storage in the baseline scenario in year y (%) 
+Equations 
+(9), (10) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data, or default values given below: 
+Non-Article 5 countries:  
+• 
+100%; it is conservatively assumed that all fire suppression 
+agents recovered from products are recycled or reclaimed for 
+reuse. If in a stockpile, it is assumed that the fire suppression 
+agents are used to recharge existing equipment, or if in a 
+government stockpile that cannot legally be sold into the 
+commercial fire suppression agent market, that they remain in 
+storage.  
+Article 5 countries:  
+• 
+100% for stockpiles of virgin, recycled or reclaimed fire 
+suppression agents.  
+• 
+0% for fire suppression agent recovered from products at end-of-
+life 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Maintain point of origin documentation to demonstrate the quantity of 
+fire suppression agents sourced from a government stockpile that 
+cannot legally be sold into the commercial fire suppression agent 
+market.  
+In Article 5 countries, maintain point of origin documentation to 
+demonstrate the quantity of fire suppression agents not sourced from 
+products at end-of-life. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+LRfire,i 
+Data unit 
+%  
+Description 
+Leak rate of destroyed fire suppression agent i that would be used as a 
+fire suppression agent in new or existing equipment or remain in 
+storage in the baseline scenario (%) 
+Equations 
+(11) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data (e.g., UNEP Fire Suppression Technical Options 
+Committee), or default values given below: 
+Non-Article 5 countries:  
+VM0016, v2.0 
+38 
+• 
+For fire suppression agent used or reused in existing equipment, 
+the annual weighted average emission rates given in the most 
+recent version of the US EPA’s Inventory of US Greenhouse Gas 
+Emissions and Sinks, Annex 3.9. 
+Non-Article 5 and Article 5 countries:  
+• 
+10% for government stockpiles of fire suppression agent that 
+cannot legally be sold into the commercial market and therefore 
+remain in storage6 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Used to calculated the cumulative rate over the 10-year period following 
+ODS or HFC destruction 
+ 
+Data/Parameter 
+VRprop,i  
+Data unit 
+% 
+Description 
+Proportion of destroyed propellant i that would be vented into the 
+atmosphere in the baseline scenario 
+Equations 
+(13), (14) 
+Source of data 
+Project-specific rates sourced from official published national data, 
+research studies, or industry data, or default values given below: 
+Non-Article 5 countries:  
+• 
+0%; it is conservatively assumed that no intentional venting 
+occurs and all propellant is used, reused, or stored as a stockpile.  
+Article 5 countries:  
+• 
+0% for stockpiles of virgin, recycled or reclaimed propellant  
+• 
+100% for propellant recovered from products at end-of-life in the 
+absence of any regulatory prohibition on venting 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+In Article 5 countries, maintain point of origin documentation to 
+demonstrate the portion of propellant sourced from products at end-of-
+life. 
+Purpose of data 
+Calculation of baseline emissions 
+ 
+6 United Nations Environment Programme. 2013. Report on Progress and Experiences Gained in Demonstration 
+Projects for the Disposal of Unwanted ODS, Annex III. Executive Committee of the Multilateral Fund. Document No. 
+7054. http://www.multilateralfund.org/70/English/1/7054.pdf 
+VM0016, v2.0 
+39 
+Comments 
+ 
+ 
+Data/Parameter 
+DRprop,i  
+Data unit 
+% 
+Description 
+Proportion of propellant i destroyed by the project activity that would 
+also be destroyed in the baseline scenario 
+Equations 
+(13), (14) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data,  
+0% may only be applied in the absence of a government mandate, 
+product stewardship scheme, or other program that creates an 
+incentive or mechanism for propellant destruction in the 
+country(ies) where the project activity occurs 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+RRprop,i,y  
+Data unit 
+% 
+Description 
+Proportion of propellant i that would remain in storage in the baseline 
+scenario in year y 
+Equations 
+(13), (14) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data, or default values given below: 
+Non-Article 5 countries:  
+• 
+100%; it is conservatively assumed that all propellants recovered 
+from products remain in a stockpile.  
+Article 5 countries:  
+• 
+100%for stockpiles of virgin, recycled or reclaimed propellants 
+• 
+0% for propellant recovered from products at end-of-life in the 
+absence of any regulatory prohibition on venting. 
+Value applied 
+See “Source of data” above 
+VM0016, v2.0 
+40 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Maintain point of origin documentation to demonstrate the quantity of 
+propellants sourced from a stockpile that cannot be sold into the 
+commercial propellant market. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data/Parameter 
+LRprop,i 
+Data unit 
+% 
+Description 
+Leak rate of destroyed propellant i that would be used as propellant for 
+new products or remain in storage in the baseline scenario 
+Equations 
+(15) 
+Source of data 
+Project-specific rates sourced from official published data, research 
+studies, or industry data, or default values given below: 
+Non-Article 5 or Article 5 countries:  
+• 
+10% for stockpiles of propellant that cannot be sold into the 
+commercial propellant market and therefore remain in storage7 
+Value applied 
+See “Source of data” above 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Used to calculated the cumulative rate over the 10-year period following 
+ODS or HFC destruction 
+ 
+Data/Parameter 
+EFconc 
+Data unit 
+tCO2e/t ODS or HFC destroyed 
+Description 
+Default emission factor for project emissions from concentrated ODS 
+and/or HFC destruction 
+Equations 
+(17) 
+Source of data 
+Climate Action Reserve. 2012. US Ozone Depleting Substances Project 
+Protocol 
+ 
+7 United Nations Environment Programme. (2013). Report on Progress and Experiences gained in Demonstration 
+Projects for the Disposal of Unwanted ODS. Annex III. Executive Committee of the Multilateral Fund. Document No. 
+7054. Available at: http://www.multilateralfund.org/70/English/1/7054.pdf 
+VM0016, v2.0 
+41 
+Value applied 
+7.5 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFdilute 
+Data unit 
+tCO2e/t ODS or HFC contained in intact foam destroyed 
+Description 
+Default emission factor for project emissions from dilute ODS and/or 
+HFC destruction 
+Equations 
+(17) 
+Source of data 
+Climate Action Reserve. 2012. US Ozone Depleting Substances Project 
+Protocol 
+Value applied 
+75 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+EFKKTi 
+Data unit 
+kg CO2e/kg-km 
+Description 
+CO2 emissions per kilogram-kilometer traveled  
+Equations 
+(25) 
+Source of data 
+Climate Action Reserve. 2012. US Ozone Depleting Substances Project 
+Protocol, Equation 5.14 
+Based on US EPA Climate Leaders (2008) 
+Value applied 
+• 
+On-road truck transport: 0.000185 
+• 
+Rail transport: 0.0000157 
+• 
+Waterborne craft: 0.000030 
+• 
+Aircraft: 0.000949 
+VM0016, v2.0 
+42 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+DREconc 
+DREdiute 
+Data unit 
+% 
+Description 
+Minimum concentrated destruction efficiency of destruction facility (%) 
+Minimum concentrated destruction efficiency of destruction facility (%) 
+Equations 
+(27), (28) 
+Source of data 
+Refer to section 9.3.3 and Appendix 3 
+Value applied 
+Concentrated sources: 99.99% 
+Dilute sources: 95% 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+N/A  
+ 
+Data/Parameter 
+CRi 
+Data unit 
+molecular weight C/molecular weight ODS or HFC 
+Description 
+Carbon ratio of ODS or HFC i  
+Equations 
+(28) 
+Source of data 
+N/A 
+Value applied 
+CFC-11:  
+12/137 
+CFC-12:  
+12/121 
+CFC-113:  
+24/187 
+CFC-114:  
+24/171 
+CFC-115:  
+24/154 
+HCFC-22:  
+12/86 
+VM0016, v2.0 
+43 
+HCFC-141b:  24/117 
+HFC-134a:  24/102 
+HFC-245a:  36/134 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+For ODS or HFCs not included in “Value applied” above, CRi must be 
+determined by the ratio of molecular weight of C to the ODS or HFC.  
+ 
+Data/Parameter 
+EFDESTR,foam 
+Data unit 
+t CO2e/t material combusted 
+Description 
+CO2 emissions from incineration of foam pieces 
+Equations 
+(29) 
+Source of data 
+United States Environmental Protection Agency (US EPA). 2023. 
+Emission Factors for Greenhouse Gas Inventories 
+Value applied 
+2.58 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Value for mixed plastics 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data/Parameter 
+LRrefr,substitute,s 
+Data unit 
+% 
+Description 
+Leak rate of substitute refrigerant s in year y  
+Equations 
+(32) 
+Source of data 
+Must be obtained from official published data, research, or industry 
+studies (e.g., UNEP Refrigeration and Air Conditioning Technical Options 
+Committee), or the default value of 13.7% per year as provided in the 
+most recent version of the Climate Action Reserve’s Article 5 Ozone 
+Depleting Substances Project Protocol 
+Value applied 
+N/A 
+VM0016, v2.0 
+44 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of leakage 
+Comments 
+Used to calculated the cumulative rate over the 10-year period following 
+ODS or HFC destruction 
+ 
+Data/Parameter 
+LRfire,substitute,s 
+Data unit 
+% 
+Description 
+Leak rate of substitute fire suppression agent s in year y 
+Equations 
+(34) 
+Source of data 
+Must be obtained from official published data, research, or industry 
+studies (e.g., UNEP Fire Suppression Technical Options Committee), or 
+the default value of 13.7% as provided in the most recent version of the 
+Climate Action Reserve’s Article 5 Ozone Depleting Substances Project 
+Protocol. 
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+Calculation of leakage 
+Comments 
+Used to calculated the cumulative rate over the 10-year period following 
+ODS or HFC destruction 
+9.2 
+Data and Parameters Monitored 
+Data/Parameter 
+MDESTR,refr,i,y 
+Data unit 
+tonnes 
+Description 
+Quantity of refrigerant i sent for destruction in the project activity in 
+year y 
+Equations 
+(2), (17), (27), (28), (31) 
+Source of data 
+1) Operation logbook of aggregation facility 
+2) Identification note for each individual ODS or HFC container by a 
+bill of lading 
+VM0016, v2.0 
+45 
+3) Certificate of Destruction for each individual ODS or HFC 
+container (see Section 9.3.1) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Section 9.3.1. 
+Frequency of 
+monitoring/recording 
+Each container with ODS or HFC sent to destruction 
+QA/QC procedures to be 
+applied 
+All measurements must be conducted with calibrated measurement 
+equipment according to relevant industry standards (see Section 9.3). 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+CompRy 
+Data unit 
+% 
+Description 
+Rate of compliance with law, statute, or other regulatory framework in 
+the source country in year y 
+Equations 
+(5), (8), (12), (16) 
+Source of data 
+Official published data, research studies, industry data 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Where compliance exceeds 50%, projects are ineligible for further 
+crediting. 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+Calculation must exclude other projects implemented under GHG 
+programs. 
+Comments 
+None 
+ 
+ 
+Data / Parameter: 
+MDESTR,BA,i,y 
+VM0016, v2.0 
+46 
+Data unit: 
+tonnes 
+Description: 
+Quantity of concentrated blowing agent i recovered from refrigerated 
+appliance insulation foam and sent for destruction by the project 
+activity in year y 
+Equations 
+(6), (17), (27), (28) 
+Source of data: 
+• 
+Operation logbook of aggregation facility 
+• 
+Identification note for each individual ODS or HFC container by a 
+bill of lading 
+• 
+Certificate of Destruction for each individual ODS or HFC 
+container (See Section 9.3.1) 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Section 9.3.1. 
+Frequency of 
+monitoring/recording: 
+Each container with ODS or HFC sent to destruction 
+QA/QC procedures to be 
+applied: 
+All measurements should be conducted with calibrated measurement 
+equipment according to relevant industry standards (refer to Section 
+9.3.1 of this methodology “Monitoring Methodology”) 
+Purpose of data: 
+Calculation of baseline and project emissions 
+Calculation method: 
+N/A 
+Comments: 
+ 
+ 
+Data/Parameter 
+MAPPLIANCE,foam,i,y 
+Data unit 
+tonnes 
+Description 
+Total quantity of blowing agent i contained in refrigerated appliances 
+from which intact insulation foam is recovered in year y 
+Equations 
+(7)  
+Source of data: 
+• 
+Operation logbook of aggregation facility 
+• 
+Identification note for each individual ODS or HFC shipment by a 
+bill of lading 
+• 
+Sampling and analysis results (see Section 9.3.2) 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Section 9.3.2. 
+Frequency of 
+monitoring/recording: 
+Each batch of ODS- or HFC-containing foam sent to destruction 
+VM0016, v2.0 
+47 
+QA/QC procedures to be 
+applied: 
+All measurements must be conducted with calibrated measurement 
+equipment according to relevant industry standards (refer to section 
+9.3 of this methodology “Monitoring Methodology”) 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method: 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+MDESTR,fire,i,y 
+Data unit 
+tonnes 
+Description 
+Quantity of fire suppression agent i sent for destruction by the project 
+activity in year y 
+Equations 
+(9), (17), (27), (28), (33) 
+Source of data 
+1) Operation logbook of aggregation facility 
+2) Identification note for each individual ODS or HFC container by a 
+bill of lading 
+3) Certificate of Destruction for each individual ODS or HFC 
+container (see Section 9.3.1) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Section 9.3.1. 
+Frequency of 
+monitoring/recording 
+Each container with ODS or HFC sent to destruction 
+QA/QC procedures to be 
+applied 
+All measurements must be conducted with calibrated measurement 
+equipment according to relevant industry standards (see Section 9.3). 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+MDESTR,prop,i,y 
+Data unit 
+tonnes 
+Description 
+Quantity of propellant i sent for destruction by the project activity in 
+year y 
+Equations 
+(13), (17), (27), (28) 
+VM0016, v2.0 
+48 
+Source of data 
+1) Operation logbook of aggregation facility 
+2) Identification note for each individual ODS or HFC container by a 
+bill of lading 
+3) Certificate of Destruction for each individual ODS or HFC 
+container (see Section 9.3.1) 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See Section 9.3.1. 
+Frequency of 
+monitoring/recording 
+Each container with ODS or HFC sent to destruction 
+QA/QC procedures to be 
+applied 
+All measurements must be conducted with calibrated measurement 
+equipment according to relevant industry standards (see Section 9.3). 
+Purpose of data 
+Calculation of baseline and project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+ECAF,y 
+ECPlasma,y 
+Data unit 
+MWh 
+Description 
+Amount of grid electricity consumed at the aggregation facility in year y 
+Amount of grid electricity consumed at the plasma arc destruction 
+facility in year y 
+Equations 
+(20) 
+Source of data 
+Onsite measurements and recorded by a computer system and/or by 
+printed journals; or utility bills or invoices for purchased electricity 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Directly measured by calibrated electricity meter installed at the project 
+site 
+Frequency of 
+monitoring/recording 
+Continuously, aggregated at least annually 
+QA/QC procedures to be 
+applied 
+Where onsite measurements are used, cross-check measurement 
+results with invoices for purchased electricity. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+VM0016, v2.0 
+49 
+Comments 
+None 
+ 
+Data/Parameter 
+EFAF grid,y 
+EFPlasma grid,y 
+Data unit 
+t CO2e/MWh 
+Description 
+Grid emission factor of the aggregation facility in year y 
+Grid emission factor of the plasma arc destruction facility in year y 
+Equations 
+(20) 
+Source of data 
+Choose one of the following options: 
+1) Calculate the combined margin emission factor, using the 
+procedures in the most recent approved version of VT0011 
+Electricity System Emission Factors. 
+2) Use a conservative default value of 1.3 t CO2e/MWh. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+N/A 
+Frequency of 
+monitoring/recording 
+N/A 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+TDLAFy 
+TDLPlasmay 
+Data unit 
+% 
+Description 
+Average technical transmission and distribution losses in the grid for 
+the voltage level at which grid electricity is obtained by the aggregation 
+facility in year y 
+Average technical transmission and distribution losses in the grid for 
+the voltage level at which grid electricity is obtained by the plasma arc 
+destruction facility in year y 
+Equations 
+(20) 
+Source of data 
+Choose one of the following options: 
+VM0016, v2.0 
+50 
+1) Use recent, accurate, and reliable data available within the 
+country. 
+2) Use a default value of 20%. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For (1), TDL should be estimated for the distribution and transmission 
+networks of the electricity grid of the same voltage as the proposed 
+project activity’s connection. The technical distribution losses should 
+not contain other types of grid losses (e.g., commercial losses/theft). 
+The distribution losses may be either calculated by the project 
+proponent or based on references from utilities, network operators, or 
+other official documentation. 
+Frequency of 
+monitoring/recording 
+N/A 
+QA/QC procedures to be 
+applied 
+Where there are no data from the relevant year, the most recent 
+available data should be used. Data used must not be older than five 
+years. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Average 
+Comments 
+None 
+ 
+Data/Parameter 
+FCf,y 
+Data unit 
+Mass or volume unit per year (e.g., t/year or m3/year) 
+Description 
+Amount of fossil fuel type f combusted at the aggregation facility or at 
+any third-party facility generating energy for the aggregation facility in 
+year y  
+Equations 
+(21) 
+Source of data 
+Onsite measurements 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use utility bills or invoices for purchased fuel or mass or volume meters 
+onsite.  
+Where fuel is supplied from small daily tanks, rulers may be used to 
+determine mass or volume of the fuel consumed, provided all of the 
+following conditions are met:  
+1) The ruler gauge is part of the daily tank and calibrated at least 
+once a year. 
+2) There is a book of control for recording the measurements (on a 
+daily basis or per shift). 
+3) Accessories such as transducers and sonar and piezoelectric 
+devices are properly calibrated with the ruler gauge and receive 
+reasonable maintenance. 
+4) Daily tanks with pre-heaters for heavy oil are calibrated with the 
+system at typical operational conditions. 
+VM0016, v2.0 
+51 
+Frequency of 
+monitoring/recording 
+Continually, annual recording 
+QA/QC procedures to be 
+applied 
+Where onsite measurements are used, the consistency of metered fuel 
+consumption quantities should be cross-checked with an annual energy 
+balance that is based on purchased quantities and stock changes. 
+Where the purchased fuel invoices can be identified specifically for the 
+project activity, the metered fuel consumption quantities should also be 
+cross-checked with available purchase invoices from the financial 
+records. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data/Parameter 
+wC,f,y 
+Data unit 
+t C/mass unit of fuel 
+Description 
+Weighted average mass fraction of carbon in fossil fuel type f in year y 
+Equations 
+(22), (23) 
+Source of data 
+1) Where available, value provided by fuel supplier in invoices 
+2) Otherwise, measurements by the project proponent 
+3) Default IPCC values 
+ 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Measurements must be undertaken in line with national or 
+international fuel standards.  
+Frequency of 
+monitoring/recording 
+The mass fraction of carbon should be obtained for each fuel delivery, 
+from which weighted average annual values should be calculated. 
+QA/QC procedures to be 
+applied 
+Verify whether the values from (1) and (2) are within the uncertainty 
+range of the default values provided in Table 1.2, Chapter 1, Volume 2 
+of the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. 
+Where the values fall below this range, collect additional information 
+from the testing laboratory to justify the outcome or conduct additional 
+measurements. The laboratories in (2) should have ISO 17025 
+accreditation or demonstrate that they can comply with similar quality 
+standards. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Weighted average 
+VM0016, v2.0 
+52 
+Comments 
+Applicable where option A is used to calculate the CO2 emission 
+coefficient (COEFf,y). Preferably the same data source should be used 
+for wC,f,y and ρf,y. 
+ 
+Data/Parameter 
+ρf,y 
+Data unit 
+Mass unit/volume unit 
+Description 
+Weighted average density of fossil fuel type f in year y 
+Equations 
+(23) 
+Source of data 
+Where available, value provided by fuel supplier in invoices. Otherwise: 
+1) Measurements by project proponent, or 
+2) For liquid fuels, regional national or default values 
+ 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Measurements should be undertaken in line with national or 
+international fuel standards.  
+Regional or national default values should be based on well 
+documented, reliable sources (such as national energy balances). 
+Frequency of 
+monitoring/recording 
+The density of the fuel should be obtained for each fuel delivery, from 
+which weighted average annual values should be calculated. 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Weighted average 
+Comments 
+Applicable where option A is used to calculate the CO2 emission 
+coefficient (COEFf,y) and FCf,y is measured in a volume unit. Preferably 
+the same data source should be used for wC,f,y and ρf,y. 
+ 
+Data/Parameter 
+NCVf,y 
+Data unit 
+GJ per mass or volume unit (e.g., GJ/m3, GJ/t) 
+Description 
+Weighted average net calorific value of fossil fuel type f in year y 
+Equations 
+(24) 
+Source of data 
+Where available, value provided by fuel supplier in invoices. Otherwise, 
+any of the following: 
+1) Measurements by the project proponent 
+2) For liquid fuels, regional or national default values 
+3) IPCC default values at the upper limit of the uncertainty at a 95% 
+confidence interval as provided in Table 1.2 of Chapter 1, Vol. 2 of 
+VM0016, v2.0 
+53 
+the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For values provided by fuel supplier or measurements by project 
+proponent, measurements must be undertaken in line with national or 
+international fuel standards.  
+Frequency of 
+monitoring/recording 
+For values provided by fuel supplier or measurements by project 
+proponent, the NCV must be obtained for each fuel delivery, from which 
+weighted average annual values must be calculated.  
+For (2): Review appropriateness of the values annually.  
+QA/QC procedures to be 
+applied 
+Verify whether the values from the fuel supplier or under (1) and (2) are 
+within the uncertainty range of the default values provided in Table 1.2, 
+Chapter 1, Vol. 2 of the 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories. Where the values fall below this range, collect 
+additional information from the testing laboratory to justify the outcome 
+or conduct additional measurements. The laboratories used by the fuel 
+supplier and in (1) and (2) should have ISO 17025 accreditation or 
+demonstrate that they can comply with similar quality standards. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Weighted average 
+Comments 
+Applicable where option B is used to calculate the CO2 emission 
+coefficient (COEFf,y) 
+ 
+Data/Parameter 
+EFCO2,f,y 
+Data unit 
+t CO2e/GJ 
+Description 
+Weighted average CO2 emission factor of fossil fuel type f in year y 
+Equations 
+(24) 
+Source of data 
+Where available, value provided by fuel supplier in invoices. Otherwise, 
+any of the following: 
+1) Measurements by the project proponent 
+2) For liquid fuels, regional or national default values 
+3) IPCC default values at the upper limit of the uncertainty at a 95% 
+confidence interval as provided in Table 1.4 of Chapter 1, Vol. 2 of 
+the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+For values provided by fuel supplier or measurements by project 
+proponent, measurements must be undertaken in line with national or 
+international fuel standards.  
+Frequency of 
+monitoring/recording 
+For values provided by fuel supplier or measurements by project 
+proponent, the CO2 emission factor must be obtained for each fuel 
+VM0016, v2.0 
+54 
+delivery, from which weighted average annual values should be 
+calculated. 
+For (2): Review appropriateness of the values annually. 
+QA/QC procedures to be 
+applied 
+N/A 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+Weighted average 
+Comments 
+Applicable where option B is used to calculate the CO2 emission 
+coefficient (COEFf,y). 
+Where the fuel supplier provides the NCV and the CO2 emission factor 
+on the invoice and these two values are based on measurements for 
+the specific fuel, this CO2 factor should be used. Where another source 
+for the CO2 emission factor is used or no CO2 emission factor is 
+provided, options (1), (2), or (3) should be used. 
+ 
+Data/Parameter 
+Foami,y 
+Data unit 
+tonnes 
+Description 
+Quantity of refrigerated appliance insulation foam sent for destruction 
+by the project activity in year y 
+ 
+Equations 
+(29) 
+Source of data 
+Operation logbook of the aggregation facility 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+See section 9.3.2.1  
+Frequency of 
+monitoring/recording 
+Monitoring and recording per batch of foam destroyed. 
+QA/QC procedures to be 
+applied 
+All measurements must be conducted with calibrated measurement 
+equipment according to relevant industry standards 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+None 
+VM0016, v2.0 
+55 
+9.3 
+Description of the Monitoring Plan8 
+Where a project proponent imports ODS and/or HFC, they must provide documentary evidence, 
+such as shipping manifests and bills of lading, to demonstrate the country of origin of the ODS 
+and/or HFC. 
+9.3.1 Composition and Quantity Analysis Requirements for Concentrated Sources 
+Prior to destruction, the project proponent must determine the precise mass and composition 
+of refrigerants, blowing agents, fire suppression agents, and propellants to be destroyed.  
+Mass must be determined by individually measuring the weight of each container of ODS 
+and/or HFC:  
+1) When it is full prior to destruction; and  
+2) After it has been emptied and the contents have been fully purged and destroyed.  
+The mass of ODS, HFC, and any contaminants is equal to the difference between the full and 
+empty weight, as measured.  
+9.3.1.1 Weighing Requirements 
+The following requirements must be met when weighing containers of ODS and/or HFC:  
+1) A single scale must be used for generating both full and empty weight tickets at the 
+destruction facility.  
+2) Weighing instruments must comply with relevant national requirements and/or 
+international standards (e.g., EC Directive 2009/23/EC or International Organization for 
+Legal Metrology OIML R 76-1). They must be regularly calibrated, as set out in relevant 
+national requirements and/or international standards, to accuracy appropriate to the 
+instrument’s accuracy class. The instruments must have a measuring range 
+corresponding to the capacity of containers and tanks weighed. Scales found to be out 
+of tolerance must be recalibrated.  
+3) The full weight must be measured no more than two days prior to commencement of 
+destruction per the Certificate of Destruction. 
+4) The empty weight must be measured no more than two days after the conclusion of 
+destruction per the Certificate of Destruction.  
+9.3.1.2 Sampling Requirements 
+Composition and concentration of ODS or HFC must be established for each individual 
+container by taking a sample from each container and analyzing its composition and 
+ 
+8 This section is mainly based on Climate Action Reserve (CAR). 2012. US Ozone Depleting Substances Project Protocol 
+Version 2 and on RAL Quality Assurance and Test Specifications for the Demanufacture of Refrigeration Equipment 
+version 2007/09, with reference to HFCs as well as fire suppression agents and propellants. 
+VM0016, v2.0 
+56 
+concentration at a laboratory accredited to perform analyses in compliance with the applicable 
+International Organization for Standardization (ISO) standard, the AHRI 700-2006 standard, or 
+equivalent standards. National standards may be used provided their accuracy and 
+representativeness have been validated or verified. 
+The laboratory analyzing the composition must not be affiliated with the project proponent or 
+the project activity beyond performing these services. 
+The following sampling requirements must be met for each sample: 
+1) The sample must be taken while the ODS and/or HFC is in the possession of the 
+company that will destroy it. 
+2) Samples must be taken by a technician unaffiliated with the project proponent. 
+3) Samples must be taken with a clean, fully evacuated sample bottle that meets 
+applicable US Department of Transportation requirements or an equivalent national 
+(host country) or ISO standard.  
+4) The technician must ensure that the sample is representative of the contents of the 
+container. 
+5) Each sample must be taken in liquid state. 
+6) A minimum sample size of 0.4536 kg (1 lb) must be drawn for each sample. 
+7) Each sample must be individually labeled and tracked according to the container from 
+which it was taken, and the following information recorded:  
+a) Time and date of sample  
+b) Name of project proponent  
+c) Name of technician taking sample  
+d) Employer of technician taking sample  
+e) Volume of container from which sample was extracted  
+f) Ambient air temperature at time of sampling  
+8) Chain of custody for each sample from the point of sampling to the laboratory must be 
+documented by paper bills of lading or electronic, third-party tracking that includes 
+proof of delivery.  
+9.3.1.3 Analysis Requirements 
+All project samples must be analyzed using the applicable ISO standard or the AHRI 700-2006 
+Standard. National standards may be used provided their accuracy and representativeness 
+have been validated or verified. The analysis must provide:   
+VM0016, v2.0 
+57 
+1) Identification of the refrigerant 
+2) Purity (%) of the ODS and/or HFC mixture by weight using gas chromatography 
+3) Moisture level in parts per million, which must be subtracted from the total mass of the 
+sample to quantify the amount of ODS or HFC eligible for destruction crediting. For 
+containers that hold mixed ODS and/or HFC, the sample’s saturation point must be 
+assumed to be that of the ODS and/or HFC species in the mixture that is at least 10% 
+of the mixture by mass and has the lowest saturation point.  
+4) Mass of high boiling residue, which must be subtracted from the total mass of the 
+sample to quantify the amount of ODS or HFC eligible for destruction crediting 
+5) Analysis of other ODS or HFC in the case of mixtures of ODS or HFC, and their 
+percentage by mass 
+Where any of the requirements in Sections 9.3.1.1–9.3.1.3 are not met, no GHG emission 
+reductions may be verified for ODS or HFC destruction associated with that container. Where a 
+sample is tested and does not meet one of the requirements, the project proponent may elect 
+to have the material re-sampled and re-analyzed. The project proponent may sample for 
+moisture content and perform any necessary de-watering prior to the required sampling and 
+laboratory analysis.  
+Containers holding mixed ODS or HFC, which is defined as less than 90% composition of a 
+single ODS or HFC species, must meet the additional requirements in Section 9.3.1.4. 
+9.3.1.4 Composition and Quantity Analysis Requirements for Mixed ODS and/or HFC 
+Containers holding mixed ODS and/or HFC (i.e. non-commercial blends. Marketable blends of 
+refrigerants, e.g., R-410A are not considered mixed ODS or HFCs) must also be processed and 
+measured for composition and concentration according to the requirements in this section. The 
+sampling required under this section may be conducted before or after delivery to the 
+destruction facility. The circulation and sampling activities must be directed and conducted by a 
+third-party organization (i.e., not the project proponent) and by individuals who have been 
+properly trained for the functions they perform. Circulation and sampling may be conducted at 
+the project proponent’s facility. The project description must specify the procedures by which 
+mixed ODS and/or HFC are analyzed.  
+The composition and concentration of ODS and/or HFC on a mass basis must be determined 
+for each container. The results of the composition analysis in Section 9.3.1.3 must be used by 
+the validation/verification body (VVB) to confirm that the destroyed ODS and/or HFC is the 
+same ODS and/or HFC that is sampled under the requirements in this section and that the 
+mass of any non-eligible substances (e.g., hydrocarbons, water, high boiling residues) in the 
+mixture has been subtracted from the total mass. Prior to sampling, the ODS and/or HFC 
+mixture must be circulated in a container that meets all of the following criteria:   
+VM0016, v2.0 
+58 
+1) The container has no solid interior obstructions.9  
+2) The container was fully evacuated prior to filling.  
+3) The container has sampling ports to sample liquid and gas phase ODS and/or HFC. 
+4) The liquid port intake is at the bottom of the container and the vapor port intake at the 
+top of the container. For horizontally oriented mixing containers, the intakes are located 
+in the middle third of the container.   
+5) The container and associated equipment can circulate the mixture via a closed loop 
+system from the bottom to the top.   
+Where the original mixed ODS and/or HFC container does not meet these requirements, it may 
+still be used provided it has mixing capacity, and a representative sample of the ODS and/or 
+HFC mixture is obtained that complies with the requirements in Section 9.3.1.2 and (a)–(d) 
+below. Otherwise, the mixed ODS and/or HFC must be transferred into a temporary holding 
+tank or container that meets all of the above criteria. The weight of the contents placed into the 
+temporary container must be calculated and recorded. During transfer of ODS and/or HFC into 
+and out of the temporary container, ODS and/or HFC must be recovered to the vacuum levels 
+required by the US EPA for that ODS and/or HFC (see 40 CFR 82.156) or any national (host 
+country) or ISO standard.  
+Once the mixed ODS and/or HFC is in a container or temporary storage unit that meets the 
+criteria above, circulation of mixed ODS and/or HFC must be conducted in a manner consistent 
+with the following circulation requirements:   
+a) Liquid mixture must be circulated from the liquid port to the vapor port.   
+b) A volume of the mixture equal to two times the volume in the container must be 
+circulated. 
+c) Circulation must occur at a rate of at least 113.6 L/minute. 
+d) Start and end times must be recorded. 
+Within 30 minutes of the completion of circulation, a minimum of two samples must be taken 
+from the bottom liquid port and analyzed according to the procedures above. The mass 
+composition and concentration of the mixed ODS and/or HFC must be equal to the lesser of the 
+two GWP-weighted concentrations.  
+9.3.2 Composition and Quantity Analysis Requirements for Dilute Sources 
+The following analysis must be conducted for dilute sources of ODS and/or HFC (i.e., recovered, 
+intact appliance insulation foam).  
+ 
+9 Mesh baffles or other interior structures that do not impede the flow of ODS are acceptable.  
+VM0016, v2.0 
+59 
+All recovered foam pieces must be placed in air- and water-tight storage for transport to the 
+destruction facility. Size of the recovered foam blocks must be documented by images of the 
+recovered foam blocks alongside the appliances from which they were recovered. 
+9.3.2.1 Weighing Requirements 
+Mass of the foam must be determined through weight measurements taken at the destruction 
+facility on a scale whose calibration is tested quarterly by a licensed service company using 
+certified test weights. Presence of any contaminants and non-foam material must be deducted. 
+A scale is considered calibrated where it is within the maintenance tolerance of the relevant 
+National Institute of Standards and Technology (NIST) Handbook 44 accuracy class. Scales 
+found to be outside of this tolerance must be recalibrated. 
+Identification of the foam blowing agents present in the appliance insulation foam must be 
+determined based on at least one sample per appliance. Destruction of foams identified to 
+contain non-ODS/non-HFC blowing agents (e.g., hydrocarbons) is not eligible for crediting under 
+this methodology. 
+The laboratory performing the composition analysis must not be affiliated with the project 
+proponent or the project activity beyond performing these services. 
+9.3.2.2 Sampling Requirements 
+The following sampling requirements must be met for each sample:   
+1) The sample must be taken while the intact foam is in the possession of the company 
+that will destroy it. 
+2) Each foam sample must have dimensions of at least 5.08 cm × 5.08 cm × 5.08 cm 
+(2 inches × 2 inches × 2 inches). In cases where foam removed results in sections 
+smaller than 5.08 cm × 5.08 cm × 5.08 cm, a comparable number of samples that 
+add up to greater than 100 cm3 must be analyzed. 
+3) For storage and transport, each sample must be placed and sealed in a separate 
+waterproof, air-tight container that is at least 2 mm thick. 
+4) Each sample must be individually labeled and tracked according to the appliance from 
+which it was taken, and the following information recorded:  
+a) Time and date of sample  
+b) Name of project proponent  
+c) Name of employee taking sample  
+d) Employer of employee taking sample  
+e) Total mass of foam recovered from the appliance from which the sample was 
+extracted  
+f) 
+Ambient air temperature at time of sampling  
+VM0016, v2.0 
+60 
+5) Chain of custody for each sample from the point of sampling to the laboratory must be 
+documented by paper bills of lading or electronic, third-party tracking that includes 
+proof of delivery. 
+9.3.2.3 Analysis Requirements 
+All samples must be analyzed using the heating method to extract ODS foam blowing agent 
+from the foam samples, as described in Scheutz et al. (2007a) and summarized below: 
+1) Each sample must be prepared to a thickness no greater than 1 cm, placed in a 1123 
+mL glass bottle, weighed using a calibrated scale, and sealed with Teflon-coated septa 
+and aluminum caps. 
+2) To release the blowing agent from the foam, samples must be incubated in an oven for 
+48 hours at 140 °C. 
+3) When cooled to room temperature, gas samples must be redrawn from the headspace 
+and analyzed using gas chromatography. 
+4) The lids must be removed after analysis, and the headspace must be flushed with 
+atmospheric air for approximately five minutes using a normal compressor. Afterwards, 
+septa and caps must be replaced and the bottles subjected to a second 48-hour 
+heating step to drive out the remaining blowing agent from the sampled foam. 
+5) When cooled down to room temperature after the second heating step, gas samples 
+must be redrawn from the headspace and analyzed using gas chromatography. 
+9.3.3 Destruction Facility Requirements 
+Destruction of ODS and/or HFC must occur at a facility that has a valid host country permit for 
+ODS and/or HFC destruction and that meets the screening criteria for destruction technologies 
+set out in the most recent version of the UNEP TEAP TFDT (reproduced in full in Appendix 3 
+from TEAP Report of the Task Force on Destruction Technologies, Chapter 2 (2002)).  
+Use of a TEAP-approved destruction technology meeting all applicable national and local 
+standards is sufficient to demonstrate compliance.  
+These screening criteria are discussed in detail in Appendix 3 and include destruction and 
+removal efficiency (DRE), emissions of dioxins/furans, emissions of other pollutants, and 
+technical capability.10 
+ 
+10 For additional information on how facilities may demonstrate DRE, see Appendix 3. EPA’s Thermal Stability Ranking 
+System is also used to test the DRE of hazardous waste incinerators. Where an incinerator has a demonstrated ability to 
+destroy, to the required DRE, hazardous wastes that are ranked lower on the thermal stability index than the relevant 
+ODS, it is assumed the incinerator would also destroy the ODS. For example, if an incinerator can destroy chlorobenzene 
+(thermal stability ranking of 20) to the required DRE and emissions criteria, it is assumed that it can also destroy CFC-
+11 (thermal stability ranking of 89–91) to the required criteria.  
+VM0016, v2.0 
+61 
+Some TEAP-approved destruction technologies like cement kilns can have CO emission levels 
+that exceed the TEAP limit during normal cement product operations. If cement kilns are used 
+for ODS destruction, the operator must monitor CO emissions before the destruction date and 
+during the destruction of ODS to demonstrate that the CO emissions attributable to ODS 
+destruction do not exceed such limit. The equipment must be tested and maintained according 
+to the national requirements. 
+Operating parameters of the destruction unit while destroying the ODS and/or HFC material, 
+and if applicable, before the destruction, must be monitored and recorded as described in the 
+Code of Good Housekeeping11 (as reproduced in full in Appendix 2) approved by the Montreal 
+Protocol.  
+ 
+ 
+ 
+11 TEAP. 2006. Code of Good Housekeeping. In Handbook for the Montreal Protocol on Substances that Deplete the Ozone 
+Layer. 7th ed. 
+VM0016, v2.0 
+62

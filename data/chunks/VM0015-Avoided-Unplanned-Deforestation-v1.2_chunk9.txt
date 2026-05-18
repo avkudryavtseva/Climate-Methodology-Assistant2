@@ -1,0 +1,1277 @@
+46 
+TABLE NOTES 
+Area at year 
+Where the boundary of the strata is dynamic, explain the rationale and provide the 
+estimated annual area of each stratum. 
+ 
+A projected deforestation rate must be determined by the project proponent taking into account 
+possible future changes in agents, drivers and underlying causes of deforestation, as well as 
+the remaining forest area that is potentially available for conversion to non-forest uses. This 
+task is performed through the following two analytical sub-steps: selection of the baseline 
+approach and quantitative projection of future deforestation. 
+Selection of the Baseline Approach 
+To project future deforestation, two baseline approaches are available:  
+• 
+Historical average approach: Under this approach, the rate of baseline deforestation is 
+assumed to be a continuation of the average annual rate measured during the 
+historical reference period in the reference region or, where appropriate, in different 
+strata of the reference region. 
+• 
+Time function approach: With this approach, the rate of baseline deforestation is 
+estimated by extrapolating the historical trend observed in the reference region (or its 
+strata) as a function of time using a simple linear regression model. This approach may 
+be applied when a 10-year annual deforestation time series is available. The regression 
+model must be statistically significant (p ≤ 0.05), have an r2 ≥0.75 and be free from 
+bias (demonstrated through selection of the fit with the lowest residuals). Standard 
+equations for estimating uncertainties in regression forecasting should be applied, and 
+the VCS Methodology Requirements guidance on uncertainty discounting must be used. 
+Where the regression model does not meet these statistical requirements, the 
+historical average must be used instead. 
+Select and justify the most appropriate baseline approach following the decision criteria 
+described below. Different approaches may be used in different strata of the reference region, 
+where appropriate. 
+1) Where deforestation rates measured over the historical reference period in the 
+reference region (or a stratum of it) do not reveal any trend (decreasing, constant or 
+increasing deforestation) and: 
+a) No conclusive evidence emerges from the analysis of agents and drivers 
+explaining the different historical deforestation rates – then do additional 
+assessments under Step 2 (Section 6.2), such as more literature reviews, 
+expert consultations and additional field surveys until conclusive evidence is 
+found.  
+ 
+VM0015, v1.2 
+ 
+47 
+b) Conclusive evidence emerges from the analysis of agents and drivers 
+explaining the different historical deforestation rates – then use the historical 
+average approach.  
+2) Where deforestation rates measured over the different historical sub-periods in the 
+reference region (or a stratum of it) reveal a clear trend, and this trend is: 
+a) Decreasing and: 
+i) 
+Conclusive evidence emerges from analyzing agents and drivers 
+explaining the decreasing trend and making it likely to continue – then 
+use the time function approach. 
+ii) 
+No conclusive evidence emerges from the analysis of agents and 
+drivers explaining the decreasing trend – then do additional 
+assessments under Step 3 (Section 8.1.1), such as more literature 
+reviews, expert consultations and additional field surveys, until finding 
+conclusive evidence 
+b) Relatively constant and: 
+i) 
+Conclusive evidence emerges from the analysis of agents and drivers 
+explaining the historical trend and making it likely that this trend will 
+continue – then use the historical average approach. 
+ii) 
+No conclusive evidence emerges from the analysis of agents and 
+drivers explaining the historical trend –then do additional assessments 
+under Step 3 (Section 8.1.1), such as more literature reviews, expert 
+consultations and additional field surveys, until conclusive evidence is 
+found. 
+c) Increasing and: 
+i) 
+Conclusive evidence emerges from analyzing agents and drivers 
+explaining the increased trend and making it likely to continue – then 
+use the time function approach. 
+ii) 
+No conclusive evidence emerges from analyzing agents and drivers 
+explaining the increasing trend – then use the historical average 
+approach. 
+Quantitative Projection of Future Deforestation 
+The procedure is to first project the annual areas or rates of baseline deforestation within the 
+reference region (or where appropriate within different strata of the reference region), then to 
+analyze the spatial location of these annual areas in the reference region (Section 8.1.3.20), 
+and finally, to determine the annual areas and location of deforestation in the project area and 
+leakage belt. 
+Projection of the annual areas of baseline deforestation in the reference region 
+The method to be used depends on the baseline approach selected. 
+ 
+VM0015, v1.2 
+ 
+48 
+Historical average 
+The annual baseline deforestation area that applies at year t to stratum i within the reference 
+region is calculated as follows: 
+𝐴𝐵𝑆𝐿𝑅𝑅𝑖,𝑡 =  𝐴𝑅𝑅𝑖,𝑡−1 ×  𝑅𝐵𝑆𝐿𝑅𝑅𝑖,𝑡/100 
+ 
+ 
+ 
+ 
+ 
+(3) 
+Where: 
+ABSLRRi,t 
+= 
+Annual area of baseline deforestation in stratum i within the reference  
+region at year t (ha/yr) 
+ARRi,t-1 
+= 
+Area with forest cover in stratum i in the reference region at year t − 1  
+(ha) 
+RBSLRRi,t 
+= 
+Deforestation rate21 applicable to stratum i within the reference region  
+at year t (%) 
+t 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+i 
+= 
+1, 2, 3, …, IRR, a stratum within the reference region (dimensionless) 
+Time function  
+The annual area of baseline deforestation that applies at year t to stratum i within the 
+reference region during the first Toptimali years is calculated using one of the following 
+equations: 
+𝐴𝐵𝑆𝐿𝑅𝑅𝑖,𝑡=  𝑎 +  𝑏× 𝑡 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+Where: 
+ABSLRRi,t 
+= 
+Annual area of baseline deforestation in stratum i within the reference  
+region at year t (ha/yr) 
+a 
+= 
+Estimated intercept of the regression line (ha/yr) 
+b 
+= 
+Estimated coefficient of the time variable (or slope of the linear  
+regression) (ha/yr) 
+t 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+i 
+= 
+1, 2, 3 … IRR, a stratum within the reference region (dimensionless) 
+The model and its parameters are derived from data obtained from the historical reference 
+period and are used to project future deforestation trends as shown in Figure 5 below. 
+ 
+21 See Puyravaud, J. P. (2003). Standardizing the calculation of the annual rate of deforestation. Forest Ecology and 
+Management, 177(1–3), 593–596. https://doi.org/10.1016/S0378-1127(02)00335-3 
+ 
+VM0015, v1.2 
+ 
+49 
+Figure 5: Time Function for Modeling ABSLRRi 
+ 
+It must be demonstrated to the VVB at validation that the model complies with statistical good 
+practice. 
+If ABSLRRi,t  decreases as a function of time, then Toptimali is the period of time during which 
+ABSLRRi,t yields a positive value. After that period of time, ABSLRRi,t = 0. 
+If ABSLRRi,t  increases as a function of time, then Toptimali is the period of time between t = 1 
+and t = toptimali, the latter being the year at which the following condition is satisfied: 
+𝐴𝑜𝑝𝑡𝑖𝑚𝑎𝑙𝑖= ∑
+𝐴𝐵𝑆𝐿𝑅𝑅𝑖,𝑡
+𝑡𝑜𝑝𝑡𝑖𝑚𝑎𝑙𝑖
+𝑡=1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+Where: 
+Aoptimali 
+= 
+Area of “optimal” forest land suitable for conversion to non-forest land  
+within stratum i (see below) (ha) 
+ABSLRRi,t 
+= 
+Annual area of baseline deforestation in stratum i within the reference  
+region in year t (ha/yr) 
+t 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+i 
+= 
+1, 2, 3, …, IRR, a stratum within the reference region (dimensionless) 
+toptimali 
+= 
+Year at which Toptimali ends (yr) 
+If: 
+Toptimali ≥ project crediting period, then ABSLRRi,t calculated with Eq. (4) is 
+applicable during the entire project crediting period. 
+ 
+VM0015, v1.2 
+ 
+50 
+If: 
+Toptimali < project crediting period, then ABSLRRi,t calculated with Eq. (4) is 
+applicable only to the first Toptimali years. For the following Taveragei years use 
+value of ABSLRRi,t  calculated for the year t = Toptimali :Taveragei is the period 
+of time between t = toptimali  and  t = taveragei, the latter being the year at 
+which the following condition is satisfied: 
+𝐴𝑎𝑣𝑒𝑟𝑎𝑔𝑒𝑖= ∑
+𝐴𝐵𝑆𝐿𝑅𝑅𝑖,𝑡
+𝑡𝑎𝑣𝑒𝑟𝑎𝑔𝑒𝑖
+𝑡=𝑡𝑜𝑝𝑡𝑖𝑚𝑎𝑙𝑖
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) 
+Where:      
+Aaveragei 
+= 
+Area of “average” forest land suitable for conversion to non-forest land  
+within stratum i (see below) (ha) 
+ABSLRRi,t 
+= 
+Annual area of baseline deforestation in stratum i within the reference  
+region at year t (ha/yr) 
+t 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+i 
+= 
+1, 2, 3, …, IRR, a stratum within the reference region (dimensionless) 
+toptimali 
+= 
+Year at which Toptimali ends (yr) 
+taveragei 
+= 
+Year at which Taveragei ends (yr) 
+If: 
+Toptimali + Taveragei ≥ project crediting period, then ABSLRRi,t calculated for 
+the year t = toptimali is applicable during the period of time between 
+t = toptimali and t = taveragei 
+If: 
+Toptimali + Taveragei < project crediting period, then ABSLRRi,t calculated for 
+the year t = toptimali is applicable only to the first Taveragei years following year 
+toptimali. For the following 20 years, assume a linear decrease of ABSLRRi,t 
+down to zero hectares per year in t = taverage + 20 
+𝐴𝐵𝑆𝐿𝑅𝑅𝑖,𝑡= 𝐴𝐵𝑆𝐿𝑅𝑅𝑡𝑎𝑣𝑒𝑟𝑎𝑔𝑒,𝑖(1 –  1/20  × (𝑡 –  𝑡𝑎𝑣𝑒𝑟𝑎𝑔𝑒𝑖)) 
+ 
+ 
+ 
+(7) 
+Where: 
+ABSLRRi,t 
+= 
+Annual area of baseline deforestation in stratum i within the reference  
+region in year t (ha/yr) 
+ABSLRRtaverage,i = 
+Annual area of baseline deforestation in stratum i within the reference  
+region at year taveragei (ha/yr) 
+taveragei 
+= 
+Year at which taveragei ends (yr) 
+t 
+= 
+1, 2, 3; …, T, a year of the proposed project crediting period  
+(dimensionless) 
+i 
+= 
+1, 2, 3, …, IRR, a stratum within the reference region (dimensionless) 
+Note – After taveragei + 20 years, ABSLRRi,t is zero hectares per year in all cases. 
+Calculation of Aoptimali and Aaveragei under the time function approach 
+Aoptimali (area of “optimal” forest land suitable for conversion to non-forest land within stratum 
+i) and Aaveragei (area of “average” forest land suitable for conversion to non-forest land within 
+ 
+VM0015, v1.2 
+ 
+51 
+stratum i) must be determined to avoid non-conservative projections of baseline deforestation 
+when “increasing deforestation” is projected under the time function approach. Deforestation 
+may increase in the future only if there are no constraints to the conversion of forest land to 
+non-forest land. This is typically the case when the project area is located in a country or region 
+with significant forest cover (Olander et al., 2006). 
+To assess whether there is scarcity of forest land that is accessible to deforestation agents and 
+potentially exposed to the risk of deforestation, do the following: 
+1) Identify land-use constraints: Identify the appropriate biophysical constraints (e.g., soil, 
+climate, elevation, slope) and appropriate socio-economic constraints (e.g., mobility, 
+land-use rights, areas with presence of conflicts and crime) that limit the geographical 
+area where deforestation agents may expand their land-use activities in currently 
+forested areas. Consider the constraints as they are perceived by the main groups of 
+deforestation agents, taking into consideration their socio-economic conditions. To 
+determine how constraints are perceived by the main groups of deforestation agents, 
+determine the threshold conditions under which the agents have deforested historically 
+(e.g., range of slopes, types of soil, minimum/maximum rainfall, elevation range; 
+relevant to determine the range in which the main types of crops and livestock are able 
+to survive). Use spatial data, literature, surveys and/or participatory rural appraisal as 
+appropriate.  
+2) Estimate the remaining forest area that may be converted to non-forest land: Using the 
+constraints identified above, develop a Maximum Potential Deforestation Map, which 
+maps the area currently covered by forest that is potentially available for the further 
+expansion of non-forest uses in the reference region.  
+3) Stratify the Maximum Potential Deforestation Map into broad suitability classes: 
+Considering the constraints identified above, define criteria and thresholds that 
+delineate “optimal,” “average” and “sub-optimal” conditions for each of the main land 
+uses implemented by the main agent groups (e.g., by defining ranges of slope, rainfall 
+or types of soils, or ranges of deforestation risks according to the deforestation risk 
+map created for the spatial model (see Section 8.1.3.20). Select thresholds that are 
+relevant from the point of view of the deforestation agents. Using the selected criteria 
+and thresholds stratify the Maximum Potential Deforestation Map in three broad 
+suitability classes representing “optimal,” “average” and “sub-optimal” areas for non-
+forest uses. Where available use existing maps from other sources.   
+4) Aoptimali is the area of the “optimal” suitability class within stratum i, and Aaveragei is 
+the area of the “average” suitability class within stratum i. 
+Projection of annual areas of baseline deforestation in the project area and leakage belt 
+Location analysis of future deforestation within the reference region (Section 8.1.3.2) is 
+required to determine the annual areas of deforestation within the project area and leakage 
+belt0. Once location analysis is completed, the portion of annual areas of baseline 
+ 
+VM0015, v1.2 
+ 
+52 
+deforestation of each stratum i within the project area and leakage belt must be determined 
+using a GIS.   
+Quantitative Projection of Future Deforestation Section Summary 
+Present the results of the previous assessments in Table 10 and Table 11. Do this at least for 
+the baseline validity period and, optionally, for the entire project crediting period. 
+Table 9: Annual Areas of Baseline Deforestation in the Reference Region 
+Project 
+year t 
+Stratum i in the reference region 
+Total 
+1 
+2 
+… 
+IRR 
+annual 
+cumulative 
+ABSLRRi,t 
+ABSLRRi,t 
+ABSLRRi,t 
+ABSLRRi,t 
+ABSLRRt 
+ABSLRR 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+… 
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+Table 10: Annual Areas of Baseline Deforestation in the Project Area (ABSLPA) 
+Project 
+year t 
+Stratum i of the reference region in the project 
+area 
+Total 
+1 
+2 
+… 
+IRR 
+annual 
+cumulative 
+ABSLPAi,t 
+ABSLPAi,t 
+ABSLPAi,t 
+ABSLPAi,t 
+ABSLPAt 
+ABSLPA 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha 
+0 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+... 
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+VM0015, v1.2 
+ 
+53 
+Table 11: Annual Areas of Baseline Deforestation in the Leakage Belt (ABSLLK) 
+Project 
+year t 
+Stratum i of the reference region in the leakage 
+belt 
+Total 
+1 
+2 
+… 
+IRR 
+annual 
+cumulative 
+ABSLLKi,t 
+ABSLLKi,t 
+ABSLLKi,t 
+ABSLLKi,t 
+ABSLLKt 
+ABSLLK 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha/yr 
+ha 
+0 
+1 
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+... 
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+ 
+8.1.3.2 Projection of the Location of Future Deforestation 
+Annual areas of baseline deforestation in the reference region are estimated in Section 8.1.3.1. 
+This section is to analyze where future deforestation is most likely to happen in the baseline 
+case in order to match the location of the projected deforestation with carbon stocks and 
+determine the annual areas of baseline deforestation in the project area and leakage belt. 
+Analysis is based on the assumption that deforestation is not a random event but a 
+phenomenon that occurs at locations that have a combination of bio-geophysical and economic 
+attributes that is particularly attractive to deforestation agents. For example, a forest located on 
+fertile soil, flat land and near to roads and markets for agricultural commodities is likely to be at 
+greater risk of deforestation than a forest located on poor soil, steep slope and far from roads 
+and markets. Locations at higher risk are assumed to be deforested first. This hypothesis may 
+be tested empirically by analyzing the spatial correlation between historical deforestation and 
+geo-referenced bio-geophysical and economic variables. In the previous example, soil fertility, 
+slope, distance to roads and distance to markets are the hypothesized spatial driver variables 
+(SDVi) or “predisposing factors” (De Jong, 2007). These variables may be represented in a map 
+(or Factor Map) and overlaid to a map showing historical deforestation using a GIS. From the 
+combined spatial dataset, information is extracted and analyzed statistically in order to produce 
+a map that shows the level of deforestation risk at each spatial location (pixel or grid cell). The 
+deforestation risk (or probability of deforestation) at a given spatial location changes when one 
+or more of the spatial driver variables change their values due to projected changes (e.g., when 
+population density increases within a certain area, when a road is built nearby or when areas 
+are deforested nearby). 
+ 
+VM0015, v1.2 
+ 
+54 
+Several models/software are available and may be used to perform these tasks in slightly 
+different ways, such as Geomod, TerrSet, Dinamica EGO, CLUE and Land Change Modeler. The 
+model/software used must be peer-reviewed and must be demonstrated at validation to be 
+consistent with the methodology. 
+Preparation of Factor Maps 
+Based on the analysis of Step 3 (Section 8.1.1) and Section 8.1.3.1, identify the spatial 
+variables that most likely explain the patterns of baseline deforestation in the reference region. 
+Obtain spatial data for each variable and create digital maps representing the Spatial Features 
+of each variable (i.e., the shape files representing the point, lines or polygon features or the 
+raster files representing surface features). When significant spatial variables are outside of the 
+reference region22, the spatial data must be collected for a larger area than the reference 
+region not to bias the model. 
+Some models will require production of Distance Maps from the mapped features (e.g., 
+distance to roads or distance to already deforested lands) or maps representing continuous 
+variables (e.g., slope classes) and categorical variables (e.g., soil quality classes). Where the 
+model/software allows working with dynamic Distance Maps (i.e., the software is able to 
+calculate new Distance Maps at each time step), these should be used. For simplicity, these 
+maps are called “Factor Maps.” Other models do not require Factor Maps for each variable, and 
+instead analyze all the variables and deforestation patterns together to produce a risk map. 
+Where some of the spatial variables are expected to change, collect information on the 
+expected changes from credible and verifiable sources of information. Then prepare Factor 
+Maps that represent the changes that will occur in different future periods. Sometimes, 
+projected changes may be represented by a dynamic spatial model that may change in 
+response to deforestation. 
+In case of planned infrastructure (e.g., roads, industrial facilities, settlements), provide 
+documented evidence that the planned infrastructure will actually be constructed and the 
+construction timeline. For planned new roads, road improvements or railroads, provide credible 
+and verifiable information on the planned construction of different segments (e.g., how many 
+kilometers will be constructed, where and when). Appropriate evidence includes approved plans 
+and budgets for construction, signed construction contracts or an open bidding process with 
+approved budgets and finance. Where such evidence is not available, exclude the planned 
+infrastructure from the factors considered in the analysis.  
+Any area affected by planned deforestation due to the construction of planned infrastructure 
+must be excluded from the project area. 
+ 
+22 For example, the reference region may include deforestation alongside an highway while the highway itself is outside of the 
+reference region boundary. 
+ 
+VM0015, v1.2 
+ 
+55 
+In case of unplanned infrastructure (e.g., secondary roads), provide evidence that the 
+unplanned infrastructure will actually develop (e.g., based on historical developments). 
+Specifically, from a wall-to-wall assessment (or at least five randomly sampled observations in 
+the reference region) or from literature sources relevant to the reference region, estimate the 
+average annual length23of new unplanned infrastructure per square kilometer24 that was 
+constructed during the historical reference period. Alternatively, determine the historical rate of 
+change in those variables for which there are good projections (e.g., km of new unplanned 
+infrastructure as related to population). To avoid projecting unplanned infrastructure into areas 
+where geographic and socio-economic conditions are unsuitable for infrastructure development 
+(e.g., areas with steep slopes, swampy soils, low opportunity costs), develop a map 
+representing a proxy of suitability for future infrastructure development. For each “suitability” 
+class or gradient (using a minimum of two classes, e.g., suitable, not suitable), determine the 
+most plausible rate of unplanned infrastructure development. To do this, apply the following 
+steps: 
+1) Using historical data, expert opinion, participatory rural appraisal, literature and/or 
+other verifiable sources of information, list all relevant criteria that facilitate (at least 
+one criterion) or constrain (at least one criterion) the development of new unplanned 
+infrastructure. 
+2) For each criterion, generate a map using a GIS. 
+3) Using multi-criteria analysis, determine the most likely rate of unplanned infrastructure 
+development (e.g., km/km2/yr or a similar indicator) for different sectors (suitability 
+classes or gradients) within the reference region. 
+Projections of unplanned infrastructure development, particularly in forested areas, must be 
+conservative.  
+To create the Factor Maps use one of the following two approaches: 
+a) Empirical approach: Categorize each Distance Map in a number of predefined distance 
+classes (e.g., class 1 = distance between 0 and 50 m; class 2 = distance between 50 
+and 100 m). In a table, describe the rule used to build classes and the deforestation 
+likelihood assigned to each distance class.25 The deforestation likelihood is estimated 
+ 
+23 Other parameters relevant for modeling the construction of secondary roads may also be measured in this analysis, 
+such as distance between roads and number of destinations per year. Parameters to be assessed are dependent on the 
+modeling approach used to project the development of the road network and are therefore not further specified here. 
+24 Or per kilometer of official new road constructed, or per other landscape features that may be mapped (such as new 
+industrial facilities, settlements, mining concessions), as appropriate 
+25 Classes of continuous variables should be meaningful in terms of deforestation risk. This implies the 
+parameterization of a “value function” based on specific measurements. For instance, the criterion “distance to roads” 
+may not have a linear relationship with deforestation risk: a forest located at 50 km from the nearest road may be 
+subject to the same deforestation risk as a forest located at 100 km, while at 0.5 km the risk may be twice as much as 
+at 1.0 km. Data to model the value function and build meaningful classes may be obtained by analyzing the distribution 
+of sample points taken from historically deforested areas. 
+ 
+VM0015, v1.2 
+ 
+56 
+as the percentage of pixels that were deforested during the period of analysis (i.e., the 
+historical reference period). 
+b) Heuristic approach: Define “value functions” representing the likelihood of 
+deforestation as a function of distance from point features (e.g., sawmills) or linear 
+features (e.g., roads), or as a function of polygon features representing classes (e.g., of 
+soil type, population density) based on expert opinion or other sources of information. 
+Specify and briefly explain each value function in the PD. 
+For Distance Maps, a useful approach to estimate value functions is to sample spatially 
+uncorrelated points and their corresponding location in the maps representing historical 
+deforestation (land-use and land-cover change maps produced with Step 2 (Section 6.1) and to 
+use regression26 to define the probability of deforestation as a function of “distance.” 
+The empirical approach is preferred over the heuristic approach. Use the heuristic approach 
+only where there is insufficient information about the spatial location of historical deforestation 
+or where the empirical approach does not produce accurate results when validated against a 
+historical period. 
+Preparation of Deforestation Risk Maps 
+A Risk Map shows at each pixel location l the risk (or “probability”) of deforestation on a 
+numerical scale (e.g., 0 = minimum risk; 255 = maximum risk). 
+Models use different techniques to produce risk maps and algorithms vary among different 
+modeling tools. Algorithms of internationally peer-reviewed modeling tools are eligible to 
+prepare deforestation risk maps, provided they are shown to conform to the methodology at 
+validation.  
+Several Risk Maps should be produced using different combinations of Factor Maps and 
+modeling assumptions in order to allow comparison and selection of the most accurate map. 
+A list of Factor Maps, including the maps used to produce them and the corresponding sources 
+must be presented in the PD (Table 12) together with a flow-chart diagram illustrating how the 
+Risk Map is generated. 
+ 
+ 
+ 
+26 For example logistic regression 
+ 
+VM0015, v1.2 
+ 
+57 
+Table 12: List of Variables, Maps and Factor Maps 
+Factor Map 
+Source 
+Variable Represented 
+Meaning of the 
+Categories or Pixel 
+Value  
+Other Maps 
+and Variables 
+used to 
+Create the 
+Factor Map 
+Algorithm 
+or 
+Equation 
+Used 
+Comments 
+ID 
+File 
+Name 
+Unit 
+Description 
+Range 
+Meaning ID 
+File 
+Name 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Selection of the Most Accurate Deforestation Risk Map 
+The quality of the model output must be confirmed (generally referred to as model validation in 
+the modeling community) in order to determine which of the deforestation risk maps is the 
+most accurate. A good practice to confirm a model output (such as a risk map) is calibration 
+and validation, referred to here as calibration and confirmation (to avoid confusion with 
+validation as required by the VCS). 
+Two options are available to perform this task: (a) calibration and confirmation using two 
+historical sub-periods and (b) calibration and confirmation using tiles. Option (b) is preferred 
+where recent deforestation trends differ from those in the more distant past. 
+1) Where two or more historical sub-periods show a similar deforestation trend, data from 
+the most recent period may be used as the “confirmation” dataset, and those from the 
+previous period as the “calibration” dataset. 
+Using only the data from the calibration period, prepare for each Risk Map a Prediction 
+Map of deforestation for the confirmation period. Overlay the predicted deforestation 
+with locations that were actually deforested during the confirmation period. Select the 
+Prediction Map with the best fit and identify the Risk Map that was used to produce it. 
+Prepare the final Risk Map using the data from the calibration and the confirmation 
+period. 
+2) Where only one historical sub-period is representative of what is likely to happen in the 
+future, divide the reference region into tiles and randomly select half of the tiles for the 
+calibration dataset and the other half for the confirmation set. Do the analysis 
+explained above (see Castillo-Santiago et al., 2007). 
+The Prediction Map with the best fit is the map that best reproduced actual deforestation in the 
+confirmation period. The best fit must be assessed using appropriate statistical techniques. 
+Most peer-reviewed modeling tools, such as Geomod, TerrSet, Land Change Modeler and 
+Dinamica EGO, include in the software package appropriate assessment techniques, which may 
+ 
+VM0015, v1.2 
+ 
+58 
+be used under this methodology. Techniques that assess the accuracy of the prediction at the 
+polygon level are preferred, such as the predicted compared to observed quantity of total 
+deforestation within the project area. 
+One assessment technique that may be used is the “Figure of Merit” (FOM) that confirms 
+model prediction in a statistical manner (Pontius et al., 2008; Pontius et al., 2007).27 
+The FOM is a ratio of the intersection of the observed change (change between the reference 
+maps at time 1 and time 2) and the predicted change (change between the reference map in 
+time 1 and simulated map in time 2) to the union of the observed change and the predicted 
+change (Eq. (9)). The FOM ranges from 0.0, where there is no overlap between observed and 
+predicted change, to 1.0 where there is a perfect overlap between observed and predicted 
+change. The highest FOM value must be used as the criterion for selecting the most accurate 
+Deforestation Risk Map to be used for predicting future deforestation.  
+𝐹𝑂𝑀 =  𝐵 / (𝐴+ 𝐵+ 𝐶) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(9) 
+Where: 
+FOM 
+= 
+Figure of Merit (dimensionless) 
+A 
+= 
+Area in which observed change is incorrectly predicted as persistence (ha) 
+B 
+= 
+Area in which observed change is correctly predicted as change (ha) 
+C 
+= 
+Area in which observed persistence is incorrectly predicted as change (ha) 
+The minimum threshold for the best fit as measured by the FOM must be defined by the net 
+observed change in the reference region for the calibration period of the model. Net observed 
+change must be calculated as the total area of change being modeled in the reference region 
+during the calibration period as a percentage of the total area of the reference region. The FOM 
+value must be equivalent to or larger than the net observed change value. If the FOM value is 
+below this threshold, the project proponent must demonstrate that at least three models have 
+been tested, and that the one with the best FOM is used.   
+Mapping the Location of Future Deforestation 
+Future deforestation is assumed to happen first at the pixel locations with the highest 
+deforestation risk value. To determine the locations of future deforestation, do the following: 
+1) In the most accurate Deforestation Risk Map, select the pixels with the highest 
+deforestation probability. Add the area of these pixels until their total area is equal to 
+ 
+27 Pontius Jr, R. G., Boersma, W., Castella, J. C., Clarke, K., de Nijs, T., Dietzel, C., Duan, Z., Fotsing, E., Goldstein, N., Kok 
+K., Koomen, E., Lippitt, C. D., McConnell, W., Mohd Sood, A., Pijanowski, B., Pithadia, S., Sweeney, S., Trung, T. N., 
+Veldkamp, A. T., & Verburg, P. H. (2008). Comparing input, output, and validation maps for several models of land 
+change. Annals of Regional Science, 42(1), 11–37. https://doi.org/10.1007/s00168-007-0138-2 Pontius Jr, R. G., 
+Walker, R., Yao-Kumah, R., Arima, E., Aldrich, S., Caldas, M., & Vergara, D. (2007). Accuracy assessment for a simulation 
+model of Amazonian deforestation. Annals of the Association of American Geographers, 97(4), 677–695. 
+https://doi.org/10.1111/j.1467-8306.2007.00577.x 
+ 
+VM0015, v1.2 
+ 
+59 
+the area expected to be deforested in the reference region in the first year of the 
+project according to Table 9. The result is the Map of Baseline Deforestation for year 1. 
+2) Repeat the above pixel selection procedure for each successive project year t to 
+produce a series of Maps of Baseline Deforestation for each future project year. Do this 
+at least for the upcoming baseline validity period and, optionally, for the entire project 
+crediting period. 
+3) Add all yearly baseline deforestation maps in one single map showing the expected 
+Baseline Deforestation for the baseline validity period and, optionally, for the entire 
+project crediting period. Present this map in the PD. 
+The described pixel selection procedure and production of annual maps of baseline 
+deforestation may be programmed in most state-of-the-art modeling tools/software. 
+To obtain the annual areas of baseline deforestation within the project area, combine the 
+annual maps of baseline deforestation for the reference region with a map depicting only the 
+polygon corresponding to the project area. After this step, Table 10 may be completed. To 
+obtain the annual areas of baseline deforestation within leakage belt, combine the annual 
+maps of baseline deforestation for the reference region with a map depicting only the polygon 
+corresponding to the leakage belt, then complete Table 11. 
+8.1.4 Definition of Land Use and Land Cover Change Component of the Baseline 
+(Step 5) 
+The goal of this step is to calculate activity data28 of the initial forest classes (icl) that will be 
+deforested and activity data of the post-deforestation classes (fcl) that will replace them in the 
+baseline case. 
+After Step 4 (Section 8.1.3), the area and location of future deforestation are both known and 
+pre-deforestation carbon stocks may be determined by matching the predicted location of 
+deforestation with the location of forest classes with known carbon stocks.  
+Pre-deforestation carbon stocks must be those existing or projected to exist at the year of 
+projected deforestation. This implies that forest classes in areas undergoing degradation in the 
+baseline case are not those existing at the project start date, but those projected to exist at the 
+year of deforestation. 
+Post-deforestation carbon stocks may either be determined as the historical area-weighted 
+average carbon stock or using location analysis (modeling). 
+8.1.4.1 Calculation of Baseline Activity Data Per Forest Class 
+Combine the Maps of Annual Baseline Deforestation of each future year produced in the 
+previous step with the Land Use and Land Cover Map produced for the current situation in Step 
+2 (Section 6.2) to produce a set of maps showing for each forest class the polygons that would 
+ 
+28 Activity data is measured in hectares per year. 
+ 
+VM0015, v1.2 
+ 
+60 
+be deforested each year in the absence of the AUD project activity. Extract from these maps the 
+number of hectares of each forest class that would be deforested and present the results in 
+Table 13 (for the reference region),29 Table 14 (for the project area) and Table 15 (for the 
+leakage belt). Do this at least for the baseline validity period and, optionally, for the project 
+crediting period. 
+In most cases one single Land Use and Land Cover Map representing the spatial distribution of 
+forest classes at the project start date will be produced in Step 2 (Section 6.2). However, where 
+certain areas of land are expected to undergo significant changes in carbon stocks due to 
+growth or degradation in the baseline case, a sequence of Land Use and Land Cover Maps 
+representing the mosaic of forest classes of each future year may be generated in Step 2 
+(Section 6.2), in which case these must be used in this step.  
+ 
+Table 13: Annual Areas Deforested Per Forest Class icl Within the Reference Region  
+in the Baseline Case (Baseline Activity Data Per Forest Class) 
+Area deforested per forest class icl within the reference region  
+Total baseline deforestation  
+in the reference region 
+IDicl> 
+1 
+2 
+… 
+Icl 
+Name > 
+  
+  
+  
+  
+ABSLRRt 
+ABSLRR 
+  
+annual 
+cumulative 
+Project year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+29 The table summarizing the annual areas deforested per forest class icl within the reference region in the baseline 
+case is optional. 
+ 
+VM0015, v1.2 
+ 
+61 
+Table 14: Annual Areas Deforested Per Forest Class icl Within the Project Area in the 
+Baseline Case (Baseline Activity Data Per Forest Class) 
+Area deforested per forest class icl within the project area  
+Total baseline deforestation  
+in the project area 
+IDicl> 
+1 
+2 
+… 
+Icl 
+Name > 
+  
+  
+  
+  
+ABSLPAt 
+ABSLPA 
+  
+annual 
+cumulative 
+Project year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+ 
+Table 15: Annual Areas Deforested Per Forest Class icl Within the Leakage Belt in the 
+Baseline Case (Baseline Activity Data Per Forest Class) 
+Area deforested per forest class icl within the leakage belt 
+Total baseline 
+deforestation  
+in the leakage belt 
+IDicl> 
+1 
+2 
+… 
+Icl 
+Name > 
+  
+  
+  
+  
+ABSLLKt 
+ABSLLK 
+  
+annual 
+cumulative 
+Project 
+year t 
+ha 
+ha 
+ha 
+ha 
+ha/yr 
+ha 
+0 
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+ 
+VM0015, v1.2 
+ 
+62 
+8.1.4.2 Calculation of Baseline Activity Data Per Post-Deforestation Forest Class 
+Two methods are available to project the LU/LC classes that will replace forests in the baseline 
+case: historical LU/LC change and modeling.  
+Method 1: Historical LU/LC Change 
+Historical LU/LC changes are assumed to be representative of future trends. Hence, post-
+deforestation land uses are allocated to the projected areas of annual deforestation in the 
+same proportions as those observed on lands deforested during the historical reference period 
+in the reference region. 
+Divide the reference region (or at least the area encompassing the project area, leakage belt 
+and leakage management zones) into Z zones (at least one zone), each representing different 
+combinations of possible post-deforestation land uses, taking into account the historical 
+location of post-deforestation LU/LC classes and the requirements (climate, soil, economic 
+factors) for each different class to be established in a given zone in the baseline case.   
+Where more than one zone exists, include in the PD a map showing the location of these zones 
+(Map of Zones of Post-Deforestation Land Uses) and provide a brief explanation of the zoning 
+rationale. In Table 16, report the area of each zone and the areas of each post-deforestation 
+LU/LC class present in each zone (based on the maps and data produced in Step 2, Section 
+6.2). 
+Table 16: Zones of the Reference Region30 Encompassing Different Combinations of 
+Potential Post-Deforestation LU/LC Classes 
+Zone 
+  
+  
+  
+  
+  
+  
+Total of all 
+other LU/LC 
+classes 
+present in 
+zone 
+Total area of 
+zone 
+Name: 
+Name: 
+Name: 
+F1 
+  
+F2 
+  
+F50 
+  
+IDfcl  
+1 
+IDfcl 
+2 
+IDfcl 
+Fcl 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+iDz 
+Name 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+1 
+Zone 1 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+          
+-
+0.0 
+2 
+Zone 2 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+          
+0.0 
+… 
+Zone … 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+          
+0.0 
+ 
+30 A smaller area than the reference region may be considered where it contains at least the project area, the leakage 
+belt and the leakage management zones. 
+ 
+VM0015, v1.2 
+ 
+63 
+Zone 
+  
+  
+  
+  
+  
+  
+Total of all 
+other LU/LC 
+classes 
+present in 
+zone 
+Total area of 
+zone 
+Name: 
+Name: 
+Name: 
+F1 
+  
+F2 
+  
+F50 
+  
+IDfcl  
+1 
+IDfcl 
+2 
+IDfcl 
+Fcl 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+Area 
+% of 
+Zone 
+iDz 
+Name 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+ha 
+% 
+Z 
+Zone Z 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+  
+0.0 
+          
+0.0 
+Total area of 
+each class fcl 
+-    
+0.0 
+           
+-    
+0.0 
+           
+-    
+0.0 
+          
+-    
+0.0 
+          
+-    
+0.0 
+ 
+Calculate the area projected to be deforested in each zone and report the result in Table 18 (for 
+the project area) and Table 19 (for the leakage belt). Do this at least for the baseline validity 
+period and, optionally, for the entire project crediting period. Doing the same for the reference 
+region (Table 17) is optional. 
+ 
+Table 17: Annual Areas Deforested in Each Zone Within the Reference Region in the 
+Baseline Case (Baseline Activity Data Per Zone) 
+  
+  
+  
+  
+  
+Total baseline 
+deforestation in the 
+reference region 
+iDz > 
+1 
+2 
+… 
+Z 
+Name > 
+Zone 1 
+Zone 2 
+Zone 3 
+Zone Z 
+ABSLRRt 
+ABSLRR 
+Project 
+year t 
+ha 
+ha 
+ha 
+  
+ha 
+ha 
+0 
+  
+  
+  
+  
+ 
+ 
+1 
+  
+  
+  
+  
+ 
+ 
+2

@@ -1,0 +1,16 @@
+1 SUMMARY DESCRIPTION 
+Additionality, Crediting Method, and Mitigation Outcome 
+Additionality 
+Project or Activity Method  
+Crediting Baseline 
+Project Method 
+Mitigation Outcome 
+Reductions 
+This methodology applies to project activities that involve the destruction of methane emissions 
+and displacement of a more GHG-intensive service by capturing landfill gas and flaring the 
+methane, using it to produce electricity or thermal energy, and/or supplying it to consumers 
+through natural gas distribution networks, dedicated pipelines, or trucks. It is globally 
+applicable. 
+VMR0016 must be used with the most recent version of ACM0001 Flaring or Use of Landfill 
+Gas. The procedures and requirements of ACM0001 must be applied unless indicated 
+otherwise.

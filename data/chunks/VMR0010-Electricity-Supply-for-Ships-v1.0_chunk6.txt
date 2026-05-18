@@ -1,0 +1,24 @@
+4 APPLICABILITY CONDITIONS 
+The scope of AMS-III.BP is expanded to include off-shore electricity supply as follows: 
+This methodology applies to project activities that introduce shore-side and off-shore electricity 
+supply to ships docked at berths, displacing electricity produced from fossil fuel auxiliary power 
+generator(s).  
+Further, Applicability Conditions 6 and 7 of AMS-III.BP must be replaced as follows: 
+6) The project participant must demonstrate that double counting of emission reductions 
+does not occur following the rules and requirements in the latest version of the VCS 
+Standard. Provisions to avoid double counting, may include contractual agreements 
+with electricity supplies (e.g., offshore wind power plant) and shipowners, and unique 
+identification of ships. 
+7) Shore-side or off-shore electricity supply systems in the project scenario include:  
+(a) A regional/national grid;  
+(b) A mini-grid;  
+(c) A captive renewable energy power plant; or 
+(d) A combination of any of the options above. 
+Applicability Condition 3 of AMS-III.BP is removed when applying this revision: 
+This methodology is only applicable to ships for which the incoming and the outgoing route is 
+domestic (i.e., the departure and arrival locations of the route of the ship are in the same 
+country). 
+ 
+VMR0010, v1.0 
+ 
+6

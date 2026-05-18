@@ -1,0 +1,191 @@
+5 PROJECT BOUNDARY 
+5.1 
+Geographic Boundaries 
+The spatial boundaries of the project area must be clearly defined to facilitate accurate 
+measuring, monitoring, accounting and verification of the project’s emissions reductions. The 
+project activity may encompass more than one discrete area of land. When describing physical 
+project boundaries, the following information must be provided for each discrete area:  
+1) Name of the project area (e.g., compartment number, allotment number, local name), 
+giving a unique ID for each discrete parcel of land; 
+2) Map(s) of the area (in digital format); 
+3) Geographic coordinates of each polygon vertex along with documentation of their 
+accuracy (from a geo-referenced digital map – data must be provided in the format 
+specified in the VCS Standard); 
+4) Total land area; and  
+5) Details of landholder and user rights. 
+The forested project area (within each discrete area of project activity) must be continuous 
+without arbitrary exclusions of forests in the same geography (e.g., without excluding forests next 
+to villages around which deforestation is likely to occur). 
+The boundary of the REDD activity must be clearly delineated and defined and include only land 
+qualifying as forest for a minimum of 10 years before the project start date.  
+Specific boundaries exist for specific activity types with REDD – details and requirements are 
+provided in the appropriate accounting modules (e.g., AUDef). 
+For projects where multiple AFOLU project activities are being implemented within the project 
+boundary, the discrete areas where each activity is implemented must be spatially delineated. 
+5.2 
+Carbon Pools 
+The carbon pools included in or excluded from the boundary of REDD project activities are shown 
+in Table 2. 
+ 
+VM0048, v1.0 
+6 
+The selection of carbon pools and the appropriate justification must be presented in the project 
+description. 
+Where REDD activities take place in wetlands, the project must account for expected emissions 
+from the soil organic carbon pool or changes in the soil organic carbon pool in the project 
+scenario unless deemed de minimis. The significance of pools must be determined by using the 
+procedure outlined in Appendix 1. 
+Table 2: Carbon pools included in or excluded from the REDD project boundary 
+Pool 
+Included? 
+Justification/Explanation 
+Aboveground tree 
+biomass 
+Included 
+Major carbon pool that will significantly decrease in 
+the baseline scenario in the case of deforestation 
+or forest degradation 
+Belowground tree 
+biomass 
+Included 
+Major carbon pool that will significantly decrease in 
+the baseline scenario in the case of deforestation 
+or forest degradation 
+Aboveground non-tree 
+biomass 
+Included 
+Must be included in the baseline (post-
+deforestation carbon stocks) but may be 
+conservatively excluded from forest carbon stocks 
+Belowground non-tree 
+biomass 
+Optional 
+Potential emissions are negligible. 
+Dead wood 
+Optional 
+Conservative to exclude 
+Litter 
+Optional 
+Conservative to exclude 
+Soil organic carbon 
+Optional / 
+Included 
+Non-wetland soils: Conservative to exclude 
+Wetland soils: Major carbon pool that may 
+significantly increase or decrease in both the 
+baseline and project scenarios. Appendix 1 of this 
+methodology must be used to determine 
+significance. 
+Harvested wood 
+products 
+Optional 
+May be excluded where timber harvest is negligible 
+in the baseline case. Appendix 1 of this 
+methodology must be used to determine 
+significance. 
+5.3 
+Sources of GHG Emissions 
+The project must account for any significant increases in emissions of carbon dioxide (CO2), 
+nitrous oxide (N2O) and methane (CH4), relative to the baseline, that are reasonably attributable 
+to the project activity.  
+ 
+VM0048, v1.0 
+7 
+The GHG emission sources included in or excluded from the boundary of the REDD project activity 
+are shown in Table 3. The selection of sources and the appropriate justification must be provided 
+in the project description. 
+Procedures specified in Appendix 1 of this methodology must be used to determine whether an 
+emissions source is significant. Where a source is included in estimating baseline emissions,2 it 
+must also be included in calculating project and leakage emissions. 
+Table 3: GHG sources included in or excluded from the REDD project boundary 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Burning of 
+woody 
+biomass 
+CO2 
+Included 
+Major emissions source 
+CH4 
+Optional 
+Non-CO2 gases emitted from woody biomass burning 
+– it is conservative to exclude. 
+N2O 
+Optional 
+Combustion 
+of fossil fuels 
+CO2 
+Optional 
+May be excluded where determined negligible 
+CH4 
+Excluded 
+Potential emissions are negligible. 
+N2O 
+Excluded 
+Potential emissions are negligible. 
+Use of 
+fertilizers 
+CO2 
+Excluded 
+Potential emissions are negligible. 
+CH4 
+Excluded 
+Potential emissions are negligible. 
+N2O 
+Optional 
+May be excluded where determined negligible 
+Project 
+Burning of 
+woody 
+biomass 
+CO2 
+Included 
+Major emissions source 
+CH4 
+Included 
+Major emissions source 
+N2O 
+Included 
+Major emissions source 
+Combustion 
+of fossil fuels 
+CO2 
+Optional 
+Emissions associated with the combustion of fossil 
+fuels due to leakage prevention activities are always 
+considered insignificant. 
+Emissions associated with other activities (e.g., 
+monitoring, patrolling) must be demonstrated as 
+negligible to be omitted. 
+CH4 
+Excluded 
+Potential emissions are negligible. 
+N2O 
+Excluded 
+Potential emissions are negligible. 
+ 
+2  For example, CH4 or N2O emissions from agriculture resulting from deforestation or fire to clear forest 
+ 
+VM0048, v1.0 
+8 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Use of 
+fertilizers 
+CO2 
+Excluded 
+Potential emissions are negligible. 
+CH4 
+Excluded 
+Potential emissions are negligible. 
+N2O 
+Optional 
+Must be included where fertilizer use increases due 
+to the project (e.g., as a leakage avoidance 
+mechanism). Otherwise, it may be excluded if it is 
+also excluded from the baseline.

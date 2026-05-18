@@ -1,0 +1,34 @@
+70 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+26 Oct 2022 
+Initial version  
+v1.1 
+12 Mar 2024 
+• Separation of GHG emission reductions and carbon dioxide removals in 
+Section 8 
+• Minor clarifications and edits 
+C&C 
+Issued for 
+v1.1 
+13 Dec 2024 
+• Corrections to Equations 30 to 34 
+v1.2 
+10 Jul 2025 
+• Alignment with the requirements of the Core Carbon Principles (CCP) 
+Assessment Framework of the Integrity Council for the Voluntary Carbon 
+Market (ICVCM) 
+• Clarification of the FIA data collection process (Appendix 1, Section A1.3) 
+• Clarification of the significance of carbon pools (Tables 1 and 2) and 
+inclusion of Appendix 2 to test significance 
+• Updates to Section 9.3 (Description of the Monitoring Plan) to require 
+projects to provide confirmation of mitigation activities 
+• Correction to Equation A2 to calculate the standardized difference of 
+means during the match quality assessment 
+• Clarifications to Table A.1 regarding required covariates for Obtaining 
+Matches of Composite Baselines from USFS FIA plot, including elevation 
+as “optional”  
+• General edits for clarity

@@ -1,0 +1,15 @@
+1 SOURCES 
+This methodology is based on the following methodologies: 
+● 
+AR-ACM0001 Afforestation and reforestation of degraded land 
+This methodology uses the latest versions of the following tools: 
+● 
+CDM Combined tool to identify the baseline scenario and demonstrate additionality in 
+A/R CDM project activities 
+● 
+CDM Tool for the demonstration and assessment of additionality  
+● 
+CDM Tool for testing significance of GHG emissions in A/R CDM project activities  
+● 
+CDM Tool for calculation of the number of sample plots for measurements within A/R 
+CDM project activities

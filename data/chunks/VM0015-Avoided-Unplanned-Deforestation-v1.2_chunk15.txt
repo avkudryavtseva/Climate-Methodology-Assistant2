@@ -1,0 +1,1945 @@
+1 
+  
+  
+  
+  
+  
+ 
+ 
+T 
+  
+  
+  
+  
+  
+ 
+ 
+Calculation of Baseline Carbon Stock Changes 
+The choice of method to calculate carbon stock changes depends on whether activity data are 
+available for classes or for categories. Where soil organic carbon is included in the baseline, 
+only Method 2 may be used (i.e., activity data must be defined for categories). 
+Where activity data are available for classes (Method 1), the total baseline carbon stock change 
+in the project area at year t is calculated as follows: 
+∆𝐶𝐵𝑆𝐿𝑃𝐴𝑡= ∑( ∑𝐴𝐵𝑆𝐿𝑃𝐴𝑖𝑐𝑙,𝑡× ∆𝐶𝑝𝑖𝑐𝑙,𝑡=𝑡∗
+𝐼𝑐𝑙
+𝑖𝑐𝑙=1
+      + ∑𝐴𝐵𝑆𝐿𝑃𝐴𝑖𝑐𝑙,𝑡−1 × ∆𝐶𝑝𝑖𝑐𝑙,𝑡=𝑡∗+1
+𝐼𝑐𝑙
+𝑖𝑐𝑙=1
+   
+𝑃
+𝑝=1
++ ∑𝐴𝐵𝑆𝐿𝑃𝐴𝑖𝑐𝑙,𝑡−2 × ∆𝐶𝑝𝑖𝑐𝑙,𝑡=𝑡∗+2
+𝐼𝑐𝑙
+𝑖𝑐𝑙=1
+      + ⋯
++ ∑𝐴𝐵𝑆𝐿𝑃𝐴𝑖𝑐𝑙,𝑡−19 × ∆𝐶𝑝𝑖𝑐𝑙,𝑡=𝑡∗+19
+𝐼𝑐𝑙
+𝑖𝑐𝑙=1
+)                                                       (10)  
+ 
+Where: 
+ΔCBSLPAt 
+= 
+Total baseline carbon stock change within the project area at year t (t  
+CO2e) 
+ 
+VM0015, v1.2 
+ 
+82 
+ABSLPAicl,t 
+= 
+Area of initial forest class icl deforested at time t within the project area  
+in the baseline case (ha) 
+ABSLPAicl,t−1 
+= 
+Area of initial forest class icl deforested at time t − 1 within the project  
+area in the baseline case (ha) 
+ABSLPAicl,t=t−19 = 
+Area of initial forest class icl deforested at time t − 19 within the project  
+area in the baseline case (ha) 
+ΔCpicl,t=t* 
+= 
+Average emission factor for carbon pool p in initial forest class icl  
+applicable at time t (t CO2e/ha) 
+ΔCpicl,t=t*+1 
+= 
+Average emission factor for carbon pool p in initial forest class icl  
+applicable at time t = t* + 1 (second year after deforestation)  
+(t CO2e/ha) 
+ΔCpicl,t=t*+19 
+= 
+Average emission factor for carbon pool p in initial forest class icl  
+applicable at time t = t* + 19 (twentieth year after deforestation  
+(t CO2e/ha) 
+icl 
+ 
+= 
+1, 2, 3, …, Icl initial (pre-deforestation) forest classes (dimensionless) 
+z 
+ 
+= 
+1, 2, 3, …, Z zones (dimensionless) 
+p 
+ 
+= 
+1, 2, 3, ..., P carbon pools included in the baseline (dimensionless) 
+t 
+ 
+= 
+1, 2, 3, …, T, a year of the proposed project crediting period  
+(dimensionless) 
+t* 
+ 
+= 
+Year in which area ABSLPAicl,t is deforested in the baseline case 
+Eq. (10) may be applied to all carbon pools except soil organic carbon. Each carbon pool must 
+be calculated separately to allow significance analysis of each pool in Section 8.4.1.1.  
+Eq. (10) should also be applied to the leakage belt area and, optionally, to the reference region. 
+Calculations must be made at least for the baseline validity period and, optionally, for the entire 
+project crediting period. 
+Report the result of the calculations in Table 35 (for the reference region), Table 36 (for the 
+project area) and Table 37 (for the leakage belt area). 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+83 
+Table 33: Emission Factors for Initial Forest Classes icl (Method 1) 
+Year after 
+deforestation 
+ΔCabicl,t ΔCbbicl,t 
+ΔCdwicl,t 
+ΔClicl,t ΔCSOCicl,t
+37 
+ΔCwpicl,t 
+Short-
+lived 
+Medium-lived 
+Long-
+lived 
+1 
+t* 
+−Cabicl,t 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* −Clicl,t 
+N/A 
+−Cwpicl,t=t* −1/20×Cwpicl,t=t* 0 
+2 
+t* + 1 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+3 
+t* + 2 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+4 
+t* + 3 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+5 
+t* + 4 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+6 
+t* + 5 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+7 
+t* + 6 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+8 
+t* + 7 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+9 
+t* + 8 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+10 
+t* + 9 
+0 
+−1/10×Cbbicl,t=t* −1/10×Cdwicl,t=t* 0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+11 
+t* + 10 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+12 
+t* + 11 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+13 
+t* + 12 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+14 
+t* + 13 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+15 
+t* + 14 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+16 
+t* + 15 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+17 
+t* + 16 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+18 
+t* + 17 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+19 
+t* + 18 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+20 
+t* + 19 
+0 
+0 
+0 
+0 
+N/A 
+0 
+−1/20×Cwpicl,t=t* 0 
+21–T t* + 20, … 0 
+0 
+0 
+0 
+N/A 
+0 
+0 
+0 
+ 
+37 Use Method 2 to calculate CSOCicl,t 
+ 
+VM0015, v1.2 
+ 
+ 
+Table 34: Emission Factors for Land Use Change Categories (ct or ctz) (Method 2) 
+Year after 
+deforestation 
+ΔCabctz,t 
+ΔCbbctz,t 
+ΔCdwctz,t 
+ΔClctz,t 
+ΔCSOCctz,t 
+ΔCwpctz,t 
+Short-
+lived 
+Medium-lived 
+Long-
+lived 
+1 
+t* 
+−Cabicl,t+1/10×Cabz −1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz −Clicl,t+1/10×Clz 1/20×(CSOCicl,t* − CSOCz) −Cwpicl,t=t* −1/20×Cwpicl,t=t* 0 
+2 
+t* + 1 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+3 
+t* + 2 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+4 
+t* + 3 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+5 
+t* + 4 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+6 
+t* + 5 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+7 
+t* + 6 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+8 
+t* + 7 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+9 
+t* + 8 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+10 
+t* + 9 
+1/10×Cabz 
+−1/10×Cbbicl,t=t*+1/10×Cbbz −1/10×Cdwicl,t=t*+1/10×Cdwz 1/10×Clz 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+11 
+t* + 10 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+12 
+t* + 11 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+13 
+t* + 12 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+14 
+t* + 13 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+15 
+t* + 14 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+16 
+t* + 15 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+17 
+t* + 16 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+18 
+t* + 17 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+ 
+VM0015, v1.2 
+ 
+85 
+Year after 
+deforestation 
+ΔCabctz,t 
+ΔCbbctz,t 
+ΔCdwctz,t 
+ΔClctz,t 
+ΔCSOCctz,t 
+ΔCwpctz,t 
+Short-
+lived 
+Medium-lived 
+Long-
+lived 
+19 
+t* + 18 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+20 
+t* + 19 
+0 
+0 
+0 
+0 
+1/20×(CSOCicl,t* − CSOCz) 0 
+−1/20×Cwpicl,t=t* 0 
+21–T t* + 20, … 0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+Table 35: Baseline Carbon Stock Change for Selected Carbon Pools in the Reference Region (Method 1) 
+Carbon Stock Changes in the 
+Aboveground Biomass per Initial 
+Forest Class icl 
+Total Carbon Stock 
+Change in 
+Aboveground Biomass 
+of Initial Forest 
+Classes in the 
+Reference Region 
+Carbon Stock Changes in Aboveground 
+Biomass Per Post-deforestation Zone z 
+Total Carbon Stock 
+Change in Aboveground 
+Biomass of Post-
+deforestation Zones in 
+the Reference Region 
+Total Net Carbon Stock 
+Change in Aboveground 
+Biomass of Post-
+deforestation Zones in 
+the Reference Region 
+IDicl> 
+1 
+2 
+… 
+id 
+ΔCab 
+BSLRRicl,t
+Annual 
+ΔCab 
+BSLRRicl, 
+Cumulative 
+IDiz> 
+1 
+2 
+… 
+z 
+ΔCab 
+BSLRRz,t 
+Annual 
+ΔCab BSLRRz 
+Cumulative 
+ΔCab 
+BSLRRt 
+Annual 
+ΔCab 
+BSLRR 
+Cumulative 
+Name>  
+ 
+ 
+ 
+Name>  
+ 
+ 
+ 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+86 
+Table 35 illustrates how to determine baseline carbon stock for aboveground biomass. Prepare a similar table for below-ground biomass, dead 
+wood, litter and wood products when relevant. Use Method 2 if soil organic carbon is included.  
+ 
+Table 36: Baseline Carbon Stock Change for Selected Carbon Pools in the Project Area (Method 1) 
+Carbon Stock Changes in Aboveground 
+Biomass per Initial Forest Class icl 
+Total Carbon Stock 
+Change in 
+Aboveground Biomass 
+of Initial Forest 
+Classes in the Project 
+Area 
+Carbon Stock Changes in Aboveground 
+Biomass Per Post-deforestation Zone z 
+Total Carbon Stock Change 
+in Aboveground Biomass 
+of Post-deforestation 
+Zones in the Project Area 
+Total Net Carbon 
+Stock Change in 
+Aboveground Biomass 
+of Post-deforestation 
+Zones in the Project 
+Area 
+IDicl> 
+1 
+2 
+… 
+id 
+ΔCab 
+BSLPAicl,t 
+Annual 
+ΔCab 
+BSLPA icl 
+Cumulative 
+IDiz> 
+1 
+2 
+… 
+z 
+ΔCab 
+BSLPAz,t 
+Annual 
+ΔCabBSLPAz 
+Cumulative 
+ΔCab 
+BSLPAt 
+Annual 
+ΔCab 
+BSLPA 
+Cumulative 
+Name>  
+ 
+ 
+ 
+Name>  
+ 
+ 
+ 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 36 illustrates how to determine baseline carbon stock for aboveground biomass. Prepare a similar table for belowground biomass, dead 
+wood, litter and wood products. Use Method 2 if soil organic carbon is included. 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+87 
+Table 37: Baseline Carbon Stock Change for Selected Carbon Pools in the Leakage Belt (Method 1) 
+Carbon Stock Changes in Aboveground 
+Biomass Per Initial Forest Class icl 
+Total Carbon Stock 
+Change in Aboveground 
+Biomass of Initial 
+Forest Classes in the 
+Leakage Belt 
+Carbon Stock Changes in Aboveground 
+Biomass Per Post-deforestation Zone z 
+Total Carbon Stock 
+Change in 
+Aboveground Biomass 
+of Post-deforestation 
+Zones in the Leakage 
+Belt 
+Total Net Carbon Stock 
+Change in Aboveground 
+Biomass of Post-
+deforestation Zones in 
+the Leakage Belt 
+IDicl> 
+1 
+2 
+… 
+id 
+ΔCab 
+BSLLKicl,t 
+Annual 
+ΔCab 
+BSLLKicl 
+Cumulative 
+IDiz> 
+1 
+2 
+… 
+z 
+ΔCab 
+BSLLKz,t 
+Annual 
+ΔCab BSLLKz
+Cumulative 
+ΔCab 
+BSLLKt 
+Annual 
+ΔCab 
+BSLLK 
+Cumulative 
+Name>  
+ 
+ 
+ 
+Name>  
+ 
+ 
+ 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+Project 
+year t 
+t CO2e t CO2e t CO2e t CO2e t CO2e 
+t CO2e 
+t CO2e 
+t CO2e 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+… 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 37 illustrates how to determine baseline carbon stock for aboveground biomass. Prepare a similar table for belowground 
+biomass, dead wood, litter and wood products. Use Method 2 if soil organic carbon is included. 
+Where activity data are available for categories (Method 2), first calculate emission factors for each category (Table 34) then calculate 
+baseline carbon stock changes for the reference region (optional), project area and leakage belt by multiplying activity data by their 
+corresponding emission factors. Do this at least for the baseline validity period and, optionally, for the entire project crediting period. 
+Report the result of the calculations in Table 38 (for the reference region), Table 39 (for the project area) and Table 40 (for the leakage 
+belt). 
+Note – it is possible (and simpler) to calculate baseline carbon stock changes using Method 1 for all carbon pools (except soil organic 
+carbon) and, where soil organic carbon is included, using Method 2 just for this pool. 
+ 
+VM0015, v1.2 
+ 
+88 
+Table 38: Baseline Carbon Stock Change for Selected Carbon Pools in the Reference Region (Method 2) 
+Project 
+year t 
+Activity Data Per Category × Emission Factor for Aboveground Biomass in the 
+Reference Region 
+Total Baseline Carbon 
+Stock Change  
+in the Reference 
+Region 
+IDct 
+= 1 
+IDct 
+= 2  
+IDct 
+ = . . .  
+IDct 
+= Ct 
+Annual 
+Cumulative 
+ABSLRRct,t ΔCabct,t 
+ABSLRRct,t ΔCabct,t 
+ABSLRRct,t ΔCabct,t 
+ABSLRRct,t ΔCabct,t 
+ΔCabBSLRRt ΔCabBSLRR 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e 
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 38 illustrates how to determine baseline carbon stock for above-ground biomass. Prepare a similar table for belowground 
+biomass, dead wood, litter, wood products and soil organic carbon. 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+89 
+Table 39: Baseline Carbon Stock Change for Selected Carbon Pools in the Project Area (Method 2) 
+Project 
+year t 
+Activity Data Per Category × Emission Factor for Aboveground Biomass in the 
+Project Area 
+Total Baseline Carbon 
+Stock Change in the 
+Project Area 
+IDct 
+= 1 
+IDct 
+ = 2  
+IDct 
+ = . . .  
+IDct 
+ = Ct 
+Annual 
+Cumulative 
+ABSLPAct,t ΔCabct,t 
+ABSLPAct,t ΔCabct,t 
+ABSLPAct,t ΔCabct,t 
+ABSLPAct,t ΔCabct,t 
+ΔCabBSLPAt ΔCabBSLPA 
+ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 39 illustrates how to determine baseline carbon stock for aboveground biomass. Prepare a similar table for belowground 
+biomass, dead wood, litter, wood products and soil organic carbon. 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+90 
+Table 40: Baseline Carbon Stock Change in the Leakage Belt (Method 2) 
+Project 
+year t 
+Activity Data Per Category × Emission Factor for Aboveground Biomass in the 
+Leakage Belt 
+Total Baseline Carbon 
+Stock Change in the 
+Leakage Belt 
+IDct 
+ = 1 
+IDct 
+ = 2  
+IDct 
+ = . . .  
+IDct 
+ = Ct 
+Annual 
+Cumulative 
+ABSLLKct,t ΔCabct,t 
+ABSLLKct,t ΔCabct,t 
+ABSLLKct,t ΔCabct,t 
+ABSLLKct,t ΔCabct,t 
+ΔCabBSLLKt ΔCabBSLLK 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Table 40 illustrates how to determine baseline carbon stock for aboveground biomass. Prepare a similar table for belowground 
+biomass, dead wood, litter, wood products and soil organic carbon.
+ 
+VM0015, v1.2 
+ 
+ 
+8.1.5.2 Baseline Non-CO2 Emissions from Forest Fires 
+Emissions from fires used to clear forests in the baseline may always be omitted. 
+Conversion of forest to non-forest involving fires is a source of emissions of non-CO2 gases (CH4 
+and N2O). Where sufficient data on such forest fires are available from the historical reference 
+period and the project proponent considers that these emissions are an important component 
+of the baseline, CH4 emissions from biomass burning may be estimated. Where such data are 
+unavailable or of insufficient accuracy, emissions from biomass burning should not be 
+considered (which is conservative). 
+The effect of fire on carbon emissions is counted in the estimation of carbon stock changes; 
+therefore CO2 emissions from forest fires should be ignored to avoid double counting. 
+To estimate non-CO2 emissions from forest fires, it is necessary to estimate the average 
+percentage of the deforested area in which fire was used, the average proportion of mass 
+burned in each carbon pool (Pburntp) and the average combustion efficiency of each pool (CEp). 
+These average percentage values are estimated for each forest class (icl) and are assumed to 
+remain the same in the future. 
+Based on revised IPCC 1996 GL LULUCF, GHG emissions from biomass burning may be 
+estimated as follows.  
+𝐸𝐵𝐵𝑡𝑜𝑡𝑖𝑐𝑙,𝑡= 𝐸𝐵𝐵𝑁2𝑂𝑖𝑐𝑙,𝑡+ 𝐸𝐵𝐵𝐶𝐻4𝑖𝑐𝑙,𝑡 
+ 
+ 
+ 
+ 
+ 
+(11) 
+Where: 
+EBBtoticl,t 
+= 
+Total GHG emissions from biomass burning in forest class icl in year t (t  
+CO2e/ha) 
+EBBN2Oicl,t 
+= 
+N2O emissions from biomass burning in forest class icl in year t  
+(t CO2e/ha) 
+EBBCH4icl,t 
+= 
+CH4 emissions from biomass burning in forest class icl in year t  
+(t CO2e/ha) 
+𝐸𝐵𝐵𝑁2𝑂𝑖𝑐𝑙,𝑡= 𝐸𝐵𝐵𝐶𝑂2𝑖𝑐𝑙,𝑡×
+12
+44 × 𝑁𝐶𝑅× 𝐸𝑅𝑁20 ×
+44
+28 × 𝐺𝑊𝑃𝑁20 
+ 
+ 
+(12) 
+𝐸𝐵𝐵𝐶𝐻4𝑖𝑐𝑙,𝑡= 𝐸𝐵𝐵𝐶𝑂2𝑖𝑐𝑙,𝑡×
+ 12
+44 × 𝐸𝑅𝐶𝐻4 ×
+16
+12 × 𝐺𝑊𝑃𝐶𝐻4 
+ 
+ 
+ 
+(13) 
+Where:38 
+EBBCO2icl,t 
+= 
+Per hectare CO2 emissions from biomass burning in slash and burn in  
+forest class icl in year t (t CO2e/ha) 
+EBBN2Oicl,t 
+= 
+Per hectare N2O emissions from biomass burning in slash and burn in  
+forest class icl at year t (t CO2e/ha) 
+EBBCH4icl,t 
+= 
+Per hectare CH4 emissions from biomass burning in slash and burn in  
+ 
+38 Refers to Table 5.7 in 1996 Revised IPCC Guideline for LULUCF and Equation 3.2.19 in IPCC GPG-LULUCF. 
+ 
+VM0015, v1.2 
+ 
+92 
+forest class icl at year t (t CO2e/ha) 
+NCR 
+ 
+= 
+Nitrogen to carbon ratio (IPCC default value = 0.01) (dimensionless) 
+ERN2O  
+= 
+Emission ratio for N2O (IPCC default value = 0.007) 
+ERCH4  
+= 
+Emission ratio for CH4 (IPCC default value = 0.012) 
+GWPN2O  
+= 
+Global Warming Potential for N2O (IPCC default value = 310 for the first  
+commitment period) 
+GWPCH4  
+= 
+Global Warming Potential for CH4 (IPCC default value = 21 for the first  
+commitment period) 
+𝐸𝐵𝐵𝐶𝑂2𝑖𝑐𝑙,𝑡= 𝐹𝑏𝑢𝑟𝑛𝑡𝑖𝑐𝑙× ∑
+(𝐶𝑝,𝑖𝑐𝑙,𝑡× 𝑃𝑏𝑢𝑟𝑛𝑡𝑝,𝑖𝑐𝑙× 𝐶𝐸𝑝,𝑖𝑐𝑙)
+𝑃
+𝑝=1
+ 
+ 
+ 
+(14) 
+Where: 
+EBBCO2icl,t 
+= Per hectare CO2 emissions from biomass burning in forest class icl in year t  
+ 
+ (t CO2e/ha) 
+Fburnticl 
+= Proportion of forest area burned during the historical reference period in forest  
+ 
+ class icl (%) 
+Cp,icl,t 
+= Average carbon stock per hectare in carbon pool p burned in forest class icl in  
+ 
+ year t (t CO2e/ha) 
+Pburntp,icl 
+Average proportion of mass burned in carbon pool p in forest class icl (%) 
+CEp,icl 
+Average combustion efficiency of carbon pool p in forest class icl (dimensionless) 
+p 
+Combustible carbon pool (above-ground biomass, dead wood, litter) 
+icl 
+1, 2, 3, …, Icl (pre-deforestation) forest classes 
+t 
+1, 2, 3, …, T, a year of the proposed project crediting period (dimensionless) 
+The combustion efficiencies may be chosen from Table 3.A.14 of IPCC GPG LULUCF. Where no 
+appropriate combustion efficiency is available, the IPCC default of 0.5 should be used. The 
+nitrogen to carbon ratio (NCR) is approximated to be about 0.01. This is a general default value 
+that applies to leaf litter, but lower values would be appropriate for fuels with greater woody 
+content, where data are available. Emission factors for use with the above equations are 
+provided in Tables 3.A 15 and 3.A.16 of IPCC GPG LULUCF. 
+Report the values of all estimated parameters in Table 41. 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+93 
+Table 41: Parameters Used to Calculate Non-CO2 Emissions from Forest Fires 
+Initial Forest 
+Class 
+Parameters 
+ 
+EBBN2Oicl 
+EBBCH4icl 
+EBBtoticl 
+Fburnticl 
+Cab 
+Cdw 
+Cl 
+Pburntab,icl 
+Pburntdw,icl 
+Pburntl,icl 
+CEab,icl 
+CEdw,icl 
+CEl,icl 
+ECO2-ab 
+ECO2-dw 
+ECO2-l 
+EBBCO2tot 
+ID
+cl 
+Na
+me 
+% 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+% 
+% 
+% 
+% 
+% 
+% 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+t CO2e/ha 
+ 1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ . . 
+. 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Icl   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Finally, using the parameters specified in Table 41 and the projected activity data for forest 
+classes calculate the projected total non-CO2 emissions from forest fires and report the results 
+in Table 42. 
+Table 42: Baseline Non-CO2 Emissions from Forest Fires in the Project Area 
+Project 
+year t 
+Emissions of Non-CO2 Gases from Baseline Forest Fires 
+Total Baseline Non-CO2 
+Emissions from Forest 
+Fires in the Project Area 
+IDicl 
+ =  1 
+IDicl 
+ =  2 
+IDicl 
+ =  . . . 
+IDicl 
+ =   Icl 
+ABSLPAicl,t 
+EBBBSLtoticl 
+ABSLPAicl,t 
+EBBBSLtoticl 
+ABSLPAicl,t 
+EBBBSLtoticl 
+ABSLPAicl,t 
+EBBBSLtoticl 
+Annual 
+Cumulative 
+ EBBBSLPAt 
+ EBBBSLPA 
+ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha ha 
+t CO2e/ha t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+VM0015, v1.2 
+ 
+94 
+8.2 
+Project Emissions  
+8.2.1 Ex Ante Estimation of Actual Carbon Stock Changes and Non-CO2 Emissions in 
+the Project Area (Step 7) 
+The goal of this step is to provide an ex ante estimate of future carbon stock changes and non-
+CO2 emissions from forest fires under the project scenario (“actual”). Actual carbon stock 
+changes and GHG emissions are subject to MRV-A, but they are estimated at the beginning of a 
+baseline validity period to assist in guiding optimal implementation of emission reduction 
+measures, and to allow reasonable projections of revenue to be made. 
+8.2.1.1 Ex Ante Estimation of Actual Carbon Stock Changes 
+Actual carbon stock changes occur due to the following: 
+1) Planned activities within the project area; 
+2) Unplanned deforestation that is unavoidable; and 
+3) Possible future catastrophic events – which are unpredictable and are therefore 
+excluded from the ex ante assessment.   
+Ex Ante Estimation of Actual Carbon Stock Changes due to Planned Activities 
+It is possible that certain discrete areas of forest within the project area will be subject to 
+project activities that change the carbon stocks of these areas compared to the baseline. Such 
+activities are:  
+i) 
+Planned deforestation (e.g., to build project infrastructure);  
+ii) 
+Planned degradation (e.g., timber logging, fuel-wood collection, charcoal production); 
+and 
+iii) 
+Protection without harvesting leading to carbon sequestration in forest classes that at 
+project start are below their carbon stock potential at maturity in situ.  
+Where the project activity generates a significant decrease in carbon stocks during the baseline 
+validity period, the carbon stock change must be estimated ex ante and measured ex post. 
+Where the decrease is not significant, it must not be accounted and ex post monitoring is not 
+required. 
+Where the project activity generates an increase in carbon stocks, the carbon stock change is 
+conservatively ignored. 
+Changes in carbon stocks that are not attributable to the project activity must not be 
+accounted. 
+Where the AUD project activity includes more planned deforestation, harvesting of timber,39 
+fuel-wood collection or charcoal production than the baseline case, do the following: 
+ 
+39 Ignoring carbon stocks in long-lived wood products is conservative under the project scenario. 
+ 
+VM0015, v1.2 
+ 
+95 
+1) Identify the forest areas (polygons) within the project area that will be subject to 
+planned deforestation and planned degradation activities (logging, fuel-wood collection 
+or charcoal production) during the project crediting period. 
+2) Prepare maps showing the annual locations of the planned activities. 
+3) Identify the forest classes that are located within these polygons. 
+4) Define activity data (annual areas) for each forest class, according to the planned 
+interventions and types of intervention. 
+5) Estimate the impact of the planned activities on carbon stocks as follows: 
+a) Planned deforestation: Conservatively assume that 100 percent of carbon 
+stocks are lost at the year of planned deforestation. 
+b) Areas subject to more planned logging, fuel-wood collection or charcoal 
+production than the baseline case: Conservatively assume that the carbon 
+stock of these areas will be the lowest of the production cycle according to the 
+planned levels of extraction.  
+c) Summarize the result of the previous assessments and calculations in Table 
+43–Table 46. Table 44 and Table 45 are only filled out ex post (i.e., their ex 
+ante values are 0). These tables are for unpredictable carbon stock decreases 
+that may have to be measured and reported ex post due to uncontrolled forest 
+fires and other catastrophic events that may occur within the project area 
+during project implementation.  
+ 
+Table 43: Ex Ante Estimated Actual Carbon Stock Decrease Due to Planned 
+Deforestation in the Project Area 
+Project 
+year t 
+Areas of Planned Deforestation × Carbon Stock Change (Decrease) in the Project Area 
+Total Carbon Stock 
+Decrease due to 
+Planned Deforestation 
+IDcl 
+ = 1 
+IDcl 
+ = 2  
+IDcl 
+ = . . .  
+IDcl 
+ = Icl 
+Annual Cumulative 
+APDPAicl,t 
+Ctoticl,t 
+APDPAicl,t 
+Ctoticl,t 
+APDPAicl,t 
+Ctoticl,t 
+APDPAicl,t 
+Ctoticl,t 
+ΔCPDdPAt ΔCPDdPA 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+VM0015, v1.2 
+ 
+96 
+Table 44: Ex Ante Estimated Actual Carbon Stock Decrease Due to Planned Logging 
+Activities in the Project Area 
+Project 
+year t 
+Areas of Planned Logging Activities × Carbon Stock Change (Decrease) in the 
+Project Area 
+Total Carbon Stock Decrease 
+due to Planned Logging 
+Activities 
+IDcl 
+ = 1 
+IDcl 
+ = 2  
+IDcl 
+ = . . .  
+IDcl 
+ = Icl 
+Annual 
+Cumulative 
+APLPAicl,t ΔCtoticl,t 
+APLPAicl,t ΔCtoticl,t 
+APLPAicl,t 
+ΔCtoticl,t 
+APLPAicl,t 
+ΔCtoticl,t 
+ΔCPLdPAt 
+ΔCPLdPA 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Table 45: Ex Ante Estimated Actual Carbon Stock Decrease Due to Planned Fuel-Wood 
+Collection and Charcoal Production in the Project Area 
+Project 
+year t 
+Areas of Planned Fuel-wood and Charcoal Activities × Carbon Stock Change 
+(Decrease) in the Project Area 
+Total Carbon Stock 
+Decrease due to 
+Planned Fuel-wood and 
+Charcoal Activities 
+IDcl 
+ = 1 
+IDcl 
+ = 2  
+IDcl 
+ = . . .  
+IDcl 
+ = Icl 
+Annual Cumulative 
+APFPAicl,t 
+ΔCtoticl,t 
+APFPAicl,t 
+ΔCtoticl,t 
+APFPAicl,t 
+ΔCtoticl,t 
+APFPAicl,t 
+ΔCtoticl,t 
+ΔCPFdPAt ΔCPFdPA 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+ha 
+t CO2e/ha 
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+2 
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+VM0015, v1.2 
+ 
+97 
+Table 46: Total Ex Ante Carbon Stock Decrease Due to Planned Activities in the Project 
+Area 
+Project 
+year t 
+Total Carbon Stock 
+Decrease due to 
+Planned 
+Deforestation 
+Total Carbon Stock 
+Decrease due to 
+Planned Logging 
+Activities 
+Total Carbon Stock 
+Decrease due to 
+Planned Fuel-wood 
+and Charcoal Activities 
+Total Carbon Stock 
+Decrease due to 
+Planned Activities 
+Annual 
+Cumulative 
+Annual 
+Cumulative Annual 
+Cumulative 
+Annual 
+Cumulative 
+ΔCPDdPAt 
+ΔCPDdPA 
+ΔCPLdPAt 
+ΔCPLdPA 
+ΔCPFdPAt 
+ΔCPFdPA 
+ΔCPAdPAt 
+ΔCPAdPA 
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+t CO2e  
+0 
+  
+  
+  
+  
+  
+  
+  
+  
+1 
+2 
+  
+  
+  
+  
+  
+  
+  
+  
+. . .  
+  
+  
+  
+  
+  
+  
+  
+  
+T 
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Ex Ante Estimation of Carbon Stock Changes due to Unavoidable Unplanned 
+Deforestation Within the Project Area 
+Some unplanned deforestation may happen in the project area despite the AUD project activity. 
+The level at which deforestation is actually reduced in the project case depends on the 
+effectiveness of the proposed activities, which it is not possible to measure ex ante. Ex post 
+measurements of project results are important to determine actual emission reductions. 
+To allow ex ante projections to be made, the project proponent must make a conservative and 
+realistic assumption about the effectiveness of the proposed project activities and estimate an 
+Effectiveness Index (EI) between 0 (no effectiveness) and 1 (maximum effectiveness). The 
+estimated value of EI is used to multiply the baseline projections by the factor (1 − EI) and the 
+result is the ex ante estimated emissions from unplanned deforestation in the project case. EI 
+must be justified based on the activities to be implemented by the project.  
+∆𝐶𝑈𝐷𝑑𝑃𝐴𝑡= ∆𝐶𝐵𝑆𝐿𝑡× (1 −𝐸𝐼) 
+ 
+ 
+ 
+ 
+ 
+ 
+(16) 
+Where: 
+CUDdPAt 
+= Total ex ante actual carbon stock change due to unavoided unplanned  
+deforestation at year t in the project area (t CO2e) 
+CBSLt 
+= Total baseline carbon stock change at year t in the project area (t CO2e) 
+ 
+VM0015, v1.2

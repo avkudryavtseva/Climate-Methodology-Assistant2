@@ -1,0 +1,20 @@
+1 SOURCES 
+This methodology revision applies to the CDM large-scale methodology AM0125 Production of 
+Geopolymer cement. Project proponents must use this methodology revision in conjunction with 
+the latest version of AM0125. 
+This methodology uses the following CDM methodologies and tools as sources: 
+• 
+ACM0003 Partial substitution of fossil fuels in cement or quicklime manufacture 
+• 
+ACM0005 Increasing the blend in cement production 
+• 
+ACM0015 Reduction of emissions from raw material switch in clinker production 
+• 
+TOOL02 Combined tool to identify the baseline scenario and demonstrate additionality 
+• 
+TOOL03 Tool to calculate project or leakage CO2 emissions from fossil fuel combustion 
+• 
+TOOL05 Baseline, project and/or leakage emissions from electricity consumption and 
+monitoring of electricity generation 
+• 
+TOOL12 Project and leakage emissions from transportation of freight

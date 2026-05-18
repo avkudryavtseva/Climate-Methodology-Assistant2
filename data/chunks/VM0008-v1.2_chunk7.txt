@@ -1,0 +1,19 @@
+6 BASELINE SCENARIO 
+The baseline scenario represents the conditions most likely to occur in the absence of the 
+project.  
+Category A. All energy retrofit: the baseline scenario consists of fossil fuel and electricity 
+consumed to satisfy the heat and cooling load and the appliance plug/fuel load prior to project 
+implementation.  
+Category B. Efficiency enhancement of the building envelope and/or central heating/cooling 
+system: the baseline scenario consists of fossil fuel consumed to satisfy the heat and cooling 
+ 
+VM0008, v1.2 
+12 
+load prior to project implementation. Electricity must only be included when it is a heating or 
+cooling source within the dwelling. Appliances and their corresponding electricity consumption 
+must not be included.  
+Category C. Replacement of appliances: the baseline scenario consists of electricity or other 
+fuel consumed by the appliances to be replaced prior to project implementation.  
+Category D. Replacement of a mobile home: the baseline scenario consists of fossil fuel and 
+electricity consumed to satisfy the heat and cooling load and the appliance plug load of the 
+mobile home to be replaced prior to project implementation.

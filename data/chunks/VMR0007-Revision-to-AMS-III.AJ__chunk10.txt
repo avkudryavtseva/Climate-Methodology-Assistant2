@@ -1,0 +1,26 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Project Proponent must follow the procedure provided in the latest version of AMS-III.AJ.  
+9.2 
+Data and Parameters Monitored  
+Project Proponent must follow the procedure provided in the latest version of AMS-III.AJ.  
+9.3 
+Description of the Monitoring Plan 
+Project Proponent must follow the monitoring plan and procedure provided in the latest version 
+of AMS-III.AJ. 
+ 
+ 
+ 
+ 
+ 
+VMR0007, v1.0 
+ 
+9 
+APPENDIX 1: DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+04 Sep 2023 
+Initial version

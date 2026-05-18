@@ -1,0 +1,1537 @@
+10 REFERENCES 
+Aynekulu, E., Vagen, T. G., Shephard, K., & Winowiecki, L. (2011). A protocol for modeling, measurement and 
+monitoring soil carbon stocks in agricultural landscapes. Version 1.1. World Agroforestry Centre, Nairobi. 
+Barnes, B., Southwell, D., Bruce, S., & Woodhams, F. (2014). Additionality, common practice and incentive 
+schemes for the uptake of innovations. Technological Forecasting & Social Change, 89, 43–61. 
+https://doi.org/10.1016/j.techfore.2014.08.015  
+Beem-Miller, J. P., Kong, A. Y. Y., Ogle, S., & Wolfe, D. (2016). Sampling for soil carbon stock assessment in 
+rocky agricultural soils. Soil Science Society of America Journal, 80(5), 1411–1423. 
+https://doi.org/10.2136/sssaj2015.11.0405 
+Burton, R. J. F. (2004). Reconceptualising the 'behavioural approach' in agricultural studies: A socio-
+psychological perspective. Journal of Rural Studies, 20(3), 359–371. 
+https://doi.org/10.1016/j.jrurstud.2003.12.001 
+Carpenter, B., Gelman, A., Hoffman, M. D., Lee, D., Goodrich, B., Betancourt, M., Brubaker, M., Guo, J., Li, P., & 
+Riddell, A. (2017). Stan: A probabilistic programming language. Journal of Statistical Software, 76(1), 1–32. 
+https://doi.org/10.18637/jss.v076.i01 
+Cochran, W. G. (1977). Sampling techniques (3rd ed.). Wiley. 
+Ellert, B. H., & Bettany, J. R. (1995). Calculation of organic matter and nutrients stored in soils under 
+contrasting management regimes. Canadian Journal of Soil Science, 75(4), 529–538. 
+https://doi.org/10.4141/cjss95-075 
+Eve, M., Pape, D., Flugge, M., Steele, R., Man, D., Riley-Gilbert, M., & Biggar, S. (2014). Quantifying greenhouse 
+gas fluxes in agriculture and forestry: Methods for entity-scale inventory. USDA Technical Bulletin 1939. 
+FAO (2020). A protocol for measurement, monitoring, reporting and verification of soil organic carbon in 
+agricultural landscapes – GSOC-MRV Protocol. FAO. 
+FAO (2019). Measuring and modelling soil carbon stocks and stock changes in livestock production systems: 
+Guidelines for assessment (Version 1). Livestock Environmental Assessment and Performance (LEAP) 
+Partnership. 
+Finger, R., Garcia, V., McCallum, C., & Rommel, J. (2024). A note on European farmers’ preferences under 
+cumulative prospect theory. Journal of Agricultural Economics, 75(1), 465–472. 
+https://doi.org/10.1111/1477-9552.12565  
+ 
+VM0042, v2.2 
+ 138 
+ 
+ 
+Gautam, M., Laborde, D., Mamun, A., Piñeiro, V., Martin, W., & Vos, R. (2022). Repurposing agricultural policies 
+and support: Options to transform agriculture and food systems to better serve the health of people, 
+economies, and the planet. World Bank & IFPRI. https://hdl.handle.net/10986/36875 
+Gelman, A., Carlin, J. B., Stern, H. S., Dunson, D. B., Vehtari, A., & Rubin, D. B. (2014). Bayesian data analysis 
+(3rd ed.). Chapman & Hall/CRC. 
+Grand View Research, Inc. (2025). Regenerative agriculture market (2025‑2033): Size, share & trends 
+analysis. Available at: https://www.grandviewresearch.com/industry-analysis/regenerative-agriculture-market-
+report 
+de Gruijter, J. J., McBratney, A. B., Minasny, B., Wheeler, I.,  Malone, B. P., & Stockmann, U. (2016). Farm-scale 
+soil carbon auditing. Geoderma, 265, 120–130. https://doi.org/10.1016/j.geoderma.2015.11.010 
+de Gruijter, J., Brus, D., Bierkens, M., & Knotters, M. (2006). Sampling for natural resource monitoring. 
+Springer-Verlag. 
+del Grosso, S. J., Ogle, S. M., Parton, W. J., & Breidt, F. J. (2010). Estimating uncertainty in N2O emissions from 
+US cropland soils. Global Biogeochemical Cycles, 24(1), Article GB1009. 
+https://doi.org/10.1029/2009GB003544 
+Gurung, R. B., Ogle, S. M., Breidt, F. J., Williams, S. A., & Parton, W. J. (2020). Bayesian calibration of the 
+DayCent ecosystem model to simulate soil organic carbon dynamics and reduce model uncertainty. Geoderma, 
+376, Article 114529. https://doi.org/10.1016/j.geoderma.2020.114529 
+von Haden, A. C., Yang, W. H., & DeLucia, E. H. (2020). Soils’ dirty little secret: Depth-based comparisons can 
+be inadequate for quantifying changes in soil organic carbon and other mineral soil properties. Global Change 
+Biology, 26(7), 3759–3770. https://doi.org/10.1111/gcb.15124 
+Hengl, T. , Rossiter, D. G., & Stein, A. (2003). Soil sampling strategies for spatial prediction by correlation with 
+auxiliary maps. Australian Journal of Soil Research, 41(8), 1403–1422. https://doi.org/10.1071/SR03005 
+Hoff, P. D. (2009). A first course in Bayesian statistical methods. Springer.  
+IEA (2005). Energy statistics manual. IEA. Available at: https://www.iea.org/reports/energy-statistics-manual-2 
+IPCC (2000). Land use, land-use change and forestry. Prepared by R. T. Watson, I. R. Noble, B. Bolin, N. H. 
+Ravindranath, D. J. Verardo, & D. J. Dokken (Eds). Cambridge University Press. 
+IPCC (2003). Good practice guidance for land use, land-use change and forestry. Institute for Global 
+Environmental Strategies. 
+IPCC (2013). Climate Change 2013: The Physical Science Basis. Contribution of Working Group I to the Fifth 
+Assessment Report of the Intergovernmental Panel on Climate Change [T. F. Stocker, D. Qin, G.-K. Plattner, M. 
+Tignor, S. K. Allen, J. Boschung, A. Nauels, Y. Xia, V. Bex, & P. M. Midgley (Eds.)]. Cambridge University Press. 
+IPCC (2019). 2019 Refinement to the 2006 IPCC guidelines for national greenhouse gas inventories. Institute 
+for Global Environmental Strategies. 
+ISO (2018). ISO 18400-104:2018 Soil quality — Sampling — Part 104: Strategies. 
+https://www.iso.org/standard/65223.html 
+Kennedy, M. C., & O’Hagan, A. (2001). Bayesian calibration of computer models. Journal of the Royal 
+Statistical Society: Series B (Statistical Methodology), 63(3), 425–464. https://doi.org/10.1111/1467-
+9868.00294 
+ 
+VM0042, v2.2 
+ 139 
+ 
+ 
+Liu, T., Bruins, R. J. F., & Heberling, M. T. (2018). Factors influencing farmers’ adoption of best management 
+practices: A review and synthesis. Sustainability, 10(2), Article 432. https://doi.org/10.3390/su10020432 
+Maillard, É., McConkey, B. G., & Angers, D. A. (2017). Increased uncertainty in soil carbon stock measurement 
+with spatial scale and sampling profile depth in world grasslands: A systematic analysis. Agriculture, 
+Ecosystems & Environment, 236, 268–276. https://doi.org/10.1016/j.agee.2016.11.024 
+Maillard, É., & Angers, D. A. (2014). Animal manure application and soil organic carbon stocks: A meta-
+analysis. Global Change Biology, 20(2), 666–679. https://doi.org/10.1111/gcb.12438 
+Mathur, A., Chikkatur, A. P., & Sagar, A. D. (2007). Past as prologue: An innovation-diffusion approach to 
+additionality. Climate Policy, 7(3), 230–239. https://doi.org/10.1080/14693062.2007.9685651 
+McCarthy, N., Lipper, L., & Branca, G. (2011). Climate-Smart Agriculture: Smallholder Adoption and 
+Implications for Climate Change Adaptation and Mitigation. FAO Economics and Policy Innovations for Climate-
+Smart Agriculture (EPIC). 
+Meijer, S. S., Catacutan, D., Ajayi, O. C., Sileshi, G. W., & Nieuwenhuis, M. (2015). The role of knowledge, 
+attitudes and perceptions in the uptake of agricultural and agroforestry innovations among smallholder 
+farmers in sub-Saharan Africa, International Journal of Agricultural Sustainability, 13(1), 40–54. 
+https://doi.org/10.1080/14735903.2014.912493 
+Mudge, P., McNeill, S., Hedley, C., Roudier, P., Poggio, M., Whenua, M., Malone, B., Baldock, J., Smith, P., 
+McNally, S., Beare, M., & Schipper, L. (2020). Design of an on-farm soil carbon benchmarking and monitoring 
+approach for individual pastoral farms. Ministry for Primary Industries, New Zealand, Technical Paper No: 
+2020/02. Available at: https://www.mpi.govt.nz/dmsdocument/40790-Design-of-an-on-farm-soil-carbon-
+benchmarking-and-monitoring-approach-for-individual-pastoral-farms  
+OECD & FAO. (2025). OECD FAO Agricultural Outlook 2025–2034: Agricultural and food markets — Trends and 
+prospects. OECD Publishing. Available at: https://www.oecd.org/en/publications/oecd-fao-agricultural-outlook-
+2025-2034_601276cd-en/full-report/agricultural-and-food-markets-trends-and-prospects_d3812d71.html 
+Ogle, S. M., Breidt, F. J., Easter, M., Williams, S., & Paustian, K. (2007). An empirically based approach for 
+estimating uncertainty associated with modelling carbon sequestration in soils. Ecological Modelling, 205(3–
+4), 453–463. https://doi.org/10.1016/j.ecolmodel.2007.03.007 
+Ogle, S. M., Breidt, F. J., Easter, M., Williams, S., Killian, K., & Paustian, K. (2010). Scale and uncertainty in 
+modeled soil organic carbon stock changes for US croplands using a process-based model. Global Change 
+Biology, 16(2), 810–822. https://doi.org/10.1111/j.1365-2486.2009.01951.x 
+Pannell, D. J., Marshall, G. R., Barr, N., Curtis, A., Vanclay, F., & Wilkinson, R. (2006). Understanding and 
+promoting adoption of conservation practices by rural landholders. Australian Journal of Experimental 
+Agriculture, 46(11), 1407–1424. https://doi.org/10.1071/EA05037 
+Peltoniemi, M., Palosuo, T., Monni, S., & Mäkipää, R. (2006). Factors affecting the uncertainty of sinks and 
+stocks of carbon in Finnish forests soils and vegetation. Forest Ecology and Management, 232(1–3), 75–85. 
+https://doi.org/10.1016/j.foreco.2006.05.045 
+Piñeiro, V., Arias, J., Dürr, J., Elverdin, P., Ibáñez, A. M., Kinengyere, A., Morales Opazo, C., Owoo, N., Page, J. R., 
+Prager, S. D., & Torero, M. (2020). A scoping review on incentives for adoption of sustainable agricultural 
+practices and their outcomes. Nature Sustainability, 3, 809–820. https://doi.org/10.1038/s41893-020-
+00617-y 
+ 
+VM0042, v2.2 
+ 140 
+ 
+ 
+Schumacher, B. A. (2002). Methods for the determination of total organic carbon (TOC) in soils and sediments 
+EPA/600/R-02/069 (NTIS PB2003-100822). US Environmental Protection Agency.  
+Simutowe, E., Ngoma, H., Manyanga, M., Vasco Silva, J., Baudron, F., Nyagumbo, I., Kalala, K., Habeenzu, M., & 
+Thierfelder, C. (2024). Risk aversion, impatience, and adoption of conservation agriculture practices among 
+smallholders in Zambia. Heliyon, 10(4), Article e26460. https://doi.org/10.1016/j.heliyon.2024.e26460 
+Smith, P., Soussana, J. F., Angers, D., Schipper, L., Chenu, C., Rasse, D. P., Batjes, N. H., van Egmond, F., 
+McNeill, S., Kuhnert, M., Arias-Navarro, C., Olesen, J. E., Chirinda, N., Fornara, D., Wollenberg, E., Álvaro-
+Fuentes, J., Sanz-Cobena, A., Klumpp, K. (2020). How to measure, report and verify soil carbon change to 
+realize the potential of soil carbon sequestration for atmospheric greenhouse gas removal. Global Change 
+Biology, 26(1), 219–241. https://doi.org/10.1111/gcb.14815 
+Som, R. K. (1995). Practical sampling techniques (2nd ed.). CRC Press.  
+Soil Science Division Staff (2017). Soil survey manual. USDA Handbook. Government Printing Office. 
+Thompson, S. K. (2012). Sampling (3rd ed.). John Wiley & Sons, Inc. 
+US EPA. (2021) Inventory of U.S. greenhouse gas emissions and sinks: 1990-2019. US EPA. Available at: 
+https://www.epa.gov/ghgemissions/inventory-us-greenhouse-gas-emissions-and-sinks-1990-2019  
+Vanguelova, E. I., Bonifacio, E., De Vos, B., Hoosbeek, M. R., Berger, T. W., Vesterdal, L., Armolaitis, K., Celi, L., 
+Dinca, L., Kjønaas, O. J., Pavlenda, P., Pumpanen, J., Püttsepp, Ü., Reidy, B., Simončič, P., Tobin, B., & 
+Zhiyanski, M. (2016). Sources of errors and uncertainties in the assessment of forest soil carbon stocks at 
+different scales—review and recommendations. Environmental Monitoring and Assessment, 188, Article 630. 
+https://doi.org/10.1007/s10661-016-5608-5 
+Wendt, J. W., & Hauser, S. (2013). An equivalent soil mass procedure for monitoring soil organic carbon in 
+multiple soil layers. European Journal of Soil Science, 64(1), 58–65. https://doi.org/10.1111/ejss.12002 
+Wilson, G. A. (2007). Farmer environmental attitudes and ESA participation. Journal of Rural Studies, 27(2), 
+115–131. https://doi.org/10.1016/0016-7185(96)00010-3 
+World Bank (2021). Soil organic carbon MRV sourcebook for agricultural landscapes. World Bank. Available at: 
+http://hdl.handle.net/10986/35923 
+APPENDIX 1: NON-EXHAUSTIVE LIST OF 
+POTENTIAL IMPROVED ALM PRACTICES 
+THAT COULD CONSTITUTE THE PROJECT 
+ACTIVITY  
+The following list presents the main categories of practices expected to enhance SOC stocks and/or 
+reduce GHG emissions from soils under a range of cropping and livestock systems. However, the list is 
+non-exhaustive; there are many other improved ALM practices with the potential to enhance SOC stocks 
+and/or reduce GHG emissions as well as emerging practices (e.g., soil inoculants). Furthermore, terms 
+ 
+VM0042, v2.2 
+ 141 
+ 
+ 
+used to denote the same or similar practices may differ regionally. Therefore, for the purposes of 
+demonstrating eligibility (i.e., Applicability Condition 1) as well as additionality (i.e., Step 3 Common 
+Practice) the project proponent must demonstrate that the implementation of a proposed practice 
+constitutes an improvement over the pre-existing practice within the specific cropping and/or livestock 
+system in the project region.  
+Improve fertilizer (organic or inorganic) application 
+• 
+Optimization of fertilizer application (e.g., 4R Nutrient Stewardship – right source, rate, time, and 
+placement) 
+• 
+Organic fertilizer application (e.g., manure, compost) 
+• 
+Enhanced efficiency nitrogen fertilizers (e.g., urease/nitrification inhibitors, controlled release 
+fertilizers) 
+ 
+Improve water management/irrigation 
+• 
+Alteration of irrigation (e.g., precision irrigation) 
+• 
+Alternate wetting and drying (AWD) in rice systems 
+• 
+Groundwater level management (e.g., adjust groundwater levels to reduce peat oxidation) 
+ 
+Reduce tillage/improve residue management 
+• 
+Reduced tillage/conservation tillage 
+• 
+Strip-till/mulch-till 
+• 
+No-till 
+• 
+Crop residue retention 
+• 
+Avoidance of residue burning  
+ 
+Improve crop planting and harvesting  
+• 
+Rotational commercial crop 
+• 
+Continuous commercial crop with cover crop 
+• 
+Rotational commercial crop with cover crop 
+• 
+Double cropping 
+• 
+Relay cropping 
+• 
+Intercropping of cover crop with commercial crop during the same growing season 
+• 
+Incorporation of fungal/microbial inoculants or other soil probiotics 
+• 
+Agroforestry (integration of woody species into crops) 
+ 
+Improve grazing management 
+• 
+Rotational grazing (also known as cell and holistic grazing) 
+• 
+Adaptive multi-paddock grazing (rotational, livestock numbers are adjusted to match available 
+forage as conditions change) 
+• 
+Multi-species grazing 
+• 
+Grazing of cover crops and agricultural residues post-harvest  
+ 
+VM0042, v2.2 
+ 142 
+ 
+ 
+• 
+Silvipasture (integration of woody species into pastures) 
+• 
+Integrated crop-livestock system (ICLS) 
+ 
+ 
+ 
+VM0042, v2.2 
+ 143 
+ 
+ 
+APPENDIX 2: PROCEDURE TO 
+DEMONSTRATE DEGRADATION OF 
+PROJECT LANDS IN THE BASELINE 
+SCENARIO 
+According to the IPCC, up to one quarter of the Earth’s ice-free lands are affected by land degradation57 
+caused by direct or indirect human-induced processes. This equates to hundreds of millions of hectares 
+of degraded crop- and grasslands with reduced productive capacity, which adversely affects livelihoods, 
+ecosystems, and the ability to meet humanity’s growing needs.  
+Degraded lands may be restored and rehabilitated through implementation of sustainable land 
+management strategies, thereby reversing degradation and restoring productivity. In addition, such 
+strategies may reduce conversion pressure on native ecosystems, generate new income opportunities, 
+and provide ecosystem services such as erosion control, regulation of groundwater recharge, and 
+enhanced above- and belowground biodiversity and carbon stocks. 
+Given the multiple benefits of restoration, this methodology seeks to incentivize restoration of 
+degraded crop- and grasslands by making an exception to the land use change applicability condition 
+that otherwise requires project lands to remain cropland or grassland throughout the project lifetime. 
+This exception allows for a one-time conversion from grassland to cropland or vice versa. However, 
+project proponents must credibly demonstrate:  
+1) Current and future degradation of lands in the baseline scenario, and  
+2) Expected improvements in soil health and associated socioenvironmental outcomes through 
+the introduction of improved practices involving land use change.  
+ 
+Step 1: Demonstration of Land Degradation 
+The project proponent must use the CDM Tool for the identification of degraded or degrading lands for 
+consideration in implementing CDM A/R project activities to demonstrate that the land is degraded at 
+the start of the project and will continue to degrade in the baseline scenario. The tool uses a two-stage 
+process that involves:  
+• 
+Identification of project lands classified as degraded under any verifiable local, regional, national, 
+or international land classification system or credible study produced within the last 10 years; or  
+ 
+57 Olsson, L., et al. (2019). Land degradation. In P. R. Shukla et al. (Eds.). Climate change and land: An IPCC special 
+report on climate change, desertification, land degradation, sustainable land management, food security, and 
+greenhouse gas fluxes in terrestrial ecosystems (pp. 345–436). Available at: 
+https://www.ipcc.ch/site/assets/uploads/sites/4/2019/11/07_Chapter-4.pdf 
+ 
+VM0042, v2.2 
+ 144 
+ 
+ 
+• 
+In the absence of such study, identification through direct evidence based on indicators of 
+degradation or through comparative studies. Exact procedures are outlined in the tool. 
+ 
+Step 2: Demonstration of Expected Improvements Resulting from Project Implementation 
+The project proponent must provide an analysis of how the proposed project activities will lead to 
+restoration of project lands. Such analysis must be based on the degradation indicators identified in 
+Step 1 and must at minimum include expected impacts on soil health, plant (i.e., crops, forage) 
+productivity, biodiversity, local ecosystems, and livelihoods. Evidence types may include local expert 
+analysis and relevant local, regional, or national studies. Where those are not available, international 
+studies conducted under similar biophysical and climatic conditions and with comparable management 
+practices may be used. Evidence may include quantification of recognized indicators of degradation by 
+direct measurement, proximal or remote sensing, and/or modeling. Any experts consulted as part of 
+the analysis should have at least 10 years of relevant experience in the project region and professional 
+credentials (e.g., research scientist, certified agronomist). 
+ 
+ 
+ 
+VM0042, v2.2 
+ 145 
+ 
+ 
+APPENDIX 3: SELECTION AND 
+JUSTIFICATION OF THE BASELINE 
+SCENARIO 
+Current Global Agricultural Trends 
+The most recent OECD-FAO Agricultural Outlook provides a global baseline scenario for 2025–2034 
+based on specific assumptions about macroeconomic conditions, productivity trends, agriculture and 
+trade policies, demographic developments, weather, and consumer preferences (OECD & FAO 2025). 
+Considering the data and policies in place as of December 2024, the baseline scenario for the decade 
+2025–2034 is characterized by rising demand for animal-based foods particularly in middle-income 
+countries, production growth driven by productivity improvements especially in middle-income regions, 
+continuous trade, and decline of real prices creating a significant challenge, especially for smallholder 
+farmers, and increasing pressure to boost efficiency.  
+The outlook on productivity improvements and emission reductions relies strongly on the adoption of 
+technological improvements. Direct GHG emissions could drop by 7% below current levels by 2034, but 
+only if agricultural productivity increases by 15% and emission-reducing technologies are widely 
+adopted. However, the expansion of animal herds and cropland contributes to a 6% increase in direct 
+GHG emissions, despite lower emissions intensity per unit. 
+The current (2024) state of market conditions and trends, in terms of consumption, demand, and 
+prices, for key commodities is compared to the 2015–2024 average as follows: 
+Key commodity 
+Market conditions, consumption, and price trends 
+Cereals 
+Growth in cereal production is expected to continue, driven mostly by yield 
+increases. Harvested area expansion is modest (0.14% p.a.), much lower than in 
+the prior decade. Demand from food and feed use remains the leading driver. 
+Prices are slightly decreasing, suggesting a well-supplied market. 
+Oilseeds 
+Yields are improving, but some oilseed sectors see yield constraints (e.g., palm, 
+rapeseed). Biofuel demand contributes to demand for vegetable oils, especially in 
+middle-income countries.  
+Prices for soybeans drop while production increases. In contrast, prices for palm 
+oil, rapeseed, and sunflower seed grow as production remains below potential. 
+Consumption trends show a moderate increase. 
+Sugar 
+Consumption is growing moderately while prices have fallen below the decadal 
+average. Demand growth is concentrated in Africa and Asia, while consumption in 
+high-income countries remains flat or declines. 
+ 
+VM0042, v2.2 
+ 146 
+ 
+ 
+Meat 
+Prices are increasing moderately due to strong demand. Meat-exporting countries 
+are increasing production. Demand for poultry and beef remains high and growing. 
+Per capita consumption is rising in all regions except Africa, most prominently in 
+developed economies.  
+Livestock production, meat, dairy, and egg output are projected to increase 
+strongly (e.g., ~16% increase in output on protein basis). Livestock inventories 
+(e.g., cattle, pigs, poultry) expand more modestly (~7%), which implies improved 
+productivity. Feed demand is expected to grow by ~15% in protein equivalent.  
+Dairy 
+Global production and consumption are driven by a high demand in India and 
+Pakistan, while demand is decreasing in China. Prices for butter reached a record 
+high in 2024, impacting the overall price trend for dairy. 
+Fish and other 
+products from 
+aquaculture 
+Consumption is rising in most regions. Fish and aquaculture products are projected 
+to grow (~12%) to help meet rising demand, especially in developing countries. 
+Downward trend in prices since 2022. 
+Biofuels 
+Global consumption has grown steadily (on average 3.5% annually) over the last 
+decade. Demand (consumption) currently at moderate levels (index around or just 
+above 100). As a result of lower crude oil and feedstock prices, favourable tax 
+policies, and strong economic incentives, overall prices show a strong declining 
+trend.Biofuel demand is projected to grow ~0.9% p.a., driven by increasing 
+transport fuel demand and policy support (notably in Brazil, India, and Indonesia). 
+That growth will also place pressure on feedstock commodity markets (e.g. 
+vegetable oils, biomass) and may influence price volatility. 
+Cotton 
+World cotton production increased in 2024 accompanied by declining prices. 
+Consumption increased slightly due to higher cotton use in India, Bangladesh, 
+Turkey, and Vietnam. 
+ 
+In summary, many agricultural commodities show consumption indices above their decadal average, 
+reflecting strong recent demand – particularly in emerging economies. Supply (i.e., production and 
+trade) has generally been able to respond to demand, moderating upward pressure on real prices. 
+Potential for expansion of acreage or livestock numbers is limited. Thus, future growth is expected to 
+arise more from productivity gains closing yield gaps and implementation of technological 
+improvements. 
+The following uncertainty factors could significantly alter the projected trends: 
+1) Macroeconomic conditions (i.e., GDP growth, inflation, exchange rates, and interest rates) 
+directly impacting agricultural demand (especially for higher-value foods), input costs (e.g. fuel, 
+fertiliser, machinery), and trade competitiveness. Volatility or economic slowdown (e.g., in 
+China, the EU, or the US) could suppress both global demand and investment in agriculture. 
+2) Weather variability and climate change, in particular extreme weather events (e.g., droughts, 
+floods, heatwaves) disrupting production and trade flows. Shifting long-term climate trends, 
+such as temperature rises, rainfall changes, and extreme events impact yields – especially in 
+vulnerable regions – pest and disease outbreaks, water availability, and cropping patterns. 
+ 
+VM0042, v2.2 
+ 147 
+ 
+ 
+3) Energy and input prices, as agriculture is highly energy-intensive (e.g., for fertilizers, fuel, 
+transport) causing a strong dependency on high or volatile energy prices potentially raising 
+production costs, influencing GHG emissions from input use, and affecting biofuel 
+competitiveness and feedstock demand (e.g., maize, sugar, vegetable oil). 
+4) Agricultural and trade policy could lead to changes in subsidies, tariffs, sanitary standards, or 
+environmental regulations reshaping global flows. Trade tensions (e.g., US–China, EU–Brazil), 
+export bans, or supply chain restrictions (as seen during COVID-19) may disrupt projections. 
+Global efforts toward sustainability, nutrition, or climate targets (e.g., through WTO or UNFCCC 
+processes) could shift priorities. 
+5) Technological progress and adoption are uncertain. The rate of innovation (e.g., digital farming, 
+precision agriculture, biotechnology) and speed of adoption are very diverse across regions and 
+commodities. Especially in low-income countries, barriers to technology uptake (e.g., cost, 
+education, infrastructure) may limit expected productivity gains. Emission-reducing technologies 
+are central to scenario outcomes, but their adoption is uneven and hard to predict. 
+6) Demographic and dietary shifts driven by population growth and urbanization patterns, which 
+influence food demand and land use. Uncertainty factors encompass future dietary preferences 
+(e.g., more plant-based diets, lab-grown meat, cultural value of nutrition and environmental 
+impact of food choices), health policies or taxation (e.g. sugar taxes, meat taxes), and 
+generational changes in food consumption. 
+7) Geopolitical instability and conflicts (e.g., Ukraine–Russia conflict) may disrupt production and 
+exports of commodities and inputs, cause price spikes and market volatility, and trigger 
+migration and changes in land use or labor availability. 
+8) Pandemics and global shocks, such as health crises, transport restrictions, or supply chain 
+breakdowns could reshape production and access. Events like COVID-19 show how quickly 
+global food systems can be disrupted. 
+9) Financial and investment flows is a strong uncertainty factor, especially for smallholders and 
+developing countries. Disruptions in capital markets, or shifts in green finance and carbon 
+credit systems, may accelerate or stall agricultural transitions. 
+The International Food Policy Research Institute (IFPRI) and the World Bank estimate that with the 
+current business-as-usual scenario of governmental support for agriculture, GHG emissions would 
+increase by 58%, and 56 million hectares would be converted to agricultural land by 2040 (Gautam et 
+al. 2022). Although “green” government support promoting climate-friendly agriculture has increased in 
+recent years, its share remains very low (~5%) both in volume and in the number of countries providing 
+it. The bulk of support is linked to outputs, inputs, factors of production (e.g., land area), price 
+regulation of products, or trade barriers, and focuses on supporting higher production regardless of 
+environmental impact. 
+ 
+VM0042, v2.2 
+ 148 
+ 
+ 
+Alternative Scenarios to Improved ALM, Plausibility, and Uncertainties 
+Step 1a of VCS tool VT0009 Combined Baseline and Additionality Assessment requires identifying all 
+realistic and credible alternative scenarios that deliver a comparable output or use a comparable input 
+to a proposed project activity, as follows: 
+Scenario 1 (S1): Project is implemented but is not registered under a GHG/carbon credit program. 
+Scenario 2 (S2): No investment by the project proponent; output is provided by others or via 
+business‑as‑usual practices by other actors. 
+Scenario 3 (S3): Continuation of current practices without additional investment or operational 
+expenses 
+Scenario 4 (S4): Continuation of current practices with additional investments or requiring 
+operational expenses 
+Scenario 5 (S5): Other plausible alternatives delivering the same output in the same region/sector 
+or common practices already occurring 
+Scenario 6 (S6): The proposed project activity is undertaken without being registered as a project 
+activity, and is implemented at a later point in time. 
+Considering hypothetical improved ALM projects (e.g., implementation of conservation agriculture (CA) 
+involving the stacked practices of no-tillage, cover crops, and introducing legumes into a crop rotation in 
+smallholder maize/wheat farms in Kenya or in large commercial soy/corn farms in Brazil), the following 
+different scenarios and their plausibility are identified: 
+Scenario Description 
+Plausibility and likelihood 
+Comparable 
+input/output 
+S1 
+Adoption of CA independently 
+from a carbon market project 
+Realistic if supported by 
+external aid or NGOs 
+Limited scale, short-term 
+implementation tied to 
+external funding 
+S2 
+A cooperative, agribusiness, 
+NGO, or government program 
+independently implements CA 
+in the same region, without the 
+project proponent. 
+Plausible but limited scale 
+Limited scale, short-term 
+implementation tied to 
+external funding or 
+government programs in a 
+legislative period 
+S3 
+Business-as-usual: farmers 
+continue conventional 
+maize/wheat or soy/corn 
+farming with full tillage and no 
+cover crops. 
+Highly realistic as farmers are 
+familiar with this agronomic 
+practice, have the required 
+access to equipment and 
+inputs, and are supported by 
+government subsidies and 
+price regulation. 
+No GHG benefits 
+ 
+VM0042, v2.2 
+ 149 
+ 
+ 
+S4 
+Farmers adopt partial CA (e.g., 
+no-tillage only). 
+Plausible if supported by 
+government programs and 
+extension services 
+Lower increase in SOC 
+stocks and lower GHG 
+emission reductions due to 
+the missing synergistic 
+effect of stacked practices. 
+Adoption more likely to be 
+reverted as adjustment 
+challenges not addressed 
+systemically (e.g., no-tillage 
+alone may lead to higher 
+weed occurrence without a 
+suitable crop rotation). 
+S5 
+Farmers introduce synthetic 
+inputs and new seed varieties 
+but maintain conventional 
+tillage without cover crops. 
+Plausible if supported by 
+government programs and 
+extension services 
+None or lower GHG benefit 
+S6 
+Adoption of CA in 5–10 years 
+independently from a carbon 
+market project 
+Realistic if supported by 
+external aid or NGOs or if 
+farmers observe good 
+experiences from neighboring 
+farms 
+Limited scale, short-term 
+implementation tied to 
+external funding or very 
+slow adoption 
+ 
+As discussed above, multiple factors affect agricultural management and production. Changes in these 
+factors will alter the likelihood of certain scenarios. Many of these are captured by the additionality 
+assessment as required by the steps listed in Section 7. Furthermore, the baseline reassessment 
+requirements per the most recent version of the VCS Standard and this methodology ensure that 
+projects adjust their baseline to shifting policy, market, environmental, and technological 
+developments. These additionality and baseline assessment requirements determine the eligibility of 
+projects and project activities. 
+In the above example, if the adoption of CA became mandated by law in the project jurisdiction, 
+Scenario 1 would become the most plausible. At the same time, the project activity would no longer be 
+eligible in a carbon market context as it would not meet the regulatory surplus requirement (see Step 1 
+of Section 7). If recurring drought conditions stimulate short-term and large-scale adoption of CA, 
+farmers may have greater motivation to implement CA without the incentive of carbon markets. The 
+possible risk perception of adopting CA would be lower through the good experiences of neighboring 
+farms. If adoption becomes common beyond the common practice adoption rate threshold of 20%, the 
+project activity would no longer be eligible (see Step 3 of Section 7). 
+Continuation of Pre-project Historical Practices as the Most Plausible Baseline Scenario 
+As shown by the global outlook of agricultural production (OECD & FAO 2025), agricultural production is 
+subject to multiple economic and policy pressures. While adoption of improved ALM and regenerative 
+practices is increasing, regional uptake varies and key barriers to adoption prevail. Grand View 
+Research, Inc. (2025) predicts that the regenerative agriculture market will have a compound annual 
+ 
+VM0042, v2.2 
+ 150 
+ 
+ 
+growth rate of 18.7% by 2033. Growing concerns about soil degradation, climate change, and 
+biodiversity loss are major motivators globally. North America is currently one of the largest markets 
+and early adopters of regenerative practices, benefiting from strong corporate commitments, 
+government incentives, soil health programs, and consumer demand. In Asia and the Pacific, adoption 
+is growing fastest, driven by soil degradation concerns, large agricultural sectors, increasing 
+government support, and rising consumer awareness in countries like India, China, and Australia. 
+Adoption is still emerging in Africa, Latin America, and the Caribbean, often supported by ecosystem-
+based adaptation projects, NGO or multilateral funded programs, and corporate sourcing commitments. 
+Adoption in Europe is supported under policy frameworks like the EU’s Common Agricultural Policy 
+(CAP), with increasing subsidies and incentives for soil-friendly farming and growing evidence for 
+adoption of reduced tillage and cover cropping. However, adoption rates of conservation agriculture 
+remain below 10% in most European countries.58 
+Farmers face multiple challenges when aiming to increase productivity to meet growing demand, with 
+declining prices and the need to adapt to a changing climate. Farmers’ decisions are influenced by a 
+complex mix of economic, social, environmental, psychological, and institutional factors. Unlike 
+standard business decision-making models that focus purely on profit maximization, farmer behavior is 
+shaped by risk, identity, tradition, and long-term stewardship concerns. Finger et al. (2024) identified 
+that European farmers show strong risk and loss aversion. They tend to overweight small probabilities 
+and underweight large ones, decreasing uptake of new practices. In Zambia, risk aversion drives 
+farmers toward safer, lower-yield options, sometimes trapping them in poverty despite better 
+alternatives, as shown by Simutowe et al. (2024). 
+The farmer itself is the biggest determinant of what and how ALM practices are implemented through 
+time, driving variability in historical and future management decisions. Thus, two farms that are similar 
+on paper may be managed very differently due to the individual choices of each farm manager (Meijer 
+et al. 2015; Pannell et al. 2006). Capturing that individual’s influence on past decisions and assuming 
+those choices and practices would occur in the future is the most appropriate representation of how 
+each field would likely be managed in the absence of the carbon project. 
+Lack of knowledge, information, and awareness remain a key barrier to adoption of improved ALM (Lui 
+et al. 2014; Piñeiro et al. 2020). Risk aversion and skepticism toward the economic benefit of new 
+practices is another prevalent factor hindering the wider adoption of improved ALM practices. Many 
+farmers experience lower yields or higher labor or management complexity in the first three to five 
+years after initiating practice transition. 
+While the ecological benefits of improved ALM are well understood and a long-term economic benefit is 
+widely recognized, the transition requires investments for different agricultural equipment, alternative 
+inputs, and to cover potential short-term yield declines in the adjustment phase. Farm-specific 
+ 
+58 ECAF (n.d.) Adoption of Conservation Agriculture in Europe. https://ecaf.org/adoption-of-conservation-agriculture-in-
+europe/  
+ 
+VM0042, v2.2 
+ 151 
+ 
+ 
+knowledge and technical support is required to identify which practices work in which pedological and 
+climatic contexts. 
+Given the persistent barriers and lack of long-term positive evidence from improved ALM in most 
+farming contexts, the continuation of pre-project management practices is considered the most 
+plausible and likely baseline scenario. 
+ 
+ 
+ 
+VM0042, v2.2 
+ 152 
+ 
+ 
+APPENDIX 4: GUIDANCE ON POTENTIAL 
+EMERGING TECHNOLOGIES TO MEASURE 
+SOC CONTENT 
+As indicated in Table 6 and Table 8 and the parameter tables related to modeled and measured SOC 
+stocks (Section 9.2), project proponents may use emerging technologies to determine SOC content 
+where sufficient scientific progress has been achieved in calibrating and validating measurements, and 
+uncertainty is well described. This appendix provides guidance on requirements for using such 
+emerging technologies and a non-exhaustive list of potential technologies (with a focus on proximal 
+sensing) to determine SOC content and criteria to ensure their robustness and reliability.59 
+The applicability of a selected technology to measure SOC in a project must be demonstrated in at least 
+three peer-reviewed scientific articles. Project proponents must provide evidence of the ability of an 
+emerging technology to predict SOC content with sufficient accuracy through the development and 
+application of adequate calibration with data obtained from classical laboratory methods, such as dry 
+combustion. The site characteristics for the underlying calibration must match the project site 
+conditions, including range of SOC stocks, soil types, and land use. While project proponents may use 
+the services of companies measuring SOC, the specificities of the applied measurement technology, 
+including calibration methods, must be made available for review by the VVB. Access must not be 
+restricted through intellectual property rights.  
+Table 9 presents potential emerging proximal sensing technologies which research and publications 
+have shown to hold promise for streamlining SOC measurement. Although proximal sensing techniques 
+may not be as precise per individual measurement compared to conventional analytical laboratory 
+methods (e.g., dry combustion), proximal sensing may be more cost-efficient and provide a better 
+balance between accuracy and cost.60 Hence, although each individual measurement may be less 
+accurate, many more measurements can be made across time and space than would be feasible with 
+conventional methods, enabling an overall estimate of SOC stock that is of similar or better accuracy 
+than lower density sampling measured with conventional analytical laboratory methods. Since many 
+more proximal devices may be used in a project than would be used were all samples sent to a single 
+laboratory, care must be taken to demonstrate device-to-device calibration and precision. Project 
+proponents must provide details to the VVB on the criteria and considerations of the emerging SOC 
+measurement technology as specified in the list below and in Table 9.  
+ 
+59 The listed technologies may be updated in future versions of VM0042. The use of remote sensing-based techniques 
+for estimating SOC content is currently not allowed.  
+60 A detailed comparison of cost-effectiveness of dry combustion and three MIR and Vis-NIR instruments was conducted 
+by Li, S., Viscarra Rossel, R. A., & Webster, R. (2022). The cost-effectiveness of reflectance spectroscopy for 
+estimating soil organic carbon. European Journal of Soil Science, 73(1), Article e13202. 
+https://doi.org/10.1111/ejss.13202 
+ 
+VM0042, v2.2 
+ 153 
+ 
+ 
+Projects must maintain adherence to these criteria over time to ensure that measurement and 
+remeasurement are conducted under the same conditions and are thus comparable. 
+The following information must be included in the monitoring plan and reports where emerging 
+technologies are applied: 
+1) Standard Operating Procedures for sample processing (including drying, sieving, rock and root 
+removal, grinding) and analysis adapted to the proximal sensing technique to be applied 
+2) For in-field or laboratory measurements without sample processing, a detailed explanation of 
+strategies to overcome potential measurement obstacles due to signal interference related to 
+differences in soil moisture, soil aggregates, sunlight, shadow, coarse fragments, and other 
+factors  
+3) Description of the technology and specific equipment and instrument to be applied, including 
+spectral range covered by the instrument applied and the actual resolution of the 
+measurements 
+4) Description of pretreatment or preprocessing methods to analyze raw spectral data 
+5) Description of the modeling approach applied for estimating SOC content based on proximal 
+sensing data, including model type (e.g., partial least squares regression) and model 
+features/parameters 
+6) Description of randomized data-splitting for model calibration/training and validation/testing. 
+Commonly, 70% of the sample data is used for calibration/training and 30% for 
+validation/testing. Other methods for data-splitting include k-fold cross-validation and 
+bootstrapping. 
+7) Demonstration that calibration and statistical validation data are representative of the actual 
+project area in terms of SOC content, clay type, clay content, Munsell soil color,61 and 
+application of organic amendments, where relevant.62 For field-moist measurements, extensive 
+verification of predictive performance across a wide range of moisture contents is required. 
+8) Goodness-of-fit metrics and descriptive statistics from the dataset, such as root mean square 
+error (RMSE), R2, ratio of performance to interquartile range (RPIQ), bias, and Lin's concordance 
+correlation coefficient (CCC), or other suitable parameters 
+9) Description of the approach used to generate posterior predictive distributions (PPDs) or 
+intervals used to propagate error from the spectroscopy model to calculations of the uncertainty 
+deduction. PPDs may be based on Bayesian modeling methods that incorporate parameter 
+uncertainty in the calibration/validation phase. Alternatively, PPDs may be based on estimates 
+of model uncertainty derived by comparing results of dry combustion analysis for 10–15% of 
+the samples from the project area to estimate SOC via spectroscopy at every verification event.    
+10) Demonstration that samples must be chosen in an unbiased manner such that they are 
+representative of the project conditions and sampling design. For example, where a stratified 
+ 
+61 The Munsell Color Value describes a soil’s color based on the following properties: hue (basic color), chroma (color 
+intensity), and value (lightness). 
+62 SOC content from quantification units in which organic amendments are applied should be measured after thorough 
+soil sample homogenization and grinding. 
+ 
+VM0042, v2.2 
+ 154 
+ 
+ 
+random sampling approach is employed, selection of points should be area-weighted based on 
+the area of each stratum relative to the total project area. 
+Table 9: Method-specific criteria to evaluate use of emerging technologies based on proximal 
+sensing to measure SOC content 
+Method 
+Criteria and Considerations to Ensure Robustness and Reliability 
+Inelastic neutron 
+scattering63 
+(INS) 
+ 
+ 
+ 
+ 
+ 
+ 
+• 
+Where carbonates are present (calcareous or limed soils), inorganic C 
+must be separately accounted for. 
+• 
+Inorganic gamma scintillators (detectors based on sodium iodide NaI(Tl), 
+bismuth germinate BGO, and lanthanum bromide LaBr3(Ce)) are better 
+suited due to their higher efficiency of registering gamma rays in the 
+energy range up to 12 MeV. 
+• 
+Pulsed fast/thermal neutron analysis (PFTNA) is the most suitable for soil 
+neutron-gamma analysis. It allows separation of the gamma ray spectrum 
+due to INS reactions from thermal neutron capture and the delay 
+activation reaction spectra. 
+Laser-induced 
+breakdown 
+spectroscopy (LIBS) 
+• 
+Soil samples must be dried for at least 24 h at 40 °C or air-dried for at 
+least 48 h at room temperature. 
+• 
+Where carbonates are present (calcareous or limed soils), samples must 
+be acid-washed. 
+• 
+Soil samples must be milled for homogenization and particle size 
+reduction to facilitate evaporation and atomization in the plasma. 
+• 
+Before analysis, soil material must be pressed to form a pellet with a flat 
+surface. 
+• 
+Configuration of the LIBS instrumental parameters must be optimized for 
+each matrix. The laser pulse energy and the diameter of the laser beam 
+(i.e., spot size) must be monitored simultaneously in the laser pulse 
+fluence term (laser pulse energy per unit area, J/cm2) as must be delay 
+time and laser repetition rate.  
+• 
+Projects may rely on chemometric methods for signal analysis, spectral 
+preprocessing, and subsequent data processing and interpretation, 
+including reducing matrix effects.  
+• 
+Multiple linear regression has proven to be an effective calibration strategy 
+to tackle interference in soil carbon analysis. Further “non-traditional 
+calibration strategies”64 may be applied, which explore the plasma 
+physicochemical properties, use of analyte emission lines/transition 
+energies with different sensitivities, accumulated signal intensities, and 
+multiple standards to obtain a linear model or calibration curve. 
+• 
+Useful techniques for spectra pre-treatment include partial least squares 
+analysis, artificial neural networks, and removing the interference of iron 
+and aluminum. 
+• 
+Multiple laser shots per sample may improve the measurement results. 
+ 
+63 Also known as neutron-stimulated gamma ray analysis or spectroscopy. 
+64 Described in Fernandes Andrade et al. (2021) and Costa et al. (2020). 
+ 
+VM0042, v2.2 
+ 155 
+ 
+ 
+Method 
+Criteria and Considerations to Ensure Robustness and Reliability 
+Mid-infrared 
+(MIR) and visible near-
+infrared 
+(Vis-NIR and NIR) 
+spectroscopy, including 
+diffuse reflectance 
+spectroscopy (DRS) and 
+diffuse reflectance 
+infrared Fourier 
+transform (DRIFT) 
+measurements 
+• 
+For MIR and NIR, soil samples must be air or oven-dried and crushed or 
+sieved to a size fraction smaller than 2 mm. 
+• 
+Measurement protocols must be used where available, such as Appendix B 
+in Viscarra Rossel et al. (2016) for Vis-NIR or the Standard Operating 
+Procedures of the Soil-Plant Spectral Diagnostics Laboratory of World 
+Agroforestry Centre (ICRAF). 
+• 
+Calibration through multivariate statistics or machine-learning algorithms 
+has been performed using large spectral libraries65 or new site-specific 
+libraries developed with local soil samples and higher accuracy. Sub-
+setting or stratifying the dataset may provide better calibration results. See 
+England and Viscarra Rossel (2018) and Stevens et al. (2013) for further 
+guidance on calibration techniques and spectroscopic model development 
+and validation. 
+ 
+The following scientific publications provide more detail and further guidance on the application of the 
+above-listed technologies to measure SOC:  
+INS 
+Izaurralde, R. C., Rice, C. W., Wielopolski, L., Ebinger, M. H., Reeves III, J. B., Thomson, A. M., Harris, R., Francis, B., 
+Mitra, S., Rappaport, A. G., Etchevers, J. D., Sayre, K. D., Govaerts, B., & McCarty, G. W. (2013). Evaluation of three field-
+based methods for quantifying soil carbon. PLoS ONE, 8(1), Article e55560. 
+https://doi.org/10.1371/journal.pone.0055560 
+Kavetskiy, A., Yakubova, G., Prior, S. A., & Torbert, H. A. (2017). Neutron-stimulated gamma ray analysis of soil. In A. M. 
+Maghraby (Ed.). New insights on gamma rays. Intech Open. Available at: https://www.intechopen.com/books/new-
+insights-on-gamma-rays/neutron-stimulated-gamma-ray-analysis-of-soil 
+Yakubova, G., Kavetskiy, A., Prior, S. A., & Torbert, H. A. (2019). Application of neutron-gamma analysis for determining 
+compost C/N ratio. Compost Science & Utilization, 27(3), 146–160. 
+https://doi.org/10.1080/1065657X.2019.1630339 
+ 
+LIBS 
+Castro, J. P., & Pereira-Filho, E. R. (2016). Twelve different types of data normalization for the proposition of 
+classification, univariate and multivariate regression models for the direct analyses of alloys by laser-induced 
+breakdown spectroscopy (LIBS). Journal of Analytical Atomic Spectrometry, 31(10), 2005–2014. 
+https://doi.org/10.1039/C6JA00224B 
+Costa, V. C., Babos, D. V., Castro, J. P., Fernandes Andrade, D., Gamela, R. R., Machado, R. C., Sperança, M. A., Araújo, 
+A. S., Garcia, J. A., & Pereira-Filho, E. R. (2020). Calibration strategies applied to laser-induced breakdown spectroscopy: 
+A critical review of advances and challenges. Journal of the Brazilian Chemical Society, 31(12), 2439–2451. 
+ 
+65 Such as the African ICRAF-ISRIC Soil Spectra Library, the multispectral data collected in the European LUCAS topsoil 
+database, the USDA NRCS (KSSL) National Soil Survey Center mid-infrared spectral library and the Australian soil 
+visible near infrared spectroscopic database described in Viscarra Rossel and Webster (2012)  
+ 
+VM0042, v2.2 
+ 156 
+ 
+ 
+Fernandes Andrade, D., Pereira-Filho, E. R., & Amarasiriwardena, D. (2021). Current trends in laser-induced breakdown 
+spectroscopy: A tutorial review. Applied Spectroscopy Reviews, 56(2), 98–114. 
+https://doi.org/10.1080/05704928.2020.1739063 
+Fu, X., Duan, F. J., Huang, T. T., Ma, L., Jiang, J. J., & Li, Y. C. (2017). A fast variable selection method for quantitative 
+analysis of soils using laser-induced breakdown spectroscopy. Journal of Analytical Atomic Spectrometry, 32(6), 1166–
+1176. https://doi.org/10.1039/C7JA00114B 
+Milori, D. M. P. B., Segnini, A., da Silva, W. T. L., Posadas, A., Mares, V., Quiroz, R., & Martin-Neto, L. (2011). Emerging 
+techniques for soil carbon measurements. CCAFS Working Paper 2. CCAFS. Available at: 
+https://hdl.handle.net/10568/10279 
+Nicolodelli, G., Marangoni, B. S., Cabral, J. S., Villas-Boas, P. R., Senesi, G. S., Dos Santos, C. H., Romano, R. A., Segnini, 
+A., Lucas, Y., Montes, C. R., & Milori, D. M. B. P. (2014). Quantification of total carbon in soil using laser-induced 
+breakdown spectroscopy: A method to correct interference lines. Applied Optics, 53(10), 2170–2176. 
+https://doi.org/10.1364/AO.53.002170 
+Segnini, A., Pereira Xavier, A. A., Otaviani-Junior, P. L., Ferreira, E. C., Watanabe, A. M., Sperança, M. A., Nicolodelli, G., 
+Villas-Boas, P. R., Anchão Oliveira, P. P., & Milori, D. M. B. P. (2014). Physical and chemical matrix effects in soil carbon 
+quantification using laser-induced breakdown spectroscopy. American Journal of Analytical Chemistry, 5(11), 722–729. 
+https://doi.org/10.4236/ajac.2014.511080 
+Senesi, G. S., & Senesi, N. (2016). Laser-induced breakdown spectroscopy (LIBS) to measure quantitatively soil carbon 
+with emphasis on soil organic carbon. A review. Analytica Chimica Acta, 938, 7–17. 
+https://doi.org/10.1016/j.aca.2016.07.039 
+Villas-Boas, P. R., Franco, M. A., Martin-Neto, L., Gollany, H. T., & Milori, D. M. B. P. (2020). Applications of laser-induced 
+breakdown spectroscopy for soil analysis, part I: Review of fundamentals and chemical and physical properties. 
+European Journal of Soil Science, 71(5), 789–804. https://doi.org/10.1111/ejss.12888 
+Villas-Boas, P. R., Franco, M. A., Martin-Neto, L., Gollany, H. T., & Milori, D. M. B. P. (2020). Applications of laser-induced 
+breakdown spectroscopy for soil characterization, part II: Review of elemental analysis and soil classification. European 
+Journal of Soil Science, 71(5), 805–818. https://doi.org/10.1111/ejss.12889 
+ 
+MIR and (Vis-)NIR, including DR and DRIFT spectroscopy 
+Barthès, B. G., & Chotte, J. L. (2021). Infrared spectroscopy approaches support soil organic carbon estimations to 
+evaluate land degradation. Land Degradation & Development, 32(1), 310–322. https://doi.org/10.1002/ldr.3718 
+Dangal, S. R. S., Sanderman, J., Wills, S., & Ramirez-Lopez, L. (2019). Accurate and precise prediction of soil properties 
+from a large mid-infrared spectral library. Soil Systems, 3(1), Article 11. https://doi.org/10.3390/soilsystems3010011 
+England, J. R., & Viscarra Rossel, R. A. (2018). Proximal sensing for soil carbon accounting. SOIL, 4(2), 101–122. 
+https://doi.org/10.5194/soil-4-101-2018 
+FAO (2022). A primer on soil analysis using visible and near-infrared (vis-NIR) and mid-infrared (MIR) spectroscopy. FAO. 
+https://doi.org/10.4060/cb9005en  
+Ng, W., Minasny, B., Jones, E., & McBratney, A. (2022). To spike or to localize? Strategies to improve the prediction of 
+local soil properties using regional spectral library. Geoderma, 406, Article 115501. 
+https://doi.org/10.1016/j.geoderma.2021.115501  
+ 
+VM0042, v2.2 
+ 157 
+ 
+ 
+Nocita, M., Stevens, A., van Wesemael, B., Aitkenhead, M., Bachmann, M., Barthès, B., Dor, E. B., Brown, D. J., Clairotte, 
+M., Csorba, A., Dardenne, P., Demmatê, J. A. M., Genot, V., Guerrero, C., Knadel, M., Montanarella, L., Noon, C., Ramirez-
+Lopez, L., Robertson, J., …, Wetterlind, J. (2015). Soil spectroscopy: An alternative to wet chemistry for soil monitoring. In 
+D. L. Sparks (Ed.). Advances in Agronomy (pp. 139–159). Academic Press. 
+https://doi.org/10.1016/bs.agron.2015.02.002 
+Reeves III, J. B. (2010). Near- versus mid-infrared diffuse reflectance spectroscopy for soil analysis emphasizing carbon 
+and laboratory versus on-site analysis: Where are we and what needs to be done? Geoderma, 158(1–2), 3–14. 
+https://doi.org/10.1016/j.geoderma.2009.04.005 
+Sanderman, J., Savage, K., & Dangal, S. R. S. (2020). Mid-infrared spectroscopy for prediction of soil health indicators in 
+the United States. Soil Science Society of America Journal, 84(1), 251–261. https://doi.org/10.1002/saj2.20009 
+Seybold, C. A., Ferguson, R., Wysocki, D., Bailey, S., Anderson, J., Nester, B., Schoeneberger, P., Wills, S., Libohova, Z., 
+Hoover, D., & Thomas, P. (2019). Application of mid-infrared spectroscopy in soil survey. Soil Science Society of America 
+Journal, 83(6), 1746–1759. https://doi.org/10.2136/sssaj2019.06.0205 
+Stevens, A., Nocita, M., Tóth, G., Montanarella, L., & van Wesemael, B. (2013). Prediction of soil organic carbon at the 
+European scale by visible and near infrared reflectance spectroscopy. PLoS ONE, 8(6), Article e66409. 
+https://doi.org/10.1371/journal.pone.0066409 
+Viscarra Rossel, R. A., Behrens, T., Ben-Dor, E., Brown, D. J., Demmatê, J. A. M., Shepherd, K. D., Shi, Z., Stenberg, B., 
+Stevens, A., Adamchuk, V., Aïchi, H., Barthès, B. G., Bartholomeus, H. M., Bayer, A. D., Bernoux, M., Böttcher, K., 
+Brodský, L., Du, C. W., Chappell, A., … Ji, W. (2016). A global spectral library to characterize the world’s soil. Earth-
+Science Reviews, 155, 198–230. https://doi.org/10.1016/j.earscirev.2016.01.012 
+Viscarra Rossel, R. A., & Webster, R. (2012). Predicting soil properties from the Australian soil visible–near infrared 
+spectroscopic database. European Journal of Soil Science, 63(6), 848–860. https://doi.org/10.1111/j.1365-
+2389.2012.01495.x 
+ 
+ 
+ 
+VM0042, v2.2 
+ 158 
+ 
+ 
+APPENDIX 5: DEFINITIONS OF SOIL SLOPE 
+CLASSES FOR USE IN SETTING BASELINE 
+CONTROL SITES 
+Table 10: Soil slope classes 
+Classes for— 
+Slope (Gradient) Class Limits 
+Simple Slopes 
+Complex Slopes 
+Lower (%) 
+Upper (%) 
+Nearly level 
+Nearly level 
+0 
+3 
+Gently sloping 
+Undulating 
+4 
+8 
+Strongly sloping 
+Rolling 
+9 
+16 
+Moderately steep 
+Hilly 
+17 
+30 
+Steep 
+Steep 
+31 
+45 
+Very steep 
+Very steep 
+>45 
+  
+Adapted from USDA Natural Resource Conservation Service (NRCS) (2017). Chapter 2.—Landscapes, geomorphology, 
+and site description Table 2-3. In: Soil survey manual handbook no. 18 Available at: 
+https://www.nrcs.usda.gov/resources/guides-and-instructions/soil-survey-manual 
+Workflow for a Slope Analysis in a GIS 
+1) Data required: digital elevation model (DEM) as a raster data layer of horizontal and vertical 
+resolution suitable for the extent of the area of interest, and coordinate reference system in 
+meters 
+2) Tools required: GIS software suitable for processing raster data (e.g., QGIS, ArcGIS, SAGA GIS, 
+GRASS, GDAL) 
+3) Load the DEM data layer onto the software. 
+4) Construct a slope (in percent) layer from the DEM. 
+5) Reclassify the slope layer into discrete slope classes using the class limits listed in Table 10. 
+6) Determine the coverage of – or, equivalently, the number of pixels occupied by – each slope 
+class and identify the dominant slope class (i.e., the slope class with the largest coverage or 
+highest number of pixels occupied). 
+ 
+ 
+ 
+VM0042, v2.2 
+ 159 
+ 
+ 
+APPENDIX 6: ADDITIONAL UNCERTAINTY 
+EXAMPLES 
+Staged sampling designs and alternative measurement approaches are valid and may be applied under 
+this methodology, but stratified random sampling is the required sampling strategy at the stage during 
+which sample points are selected (see Section 8.2.1). In this appendix, an example based on a multi-
+stage design for a grouped project with multiple landowners with multiple fields is provided. At the final 
+stage, the sampling points are determined randomly within predefined strata, thus following the 
+stratified random sampling strategy.  
+In such projects, landowners and fields may be dispersed across large geographic areas. Aggregating 
+these fields into a total project area that is then simply divided into strata may prove inefficient and 
+may provide a poor estimate of uncertainty. It would likely result in small numbers of samples being 
+placed in each field, underestimating small-scale variability of change in carbon within fields. 
+Furthermore, since the field is the level at which improved management is typically implemented, 
+ensuring that fields are represented as quantification units within the sampling design may be more 
+appropriate.  
+In this example design, the stages/units are as follows: 
+1) Landowner, presuming they have multiple fields enrolled in a project that have the same 
+baseline and project scenarios and similar physical conditions  
+2) Fields, selected using a probability proportional to size (with replacement) procedure 
+3) Within-field strata, designed based on physical (e.g., topographic indices) or soil data (e.g., clay 
+content) 
+4) Points, selected within strata using simple random sampling (with replacement)  
+The same sources of error apply in this example as in the examples provided in Section 8.6, but the 
+uncertainty estimator for sampling error should be changed to match this alternative design. Below are 
+similar sets of equations for both uncertainty estimation approaches allowed under Quantification 
+Approach 1 and the approach under Quantification Approach 2. Additionally, an example is provided 
+under Quantification Approach 2 in which soil spectroscopy methods are used to measure SOC content 
+and the MC simulation method is used to propagate measurement errors from use of these methods 
+through calculations of the uncertainty deduction.  
+ 
+ 
+ 
+VM0042, v2.2 
+ 160 
+ 
+ 
+Quantification Approach 1 – Analytical Error Propagation  
+ 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,𝑡
+2
+= ∑𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,𝑓,𝑡
+2
+𝐹
+𝑓=1
+ 
+(A6.1) 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,∆•,𝑓,𝑡
+2
+= 
+1
+𝑘𝑓(𝑘𝑓−1) ∑(∆•𝑓𝑗
+∗−∆•𝑓
+∗)2
+𝑘𝑓
+𝑗=1
+ 
+ 
+Note – notation for time period t is suppressed hereafter for convenience. 
+Where: 
+∆•𝑓𝑗
+∗= 𝐴𝑓
+𝐴𝑓𝑗
+∑𝐴𝑓ℎ𝑗
+𝑛𝑓ℎ𝑗
+∑∆•𝑓ℎ𝑗𝑖
+𝑛𝑓ℎ𝑗
+𝑖=1
+𝐻𝑓𝑗
+ℎ=1
+ 
+∆•𝑓
+∗= 1
+𝑘𝑓
+∑∆•𝑓𝑗
+∗
+𝑘𝑓
+𝑗=1
+ 
+and: 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+ 
+= Variance of reductions or removals in gas or pool • due to sampling error at 
+time t across the entire project area (t CO2e)2 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑓,𝑡
+2
+ 
+= Variance of reductions or removals in gas or pool • due to sampling error for 
+farmer f (i.e., the primary quantification unit) at time t (t CO2e)2 
+∆•𝑓𝑗
+∗ 
+= Estimated reduction or removal in gas or pool • for farmer f across their total 
+land area based on data collected at time t in field j (t CO2e) 
+∆•𝑓
+∗ 
+= Average estimated reduction or removal in gas or pool • for farmer f across 
+their total land area based on data collected at time t across all fields k 
+(t CO2e) 
+∆•𝑓ℎ𝑗𝑖 
+= Estimated reduction or removal in gas or pool • in year t at point i on an area 
+basis in stratum h in field j for farmer f (t CO2e/ha) 
+h 
+= 1, …, Hfj strata in field j for farmer f 
+i 
+= 1, …, nfhj sample points within stratum h and field j for farmer f 
+j 
+= 1, …, kf fields selected for sampling for farmer f 
+f 
+= 1, …, F farmers in the project 
+Afhj 
+= Area of stratum h in field j for farmer f 
+Afj 
+= Area of field j for farmer f 
+Af 
+= Total area for farmer f 
+ 
+Model errors are assumed to be uncorrelated with the input data in the sample and to be independent 
+across samples. Then, the variance of Δ •𝑡
+̅̅̅̅̅ incorporating sample uncertainty and model prediction 
+ 
+VM0042, v2.2 
+ 161 
+ 
+ 
+uncertainty is the sum of variances due to sampling and model error divided by the square of the total 
+project area: 
+𝑠Δ•
+̅̅̅̅,𝑡
+2
+=
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,Δ•,𝑡
+2
+ 
+𝐴2
++ 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ 
+(A6.2) 
+ 
+Quantification Approach 1 – Monte Carlo Error Propagation 
+Similar to the MC error propagation example provided in Section 8.6.1.2, both model prediction error 
+and sampling error are estimated from a set of L estimates of the true total GHG emissions across the 
+entire project. For convenience, introductory text from Section 8.6.1.2 is included here again. Likewise, 
+notation in this section differs from the rest of the methodology to better match conventions in 
+Bayesian statistics. Notation to denote time t is suppressed for convenience and to avoid confusion 
+with the use of 𝜏.  
+For a particular time period and emission source, the estimand, or target parameter of interest, is the 
+true total reductions and removals across the entire project, denoted as 𝜏, in tonnes of carbon dioxide 
+equivalent (t CO2e). The estimate of 𝜏 produced through MC simulation is denoted by 𝜏 . Similarly, the 
+areal mean reductions and removals is denoted by 𝜇 (equivalent to ∆•𝑡) in t CO2e/unit area. Estimates 
+of 𝜇 are denoted as 𝜇 . Since model prediction error is implicitly incorporated into the MC simulations 
+through parameter uncertainty, these estimates may then be used to estimate sampling and model 
+prediction error based on the realized sample s and the sampling design employed.  
+First, to generate an estimate (𝜏 ) of 𝜏, GHG emissions are simulated under the baseline and project 
+scenarios multiple times at each sample point, indexed by 𝑙 = 1, ..., 𝐿. The reductions and removals at 
+each point are then calculated as the difference between predicted reductions and removals under 
+baseline and project scenarios. These estimates are used to produce an estimate of reductions and 
+removals (𝑦̃) at each point, similarly indexed by 𝑙 following Equation (A6.3) below. 
+𝑦̃𝑓𝑗ℎ𝑖𝑙= 𝑧̃𝑏𝑠𝑙,𝑓ℎ𝑗𝑖𝑙− 𝑧̃𝑝𝑟,𝑓ℎ𝑗𝑖𝑙 
+(A6.3) 
+Where: 
+𝑦̃𝑓ℎ𝑗𝑖𝑙 
+= Predicted reductions and removals for the 𝑙th simulation at point i in 
+stratum h in field j for farmer f (t CO2e/ha) 
+𝑧̃𝑏𝑠𝑙,𝑓ℎ𝑗𝑖𝑙 
+= Predicted reductions and removals in the baseline scenario for the 𝑙th 
+simulation at point i in stratum h in field j for farmer f (t CO2e/ha) 
+𝑧̃𝑝𝑟,𝑓ℎ𝑗𝑖𝑙 
+= Predicted reductions and removals in the project scenario for the 𝑙th 
+simulation at point i in stratum h in field j for farmer f (t CO2e/ha) 
+ 
+Note – notation for the source of emissions and time period is suppressed. The sign convention is that 
+𝑧̃𝑏𝑠𝑙,𝑓𝑗ℎ𝑖𝑙 is emissions to the atmosphere in the baseline scenario. Thus, for the SOC pool, 𝑧̃𝑏𝑠𝑙,𝑓𝑗ℎ𝑖𝑙 is −1 
+ 
+VM0042, v2.2 
+ 162 
+ 
+ 
+times the predicted temporal change in SOC stocks in the baseline scenario; similarly, 𝑧̃𝑝𝑟,𝑓𝑗ℎ𝑖𝑙 is −1 
+times the predicted temporal change in the project scenario. 
+The total set of L estimates of 𝑦̃ are then used to produce 𝑡  and 𝜇 , according to Equation (A6.4).  
+𝜇 = 𝜏 
+𝐴 
+𝜏 = ∑𝜏 𝑓
+𝐹
+𝑓=1
+ 
+(A6.4) 
+Where: 
+𝜏 𝑓= 1
+𝑘𝑓
+∑𝜏 𝑓𝑗
+𝑘𝑓
+𝑗
+ 
+𝜏 𝑓𝑗= 𝐴𝑓
+𝐴𝑓𝑗
+∑𝐴𝑓ℎ𝑗
+𝑛𝑓ℎ𝑗
+∑1
+𝐿∑𝑦̃𝑓ℎ𝑗𝑖𝑙
+𝐿
+𝑙=1
+𝑛𝑓𝑗ℎ
+𝑖=1
+𝐻𝑓𝑗
+ℎ=1
+ 
+and: 
+𝜏 𝑓          
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source 
+for farmer f (t CO2e) 
+𝜏 𝑓𝑗          
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source in 
+field j for farmer f (t CO2e) 
+𝜏 𝑓ℎ𝑗𝑖𝑙 
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source in 
+field j for farmer f (t CO2e) scaled to their total land area (A-f) in the 𝑙th simulation 
+(t CO2e) 
+ 
+The total uncertainty is then decomposed into two components, sampling and modeling uncertainty. 
+Using standard variance decomposition (i.e., the law of total variance) following Del Grosso et al. 
+(2010), the total variance is decomposed according to Equation (A6.5).  
+Var(𝜏 ) = 𝔼[Var(𝜏 |𝒔)] + Var(𝔼[𝜏 |𝒔]) 
+(A6.5) 
+For the stratified random sampling design used in this example, the variance components are 
+estimated according to Equation (A6.6), which is area-weighted. 
+𝑉𝑎𝑟
+̂ (𝜏 ) = {∑𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,𝑓
+2
+𝐹
+𝑓=1
+} + 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+ 
+(A6.6) 
+ 
+Where: 
+ 
+VM0042, v2.2 
+ 163 
+ 
+ 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,𝑓
+2
+= 
+𝐴𝑓
+2
+𝑘𝑓(𝑘𝑓−1) ∑(𝜏 𝑓𝑗−𝜏 𝑓)2
+𝑘𝑓
+𝑗=1
+ 
+𝑠𝑚𝑜𝑑𝑒𝑙
+2
+=
+1
+𝐿−1 ∑(𝜏̃𝑙−𝜏 )2
+𝐿
+𝑙=1
+ 
+𝜏̃𝑙= ∑𝜏̃𝑓𝑙 
+𝐹
+𝑓=1
+ 
+Where:  
+𝜏̃𝑓𝑙 = 1
+𝑘𝑓
+∑𝜏̃𝑓𝑗𝑙 
+𝑘𝑓
+𝑗
+ 
+𝜏̃𝑓𝑗𝑙 = 𝐴𝑓
+𝐴𝑓𝑗
+∑𝐴𝑓ℎ𝑗
+𝑛𝑓ℎ𝑗
+∑𝑦̃𝑓ℎ𝑗𝑖𝑙
+𝑛𝑓ℎ𝑗
+𝑖=1
+𝐻𝑓𝑗
+ℎ=1
+  
+and: 
+𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,𝑓
+2
+ 
+= Variance of reductions and removals in gas or pool • due to sampling error for 
+farmer f (i.e., the primary quantification unit) at time t (t CO2e)2 
+𝜏̃𝑙          
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source 
+across the entire project area in the 𝑙th simulation (t CO2e) 
+𝜏̃𝑓𝑙           
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source 
+for farmer f in the 𝑙th simulation (t CO2e) 
+𝜏̃𝑓𝑗𝑙           
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source 
+in field j for farmer f in the 𝑙th simulation (t CO2e) 
+𝜏̃𝑓ℎ𝑗𝑙  
+= Monte Carlo estimate (MC mean) of reductions and removals for a given source 
+in field j for farmer f (t CO2e) scaled to their total land area (A-f) in the 𝑙th 
+simulation (t CO2e) 
+Lastly, the variance of the mean reduction or removal (Var
+̂ (𝜇 )) is obtained based on Equation (A6.7). 
+𝑉𝑎𝑟
+̂ (𝜇 ) = ∑{ 1
+𝐴2 𝑠𝑠𝑎𝑚𝑝𝑙𝑖𝑛𝑔,𝑓
+2
+} +
+𝐹
+𝑓=1
+{ 1
+𝐴2 𝑠𝑚𝑜𝑑𝑒𝑙
+2
+} 
+(A6.7) 
+Quantification Approach 2 
+The total variance of the estimate of mean SOC stock changes is based on the sum of variances of 
+comparisons of project and baseline control plots for each farmer. Variance of SOC removal estimates 
+for each farmer are based on the combined variance of the estimates of change over time in a given 
+verification period t, for both the project and baseline scenarios. The covariance of these estimates is 
+conservatively excluded as the baseline control sites and project sites are assumed to be independent. 
+Note that in these equations ∆ is used to signify both emission reductions and removals in the SOC 
+ 
+VM0042, v2.2 
+ 164 
+ 
+ 
+pool (i.e., project scenario SOC stocks minus baseline scenario SOC stocks) and changes in SOC stocks 
+over time in both the baseline and project scenarios. 
+𝑠∆𝑆𝑂𝐶,𝑡
+̅̅̅̅̅̅̅̅̅̅
+2
+= 
+1
+𝐴2 ∑
+ 𝑠∆𝑆𝑂𝐶,𝑓𝑡
+2
+𝐹
+𝑓=1
+   
+(A6.8) 
+Where: 
+𝑠∆𝑆𝑂𝐶,ℎ𝑡
+2
+= 𝑠∆𝑆𝑂𝐶,𝑝𝑟,𝑓𝑡
+2
++ 𝑠∆𝑆𝑂𝐶,𝑏𝑠𝑙,𝑓𝑡
+2
+  
+and: 
+𝑠∆𝑆𝑂𝐶,𝑓𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in verification period t for 
+farmer f, calculated as the difference in net change between the project and 
+baseline scenarios over period t (t CO2e)2 
+𝑠∆𝑆𝑂𝐶,𝑝𝑟,𝑓𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in the project plots in 
+verification period t for farmer f, calculated as the difference in SOC stocks at 
+the beginning and end of period t (t CO2e)2 
+𝑠∆𝑆𝑂𝐶,𝑏𝑠𝑙,𝑓𝑡
+2
+ 
+= Variance of the estimate of total SOC stock changes in verification period t in 
+baseline (control) plots paired with farmer f, calculated as the difference in 
+SOC stocks at the beginning and end of period t (t CO2e)2 
+Because the sample design for the project and baseline control plots may be different, the uncertainty 
+estimator should match the sample design used in the project and baseline control plots. For example, 
+the project area may be monitored using a staged design if there are a substantial number of 
+quantification units (e.g., fields) in the project area. But the baseline control plots may be fewer, 
+meaning they can all be monitored and would not require a staged design. In such cases, baseline and 
+project areas should use different uncertainty estimators before estimating the combined uncertainty. 
+This example assumes that within each stratum, sample points are similarly determined using simple 
+random sampling with replacement for both baseline and project, so the estimator in both is the same.  
+Equation (A6.9) provides an example for the project scenario. The variance of the estimate of the 
+change is then a function of the variance and covariance of soil sampling results at both time points 
+within verification period t. These time points are denoted as tfinal and tstart, hereafter shortened to 
+subscripts x and s.  
+Note – notation differs from Section 8.6.2 with x being used instead of f to avoid confusion with 
+subscript f indicating an individual farmer. 
+𝑠∆𝑆𝑂𝐶,𝑝𝑟,𝑓𝑡
+2
+= 𝑠𝑆𝑂𝐶,𝑝𝑟,𝑓𝑥
+2
++ 𝑠𝑆𝑂𝐶,𝑝𝑟,𝑓𝑠
+2
+− 2𝐶𝑂𝑉(𝑆𝑂𝐶𝑝𝑟,𝑓𝑥 ; 𝑆𝑂𝐶𝑝𝑟,𝑓𝑠) 
+(A6.9) 
+The variance for an individual farmer is estimated as follows. The same equation form applies to time 
+tfinal. 
+𝑠𝑆𝑂𝐶,𝑝𝑟,𝑓𝑠
+2
+= 
+1
+𝑘𝑓(𝑘𝑓−1) ∑(𝑆𝑂𝐶𝑝𝑟,𝑓𝑠𝑗
+∗
+−𝑆𝑂𝐶𝑝𝑟,𝑓𝑠
+∗
+)2
+𝑘𝑓
+𝑗=1
+ 
+ 
+VM0042, v2.2 
+ 165 
+ 
+ 
+𝑆𝑂𝐶𝑝𝑟,𝑓𝑠𝑗
+∗
+= 𝐴𝑓
+𝐴𝑓𝑗
+∑𝐴𝑓ℎ𝑠𝑗
+𝑛𝑓ℎ𝑠𝑗
+∑𝑆𝑂𝐶𝑝𝑟,𝑓ℎ𝑠𝑗𝑖
+𝑛𝑓ℎ𝑠𝑗
+𝑖=1
+𝐻𝑓𝑗
+ℎ=1
+ 
+𝑆𝑂𝐶𝑝𝑟,𝑓𝑠
+∗
+= 1
+𝑘𝑓
+∑𝑆𝑂𝐶𝑝𝑟,𝑓𝑠𝑗
+∗
+𝑘𝑓
+𝑗=1
+ 
+𝐶𝑂𝑉(𝑆𝑂𝐶𝑝𝑟,𝑓𝑠 ; 𝑆𝑂𝐶𝑝𝑟,𝑓𝑥) = 
+1
+𝑘𝑓(𝑘𝑓−1) ∑(𝑆𝑂𝐶𝑝𝑟,𝑓𝑠𝑗
+∗
+−𝑆𝑂𝐶𝑝𝑟,𝑓𝑠
+∗
+)
+𝑘𝑓
+𝑗=1
+(𝑆𝑂𝐶𝑝𝑟,𝑓𝑥𝑗
+∗
+−𝑆𝑂𝐶𝑝𝑟,𝑓𝑥
+∗
+)2 
+and: 
+𝑠𝑆𝑂𝐶,𝑝𝑟,𝑓𝑥
+2
+ 
+= Variance of the estimate of SOC stocks in the project scenario at tfinal 
+for farmer f (t CO2e)2 
+𝑠𝑆𝑂𝐶,𝑝𝑟,𝑓𝑠
+2
+ 
+= Variance of the estimate of SOC stocks in the project scenario at tstart 
+for farmer f (t CO2e)2 
+COV(SOCpr,fs ; SOCpr,fx)  
+= Covariance of estimates of SOC stocks at tfinal and tstart in the project 
+scenario for farmer f (t CO2e)2 
+𝑆𝑂𝐶𝑝𝑟,𝑓𝑠𝑗
+∗
+ 
+= Estimated SOC stocks for farmer f across their total land area based 
+on data collected at tstart for farmer f in field j (t CO2e) 
+𝑆𝑂𝐶𝑝𝑟,𝑓𝑠
+∗
+ 
+= Mean estimated SOC stocks for farmer f across their total land area 
+based on data collected at tstart for farmer f across all fields k (t CO2e) 
+𝑆𝑂𝐶𝑓ℎ𝑠𝑗𝑖 
+= Estimated SOC stock equivalent at point i in stratum h in field j for 
+farmer f at tstart (t CO2e) 
+Afhsj 
+= Area of stratum h in field j for farmer f at tstart 
+ 
+ 
+ 
+ 
+VM0042, v2.2 
+ 166 
+ 
+ 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+v1.0 
+19 Oct 2020 
+Initial version  
+v2.0 
+30 May 2023 
+• Introduction of a baseline control sites option to allow for direct SOC 
+measurement under Quantification Approach 2 
+• Update of Section 8.6 on uncertainty assessment to clarify statistical 
+procedures and align with the VCS Methodology Requirements  
+• Introduction of guidance on the use of proximal sensing technologies to 
+estimate SOC content in Appendix 4 
+• Introduction of an applicability condition in Section 4 and Appendix 2 
+allowing for one-time land conversion from grassland to cropland or vice 
+versa to restore degraded lands  
+• Introduction of a requirement and procedures to account for emissions 
+associated with use of agricultural limestone in Section 8.2.4 
+• Introduction of a requirement to account for leakage from diversion of 
+biomass residues used for energy applications in the baseline scenario 
+• General improvements, errata, and clarifications  
+v2.1 
+11 September 
+2024 
+Minor revision, including the following changes: 
+• Separation of GHG emission reductions and carbon dioxide removals 
+under Section 8 
+• Title updated to VM0042 Improved Agricultural Land Management 
+• Incorporation of the Corrections and Clarifications published on 25 
+January 2024 
+o The corrections pertain to equations and parameters using default 
+factors to quantify carbon dioxide, methane, and nitrous oxide 
+emissions from diverse ALM activities. 
+o The clarifications relate to the following: 
+▪ Data used to demonstrate common practice  
+▪ Requirements for soil sampling and analysis 
+▪ Definitions of quantification units and strata 
+▪ Evidence that project proponents must provide to comply with 
+various methodology requirements 
+▪ Explanations of equation parameters 
+▪ Requirements that are cross-referenced between VM0042 and 
+VMD0053 
+v2.2 
+21 October 
+2025 
+Minor revision, including the following changes: 
+• 
+Additionality:  
+o 
+Replace Step 2 with Step 2 from VT0008 
+o 
+Replace Step 3 with Step 3.1 determining if the project 
+activity has below 20% adoption in the project region and 
+ 
+VM0042, v2.2 
+ 167 
+ 
+ 
+Step 3.2 equivalent to Step 4c of VT0008 when stacked 
+practices include a practice with an adoption rate >20%  
+o 
+Added a justification for setting the 20% adoption rate as a 
+common practice threshold  
+• 
+Added justification for determining the baseline scenario as 
+continuation of pre-project practices. 
+• 
+Added clarifying text for how to select the most conservative EF and 
+disaggregated values when using QA3. 
+• 
+Replace Section 8.4.3 on leakage from productivity declines by 
+VMD0054. 
+• 
+Recommend baseline reassessment every five years, wherever 
+possible. 
+• 
+Incorporation of the Corrections and Clarifications published on 10 
+October 2025 to allow the use of VT0014 to monitor SOC stock 
+changes via digital soil mapping and requiring the use of templates 
+for supporting documents, available on the VM0042 webpage

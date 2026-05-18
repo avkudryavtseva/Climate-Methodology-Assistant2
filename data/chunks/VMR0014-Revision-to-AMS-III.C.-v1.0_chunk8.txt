@@ -1,0 +1,62 @@
+7 ADDITIONALITY 
+In place of the additionality requirements 20 through 22 in the latest version of AMS-III.C, 
+project proponents must demonstrate additionality by demonstrating regulatory surplus and 
+applying either Option 1 (project method) or Option 2 (activity method) below. 
+7.1 
+Regulatory Surplus  
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements set out in the most recent versions of the VCS Standard and VCS Methodology 
+Requirements. Where the project proponent demonstrates regulatory surplus, proceed to 
+Section 7.2 or Section 0. Otherwise, the project activity is not additional.   
+7.2 
+Option 1: Apply VT0008 Additionality Assessment 
+Project proponents must apply a barrier analysis and/or investment analysis, and a common 
+practice analysis as described below.  
+ 
+VMR0014, v1.0 
+ 
+7 
+7.2.1 Barrier analysis and/or investment analysis  
+Project proponents must follow the procedures and requirements of the most recent version of 
+VCS tool VT0008 Additionality Assessment to conduct either a barrier analysis (Step 2) or an 
+investment analysis (Step 3). Project proponents may choose to apply both analyses to further 
+strengthen the additionality demonstration.  
+When applying a barrier analysis, barriers are limited to: 
+1) Commercial/legal barrier: The “owner/tenant” contractual issue may be a barrier to the 
+introduction of new electric and/or hybrid vehicles or EMMs. For example, this is typical in 
+the case of car rental company fleets, where the car renter pays for the fuel and the 
+owner makes the vehicle investment. Many taxi fleets are also managed in this manner, 
+especially in developing countries, with taxi drivers paying a fixed daily rent per vehicle. 
+For projects facing the commercial/legal barrier, project proponents must demonstrate 
+that the contractual relationship between the parties does not provide an incentive for 
+any party to implement the project activity. 
+2) Aggregation barrier: In order to make the introduction of new electric and/or hybrid 
+vehicles or EMMs feasible, an aggregation mechanism may be required. Aggregation 
+parties are generally business associations, clean mobility-focused institutions, or 
+providers of technology solutions. Establishing and maintaining such an aggregation 
+mechanism can be a significant barrier that can be overcome with carbon credit 
+revenues. 
+Note — Projects may choose to demonstrate additional implementation barriers using the list of 
+barriers provided in the most recent version of the VT0008 Additionality Assessment. However, 
+as a minimum requirement, project proponents must demonstrate additionality through the 
+existence of at least one of the barriers listed above or an investment analysis. Other barriers 
+may further strengthen the additionality demonstration but are not sufficient on their own.  
+Where the project proponent demonstrates that all conditions of either the barrier analysis 
+and/or the investment analysis per VT0008 are met, proceed to Section 7.2.2 (common 
+practice analysis). Otherwise, the project activity is not additional.   
+7.2.2 Common practice analysis 
+Project proponents must conduct a common practice analysis for each vehicle and EMM 
+category in accordance with “Step 4c: Common Practice Analysis for Measures Not Listed in 
+Step 4a” of the most recent version of VT0008. 
+Where the project proponent demonstrates that the project is not considered common practice, 
+the project is additional. Otherwise, the project activity is not additional.   
+ 
+VMR0014, v1.0 
+ 
+8 
+7.3 
+Option 2: Annual Sales  
+Project proponents must apply Option 2 of AMS-III.C. The term “vehicles” must be read as 
+“vehicles or mobile machinery” in this section. Where the project proponent demonstrates that 
+the project meets the conditions in AMS-III.C. for annual sales, the project is additional. 
+Otherwise, the project activity is not additional.

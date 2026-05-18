@@ -1,0 +1,514 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+ 
+Data / Parameter 
+FCp,t,p 
+Data unit 
+Percent (%)  
+Description 
+Organic carbon content of biochar for each biochar type t produced in 
+production facility p per tonne of biochar, on a dry weight basis 
+Equations 
+Equation 2, Equation 6 
+Source of data 
+At validation stage, both types of production facility may use default 
+values provided in Table 4 and taken from IPCC (2019) Appendix 4: 
+Method for Estimating the Change in Mineral Soil Organic Carbon 
+Stocks from Biochar Amendments: Basis for Future Methodological 
+Development or may provide peer-reviewed data. 
+Value applied 
+For high technology production facilities, value is determined from a 
+material analysis. For low technology production facilities where FCp 
+cannot be monitored, use values from Table 4. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+IPCC (2019) states global estimates of organic carbon content of 
+biochar as a function of feedstock and heating temperature, therefore 
+the value must be calculated based on a biochar material analysis or 
+using default values (EBC, 2022). 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data / Parameter 
+PRde,k 
+Data unit 
+Dimensionless 
+Description 
+Permanence adjustment factor due to decay of biochar (dimensionless) 
+to be defined for application type k 
+Equations 
+Equation 2, Equation 6 
+Source of data 
+EBC (2020) Guidelines for the Certification of Biochar Based Carbon 
+Sinks 
+IPCC (2019) Appendix 4: Method for Estimating the Change in Mineral 
+Soil Organic Carbon Stocks from Biochar Amendments: Basis for 
+Future Methodological Development 
+Scientific studies, research papers, other credible documentation 
+Value applied 
+For high technology production facilities, project proponents must use 
+Table 4 in this methodology. 
+ 
+VM0044, v1.2 
+ 
+35 
+For low technology production facilities, project proponents must use a 
+conservative default value of 0.56 (Figure 4Ap.1 in IPCC, 2019) 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Biochar is a stable material that may be used for soil and non-soil 
+applications. As a material, it has a decay rate that must be accounted 
+for. This parameter considers how much of the original carbon will 
+remain in the biochar and may be accounted as a carbon sink after its 
+final application.  
+IPCC and EBC are internationally recognized and the data provided in 
+the guidelines are peer reviewed. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+None 
+ 
+Data / Parameter 
+GWPCH4 
+Data unit 
+tonnes CO2e per tonne CH4 (t CO2e/t CH4) 
+Description 
+Global warming potential of methane 
+Equations 
+Equation 9 
+Source of data 
+IPCC Fifth Assessment Report27 
+Value applied 
+28 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The VCS Standard requires that CH4 is converted to CO2e using the 
+100-year global warming potential derived from the most recent IPCC 
+Assessment Report. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Fe 
+Data unit 
+tonnes CH4 per tonne biochar (t CH4/t) 
+Description 
+Average methane emissions from producing one tonne of biochar in 
+year y in a low technology production facility 
+Equations 
+Equation 9 
+Source of data 
+Table 3 in Cornelissen et al. (2016) 
+Value applied 
+0.049 tCH4/tonne of biochar produced for unknown low technology 
+production facility (i.e., kiln) type 
+ 
+27 Intergovernmental Panel on Climate Change (2014). Climate Change 2014: Synthesis Report. Contribution of Working 
+Groups I, II and III to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change. R. K. Pachauri & 
+L. A. Meyer (Eds.). IPCC. Available at https://www.ipcc.ch/report/ar5/syr/ 
+ 
+VM0044, v1.2 
+ 
+36 
+If kiln type is known and represented in Table 3, corresponding values 
+may be used for Fe 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Methane emissions must be accounted for as methane is the main gas 
+released from low technology production facilities. The value of 
+methane emissions per tonne of biochar produced in a low technology 
+production facility is derived from peer reviewed literature and deemed 
+conservative.  
+Purpose of data 
+Calculation of project emissions 
+Comments 
+Use GWPCH4 value as described in the latest version of the VCS 
+Standard 
+ 
+Data / Parameter 
+Biomass categories and quantities used for selection of the baseline 
+scenario and production of biochar utilized in the project activity 
+Data unit 
+tonnes (t) on dry basis 
+Description 
+- 
+Category (e.g., bagasse, rice husks, empty fruit bunches, 
+agricultural waste);  
+- 
+Source (e.g., produced on-site, obtained from an identified 
+biomass residue producer, obtained from a biomass residue 
+market);  
+- 
+Fate in the absence of the project activity (see Appendix 2 for 
+detailed procedures);  
+- 
+Documentation with sustainability criteria compliance for 
+respective category as indicated in Table 1. 
+Explain and document transparently in the project description which 
+quantities of which biomass categories are used in which installation(s) 
+under the project activity and what their baseline scenario is. Include 
+the quantity of each category of biomass (tonnes). For selection of the 
+baseline scenario, at validation, an ex-ante estimation of these 
+quantities should be provided. 
+Equations 
+- 
+Source of data 
+On-site assessment of biomass categories and quantities 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use weight meters. Adjust by moisture content in order to determine 
+the quantity of dry biomass. 
+Frequency of 
+monitoring/recording 
+Data monitored continuously and aggregated at least monthly 
+QA/QC procedures to be 
+applied 
+Cross-check the measurements with an annual energy balance that is 
+based on purchased quantities and stock changes. 
+ 
+VM0044, v1.2 
+ 
+37 
+Purpose of data 
+Monitoring of eligible biomass categories and quantities used as 
+feedstock for production of biochar  
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+9.2 
+Data and Parameters Monitored  
+Data / Parameter 
+Mp,y 
+Data unit 
+tonnes (t) 
+Description 
+Total mass on a dry weight basis of biochar produced in production 
+facility p in year y 
+Equations 
+Equation 3 
+Source of data 
+On-site measurements 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use weighing scales. Adjust the moisture content in order to determine 
+quantity of dry weight biomass. 
+Frequency of 
+monitoring/recording 
+Monitored continuously, recorded at least monthly 
+QA/QC procedures to be 
+applied 
+Calibrate weighing scales as per manufacturer’s specifications or at 
+least every three years.  
+Amount of biochar applied must be cross-checked with sales receipts 
+and/or invoices or any other equivalent third-party evidence.  
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+Each biochar quantity should be weighed separately for each biochar 
+type t and each biochar production facility p.  
+Moisture content should be monitored for each batch of biochar type t. 
+The weighted average should be calculated for each monitoring period. 
+ 
+Data / Parameter 
+Mt,k,p,y  
+Data unit 
+tonnes (t) 
+Description 
+Mass on dry weight basis of biochar type t and application type k 
+produced at production facility p in year y 
+Equations 
+Equation 2, Equation 3, Equation 6, Equation 9 
+Source of data 
+On-site measurements 
+ 
+VM0044, v1.2 
+ 
+38 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use weighing scales. Adjust the moisture content in order to determine 
+quantity of dry weight biomass. 
+Frequency of 
+monitoring/recording 
+Monitored continuously, recorded at least monthly 
+QA/QC procedures to be 
+applied 
+Calibrate weighing scales as per manufacturer’s specifications or at 
+least every three years.  
+Amount of biochar applied must be cross-checked with sales receipts 
+and/or invoices or any other equivalent third-party evidence. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+Each biochar quantity should be weighed separately for each biochar 
+type t and each biochar production facility p.  
+Moisture content should be monitored for each batch of biochar type t. 
+The weighted average should be calculated for each monitoring period. 
+ 
+Data / Parameter 
+FCp,t,p 
+Data unit 
+Percent (%) 
+Description 
+Organic carbon content of biochar for each biochar type t produced in 
+production facility p per tonne of biochar, taken on a dry weight basis 
+Equations 
+Equation 2, Equation 6 
+Source of data 
+Laboratory material analysis 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Laboratory material analysis following IBI Biochar Testing Guidelines or 
+EBC Production Guidelines or other relevant guidelines on the 
+production of biochar is required to determine FCp values on a regular 
+basis. 
+Frequency of 
+monitoring/recording 
+In alignment with the IBI Biochar Testing Guidelines testing must be 
+performed:  
+• 
+Annually; or 
+• 
+After a material change in feedstock; or 
+• 
+After a material change in thermochemical production parameters;  
+whichever is more frequent. 
+QA/QC procedures to be 
+applied 
+Laboratory must be accredited and/or approved by the relevant 
+national agency to conduct required material analysis. 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+ 
+VM0044, v1.2 
+ 
+39 
+Comments 
+For low technology production, where organic carbon content of biochar 
+cannot be sampled in alignment with the required standards, use the 
+conservative values indicated in Table 4 as default values.  
+ 
+Data / Parameter 
+Tprod 
+Data unit 
+degrees Celsius (°C) 
+Description 
+Average annual production temperature during pyrolysis 
+Equations 
+N/A 
+Source of data 
+Data records of biochar production  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use instruments with recordable electronic signal (digital or analog). 
+Examples include thermocouple, thermoresistor or any other 
+instrument as prescribed by relevant international or national 
+standards.  
+Frequency of 
+monitoring/recording 
+Continuous, aggregated to annual averages 
+QA/QC procedures to be 
+applied 
+Periodic calibration against a primary device provided by an 
+independent accredited laboratory is mandatory. Calibration and 
+frequency of calibration is according to manufacturer’s specifications.  
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+N/A 
+Comments 
+The average production temperature at which pyrolysis occurs will 
+determine the stability of the biochar. It will be used to categorize the 
+biochar in accordance with Table 3 to determine PRde. 
+For low-technology production where measuring the temperature is not 
+feasible, or sampling of the organic carbon content of the biochar 
+according to the required standards is not possible, use the 
+conservative values indicated in Equation 7 as default values.  
+ 
+Data / Parameter 
+H:Corg 
+Data unit 
+Dimensionless 
+Description 
+Ratio of hydrogen to organic carbon 
+Equations 
+N/A 
+Source of data 
+Laboratory analysis 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Laboratory analysis following IBI Biochar Testing Guidelines or EBC 
+Production Guidelines 
+ 
+VM0044, v1.2 
+ 
+40 
+Frequency of 
+monitoring/recording 
+Each batch of biochar produced at the production facility 
+QA/QC procedures to be 
+applied 
+Laboratory must be accredited and/or approved by the relevant 
+national agency to conduct required material analysis. 
+Purpose of data 
+Used to demonstrate eligibility for use in soil applications. As per 
+applicability condition 10, biochar used in soils must have an H:Corg of 
+less than 0.7. 
+Calculation method 
+N/A 
+Comments 
+None 
+ 
+Data / Parameter 
+WSP 
+Data unit 
+Percent (%) 
+Description 
+Fraction of total waste heat utilized at biochar production facility p 
+Equations 
+N/A 
+Source of data 
+On-site records, estimated data from waste heat consumption in the 
+facility  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+As per most recent version of CDM TOOL09: Determining the Baseline 
+Efficiency of Thermal or Electric Energy Generation System.  
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+As per most recent version of CDM TOOL09: Determining the Baseline 
+Efficiency of Thermal or Electric Energy Generation System.  
+Purpose of data 
+To qualify and ensure that biochar is produced in a high technology 
+production facility.  
+Calculation method 
+N/A 
+Comments 
+See the definition of high technology production facility for the 
+conditions that must be met for the production facility to qualify as high 
+technology.  
+9.3 
+Description of the Monitoring Plan 
+The main objective of the monitoring is to prove the carbon sink from the final application of 
+biochar and to quantify the emissions resulting from the project scenario during the project 
+crediting period, prior to each verification. The project proponent must establish and apply 
+quality management procedures to manage data and information. Written procedures must be 
+ 
+VM0044, v1.2 
+ 
+41 
+established for each measurement stage outlining responsibility and timing requirements (e.g., 
+mass of biochar produced and production date).  
+The project proponent must develop and apply a monitoring plan according to ISO 14064-2 
+principles of transparency and accuracy that allows the quantification and proof of GHG 
+emissions at the three stages covered by this methodology: sourcing, production, and 
+application. 
+Due to the complexity and uniqueness of monitoring biochar end-use applications, this section 
+provides a list of resources that project developers may use for monitoring. Providing instruction 
+on the type of monitoring system to use is outside the scope of this methodology. 
+Geographic information 
+To prevent double counting of carbon benefits (e.g., carbon credits accounting for both the soil 
+organic carbon pool and for biochar application in soils), the final location of the site where the 
+carbon sink is created must be known. This applies to soil and non-soil applications. As per VCS 
+Standard rules, project location for non-AFOLU projects must be as follows: where there are a 
+large number of project activity instances (e.g., fields where biochar will be applied to soils), at 
+least one geodetic coordinate must be provided, together with sufficient additional geographic 
+information (with respect to the location of the instances) to enable sampling by the 
+validation/verification body.  
+Application type  
+For soil application, monitoring requires that all projects with soil end-use specify where the 
+biochar has been applied. As mentioned above, project proponent must provide at least one 
+geodetic coordinate for each instance.  
+For non-soil applications such as concrete or asphalt, the proof of application ends when the 
+biochar is mixed into long-lasting material. Similar to soil application, the project proponent 
+must provide at least one geodetic coordinate for each instance of the place where biochar was 
+applied to or mixed to. Appropriate monitoring methods (e.g., statistically validated lifetime 
+averages) must be used to ensure the proportion of the material containing biochar is still in 
+use and has not been converted to CO2.  
+Monitoring tools 
+To ensure that biochar would be applied either in soil or non-soil applications, the project 
+proponent must verify that the application takes place using, for example, the following:  
+tracking records, mobile or desktop applications, QR code, blockchain technology, non-fungible 
+token (NFT), GPS use-location coordinates, or any other tracking software that allows for chain 
+ 
+VM0044, v1.2 
+ 
+42 
+of custody record generation from the sourcing stage (i.e., waste biomass origin) to the end-use 
+application of biochar in soils.  
+Where measurement and monitoring equipment is used during biochar production (e.g., to 
+measure temperature), the project proponent must ensure that the equipment is calibrated 
+according to current best practice (e.g., relevant industry standards, manufacturer 
+specifications, or device supplier). Where a project proponent carries out a material laboratory 
+analysis of biochar, they must ensure it follows international standards such as the most recent 
+version of the IBI Biochar Testing Guidelines or EBC Production Guidelines 
+Data management 
+Quantitative sources of information and record keeping practices on biochar sourcing, 
+production, and application stages must be chosen. The project proponent must have an offsite 
+electronic back-up of all logged data. For example, monitoring data must provide information on 
+biochar batch number, quantity, type of application, geographic location, and proof that the 
+biochar will not be burned or pyrolyzed. The project proponent must provide access to all 
+platforms and make all evidence available to the third-party verifier.  
+ 
+The monitoring plan must contain as a minimum the following information: 
+1) A description of each monitoring task to be undertaken, and the technical 
+requirements therein; 
+2) Type of technology used to produce biochar; 
+3) Written logs of operation and maintenance of the project system; 
+4) Roles, responsibilities, and capacity of monitoring team and management. 
+QA / QC 
+Project proponents must also develop a QA/QC plan to add confidence that all measurements 
+and calculations have been made properly. QA/QC measures that may be implemented include, 
+but are not limited to:  
+1) Protecting monitoring equipment (sealed meters and data loggers) where 
+applicable;  
+2) Protecting records of monitored data (hard copy and electronic storage);  
+3) Checking data integrity on a regular and periodic basis;  
+4) Comparing current estimates with previous estimates to check data integrity; 
+5) Providing sufficient training to personnel to perform activities related to the sourcing, 
+production, and application of biochar. 
+ 
+VM0044, v1.2 
+ 
+43 
+All necessary documents must be collected and centrally stored by the project proponent and 
+be available for verification at any time. Documents and records must be stored in a secure and 
+retrievable manner for at least two years after the end of the project crediting period.

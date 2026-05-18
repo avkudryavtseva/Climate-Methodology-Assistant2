@@ -1,0 +1,272 @@
+7  
+QUANTIFICATION OF GHG EMISSION REDUCTIONS 
+ 
+Baseline and Project Emissions 
+7.1
+Baseline and project emissions are addressed simultaneously, whereby an emission reduction 
+value (specified in tonnes of CO2 reduced (ie, net of baseline and project emissions)) is assigned 
+as a function of the difference between the impact parameter (proxy variable) in the project and in 
+the crediting baseline for each emission source category (felling, skidding and hauling). Assigned 
+emission reductions, expressed on a per hectare basis, are then summed for the three emission 
+source categories, and multiplied by the number of hectares in the harvest area in year t.  
+Step 1: Determine Harvest Area 
+ 
+The harvest area in year t should be delineated on the basis of paper maps or GIS files specifying 
+the actual harvest area in year t. From this area, the project proponent must delineate and 
+exclude any areas where timber harvest impacts will not happen for any reason (eg, due to 
+geographic features, low stocking, set asides or poor planning). The resulting area is specified in 
+hectares to produce parameter At.  
+ 
+Step 2: Calculate Emission Reductions Based on Measured Impact Parameters 
+ 
+Calculate emission reductions for each emission source category based on measured impact 
+parameters. Each equation below calculates emission reductions in tCO2/ha (the dependent 
+variable) as a function of (ie, fAGC) a specific impact parameter (the independent variable). 
+Functions and corresponding units are provided in the applicable region-specific RIL-C 
+performance method module. 
+ERfell_AGC,t = fAGC (FELLt) 
+(1) 
+ERskid_AGC,t = fAGC (SKIDt) 
+(2) 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+12 
+ 
+ERhaul_AGC,t = fAGC (HAULt) 
+(3) 
+ERfell_BGB,t = fBGB (FELLt) 
+(4) 
+ERskid_BGB,t = fBGB (SKIDt) 
+(5) 
+ERhaul_BGB,t = fBGB (HAULt) 
+(6) 
+Where: 
+FELLt 
+= Felling impact parameter measured in year t (unit specified in performance 
+module) 
+SKIDt 
+= Skidding impact parameter measured in year t (unit specified in performance 
+module) 
+HAULt 
+= Hauling impacts measured in year t (unit specified in performance module) 
+ERfell_AGC,t 
+= Emission reductions from aboveground carbon related to felling in year t  
+(t CO2e/ha) 
+ERskid_AGC,t 
+= Emission reductions from aboveground carbon related to skidding in year t  
+ 
+(t CO2e/ha) 
+ERhaul_AGC,t 
+= Emission reductions from aboveground carbon related to hauling in year t  
+ 
+(t CO2e/ha) 
+ERfell_BGB,t 
+= Emission reductions from belowground biomass related to felling in year t  
+ 
+(t CO2e/ha ) 
+ERskid_BGB,t 
+= Emission reductions from belowground biomass related to skidding in year t  
+ 
+(t CO2e/ha ) 
+ERhaul_BGB,t 
+= Emission reductions from belowground biomass related to hauling in year t  
+ 
+(t CO2e/ha ) 
+ 
+ 
+ 
+t 
+= 1, 2, 3, …t time elapsed since the start of project activity (years) 
+Step 3: Sum Emission Reductions   
+Sum all emission reductions to determine the combined emission reductions from above- and 
+belowground biomass.  
+For any time t, if any impact parameter is greater than or equal to the crediting baseline for that 
+year, parameters RILC,AGC,t and RILC,BGB,t must be set to zero. 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+13 
+ 
+ 
+RILCAGC,t = ERfell_AGC,t + ERskid_AGC,t + ERhaul_AGC,t 
+(7) 
+ 
+RILCBGB,t = ERfell_BGB,t + ERskid_BGB,t + ERhaul_BGB,t  
+ 
+ 
+(8) 
+ 
+If ERFellt and/or ERSkidt and/or ERHault < 0 then RILCAGCt = 0 and RILCBGBt = 0.   
+ 
+ Where: 
+RILC,AGC,t 
+= Combined emission reductions from aboveground carbon from RIL-C in year t  
+(t CO2e/ha) 
+ 
+RILC,BGB,t 
+= Combined emission reductions from belowground biomass from RIL-C in year t  
+(t CO2e/ha) 
+ERfell_AGC,t 
+= Emission reductions from aboveground carbon related to felling in year t (t 
+CO2e/ha) 
+ 
+ERskid_AGC,t 
+= Emission reductions from aboveground carbon related to skidding in year t   
+(t CO2e/ha) 
+ 
+ERhaul_AGC,t 
+= Emission reductions from aboveground carbon related to hauling in year t  
+(t CO2e/ha) 
+ 
+ERfell_BGB,t 
+= Emission reductions from belowground biomass related to felling in yer t  
+(t CO2e/ha) 
+ERskid_BGB,t 
+= Emission reductions from belowground biomass related to skidding in year t  
+(t CO2e/ha) 
+ 
+ERhaul_BGB,t 
+= Emission reductions from belowground biomass related to hauling in year t  
+(t CO2-e/ha) 
+t 
+= 1, 2, 3 …t time elapsed since the start of project activity (years) 
+ 
+Step 4: Determine Emission Reductions by Harvest Area 
+ 
+Emissions from aboveground carbon result from transfer of aboveground live biomass to the 
+dead wood pool followed by steady decomposition.  
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+14 
+ 
+Emission reductions from the aboveground carbon pool are determined either by applying an 
+applicable dead wood decomposition rate, using equation 9a, or by applying a 10-year linear 
+decay rate, using equation 9b.  
+ 
+Emission reductions from the belowground biomass pool must apply a 10-year linear decay rate 
+(in both equations 9a and 9b). Thus, for a given year t, annual emission reductions from above- 
+and belowground carbon are summed across areas previously harvested. 
+𝐶𝑅𝑅𝑅,𝑡= ∑
+𝐴𝑡∗𝑅𝑅𝑅𝑅𝐴𝐴𝐴,𝑡∗(1 −𝐾)𝑡−𝑡∗∗𝐾
+𝑡
+𝑡=1
++ ∑
+𝐴𝑡∗
+𝑡
+𝑡−10
+𝑅𝑅𝑅𝑅𝐵𝐵𝐵,𝑡∗(
+1
+10) 
+ 
+(9a) 
+ 
+Where: 
+CRIL,t 
+= Total emission reductions at time t (t CO2e) 
+RILC,AGC,t 
+= Combined  emission reductions from aboveground carbon from RIL-C in year t 
+(t CO2e/ha) 
+RILC,BGB,t 
+= Combined emission reductions from belowground biomass from RIL-C in year t 
+(t CO2e/ha) 
+K 
+= Dead wood annual decomposition rate (percent/year) 
+At 
+= Harvest area in year t (ha) 
+t 
+= 1, 2, 3… t time elapsed since the start of the RIL project activity (years) 
+ 
+𝐶𝑅𝑅𝑅,𝑡= ∑
+𝐴𝑡∗𝑅𝑅𝑅𝑅𝐴𝐴𝐴,𝑡∗(
+1
+10)
+𝑡
+𝑡−10
++ ∑
+𝐴𝑡∗
+𝑡
+𝑡−10
+𝑅𝑅𝑅𝑅𝐵𝐵𝐵,𝑡∗(
+1
+10) 
+ 
+ 
+(9b) 
+ 
+Where: 
+CRIL,t 
+= Total emission reductions at time t (t CO2e) 
+RILC,AGC,t 
+= Combined  emission reductions from aboveground carbon from RIL-C in year t 
+(t CO2e/ha) 
+RILC,BGB,t 
+= Combined emission reductions from belowground biomass from RIL-C in year t 
+(t CO2e/ha) 
+At 
+= Harvest area in year t (ha) 
+t 
+1, 2, 3, …t time elapsed since the start of the RIL project activity (years) 
+Ex-ante Projections of GHG Emission Reductions 
+At project validation and 10 year baseline re-assessment, an ex-ante estimate of GHG emission 
+reduction must be produced in accordance with VCS rules. The projection will apply all 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+15 
+ 
+calculations outlined above, incorporating impact parameters and functions to estimate emission 
+reductions (ie, fAGC and fBGB) provided in the applicable region-specific RIL-C performance method 
+module. Anticipated area harvested per year (At) will be referenced from annual authorized 
+harvest areas specified in the project management authorization; it is understood that these areas 
+may differ from the areas actually harvested ex post.  
+For each impact parameter (eg, FELLt) that will be addressed through the project activity and for 
+each year, the project proponent must assume a conservative level of effectiveness achieved, as 
+a percent improvement from the crediting baseline value provided in the applicable region-
+specific RIL-C performance method module. The anticipated percent improvement is a value 
+<1.0, and must be justified referencing specific operational management procedures and/or 
+infrastructure to be put in place during project implementation.  
+For example, if a 30% improvement (indicating reduced emissions) from baseline is anticipated 
+for a given impact parameter, and assuming that level of improvement meets the additionality 
+benchmark, then multiply the crediting baseline value of the impact parameter by (1 – 0.30) = 
+0.70. The resulting value of the impact parameter is the basis for calculating emission reductions 
+from the crediting baseline. Note that if a given impact parameter is constructed to increase from 
+the baseline value with a decline in associated emission levels (rather than decline from baseline 
+value with declining emissions as assumed above), then the example equation above would be 
+modified accordingly.  
+ 
+Leakage 
+7.2
+Since the applicability conditions do not allow for changes in harvest levels, it can be 
+conservatively assumed that leakage is zero because there is no difference in harvest levels 
+between the baseline and project scenarios.   
+ 
+Summary of GHG Emission Reduction and/or Removals 
+7.3
+Uncertainty 
+Sources of uncertainty include uncertainty with respect to the calculation of emission reductions 
+from impact parameters, and uncertainty with respect to estimates of impact parameters. These 
+two sources of uncertainty are addressed by setting demonstrably conservative emission 
+reductions associated with each impact parameter and through imposed minimum sampling 
+intensity requirements for estimation of impact parameters, all established in the applicable 
+region-specific RIL-C performance method module. Therefore, no uncertainty deduction is 
+necessary. It is assumed that project area boundaries, At, are known exactly. 
+Net GHG emission reductions are calculated as follows: 
+𝐸𝐸𝑡= 𝐶𝑅𝑅𝑅,𝑡    
+(10) 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+16 
+ 
+Where: 
+ERT 
+= Net GHG emission reductions in year t (t CO2e) 
+CRIL,t 
+= Total emission reductions at time t (t CO2e)  
+ 
+Emission reductions eligible for issuance as Verified Carbon Units (VCUs) are calculated by 
+subtracting the AFOLU pooled buffer account contribution from ERt, referencing the project’s risk 
+rating at time t using the most recent version of the VCS AFOLU Non-Permanence Risk Tool.

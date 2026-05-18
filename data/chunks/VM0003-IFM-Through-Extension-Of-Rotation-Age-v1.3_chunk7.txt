@@ -1,0 +1,8 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. 
+The project proponent must test the additionality of the project using the current CDM Tool for 
+the demonstration and assessment of additionality. In application of this tool, the project 
+scenario as described ex-ante using this methodology and monitored using this methodology 
+must be evaluated alongside the baseline scenario identified in Section 6.3. Where a financial 
+analysis or a demonstration of barriers does not preclude the project scenario, the project is 
+considered not additional.

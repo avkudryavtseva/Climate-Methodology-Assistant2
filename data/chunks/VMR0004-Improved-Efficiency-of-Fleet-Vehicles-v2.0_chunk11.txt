@@ -1,0 +1,147 @@
+10 REFERENCES 
+Davies, T. 2003. Calculation of CO2 Emissions from Fuels, Exeter.  
+Geotab Team, 2021. “What Is Telematics?” Accessed 26 March 2021. 
+https://www.geotab.com/blog/what-is-telematics/ 
+ 
+ 
+ 
+ 
+ 
+VMR0004, v2.0 
+ 
+24 
+APPENDIX 1: ENERGY EFFICIENCY 
+MEASURES APPLICABLE UNDER THE 
+METHODOLOGY 
+Idling stop device 
+Refers to the action of turning off the vehicle engine and thus preventing idling and the associated fuel 
+consumption that would otherwise have occurred while idling, in absence of the project activity. Anti-
+idling devices may also include techniques to avoid use of the base engine during extended idle by 
+substituting alternative sources of heating, ventilation, or air conditioning (HVAC) and electricity during 
+rest stops. 
+Eco-drive system 
+Includes equipment that monitors vehicle and driver performance and provides real-time feedback to 
+drivers on efficient driving behavior 
+Tire-rolling resistance improvements 
+Rolling resistance can be reduced by avoiding under-inflation of existing tires (e.g., through automatic 
+tire inflation, ATI), using special low rolling resistance tires, or substituting one wide tire for a pair of 
+dual tires on trucks. 
+Air conditioning system improvements 
+Enhanced air conditioning systems can decrease base engine load requirements from mobile air 
+conditioning systems by replacing fixed displacement compressors (FDCs) with externally controlled 
+variable displacement compressors (VDCs), or using improved control systems, condensers, and 
+evaporators. 
+Use of low-viscosity oils 
+Low-viscosity engine lubricants are made from synthetic or mineral oil blends for the purpose of 
+reducing internal engine friction. Low-viscosity oils based on SAE viscosity classes are 0W30 and 
+5W30. 
+Aerodynamic drag reduction 
+Aerodynamic drag of trucks can be significantly reduced by: 
+• 
+Installing add-on devices to improve the vehicle profile: 
+o 
+Truck tractor options include cab top deflector, sloping hood, and cab side flares. 
+o 
+Truck side and underside options include closing and covering the gap between tractor and 
+trailer (or van), aerodynamic bumper, underside air baffles, and wheel well covers. 
+• 
+Installing pneumatic blowing systems that blow air from slots at the rear of heavy-duty vehicle 
+trailers in order to smooth air flow over the trailer surfaces and reduce aerodynamic drag. 
+ 
+VMR0004, v2.0 
+ 
+25 
+• 
+Installing boat tail plates mounted to the end of the trailer to reduce the truck’s wake. 
+• 
+Improving vehicle load profile. 
+Transmission improvements 
+Improving transmission systems by using high-efficiency transmission technologies (e.g., continuously 
+variable transmission (CVT) and/or low-viscosity transmission lubricants) 
+Retrofits that improve engine or combustion efficiency or both 
+Retrofits involve direct installation of technologies onto the vehicle/engine that improve the efficiency 
+of engine operation and fuel combustion by, for example, tapping into spare unused kinetic energy, 
+solar energy, or thermo-electric generation, or generating hydrogen on board through electrolysis (e.g., 
+electro-catalytic efficiency technologies). 
+Other energy efficiency improvement measures 
+Such other measures must have been demonstrated to lead to fuel savings in independent third-party 
+studies. 
+ 
+ 
+VMR0004, v2.0 
+ 
+26 
+APPENDIX 2: TRANSITION TO NET ZERO 
+AND MITIGATING CARBON LOCK-IN RISK 
+This appendix provides the background and rationale for aligning the project activity with net zero goals, 
+as outlined in Section 8.1.3. The Paris Agreement establishes a global target to achieve net zero GHG 
+emissions by 2050, requiring substantial changes across key sectors such as energy, transportation, 
+and agriculture. Achieving this target requires significant reductions in GHG emissions and 
+enhancement of both natural and technological carbon sinks. 
+A key consideration in this alignment is the risk of carbon lock-in, which occurs when investments are 
+made in technologies that have extended lifetimes and are reliant on fossil fuels. Such investments, 
+like the acquisition of new fossil fuel vehicles, can delay the transition to low-carbon alternatives. Given 
+that vehicles have an average lifespan of approximately 15 years, incorporating new fossil fuel vehicles 
+into the project activity after 2035 would conflict with net zero transition goals. To mitigate this risk, no 
+new fossil fuel vehicles should be added to the fleet beyond this date, as doing so would extend the 
+operational use of high-emission technologies beyond the 2050 net zero target. 
+Moreover, project activities must align with national and regional net zero plans and decarbonization 
+strategies to ensure that they contribute to broader efforts toward achieving these targets. This 
+includes adhering to specific timelines and milestones outlined in national or regional net zero plans. 
+Aligning with these strategies supports the global net zero goal and helps prevent the risk of carbon 
+lock-in, ensuring that the project activity does not result in extended reliance on fossil fuel-based 
+vehicles. 
+By adhering to the guidelines in Section 8.1.3, project proponents can ensure that their activities are 
+compatible with the long-term objectives of reducing GHG emissions and advancing the transition to a 
+low-carbon future. 
+ 
+ 
+VMR0004, v2.0 
+ 
+27 
+APPENDIX 3: UNCERTAINTY ASSESSMENT 
+The uncertainty associated with this methodology was assessed in accordance with the 2006 IPCC 
+Guidelines for National Greenhouse Gas Inventories, utilizing Monte Carlo simulation. The fuel emission 
+factors (EFCO2,x,y) are considered to have low uncertainty during project implementation, with an 
+assumed uncertainty ranging between 1% and 2% for the aggregated fleet. Activity level (ALi,x,y), and 
+specific fuel/electricity consumption (SFCi,x,y,  SECi,y) are required to comply with a 5% uncertainty and 
+are likely to have lower uncertainty for projects using telematics. The contribution of these data to the 
+overall uncertainty is small. The relationship and change between fuel usage and activity level was 
+identified as the most relevant factor and must comply with a deviation of less than 20% from the 
+mean value at the lower boundary of the 90% confidence interval.  
+Normal distributions were assumed for all modeled variables. 
+The Monte Carlo simulation was performed with 500 iterations, resulting in an aggregated uncertainty 
+of around 20% for emission reductions. In line with the VCS Methodology Requirements, a 
+conservativeness deduction was calculated using the following formula: 
+𝐷𝑖𝑠𝑐𝑜𝑢𝑛𝑡 𝑓𝑎𝑐𝑡𝑜𝑟=
+𝑈𝑛𝑐𝑒𝑟𝑡𝑎𝑖𝑛𝑡𝑦
+𝑡𝛼=10%
+× 𝑡𝛼=66.6%    
+(8) 
+Where: 
+Discount factor 
+= 
+Discount factor to be applied for calculating the conservativeness 
+deduction (%) 
+Uncertainty 
+= 
+Half-width of the 90% confidence interval as a percentage of the 
+mean estimate (%) 
+tα=10% 
+= 
+t-value for the two-sided 90% confidence interval, approximately 
+1.6449 (dimensionless) 
+tα=66.6% 
+= 
+t-value for a one-sided 66.67% confidence interval, approximately 
+0.4307 (dimensionless) 
+The calculation is as follows: 
+𝐷𝑖𝑠𝑐𝑜𝑢𝑛𝑡 𝑓𝑎𝑐𝑡𝑜𝑟= 20%
+1.6449 × 0.4307 =  5% 
+ 
+Therefore, the conservativeness deduction was determined as 1 − Discount factor = 95% and is 
+included in Equation (7). 
+ 
+ 
+ 
+VMR0004, v2.0

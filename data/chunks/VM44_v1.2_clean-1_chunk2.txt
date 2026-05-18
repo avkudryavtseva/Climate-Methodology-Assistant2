@@ -1,0 +1,40 @@
+1 SUMMARY DESCRIPTION 
+Additionality and Crediting Method 
+Additionality 
+Activity Method 
+Crediting Baseline 
+Project Method 
+ 
+This globally applicable methodology provides criteria and procedures for the quantification of 
+GHG benefits following the adoption of improved waste handling and disposal (WHD) of waste 
+biomass. The project activity consists of three parts: 1) sourcing waste biomass, 2) producing 
+biochar, and 3) utilizing biochar in soil or non-soil application.  
+The project activity must install and operate a new (greenfield) biochar production facility(ies) 
+where GHG benefits are credited only for the biochar that is utilized in the eligible soil and non-
+soil applications. The start date of the project is defined as the first instance of biochar 
+production. 
+The baseline scenario is the continuation of pre-project WHD where the waste biomass would 
+either be left to decay or be combusted for purposes other than energy. This methodology 
+applies the most conservative and operational approach by not considering emission 
+reductions from changing the WHD practices at the sourcing stage. Thereby, the default net 
+GHG emissions in the baseline scenario at the sourcing stage are considered zero (the most 
+conservative assumption).  
+This methodology uses a standardized approach for the demonstration of additionality, 
+following an activity method with the processing of waste biomass to biochar as the basis for a 
+positive list. This approach stipulates that the total mass of waste biomass converted to biochar 
+amounts to five percent or less of the total mass of waste biomass available worldwide. 
+The methodology employs a comprehensive monitoring and accounting framework that 
+captures the GHG impacts in the three important stages of a biochar value chain: sourcing, 
+production, and application (i.e., the use of biochar in soil or non-soil applications). The 
+methodology also includes a section to address permanence of biochar, including decay rate 
+and reversal risk from natural and non-natural risks (see Section 8.4). 
+Monitoring must be conducted for both the baseline and project scenarios. For emissions 
+associated with the production stage, calculations are based on one or more monitored biochar 
+production variables according to the parameters described (e.g., production temperature and 
+biochar material properties), or use default values detailed in the methodology, according to 
+the type of production technology. Eligible projects must document and prove the final 
+application of biochar (see Section 9).  
+ 
+VM0044, v1.2 
+ 
+5

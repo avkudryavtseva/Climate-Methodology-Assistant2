@@ -1,0 +1,98 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+This section presents five approaches to calculating GHG emission reductions (reductions) and 
+related monitoring parameters: 
+1) adjusted consumption approach; 
+2) pre-and post-retrofit audit approach; 
+3) control group approach; 
+4) deemed savings approach; and  
+5) mobile homes approach.  
+Equations required to calculate reductions under each approach and monitoring parameters 
+applicable to each approach are listed in this section.  
+Reductions are calculated directly under each approach; in other words, baseline and project 
+emissions are not calculated separately under the methodology. This method results in a 
+simplified and accurate estimation of project emissions normalized for weather and electricity 
+correction factors. Leakage is calculated separately under each approach. 
+Category A. All energy retrofits: calculation of the reductions and monitoring must be based on 
+either:  
+1) The adjusted consumption approach;  
+2) The pre- and post-retrofit audit approach; or 
+3) The control group approach.  
+Category B. Efficiency enhancements of the building envelope and central heating/cooling: 
+calculation of the reductions and monitoring must be based on either:  
+1) The adjusted consumption approach;  
+2) The pre- and post-retrofit audit approach; or 
+3) The control group approach.  
+In Category B, electricity must only be included in the calculation of reductions when it is a 
+heating or cooling source within the building or dwelling.  
+Category C. Appliance replacement: calculation of the reductions and monitoring must be 
+based on:  
+1) The deemed savings approach. 
+Category D. Replacement of a mobile home: calculation of the reductions and monitoring must 
+be based on either:  
+ 
+VM0008, v1.2 
+23 
+1) The adjusted consumption approach;  
+3) The control group approach; or  
+5) The mobile homes approach. 
+8.1 
+Adjusted Consumption Approach 
+In the adjusted consumption approach, measured energy consumption pre-retrofit, the baseline 
+consumption, must be corrected for changes in electricity demand over time and adjusted for 
+heating/cooling degree days using an electricity correction factor (ECF) and heating/cooling 
+degree day correction factors (HDDCF or CDDCF as applicable). A sample may be used to 
+measure energy consumption pre-retrofit. Project consumption of fuel and electricity must be 
+subtracted from the adjusted baseline consumption. The result must be multiplied by an 
+emission factor for the fuel or electricity used in the baseline. A control group of non-
+weatherized, or non-retrofitted, dwellings must be monitored as a quality assurance measure.  
+Reductions in the adjusted consumption approach must be calculated as follows: 
+ܧܴ௬= ∑
+(ܧ݈݁ܿ௕,௜∗ܧܥܨ௬∗ܥܦܦܥܨ௬−ܧ݈݁ܿ௣,௬,௜) ∗ܧ݈݁ܿ஼ை2 +
+ூ
+௜=௟
+∑
+(ܨ௕,௜,௝∗
+ூ,௃
+௜,௝=1
+ܪܦܦܥܨ௬−ܨ௣,௬,௜,௝) ∗ܥ݈ܽ௝∗ܨ஼ை2௝−ܮ௬  
+(5) 
+Where:  
+ERy 
+= Reductions in year y (t CO2e/yr) 
+I 
+= Dwelling 
+Elecb,i 
+= Electricity consumed in the year prior to project implementation for dwelling i 
+(baseline consumption) (kWh)14 
+Elecp,y,i   
+= Electricity consumed by the project in year y for dwelling i (project consumption) 
+(kWh) 
+ECFy 
+= Electricity correction factor for year y to be applied to the baseline 
+CDDCFy 
+= Cooling degree days correction factor for year y 
+HDDCFy 
+= Heating degree days correction factor15 for year y 
+Fb,i,j 
+= Fuel type j consumed in the year prior to project implementation for dwelling i in 
+the appropriate mass or volume unit (baseline consumption) 
+Fp,y,i,j 
+= Fuel type j consumed by the project in year y for dwelling i in the appropriate 
+mass or volume unit (project consumption) 
+Calj 
+= Calorific value of fuel type j (GJ/mass or volume) 
+ElecCO2 
+= Grid emission factor (t CO2e/kWh) 
+FCO2,j 
+= CO2 emission factor per unit of energy of fuel type j (t CO2e/GJ) 
+Ly 
+= Leakage emissions in year y (tCO2/yr) 
+ 
+14 If multiple dwellings within a single building are served by a single meter, the electricity consumption unit must change to 
+kWh/m2 and the equation must be multiplied by the area of each individual dwelling. Consequently, the area of each dwelling 
+must be recorded and included in the monitoring parameters. 
+15 When fossil fuel is the cooling source the CDDCF must replace the HDDCF in the equation. Conversely, when electricity is 
+the heating source the HDDCF must replace the CDDCF in the equation.  
+ 
+VM0008, v1.2

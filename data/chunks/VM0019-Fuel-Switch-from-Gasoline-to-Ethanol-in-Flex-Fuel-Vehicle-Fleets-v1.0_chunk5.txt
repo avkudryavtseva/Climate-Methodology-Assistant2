@@ -1,0 +1,84 @@
+5 
+PROJECT BOUNDARY 
+The project boundary encompasses flex-fuel vehicles from the project commercial fleets. The 
+project area includes all the gas stations used by the project commercial fleets as a part of the 
+project activity. 
+The only emission source included in both the baseline and project scenario is the gasoline 
+consumption by the commercial fleets within the project boundary4: 
+ 
+ 
+ 
+                                                          
+4  This approach is the same used in AM0090. 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 10
+ 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Gasoline 
+Consumption 
+CO2 
+Yes 
+Main emission source. 
+CH4 
+No 
+Excluded for simplification. This is conservative. 
+N2O 
+No 
+Excluded for simplification. This is conservative. 
+Project 
+Gasoline 
+Consumption 
+CO2 
+Yes 
+Main emission source. 
+CH4 
+No 
+Excluded for simplification. This is conservative. 
+N2O 
+No 
+Excluded for simplification. This is conservative. 
+ 
+Stratification of the project area into the project regions 
+In order to guarantee the accuracy and precision of the baseline emissions calculation, a 
+stratification of the project region shall be carried out. Stratification is conducted ex ante and 
+remains fixed for the whole project crediting period. It shall be based on publicly available data.   
+Stratification of the project area is conducted through a multivariable method that aims at 
+classifying a sample of subjects (or objects) on the basis of a set of measured variables. The 
+subjects are classified into a number of different groups in a way that similar subjects are placed 
+in the same group. The obligatory variables that shall be included in the regional grouping of the 
+project are fuel availability, prices and regulatory framework. Additional optional variables can be 
+proposed by the project proponent and shall be justified.  
+The use of hierarchical methods (agglomerative or divisive) is suggested as the most suitable 
+option for regional grouping of the project, considering the obligatory variables. Such methods 
+include different approaches to define the distance that is used to establish the regional groups, 
+such as Ward method (which minimizes the variance inside each group), single linkage (where 
+the distance between two groups is the minimum of the distances of all pairs of patterns drawn 
+from the two groups), complete linkage (where the distance between two groups is the maximum 
+of all pairwise distances between patterns in the two groups), etc. Still, the project proponent can 
+suggest application of non-hierarchical methods5 (also known as k-means grouping methods) 
+along with justification of the choice.  
+The project proponent shall select a distance measure (e.g., Euclidean distance) and justify why it 
+is the most appropriate to determine similarity between regions in the project activity.  
+For both definition of the regional grouping method and distance measure to be applied by a 
+project activity, the Validation/Verification Body has the authority to decide whether they are the 
+most suitable and proper for the regional grouping process. 
+Therefore, a regional group is a subdivision of the project activity region, defined by its features of 
+fuel availability, price, regulatory framework and other additional optional variables. The baseline 
+and additionality assessments shall be conducted for each of the regional groups separately. 
+                                                          
+5  In these methods the desired number of regional groups is specified in advance and the ’best’ solution is 
+chosen. 
+VM0019, Version 1 
+Sectoral Scope 7 
+ 
+ 
+ 
+Page 11

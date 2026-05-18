@@ -1,0 +1,40 @@
+59 
+DOCUMENT HISTORY  
+ 
+Version 
+Date 
+Comment 
+v1.0 
+05 Apr 2021 
+Initial version  
+v1.1 
+23 Dec 2024 
+Minor revision to VM0043, which encompasses: 
+• 
+Inclusion of a discount factor for upstream displacement  
+• 
+Separation of removals and reductions 
+• 
+Expansion of the applicability to include pre-cast concrete products 
+• 
+Correction to Equation 5 
+• 
+Inclusion of procedure in case the electricity consumption for CO2 
+injection is not available or cannot be measured separately 
+• 
+Inclusion of requirements related to the source of CO2 
+• 
+Revisions to the definitions of “Precast concrete” and “Supplementary 
+Cementitious Material (SCM)” and the addition of a definition of 
+“Cement replacement” 
+• 
+Update to the cement production and market penetration values in 
+Appendix-I 
+• 
+Update the approach to define, categorize and test individual mix 
+designs 
+• 
+Update the testing procedure to determine baseline cement quantity 
+• 
+Methodology renamed to VM0043 CO2 Utilization in Concrete 
+Production

@@ -1,0 +1,102 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS 
+8.1 
+Baseline Emissions 
+8.1.1 General Procedures 
+The same procedure for quantifying emissions and carbon stocks must be followed ex ante and 
+ex post. For parameters monitored after project initiation, guidance is given in the parameter 
+tables of the relevant modules for the values that must be used in ex ante calculations. 
+The baseline of the project activity is estimated ex ante. Ex ante baseline estimations are used in 
+the ex ante and ex post estimation of net carbon stock changes and greenhouse gas emission 
+reductions. 
+The relevant activity modules (e.g., AUDef) provide methods for estimating net baseline carbon 
+stock changes and greenhouse gas emissions. 
+8.1.2 Baseline Reassessment and Transition to VM0048 
+Where projects have verified using VM0009 prior to their transition to VM0048, project 
+proponents must follow the provisions set out in VM0009 to revise the baseline emissions model 
+(see Section 6.20 of VM0009, v3.0 or equivalent section in the most recent version of the 
+methodology). 
+ 
+VM0048, v1.0 
+12 
+Where, after baseline reevaluation, the revised baseline emissions model predicts fewer GHG 
+emission reductions than VCUs issued under the previous model, the project must compensate 
+for this difference by one of the following methods:  
+1) Cancelation of VCUs from the project in the project proponent’s Verra Registry account 
+that have not been used for offsetting purposes (“active VCUs”), or of already issued 
+active VCUs where the project proponent gains the consent of the current owner, 
+and/or 
+2) Replacement of the emission reductions through immediate cancelation from 
+subsequent issuances of VCUs to the project. The deduction may be distributed over 
+more than one verification period provided a deduction plan has been submitted to and 
+approved by Verra.   
+Projects must describe the applicable calculations as a project description deviation in the first 
+monitoring report submitted after transitioning to VM0048. The validation/verification body must 
+assess the calculations and ensure that a deduction plan, where relevant, has been approved by 
+Verra. 
+8.2 
+Project Emissions 
+The same procedure for project emissions must be followed ex ante and ex post. For parameters 
+monitored after project initiation, guidance is given in the parameter tables of the relevant 
+modules for ex ante calculations. 
+Methods for estimating net carbon stock changes and GHG emissions in the project scenario are 
+provided in the relevant activity modules (e.g., AUDef). 
+8.3 
+Leakage 
+Emissions from different leakage sources must be estimated unless deemed de minimis: 
+1) Activity-shifting leakage; 
+2) Market-effect leakage; and 
+3) Emissions from leakage prevention activities.  
+The relevant activity modules specify the leakage sources that must be estimated. The 
+significance of leakage and carbon pools must be determined using Appendix 1 of this 
+methodology.  
+The relevant activity modules (e.g., AUDef) provide methods for estimating net carbon stock 
+changes and GHG emissions due to activity-shifting leakage. 
+Leakage due to market effects must be considered using LK-ME. Market effects must be 
+considered where the project leads to decreased timber, fuelwood or charcoal production. 
+ 
+VM0048, v1.0 
+13 
+Where leakage prevention activities result in significant increases in emissions from carbon stock 
+changes, biomass burning and/or increased fertilizer usage,3 any increase in GHG emissions 
+associated with these activities must be accounted for following the relevant activity modules 
+(e.g., AUDef), unless deemed de minimis. 
+Leakage prevention activities may lead to an increase in the combustion of fossil fuels. However, 
+any increase in emissions because of the increased combustion of fossil fuels is considered de 
+minimis and does not need to be quantified or reported. 
+Where leakage prevention leads to a significant increase in fertilizer use, module E-NA must be 
+used. 
+Leakage prevention must not include the flooding of agricultural lands (e.g., for new rice paddies) 
+nor the creation of livestock feedlots or manure lagoons. Leakage prevention must not include 
+the drainage of peatland. 
+The list of leakage sources with appropriate justification must be presented in the project 
+description. 
+8.4 
+Net GHG Emission Reductions 
+The project proponent must present conservative ex ante estimations of the project activity's 
+total net GHG emissions reductions. 
+Refer to the relevant accounting modules and the parameter tables within these modules for 
+instructions on ex ante estimations of specific parameters. 
+The potential number of Verified Carbon Units (VCUs) for the monitoring period t is estimated as 
+follows: 
+끫뢒끫뢒끫뢒끫룂= 끫뢒끫뢒끫뢒끫롨끫롨끫롨끫롨끫롨+ 끫뢒끫뢒끫뢒끫롨끫롨끫롨끫롨끫롨+ 끫뢒끫뢒끫뢒끫롨끫롨끫롨끫롨끫롨 
+(1) 
+Where: 
+VCUt 
+= Number of potential Verified Carbon Units at year t = t2 − t1 (VCU) 
+VCUAUDef 
+= Number of potential Verified Carbon Units from unplanned deforestation at year 
+t = t2 − t1 (VCU) 
+VCUAPDef 
+= Number of potential Verified Carbon Units from planned deforestation at year 
+t = t2 − t1 (VCU) 
+ 
+3  Potentially as part of tree planting, aquacultural intensification, agricultural intensification, fertilization, fodder 
+production, other measures to enhance cropland and/or grazing land areas, leakage management zones or a 
+combination of these 
+ 
+VM0048, v1.0 
+14 
+VCUAUDeg 
+= Number of potential Verified Carbon Units from unplanned forest degradation at 
+year t = t2 − t1 (VCU)

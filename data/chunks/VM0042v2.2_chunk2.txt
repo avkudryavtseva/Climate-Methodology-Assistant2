@@ -1,0 +1,36 @@
+2 SOURCES 
+This methodology is based on the following methodologies, modules, and tools: 
+• 
+VM0017 Adoption of Sustainable Agricultural Land Management, v1.0 
+• 
+VM0022 Quantifying N2O Emissions Reductions in Agricultural Crops through Nitrogen 
+Fertilizer Rate Reduction, v1.1 
+• 
+VM0026 Methodology for Sustainable Grassland Management, v1.1 
+• 
+VMD0054 Module for Estimating Leakage from ARR Activities, v1.0 
+• 
+VT0008 Additionality Assessment, v1.0 
+• 
+VT0009 Combined Baseline and Additionality Assessment, v1.0 
+• 
+VT0014 Estimating Organic Carbon Stocks Using Digital Soil Mapping, v1.0 
+ 
+VM0042, v2.2 
+ 7 
+ 
+ 
+This methodology uses the most recent versions of the following Clean Development 
+Mechanism (CDM) methodologies and tools: 
+• 
+AR-TOOL14 Methodological Tool: Estimation of Carbon Stocks and Change in Carbon 
+Stocks of Trees and Shrubs in A/R CDM Project Activities 
+• 
+Tool for Testing Significance of GHG Emissions in A/R CDM Project Activities2 
+• 
+TOOL24 Methodological Tool: Common Practice 
+• 
+A/R Methodological Tool: Tool for the Identification of Degraded or Degrading Lands for 
+Consideration in Implementing CDM A/R Project Activities3 
+• 
+TOOL16 Methodological Tool: Project and Leakage Emissions from Biomass

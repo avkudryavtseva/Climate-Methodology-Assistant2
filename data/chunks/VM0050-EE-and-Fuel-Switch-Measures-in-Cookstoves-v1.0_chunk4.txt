@@ -1,0 +1,39 @@
+3 DEFINITIONS 
+Batch 
+The population of a device of the same type commissioned during a certain period (e.g., week 
+or month) in a certain calendar year2 
+Biomass3 
+Non-fossilized and biodegradable organic material originating from plants, animals, and micro-
+organisms. This also includes products, by-products, residues, and waste from agriculture, 
+forestry, and related industries as well as the non-fossilized and biodegradable organic 
+fractions of industrial and municipal wastes. 
+ 
+2 Multiple batches may be installed within a single calendar year, and the date of commissioning of the last 
+project device of the batch is used as the commissioning date for the entire batch. 
+3 Based on the CDM definition, available at: https://cdm.unfccc.int/Reference/Guidclarif/mclbiocarbon.pdf 
+ 
+VM0050, v1.0  
+ 
+7 
+Biomass residue3 
+Organic material that remains after the primary product has been extracted or harvested. These 
+residues are often biomass by-products, residues, and waste streams from agriculture, forestry, 
+and related industries. 
+Electric cooking device 
+Project device powered by electricity and connected to national/regional grid or mini grids. 
+Examples include induction cook stoves, hot plates, ceramic cooking-hob with heating coils, 
+electric pressure cookers, slow cookers, crock pots, electric rice cookers, and multi cookers. 
+Improved cookstove 
+A cooking device that reduces greenhouse gas (GHG) emissions from traditional baseline 
+technologies through energy efficiency improvements and/or fuel switching to a less GHG-
+intensive fuel 
+Project device 
+An individual improved cookstove unit used as part of the project activity 
+Self-generated renewable electricity 
+Electricity produced locally in off-grid systems using renewable energy sources, such as 
+photovoltaic solar energy, that is used to power cookstoves 
+Technical life 
+Total time for which an improved cookstove is technically designed to operate from its first 
+commissioning, expressed in years or hours of operation 
+Note – All references to "average" in this document refer to the mean, calculated as the sum of 
+all values divided by the number of values.

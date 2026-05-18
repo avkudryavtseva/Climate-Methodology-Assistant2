@@ -1,0 +1,118 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+ 
+The modules and tools referenced in this document apply to project activities that reduce 
+emissions from unplanned deforestation (UDef). In future iterations, additional modules will be 
+added to address activities that reduce emissions from planned deforestation (PDef) and 
+unplanned forest degradation (UDeg). For avoiding planned forest degradation, see the improved 
+forest management category of methodologies. 
+Reference to this methodology and the modules used to construct the project-specific 
+methodology must be given in the project description. The project proponent must justify the 
+choice of modules in the project description. 
+Table 1 lists the modules and tools, indicating where the use of modules/tools is mandatory, 
+optional or not applicable. Appendix 1 of this methodology must be used to justify the omission of 
+carbon pools and emission sources. 
+ 
+ 
+ 
+VM0048, v1.0 
+3 
+Table 1: Determination of where module/tool use is mandatory (M), optional (O) or to be 
+determined (TBD) for all project activities covered by this methodology 
+Module/Tool 
+Project Activities 
+UDef 
+PDef 
+UDeg 
+AUDef 
+M 
+O 
+O 
+APDef 
+O 
+M 
+O 
+AUDeg 
+O 
+O 
+M 
+AFOLU Non-Permanence 
+Risk Tool 
+M 
+TBD 
+TBD 
+E-NA 
+(m)1 
+TBD 
+TBD 
+CP-AB 
+M 
+TBD 
+TBD 
+CP-D 
+(m)2 
+TBD 
+TBD 
+CP-L 
+O 
+TBD 
+TBD 
+CP-S 
+O 
+TBD 
+TBD 
+CP-W 
+(m)3 
+TBD 
+TBD 
+LK-ME 
+(m)3 
+TBD 
+TBD 
+E-BPB 
+M 
+TBD 
+TBD 
+E-FFC 
+O 
+TBD 
+TBD 
+X-STR 
+M 
+TBD 
+TBD 
+ 
+TABLE NOTES 
+AUDef 
+VMD0055 Estimation of Emissions from Avoiding Unplanned Deforestation 
+APDef 
+VMD00XX Estimation of Emissions from Avoiding Planned Deforestation (under development) 
+AUDeg 
+VMD00XX Estimation of Emissions from Avoiding Unplanned Forest Degradation (under 
+development) 
+M 
+Fully mandatory for the given project activity (i.e., the indicated modules and tools must be 
+used) 
+O 
+Fully optional for the given project activity (i.e., the indicated pools and sources may be included 
+or excluded as decided by the project, but where they are included in the baseline, they must 
+also be included in the project scenario) 
+(m)1 
+Mandatory for the given project activity where leakage prevention activities include increases in 
+the use of fertilizers 
+(m)2 
+Mandatory for the given project activity where this carbon pool is greater in the baseline (post-
+deforestation/degradation) than project scenario and significant; otherwise may be 
+conservatively omitted 
+(m)3 
+Mandatory for the given project activity where the process of deforestation involves timber 
+harvesting, fuel wood collection and/or charcoal production for commercial markets 
+ 
+ 
+VM0048, v1.0 
+4

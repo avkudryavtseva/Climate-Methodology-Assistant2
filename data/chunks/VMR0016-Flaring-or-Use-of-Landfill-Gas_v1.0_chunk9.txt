@@ -1,0 +1,109 @@
+9 MONITORING 
+Project proponents must follow the monitoring procedures in the most recent version of 
+ACM0001, replacing the monitoring parameters of CDM tools with the parameters from VCS 
+tools in accordance with Table 1.  
+9.1 
+Data and Parameters Available at Validation 
+The GWPs must be applied as specified in the most recent version of the VCS Standard. 
+When default values are sourced from IPCC Guidelines on National GHG Inventories, the most 
+recent version must be applied. 
+Parameter table 3 must be replaced with: 
+ 
+Data/Parameter 
+GWPCH4 
+Data unit 
+tCO2/MWh 
+Description 
+Global warming potential of methane 
+Equations 
+- 
+Source of data 
+As per most recent version of the VCS Standard 
+Value applied 
+As per most recent version of the VCS Standard 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+-  
+Purpose of data 
+Conversion to CO2 equivalent 
+Comments 
+- 
+ 
+Data/Parameter 
+EE,y 
+Data unit 
+% 
+Description 
+Energy conversion efficiency of the generators  
+Equations 
+1a 
+ 
+VMR0016, v1.0 
+11 
+Source of data 
+Specification provided by the equipment manufacturer. The equipment 
+must be designed to utilize biogas as fuel, and the efficiency 
+specification is for biogas. If the specification provides a range of 
+efficiency values, the highest value of the range must be used for the 
+calculation. Otherwise, a 40% default value must be applied. 
+Value applied 
+Use N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+N/A 
+Purpose of data 
+N/A 
+Comments 
+Calculation of baseline emissions 
+9.2 
+Data and Parameters Monitored  
+Project proponents must follow the monitoring procedures of the most recent version of 
+ACM0001. The parameters in Tables 17, 18, and 19 of ACM0001 do not apply when using 
+VMR0016. 
+The monitoring parameters of CDM TOOL05 and TOOL07 must be replaced with the monitoring 
+parameters of the applied VCS tools in accordance with Table 1.  
+In addition, the following parameter must be monitored. 
+ 
+Data / Parameter: 
+LFG power plant installed capacity 
+Data unit: 
+MW 
+Description: 
+Total installed/rated capacity or authorized capacity (as determined in 
+the activity approval from the project regulator, government or similar 
+entity) of the project activity’s power plant utilizing LFG 
+Equations 
+- 
+Source of data: 
+Manufacturer specifications, commissioning data or other recognized 
+standards. 
+Description of measurement 
+methods and procedures to be 
+applied: 
+Determine the total installed capacity based on manufacturer’s 
+specifications or commissioning data or recognized standards 
+Frequency of 
+monitoring/recording: 
+At least once per monitoring period, or whenever modifications to the 
+installed capacity are implemented. 
+ 
+VMR0016, v1.0 
+12 
+QA/QC procedures to be 
+applied: 
+- 
+Purpose of data: 
+Reporting-only requirement 
+Calculation method: 
+- 
+Comments: 
+The installed capacity is a reporting-only requirement and is not used 
+for the quantification. 
+9.3 
+Description of the Monitoring Plan 
+All monitoring requirements of ACM0001 and applicable tools must be followed, noting the tool 
+replacements indicated in Table 1.

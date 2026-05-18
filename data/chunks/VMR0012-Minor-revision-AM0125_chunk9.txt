@@ -1,0 +1,38 @@
+8 QUANTIFICATION OF ESTIMATED GHG 
+EMISSION REDUCTIONS AND 
+REMOVALS 
+8.1 
+Baseline Emissions 
+The baseline emissions must be determined following the procedures provided in the latest 
+version of AM0125, replacing the equations as indicated in the following. 
+The following equation replaces Equation 1 of AM0125: 
+ 
+VMR0012, v1.0 
+6 
+ 𝑩𝑬𝒚= 𝑸𝑶𝑷𝑪𝒚× (𝟏−𝑫𝑭) × 𝑬𝑭𝑶𝑷𝑪,𝑩𝑳,𝒚 
+(1) 
+Where: 
+BEy 
+= 
+Baseline emissions in year y (t CO2e) 
+QOPC,y 
+= 
+Quantity of OPC replaced by geopolymer cement in year y (t OPC) 
+DF 
+= 
+Discount factor for upstream displacement (default 30%) 
+EFOPC,BL,y 
+= 
+Baseline emission factor of OPC replaced by geopolymer cement in 
+year y (t CO2e/t OPC) 
+8.2 
+Project Emissions  
+Project emissions must be determined following the procedures provided in the latest version of 
+AM0125. 
+8.3 
+Leakage Emissions 
+Leakage emissions must be determined following the procedures provided in the latest version 
+of AM0125. 
+8.4 
+Estimated GHG Emission Reductions  
+No change from AM0125.

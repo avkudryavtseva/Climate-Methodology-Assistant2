@@ -1,0 +1,49 @@
+1 SUMMARY DESCRIPTION 
+Additionality and Crediting Method 
+Additionality 
+Project Method 
+Crediting Baseline 
+Project Method 
+This Logged to Protected Forest (LtPF) methodology provides a detailed procedure to estimate 
+the net GHG emission reductions/removals resulting from the implementation of Improved 
+Forest Management (IFM) projects aimed at the protection of forests that would be logged in 
+the absence of the project. 
+The core methodological components are as follows: 
+• 
+Determine Eligibility: Sets the criteria for eligibility of projects under the methodology. 
+• 
+Set Project Boundaries and Scope: Provides guidelines for defining the geographical 
+and temporal boundaries of the project and lists the GHG emissions sources and 
+carbon pools to be included in the project. 
+• 
+Assess Baseline Scenario, Additionality and Baseline Modelling: Provides guidelines to 
+select the most conservative baseline scenario and to determine the additionality of 
+the project. 
+• 
+Quantify Baseline Emissions: Provides a detailed procedure to develop conservative 
+estimates of net greenhouse gas emissions resulting from changes in carbon stocks as 
+a result of planned timber harvest (i.e., selective logging) in the baseline scenario. 
+• 
+Quantify Project Emissions: Provides a detailed procedure to develop conservative 
+estimates of net greenhouse gas emissions resulting from changes in carbon stocks in 
+the project scenario. 
+• 
+Quantify Leakage: Describes the approach to account for leakage arising from the 
+implementation of project activities. 
+• 
+Quantify Net Emission Reductions/Removals: Provides the approach to determine the 
+amount of net greenhouse gas emission reductions/removals at the end of each year 
+for both the baseline and project scenarios. 
+• 
+Quantify Verified Carbon Units (VCUs): Provides the approach to determine, on the basis 
+of the amount of net greenhouse gas emission reductions/removals, and deductions to 
+account for risk and uncertainty, the amount of Verified Carbon Units (VCUs) that 
+should be credited to the project each year over the project crediting period. 
+• 
+Perform Ongoing Monitoring: Provides guidelines for the implementation of a 
+monitoring plan and identifies monitored parameters to assess carbon stock change 
+and disturbance in the project scenario. 
+  
+ 
+VM0010, v1.4 
+6

@@ -1,0 +1,2785 @@
+9 MONITORING 
+9.1 
+Data and Parameters 
+Table 65: Data and Parameters 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+±90% CI 
+90% confidence interval 
+ 
+ 
+ 
+ 
+A 
+Area in which observed change is 
+incorrectly predicted as persistence (ha) 
+ha 
+  
+Calculated 
+Each renewal of baseline 
+validity period 
+a 
+Estimated intercept of the regression line 
+ha/yr 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+a1 and a2 
+Sample plot areas 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+Aaveragei 
+Area of “average” forest land suitable for 
+conversion to non-forest land within 
+stratum  
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ABSLLK 
+Cumulative area of baseline deforestation 
+within the leakage belt at year t 
+ha 
+ 
+Calculated  
+Each renewal of baseline 
+validity period 
+ABSLLKct,t 
+Area of category ct deforested at time t 
+within the leakage belt in the baseline case 
+ha 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ABSLLKfcl,t 
+Area of final (post-deforestation) forest 
+class fcl deforested at time t within the 
+leakage belt in the baseline case 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLLKi,t  
+Annual area of baseline deforestation in 
+stratum i within the leakage belt at year t 
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+123 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ABSLLKicl,t 
+Area of initial (pre-deforestation) forest 
+class icl deforested at time t within the 
+leakage belt in the baseline case 
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ABSLLKt 
+Annual area of baseline deforestation 
+within the leakage belt at year t 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLPA 
+Cumulative area of baseline deforestation 
+in the project area at year t 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLPAct,t 
+Area of category ct deforested at time t 
+within the project area in the baseline case 
+ha 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ABSLPAi,t  
+Annual area of baseline deforestation in 
+stratum i within the project area at year t 
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ABSLPAicl,t 
+Area of initial (pre-deforestation) forest 
+class icl deforested at time t within the 
+project area in the baseline case 
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ABSLPAt 
+Annual area of baseline deforestation in 
+the project area at year t 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLPAz,t 
+Area of zone z deforested at time t within 
+the project area in the baseline case 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLRR 
+Cumulative area of baseline deforestation 
+in the reference region at year t 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLRRct,t 
+Area of category ct deforested at time t 
+within the reference region in the baseline 
+case 
+ha 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ABSLRRi,t 
+Annual area of baseline deforestation in 
+stratum i within the reference region at 
+year t 
+ha  
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+124 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ABSLRRtaver
+age,i 
+Annual area of baseline deforestation in 
+stratum i within the reference region at 
+year taveragei 
+ha 
+  
+Calculated 
+Each renewal of baseline 
+validity period 
+ABSLRRt 
+Annual area of baseline deforestation in 
+the reference region at year t 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ACPAicl,t 
+Annal area within the project area affected 
+by catastrophic events in class icl at year t 
+ha 
+ 
+Measured ex post 
+Each time a catastrophic event 
+occurs 
+Aforaget 
+Area under forage above the baseline in 
+leakage management zones 
+ha 
+ 
+Calculated ex ante, 
+measured ex post 
+Annually 
+Aoptimali 
+Area of optimal forest land suitable for 
+conversion to non-forest land within 
+stratum i 
+ha 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+AP 
+Plot area 
+m2 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+when mandatory 
+APDPAicl,t 
+Areas of planned deforestation in forest 
+class icl at year t in the project area 
+ha 
+Ex ante and ex 
+post 
+Measured or estimated 
+from literature 
+Annually 
+APFPAicl,t 
+Annual area of planned fuel-wood and 
+charcoal activities in forest class icl at year 
+t in the project area 
+ha 
+Ex ante and ex 
+post 
+Calculated ex ante, 
+measured ex post 
+Annually 
+APLPAicl,t 
+Areas of planned logging activities in forest 
+class icl at year t in the project area 
+ha 
+Ex ante and ex 
+post 
+Calculated ex ante, 
+measured ex post 
+Annually 
+APNiPAicl,t 
+Annual area of forest class icl with 
+increasing carbon stock without harvest at 
+year t in the project area 
+ha 
+Ex ante and ex 
+post 
+Calculated ex ante, 
+measured ex post 
+Annually 
+ 
+VM0015, v1.2 
+125 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+APSLKfcl,t 
+Annual area of class fcl with decreasing 
+carbon stock in leakage management 
+zones in the project case at year t 
+ha 
+ 
+Measured ex post 
+Annually 
+ARRi 
+Total forest area in stratum i within the 
+reference region at the project start date 
+ha 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ARRi,t-1 
+Area with forest cover in stratum i within 
+the reference region at year t − 1 
+ha 
+Calculated 
+Each renewal of baseline 
+validity period 
+AUFPAicl,t 
+Areas affected by forest fires in class icl in 
+which carbon stock recovery occurs at year 
+t 
+ha 
+ 
+Measured ex post 
+Annually 
+B 
+Area in which observed change is correctly 
+predicted as actual change 
+ha 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+b 
+Estimated coefficient of the time variable 
+(or slope of the linear regression) 
+dimensionless 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+BCEF 
+Biomass conversion and expansion factor 
+for conversion of merchantable volume to 
+total aboveground tree biomass 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+BEFpl 
+Biomass expansion factor for converting 
+volumes of extracted roundwood to total 
+aboveground biomass (including bark), 
+applicable to tree tr, in plot pl 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+BLDA, BLDB, 
+… BLDN 
+Total area of projected baseline 
+deforestation during the baseline validity 
+period of Project A  
+ha 
+ 
+PD of project A; PD of 
+project B, … PD of 
+Project N 
+Each renewal of baseline 
+validity period 
+C 
+Area in which observed persistence is 
+incorrectly predicted as change 
+ha 
+ 
+Calculated 
+ 
+ 
+VM0015, v1.2 
+126 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Cabfcl 
+Average carbon stock per hectare in 
+aboveground biomass carbon pool of final 
+post-deforestation class fcl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Cabcl 
+Average carbon stock per hectare in 
+aboveground biomass carbon pool of 
+LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cabicl 
+Average carbon stock per hectare in 
+aboveground biomass carbon pool of initial 
+forest class icl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Cabntcl 
+Average carbon stock per hectare in 
+aboveground non-tree biomass carbon pool 
+of LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cabtcl 
+Average carbon stock per hectare in 
+aboveground tree biomass carbon pool of 
+LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cabz 
+Average carbon stock per hectare in 
+aboveground biomass carbon pool per 
+zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cacl 
+Average carbon stock per hectare in 
+aboveground biomass in LU/LC class cl 
+t CO2e/ha 
+ 
+ 
+ 
+Cbbcl 
+Average carbon stock per hectare in 
+belowground biomass carbon pool of 
+LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cbbfcl 
+Average carbon stock per hectare in 
+belowground biomass carbon pool of final 
+post-deforestation class fcl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+ 
+VM0015, v1.2 
+127 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Cbbicl 
+Average carbon stock per hectare in 
+belowground biomass carbon pool of initial 
+forest class icl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Cbbntcl 
+Average carbon stock per hectare in 
+belowground non-tree biomass carbon pool 
+of LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cbbfcl 
+Average carbon stock per hectare in 
+belowground biomass carbon pool of final 
+post-deforestation class fcl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Cbbtcl 
+Average carbon stock per hectare in 
+belowground tree biomass carbon pool of 
+LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cbbz 
+Average carbon stock per hectare in 
+belowground tree biomass carbon pool per 
+zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cdwfcl 
+Average carbon stock per hectare in dead 
+wood biomass carbon pool of final post-
+deforestation class fcl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cdwcl 
+Average carbon stock per hectare in dead 
+wood biomass carbon pool of LU/LC class 
+cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cdwicl 
+Average carbon stock per hectare in dead 
+wood biomass carbon pool of initial forest 
+class icl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+ 
+Cdwz 
+Average carbon stock per hectare in dead 
+wood biomass carbon pool per zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+CEp,icl 
+Average combustion efficiency of carbon 
+pool p in initial forest class icl 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+ 
+VM0015, v1.2 
+128 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+CFdc 
+Carbon fraction of density class dc 
+t C/t d.m. 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+CFj 
+Carbon fraction for tree tr, of species, 
+group of species or forest type j 
+t C/t d.m. 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+CFpl 
+Carbon fraction of sample pl 
+t C/t d.m. 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Ci 
+Cost to select and measure a plot of LU/LC 
+class cl 
+ 
+ 
+Estimated 
+Each renewal of baseline 
+validity period 
+cl 
+1, 2, 3, …, Cl LU/LC classes 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+Cldwfcl 
+Average carbon stock per hectare in lying 
+dead wood carbon pool of final post-
+deforestation class fcl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Clcl 
+Average carbon stock per hectare in litter 
+carbon pool of LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cldwcl 
+Average carbon stock per hectare in lying 
+dead wood carbon pool of LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cldwicl 
+Average carbon stock per hectare in lying 
+dead wood carbon pool of initial forest 
+class icl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Clfcl 
+Average carbon stock per hectare in litter 
+carbon pool of LU/LC class fcl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Clicl 
+Average carbon stock per hectare in litter 
+carbon pool of LU/LC class icl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+129 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Clz 
+Average carbon stock per hectare in litter 
+carbon pool per zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cp 
+Average carbon stock per hectare in 
+carbon pool p 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start 
+Cpicl,t 
+Average carbon stock per hectare in 
+carbon pool p burned at year t in forest 
+class icl 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start 
+Csocfcl 
+Average carbon stock per hectare in soil 
+organic carbon pool of final post-
+deforestation class fcl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+ 
+Csocz 
+Average carbon stock per hectare in soil 
+organic carbon pool per zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Csdwcl 
+Average carbon stock per hectare in 
+standing dead wood carbon pool of LU/LC 
+class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Csocicl 
+Average carbon stock per hectare in soil 
+organic carbon pool of initial forest class icl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Csoccl 
+Average carbon stock per hectare in soil 
+organic carbon pool of LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Csocpl 
+Carbon stock per hectare in soil organic 
+carbon pool estimated for plot pl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+ct 
+1, 2, 3, …, Ct categories of LU/LC change 
+(from initial forest classes icl to final post-
+deforestation classes fcl) 
+dimensionless 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+130 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Ctotcl 
+Average carbon stock per hectare in all 
+accounted carbon pools of LU/LC class cl 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Ctotfcl,t 
+Average carbon stock of all accounted 
+carbon pools in non-forest class fcl at time 
+t 
+t CO2e/ha 
+ 
+Calculated 
+Only once at project start  
+Ctoticl 
+Average carbon stock of all accounted 
+carbon pools in forest class icl  
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Ctoticl,t 
+Average carbon stock of all accounted 
+carbon pools in forest class icl at time t 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Ctotz 
+Average carbon stock of all accounted 
+carbon pools per zone z 
+t CO2e/ha 
+ 
+Calculated 
+Only once at project start and 
+where mandatory 
+ctz 
+1, 2, 3, …, Ctz categories of LU/LC change 
+(from initial forest classes icl to post 
+deforestation zones z) 
+dimensionless 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+CV% 
+The highest coefficient of variation (%) 
+reported in the literature from different 
+volume or biomass forest inventories in 
+forest plantations, natural forests, agro-
+forestry and/or silvo-pastoral systems 
+% 
+ 
+Literature 
+Only once at project start and 
+where mandatory 
+Cwpfcl 
+Average carbon stock per hectare in 
+harvested wood products carbon pool of 
+final post-deforestation class fcl 
+t CO2e/ha 
+  
+ 
+Only once at project start and 
+where mandatory 
+Cwpcl 
+Average carbon stock per hectare in 
+harvested wood products carbon pool of 
+LU/LC class cl 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+131 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Cwpicl 
+Average carbon stock per hectare in 
+harvested wood products carbon pool of 
+initial forest class icl 
+t CO2e/ha 
+  
+ 
+Only once at project start and 
+where mandatory 
+Cwplt,icl,t 
+Carbon stock in long-term wood products 
+carbon pool at time of deforestation t of 
+initial forest class icl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cwpmt,icl,t 
+Carbon stock in medium-term wood 
+products carbon pool at time of 
+deforestation t of the initial forest class icl 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Cwpz 
+Average carbon stock per hectare in 
+harvested wood products carbon pool per 
+zone z 
+t CO2e/ha 
+ 
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+CXBw,icl,t 
+Mean carbon stock per hectare of 
+extracted biomass carbon by class of wood 
+product w from forest class icl at time t 
+t CO2e/ha 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+d1, d2, ..., dn Diameters of intersecting pieces of dead 
+wood 
+cm 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+DBH 
+Diameter at breast height 
+cm 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+DBI 
+Daily biomass intake 
+kg 
+d.m./head/day 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+dc 
+1, 2, 3 dead wood density classes 
+dimensionless 
+  
+Defined 
+  
+DC 
+Total number of density classes (3) 
+dimensionless 
+  
+Defined 
+  
+ΔCabct 
+Average emission factor in aboveground 
+biomass carbon pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+132 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCabBSLLKt 
+Total baseline carbon stock changes for 
+aboveground biomass pool in leakage belt 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCabBSLLKt 
+Cumulative baseline carbon stock changes 
+for aboveground biomass pool in leakage 
+belt 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCabBSLPA 
+Cumulative baseline carbon stock changes 
+for aboveground biomass pool in project 
+area 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCabBSLPAt 
+Total baseline carbon stock changes for 
+aboveground biomass pool in project area 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCabBSLRR 
+Cumulative baseline carbon stock changes 
+for aboveground biomass pool in reference 
+region 
+t CO2e  
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCabBSLRRt 
+Total baseline carbon stock changes for 
+aboveground biomass pool in reference 
+region 
+t CO2e  
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCADLK 
+Cumulative total decrease in carbon stocks 
+due to displaced deforestation 
+t CO2e 
+ 
+Calculated  
+Annually 
+ΔCADLKt 
+Total decrease in carbon stocks due to 
+displaced deforestation at year t 
+t CO2e 
+ 
+Calculated  
+Annually 
+ΔCbbct 
+Average emission factor in belowground 
+biomass carbon pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCBSLPAft 
+Total baseline carbon stock change in final 
+classes within project area at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCBSLPA 
+Total baseline carbon stock changes in 
+project area 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+133 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ABSLPAct,t 
+Area of category ct deforested at time t 
+within project area in baseline case 
+ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLLK 
+Cumulative carbon stock changes in 
+leakage management zones in baseline 
+case 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLLKt 
+Annual carbon stock changes in leakage 
+management zones in baseline case at 
+year t 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLPAf 
+Total cumulative baseline carbon stock 
+change in final classes within project area 
+at year t 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLPAft 
+Total annual baseline carbon stock change 
+in final classes within project area at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCBSLPA 
+Total net cumulative baseline carbon stock 
+change in final classes within project area 
+at year t 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLPAi 
+Total cumulative baseline carbon stock 
+change in initial forest classes within 
+project area at year t 
+t CO2e 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCBSLPAit 
+Total baseline carbon stock change in 
+initial forest classes within the project area 
+at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCBSLPAt 
+Total baseline carbon stock change within 
+project area at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCBSLt 
+Total baseline carbon stock change at year 
+t in project area 
+t CO2e 
+ 
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+134 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCdwct 
+Average emission factor in dead wood 
+biomass carbon pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCFCdPA 
+Cumulative decrease in carbon stock due 
+to forest fires and catastrophic events at 
+year t in project area 
+t CO2e 
+Ex post 
+Calculated 
+ 
+ΔCFCdPAt 
+Total decrease in carbon stock due to 
+forest fires and catastrophic events at year 
+t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCFCiPA 
+Cumulative increase in carbon stock due to 
+forest fires and catastrophic events at year 
+t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCFCiPAt 
+Total increase in carbon stock due to forest 
+fires and catastrophic events at year t in 
+project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔClct 
+Average emission factor in litter carbon 
+pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCLK 
+Total cumulative decrease in carbon stocks 
+within leakage belt at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCLKt 
+Total decrease in carbon stocks within 
+leakage belt at year t 
+t CO2e 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ΔCLPMLK 
+Cumulative carbon stock decrease due to 
+leakage prevention measures 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCLPMLKt 
+Carbon stock decrease due to leakage 
+prevention measures at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCpt 
+Emission factor applicable to pool p at time 
+t 
+t CO2e 
+ 
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+135 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCPAdPA 
+Cumulative decrease in carbon stock due 
+to all planned activities at year t in project 
+area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPAdPAt 
+Total decrease in carbon stock due to all 
+planned activities at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPAiPA 
+Cumulative increase in carbon stock due to 
+all planned activities at year t in project 
+area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPAiPAt 
+Total increase in carbon stock due to all 
+planned activities at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPDdPA 
+Cumulative decrease in carbon stock due 
+to planned deforestation at year t in project 
+area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPDdPAt 
+Total decrease in carbon stock due to 
+planned deforestation at year t in project 
+area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPFdPA 
+Cumulative decrease in carbon stock due 
+to planned fuel-wood and charcoal 
+activities at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPFdPAt 
+Total decrease in carbon stock due to 
+planned fuel-wood and charcoal activities 
+at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPFiPA 
+Cumulative increase in carbon stock due to 
+planned fuel-wood and charcoal activities 
+at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPFiPAt 
+Total increase in carbon stock due to 
+planned fuel-wood and charcoal activities 
+at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ 
+VM0015, v1.2 
+136 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCpicl,t=t* 
+Average emission factor for carbon pool p 
+in initial forest class icl applicable at time t 
+t CO2e/ha 
+ 
+ 
+ 
+ΔCPLdPA 
+Cumulative decrease in carbon stock due 
+to planned logging activities at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPLdPAt 
+Total decrease in carbon stock due to 
+planned logging activities at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPLiPA 
+Cumulative increase in carbon stock due to 
+planned logging activities at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPLiPAt 
+Total increase in carbon stock due to 
+planned logging activities at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPNiPA 
+Cumulative increase in carbon stock due to 
+planned protection of growing forest 
+classes in project area at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔCPNiPAt 
+Total increase in carbon stock due to 
+planned protection of growing forest 
+classes in project area at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPSLK 
+Total cumulative carbon stock change in 
+leakage management zones in project case 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPSLKt 
+Total annual carbon stock change in leakage 
+management zones in project case 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPSPA 
+Cumulative project carbon stock change 
+within project area at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCPSPAt 
+Total project carbon stock change within 
+project area at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ 
+VM0015, v1.2 
+137 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCpz,t=t* 
+Average emission factor for carbon pool p 
+in zone z applicable at time t = t* 
+t CO2e/ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCsocct 
+Average emission factor in soil organic 
+carbon pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCtotct,t 
+Emission factor for all accounted carbon 
+pools in category ct at time t 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCtotct 
+Average emission factor in all accounted 
+carbon pools of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔCtoticl,t 
+Average carbon stock change of all 
+accounted carbon pools in forest class icl 
+at time t 
+t CO2e/ha 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ΔCUCdPA 
+Cumulative decrease in carbon stock due 
+to catastrophic events at year t in project 
+area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUCdPAt 
+Total decrease in carbon stock due to 
+catastrophic events at year t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUCiPA 
+Cumulative increase in carbon stock in 
+areas affected by catastrophic events 
+(after such events) at year t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUCiPAt 
+Total increase in carbon stock in areas 
+affected by catastrophic events (after such 
+events) at year t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUDdPA 
+Cumulative actual carbon stock change 
+due to unavoided unplanned deforestation 
+at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ 
+VM0015, v1.2 
+138 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ΔCUDdPAt 
+Total actual carbon stock change due to 
+unavoided unplanned deforestation at year 
+t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ΔCUFdPA 
+Cumulative total decrease in carbon stock 
+due to unplanned (and planned where 
+applicable) forest fires in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUFdPAt 
+Total decrease in carbon stock due to 
+unplanned (and planned where applicable) 
+forest fires at year t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUFiPA 
+Cumulative increase in carbon stock in 
+areas affected by forest fires (after such 
+events) in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCUFiPAt 
+Total increase in carbon stock in areas 
+affected by forest fires (after such events) 
+at year t in project area 
+t CO2e 
+Ex post 
+Calculated  
+Annually 
+ΔCwpct 
+Average emission factor in harvested wood 
+products carbon pool of category ct 
+t CO2e/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ΔREDD 
+Cumulative net anthropogenic GHG 
+emission reduction attributable to AUD 
+project activity  
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+ΔREDDt 
+Net anthropogenic GHG emission reduction 
+attributable to AUD project activity at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+Ddc 
+Dead wood density of class dc 
+t d.m./m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+139 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Dj 
+Mean wood density of species j 
+t d.m./m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+DLF 
+Displacement leakage factor 
+% 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+Dm 
+Deadwood density 
+g/cm3 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+DMpl 
+Dry mass of sample pl 
+t d.m. 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+e 
+Euler’s number (2.71828) 
+dimensionless 
+ 
+ 
+ 
+E% 
+Allowable sample error in percentage 
+(10%) 
+% 
+ 
+ 
+ 
+E 
+Allowable error (10% of the mean) 
+% 
+ 
+ 
+ 
+EADLK 
+Cumulative total increase in GHG 
+emissions due to displaced forest fires 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EADLKt 
+Total ex ante increase in GHG emissions 
+due to displaced forest fires at year t 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EBBBSPA 
+Cumulative baseline non-CO2 emissions 
+from forest fires at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+EBBBSLPAt 
+Sum of (or total) baseline non-CO2 
+emissions from forest fires at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ 
+VM0015, v1.2 
+140 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+EBBBSLtoticl 
+Sum of (or total) actual non-CO2 emissions 
+from forest fires at year t in stratum i in 
+forest class icl 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EBBCH4icl 
+CH4 emissions from biomass burning in 
+forest class icl 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EBBCO2icl  
+Per hectare CO2 emissions from biomass 
+burning in slash and burn in forest class icl  
+t CO2e/ha 
+  
+Calculated  
+Only once at project start 
+EBBN2Oicl 
+N2O emissions from biomass burning in 
+forest class icl 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EBBPSPA 
+Cumulative (or total) actual non-CO2 
+emissions from forest fires at year t in 
+project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated 
+Annually 
+EBBPSPAt 
+Sum of (or total) actual non-CO2 emissions 
+from forest fires at year t in project area 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+EBBtoticl 
+Total GHG emission from biomass burning 
+in forest class icl 
+t CO2e 
+Ex ante and ex 
+post 
+Calculated  
+Annually 
+ECH4fermt  
+CH4 emissions from enteric fermentation at 
+year t 
+t CO2e 
+  
+Calculated  
+Annually 
+ECH4mant 
+CH4 emissions from manure management 
+at year t  
+t CO2e 
+  
+Calculated  
+Annually 
+EdirN2Omant Direct N2O emissions from manure 
+management at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+EF1 
+Enteric CH4 emission factor for livestock 
+group 
+kg CH4/head/yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+EF2 
+Manure management CH4 emission factor 
+for livestock group 
+kg CH4/head/yr 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+141 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+EF3 
+Emission factor for N2O emissions from 
+manure management for livestock group 
+kg N2O-
+N/kg N/head/yr 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+EF4 
+Emission factor for N2O emissions from 
+atmospheric deposition of forage-sourced 
+nitrogen on soils and water surfaces 
+kg N2O-N/kg 
+NH3-N and NOx-N 
+emitted/head/yr 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+EgLK 
+Cumulative emissions from grazing animals 
+in leakage management zones at year t 
+t CO2e 
+ 
+Calculated  
+Annually 
+EgLKt 
+Emissions from grazing animals in leakage 
+management zones at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+EI 
+Ex ante estimated effectiveness index 
+% 
+  
+Defined 
+Annually 
+EindNOmant 
+Indirect N2O emissions from manure 
+management at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+ELK 
+Cumulative sum of ex ante estimated 
+leakage emissions at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+ELKt 
+Sum of ex ante estimated leakage 
+emissions at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+ELPMLK 
+Cumulative total ex ante increase in GHG 
+emissions due to leakage prevention 
+measures 
+t CO2e 
+  
+Calculated  
+Annually 
+ELPMLKt 
+Annual total increase in GHG emissions 
+due to leakage prevention measures at 
+year t 
+t CO2e 
+  
+Calculated  
+Annually 
+EN2Omant 
+N2O emissions from manure management 
+at year t 
+t CO2e 
+  
+Calculated  
+Annually 
+ERCH4 
+Emission ratio for CH4 (IPCC default 
+value = 0.012) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+142 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+ERN2O 
+Emission ratio for N2O (IPCC default 
+value = 0.007) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+Fburnticl 
+Proportion of forest area burned during 
+historical reference period in forest class 
+icl 
+% 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+fcl 
+1, 2, 3, …, Fcl final (post-deforestation) 
+non-forest classes  
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+fj(DBH,H)ab  
+Allometric equation for species, or group of 
+species or forest type j, linking 
+aboveground tree biomass (in kg/tree) to 
+diameter at breast height (DBH) and 
+possibly tree height (H) 
+  
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+FOM 
+Figure of merit 
+dimensionless 
+Measure of 
+goodness of fit 
+between 
+observed and 
+predicted 
+deforestation 
+Calculated  
+Each renewal of baseline 
+validity period 
+Fracgas 
+Fraction of managed livestock manure 
+nitrogen that volatilizes as NH3 and NOx in 
+manure management phase 
+kg NH3-N and 
+NOx-N 
+emitted/kg N 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+fj(DBH,H)V 
+a commercial volume equation for species 
+or species group j, linking commercial 
+volume to diameter at breast height (DBH) 
+and possibly tree height (H) 
+ 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+f(t) 
+Function of time 
+ 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+143 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+GWPCH4 
+Global Warming Potential for CH4 (IPCC 
+default value = 21 for first commitment 
+period) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+GWPN2O 
+Global Warming Potential for N2O (IPCC 
+default value = 310 for first commitment 
+period) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+H 
+Height of tree 
+meters 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+i 
+1, 2, 3, ..., IRR stratum within reference 
+region 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+icl 
+1, 2, 3, …, Icl initial (pre-deforestation) 
+forest classes 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+IDcl 
+Land use/land cover class identifier 
+ 
+ 
+ 
+ 
+IDct 
+Land use/land cover change category 
+identifier (from initial class icl to final class 
+fcl) 
+ 
+ 
+ 
+ 
+IDctz 
+Land use/land cover change category 
+identifier (from initial class icl to zone z) 
+ 
+ 
+ 
+ 
+IDfcl 
+Final post-deforestation class fcl identifier 
+ 
+ 
+ 
+ 
+IDi 
+Stratum i in reference region identifier 
+ 
+ 
+ 
+ 
+IDicl 
+Initial forest class icl identifier 
+ 
+ 
+ 
+ 
+IDz 
+Zone identifier 
+ 
+ 
+ 
+ 
+j 
+Number of organic fertilizer types 
+dimensionless 
+  
+Defined 
+Annually 
+k 
+Estimated parameter of logistic regression 
+dimensionless 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+144 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+L 
+Length of line 
+m 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+LTFw 
+Fraction of wood products that are 
+considered permanent (i.e., carbon is 
+stored for 100 years or more) and from 
+which it may be assumed that no carbon is 
+released 
+ 
+ 
+ 
+ 
+%LKB 
+Percentage of overlapping leakage belt 
+area to be assigned to projects A, B, …, N 
+% 
+ 
+Calculated 
+At each verification 
+MTFw 
+Fraction of wood products that are retired 
+between 3 and 100 years 
+ 
+ 
+ 
+ 
+n 
+Total number of sample units to be 
+measured (in all LU/LC classes) 
+dimensionless 
+ 
+Calculated 
+Each renewal of baseline 
+validity period 
+N 
+Population size or maximum number of 
+possible sample units (all LU/LC classes) 
+dimensionless 
+ 
+Measured 
+Each renewal of baseline 
+validity period 
+ncl 
+Number of samples units to be measured 
+in LU/LC class cl that is allocated in 
+proportion to Wcl × Scl /√Ccl. 
+dimensionless 
+ 
+ 
+Each renewal of baseline 
+validity period 
+NCR 
+Nitrogen to carbon ratio (IPCC default 
+value = 0.01) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+Nex 
+Annual average N excretion per livestock 
+head 
+kg N/head/yr 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+ni 
+Number of sample units to be measured in 
+LU/LC class cl that is allocated in 
+proportion to class size. Where estimated 
+ncl < 3, set ncl = 3 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+145 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Ni 
+Maximum number of possible sample units 
+for LU/LC class cl, calculated by dividing 
+area of class cl by measurement plot area  
+ 
+ 
+ 
+ 
+OFw 
+Fraction of wood products that will be 
+emitted to the atmosphere between 5 and 
+100 years following timber harvest 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+p 
+Combustible carbon pool (aboveground 
+biomass, dead wood, litter) 
+dimensionless 
+  
+Defined 
+Each renewal of baseline 
+validity period 
+Pburntp,icl 
+Average proportion of mass burned in 
+carbon pool p in forest class icl 
+% 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+PCabpl 
+Carbon stock in aboveground biomass in 
+plot pl 
+t C/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+PCbbpl 
+Carbon stock in belowground biomass in 
+plot pl 
+t C/ha 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Pcomicl 
+Commercial volume as a percentage of 
+total aboveground volume in initial forest 
+class icl 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+PCxi 
+Average in situ production costs for one 
+tonne of product Px in stratum i 
+$/t 
+May have 
+different 
+values within 
+different 
+reference 
+region strata 
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+Pforaget 
+Production of forage at year t 
+kg d.m./yr 
+  
+Calculated ex ante, 
+measured ex post 
+Each renewal of baseline 
+validity period 
+pl 
+1, 2, 3, …, PLcl plots in LU/LC class cl 
+dimensionless 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+146 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+PLcl 
+Total number of plots in LU/LC class cl 
+dimensionless 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+Po 
+Anhydrous weight of sample  
+g 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Populationt 
+Equivalent number of forage-fed livestock 
+at year t 
+number of heads   
+Calculated ex ante, 
+measured ex post 
+Annually 
+PPi,t 
+Proportion of stratum i within project area 
+at time t 
+% 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+PPxl 
+Potential profitability of product Px at 
+location l (pixel or polygon) 
+$/t 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+Ps 
+Saturated weight of sample  
+g 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Px 
+Product x produced in reference region 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+r1 
+Radius at base of tree 
+meters 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+r2 
+Radius at top of tree 
+meters 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+RBSLRRi,t 
+Percentage of remaining forest area at year 
+t − 1 in stratum i to be deforested at year t 
+% 
+Used as an 
+alternative to 
+ABSLRRi,t in 
+baseline 
+approach c 
+Calculated  
+Each renewal of baseline 
+validity period 
+RFt 
+Risk factor used to calculate VCS buffer 
+credits 
+% 
+ 
+Estimated 
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+147 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Rj 
+Root to shoot ratio appropriate for species, 
+group of species or forest type j 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+Rj,pl,tr 
+Root to shoot ratio, applicable to tree tr of 
+species j in plot pl 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+Scl 
+Standard deviation of LU/LC class cl 
+ 
+ 
+ 
+ 
+S$x 
+Selling price of product Px 
+$/t 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+SLFw 
+Fraction of wood products that will be 
+emitted to the atmosphere within 5 years 
+of timber harvest 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+SPxl 
+Sale location l of product Px  
+map 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+STFw 
+Fraction of wood products and waste that 
+will be emitted to the atmosphere within 3 
+years – all carbon must be assumed to be 
+lost immediately  
+dimensionless 
+ 
+ 
+ 
+t 
+1, 2, 3, …, T a year of the proposed project 
+crediting period 
+dimensionless 
+  
+Defined 
+  
+t* 
+year at which area ABSLPAicl,t is deforested 
+in the baseline case 
+dimensionless 
+  
+Defined 
+  
+t1 
+Start date of historical reference period 
+dimensionless 
+  
+  
+  
+t2 
+End date of historical reference period 
+dimensionless 
+  
+  
+  
+Taveragei 
+Number of years in which Aaveragei is 
+deforested in baseline case 
+yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+ 
+VM0015, v1.2 
+148 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+taveragei 
+Year at which Taveragei ends 
+yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+TBabj 
+Aboveground biomass of a tree of species, 
+species group or forest type j 
+kg/tree or t/tree 
+  
+Calculated  
+Only once at project start 
+TBabtr 
+Aboveground biomass of tree tr 
+kg/tree or t/tree 
+  
+Calculated  
+Only once at project start 
+TCabtr 
+Carbon stock in aboveground biomass of 
+tree tr 
+kg C/tree or 
+t C/tree 
+  
+Calculated  
+Only once at project start 
+TCbbtr 
+Carbon stock in belowground biomass of 
+tree tr 
+kg C/tree  
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+TCv 
+Average transport cost per kilometer for 
+one tonne of product Px on land, river or 
+road of type v 
+$/t/km 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+TDv 
+Transport distance on land, river or road of 
+type v 
+km 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+Thrp 
+Duration of historical reference period  
+yr 
+  
+Defined 
+Toptimali 
+Number of years since start of AUD project 
+activity in which Aoptimal in stratum i is 
+deforested in the baseline case 
+yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+toptimali 
+Year at which Toptimali ends 
+yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+tr 
+1, 2, 3, …, TRpl number of trees in plot pl 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+tst 
+t student value for a 95% confidence level 
+(initial value t = 2) 
+dimensionless 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+149 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Tsub-optimali Number of years in which Asub-optimali is 
+deforested in the baseline case 
+yr 
+  
+Calculated  
+Each renewal of baseline 
+validity period 
+v 
+1,2,3, …, V type of surface on which 
+transport occurs 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+V1i,t, V2i,t, ..., 
+Vni,t 
+Variables included in deforestation model 
+  
+Unit of each 
+variable to be 
+specified by 
+project 
+proponent 
+Measured or estimated 
+from literature 
+Each renewal of baseline 
+validity period 
+VBCt 
+Number of buffer credits deposited in the 
+VCS buffer pool at time t 
+t CO2e 
+  
+Calculated 
+Annually 
+VCUt 
+Number of Verified Carbon Units (VCUs) to 
+be made available for trade at time t 
+t CO2e 
+  
+Calculated 
+Annually 
+VEF 
+Volume expansion factor 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+VEXw,j,fcl,t 
+Volume of timber for product class w of 
+species j extracted from within forest class 
+fcl at time t 
+m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+VOB10 
+Volume over bark above 10 cm DBH 
+m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+VOB30 
+Volume over bark above 30 cm DBH 
+m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+Volumedc 
+Volume of lying dead wood in density class 
+dc 
+m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+ 
+VM0015, v1.2 
+150 
+Notation 
+Description 
+Unit 
+Observation 
+Source 
+Monitoring 
+Vpl 
+Commercial volume of plot pl 
+m3/plot 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+Vtr 
+Commercial volume of tree tr 
+m3 
+  
+Measured or estimated 
+from literature 
+Only once at project start and 
+where mandatory 
+w 
+1, 2, 3, …, W wood product class (sawn-
+wood, wood-based panels, other industrial 
+roundwood, paper and paper board and 
+other) 
+dimensionless 
+  
+Defined 
+Only once at project start and 
+where mandatory 
+Wcl 
+Ncl/N 
+ 
+ 
+ 
+ 
+WWw 
+Wood waste for wood product class w – the 
+fraction immediately emitted through mill 
+inefficiency 
+dimensionless 
+  
+Measured or estimated 
+from literature 
+Only once at project start 
+XF 
+Plot expansion factor from per plot values 
+to per hectare values 
+dimensionless 
+  
+Calculated  
+Only once at project start and 
+where mandatory 
+z 
+1, 2, 3, …, Z post deforestation zones with 
+a characteristic mixture of final post-
+deforestation classes (fcl) 
+ 
+ 
+ 
+ 
+ 
+ 
+VM0015, v1.2 
+ 
+ 
+9.2 
+Description of the Monitoring Plan 
+There are three main monitoring tasks: 
+1) Monitoring actual carbon stock changes and GHG emissions in the project area 
+(Section 8.2.20); 
+2) Monitoring leakage (Section 8.3); and 
+3) Ex post calculation of net GHG emission reductions (Section 8.4). 
+Prepare a monitoring plan describing how these tasks will be implemented. The monitoring plan 
+must include the following sections for each task: 
+a) Technical description of the monitoring tasks; 
+b) Data to be collected (see Section 9.1); 
+c) Overview of data collection procedures; 
+d) Quality control and quality assurance procedures;  
+e) Data archiving; and 
+f) Organization and responsibilities of the parties involved in all of the above. 
+To allow transparent comparison between ex ante and ex post estimates, use the same formats 
+and tables presented in Steps 1–9 of this methodology to report the results of monitoring.

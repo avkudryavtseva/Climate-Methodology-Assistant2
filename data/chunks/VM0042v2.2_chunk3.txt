@@ -1,0 +1,88 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS document Program Definitions, the following 
+definitions apply to this methodology.  
+Annual 
+A plant species that within one year completes its life cycle, reproduces, and dies. 
+Baseline control site 
+Defined area that is managed according to pre-project (baseline) practices (as set out in the 
+schedule of activities) for direct measurement of baseline soil organic carbon stock change. It 
+is linked to and representative of the land in one or more quantification units. Baseline control 
+sites may be within or outside of the project area.  
+Historical look-back period 
+The time period prior to the project start date covering at minimum three years and one 
+complete crop rotation. The historical look-back period is used to produce the schedule of 
+activities (see definition below). 
+Improved agricultural land management practice  
+An agricultural practice yielding increased soil organic carbon storage or other climate benefit, 
+involving a refinement to fertilizer or other soil amendment application, water 
+management/irrigation, tillage, residue management, crop planting and harvesting, and/or 
+grazing practices. Projects may implement a single practice or a combined (stacked) practice 
+on each field or land part of their project. 
+ 
+2 This tool was deactivated by the CDM as it is no longer required due to methodology improvements (see CDM 
+Executive Board Meeting Report 68 from 16–20 July 2012). There were no technical concerns with the procedures 
+described in the tool; therefore, it is still valid in the context of VM0042. 
+3 This tool was deactivated by the CDM as it is no longer required as a standalone document (see CDM Executive Board 
+Meeting Report 75 from 30 September–4 October 2013). There were no technical concerns with the procedures 
+described in the tool; therefore, it is still valid in the context of VM0042. 
+ 
+VM0042, v2.2 
+ 8 
+ 
+ 
+Inelastic neutron scattering (INS) 
+An in-field (in situ) measurement technique based on the detection and analysis of gamma rays 
+emitted by soil elements after irradiation with neutrons. It is also known as neutron-stimulated 
+gamma ray analysis or spectroscopy.  
+Infrared spectroscopy 
+Mid-infrared (MIR), near-infrared (NIR), and visible near-infrared (Vis-NIR) spectroscopy, 
+including diffuse reflectance spectroscopy (DRS) and diffuse reflectance infrared Fourier 
+transform spectroscopy (DRIFT). Vis-NIR combines the visible and near-infrared electromagnetic 
+range and usually refers to a wavelength range from 350 to 2500 nm (visible range is between 
+350 and 700 nm). MIR covers the range between 4000 cm−1 and 600 (or 400) cm−1, 
+depending on the instrument.  
+Laser-induced breakdown spectroscopy (LIBS) 
+Application of a high-energy pulse to soil samples to generate a high-temperature plasma, 
+which emits radiation at different wavelengths depending on the elements present in the 
+sample 
+Nitrogen-fixing species 
+Any plant species that associates with nitrogen-fixing microbes found within nodules formed on 
+the roots, including but not limited to soybeans, alfalfa, and peas 
+Organic nitrogen fertilizer  
+Any organic material containing nitrogen, including but not limited to animal manure, compost, 
+and biosolids 
+Perennial  
+A plant species whose life cycle, reproduction, and death extends across multiple years 
+Professional agronomist 
+An individual with specialized knowledge, skills, education, experience, or training in crop 
+and/or soil science. Such individuals may be agricultural experts like soil scientists, husbandry 
+specialists, agronomists, or representatives of a governmental agricultural body. 
+Project domain 
+Set of conditions (including crop type, soil texture, and climate) in which model application has 
+been validated (see VCS Module VMD0053 Model Calibration, Validation, and Uncertainty 
+Guidance for Improved Agricultural Land Management) 
+Sample point 
+Sample location of undefined area 
+Quantification unit 
+Defined area within the project for which GHG emission reductions and carbon dioxide 
+removals (reductions and removals) are estimated using the selected quantification approach.  
+ 
+VM0042, v2.2 
+ 9 
+ 
+ 
+Schedule of activities 
+Annual schedule of historical management/activity practices applied in the baseline scenario 
+over the historical look-back period (e.g., tillage, planting, harvest, and fertilization events). 
+These practices are determined following the data requirements given in Box 1. 
+Stratum 
+A subset of each quantification unit within which the value of a variable, and the processes 
+leading to change in that variable, are relatively homogenous.  
+Synthetic nitrogen fertilizer  
+Any fertilizer made by chemical synthesis (solid, liquid, gaseous) and containing nitrogen. This 
+may be a single nutrient fertilizer product (only including N), or any other synthetic fertilizer 
+containing N, such as multi-nutrient fertilizers (e.g., N–P–K fertilizers) and “enhanced-
+efficiency” N fertilizers (e.g., slow release, controlled release, and stabilized N fertilizers). 
+Woody perennials  
+Trees and shrubs having a life cycle lasting more than two years, excluding cultivated annual 
+species with lignified tissues, such as cotton or hemp

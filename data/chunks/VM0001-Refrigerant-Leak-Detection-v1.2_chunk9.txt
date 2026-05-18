@@ -1,0 +1,292 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions are determined using the annual average leak rate from refrigerants of 
+each retail store during the baseline period. This includes refrigerant emitted during operations, 
+repair and maintenance of the equipment within the project boundary.  
+The baseline period for store equipment consists of at least three years prior to the installation 
+of the leak detection equipment for that store equipment. 
+Where such historical data records prior to the installation of the leak detection equipment are 
+unavailable, subsequent consecutive years must be included.  
+If refills are less frequent than three years, the baseline period must be adjusted to cover at 
+least one full refill cycle. 
+ 
+VM0001, v1.2 
+ 
+9 
+The project proponent must demonstrate that the selected baseline period is conservative. 
+The data inputs are based on those the company uses for HFC refrigerant reporting compliance 
+purposes under the Kigali amendment of the Montreal Protocol. Therefore, baseline data must 
+be based on such corporate records for the relevant project locations. Data must include the 
+equipment’s refrigerant charges and refills/replacements/leaks/use data (based on leak 
+records and/or purchase records for replacement refrigerant as reflected in the compliance 
+systems) according to the steps described below. 
+Since this is a retrofit project and the number of stores with leak detection systems may 
+increase over time, the historical baseline must be recalculated each year y to account for new 
+stores added or stores removed. The historical baseline is based on all store equipment with 
+leak detection systems installed by year y. This ensures that the historical baseline is taken 
+from the same set of systems against which the new total leak detection systems have been 
+retrofitted and against which the leak rates for year y will be estimated. Thus, baseline 
+emissions are given by a baseline leak rate BLRy for each year y. 
+The baseline leak rates are estimated using the following procedures and equations. 
+The historical baseline is calculated as a three-year average based on HFC refrigerants. 
+Calculations use totals for leaks and charges across all the refrigeration systems in stores 
+where leak detection systems have been installed and HFCs are in use by year y. 
+𝐵𝐿𝑅𝑦= 1
+3 × ∑
+(∑ 𝐿𝑥,𝑠
+𝑠
+/ ∑ 𝐶𝑥,𝑠
+𝑠
+)
+𝑥=𝑋
+𝑥=1
+ 
+(1) 
+Where:  
+BLRy 
+= Baseline leak rate from all store equipment with leak detection systems installed 
+and HFCs in use by year y (%) 
+Lx,s 
+= Total leaks from refrigerants in baseline year x from store equipment s that has 
+leak detection systems installed and HFCs in use by year y (kg) 
+Cx,s 
+= Total charge for refrigerants in baseline year x from store equipment s that has 
+leak detection systems installed and HFCs in use by year y (kg) 
+s 
+= Store equipment included in the project activity 
+x 
+= Baseline year for each store equipment s, including at least three consecutive 
+years x.  
+The total leaks and charge volumes are estimated from the database systems used for HFC 
+management. These systems measure the refrigerants used to refill the equipment each time a 
+leak occurs, reflecting the amount of refrigerant leaked. Each system entry describes the 
+amount of refrigerant injected into the equipment at the time of a leak, thus providing data 
+inputs that, summed over a year, give totals for Lx,s. These same data systems also document 
+the refrigerant charges for each piece of store equipment. Summing the refrigerant charges for 
+each piece of relevant equipment in the store s gives the total for Cx,s. 
+ 
+VM0001, v1.2 
+ 
+10 
+Lx,s includes adjustments for seasonal top-offs and draw-downs where practiced in the store 
+equipment. These are seasonal increases and decreases in refrigerant charge levels to adjust 
+for seasonal temperature changes in the environment. Top-offs are considered a leak (thus an 
+addition to Lx,s), while draw-downs are considered the opposite and thus a deduction to Lx,s 
+where recovered and not vented. 
+Where three years historical leak rate information prior to leak detection system installation is 
+not available, a more conservative alternative historical baseline may be created by including 
+emission rates from subsequent consecutive years. 
+For instance, if only two years historical data is available in a store, the baseline period (x1, x2, 
+x3) for that store will include two years before project implementation and one year after 
+implementation. 
+If only one-year historical data is available, the baseline period for that store will be one year 
+before and one year after, for the first project year; and one year before and two years after, for 
+the second project year. 
+Baseline Cap 
+A baseline leak rate cap (CAP BLRy) must be applied using the data from the GreenChill Program 
+of the U.S. Environmental Protection Agency (EPA) as per Table 2. 
+Table 2: Baseline leak rate cap (CAP BLRy)  
+EPA Green Chill share 
+CAP BLRy (%) 
+If Green Chill members’ share of 
+industry is less than 50% 
+Highest leak rate from among their members’ averages 
+If Green Chill members’ share of 
+industry is more than 50% 
+Leak rate achieved by the supermarket member which, on a 
+ranked basis from highest performing to lowest performing (that is 
+lowest leak rate to highest leak rate) represents the 50th percentile 
+of retail stores (see example below) 
+Example: 
+Supermarket “i” 
+(anonymous)  
+LRi  
+Avg. leak rate for 
+supermarket i  
+ICi  
+% Industry capacity  
+Sumi = 0 through i (ICi)  
+Cumulative Capacity  
+Supermarket A 
+7% 
+3% 
+3%  
+Supermarket B 
+9% 
+15% 
+18%  
+Supermarket C 
+11% 
+4% 
+22%  
+Supermarket D 
+13% 
+12% 
+34%  
+Supermarket E 
+15% 
+8% 
+42%  
+Supermarket F 
+17% 
+10% 
+52%  
+Supermarket G 
+19% 
+5% 
+57%  
+Supermarket H 
+21% 
+3% 
+60%  
+ 
+ 
+ 
+VM0001, v1.2 
+ 
+11 
+Additionally, a second cap of 25%, based on the EPA’s estimate for the U.S. industry average 
+leak rate, is applied. 
+Final Baseline Selection 
+The final baseline leak rate (Final BLRy) is determined per Equation 2: 
+𝐹𝑖𝑛𝑎𝑙 𝐵𝐿𝑅𝑦= 𝑚𝑖𝑛(𝐵𝐿𝑅𝑦, 𝐶𝐴𝑃 𝐵𝐿𝑅𝑦, 25%) 
+(2) 
+ 
+Where:  
+Final BLRy 
+= 
+Final baseline leak rate in year y (%) 
+BLRy 
+= 
+Baseline leak rate from all store equipment with leak detection systems 
+installed and HFCs in use by year y (%) 
+CAP BLRy 
+= 
+Baseline leak rate cap for Green Chill members as outlined in Table 2 (%) 
+25% 
+= 
+EPA’s estimate for the U.S. industry average leak rate 
+8.2 
+Project Emissions 
+Project emissions are determined using the average leak rate in year y arising from the total 
+refrigerants emitted during operations, repair or maintenance of the equipment within the 
+project boundary. 
+The project emissions from HFCs are estimated using the following approach and equations. 
+𝑃𝐿𝑅𝑦 = ∑ 𝐿𝑦,𝑠
+𝑠
+/ ∑ 𝐶𝑦,𝑠
+𝑠
+  
+(3) 
+Where: 
+PLRy 
+= Project leak rate from stores equipment that has leak detection systems installed 
+and HFCs in use by year y (%) 
+Ly,s 
+= Total leaks from refrigerants in year y from store equipment s that has leak 
+detection systems installed and HFCs in use by year y (kg) 
+Cy,s 
+= Total charge for refrigerants in year y from store equipment s that has leak 
+detection systems installed and HFCs in use by year y (kg) 
+ 
+Note – Ly,s includes adjustments for top-offs and draw-downs where practiced in the store 
+equipment. 
+8.3 
+Leakage Emissions 
+There is no requirement for the project to consider leakage as it is not likely to occur for the 
+following reasons: 
+ 
+VM0001, v1.2 
+ 
+12 
+• 
+Any refrigerant savings achieved in the store location due to lower leak rates will result in 
+smaller refrigerant purchases. Thus, any upstream leaks during manufacture or 
+transportation of the refrigerant (which are estimated to be a relatively low percentage of 
+total supply chain leaks from refrigerant use) will also be reduced. Such “positive 
+leakage” is conservatively set at zero. 
+• 
+Any top-off or draw-down changes in refrigerant use for the relevant period are already 
+captured under Ly,s and Lx,s. 
+• 
+The leak detection systems do not control, influence or impact the release of refrigerants 
+when equipment is decommissioned. 
+• 
+This methodology does not apply to used leak detection equipment sourced from 
+outside the project boundary, since in this case emissions may increase in the external 
+location while emissions reductions are counted within the project. Leak detection 
+equipment already installed in DX equipment within the project boundary may be 
+removed (e.g., where DX equipment is being decommissioned) and used again (e.g., 
+where new DX equipment is purchased) since these changes all take place within the 
+project boundary. 
+8.4 
+Net Reductions and Removals 
+Emission reductions are calculated as follows:  
+𝐿𝑅𝑅𝑦= 𝐹𝑖𝑛𝑎𝑙 𝐵𝐿𝑅𝑦−𝑃𝐿𝑅𝑦  
+(4) 
+Where: 
+LRRy 
+= Leak rate reduction for project in year y (%) 
+Final BLRy = Final baseline leak rate in year y (%) 
+PLRy 
+= Project leak rate from stores equipment that has leak detection systems installed 
+and HFCs in use by year y (%)  
+ 
+𝐸𝑅𝑦= 𝐿𝑅𝑅𝑦× ∑ 𝐶𝑦,𝑠
+𝑠
+× 𝐺𝑊𝑃𝐻𝐹𝐶,𝑦
+1000
+ 
+(5) 
+Where: 
+ERy 
+= Emissions reductions in year y (t CO2e) 
+LRRy 
+= Leak rate reduction for project in year y (%) 
+Cy,s 
+= Total charge for refrigerants in year y from store equipment s that has leak 
+detection systems installed and HFCs in use by year y (kg) 
+GWPHFC,y 
+= Weighted average global warming potential of HFCs installed/used in year y 
+(t CO2e/t HFC) 
+ 
+VM0001, v1.2 
+ 
+13 
+The weighted average global warming potential GWPHFC,y is calculated by the following equation: 
+𝐺𝑊𝑃𝐻𝐹𝐶,𝑦= 
+∑(𝐿𝑇,𝑦 × 𝐺𝑊𝑃𝑇)
+𝑇
+∑𝐿𝑇,𝑦
+ 
+(6) 
+Where: 
+LT,y 
+= Total leaks from refrigerant substance type T in year y from all store equipment 
+that has leak detection systems installed and HFCs in use (kg) 
+GWPT 
+= Global warming potential of refrigerant substance* type T installed/used in year y 
+(t CO2e/t HFCT) 
+Where HFC/HFOs blends are used, the GWP of HFO is zero as illustrated in Table 3. 
+Table 3: Example of GWPHFC,y calculation 
+ 
+LT,y 
+GWPT 
+LT,y × GWPT 
+HFC 1 
+100 
+600 
+60 000 
+HFC 2 
+50 
+3 000 
+150 000 
+HFC 3 
+40 
+1 000 
+40 000 
+HFO 1* 
+10 
+0

@@ -1,0 +1,1894 @@
+8 
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions: 
+The baseline emissions are calculated from the baseline scenario selected in Section 6.  This baseline scenario 
+does not change during the project duration, however, as outlined in Section 8.2.4, certain data or model 
+parameter changes may require remodeling baseline carbon pools in future verifications.   
+All calculations in this methodology represent annualized net changes in carbon stocks by polygon. Results from 
+each polygon must therefore be summed across the project activity area to determine the annual total net 
+emissions and reductions.   
+Valid Starting Inventory Requirements 
+Project proponents must provide a valid starting forest inventory meeting the following requirements: 
+1. Pertaining directly to the entire project area; and, 
+2. Created, updated, or validated <10 years ago; and, 
+3. Documentation is available describing the methods used to create, update, or otherwise validate the 
+starting inventory, including statistical analysis, field data, and/or other evidence11,12.   
+Baseline Scenario Area Stratification 
+The process of stratifying the area represented in the baseline scenario should include two steps. The first is to 
+divide the area (ABSL) into homogeneous units (polygons) from the perspective of carbon storage and 
+sequestration.  The second step is to identify areas within the project area that are eligible for specific forest 
+management activities within the baseline and project scenario. 
+STEP 1 – Stratify to create homogeneous units 
+If the project activity area is not homogeneous, stratification should be carried out to improve the accuracy and 
+precision of biomass estimates13.  Different stratifications may be required for the baseline and project scenarios in 
+order to improve accuracy in the estimates of net GHG removal by sinks.  For estimation of the baseline net GHG 
+removals by sinks, or calculation of actual net GHG removals, homogeneous polygons14 should be defined on the 
+basis of parameters that will be used as key entry variables in the methods used to estimate changes in biomass 
+stocks (for example, growth models or yield curves/tables). These include:  
+1. Management regime. For example, types of harvesting (clear cutting, patch retention), and land 
+conversions for roads and landings. 
+2. Site index / anticipated growth rates  
+3. Forest species  
+4. Age class  
+Useful tools for defining polygons include ground-truthing maps from satellite imagery, aerial photos, and maps of 
+vegetation, soils, and topography.  
+                                              
+11 Note that this methodology evaluates uncertainty using actual results from an ex-post plot network program (see Section 8.5.3) and hence 
+does not mandate a starting inventory accuracy requirement. Project proponents, however, must provide evidence that the starting inventory 
+has been validated to regional common practice minimum standards for use in ex-ante modeling.   
+12 Project proponents may provide supporting evidence using local inventory validation results from outside the project area if: they are based 
+on directly comparable inventory methods, overall average forest cover and condition are comparable, and if the data refer to comparable or 
+larger scale properties.   
+13 For further details, see http://cdm.unfccc.int/methodologies/DB/YDYGY2G5VNPKVHB7B9SU12RRWRL439/view.html 
+14 At minimum, more than one polygon per project is required for the statistical calculations in Section 8.5.3.  
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+12 
+In the case where a project area is large and spans a diverse range of forest types and ages, the area may need 
+to be stratified into hundreds or even thousands of polygons. When the number of polygons is ≥ 25, the proponent 
+has the option of aggregating similar polygons into “analysis units15” to facilitate modeling and monitoring. This 
+practice is common when planning management activities over large forest management areas. The use of 
+analysis units allows polygons to be grouped based on similarities in the polygon criteria, including removing 
+differences associated with stand age. Each analysis unit is modeled from the period of stand initiation to a mature 
+end point. The attributes (e.g. biomass and dead organic matter pools) of each analysis unit are recorded for every 
+year of growth and stored in a database that can easily be linked back to a specific stand age. 
+STEP 2 – Identify areas eligible for specific management activities 
+To assure the project includes only eligible management activities, proponents must identify areas within the 
+project boundary that would be subject to timber harvesting and other management activities under the baseline 
+scenario. A timber harvesting land base (THLB) should be identified based upon harvesting plans that reflect the 
+historical and future anticipated location and rates of timber extraction. Specific information used to define the 
+THLB should include:   
+1. The spatial location and extent of forested versus non-forested areas 
+2. Merchantable and operable forest areas suited to economic timber extraction 
+3. The spatial location and extent of legal land use restrictions and legally required protected areas. 
+The THLB is essentially used to refine and focus baseline and project forest management activity projections and 
+modeling, in a manner consistent with the selected scenarios and related common practice.   
+8.1.1 
+Model Selection and Use 
+It will be necessary to employ mathematical models to project annual carbon stock changes over time in the 
+various carbon pools.  Although it may be possible to utilize a series of spreadsheet calculations for simple forest 
+situations, in most cases complex forest management models (both at the stand and landscape-level) will need to 
+be employed. Regardless of the type of model used, the same model must be used for both the baseline and 
+project scenarios to ensure consistency in the carbon projections. 
+A hierarchy of suitability should be applied in selecting an appropriate model, in accordance with the following 
+criteria: 
+1. Well established (i.e., have been under continuous use and development for 10 years, or longer); 
+2. Generate values on an annual basis (preferably), or at intervals not exceeding 10 years. 
+3. Include a reasonable representation of mortality from stand-self thinning and natural disturbance agents 
+that are regionally appropriate. Adjustments may need to be made by project proponents to account for 
+these factors if they are not well represented. Rationale must be provided when making adjustments. 
+4. Output data are expressed in carbon units (tC/ha) or as biomass (t/ha), and are calculated for each of the 
+required carbon pools (See Table 1). If expansion factors are used in combination with growth and yield 
+model(s), they should be based upon regionally specific studies and applied only for the appropriate region 
+and species. 
+5. Well documented and expert reviewed. In order of preference, these include (a) ongoing publications in 
+peer-reviewed scientific journals, (b) documented reviews by expert practitioners in 
+forestry/biology/ecology, and/or (c) approved by government for use in forest management activities; 
+6. Parameterized, calibrated, and tested for the specific conditions of the project.  
+                                              
+15 At minimum, more than one analysis unit is required for the statistical calculations in Section 8.5.3.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+13 
+The following criteria are preferred but not required: 
+7. Documented as appropriate for simulating the ecological and management scenarios that define the 
+baseline and project case;  
+8. Process-based models that simulate carbon dynamics directly (in the case of stand-level models) or in the 
+case of landscape models (i.e. forest estate models), be driven by inputs from these stand level models. 
+Process models that simulate all carbon pools within an ecosystem are preferred because their projections 
+of carbon dynamics in the required and optional pools should be more accurate and easier to monitor and 
+verify. Examples of appropriate stand-level growth models include FORECAST (Seely, Kimmins, Welham, 
+& Scoullar, 1999), and CO2FIX (Masera & et al, 2003) 
+9. Growth and yield models are commonly used to project productivity in managed and unmanaged forest 
+stands. In most cases their output is in the form of an annual merchantable timber volume increment.  
+Examples include TASS/TIPSY, and VDYP (British Columbia Ministry of Forests and Range16), and the 
+US Forest Service’s Forest Vegetation Simulator (FVS) model17. This approach is less desirable because 
+volume must be converted using a series of expansion factors representing each carbon pool. An example 
+of this approach is the Carbon Budget Model of the Canadian Forest Service (CBM CFS3 (Kurz & et al., 
+2009), which uses volume curves as input data. For details on the use of expansion factors, see Pearson 
+et al. 2007. This extra step in conversion introduces the potential for additional error into the pool 
+estimates.  
+In addition, project proponents will make available, at validator/verifier request, documentation of: 
+1. The appropriateness of the selected model(s) to the particular project application; 
+2. A listing and explanation of all input data, output data, and model parameters/assumptions.   
+8.1.2 
+Calculating the Baseline Carbon Balance 
+This methodology employs the IPCC gain-loss method (IPCC, 2006a), which requires the biomass carbon loss be 
+subtracted from the biomass carbon increment for the reporting year. This method is particularly appropriate for 
+areas with a mix of stands of different forest types, and/or where biomass change is very small compared to the 
+total amount of biomass. Further details can be found in (IPCC, 2006a) (Ch. 4). 
+The total annual carbon balance in year, t, for the baseline scenario is calculated as (∆CBSL,t, in t C yr-1):  
+∆CBSL,t = ∆CBSL,P,t 
+(1) 
+where: 
+∆CBSL,P,t =  annual change in carbon stocks in all pools in the baseline across the project activity area; t C yr-1 . 
+∆CBSL,P,t = ∆CBSL,LB,t + ∆CBSL,DOM,t + ∆CBSl,HWP,t 
+(2) 
+where: 
+∆CBSL,LB,t = annual change in carbon stocks in living tree biomass (above- and belowground); t C yr-1  
+∆CBSL,DOM,t = annual change in carbon stocks in dead organic matter; t C yr-1 
+∆CBSl,HWP,t = annual change in carbon stocks associated with harvested wood products, t C yr-1.   
+                                              
+16 http://www.for.gov.bc.ca/hre/StandDevMod/index.htm 
+17 http://www.fs.fed.us/fmsc/fvs/ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+14 
+∆CBSL,LB,t = ∆CBSL,G,t – ∆CBSL,i,t 
+(3) 
+where: 
+∆CBSL,G,t = annual increase in tree carbon stock from growth; t C yr-1 
+∆CBSL,L,t = annual decrease in tree carbon stock from a reduction in live biomass; t C yr-1.  
+If the project area has been stratified, carbon pools are calculated for each polygon, i, and then summed during a 
+given year, t.   
+8.1.3 
+Live Biomass Gain 
+Live biomass gain in year, t, polygon, i (∆CBSL,G,i.t) is calculated as:  
+∆CBSL,G,t = Σ(ABSL,i ● GBSL,i,t) ● CF 
+(4) 
+where: 
+ABSL,i, = area (ha) of forest land in polygon, i;  
+GBSL,i,t = annual increment rate in tree biomass (t d.m. ha-1 yr-1), in  polygon, i, and; 
+CF = carbon fraction of dry matter t C t-1 d.m. (IPCC default value = 0.5).  
+GBSL,i,t = GBSL,AG,i,t + GBSL,BG,i,t 
+(5a) 
+where: 
+GBSL,AG,i,t and GBSL,BG,i,t = annual above- and belowground biomass increment rates (t d.m. ha-1 yr-1); 
+GBSL,BG,i,t = GBSL,AG,i,t ● Ri 
+(5b) 
+where Ri is the root:shoot ratio in polygon, i. Ri should ideally be estimated for each polygon, but these data are 
+difficult to derive empirically. Hence, general relationships are acceptable as long as they are appropriate for the 
+species and region associated with the project (Cairns, 1997). 
+Equations 4 and 5 can be used directly to calculate ∆CBSL,G,t when all tree cover within a polygon is removed by 
+harvesting (i.e., clearfelling) and no residual structure is retained. In cases of partial harvesting and/or multiple 
+entries into a polygon, these equations must be applied separately to each of the resulting sub-polygons (the 
+different age classes that are created). This ensures that growth rates reflect the difference in forest age between 
+the sub-polygons. 
+The ex ante calculation of GBSL,i,t (either directly, or from its component parts) will be derived from models that 
+require inputs derived, in part, from forest inventory data. Criteria for model suitability are provided in 8.1.1.1. The 
+exact form of the input data depends on the nature of the model but may include site index, species composition, 
+and volume.  
+Inventory data used for this purpose must: 
+1. Pertain directly to the project area, and 
+2. Not be more than 10 years old. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+15 
+Typically, inventory data provide only a generalized description of stand attributes such that only average values 
+(versus species-specific estimates) can be used in the ex ante modeling exercise. 
+Some models will require estimates for parameter values not traditionally measured in typical forest inventories 
+activities.  Project proponents must make reasonable efforts to acquire sources of such data in accordance with 
+the following priority list (best to least desirable):  
+1. Project area and forest-type specific 
+2. Regional estimates, from the same or similar ecosystems or forest types 
+3. National estimates that represent averages for similar forest types 
+4. Global estimates for generally similar forest types.   
+8.1.4 
+Live Biomass Loss 
+The annual decrease in live biomass tree carbon from live biomass loss (∆CBSL,L,t; t C yr-1) is the sum of losses 
+from: 
+1. Natural mortality (i.e. insects, disease, competition, wind, etc.) 
+2. Commercial round wood felling  
+3. Incidental sources.   
+Losses must be specific to a given polygon; each polygon must be summed in order to calculate total annual loss 
+across the project activity area. The live biomass losses are not emitted directly, but rather are transferred to dead 
+organic matter pools.  
+∆CBSL,L,t = Σ(LBLBSL,NATURALi,t + LBLBSL,FELLINGS,i,t + LBLBSL,OTHER,i,t) ● CF 
+(6) 
+where: 
+LBLBSL,NATURALi,t = annual loss of live tree biomass due to natural mortality in polygon, i; t d.m. yr-1   
+LBLBSL,FELLINGS,i,t = annual loss of live tree biomass due to commercial felling in polygon, i; t d.m. yr-1 
+LBLBSL,OTHER,i,t = annual loss of live tree biomass from incidental sources in polygon, i; t d.m. yr-1 
+CF = carbon fraction of dry matter; t C t-1 d.m. (IPCC default value = 0.5).  
+LBLBSL,NATURALi,t = ABSL,i ● LBBSL,i,t ● f BSL,NATURAL,i,t  
+(7)18 
+where  
+ABSL,i = area (ha) of forest land in polygon, i;  
+LBBSL,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t  
+LBBSL,i,t is calculated for year, t, beginning with biomass estimates in year t=1 (the project start year) and with 
+annual biomass increments (GBSL,i,t) added as per calculations in equation 5a.  
+fBSL,NATURAL,i,t = the annual proportion of biomass that dies from natural mortality in polygon , i (unitless; 0 < 
+fBSL,NATURALi < 1), year, t. Tree mortality is an ongoing process during stand development. Trees die as a 
+consequence of insect attack, disease, competition, or some combination thereof. Hence, mortality can be highly 
+                                              
+18 Note, for Equation 7, 8, and 9:  (f BSL,NATURAL,i,t + fBSL,HARVEST,i,t + fBSL,DAMAGE,i,t) ≤ 1.0 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+16 
+variable between years. This parameter can be applied uniformly across an analysis unit, or individually to a given 
+polygon. Sources for mortality estimates include permanent sample plots in similar stand types, literature reports, 
+and inventory data.  
+LBLFELLINGS,i,t = ABSL,i ● LBBSL,i,t ● fBSL,HARVEST,i,t  
+(8) 
+where: 
+ABSL,i = area (ha) of forest land in polygon, i 
+LBBSL,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t (see equation 7 for its calculation). 
+fBSL,HARVEST,i,t = the proportion of biomass removed by harvesting from polygon, i, (unitless; 0 < fBSL,HARVESTIi < 1), in 
+year, t. Data for this variable should be obtained from harvest schedule information. Values may be constrained by 
+(a) the value of fBSL,NATURAL,i,t (i.e., fBSL,HARVEST,i,t < 1- fBSL,NATURAL,i,t), and/or (b) the area of timber available for 
+commercial harvest. 
+Incidental loss (LBLBSL,OTHER,i,t; t d.m. yr-1) is the additional live tree biomass removed for road and landing 
+construction in the polygon, i, and is calculated as a proportion of biomass removed by harvesting:  
+LBLBSL,OTHER,i,t = ABSL,i ● LBBSL,i,t ● fBSL,DAMAGE,i,t 
+(9)  
+where: 
+ABSL,i = area (ha) of forest land in polygon, i; 
+LBBSL,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t  
+fBSL,DAMAGE,i,t  = the proportion of additional biomass removed for road and landing construction in polygon, i, year, t 
+(unitless; 0 < fBSL,DAMAGE,i,t < 1)19. Data for this variable should be based on regional and local comparative studies 
+and experiential information derived from the local forest industry20.   
+8.1.5 
+Dead Organic Matter Dynamics (∆CBSL,DOM) 
+Dead organic matter (DOM) included in this methodology comprises three components: standing dead wood 
+(minimum > 5 cm DBH and 1.3 m height; termed snags), lying dead wood (minimum > 5 cm DBH; LDW), and 
+belowground dead wood (i.e., dead roots). Standing dead wood is < 45º of vertical, while lying dead wood is > 45º 
+of vertical. Carbon stored within dead belowground biomass and lying dead wood pools must not be assumed to 
+be released immediately following disturbance.  Rather decay must be modeled using a scientifically credible 
+decay function (such as the exponential model referenced in Equation 13) in which a minimum of 10 years is 
+required for complete loss of stored carbon. 
+ 
+The annual change in carbon stocks in DOM (∆CBSL,DOM; t C yr-1) is calculated as: 
+∆CBSL,DOM,t = ∆CBSL,LDW,t + ∆CBSL,SNAG,t + ∆CBSL,DBG,t 
+(10) 
+                                              
+19 Projecting ex-ante road and landing removals beyond a few years is difficult and complex.  As described, fBSL,DAMAGE,i,t functions 
+as a proxy for estimating biomass impacts of all new roads and landings associated with annual harvesting in polygon, i.  
+Project proponents can simulate LBLBSL,OTHER,i,t directly, if appropriate models are available.   
+20 fBSL,DAMAGE,i,t may be zero or de minimis in cases where a polygon is already roaded.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+17 
+where: 
+∆CBSL,LDW,t = change in lying dead wood (LDW) carbon stocks in year, t; t C yr-1 
+∆CBSL,SNAG,t = change in snag carbon stock in year, t; t C yr-1 
+∆CBSL,DBG,t = change in dead belowground biomass carbon stock in year, t; t C yr-1. 
+∆CBSL,LDW,t = Σ(LDWBSL,IN,i,t – LDWBSL,OUT,i,t) ● CF 
+(11a) 
+LDWBSL,i,t+1 = LDWBSL,i,t + (LDWBSL,IN,i,t – LDWBSL,OUT,i,t) 
+(11b) 
+where: 
+LDWBSL,,i,t = The total mass of lying dead wood accumulated in polygon  i , at time, t (t d.m.). 
+LDWBSL,IN,i,t = annual increase in LDW biomass for polygon i, year, t (t d.m yr-1). LDW increases occur as a result of 
+natural mortality (typically, blowdown), and as a direct or indirect result of harvesting. 
+LDWBSL,OUT,i,t = annual loss in LDW biomass through decay, for polygon  i, year, t, (t d.m yr-1) 
+LDWBSL,IN,i,t and LDWBSL,OUT,i,t are summed across polygons. 
+CF = carbon fraction of dry matter (IPCC default value = 0.5).  
+LDWBSL,IN,i,t = (LBLBSL,NATURALi,t - LBLBSL,NATURALi,t ● Ri) ● fBSL,BLOWDOWN,i,t +  
+((LBLBSL,FELLINGS,i,t – LBLBSL,FELLINGS,i,t ● Ri) +  
+(LBLBSL,OTHER,i,t - LBLBSL,OTHER,i,t ● Ri)) ● fBSL,BRANCH,i,t +  
+((LBLBSL,FELLINGS,i,t – LBLBSL,FELLINGS,i,t ● Ri) +  
+(LBLBSL,OTHER,i,t - LBLBSL,OTHER,i,t ● Ri)) ●  
+(1 - fBSL,BRANCH,i,t) ● fBSL,BUCKINGLOSS,i,t + SNAGBSL,,i,t ● fBSL,SNAGFALLDOWN,i,t 
+(12) 
+where: 
+LBLBSL,NATURALi,t, LBLBSL,FELLINGS,i,t, and LBLBSL,OTHER,i,t are as calculated in equations 7, 8, and 9, respectively. 
+Ri is the root:shoot ratio in polygon, i (see equation 5b). 
+fBSL,BLOWDOWN,i,t = the annual proportion of live aboveground tree biomass subject to blowdown in polygon, i, year, t 
+(unitless; 0 < fBSL,BLOWDOWN,i,t < 1). Ex ante estimates must be derived preferably from regional reports in similar 
+forest types. 
+fBSL,BRANCH,i,t = the annual proportion of aboveground tree biomass comprised of branches > 5 cm diameter in 
+polygon, i (unitless; 0 < fBSL,BRANCH,i,t < 1). Ex ante data are available from allometric equations and models (for 
+example, (Kurz & Apps, 2006) for Canada; (Smith, Miles, Vissage, & Pugh, 2004) for the U.S.). In the event slash 
+burning was undertaken as part of regular management activities, this parameter should be reduced accordingly to 
+reflect the proportion of biomass remaining. Estimates should be obtained from expert opinion; as a default, 
+assume 100% consumption if slash burning occurs. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+18 
+fBSL,BUCKINGLOSS,i,t = the annual proportion of the log bole biomass left on site after assessing and/or merchandizing 
+the log bole for quality, in polygon, i (unitless; 0 < fBSL,BUCKINGLOSS,i,t < 1). Preferably, data for this variable must be 
+based on regional and local comparative studies and experiential information derived from the local forest industry. 
+Otherwise, an average default value of 21% can be used, based on US national summary statistics (Smith, Miles, 
+Vissage, & Pugh, 2004). 
+SNAGBSL,,i,t = the total mass of the snag pool in polygon, i, year, t (see equation 14b). 
+fBSL,SNAGFALLDOWN,i,t = the annual proportion of snag biomass in polygon, i, year, t, that falls over and thus is 
+transferred to the LDW pool (unitless; 0 < fSNAGFALLDOWN,i,t < 1). Ex ante estimates for this parameter can be derived 
+from peer reviewed literature (for example, (Parish, Antos, Ott, & Di Lucca, 2010) and forest carbon accounting 
+models that track the rates of input and losses from dead organic matter pools (for example, (Kurz & et al, 2009). 
+LDWBSL,OUT,i,t = LDWBSL,,i,t ● fBSL,lwDECAY,i,t 
+(13) 
+where: 
+LDWBSL,,i,t = the total amount of lying deadwood mass in polygon i, year, t (see equation 11b). fBSL,lwDECAY,i,t = the 
+annual proportional loss of lying dead biomass due to decay, in polygon i, year, t (unitless; ; 0 < fBSL,lwDECAY,i,t < 1). 
+A common approach to ex ante estimation of fBSL,lwDECAY,i,t is to assume mass loss occurs in proportion to the 
+amount of mass remaining in accordance with a single exponential model, of the general form: 
+Yt = Yo e–kt 
+where Yo is the initial quantity of material, Yt the amount left at time t, and k is a decay constant (Harmon, et al., 
+1986). Other types of exponential models are available (reviewed in (Harmon, et al., 1986)) and may be more 
+appropriate to particular forest types (to be described and justified by the project proponent, if used). Ex ante 
+estimates for the decay parameter appropriate for the project should be derived from peer-reviewed literature (for 
+example, (Harmon, et al., 1986); (Laiho & and Prescott, 2004); (Harmon et al, 2008)).   
+The change in standing dead wood (snag) carbon stock in year, t (t C yr-1) is calculated as: 
+∆CBSL,SNAG,t = Σ(SNAGBSL,IN,i,t – SNAGBSL,OUT,i,t) ● CF 
+(14a) 
+SNAGBSL,i,t+1 = SNAGBSL,i,t + (SNAGBSL,IN,i,t – SNAGBSL,OUT,i,t) 
+(14b) 
+where: 
+SNAGBSL,i,t = The total mass of snags accumulated in polygon i, at time t (t d.m.). 
+SNAGBSL,IN,i,t = annual gain in snag biomass for polygon i, year, t (t d.m yr-1). Snag biomass develops as a result of 
+natural mortality. In cases where snags are created through management activities, these should be accounted for 
+here. 
+SNAGBSL,OUT,i,t = annual loss in snag biomass through decay, or falldown (i.e, transfer to the LDW pool)(t d.m yr-1) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5). 
+Note that SNAGBSL,IN,i,t and SNAGBSL,OUT,i,t are summed across polygons. 
+SNAGBSL,IN,i,t = (LBLBSL,NATURALi,t - LBLBSL,NATURALi,t ● Ri) ● (1 - fBSL,BLOWDOWN,i,t) 
+(15) 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+19 
+where: 
+LBLBSL,NATURALi,t is as calculated in equation 7, and 
+1 - fBSL,BLOWDOWN,i,t is the proportion of live tree aboveground biomass that dies in polygon, i, year, t, but remains as 
+standing dead organic matter (i.e., snags) (unitless; 0 < fBSL,BLOWDOWN,i,t < 1). Ex ante default estimates for this 
+calculation can be derived from literature values (for example (Harmon, et al., 1986); (Runkle, 2000); (Harmon et 
+al, 2008)) and should be matched to the ecosystems that most closely characterize the project area. 
+SNAGBSL,OUT,i,t = SNAGBSL,i,t ● fBSL,SWDECAY,i,t + SNAGBSL,i,t ● fBSL,SNAGFALLDOWN,i,t  
+(16) 
+where: 
+SNAGBSL,i,t = the total amount of snag mass in polygon i, year, t (see equation 14b). fBSL,SWDECAY,i,t  = the annual 
+proportional loss of snag biomass due to decay, in polygon, i, year, t (unitless; 0 < fBSL,SWDECAY,i,t < 1). As with lying 
+dead wood, a common approach to estimating fBSL,SWDECAY,i,t is to assume mass loss occurs in proportion to the 
+amount of mass remaining in accordance with a single exponential model (see equation 13). Ex ante estimates for 
+this parameter should be derived from peer reviewed literature appropriate for the project site (for example, 
+Vanderwel et al. 2006a) and forest carbon accounting models that track the rates of input and losses from dead 
+organic matter pools for each forest type, productivity, and age-class (see, for example, Vanderwel et al., 2006b; 
+(Kurz & et al, 2009)).  
+fBSL,SNAGFALLDOWN,i,t = the annual proportion of snag biomass in polygon, i, that falls over and thus is transferred to 
+the LDW pool (unitless; 0 < fBSL,SNAGFALLDOWN,i,t < 1). See equation 12 for parameter estimates.  
+The annual change in DOM derived from dead belowground biomass (∆CBSL,DBG, ,t; t C yr-1) is calculated for each 
+polygon as per equation 17a. Calculation of ∆CBSL,DBG,t is specific to a given polygon; each polygon must therefore 
+be summed in order to calculate total annual loss across the project activity area. 
+∆CBSL,DBG,t = Σ(DBGBSL,IN,i,t – DBGBSL,OUT,i,t) ● CF 
+(17a) 
+DBGBSL,i,t+1 = DBGBSL,i,t + (DBGBSL,IN,i,t – DBGBSL,OUT,i,t) 
+(17b) 
+where: 
+DGBBSL,i,t = The total quantity of dead belowground biomass accumulated in polygon i, at time, t (t d.m.). 
+DBGBSL,IN,i,t = annual gain in dead belowground biomass for polygon i, year, t (t d.m yr-1). Dead belowground 
+biomass develops as a result of mortality through natural causes or through harvesting activities.  
+DBGBSL,OUT,i,t = annual loss in dead belowground biomass through decay, (t d.m yr-1) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5). 
+DBGBSL,IN,i,t = [(ABSL,i ● LBBSL,i,t ● Ri) ●  
+ 
+(fBSL,NATURAL,i,t + fBSL,HARVEST,i,t + fBSL,DAMAGE,i,t)]  
+(17c) 
+where: 
+ABSL,i = area (ha) of forest land in polygon, i;  
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+20 
+LBBSL,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t. LBBSL,i,t is calculated for year, t, beginning 
+with biomass estimates in year t=1 (the project start year) and with annual biomass increments (GBSL,i,t) added as 
+per calculations in equation 5 a, b. This value is then multiplied by ABSL,i, the area (ha) of forest land in polygon, i.   
+Ri is the root:shoot ratio in polygon, i (see equation 5b). 
+fBSL,NATURAL,i,t = the annual proportion of biomass that dies from natural mortality in polygon, i (unitless; 0 < fNATURALi 
+< 1), year, t (see equation 7), 
+fBSL,HARVEST,i,t = the proportion of biomass removed by harvesting from polygon, i, (unitless; 0 < fHARVESTIi < 1), year, t 
+(see equation 8),  
+fBSL,DAMAGE,i,t  = the proportion of additional biomass removed or road and landing construction in polygon, i 
+(unitless; 0 < fDAMAGE,i,t < 1), year, t (see equation 9) 
+DBGBSL,OUT,i,t = DBGBSL,i,t ● fBSL,dgbDECAY,i,t 
+(17d) 
+where: 
+DBGBSL,i,t = the total quantity of dead belowground in polygon i, year, t (see equation 17b).  
+fBSL,dgbDECAY,i,t = the annual proportional loss of dead belowground biomass due to decay, in polygon i, year, t 
+(unitless; ; 0 < fBSL,lwDECAY,i,t < 1). The ex ante estimation of the decay of dead belowground biomass should be 
+done using a similar single exponent decay function as that described above for lying deadwood biomass. 
+Estimates for the decay parameter appropriate for specific project should be derived from peer-reviewed literature 
+(see for example: (Moore, Trofymow, Siltanen, Prescott, & CIDET, 2005)); Melin et al. (2009); (Melin, Petersson, & 
+Nordfjell, 2009)). 
+8.1.6 
+Harvested Wood Products  
+This methodology considers the net emissions and carbon storage related to: 
+a. Wood products created from harvested logs removed from the project site,  
+b. The fossil fuel emissions from equipment and facilities involved in the harvesting, transportation, 
+and processing of wood products.   
+The annual change emissions associated with the production of harvested wood products (HWP), ∆CBSl,HWP,t, is 
+calculated as: 
+∆CBSl,HWP,t = ∆CBSL,STORHWP,t  – ∆CBSL,EMITFOSSIL,t, 
+(18) 
+∆CBSL,STORHWP,t = the annual change in harvested carbon that remains in storage after conversion to wood products 
+(t C yr-1) 
+∆CBSL,EMITFOSSIL,t = the annual change in fossil fuel emissions from harvesting (logging and log transport) and 
+processing of the various wood products.  
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+21 
+8.1.7 
+Carbon storage in harvested wood products (∆CBSL,STORHWP,t)  
+In accordance with the VCS AFOLU requirements (Version 3)21, emissions of carbon stored within harvested wood 
+products in IFM projects must be modeled based upon the following criteria: 
+a) For short-term wood products and wood waste that would decay within 3 years, all carbon must be 
+assumed to be lost immediately. 
+b) For medium-term wood products that are retired between 3 and 100 years, a 20-year linear decay 
+function must be applied. 
+c) For long-term wood products that are considered permanent (ie, carbon is stored for 100 years or 
+more), it may be assumed no carbon is released. 
+The annual change in carbon storage in harvested wood products in year t (∆CBSL,STORHWP,t; t C yr-1) is determined 
+based upon the following equation: 
+∆CBSL,STORHWP,t = (CBSL,STORHWP,t2 - CBSL,STORHWP,t1) / T 
+(19) 
+ 
+where: 
+CBSL,STORHWP,t2 = carbon storage in harvested wood products at t=2; t C 
+CBSL,STORHWP,t1 = carbon storage in harvested wood products at t=1; t C 
+T = number of years between monitoring t1 and t2 
+t : 1,2,3…t years elapsed since the project start date 
+ 
+For applications within North America this methodology has adapted data from the Forestry Appendix of the 
+Technical Guidelines of the US Department of Energy’s Voluntary Reporting of Greenhouse Gases Program 
+(known as Section 1605(b))22 to calculate proportions in use for the short-term and long-term wood products, from 
+which a remaining medium-term wood product pool can be calculated and decayed over a 20-year period.  In the 
+case where the methodology is applied outside of North America, the project proponent must utilize regionally 
+appropriate data from a peer-reviewed source to complete the steps below.  Alternatively, a globally applicable 
+method such as that defined by Winjum et al. (1998)23 may be utilized to estimate carbon storage in wood 
+products.. 
+Storage in the harvested wood products pool at a given time t (CBSL,STORHWP,t; t C) is calculated according to the 
+following steps for each harvest period h: 
+Step 1 (Carbon contained in harvested timber): Determine the carbon contained within harvested timber 
+removed from the project landbase. This can be calculated from measures of total merchantable volume 
+generated during the harvest period h using species-specific wood densities and standard carbon conversions or 
+                                              
+21 In previous versions, this methodology used the “100 Year Method” following procedures developed by Miner (Miner, 2006), which have 
+been replaced by the updated methods outlined in this revised version to ensure compliance with version 3.2 of the AFOLU Requirements.  
+22 http://www.eia.doe.gov/oiaf/1605/Forestryappendix[1].pdf Also available as a US Forest Service General Technical Report at: 
+http://www.fs.fed.us/ne/durham/4104/papers/ne_gtr343.pdf 
+23 Winjum, J.K., Brown, S. and Schlamadinger, B. 1998. Forest harvests and wood products: sources and sinks of atmospheric carbon dioxide. 
+Forest Science 44: 272-284 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+22 
+estimated from live biomass removals after accounting for removal of belowground components, branches, and 
+bucking losses (equation 20). In accordance with the 1605(b) approach, the harvested wood carbon (CBSL,TIMBER,h) 
+must be divided into the following product type (k) categories: 1) softwood saw log, 2) softwood pulpwood, 3) 
+hardwood saw log, 4) hardwood pulpwood.  This can be done using local data if available or estimated based upon 
+region and forest type according to Table 1.4 in the 1605(b) document. Table 3 provides recommendations for 
+analogs for areas within North America but outside of the conterminous US; however, the project proponent must 
+justify the appropriateness of the selected analog . In the case of global project locations outside of North America, 
+the project proponent must identify and justify the use of alternative data from peer-reviewed sources. 
+CBSL,TIMBER,h = Σ[(LBLBSL,FELLINGS,i,h - LBLBSL,FELLINGS,i,h ● Ri + LBLBSL,OTHER,i,h -  
+LBLBSL,OTHER,i,h ● Ri) ● (1 - fBSL,BRANCH,i,h) ● (1 - fBSL,BUCKINGLOSS,i,h)] ●  
+● CF 
+(20) 
+where: 
+CBSL,TIMBER,h= carbon contained in timber harvested in period h (summed for all harvested polygons, i); t C  
+LBLBSL,FELLINGS,i,h = annual removal of live tree biomass due to commercial felling in polygon, i; t d.m. (equation 8) 
+LBLBSL,OTHER,i,h = annual removal of live tree biomass from incidental sources in polygon, i; t d.m. (equation 9) 
+Ri is the root:shoot ratio in polygon, i (see equation 5b). 
+1 - fBSL,BRANCH,i,h the proportion of live tree biomass remaining after netting out branch biomass, in polygon i 
+(unitless; 0 < fBRANCH,i,t < 1)(see equation 12) 
+1 - fBSL,BUCKINGLOSS,i,h = the proportion of the log bole remaining after in-woods log processing/bucking for quality, 
+length, etc., in polygon, i (unitless; 0 < fBUCKINGLOSS,i,t < 1) (equation 12) 
+h = harvest period ; yr 
+ 
+Step 2: (Carbon contained in harvested timber after milling): Determine the total carbon in harvested timber 
+that will enter the wood products pool by product type accounting for mill efficiencies and estimated product 
+disposition percentages (CBSL,MILL,h; t C). The gross quantity of carbon contained in harvested timber for each of the 
+four product types described in Step 1 must be decremented to account for losses during processing (equation 
+21).  These losses including bark and other milling wastes and may be determined using local data or estimated 
+based upon region and product type according to Table 1.5 in the 1605(b) document. Table 3 provides 
+recommendations for analogs for areas within North America but outside of the conterminous US; however, the 
+project proponent must justify the appropriateness of the selected analog. In the case of global project locations 
+outside of North America, the project proponent must identify and justify the use of alternative data from peer-
+reviewed sources.). 
+ 
+CBSL,MILL,h,k =  (CBSL,TIMBER,h,k ● fRND,k ● rRND,k) 
+ 
+ 
+ 
+ 
+ 
+(21) 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+23 
+where: 
+CBSL,MILL,h,k = carbon contained in harvested timber after milling in period h, for product type k; t C 
+CBSL,TIMBER,h,k = carbon contained in timber harvested in period h, for product type k; t C  
+k = wood product type – (softwood saw log, softwood pulpwood, hardwood saw log, or hardwood pulpwood; 
+proportions determined from Table 1.4 of 1605(b) document) 
+fRND,k = fraction of growing stock volume removed as roundwood for product type k (default values by region in 
+Table 1.5 of the 1605(b) document); dimensionless 
+rRND,k = ratio of industrial roundwood to growing stock volume removed as roundwood for product type k (default 
+values by region in Table 1.5 of the 1605(b) document); dimensionless 
+ 
+Step 3: (Carbon storage in medium-term and long-term wood products): Calculate the total carbon lost in 
+short-lived products and stored in medium-term and long-term products.  For each harvest period h, carbon stored 
+in harvested wood products of a defined type (k) after accounting for milling losses (CBSL,MILL,h,k) must be 
+apportioned into one of the following categories: 
+a) Short lived wood products: harvested wood products and wood waste that will decay within 3 years. 
+b) Medium lived wood products: harvested wood products and wood waste that will be retired between 3 
+and 100 years from the date of harvest. 
+c) Long lived wood products: harvested wood products and wood waste that may be considered 
+permanent (stored for 100 years or more). 
+To determine the proportion of harvested wood products (by type) that fall into each category, refer to the “In Use” 
+column for the selected forest region in Table 1.6 in the 1605(b) document. Table 3 provides recommendations for 
+analogs for areas within North America but outside of the conterminous UShowever,. the project proponent must 
+justify the appropriateness of the selected analog at project validation. In the case of global project locations 
+outside of North America, the project proponent must identify and justify the use of alternative data from peer-
+reviewed sourcesTable 3   
+Three values are then calculated from these data selected from Table 1.6 in the 1605(b) document, for each 
+product type, k : the short-lived fraction (PBSL,SLF,k), medium-lived fraction (PBSL,MLF,k), and long-lived fraction 
+(PBSL,LLF,k): 
+PBSL,SLF,k = 1-P3-year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22a) 
+PBSL,LLF,k = P100-year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22b) 
+PBSL,MLF,k = P3-year – P100-year , 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(22c) 
+Each category of wood products (k) stores carbon according to the following rules: 
+i. 
+Short-lived wood products – immediate emission of all carbon upon harvest 
+ii. 
+Medium-lived wood products – no emission of carbon upon harvest, but carbon stored will decrease 
+by 1/20th for the next 20 years after harvest, such that after 20 years the term becomes zero 
+iii. 
+Long-lived wood products – no loss of carbon. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+24 
+Thus, carbon storage in harvested wood products at time t may be calculated using a cohort approach in which 
+medium-term and long-term wood products from each harvest period h are tracked independently and then 
+summed over the project time period as indicated in equation 23. 
+ 
+CBSL,STORHWP,t, = Σ Σ (( CBSL,MILL,h,k ● PLLF,k) + [(CBSL,MILL,h,k● PMLF,k) ● ((20-h) / 20)]) 
+(23) 
+ 
+ 
+where: 
+CBSL,STORHWP,t, = carbon stored in harvested wood products in year t summed for all product types k and then over 
+all harvest periods h; t C  
+k = wood product type – (softwood saw log, softwood pulpwood, hardwood saw log, or hardwood pulpwood; 
+proportions determined from Table 1.4 of 1605(b) document) 
+h = year of harvest (the term (20-h) should not be allowed to drop below 0) 
+ 
+Table 3 – Recommended analogous Regional 1605b Data Substitutions for regions for North America, 
+outside the conterminous U.S. 
+Region 
+Regional analog1 
+Coastal British Columbia and Coastal 
+Alaska 
+Pacific Northwest, West 
+Columbia (British Columbia) 
+Pacific Northwest, East 
+Alpine and Montane (Rocky Mountain 
+region in British Columbia and Alberta) 
+Rocky Mountain, North 
+Boreal (across Canada) and Interior Alaska 
+Northern Lake States 
+Great Lakes St-Lawrence (central Canada) 
+Northern Lake States 
+Carolinian (southwestern Ontario) and 
+Acadian (Maritimes) 
+Northeast 
+1 As per Table 1.6 of the 1605(b) methodology document (see text) 
+8.1.8 
+Fossil fuel emissions associated with logging, transport, and manufacture  
+The annual change in fossil fuel emissions from harvesting and processing of the various wood products 
+(∆CBSL,EMITFOSSIL,t ) are calculated as: 
+CBSL,EMITFOSSIL,t = CBSL,EMITHARVEST,t + CBSL,EMITMANUFACTURE,t + CBSL,EMITTRANSPORT,t 
+(24) 
+where: 
+CBSL,EMITHARVEST,t is the annual fossil fuel emissions associated with harvesting of raw material (t C yr-1) 
+CBSL,EMITMANUFACTURE,t is the annual fossil fuel emissions associated with the manufacturing of raw material (t C yr-1) 
+CBSL,EMITTRANSPORT,t is the annual fossil fuel emissions associated with the transport of raw material (t C yr-1) 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+25 
+The simplest approach to calculating CBSL,EMITFOSSIL,t is to use published or derived carbon emission intensity 
+factors. In the case of harvesting, BSL,CEMITHARVEST,t; t C yr-1), can be calculated (summed across harvested 
+polygons)as: 
+CBSL,EMITHARVEST,t = Σ[(LBLBSL,FELLINGS,i,t - LBLBSL,FELLINGS,i,t ● Ri + LBLBSL,OTHER,i,t -  
+LBLBSL,OTHER,i,t ● Ri) ● (1 - fBSL,BRANCH,i,t) ● (1 – fBSL,BUCKINGLOSS,i,t)] ●  
+CF ● cHARVEST 
+(25) 
+where: 
+cHARVEST is the carbon emission intensity factor (t C emitted/t C raw material) associated with harvesting (see Table 
+4 for default values); all other terms are as defined in equation 20. 
+CBSL,EMITTRANSPORT,t must be calculated after consideration of the transport distance from harvest to processing 
+facility, and the means of transportation. This term can be calculated as follows (after (Heath, et al., 2010)): 
+CBSL,EMITTRANSPORT,t = Σ[(LBLBSL,FELLINGS,i,t - LBLBSL,FELLINGS,i,t ● Ri +  
+LBLBSL,OTHER,i,t - LBLBSL,OTHER,i,t ● Ri) ● (1 - fBSL,BRANCH,i,t) ● (1 – fBSL,BUCKINGLOSS,i,t)] ●  
+CF ● Σ(fBSL,TRANSPORTk ● dTRANSPORTk ● cTRANSPORTk) 
+(26) 
+where: 
+fBSL,TRANSPORTk = the fraction of raw material transported by transportation type, k. (unitless; 0 < fBSL,TRANSPORTk < 1). 
+dTRANSPORTk = the distance transported by transportation type, k. (km); 
+cTRANSPORTk is the carbon emission intensity factor (kg C emitted/t C raw material) associated with transportation 
+type, k (see Table 4 for default values); all other terms are as defined in equation 20. 
+CBSL,EMITMANUFACTURE,t = Σ[(LBLBSL,FELLINGS,i,t - LBLBSL,FELLINGS,i,t ● Ri + LBLBSL,OTHER,i,t -  
+LBLBSL,OTHER,i,t ● Ri) ●  (1 - fBSL,BRANCH,i,t) ● (1 - fBSL,BUCKINGLOSS,i,t)] ●  
+Σ(fBSL,PRODUCTk ● cMANUFACTUREk) ● CF 
+(27) 
+cMANUFACTUREk is the carbon emission intensity factor (t C emitted/t C raw material) associated with manufacture of 
+product type, k; all other terms are as defined in equation 19. 
+Default values for cMANUFACTUREk are provided in Table 4. Data are from a comprehensive analysis conducted in 
+Finland (Pingoud, Perälä, Soimakallio, & Pussinen, 2003).  Higher comparative values from North America are 
+provided for harvesting and sawnwood manufacturing to illustrate inherent variability. Project proponents may use 
+the default values in Table 4, or substitute regional data, if available. 
+ 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+26 
+Table 4 –Carbon emission intensity factors for harvesting, the manufacture of various product categories, 
+k, and for various transportation categories, k. 
+Activity 
+Value 
+Reference 
+Other (for comparison) 
+Harvesting (cHARVEST)  (t C emitted/t C raw material) 
+Clearcut harvest 
+0.016 
+(Zhang, Cormier, Lyng, Mabee, Ogino, 
+& McLean, 2010) 
+ 
+Manufacturing (cMANUFACTUREk) (t C emitted/t C raw material) 
+Sawnwood 
+0.04 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+0.1 (western US), 0.156 
+(southern US) (Milota, West, 
+& Hartley, 2005) 
+Veneer, plywood and 
+structural panels 
+0.06 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+ 
+Non-structural panels 
+0.12 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+ 
+Paper 
+ 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+ 
+Mechanical pulping 
+0.48 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+ 
+Chemical pulping 
+0.13 
+(Pingoud & Lehtila, 2002) – Calculated 
+from Table I & III  
+ 
+Transportation (cTRANSPORTk) (t C emitted/t C raw material ● km) 
+Truck 
+7.0*10-5 
+(Heath, et al., 2010) - From Supporting 
+Information Table S16 
+ 
+Rail 
+8.2*10-6 
+(Heath, et al., 2010) - From Supporting 
+Information Table S16 
+ 
+8.2 
+Project Emissions 
+Net project emissions are calculated by repeating the procedures in Section 8.1 (Baseline Emissions), using the 
+project scenario polygons, data, and modeling.  Unless otherwise noted and justified by the project proponent, all 
+modeling methods, calculations, assumptions, and data sources should be consistent in both the baseline and 
+project scenarios, with the exception of ex-post monitoring data as outlined below.  For purposes of efficacy, it may 
+be advantageous to re-stratify the landbase for the project scenario, as compared to the baseline.   
+Within this methodology, it is anticipated that project scenarios may undertake ongoing low levels of management 
+activities for forest maintenance, ecological enhancement, and/or risk mitigation (for example, pest management, 
+salvage, etc.).  In order to comply with the IFM-LtPF project type and this methodology, these activities must meet 
+the following requirements: 
+1. All net GHG emissions from project activities must be modeled and accounted for in the project scenario in 
+the same manner as the baseline scenario. 
+2. Project activities cannot remove > 20% of the harvesting volume projected in the baseline scenario over 
+an equivalent 10-year period.   
+3. Project proponents must be able to demonstrate that activities: 
+a. have a conservation benefit and are consistent with principles of managing for biodiversity, 
+ecosystem function, and carbon retention.   
+b. are related to restoration, ecological management, or emissions risk reduction 
+If a project scenario has no planned timber removals, then all related equations in the project emissions 
+calculations in Section 8.2 can be set to zero.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+27 
+If the project scenario has planned activities other than those involving the removal of timber that affect non-de 
+minimis levels of carbon stock, the project must document these activities, reasonably calculate their carbon 
+impacts, and include these emissions in the total carbon calculations for the project scenario.   
+All calculations in this methodology represent annualized net changes in carbon stocks by polygon, which must 
+therefore be summed across the project activity area to determine the annual total net emissions and reductions.   
+Note, additional details for many calculations, including references and background are provided within the 
+equivalent Baseline Emissions section. 
+8.2.1 
+Project Scenario Area Stratification 
+The project scenario will utilize the same methods and steps to create polygons as outlined for the baseline 
+scenario (see Section 8.1) from APRJ,I.  However, the project scenario may be stratified differently to accommodate 
+different project management activities and/or changes to inventory data resulting from ex-post monitoring (if new 
+polygons are created as the result of natural disturbance events, for example). There may be differences between 
+the project and baseline scenarios in the areas within the landbase that are eligible for specific forest management 
+activities (i.e., the assumptions used to determine the THLB may differ in the project scenario relative to the 
+baseline). However, the underlying inventory and data assumptions must be the same in the baseline and project 
+scenarios.   
+8.2.2 
+Determining Actual Onsite Carbon Stocks 
+Actual carbon stocks must be calculated prior to each verification, or at a maximum interval of 5 years, by updating 
+the project’s forest carbon inventory from the monitoring data.  
+This is done by: 
+1. Incorporating any new forest inventory data (including data from new or re-measured sampling plots and other 
+monitored data, as outlined in Section 9.2 and 9.3) obtained during the previous year into the inventory 
+estimate.  
+2. Updating the forest inventory for spatial monitoring results, including annual project activities and/or 
+disturbances that have occurred during the monitoring period. 
+3. Using the selected model(s) to project prior-year data from the forest inventory to the current reporting year (as 
+described in Section 8.2.5).  
+4. Comparing estimates of live biomass and dead organic matter in polygons and calculated from monitoring 
+activities (Section 9.2 and 9.3) against current-year modeled values in the project scenario (see Section 8.2.4). 
+5. Making calibration adjustments to models and/or parameters such that the fit between the equivalent modeled 
+and measured variables meets targets (as per Section 8.2.4). 
+6. If any changes are made to the model assumptions or parameters used in Section 8.2, the calculation of 
+baseline emissions (from the current date forward) must be redone using the updated model(s) and parameter 
+sets. 
+7. Calculate the error terms for use in determining the uncertainty factor (Section 8.5.3).   
+8.2.3 
+Ex-Post Calculations of Carbon Stocks 
+Actual (ex post) annual net carbon stocks are calculated using the equations in this section. 
+CACTUAL,i,t = CLB,i,t + CDOM,i,t 
+(28a) 
+where: 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+28 
+CACTUAL,i,t = carbon stocks in all selected carbon pools in polygon, i, year, t; t C  
+CLB,i,t = carbon stocks in living tree biomass in polygon, i, year, t; t C  
+CDOM,i,t = carbon stocks in dead organic matter in year, t; t C 
+Live biomass 
+Average aboveground biomass for measured polygon, i, in year, t (BAG,i,t) is determined by converting the 
+aboveground, tree-level measurements (kg biomass per tree) described in Section 9.3.2 to area-based, stand-level 
+measurements (t ha-1). This is achieved by summing the aboveground biomass of all the trees within a sample 
+plot, converting kg to t, and then dividing the sum by the plot area in ha.  All plots within a particular polygon should 
+be averaged to get an average estimate of stand-level aboveground biomass (t ha-1). Once the average 
+aboveground biomass has been determined for each measured polygon, belowground biomass is estimated by 
+multiplying the aboveground biomass by the root:shoot ratio, Ri (equation 28d) and the two are summed to 
+determine total stand-level live biomass for measured polygon i, time t, (BTOTAL,i,t). Ri is described in Section 8.1.3. 
+Finally, the average measured carbon stock in living tree biomass for measured polygon i, time t, (CLB,i,t) is 
+calculated as shown in equation 28c. This value of CLB,i,t must be compared to the equivalent calculation of live 
+biomass (LBPRJ,i,t) calculated in the project scenario (Section 8.2.5) (see comparison method and steps below). 
+BTOTAL,i,t = (BAG,i,t + BBG,i,t) 
+(28b) 
+CLB,i,t = (BTOTAL,i,t) ● CF 
+(28c) 
+where:  
+BAG,i,t = aboveground tree biomass (t d.m. ha-1) measured in polygon, i, year, t  
+BBG,i,t = belowground tree biomass (t d.m. ha-1) measured in polygon, i, year, t. 
+BTOTAL,i,t = total tree biomass (t d.m. ha-1) measured in polygon, i, year, t 
+BBG,i,t = BAG,i,t ● Ri 
+(28d) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5)  
+Dead organic matter 
+Carbon stored in dead organic matter pools in measured polygon, i, year t, (CDOM,i,t) is calculated as the sum of 
+that stored in lying dead wood and standing snags. 
+CDOM,i,t = (DOMLDW,i,t + DOMSNAG,i,t) ● CF 
+(28e) 
+where:  
+DOMLDW,i,t = average mass of dead organic matter contained in lying dead wood (t d.m. ha-1) in measured in 
+polygon, i, year, t  
+DOMSNAG,i,t = average mass of dead organic matter contained in standing snags (t d.m. ha-1) in measured in 
+polygon, i, year, t  
+The average quantity of dead organic matter contained in lying dead wood for measured polygon, i, in year, t 
+(DOMLDW,i,t) is calculated according to equations 60a-c in Section 9.3.2. The value of DOMLDW,i,t must be compared 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+29 
+to the equivalent  calculation of lying dead wood mass (LDWPRJ,i,t) in the project scenario (Section 8.2.8) (see 
+comparison method and steps below). 
+The average quantity of dead organic matter contained in standing snags for measured polygon, i, in year, t 
+(DOMSNAG,i,t is calculated by summing the mass (aboveground only) of all the measured standing dead trees within 
+a sample plot (converting kg to t) and dividing the sum by the plot area in ha (see Section 9.3.2).  The 
+belowground component of snags is treated as dead belowground biomass (see Section 8.2.8) and is not directly 
+measured. All plots within a particular polygon should be averaged to get an average estimate of DOMSNAG,i,t. The 
+value of DOMSNAG,i,t must be compared to the equivalent calculation of standing dead tree mass (SNAGPRJ,i,t) in the 
+project scenario (Section 8.2.8) (see comparison method and steps below).  
+8.2.4 
+Updating the Modeled Project Carbon Balance 
+In this methodology, the ex ante carbon balances in the project case may be derived from computer model output. 
+In this event, the precision of the modeled carbon stocks should be evaluated for each polygon or analysis unit 
+(depending on the level of stratification used) using the method described for determining mean model error in 
+Section 8.5.3 (equations 60a,b). If the model error term is too high (> 10%), proponents should attempt to improve 
+the model fit by re-evaluating and adjusting model parameters until model error term is < 10%.  Model error terms 
+greater than 10% (after model adjustments) will be penalized according the calculation of the uncertainty factor 
+described in Section 8.5.3. If changes in model assumptions or parameters are made, the baseline scenario (from 
+the next year forward) must be recalculated using the revised model. 
+8.2.5 
+Calculating the Project Carbon Balance 
+The total annual carbon balance in year, t, for the project scenario is calculated as (∆CPRJ,t, in t C yr-1):  
+∆CPRJ,t = ∆CPRJ,P,t 
+(29) 
+where: 
+∆CPRJ,P,t is the annual change in carbon stocks in all pools in the project across the project activity area; t C yr-1 . 
+∆CPRJ,P,t = ∆CPRJ,LB,t + ∆CPRJ,DOM,t + ∆CPRJ,HWP,t 
+(30) 
+∆CPRJ,LB,t = annual change in carbon stocks in living tree biomass (above- and belowground); t C yr-1  
+∆CPRJ,DOM,t = annual change in carbon stocks in dead organic matter; t C yr-1 
+∆CPRJ,HWP,t is the annual change in carbon stocks associated with harvested wood products, t C yr-1.   
+∆CPRJ,LB,t = ∆CPRJ,G,t – ∆CPRJ,L,t 
+(31) 
+where: 
+∆CPRJ,G,t = annual increase in tree carbon stock from growth; t C yr-1 
+∆CPRJ,L,t = annual decrease in tree carbon stock from a reduction in live biomass; t C yr-1.  
+If the project area has been stratified, carbon pools are calculated for each polygon, i, and then summed during a 
+given year, t.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+30 
+8.2.6 
+Live Biomass Gain 
+Live biomass gain in year, t, polygon, i (∆CPRJ,G,i.t) is calculated as:  
+∆CPRJ,G,t = Σ(APRJ,i ● GPRJ,i,t) ● CF 
+(32) 
+where: 
+APRJ,i, = area (ha) of forest land in polygon, i;  
+GPRJ,i,t = annual increment rate in tree biomass (t d.m. ha-1 yr-1), in polygon, i, and; 
+CF = carbon fraction of dry matter t C t-1 d.m. (IPCC default value = 0.5).  
+GPRJ,i,t = GPRJ,AG,i,t + GPRJ,BG,i,t 
+(33a) 
+where GPRJ,AG,i,t and GPRJ,BG,i,t are the annual above- and belowground biomass increment rates (t d.m. ha-1 yr-1); 
+GPRJ,BG,i,t = GPRJ,AG,i,t ● Ri 
+(33b) 
+where Ri is the root:shoot ratio in polygon, i. Ri should ideally be estimated for each polygon, but these data are 
+difficult to derive empirically. Hence, general relationships are acceptable (Cairns, 1997). 
+Equations 32 and 33 can be used directly to calculate ∆CPRJ,G,t when all tree cover within a polygon is removed by 
+harvesting (i.e., clearfelling) and no residual structure is retained. In cases of partial harvesting and/or multiple 
+entries into a polygon, these equations must be applied separately to each of the resulting sub-polygons (the 
+different age classes that are created). This ensures that growth rates reflect the difference in forest age between 
+the sub-polygons. 
+The ex ante and ex post calculation of GPRJ,i,t (either directly, or from its component parts) will be derived from 
+models that require inputs derived, in part, from forest inventory data updated from monitoring sample plots (see 
+Sections 9.3.2 and 8.2.2). Criteria for model suitability are provided in 8.1.1. The exact form of the input data 
+depends on the nature of the model but may include site index, species composition, and volume (see notes in 
+Section 8.1).   
+8.2.7 
+Live Biomass Loss 
+The annual decrease in aboveground tree carbon from live biomass loss (∆CPRJ,L,t; t C yr-1) is the sum of losses 
+from: 
+1. Natural mortality (i.e. insects, disease, competition, wind, etc.) 
+2. Commercial round wood felling  
+3. Incidental sources.   
+Losses must be specific to a given polygon; each polygon must be summed in order to calculate total annual loss 
+across the project activity area. The live biomass losses are not emitted directly, but rather are transferred to dead 
+organic matter pools.  
+∆CPRJ,L,t = Σ(LBLPRJ,NATURALi,t + LBLPRJ,FELLINGS,i,t + LBLPRJ,OTHERi,t) ● CF 
+(34) 
+where: 
+LBLPRJ,NATURALi,t = annual loss of live tree biomass due to natural mortality in polygon, i; t d.m. yr-1   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+31 
+LBLPRJ,FELLINGS,i,t = annual loss of live tree biomass due to commercial felling in polygon, i; t d.m. yr-1 
+LBLPRJ,OTHER,i,t = annual loss of live tree biomass from incidental sources in polygon, i; t d.m. yr-1 
+CF = carbon fraction of dry matter; t C t-1 d.m. (IPCC default value = 0.5).  
+LBLPRJ,NATURALi,t = APRJ,i ● LBPRJ,i,t ● fPRJ,NATURAL,i,t  
+(35)24 
+where  
+APRJ,i = area (ha) of forest land in polygon, i;  
+LBPRJ,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t  
+LBPRJ,i,t is calculated for year, t, beginning with biomass estimates in year t=1 (the project start year) and with 
+annual biomass increments (GPRJ,i,t) added as per calculations in equation 33a.  
+fPRJ,NATURAL,i,t = the annual proportion of biomass that dies from natural mortality in forest type , i (unitless; 0 < 
+fPRJ,NATURALi < 1), year, t. Tree mortality is an ongoing process during stand development. Trees die as a 
+consequence of insect attack, disease, competition, or some combination thereof. Hence, mortality can be highly 
+variable between years. This parameter can be applied uniformly across an analysis unit, or individually to a given 
+polygon. Ex post estimates from regional data sources in corresponding stand types are preferred. Sources for 
+mortality estimates include permanent sample plots in similar stand types, literature reports, and inventory data. 
+Some models (the FORECAST model, for example) simulate annual background mortality rates directly and can 
+accommodate variable age structures following partial harvesting. 
+LBLPRJ,FELLINGS,i,t = APRJ,i ● LBPRJ,i,t ● fPRJ,HARVEST,i,t  
+(36) 
+where: 
+APRJ,i = area (ha) of forest land in polygon, i 
+LBPRJ,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t (see equation 7 for its calculation). 
+fPRJ,HARVEST,i,t = the proportion of biomass removed by harvesting from polygon, i, (unitless; 0 < fPRJ,HARVESTIi < 1), in 
+year, t. Data for this variable should be obtained from harvest schedule information. Values may be constrained by 
+(a) the value of fPRJ,NATURAL,i,t (i.e., fPRJ,HARVEST,i,t < 1- fPRJ,NATURAL,i,t), and/or (b) the area of timber available for 
+commercial harvest. 
+Incidental loss (LBLPRJ,OTHER,i,t; t d.m. yr-1) is the additional live tree biomass removed for road and landing 
+construction in the polygon, i, and is calculated as a proportion of biomass removed by harvesting:  
+LBLPRJ,OTHER,i,t = APRJ,i ● LBPRJ,i,t ● fPRJ,HARVEST,i,t ● fPRJ,DAMAGE,i,t 
+(37) 
+where: 
+APRJ,i = area (ha) of forest land in polygon, i; 
+LBPRJ,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t  
+                                              
+24 Note, for Equation 35, 36, and 37:  (fPRJ,NATURAL,i,t + fPRJ,HARVEST,i,t + fPRJ,DAMAGE,i,t) ≤ 1.0 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+32 
+fPRJ,HARVEST,i,t = the proportion of biomass removed by harvesting from polygon, i, in year, t (unitless; 0 < 
+fPRJ,HARVEST,i,t < 1).   
+fPRJ,DAMAGE,i,t  = the proportion of additional biomass removed for road and landing construction in polygon, i, year, t 
+(unitless; 0 < fPRJ,DAMAGE,i,t < 1)25. Data for this variable should be based on regional and local comparative studies 
+and experiential information derived from the local forest industry26.   
+8.2.8 
+Dead Organic Matter Dynamics (∆CPRJ,DOM) 
+Dead organic matter (DOM) included in this methodology comprises three components: standing dead wood 
+(minimum > 5 cm DBH and 1.3 m height; termed snags), lying dead wood (minimum > 5 cm DBH; LDW), and 
+belowground dead wood (i.e., dead roots). Standing dead wood is < 45º of vertical, while lying dead wood is > 45º 
+of vertical.  
+The annual change in carbon stocks in DOM (∆CPRJ,DOM; t C yr-1) is calculated as: 
+∆CPRJ,DOM,t = ∆CPRJ,LDW,t + ∆CPRJ,SNAG,t + ∆CPRJ,DBG,t 
+(38) 
+where: 
+∆CPRJ,LDW,t = change in lying dead wood (LDW) carbon stocks in year, t; t C yr-1 
+∆CPRJ,SNAG,t = change in snag carbon stock in year, t; t C yr-1 
+∆CBSL,DBG,t = change in belowground carbon stock in year, t; t C yr-1. 
+∆CPRJ,LDW,t = Σ(LDWPRJ,IN,i,t – LDWPRJ,OUT,i,t) ● CF 
+(39a) 
+LDWPRJ,i,t+1 = LDWPRJ,i,t + (LDWPRJ,IN,i,t – LDWPRJ,OUT,i,t) 
+(39b) 
+where: 
+LDWPRJ,i,t= The total mass of lying dead wood accumulated in polygon i at time t (t d.m.). 
+LDWPRJ,IN,i,t = annual increase in LDW biomass for polygon i, year, t (t d.m ha-1 yr-1). LDW increases occur as a 
+result of natural mortality (typically, blowdown), and as a direct or indirect result of harvesting. 
+LDWPRJ,OUT,i,t = annual loss in LDW biomass through decay, for polygon i, year, t, (t d.m ha-1 yr-1) 
+LDWPRJ,IN,i,t and LDWPRJ,OUT,i,t are summed across polygons. 
+CF = carbon fraction of dry matter (IPCC default value = 0.5).  
+LDWPRJ,IN,i,t = (LBLPRJ,NATURALi,t - LBLPRJ,NATURALi,t ● Ri) ● fPRJ,BLOWDOWN,i,t +  
+((LBLPRJ,FELLINGS,i,t – LBLPRJ,FELLINGS,i,t ● Ri) +  
+(LBLPRJ,OTHER,i,t - LBLPRJ,OTHER,i,t ● Ri)) ● fPRJ,BRANCH,i,t +  
+                                              
+25 Projecting ex ante road and landing removals beyond a few years is difficult and complex.  As described, fPRJ,DAMAGE,i,t functions 
+as a proxy for estimating biomass impacts of all new roads and landings associated with annual harvesting in polygon, i.  
+Project proponents can simulate LBLPRJ,OTHER,i,t directly, if appropriate models are available.   
+26 fPRJ,DAMAGE,i,t may be zero or de minimis in cases where a polygon is already roaded.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+33 
+((LBLPRJ,FELLINGS,i,t – LBLPRJ,FELLINGS,i,t ● Ri) +  
+(LBLPRJ,OTHER,i,t - LBLPRJ,OTHER,i,t ● Ri)) ●  
+(1 - fPRJ,BRANCH,i,t ) ● fPRJ,BUCKINGLOSS,i,t + SNAGPRJ,,i,t ● fPRJ,SNAGFALLDOWN,i,t 
+(40) 
+where: 
+LBLPRJ,NATURALi,t, LBLPRJ,FELLINGS,i,t, and LBLPRJ,OTHER,i,t are as calculated in equations 35, 36, and 37, respectively. 
+Ri is the root:shoot ratio in polygon, i (see equation 33b). 
+fPRJ,BLOWDOWN,i,t = the annual proportion of live aboveground tree biomass subject to blowdown in polygon, i, year, t 
+(unitless; 0 < fPRJ,BLOWDOWN,i,t < 1). Ex ante estimates must be derived from regional reports in similar forest types. 
+fPRJ,BRANCH,i,t = the annual proportion of aboveground tree biomass comprised of branches > 5 cm diameter in 
+polygon, i (unitless; 0 < fPRJ,BRANCH,i,t < 1). Ex ante data are available from allometric equations and models (for 
+example, (Kurz & Apps, 2006) for Canada; (Smith, Miles, Vissage, & Pugh, 2004) for the U.S.). In the event slash 
+burning is undertaken, this parameter should be reduced accordingly to reflect the proportion of biomass 
+remaining. Estimates should be obtained from expert opinion; as a default, assume 100% consumption. 
+fPRJ,BUCKINGLOSS,i,t = the annual proportion of the log bole biomass left on site after assessing and/or merchandizing 
+the log bole for quality, in polygon, i (unitless; 0 < fPRJ,BUCKINGLOSS,i,t < 1). Preferably, data for this variable must be 
+based on regional and local comparative studies and experiential information derived from the local forest industry. 
+Otherwise, an average default value of 21% can be used, based on US national summary statistics (Smith, Miles, 
+Vissage, & Pugh, 2004). 
+SNAGPRJ,i,t = the total mass of the snag pool in polygon, i, year, t (see equation 42b). 
+fPRJ,SNAGFALLDOWN,i,t = the annual proportion of snag biomass in polygon, i, year, t, that falls over and thus is 
+transferred to the LDW pool (unitless; 0 < fPRJ,SNAGFALLDOWN,i,t < 1). Ex ante estimates for this parameter can be 
+derived from peer reviewed literature (for example, (Parish, Antos, Ott, & Di Lucca, 2010) and forest carbon 
+accounting models that track the rates of input and losses from dead organic matter pools (for example, (Kurz & et 
+al, 2009). 
+ 
+LDWPRJ,OUT,i,t = LDWPRJ,i,t ● fPRJ,lwDECAY,i,t 
+(41) 
+where: 
+LDWPRJ,i,t = the total amount of lying deadwood mass in polygon i, year, t (see equation 39b). fPRJ,lwDECAY,i,t = the 
+annual proportional loss of lying dead biomass due to decay, in polygon i, year, t (unitless; ; 0 < fPRJ,lwDECAY,i,t < 1). 
+A common approach to ex ante estimation of fPRJ,lwDECAY,i,t is to assume mass loss occurs in proportion to the 
+amount of mass remaining in accordance with an a single exponential model, of the general form: 
+Yt = Yo e–kt 
+where Yo is the initial quantity of material, Yt the amount left at time t, and k is a decay constant (Harmon, et al., 
+1986). Other types of exponential models are available (reviewed in (Harmon, et al., 1986)) and may be more 
+appropriate to particular forest types (to be described and justified by the project proponent, if used). Ex ante 
+estimates for the decay parameter appropriate for the project should be derived from peer-reviewed literature (for 
+example, (Harmon, et al., 1986); (Laiho & and Prescott, 2004); (Harmon et al, 2008)).   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+34 
+The change in standing dead wood (snag) carbon stock in year, t (t C yr-1) is calculated as: 
+∆CPRJ,SNAG,t = Σ(SNAGPRJ,IN,i,t – SNAGPRJ,OUT,i,t) ● CF 
+(42a) 
+SNAGPRJ,i,t+1 = SNAGPRJ,i,t + (SNAGPRJ,IN,i,t – SNAGPRJ,OUT,i,t) 
+(42b) 
+where: 
+SNAGPRJ,i,t  = The total mass of snags accumulated in polygon i at time t (t d.m.) 
+SNAGPRJ,IN,i,t = annual gain in snag biomass for polygon i, year, t (t d.m ha-1 yr-1). Snag biomass develops as a 
+result of natural mortality. In cases where snags are created through management activities, these should be 
+accounted for here. 
+SNAGPRJ,OUT,i,t = annual loss in snag biomass through decay, or falldown (i.e, transfer to the LDW pool)(t d.m ha-1 
+yr-1) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5). 
+Note that SNAGPRJ,IN,i,t and SNAGPRJ,OUT,i,t are summed across polygons. 
+SNAGPRJ,IN,i,t = (LBLPRJ,NATURALi,t - LBLPRJ,NATURALi,t ● Ri) ● (1 - fPRJ,BLOWDOWN,i,t) 
+(43) 
+where: 
+LBLPRJ,NATURALi,t is as calculated in equation 35, and 
+1 - fPRJ,BLOWDOWN,i,t is the proportion of live tree aboveground biomass that dies in polygon, i, year, t, but remains as 
+standing dead organic matter (i.e. snags) (unitless; 0 < fPRJ,BLOWDOWN,i,t < 1). Ex ante default estimates for this 
+calculation can be derived from literature values (for example (Harmon, et al., 1986); (Runkle, 2000); (Harmon et 
+al, 2008)) and should be matched to the ecosystems that most closely characterize the project area. 
+SNAGPRJ,OUT,i,t = SNAGPRJ,i,t ● fPRJ,SWDECAY,i,t + SNAGPRJ,i,t ● fPRJ,SNAGFALLDOWN,i,t 
+(44) 
+where: 
+SNAGPRJ,i,t = the total amount of snag mass in polygon i, year, t (see equation 42b). fPRJ,SWDECAY,i,t  = the annual 
+proportional loss of snag biomass due to decay, in polygon, i, year, t (unitless; 0 < fPRJ,SWDECAY,i,t < 1). As with lying 
+dead wood, a common approach to estimating fPRJ,SWDECAY,i,t is to assume mass loss occurs in proportion to the 
+amount of mass remaining in accordance with an a single exponential model (see equation 41). Ex ante estimates 
+for this parameter can be derived from peer reviewed literature appropriate for the project site (for example, 
+Vanderwel et al. 2006a) and forest carbon accounting models that track the rates of input and losses from dead 
+organic matter pools for each forest type, productivity, and age-class (see, for example, Vanderwel et al., 2006b; 
+(Kurz & et al, 2009)).  
+fPRJ,SNAGFALLDOWN,i,t = the annual proportion of snag biomass in polygon, i, that falls over and thus is transferred to 
+the LDW pool (unitless; 0 < fPRJ,SNAGFALLDOWN,i,t < 1). See equation 40 for parameter estimates. 
+The annual change in DOM derived from dead belowground biomass (∆CPRJ,DBG, ,t; t C yr-1) is calculated for each 
+polygon as per equation 45a. Calculation of ∆CPRJ,DBG,t is specific to a given polygon; each polygon must therefore 
+be summed in order to calculate total annual loss across the project activity area. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+35 
+∆CPRJ,DBG,t = Σ(DBGPRJ,IN,i,t – DBGPRJ,OUT,i,t) ● CF 
+(45a) 
+DBGPRJ,i,t+1 = DBGPRJ,i,t + (DBGPRJ,IN,i,t – DBGPRJ,OUT,i,t) 
+(45b) 
+where: 
+DGBPRJ,i,t  = The total quantity of dead belowground biomass accumulated in polygon i at time t (t d.m.). 
+DBGPRJ,IN,i,t = annual gain in dead belowground biomass for polygon i, year, t (t d.m ha-1 yr-1). Dead belowground 
+biomass develops as a result of mortality through natural causes or through harvesting activities.  
+DBGPRJ,OUT,i,t = annual loss in dead belowground biomass through decay, (t d.m ha-1 yr-1) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5). 
+DBGPRJ,IN,i,t = [(APRJ,i ● LBPRJ,i,t ● Ri) ● (fPRJ,NATURAL,i,t + fPRJ,HARVEST,i,t + fPRJ,DAMAGE,i,t)] 
+(45c) 
+where: 
+APRJ,i = area (ha) of forest land in polygon, i;  
+LBPRJ,i,t = average live tree biomass (t d.m. ha-1) in polygon, i, for year, t. LBPRJ,i,t is calculated for year, t, beginning 
+with biomass estimates in year t=1 (the project start year) and with annual biomass increments (GPRJ,i,t) added as 
+per calculations in equation 33 a, b. This value is then multiplied by APRJ,i, the area (ha) of forest land in polygon, i.   
+Ri is the root:shoot ratio in polygon, i (see equation 33b). 
+fPRJ,NATURAL,i,t = the annual proportion of biomass that dies from natural mortality in polygon, i (unitless; 0 < fNATURALi 
+< 1), year, t (see equation 35), 
+fPRJ,HARVEST,i,t = the proportion of biomass removed by harvesting from polygon, i, (unitless; 0 < fPRJ,HARVESTIi < 1), 
+year, t (see equation 36),  
+fPRJ,DAMAGE,i,t = the proportion of additional biomass removed by for road and landing construction in polygon, i 
+(unitless; 0 < fPRJ,DAMAGE,i,t < 1), year, t (see equation 37), 
+DBGPRJ,OUT,i,t = DBGPRJ,i,t ● fPRJ,dgbDECAY,i,t 
+(45d) 
+where: 
+DBGPRJ,i,t = the total quantity of dead belowground in polygon i, year, t (equation 17b). fPRJ,dgbDECAY,i,t = the annual 
+proportional loss of dead belowground biomass due to decay, in polygon i, year, t (unitless; 0 < fPRJ,lwDECAY,i,t < 1). 
+The ex ante estimation of the decay of dead belowground biomass should be done using a similar single exponent 
+decay function as that described above for lying deadwood biomass. Estimates for the decay parameter 
+appropriate for specific project should be derived from peer-reviewed literature (see for example: (Moore, 
+Trofymow, Siltanen, Prescott, & CIDET, 2005); (Melin, Petersson, & Nordfjell, 2009). 
+8.2.9 
+Harvested Wood Products  
+See Section 8.1.6 for various discussion and background on HWP calculations. 
+The annual change in emissions associated with the production of harvested wood products (HWP), ∆CBSl,HWP,t, is 
+calculated as: 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+36 
+∆CPRJ,HWP,t = ∆CPRJ,STORHWP,t  – ∆CPRJ,EMITFOSSIL,t, 
+(46) 
+∆CPRJ,STORHWP,t = the annual change in harvested carbon that remains in storage after conversion to wood products 
+(t C yr-1) 
+∆CPRJ,EMITFOSSIL,t = the annual change in fossil fuel emissions from harvesting (logging and log transport) and 
+processing of the various wood products.  
+ 
+8.2.10 Carbon storage harvested wood products (∆CPRJ,STORHWP,t)  
+If harvesting is occurring in the project case, see Section 8.1.7 for a discussion of key issues. 
+The annual change in carbon storage in harvested wood products in year t (∆CPRJ,STORHWP,t; t C yr-1) is determined 
+based upon the following equation: 
+∆CPRJ,STORHWP,t = (CPRJ,STORHWP,t2 - CPRJ,STORHWP,t1) / T 
+(47) 
+ 
+where: 
+CPRJ,STORHWP,t2 = carbon storage in harvested wood products at t=2; t C 
+CPRJ,STORHWP,t1 = carbon storage in harvested wood products at t=1; t C 
+T = number of years between monitoring t1 and t2 
+t : 1,2,3…t years elapsed since the project start date 
+ 
+Storage in the harvested wood products pool at a given time t (CPRJ,STORHWP,t; t C) is calculated according to the 
+following steps for each harvest period h: 
+Step 1 (Carbon contained in harvested timber): Determine the carbon contained within harvested timber 
+removed from the project landbase. This can be calculated from measures of total merchantable volume 
+generated during the harvest period h using species-specific wood densities and standard carbon conversions or 
+estimated from live biomass removals after accounting for removal of belowground components, branches, and 
+bucking losses (equation 48). In accordance with the 1605(b) approach, the harvested wood carbon (CPRJ,TIMBER,h) 
+must be divided into the following product type (k) categories: 1) softwood saw log, 2) softwood pulpwood, 3) 
+hardwood saw log, 4) hardwood pulpwood.  This can be done using local data if available or estimated based upon 
+region and forest type according to Table 1.4 in the 1605(b) document. Table 3 provides recommendations for 
+analogs for areas within North America but outside of the conterminous US; however the project proponent must 
+justify the appropriateness of the selected analog. In the case of global project locations outside of North America, 
+the project proponent must identify and justify the use of alternative data from peer-reviewed sources  
+CPRJ,TIMBER,h = Σ[(LBLPRJ,FELLINGS,i,h - LBLPRJ,FELLINGS,i,h ● Ri + LBLPRJ,OTHER,i,h -  
+LBLPRJ,OTHER,i,h ● Ri) ● (1 - fPRJ,BRANCH,i,h) ● (1 - fPRJ,BUCKINGLOSS,i,h)] ●  
+● CF 
+(48) 
+where: 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+37 
+CPRJ,TIMBER,h= carbon contained in timber harvested in period h  (summed for all harvested polygons, i); t C  
+LBLPRJ,FELLINGS,i,h = annual removal of live tree biomass due to commercial felling in polygon, i; t d.m. (equation 36) 
+LBLPRJ,OTHER,i,h = annual removal of live tree biomass from incidental sources in polygon, i; t d.m. (equation 37) 
+Ri is the root:shoot ratio in polygon, i (see equation 33b). 
+1 - fPRJ,BRANCH,i,h the proportion of live tree biomass remaining after netting out branch biomass, in polygon i 
+(unitless; 0 < fBRANCH,i,t < 1)(see equation 12) 
+1 - fPRJ,BUCKINGLOSS,i,h = the proportion of the log bole remaining after in-woods log processing/bucking for quality, 
+length, etc., in polygon, i (unitless; 0 < fBUCKINGLOSS,i,t < 1) (equation 40) 
+h = harvest period ; yr 
+ 
+Step 2: (Carbon contained in harvested timber after milling): Determine the total carbon in harvested timber 
+that will enter the wood products pool by product type accounting for mill efficiencies and estimated product 
+disposition percentages (CPRJ,MILL,h; t C). The gross quantity of carbon contained in harvested timber for each of the 
+four product types described in Step 1 must be decremented to account for losses during processing (equation 
+49).  These losses including bark and other milling wastes and may be determined using local data or estimated 
+based upon region and product type according to Table 1.5 in the 1605(b) document. Table 3 provides 
+recommendations for analogs for areas within North America but outside of the conterminous US; however, the 
+project proponent must justify the appropriateness of the selected analog.. The 1605(b) document also provides 
+specific examples demonstrating the use of values from Tables 1.4 and 1.5 to determine net carbon storage in 
+wood product types after milling (See examples 1.4 and 1.5 on pages 25-27). In the case of global project 
+locations outside of North America, the project proponent must identify and justify the use of alternative data from 
+peer-reviewed sources  
+CPRJ,MILL,h,k =  (CPRJ,TIMBER,h,k ● fRND,k ● rRND,k) 
+ 
+ 
+ 
+ 
+ 
+(49) 
+ 
+where: 
+CPRJ,MILL,h,k = carbon contained in harvested timber after milling in period h, for product type k; t C 
+CPRJ,TIMBER,h,k = carbon contained in timber harvested in period h, for product type k; t C  
+k = wood product type – (softwood saw log, softwood pulpwood, hardwood saw log, or hardwood pulpwood; 
+proportions determined from Table 1.4 of 1605(b) document) 
+fRND,k = fraction of growing stock volume removed as roundwood for product type k (default values by region in 
+Table 1.5 of the 1605(b) document); dimensionless 
+rRND,k = ratio of industrial roundwood to growing stock volume removed as roundwood for product type k (default 
+values by region in Table 1.5 of the 1605(b) document); dimensionless 
+ 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+38 
+Step 3: (Carbon storage in medium-term and long-term wood products): Calculate the total carbon lost in 
+short-lived products and stored in medium-term and long-term products.  For each harvest period h, carbon stored 
+in harvested wood products of a defined type (k) after accounting for milling losses (CPRJ,MILL,h,k) must be 
+apportioned into one of the following categories: 
+d) Short lived wood products: harvested wood products and wood waste that will decay within 3 years. 
+e) Medium lived wood products: harvested wood products and wood waste that will be retired between 3 
+and 100 years from the date of harvest. 
+f) 
+Long lived wood products: harvested wood products and wood waste that may be considered 
+permanent (stored for 100 years or more). 
+To determine the proportion of harvested wood products (by type) that fall into each category, refer to the “In Use” 
+column for the selected forest region in Table 1.6 in the 1605(b) document. Table 3 provides recommendations for 
+analogs for areas within North America but outside of the conterminous US; the project proponent must justify the 
+appropriateness of the selected analog .Three values are then calculated from these data selected from Table 1.6 
+in the 1605(b) document, for each product type, k : the short-lived fraction (PPRJ,SLF,k), medium-lived fraction 
+(PPRJ,MLF,k), and long-lived fraction (PPRJ,LLF,k): 
+PPRJ,SLF,k = 1-P3-year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(50a) 
+PPRJ,LLF,k = P100-year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(50b) 
+PPRJ,MLF,k = P3-year – P100-year , 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(50c) 
+Each category of wood products (k) stores carbon according to the following rules: 
+iv. 
+Short-lived wood products – immediate emission of all carbon upon harvest 
+v. 
+Medium-lived wood products – no emission of carbon upon harvest, but carbon stored will decrease 
+by 1/20th for the next 20 years after harvest, such that after 20 years the term becomes zero 
+vi. 
+Long-lived wood products – no loss of carbon. 
+Thus, carbon storage in harvested wood products at time t may be calculated using a cohort approach in which 
+medium-term and long-term wood products from each harvest period h are tracked independently and then 
+summed over the project time period as indicated in equation 51. 
+ 
+CPRJ,STORHWP,t, = Σ Σ (( CPRJ,MILL,h,k ● PLLF,k) + [(CPRJ,MILL,h,k● PMLF,k) ● ((20-h) / 20)]) 
+(51) 
+ 
+ 
+where: 
+CPRJ,STORHWP,t, = carbon stored in harvested wood products in year t summed for all product types k and then over 
+all harvest periods h; t C  
+k = wood product type – (softwood saw log, softwood pulpwood, hardwood saw log, or hardwood pulpwood; 
+proportions determined from Table 1.4 of 1605(b) document) 
+h = year of harvest (the term (20-h) should not be allowed to drop below 0) 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+39 
+8.2.11 mustFossil fuel emissions associated with logging, transport, and manufacture  
+The annual change in fossil fuel emissions from harvesting and processing of the various wood products 
+(∆CPRJ,EMITFOSSIL,t ) are calculated as: 
+∆CPRJ,EMITFOSSIL,t = CPRJ,EMITHARVEST,t + CPRJ,EMITMANUFACTURE,t + CPRJ,EMITTRANSPORT,t 
+(52) 
+Where 
+CPRJ,EMITHARVEST,t = the annual fossil fuel emissions associated with harvesting of raw material (t C yr-1) 
+CPRJ,EMITMANUFACTURE,t = the annual fossil fuel emissions associated with the manufacturing of raw material (t C yr-1) 
+CPRJ,EMITTRANSPORT,t = the annual fossil fuel emissions associated with the transport of raw material (t C yr-1) 
+The simplest approach to calculating CPRJ,EMITFOSSIL,t is to use published or derived carbon emission intensity 
+factors. In the case of harvesting, PRJ,CEMITHARVEST,t; t C yr-1), can be calculated as: 
+CPRJ,EMITHARVEST,t = Σ[(LBLPRJ,FELLINGS,i,t - LBLPRJ,FELLINGS,i,t ● Ri + LBLPRJ,OTHER,i,t –  
+LBLPRJ,OTHER,i,t ● Ri) ● (1 - fPRJ,BRANCH,i,t) ● (1 - fPRJ,BUCKINGLOSS,i,t)] ●  
+CF ● cHARVEST 
+(53) 
+where: 
+cHARVEST = carbon emission intensity factor (t C emitted/t C raw material) associated with harvesting (see Table 4 
+for default values); all other terms are as defined in equation 19. 
+CPRJ,EMITTRANSPORT,t must be calculated after consideration of the transport distance from harvest to processing 
+facility, and the means of transportation. This term can be calculated as follows (after (Heath, et al., 2010)): 
+CPRJ,EMITTRANSPORT,t = Σ[(LBLPRJ,FELLINGS,i,t - LBLPRJ,FELLINGS,i,t ● Ri + LBLPRJ,OTHER,i,t -  
+LBLPRJ,OTHER,i,t ● Ri) ● (1 - fPRJ,BRANCH,i,t) ● (1 – fPRJ,BUCKINGLOSS,i,t)] ●  
+CF ● Σ(fPRJ,TRANSPORTk ● dTRANSPORTk ● cTRANSPORTk) 
+(54) 
+where: 
+fPRJ,TRANSPORTk = the fraction of raw material transported by transportation type, k. (unitless; 0 < fPRJ,TRANSPORTk < 1). 
+dTRANSPORTk = the distance transported by transportation type, k. (km); 
+cTRANSPORTk = the carbon emission intensity factor (kg C emitted/t C raw material) associated with transportation 
+type, k (see Table 4 for default values); all other terms are as defined in equation 48. 
+CPRJ,EMITMANUFACTURE,t = Σ[(LBLPRJ,FELLINGS,i,t - LBLPRJ,FELLINGS,i,t ● Ri + LBLPRJ,OTHER,i,t –  
+LBLPRJ,OTHER,i,t ● Ri) ● (1 - fPRJ,BRANCH,i,t) ● (1 - fPRJ,BUCKINGLOSS,i,t)] ●  
+Σ(fPRJ,PRODUCTk ● cMANUFACTUREk) ● CF 
+(55) 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+40 
+cMANUFACTUREk = the carbon emission intensity factor (t C emitted/t C raw material) associated with manufacture of 
+product type, k; all other terms are as defined in equation 48. 
+Default values for cMANUFACTUREk are provided in Table 4. Data are from a comprehensive analysis conducted in 
+Finland (Pingoud, Perälä, Soimakallio, & Pussinen, 2003).  Higher comparative values from North America are 
+provided for harvesting and sawnwood manufacturing to illustrate inherent variability. Project proponents may use 
+the default values in Table 4, or substitute regional data, if available. 
+8.3 
+Leakage 
+Leakage is defined as any increase in GHG emissions that occurs outside the project boundary (but within the 
+same country), and is measurable and attributable to the project activities. All leakage must be assessed and 
+accounted for in GHG calculations.  Positive leakage effects must be discounted.   
+8.3.1 
+ Activity Shifting Leakage: 
+Activity shifting leakage occurs when the actual agent of harvesting moves to an area outside of the project 
+boundary and initiates compensatory harvesting activities elsewhere.  Activity shifting leakage in IFM projects can 
+result from current activities shifting within the project proponent’s operations due to the implementation of the 
+carbon project. This effectively offsets a portion of the benefits of the carbon project emissions reductions.  The 
+project proponent will demonstrate that, as per VCS requirements for IFM projects and the applicability conditions 
+of this methodology, there is no leakage due to activity shifting within the project proponents’ lands upon the start 
+up of the project27, using the following steps:   
+STEP 1 - The project proponent must annually provide to the validator and/or verifier the locations and 
+descriptions of all forestlands within the project country over which the project proponent has ownership, 
+management, or legally sanctioned rights of use.   
+STEP 2 - Project proponents must demonstrate annually that there is no activity shifting leakage to areas that are 
+outside the project area but within the project proponents operating areas, and that the management plans and/or 
+land-use designations of all other lands operated by the project proponent have not materially changed as a result 
+of the project activity (e.g., harvest rates have not been increased).  Demonstration methods must include: 
+1. Historical records showing trends in harvest volumes paired with records from the project time period 
+showing no deviation from historical trends, or 
+2. Forest management plans prepared ≥ 24 months prior to the start of the project showing harvest plans on 
+all owned/managed lands paired with records from the project time period showing no deviation from 
+management plans; and/or 
+3. Other evidence and justification to demonstrate activity shifting related to the project is not occurring28.   
+8.3.2 
+ Market Leakage: 
+Market leakage risk occurs when a project significantly reduces the production of a commodity causing a change 
+in the supply and market demand equilibrium that results in a shift of production elsewhere to make up for the lost 
+supply.  VCS provides project proponents with two options for quantifying market leakage, which are further 
+defined for this methodology:   
+                                              
+27 See footnote 4 (and applicability criterion 7) for further requirements in the event activity shifting is found to be occurring in later years of the 
+project duration.   
+28 The onus is on the project proponent to demonstrate and justify that the source of data and the geographic scale and scope used to assess 
+activity shifting are appropriate for the project to meet the requirements of VCS and the methodology.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+41 
+1. Apply the most current VCS market leakage tool to determine a discount factor to the net change in 
+carbon stock associated with the activity that reduces timber harvest (see Section 8.3.3); or, 
+ 
+2. Develop a project-specific market leakage factor that accounts for country level leakage within similar 
+forest types29.  This methodology allows two variations on this option:   
+a. Utilize the CAR Forest Protocol 3.2 market leakage equation, if the project is located within 
+countries where CAR applies, or can demonstrate equivalent market conditions (currently CAR 
+applies only in the US but is developing protocol assumptions for Mexico and Canada) (see 
+Section 8.3.4); or  
+b. Utilize a detailed leakage risk assessment form provided in this methodology and provide related 
+additional supporting evidence for the assessments made therein (see Section 8.3.5). 
+8.3.3 
+Market Leakage Option 1 – VCS Default Market Leakage Discount Factors 
+In exercising this option, project proponents must utilize the most current approved VCS leakage discount method 
+as outlined in the most recent VCS AFOLU requirements document30.  Projects will determine the appropriate 
+discount factor in accordance with the most recent requirements for market leakage.  Project proponents must 
+provide justification and evidence of how the leakage discount factor is determined.   
+For project proponents using Market Leakage Option 1: 
+The outcome of the VCS Leakage Discount Factor determination =  the value for MLFy (56a) 
+To calculate the project market leakage (LEY, t CO2e yr-1):   
+LEY = MLFy • ERy,GROSS 
+(56b) 
+Where,  
+MLFy = Market leakage factor, as calculated above. 
+ERy,GROSS = the gross difference in the overall annual carbon change between the baseline and project scenarios 
+in year ‘y’ (in tonnes CO2e yr-1). This term is calculated in equation 57. 
+8.3.4 
+Market Leakage Option 2 – CAR Market Leakage Formula 
+Based on the fact that the CAR forest protocol is widely accepted in North America, thoroughly reviewed, generally 
+mutually recognized by VCS, and developed for a single country leakage condition; it is considered a valid 
+approach to leakage discount factors when applied to projects located in CAR-eligible jurisdictions (currently the 
+United States).  Further, project proponents may justify the application of the CAR leakage formula for log market 
+conditions fundamentally similar to the United States and which are currently under development as CAR 
+jurisdictions (i.e. Canada and Mexico pending).   
+The CAR leakage formula is calculated as per the latest approved CAR Forest Protocol.  The currently approved 
+calculation is provided Figure 1, which is to be replaced by the most up to date approved CAR method as required: 
+                                              
+29 Specifically:  “…market leakage shall be accounted for at the country-scale applied to the same general forest type as the project (i.e., forests 
+containing the same commercial species as the forest in the project area)....” (Voluntary Carbon Standard, 2008b). 
+30 Note the VCS May 24
+th AFOLU Program Update, which specifies using the ratio of merchantable biomass to total biomass in the project 
+versus leakage area.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+42 
+Figure 1 - CAR Forestry Protocol v.3.2 Market Leakage Process3132 
+ 
+For project proponents using Leakage Option 2:   
+Utilize the CAR formulas (Equation 6.10 – shown in Figure 1), with variables calculated as follows:   
+Note:  for consistency, y = n = t.   
+BChv, n = Σ[(LBLBSL,FELLINGS,i,t - LBLBSL,FELLINGS,i,t ● Ri + LBLBSL,OTHER,i,t -  
+ 
+LBLBSL,Other,i,t ● Ri) ● (1 - fBSL,BRANCH,i,t) ● (1 - fBSL,BUCKINGLOSS,i,t)] ●  
+ 
+CF ● 44/12 
+(56c.1) 
+As calculated using the baseline scenario data, and where:   
+LBLBSL,FELLINGS,i,t = annual removal of live tree biomass due to commercial felling in polygon, i; t d.m. yr-1 (equation 
+6) 
+                                              
+31 “Secondary Effects” = Market Leakage 
+32 Figure 1 is to be replaced with the latest approved CAR Forest Protocol Secondary Effects calculations at the time of PD validation.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+43 
+LBLBSL,OTHER,i,t = annual removal of live tree biomass from incidental sources in polygon, i; t d.m. yr-1 (equation 6) 
+1 - fBSL,BRANCH,i,t = the proportion of aboveground live tree biomass remaining after netting out branch biomass, in 
+polygon i (unitless; 0 < fBRANCH,i,t < 1)(see equation 12) 
+1 - fBSL,BUCKINGLOSS,i,t = the proportion of the log bole remaining after processing for quality, in polygon, i (unitless; 0 
+< fBUCKINGLOSS,i,t < 1) (equation 12) 
+Ri = the root:shoot ratio in polygon, i 
+CF = carbon fraction of dry matter (IPCC default value = 0.5). 
+AChv, n = Σ[(LBLPRJ,FELLINGS,i,t - LBLPRJ,FELLINGS,i,t ● Ri + LBLPRJ,OTHER,i,t -  
+ 
+LBLPRJ,Other,i,t ● Ri) ● (1 - fPRJ,BRANCH,i,t) ● (1 - fPRJ,BUCKINGLOSS,i,t)] ●  
+ 
+CF ● 44/12 
+(56c.2) 
+As calculated using the project scenario data, and where:   
+LBLPRJ,FELLINGS,i,t = annual removal of live tree biomass due to restoration felling in polygon, i; t d.m. yr-1 (equation 
+6) 
+LBLPRJ,OTHER,i,t = annual removal of live tree biomass from incidental sources in polygon, i; t d.m. yr-1 (equation 6) 
+1 - fPRJ,BRANCH,i,t = the proportion of aboveground live tree biomass remaining after netting out branch biomass, in 
+polygon i (unitless; 0 < fBRANCH,i,t < 1)(see equation 12) 
+1 - fPRJ,BUCKINGLOSS,i,t = the proportion of the log bole remaining after processing for quality, in polygon, i (unitless; 0 
+< fBUCKINGLOSS,i,t < 1) (equation 12) 
+CF = carbon fraction of dry matter (IPCC default value = 0.5).  
+SEy = LEy 
+(56c.3) 
+where: 
+SEy = Secondary Effects in year ‘y’ (tCO2e) calculated using equations in Figure 1 and equations 56c.1, 56c.2 and 
+56c.3. 
+LEY = Leakage in year y (in tonnes CO2e yr-1) – used in equation 58. 
+8.3.5 
+Market Leakage Option 3 – Leakage Assessment Tool 
+Currently, the VCS method for assessing leakage  used in Option 1 does not provide a mechanism for weighting 
+leakage into different biomass areas, and also does not provide a mechanism to separate domestic versus 
+international leakage proportions. This methodology therefore provides a third option to project proponents who 
+wish to undertake an assessment of market leakage conditions more detailed and specific to their project location 
+and condition. 
+This tool sets out a procedure to weight the VCS leakage categories according to publically available forest 
+products market data for where the leakage risk is most likely to be leaked to (or replaced from).   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+44 
+Following Table 5, the project proponent must conduct the risk analysis as follows: 
+1. Determine the proportion of leakage expected to be replaced by international sources (i.e. proportion 
+of international leakage) versus domestic sources, and; 
+2. For the domestic proportion, determine the proportion of leakage to other national biomass forests, 
+based on the VCS default values and categories, and the ratio of merchantable biomass to total 
+biomass on the project site versus the leakage sites.   
+Where a project is unable to provide any relevant published justification or supporting evidence for a risk factor 
+selection in Table 5, then the project is not eligible to use this tool and must use one of the other provided options 
+to assess market leakage risk.   
+ 
+Table 5 - Market Leakage Option 3 Assessment Table 
+1. 
+International Leakage Proportion 
+ 
+ 
+ 
+ 
+In order to determine the proportion of potential leakage which will occur within domestic markets versus 
+international markets, the project proponent must calculate the proportion of the project leakage which is 
+expected to be replaced from domestic (in-project country) sources versus the proportion that will likely be 
+replaced from international source (and hence, be international leakage, which is given a leakage risk of 
+zero in VCS).  It is assumed that the forest products market is efficient, and any leakage will be replaced 
+proportionally across the project countries current national forest products market conditions.   
+The following calculation provides a method to estimate the proportion of leakage which is domestic versus 
+international.   
+International Leakage Factor = (FPTO_DOMESTIC) * (DOM.DEMANDFROM_INTL) + (FPTO_EXPORT) * 
+(EXP.DEMANDFROM_INTL) 
+Where, 
+FPTO_DOMESTIC = Total project country forest products delivered to domestic markets (%) 
+FPTO_EXPORT = Total project country forest products delivered to export (international) markets (%) 
+DOM.DEMANDFROM_INTL = Proportion of total project country Forest Products to International Markets (%) 
+EXP.DEMANDFROM_INTL = Weighted sum of the proportions of key markets which are supplied from non-
+project country sources (%) 
+Definitions: 
+“Domestic” = project country 
+“International” = sum of all non-project countries which individually represent >10% of the total project 
+country’s forest products production, and which collectively represent >80% of the total project country’s 
+forest products export production.   
+“Forest Products” = the market data utilized must be demonstrated to be representative of >80% of the 
+project harvested wood products product mix.  Proponents may use forest products volume or value as long 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+45 
+as the units are consistent and comparable across markets and used consistently within this entire tool.   
+“Key market(s)” = collectively must represent >80% of the project country’s domestic, import, and export 
+supply, either on a log basis or lumber basis.  Individual market countries representing <10% of the total 
+domestic or export market may be excluded.   
+Example: 
+Example of Canadian-based projects under this tool (Stats Can Data & FAO data) (only the US market 
+meets the key market definition for Canadian forest products production):   
+FPTO_DOMESTIC = 20% 
+FPTO_EXPORT = 80% (>90% to US = single ‘Key Market’) 
+DOM.DEMANDFROM_INTL = 10% (i.e. 10% of the domestic market is supplied by non-Canadian supply) 
+EXP.DEMANDFROM_INTL = 65% (i.e. 65% of the US market is supplied by non-Canadian supply) 
+ 
+LFINTL = (FPTO_DOMESTIC) * (DOM.DEMANDFROM_INTL) + (FPTO_EXPORT) * (EXP.DEMANDFROM_INTL) 
+LFINTL = (0.20 * 0.10) + (0.80 * 0.65) = 54% 
+Therefore, 54% of the market leakage is expected to be replaced by international sources, which is assigned 
+a leakage factor of “0”.  The remaining domestic/national leakage, 46%, is then further considered in the 
+biomass ratio calculations below.   
+ 
+International Leakage Factor (LFINTL) LFINTL = (FPTO_DOMESTIC) * (DOM.DEMANDFROM_INTL) + 
+(FPTO_EXPORT) * (EXP.DEMANDFROM_INTL) 
+ 
+2.  
+Proportional Leakage by Biomass Ratio: 
+ 
+ 
+VCS Default Biomass Ratio Categories (see: VCS 
+2008 May 24, 2010 Program Update) 
+Calculated as: 
+((Project Biomass Ratio – Leakage Biomass 
+Ratio) / (Project Biomass Ratio)) * 100 
+> 15%33 Lower 
+merchantable 
+biomass to total 
+biomass (t/ha) 
++/- 15% 
+merchantable 
+biomass to total 
+biomass (t/ha) 
+>15% Higher 
+merchantable 
+biomass to total 
+biomass (t/ha) 
+ 
+Starting VCS Default Leakage Factors34: 
+20% 
+40% 
+70% 
+                                              
+33 VCS does not specify a quantitative range for determining “higher”, “lower” or “similar” biomass ratios, and hence a 15% factor has been 
+selected to represent a reasonable range of biomass ratios.  This factor is consistent with other approved VCS and ACR IFM methodology 
+approaches. 
+34 These factors are from the 2008 VCS leakage calculation method, and should be retained for use in this leakage tool Option 3 regardless of 
+new VCS market leakage tool calculations.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+46 
+1a. 
+2a Calculating Weighted Average Leakage Biomass Ratio: 
+This is a typical weighted average calculation, with the objective of creating an average difference in 
+biomass ratio between the project and the national leakage areas, weighted by the proportion of timber 
+supply coming from each leakage forest type: 
+- 
+Identify national forest type (or ecotype) data where merchantable log volume biomass and total forest 
+biomass estimates are available (i.e. from published national inventory data sources, etc.) 
+- 
+Determine the biomass ratio in each national forest type (ratio of merchantable volume in biomass (t/ha) 
+to total biomass (t/ha);  
+- 
+Determine the proportion of the domestic national market that is supplied by each of the national forest 
+types (%); 
+- 
+Determine the difference between the forest type containing the project and each leakage area biomass 
+ratio (Biomass Ratio Difference (%) = ((Project Biomass Ratio – Leakage Area Biomass Ratio) / Project 
+Biomass Ratio) * 100);  
+- 
+Select the VCS default leakage factor for each national forest type, based on the difference between the 
+project biomass ratio and each national forest type biomass ratio (see biomass ratio categories above); 
+- 
+Multiple the proportion (%) of market supplied by each leakage forest type by the VCS Default Leakage 
+Factor from each forest type to determine the weighted average VCS Leakage Factor for biomass 
+ratios. 
+Example (simplified, using 4 national forest types): 
+Project is located in national forest type 1 (biomass ratio = 0.65): 
+Forest Type 1:  Biomass Ratio = 0.65; 25% of national timber inventory 
+Forest Type 2:  Biomass Ratio = 0.75; 30% of national timber inventory 
+Forest Type 3:  Biomass Ratio = 0.55; 25% of national timber inventory 
+Forest Type 4:  Biomass Ratio = 0.75; 20% of national timber inventory 
+ 
+Biomass Ratio difference between leakage area and project area: 
+Forest Type 1 = (0.65 – 0.65)/0.65 = 0 = 40% VCS Leakage Factor 
+Forest Type 2 = (0.65 – 0.75)/0.65 = -15.4% = 20% VCS Leakage Factor 
+Forest Type 3 = (0.65 – 0.55)/0.65 = 15.4% = 70% VCS Leakage Factor 
+Forest Type 4 = (0.65 – 0.75)/0.65 = -15.4% = 20% VCS Leakage Factor 
+ 
+Weighted Average = (25% * 40%) + (30% * 20%) + (25% * 70%) + (20% * 20%) = 37.4% 
+Example Weighted Biomass Discount Factor = 37.4% 
+ 
+VCS Default Leakage Discount Factor, by forest 
+type (selected by +-15% criteria)  
+20% 
+40% 
+70% 
+ 
+Proportional of Market Supplied by National 
+Forest Type in each Leakage Discount Category 
+(note: X + Y + Z = 100%):  
+= X 
+= Y 
+= Z 
+ 
+Proportional Biomass Leakage Discount Factor 
+(LFBIOMASS):  
+LFBIOMASS = (20% * X) + (40% * Y) + (70% * Z) 
+3.  
+MARKET LEAKAGE FACTOR (MLFy):  =(1 - LFINTL)35 * LFBIOMASS  
+                                              
+35 The inverse of the international leakage factor is the portion of the market leakage related to national leakage.  International leakage is given 
+a leakage factor discount of “0” in VCS.   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+47 
+ 
+For project proponents utilizing Leakage Option 3, project market leakage (LEY; t CO2e yr-1) is calculated as:   
+LEY = MLFy • ERy,GROSS 
+(56d) 
+Where,  
+MLFy = the market leakage factor in year, y (as calculate per section 8.3.5) 
+ERy,GROSS = the gross difference in the overall carbon balance between the baseline and project scenarios in year, 
+y (t CO2e yr-1). See equation 57 for its calculation. 
+8.4 
+Summary of GHG Emission Reduction and/or Removals 
+The net GHG emissions and removals are calculated for each scenario following the methods outlined in Section 
+8.1 and 8.2.   
+8.5 
+  Summary Gross Emissions Reductions and/or Removals Equation 
+Gross carbon emissions reductions (ERy,gross; t CO2e yr-1) created by the carbon project are calculated annually 
+as the difference between the baseline and project scenario net emission reductions/emissions:  
+ERy,GROSS = (∆CBSL,t - ∆CPRJ,t) ● 44/12   
+(57) 
+Where,  
+∆CBSL,t = total net baseline scenario emissions calculated from equation 1 (t C yr-1).   
+∆CPRJ,t = total net project scenario emissions calculated from equation 29 (t C yr-1).   
+44/12 = factor to convert C to CO2e 
+8.5.1 
+ Summary Net Emissions Reductions and/or Removals Equation 
+The annual net carbon emissions reductions is the actual net GHG removals by sinks from the project scenario 
+minus the net GHG removals by sinks from the baseline scenario, were then calculated by applying the leakage 
+and uncertainty discount factors (but not the VCS permanence buffer), on an annualized basis:   
+ERy = ERy,GROSS - LEy 
+(58) 
+where:  
+ERy = the net GHG emissions reductions and/or removals in year y (the overall annual carbon change between the 
+baseline and project scenarios, net all discount factors except the permanence buffer) (t CO2e yr-1).   
+ERy,GROSS = the difference in the overall annual carbon change between the baseline and project scenarios (t CO2e 
+yr-1).   
+LEy = Leakage in year y (t CO2e yr-1), as calculated in equation 56b. 
+8.5.2 
+ Calculating Verified Carbon Units (VCU’s) for the Project 
+The number of VCU’s the project available for issuance and sale in year, y (VCUy; t CO2e yr-1), is calculated as:   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+48 
+VCUy = ERy • (1 – ERy,ERR) – BRy 
+(59) 
+where:  
+ERy = the net GHG emissions reductions and/or removals in year (t CO2e yr-1), as calculated in equation 58. 
+ERy,ERR = the uncertainty factor for year, y, (calculated in Section 8.5.3), expressed as a proportion.   
+BRy = estimated VCU-equivalent tCO2e issued to the VCS Buffer Pool in year, y, calculated using the latest 
+version of the VCS AFOLU Non-Permanence Risk Tool. BRy is calculated by multiplying the most current verified 
+permanence risk Buffer Withholding Percentage for the project by the change in carbon stocks (difference between 
+baseline and project scenario) for the project area as per the latest approved VCS AFOLU Requirements 
+(Voluntary Carbon Standard, 2008a).   
+8.5.3 
+ Calculation of an Uncertainty Factor 
+Estimated carbon emissions and removals arising from AFOLU activities have uncertainties associated with forest 
+inventory, carbon stocks, biomass growth rates, modeling error, and their various expansion factors, equations and 
+coefficients.  Use of conservative estimates, peer-reviewed scientific data and analysis, and high quality inventory 
+sampling procedures, will mitigate uncertainty, and improve accuracy as new and reliable data are acquired over 
+time.   
+To be conservative, this methodology employs an over-riding project confidence deduction as a proxy for collective 
+project uncertainty by assessing statistical uncertainty in the forest carbon inventory and associated modeling. The 
+approach is based partly on CAR’s “Confidence Deduction” module (Climate Action Reserve, 2010). Project 
+proponents are required to apply this uncertainty factor to the net emission reductions claimed by the project each 
+year based on the results of the latest ex-post inventory field data collection and modeling output.  
+Note that physical field plot measurement error is calculated and compared directly against a set of minimum 
+accuracy threshold requirements, as described in Section 9.   
+Refer to Section 8.1 for guidance on the process of stratification and how polygons and analysis units are defined.   
+The methodology monitoring section specifies that all analysis units or polygons36 will have representation by one 
+or more field plots.  However, due to the difficulty of determining the independence of plot data within individual 
+homogeneous polygons (i.e. a specifically similar forest type, site, and age), it will be necessary to only calculate a 
+single carbon density observation for each individual polygon sampled; either through the use of a single plot 
+within that polygon, or calculation of the mean of multiple plots within that polygon.  Throughout these calculations 
+a plot observation, subscript i, is defined to represent the mean of all plots within a given polygon.   
+The project-level uncertainty factor is calculated as follows:  
+Step 1 – Calculate the average percent model error (EM) for the project based on the average area-weighted 
+difference between measured values in monitored plot observations and model-predicted values using Equations 
+60a,b. In the case where analysis units have been used for stratification, the difference between the plot 
+observation and model-predicted value (both expressed on a per hectare basis) for a given analysis unit (yd,h,i) is 
+weighted by the area of its associated analysis unit (APRJ,h ) (Eq. 60a).  The use of an area-weighting factor places 
+more emphasis on analysis units that represent a relatively larger proportion of the total project area. In the case 
+                                              
+36 If polygons are the primary stratification unit being used by the project, then each polygon shall have field plot representation.  If polygons are 
+grouped into analysis units for the project, then each analysis unit shall have field plot representation (noting that not all polygons will have plot 
+representation within a given analysis unit).   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+49 
+where only polygons are used in the stratification, the area weighting term (see equations 60a-c) would change to 
+the area of the polygon (APRJ,i), and the subscript, h, is dropped from the yd,h,i term in equations 60a-e. 
+EM = 100 • (∑ yd,h,i / ∑(APRJ,h • ym,h,i)) 
+(60a) 
+where: 
+The summation is across all plot observations, i, and across all analysis units , h; 
+yd,h,i = APRJ,h • (ym,h,i - yp,h,i) 
+(60b) 
+EM = Mean model error for the project (%) 
+yd,h,i = the area-weighted difference between measured  and predicted carbon storage in analysis unit, h, plot 
+observation, i (t C) 
+ym,h,i = carbon storage measured in analysis unit, h, plot observation, i (t C ha-1) 
+yp,h,i = carbon storage predicted by model for analysis unit , h, plot observation, i (t C ha-1) 
+APRJ,h = area of project analysis unit, h  (ha) 
+Step 2 – Calculate the inventory error (EI) at a 90% confidence interval expressed as a percentage of the mean 
+area-weighted inventory estimate from the measured plots.  
+This methodology was designed to accommodate complex landscapes consisting of hundreds to thousands of 
+polygons, which can be further grouped into analysis units.  Inventory error is estimated based upon the difference 
+between modeled and measured values for monitoring plots established in polygons or in polygons grouped within 
+analysis units. 
+Inventory error, EI, is estimated by first calculating the standard error of the area-weighted differences between the 
+plot observation measurement and the associated model-predicted carbon storage (both on a per hectare basis) 
+for analysis units or polygons.  The standard error is then multiplied by the t-value for the 90% confidence interval. 
+Finally EI is expressed in relative terms (in Equation 60c) by dividing the 90% confidence interval of the area-
+weighted differences between predicted and measured values in all plots by the area-weighted average of the 
+measured values in all monitoring plots. 
+EI = 100 • [SE * 1.654 / ((1/N) • ∑(APRJ,h • ym,h,i))]  
+(60c) 
+Where, 
+EI = Inventory error for the project (%) 
+SE = the project level standard error of the area weighted differences between measured plot observation and 
+predicted values of carbon storage. 
+N = total number of plot observations in all analysis units or polygons37 
+1.654 = the 90% confidence interval t-value 
+                                              
+37 For clarity, the plot observation sample size (N) is equivalent to the number of polygons sampled (for projects using either a polygon or 
+analysis unit stratification method). As noted, a single plot observation is created for each polygon using the mean when there are multiple plots 
+within a polygon.  Thus, in some situations the number of actual installed plots may be higher than the number of plot observations (N).   
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+50 
+All other terms as defined in equation 60a. 
+SE = S/ √ N 
+(60d) 
+Where, 
+N = total number of plot observations in all analysis units or polygons (see Footnote 37) 
+S = the standard deviation of the area weighted differences between measured and predicted values of carbon 
+storage across all analysis unit or polygons. 
+S = √ [(1/ N– 1) • ∑(yd,h,i - ybard)2] 
+(60e) 
+Where, 
+ybard = the project-level mean of the area weighted differences between measured plot observation and predicted 
+values of carbon storage. See equation 60b for the calculation of yd,h,i 
+All other terms as defined in equation 60b and 60c. 
+Step 3 - The total error for the project (EP; %) is calculated by adding the model and inventory error terms, as 
+calculated in Steps 1 and 2. 
+EP = EM + EI 
+(60f) 
+Step 4 – Compare the result of Step 3 against Table 6 to determine the uncertainty factor: 
+Table 6 - Uncertainty Factor Calculation 
+Estimated Project Error, EP (%) 
+Uncertainty Factor (=ERY,ERR) 
+0 – 10% 
+= 1.5%38 
+>10% 
+= 1.5% + EP – 10% 
+ 
+The uncertainty factor is calculated at each verification and applied annually until the next verification.

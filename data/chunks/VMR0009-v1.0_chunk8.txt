@@ -1,0 +1,31 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions must be determined following the procedure provided in the latest version 
+of AM0057.  
+8.2 
+Project Emissions 
+Project emissions must be determined following the procedure provided in the latest version of 
+AM0057.  
+8.3 
+Leakage 
+Leakage emissions must be determined following the procedure provided in the latest version 
+of AM0057.  
+8.4 
+Net GHG Emission Reductions and Removals 
+Net GHG emission reductions are calculated as follows: 
+�㌵�㌵! = �㌵�㌵! −�㌵�㌵! − �㌵�㌵!  
+(11) 
+Where: 
+ERy 
+= Net GHG emissions reductions and removals in year y (tCO2e) 
+ 
+VMR0009, v1.0 
+7 
+BEy 
+= Baseline emissions in year y (tCO2e) 
+PEy 
+= Project emissions in year y (tCO2e) 
+LEy 
+= Leakage in year y (tCO2e)

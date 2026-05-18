@@ -1,0 +1,418 @@
+8  
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+ 
+Baseline Emissions 
+Baseline emissions are calculated by converting the electricity used to charge project applicable 
+fleet vehicles at the EV chargers into distance travelled, and multiplying this by the emission 
+factor for fossil fuels used by baseline comparable fleet vehicles to travel the same distance. 
+Baseline emissions must be calculated as follows: 
+𝐵𝐸𝑦= ∑
+𝐸𝐷𝑖𝑦∗𝐸𝐹𝑖𝑓𝑦∗100 ∗𝐼𝑅𝑖
+𝑦−1/(𝐴𝐹𝐸𝐶𝑖𝑦∗𝑀𝑃𝐺𝑖𝑦)
+𝑖,𝑓
+ 
+(1) 
+Where:  
+BEy  
+= Baseline emissions in year y (tCO2e)  
+EDi,y 
+= Electricity delivered by project charging systems serving applicable fleet i in project 
+year y (kwh) 
+EFj,f,y 
+= Emission factor for the fossil fuel f used by comparable fleet vehicles j in year y 
+(tCO2e/gallon) 
+IRi, 
+= Technology improvement rate factor for applicable fleet i 
+AFECi,y = Weighted average electricity consumption per 100 miles rating for EVs in applicable 
+fleet i in project year y (kwh/100 miles) 
+MPGi,y = Weighted average miles per gallon rating for the fossil fuel vehicles comparable to each 
+EV in applicable fleet i, in project year y (miles per gallon) 
+ 
+Default values for MPGi,y, AFECi,y, EFj,f,y, and IRi, across both LDV and HDV applicable fleets can 
+be found in the parameter tables in Section 9.1 below for the United States and Canada.   
+The weighted average electricity consumption per 100 miles rating for EVs in applicable fleet i, is 
+calculated as follows: 
+ 
+𝐴𝐹𝐸𝐶𝑖𝑦= ∑(𝐸𝑉𝑎𝑖𝑦
+𝑎
+∗𝐸𝑉𝑅𝑎𝑖𝑦)/ ∑𝐸𝑉𝑅𝑎𝑖𝑦
+𝑎
+ 
+(2) 
+Where:  
+AFECi,y = Weighted average electricity consumption per 100 miles rating for EVs in applicable 
+fleet i in project year y (kwh/100 miles) 
+EVa,j,y = Electricity consumption per 100 miles rating for model a EV in applicable fleet i in 
+project year y (kwh/100 miles) 
+EVRa,j,y = Total number of model a EV in applicable fleet i on the road by project year y 
+(cumulative number of EVs) 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+14
+ 
+The weighted average miles per gallon rating for the comparable fleet associated with each 
+applicable fleet i, is calculated as follows:   
+𝑀𝑃𝐺𝑖𝑦= ∑(𝑀𝐺𝑃𝑎𝑖𝑦∗𝐸𝑉𝑅𝑎𝑖𝑦
+𝑎
+)/ ∑𝐸𝑉𝑅𝑎𝑖𝑦
+𝑎
+ 
+ 
+ 
+ 
+ 
+(3) 
+Where:  
+MPGi,y = Weighted average miles per gallon rating for fossil fuel vehicles comparable to each EV 
+in applicable fleet i in project year y (miles per gallon) 
+MPGa,j,y = Mile per gallon rating for the fossil fuel vehicle model deemed comparable to each EV 
+model a from applicable fleet i in project year y (miles/gallon) 
+EVRa,i,y = Total number of EV models within applicable fleet i on the road by project year y 
+(cumulative number of EVs) 
+Guidance regarding the calculation procedures for AFECi,y and MPGi,y and their associated 
+parameters is given in the parameter tables in Section 9.2 and applicability condition #2. 
+Further details for the calculation of the default values for MPGi,y, AFECi,y, can be found in 
+Appendix 1 and the accompanying Default MPG and AFEC Workbook on the Verra website. 
+ 
+Project Emissions 
+Project emissions include the electricity consumption associated with the operation of the 
+applicable fleet and must be calculated as follows:  
+ 
+ 
+ 
+ 
+𝑃𝐸𝑦= ∑𝐸𝐶𝑖𝑗𝑦∗𝐸𝐹𝑘𝑤𝑖𝑗𝑦
+𝑖𝑗
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+Where:  
+PEy  
+= Project emissions in year y (tCO2e) 
+ECi,j,y 
+= Electricity consumed by project chargers sourced from region j serving applicable fleet i 
+in project year y (kwh/year) 
+EFkwi,j,y = Emission factor (average) for the electricity sourced from region j consumed by project 
+charging systems serving applicable fleet i in year y (tCO2e/kwh) 
+Where “time-of-day” estimates (i.e., estimates segmented by time periods within a single 24-hour 
+day) for project emissions are available, Equation 5 may be applied, thus replacing Equation 4, 
+provided that:  
+1) There are no time periods in which electricity is provided but not accounted for within PEy 
+(i.e., the sum of all such time-of-day time periods t equals 24 hours in any given full day 
+within the project). 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+15
+2) Time-of-day estimates for electricity emission factors EFkwTODi,j,t,y are drawn from 
+credible, applicable sources and are provided on at least an hourly basis (e.g., the 
+regional Independent System Operation (ISO) or applicable utility generation sources).   
+𝑃𝐸𝑦= ∑
+𝐸𝐶𝑇𝑂𝐷𝑖𝑗𝑡𝑦∗𝐸𝐹𝑘𝑤𝑇𝑂𝐷𝑖𝑗𝑡𝑦
+𝑖𝑗𝑡
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+Where:  
+PEy  
+  
+= Project emissions in year y (tCO2e) 
+ECTODi,j,t,y 
+= Electricity consumed by project chargers sourced from region j serving 
+applicable fleet i during time of day period t in project year y (kwh/time period t) 
+EFkwTODj,,j,t,y  = Emission factor for the electricity sourced from region j consumed by project 
+chargers serving applicable fleet i during time of day period t in year y 
+(tCO2e/kwh) 
+Where ISO does not provide greenhouse gas emission factors on an hourly basis in region j, but 
+does provide fuel consumption data for electricity generation on an hourly basis, EFkwTODji,j,t,y 
+may be estimated on a weighted average basis as follows:  
+1) Projects must combine the hourly fuel consumption figures (typically given as the 
+percentage of each type of fuel consumed that hour (e.g., 50% coal, 50% natural gas)) 
+with the emission factors for these same fuels to create a weighted average emission 
+rate for each hourly period. 
+2) Emission rates for each fuel must be drawn from the same source (e.g., ISO) or 
+consistent publication sources for region j.  
+Equations supporting these fuel-consumption based time-of-day calculations for EFkwTODj,,jy are 
+given in the equation below:
+ 
+ 
+EFkwTODijty = ∑F%ijtfy
+f
+∗EFkwFijtfy 
+ 
+ 
+ 
+ 
+ 
+(6) 
+Where: 
+EFkwTODj,j,t,y 
+= Emission factor for the electricity sourced from region j consumed by project 
+chargers serving applicable fleet i during time of day period t in year y 
+(tCO2e/kwh) 
+EFkwFi,j,t,f,y 
+= Emission factor applicable for the fuel type f used to generate the kwh sourced 
+from region j consumed by project charging systems serving applicable fleet i 
+during time of day period t in year y (tCO2e/kwh) 
+F%i,j,t,f,y 
+=  Percentage of fuel type f used to generate the kwh during each time of day 
+period t, sourced from region j and consumed by EV charging systems serving 
+applicable fleet i in year y (%) 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+16
+Where projects include associated infrastructure within their charging systems, project emissions 
+must be quantified for all such sources s following Equation 7, which must replace Equation 4, 
+where the following applies:   
+1) The electricity emissions factor for the on-site battery must be calculated using the net 
+weighted average of the grid and on-site renewable emission factors as provided in 
+Equation 8 below. 
+2) The charging system’s metering system must adequately and accurately measure and 
+trace such net electricity kwh provided to the charging system (i.e., deliveries minus 
+receipts) from all electricity sourced from/returned to the grid and the dedicated 
+renewables. This includes, for example, electricity sourced from the grid, dedicated 
+renewables (e.g., on site) and delivered to the EV directly and/or via on-site batteries, net 
+of kwh returned back to such sources from the EV batteries18. See Appendix 2 for 
+guidance on adequate metering systems. 
+𝑃𝐸𝑦= ∑
+𝑁𝐸𝐶𝑖𝑗𝑠𝑦∗𝐸𝐹𝑘𝑤𝐴𝐼𝑖𝑗𝑠𝑦−∑𝐿𝐸𝐶𝑖𝑗𝑦∗
+𝑖𝑗
+𝑖𝑗𝑠
+𝐸𝐹𝑘𝑤𝑜𝑛𝑠𝑖𝑡𝑒𝑏𝑎𝑡𝑡𝑖𝑗𝑦  
+ 
+(7) 
+Where:  
+PEy  
+= Total project emissions in year y (tCO2e) 
+NECi,j,s,y 
+= Electricity consumed by EV charging systems supplied from associated 
+infrastructure source s net of any kwh EV/charger returned to this same 
+source within region j serving applicable fleet i in project year y (kwh/year) 
+EFkwAIj,,j,s,y 
+= Emission factor for the electricity from each associated infrastructure source 
+s within region j consumed by project chargers serving applicable fleet i in 
+year y (tCO2e/kwh) 
+LECj,,j,y  
+= Electricity provided to the grid and/or building from on-site storage battery 
+within region j serving applicable fleet i in project year y (kwh/year) 
+EFkwonsitebatti,j,y  = Emission factor for the electricity from the on-site battery associated 
+infrastructure source s within region j consumed by project charging systems 
+serving applicable fleet i in year y (tCO2e/kwh)  
+Where projects include associated infrastructure, the emission factor for electricity from on-site 
+battery associated infrastructure must be calculated using the net weighted average of the grid 
+and on-site renewable emission factors as follows: 
+𝐸𝐹𝑘𝑤𝑜𝑛𝑠𝑖𝑡𝑒𝑏𝑎𝑡𝑡𝑖𝑗𝑦= ∑𝐸𝐶𝐵𝑖𝑗𝑧𝑦∗𝐸𝐹𝑘𝑤𝐴𝐼𝑍𝑖𝑗𝑧𝑦
+𝑧
+  
+ 
+ 
+ 
+(8) 
+                                                 
+18 It should be noted that metering systems for associated infrastructure can include “downstream” meters close to 
+the EV, such as those provided by DCFC onboard meters, and “upstream” meters, located grid-side such as meters 
+monitoring kwh delivered to the on-site batteries. Guidance provided in Appendix 2 is designed to assist the 
+application of Eq 7 given the particular features of a project’s adequate metering systems. 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+17
+Where: 
+EFkwonsitebatti,j,y  = Emission factor for the electricity from the on-site battery associated 
+infrastructure source s within region j consumed by project charging systems 
+serving applicable fleet i in year y (tCO2e/kwh) 
+ECBi,j,z,y  
+= Electricity consumed by on-site battery from associated infrastructure 
+sources z, which comprise only the grid-connected and dedicated renewable 
+sources, within region j serving applicable fleet i in project year y (kwh/year) 
+EFkwAI-Zi,j,z,y  
+= Emission factor for the electricity from the associated infrastructure sources 
+z, which comprise only the grid-connected and dedicated renewable sources, 
+within region j consumed by on-site batteries serving applicable fleet i in year 
+y (tCO2e/kwh) 
+Guidance for sourcing the emission factors for the other associated infrastructure sources s is 
+provided in the monitoring parameter boxes found in Section 9; guidance regarding adequate 
+metering systems is found in Appendix 2.  
+Where projects include associated infrastructure and estimates for time-of-day project emissions 
+are available, Equation 9 may be followed, thus replacing Equations 4, 5 and 7, provided that:  
+ 
+There are no time periods in which electricity is provided but not accounted for within PEy 
+(i.e., the sum of all such time-of-day time periods, t, equals 24 in any given full day within 
+the project) 
+ 
+Time-of-day estimates for electricity emission factors, EFkwTODAIj,j,s,t,y are drawn from 
+credible, applicable sources (e.g., the regional ISO or applicable utility generation 
+source).  
+ 
+Equation 7 must be applied to calculate EFkwTODAIj,j,s,t,y where electricity generation’s 
+hourly fuel consumption data is relied up to provide time-of-day emission rates for each 
+associated infrastructure source (e.g., grid-derived electricity). 
+ 
+The electricity emissions factor for the on-site battery must be calculated using the net 
+and time weighted average of the grid and on-site renewable emission factors given in 
+Equation 8. 
+ 
+The provisions regarding the charging system’s adequate metering systems as given for 
+Equation 7 and 8 (including guidance offered in Appendix 2) also apply for Equation 9 in 
+order to adequately and accurately measure and trace net electricity consumption 
+(NECT) from sources s, but are applied during each time-of day period t provided that: 
+o 
+For time-of-day applications of associated infrastructure calculations pertaining to 
+the NECT for an on-site battery’s kwh delivered to the EV charger, metering must 
+be applied “upstream”, on the grid-side of the on-site battery. That is, for the 
+calculation of NECT for an on-site battery, Equation 9 will, using upstream 
+meters, calculate the kwh delivered to EV chargers via the on-site battery from 
+grid and/or dedicated renewable sources during the time of day period t taking 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+18
+into account when these kwh are actually delivered to the on-site battery (i.e., not 
+when delivered from this battery to the EV charger), since the GHG impacts for 
+these kwh arise on the grid system when they are first delivered into this 
+associated infrastructure system (that is, are delivered to the on-site battery) 
+o 
+For these applications, kwh supplied by the EV to the on-site battery can be set 
+aside (since they return to the EV at a later date) unless, during a given time 
+period t, the LECT less the kwh received by the on-site battery from grid and 
+renewable sources less the on-site battery’s stored kwh is greater than zero – 
+that is, LECT is so large that it must have drawn upon the kwh delivered to the 
+on-site battery from the EV 
+In the context of these NECT calculations for the on-site battery, note that the electricity 
+supplied from the grid to the EV charging system directly, and the electricity supplied by 
+the EV back to the grid during any time period t are considered separately in the 
+calculation of NECT for the grid. 
+𝑃𝐸𝑦= ∑
+𝑁𝐸𝐶𝑇𝑖𝑗𝑠𝑡𝑦∗𝐸𝐹𝑘𝑤𝑇𝑂𝐷𝐴𝐼𝑖𝑗𝑠𝑡𝑦−∑
+𝐿𝐸𝐶𝑇𝑖𝑗𝑡𝑦∗𝐸𝐹𝑘𝑤𝑜𝑛𝑠𝑖𝑡𝑒𝑏𝑎𝑡𝑡𝑖𝑗𝑡𝑦
+𝑖𝑗𝑡
+𝑖𝑗𝑠𝑡
+ 
+(9) 
+ 
+Where:  
+PEy  
+ 
+= Project emissions in year y (tCO2e) 
+NECTi,j,s,t,y 
+= Electricity consumed by project chargers supplied from associated 
+infrastructure source s net of any kwh EV/charger returned to this same 
+source during time-of-day period t, within region j serving applicable fleet 
+i in project year y (kwh/time period t) 
+EFkwTODAIi,j,s,t,y 
+= Emission factor for the electricity from associated infrastructure source 
+s within region j consumed by project chargers serving applicable fleet i 
+during time-of-day period t in year y (tCO2e/kwh) 
+LECTi,j,t,y 
+= Electricity provided to the grid and/or building from on-site storage 
+battery during time-of-day period t within region j serving applicable fleet i 
+in project year y (kwh/year) 
+EFkwTODonsitebatti,j,t,y  = Emission factor for the electricity from the on-site battery associated 
+infrastructure source s during time-of-day period t within region j 
+consumed by project chargers serving applicable fleet i in year y 
+(tCO2e/kwh)  
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+19
+ 
+Leakage 
+Leakage is not considered an issue under this methodology, and is therefore set at zero.19 
+ 
+Net GHG Emission Reductions and Removals 
+Net GHG emission reductions must be calculated as follows, including application of a discount 
+factor, Dy, to adjust pro-rata where EV fleet credits have been issued within the project region: 
+ERy = (BEy − PEy − LEy) ∗ Dy  
+ 
+ 
+ 
+ 
+ 
+(10) 
+Where: 
+ERY 
+= Net GHG emissions reductions and removals in year y (tCO2e) 
+BEY  
+= Baseline emissions in year y (tCO2e)  
+PEy 
+= Project emissions in year y (tCO2e) 
+LEy 
+= Leakage in year y (tCO2e) 
+Dy 
+= Discount factor to be applied in year y (%) 
+Where:
+   
+ 
+ 
+ 
+ 
+ 
+Dy = ERCy/(ERFy + ERCy) 
+ 
+ 
+ 
+ 
+ 
+ 
+(11) 
+ 
+Where: 
+Dy 
+= Discount factor to be applied in year y (%) 
+ERCy 
+= Sum of GHG credits20 issued by all projects under this methodology (or others which 
+support the introduction of EV charging systems) across this project’s applicable fleet i 
+categories within this total project region in project year y-1 (tCO2e) 
+             ERFy 
+= Sum of GHG credits issued by all projects under methodologies which support the 
+introduction of EV fleets (e.g., CDM AMS.III.C) located within this project’s total region 
+                                                 
+19 This is consistent with CDM methodology AMS-III.C, which sets leakage at zero. Further analysis of crediting 
+substitution risks between ineligible and eligible EV chargers confirmed substitution risks to be de minimis in the US 
+due to a number of factors. These include: the large distances between public DCFC’s and unlikely substitution of 
+public DCFC by public L2 charging; a very low portion of L2s are simultaneously public, accessible (e.g. not restricted 
+workplaces) and excluded from project crediting period under VCS grandfathering rules (when 80-90% of L2 charging 
+takes place in homes). Furthermore, L2 to L2 substitution between eligible and ineligible chargers in this de minimis 
+segment can also be reciprocal reducing leakage still further. 
+20 Credits for GHG emission reductions issued under GHG programs such as the American Carbon Registry (ACR) 
+Climate Action Reserve (CAR), Verified Carbon Standard (VCS), or the UNFCCC’s Clean Development Mechanism 
+(CDM). 
+VM0038, Version 1.0 
+Sectoral Scopes 1 & 7 
+ 
+ 
+20
+where the applicable fleet i categories are the same for both this EV charging system 
+project and projects introducing EV fleets21, in project year y-1 (tCO2e)  
+Where no GHG credits have been issued for projects that introduce EV fleets in the EV charging 
+system project’s region, Dy will be 1 (i.e., there is no discount applied). 
+Where project proponents can demonstrate that the EV charging systems included in the project 
+are comprised of a private or closed charging network (e.g., a private charging network that is in 
+secure garages, or a closed charging network for e-buses owned by a transit agencies where 
+chargers are reserved exclusively for its own public agency fleet), and can demonstrate that 
+relative to this closed or private charging network, no GHG credits have been issued for the 
+introduction of EVs using the network, then Dy will be 1 (i.e., there is no discount applied)22.  
+Where GHG credits have been issued for projects that introduce EV fleets for a region larger than 
+the proposed EV charging system project (e.g., a GHG project introducing a fleet of EVs U.S.-
+wide, while the EV charging system project is confined to one state), then a sensible pro-rata 
+share of the GHG credits issued for the introduction of EV fleets can be estimated for the EV 
+charging system project’s region (e.g., using the pro-rata number of EVs on the road in the EV 
+charging system project state compared to the total in the US, using sources such as 
+ZEVFacts.com).

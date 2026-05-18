@@ -1,0 +1,48 @@
+3 
+DEFINITIONS 
+Boreal Forest - as per FAO ecological zone definitions and mapping (FAO, 2001):  “The Boreal, or subarctic, 
+domain is found only in the higher latitudes of the Northern Hemisphere between 50-55 to 65-70 degrees. It has at 
+least one and up to 4 month with an average temperature above 10oC. Another feature is the large annual range of 
+temperature. Rainfall is low, generally below 500 mm. The northern boundary, approximately the isotherm of 10oC 
+for the warmest month (usually July), coincides rather well with the poleward limit of tree growth.” 
+Clear cut - Harvest removal of >90% of merchantable trees within a defined area   
+De minimis – carbon emissions deemed to be insignificant or immaterial to the total GHG calculations.  Unless 
+otherwise specified, de minimis refers to activities resulting in <5% change in the total project GHG emission 
+reductions.  See (CDM, 2007a) for further details.  
+Logging slash - Dead wood residues (including foliage) left on the forest floor after timber removal  
+Right of Use – As defined in the most recent version of the VCS Standard.    
+Temperate Forest – as per FAO ecological zone definitions and mapping (FAO, 2001): “The temperate domain 
+occupies a medial position within the middle latitudes – usually between the subtropical domain equator-wards and 
+the boreal domain pole-wards. The boundaries with the subtropical - and boreal domain are 8 months and 4 
+months, respectively, with average temperatures of 10°C or above. Its main distribution is in the northern 
+hemisphere”. 
+Timber Harvest Land Base (THLB) – a sub-set of the project area land base subject to timber harvesting, 
+including spatially located areas or reasonable volume-based proxies within the project boundaries which are 
+currently considered biologically and economically feasible for timber harvesting as per typical regional logging 
+practices relevant to the project site.  Removals from the THLB may include, but are not limited to:  non-forest 
+areas; non-commercial forest types; physically inoperable or inaccessible areas due to terrain, soils, etc.; current 
+and future roads and other non-forest clearings; legally required or voluntary buffers and protected areas (i.e. 
+VM0012, Version 1.2 
+Sectoral Scope 14 
+ 
+ 
+Copyright ©2013 3GreenTree Ecosystem Services Ltd. 
+5 
+riparian zones, wildlife areas, sensitive sites, etc.), long run uneconomical stands, and other areas which are not 
+eligible for harvesting under typical or common practices determined in the baseline and project scenarios.  
+Examples of determining THLB can be found within British Columbia Timber Supply Analysis documentation at 
+http://www.for.gov.bc.ca/hts/tsas.htm in Timber Supply Area (TSA) Analysis Reports (i.e. pg. 10, 
+http://www.for.gov.bc.ca/hts/tsa/tsa13/tsr2/analysis.pdf); however, projects must use methods typical of local forest 
+estate modeling and timber supply analyses.  Note that the THLB is a primary stratification which identifies areas 
+eligible for harvesting activities; all project requirements apply to the entire project area.   
+Tree - A perennial woody plant with a diameter at breast height > 5 cm and a height greater than 1.3 m. 
+Acronyms: 
+CAR – Climate Action Reserve 
+CDM - Clean Development Mechanism 
+GPG LULUCF - Intergovernmental Panel on Climate Change‘s Good Practice Guidance for Land-Use, Land Use 
+Change and Forestry 
+IFM - Improved Forest Management (VCS project type) 
+LtPF – Logged to Protected Forest (VCS IFM project sub-type) 
+PD - Project Description  
+VCS - Verified Carbon Standard 
+VCU - Verified Carbon Units

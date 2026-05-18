@@ -1,0 +1,148 @@
+10 REFERENCES 
+ACHR News (2008). EPA Names First GreenChill Award Winners. ACHR News. 
+http://www.achrnews.com/Articles/Breaking_News/BNP_GUID_9-5-
+2006_A_10000000000000424358 
+California Air Resources Board – CARB (2009). Rulemaking to consider the adoption of a 
+proposed regulation for the management of high global warming potential refrigerants for 
+stationary sources. Available at: 
+https://ww3.arb.ca.gov/regact/2009/gwprmp09/gwprmp09.htm, Original sources:  
+CARB: Appendix A 
+http://www.arb.ca.gov/cc/reftrack/refrigerant_mgmt_program_appendix_a_1_26.pdf;  
+CARB: Appendix B 
+http://www.arb.ca.gov/cc/reftrack/refrigerant_mgmt_program_appendix_b_1_26.pdf; CARB: 
+Draft Regulations 
+http://www.arb.ca.gov/cc/reftrack/refrigerant_mgmt_program_draft_rule_1_26.pdf 
+EPA GreenChill (2022). Keeping cool for fifteen years (2022 progress report). US EPA. Available 
+at: https://www.epa.gov/system/files/documents/2022-09/GreenChill-Keeping-Cool-for-15-
+Years-2022_1.pdf 
+ICF Consulting (2005). Revised Draft Analysis of US Commercial Supermarket Refrigeration 
+Systems. EPA. Available at: 
+https://www.epa.gov/sites/default/files/documents/EPASupermarketReport_PUBLIC_30Nov0
+5.pdf 
+ 
+ 
+ 
+ 
+VM0001, v1.2 
+ 
+21 
+APPENDIX 1: UNCERTAINTY ASSESSMENT 
+The uncertainty associated with the application of this methodology was assessed according to the 
+2006 lPCC Guidelines following the linear error propagation approach. 
+Leaks are expected to have low uncertainty since they are measured during project implementation. 
+They rely on ODS reporting systems and are based on HFC purchases throughout the year. A value of 2 
+percent is assumed for individual values, but the uncertainty decreases radically when total values are 
+obtained by addition. For example, by aggregating only ten individual values, the uncertainty decreases 
+to 0.6 percent. A value of 1 percent is assumed for propagation. 
+The charge of the refrigeration systems used is also expected to have very low uncertainty since it is 
+monitored and obtained from the technical specifications of the equipment installed. A value of 0.5 
+percent is assumed for aggregated charge in the propagation. 
+The equations applied to propagate the uncertainty of individual parameters are: 
+For multiplication: 
+U = √U1
+2 + U2
+2 + ⋯+ Un2  
+For addition and subtraction: 
+U =
+√(U1 .  x1)2+(U2 .  x2)2+⋯+(Un .  xn)2
+|x1+x2+⋯+xn|
+  
+The resulting estimation of the uncertainty of emission reductions is 4 percent, so the quantification 
+excludes random uncertainty according to the VCS Methodology Requirements.  
+The figure below contains details of the values applied, intermediate results and final uncertainty. 
+Lx and Cx below must be understood as the sum of Lx,s and Cx,s respectively. Idem with Ly and Cy. 
+ 
+ 
+VM0001, v1.2 
+ 
+22 
+ 
+ 
+ 
+Eq. 1
+Uncertainty %
+Eq. 7
+BLR y
+21.5%
+1.9%
+L x
+699 t
+1.0%
+C x
+3,650 t
+0.5%
+HFC
+LT,y
+U%
+GWPT
+LT,y × GWPT
+U%
+L x-1
+825 t
+1.0%
+HFC32
+11.6 1.0%
+677
+7853.2
+1.0%
+C x-2
+3,600 t
+0.5%
+HFC125
+144.2 1.0%
+3170
+457114
+1.0%
+L x-2
+810 t
+1.0%
+HFC134a
+34.2 1.0%
+1300
+44460
+1.0%
+C x-2
+3,600 t
+0.5%
+HFC143a
+143 1.0%
+4800
+686400
+1.0%
+SUM
+333 0.6%
+1,195,827
+0.7%
+Eq. 4
+GWPHFC,y
+3,591 0.9%
+PLR y
+9.1%
+1.1%
+L y
+333 t
+1.0%
+C y
+3,650 t
+0.5%
+Eq. 5
+LRR y
+12.4%
+3.5%
+BLR y
+21.5%
+PLR y
+9.1%
+Eq. 6
+ER y
+1,625 tCO2e
+3.6%
+LRR y
+12.4%
+C y
+4 t
+GWP HFC,y
+3,591
+0.9%
+ 
+VM0001, v1.2

@@ -1,0 +1,427 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+WRC projects in tidal wetlands: Activity Method 
+All other project activities: Project Method 
+Crediting Baseline 
+Project Method 
+ 
+1 Available at: https://cdm.unfccc.int/methodologies/ARmethodologies/tools/ar-am-tool-04-v1.pdf. For projects 
+that do not meet T-SIG applicability conditions, an adjusted process can be found in Appendix 1.  
+ 
+VM0007, v1.8 
+7 
+ 
+This REDD+ Methodology Framework document is the basic structure of a modular REDD+ 
+methodology. It provides the generic functionality of the methodology, which frames pre-defined 
+modules and tools that perform a specific function. It constitutes, together with the modules 
+and tools it calls upon, a complete REDD+ baseline and monitoring methodology. 
+The modules and tools called upon in this document are applicable to the following activities:  
+• 
+Avoiding unplanned deforestation (AUDef) 
+• 
+Avoiding planned deforestation (APDef) 
+• 
+Conservation of intact wetlands (CIW), which includes avoiding planned wetland 
+degradation (APWD) and avoiding unplanned wetland degradation (AUWD) 
+• 
+Restoring wetland ecosystems (RWE) 
+The reference to this methodology and the modules used to construct the project-specific 
+methodology must be given in the project description (PD). 
+Identification of the VCS-eligible Activity(ies) 
+To identify the type of VCS-eligible project activity, use the decision trees in Table 1 to Table 3 
+below. The decision trees must be used to provide a broad indication of likely baseline type and 
+applicability. Ultimately, the relevant baseline modules (BL-UP – avoiding unplanned 
+deforestation or wetland degradation; BL-PL – avoiding planned deforestation, planned 
+degradation, or planned wetland degradation;  BL-PEAT – peatland and BL-TW – tidal wetland) 
+must be applied with relevant applicability conditions and criteria. 
+Provide all the necessary evidence to demonstrate the type of eligible activity as given in each 
+module.  
+A project can include areas subject to different eligible activities (e.g., Area A = avoiding 
+planned deforestation, Area B = avoiding unplanned deforestation, Area C = reforestation, etc.). 
+In such cases the areas that are eligible for different categories must be captured by different 
+strata and clearly delineated (i.e., without spatial overlap), and the procedures outlined below 
+applied to each of them separately. Projects may be stand-alone REDD  and/or WRC. Projects 
+may combine WRC with REDD, in a single area, in which case they must apply concomitantly 
+the procedures for both categories provided in this methodology, unless, in the case of stand-
+alone REDD on wetlands, the expected emissions from the soil organic carbon pool or change 
+in the soil organic carbon pool in the project scenario is deemed de minimis, or, in the case of 
+stand-alone RWE with presence of vegetation, the expected emissions from the biomass pool or 
+change in the biomass pool in the project scenario is deemed de minimis. The tool T-SIG or 
+Appendix 1 must be used to justify the omission of carbon pools and emission sources. 
+The demonstration of eligibility must be reported in the PD. 
+ 
+VM0007, v1.8 
+8 
+Table 1 below provides a decision tree for identifying the types of REDD project activities 
+eligible under this methodology. 
+Table 1: Decision Tree for Determining REDD Project Activity Type 
+Is the forest land expected to be converted to non-forest land or to a managed tree 
+plantation in the baseline case? 
+Yes 1F2 
+No  
+ 
+Proposed project is not a VCS REDD+ activity 
+currently covered by the methodology 
+Is the land legally authorized and documented to be converted to non-forest or a managed 
+tree plantation? 
+Yes  
+No  
+Avoiding planned deforestation 
+Avoiding unplanned deforestation 
+ 
+ 
+If the project area includes peatland already drained 2F3, or tidal wetlands already degraded 3F4 or 
+that would be drained or degraded in the baseline case, the project must combine the project 
+activities identified above with the WRC category, as set out in Table 3 below.  
+Table 2: Determination of WRC and Combined Categories 
+Baseline Scenario 
+Project Activity 
+Combined or Stand-
+alone Categories 
+Pre-Project 
+Condition 
+Land Cover 
+Drained 
+peatland or 
+degraded tidal 
+wetland 
+Non-forest  
+Peatland rewetting or tidal 
+wetland restoration 4F5 combined 
+with conversion to forest, or 
+revegetation 
+RWE+ARR6 
+Wetland restoration without 
+vegetation establishment or de 
+minimis vegetation changes 
+RWE 
+ 
+2 If the answer is “yes”, evidence must be provided based on the application of the appropriate baseline module 
+(BL-PL for APD and BL-UP for AUDD). 
+3 See VCS Program Definitions 
+4 See Section 3 
+5 Includes wetland creation (see VCS Methodology Requirements) 
+6 Projects must use an appropriate ARR methodology (e.g., VM0047) to quantify ERRs from these activities.  
+ 
+VM0007, v1.8 
+9 
+Forest with 
+deforestation/ forest 
+degradation 
+Peatland rewetting and 
+avoiding deforestation/ forest 
+degradation or tidal wetland 
+restoration and avoiding 
+deforestation/forest 
+degradation 
+RWE+REDD 
+Undrained or 
+partially 
+drained 
+peatland or 
+intact or 
+partially 
+altered tidal 
+wetland 5F7 
+Non-forest 
+Avoiding drainage and/or 
+interrupted sediment supply 
+Avoiding conversion to open 
+water or impounded wetland 
+Avoiding degradation 
+CIW 6F8 
+Forest with 
+deforestation/ forest 
+degradation 
+Avoiding drainage or wetland 
+degradation combined with 
+avoiding deforestation/forest 
+degradation 
+CIW+REDD 
+ 
+Improved forest management (IFM) and Afforestation, Reforestation, and Revegetation (ARR) 
+are not covered by this methodology. 
+In Table 4 below, the modules and tools are listed, and it is indicated when use of 
+modules/tools is mandatory, optional or not applicable under each activity type. 
+Where REDD project activities take place in combination with WRC, the project must adhere to 
+both the respective project category modules and the relevant WRC modules. For example, an 
+AUDD project combined with AUWD on a tidal wetland, must follow the instructions provided in 
+both respective columns. 
+Table 3: Determination of When Module/Tool Use is Mandatory (M) or Optional (O) for 
+all project activities covered by this methodology 
+Module 
+AUDef 
+APDef 
+RWE 
+AUWD 
+APWD 
+Peatland 
+Tidal Wetlands 
+Peatland 
+Tidal Wetlands 
+Peatland 
+Tidal Wetlands 
+REDD+ MF 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+ 
+7 The CIW category includes activities that reduce GHG emissions by avoiding degradation and/or the conversion 
+of wetlands that are intact or partially altered while still maintaining their natural functions, including hydrological 
+conditions, sediment supply, salinity characteristics, water quality and/or native plant communities.  
+8 Includes Avoiding Unplanned Wetland Degradation (AUWD) and Avoiding Planned Wetland Degradation (APWD). 
+ 
+VM0007, v1.8 
+10 
+Module 
+AUDef 
+APDef 
+RWE 
+AUWD 
+APWD 
+Peatland 
+Tidal Wetlands 
+Peatland 
+Tidal Wetlands 
+Peatland 
+Tidal Wetlands 
+M-REDD 
+M 
+M 
+- 
+- 
+M 
+M 
+M 
+M 
+M-PEAT 
+- 
+- 
+M 
+- 
+M 
+- 
+M 
+- 
+M-TW 
+- 
+- 
+- 
+M 
+- 
+M 
+- 
+M 
+T-BAR 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+X-UNC 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+X-STR 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+BL-UP 
+M 
+- 
+- 
+- 
+M 
+M 
+- 
+- 
+BL-PL 
+- 
+M 
+- 
+- 
+- 
+- 
+M 
+M 
+BL-PEAT 
+- 
+- 
+M 
+- 
+M 
+- 
+M 
+- 
+BL-TW 
+- 
+- 
+- 
+M 
+- 
+M 
+- 
+M 
+LK-ASU 
+M 
+- 
+- 
+- 
+M 
+M 
+- 
+- 
+LK-ASP 
+- 
+M 
+- 
+- 
+- 
+- 
+M 
+M 
+LK-ECO 
+- 
+- 
+M 
+M 
+M 
+M 
+M 
+M 
+LK-ME 
+(m)1 
+(m)1 
+- 
+- 
+- 
+- 
+- 
+- 
+CP-AB 
+M 
+M 
+-** 
+-** 
+-** 
+-** 
+-** 
+-** 
+CP-D 
+(m)2 
+(m)2 
+-** 
+-** 
+-** 
+-** 
+-** 
+-** 
+CP-L 
+O 
+O 
+-** 
+-** 
+-** 
+-** 
+-** 
+-** 
+CP-S 
+O 
+O 
+-** 
+-** 
+-** 
+-** 
+-** 
+-** 
+CP-W 
+(m)1 
+(m)1 
+-** 
+-** 
+-** 
+-** 
+-** 
+-** 
+E-BPB 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+M 
+E-FFC 
+O 
+O 
+(m)4 
+(m)4 
+O 
+O 
+O 
+O 
+E-NA 
+(m)3 
+O 
+- 
+- 
+- 
+- 
+- 
+- 
+ 
+VM0007, v1.8 
+11 
+ 
+Notes: 
+- 
+Not applicable 
+M 
+Modules marked with an M are fully mandatory for the given project activity (i.e., the 
+indicated modules and tools must be used) 
+O 
+Modules marked with an O are fully optional for the given project activity (i.e., the 
+indicated pools and sources can be included or excluded as decided by the project, but 
+if included in the baseline they must also be included in the project scenario) 
+(m)1 
+Mandatory for the given project activity where the process of deforestation involves 
+timber harvesting for commercial markets 
+(m)2 
+Mandatory for the given project activity if this carbon pool is greater in baseline (post-
+deforestation/degradation) than project scenario and significant; otherwise can be 
+conservatively omitted 
+(m)3 
+Mandatory for the given project activity where leakage prevention activities include 
+increases in the use of fertilizers 
+(m)4 
+Mandatory for the given project activity on tidal wetlands where it includes fossil fuel 
+combustion; otherwise optional 
+* 
+VCS Methodology Requirements and the tool T-SIG or Appendix 1 must be used to 
+justify the omission of carbon pools and emission sources 
+** 
+Procedures provided in Modules BL-PEAT and M-PEAT or BL-TW and M-TW (if WRC 
+activities are combined with REDD, CP modules must be used except Module CP-S) 
+@ 
+For tidal wetlands, an activity method is applicable (see Module ADD-AM)

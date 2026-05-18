@@ -1,0 +1,62 @@
+6 BASELINE SCENARIO 
+The crediting baseline uses a dynamic performance benchmark approach, where the baseline 
+scenario is represented by designated composite baselines (made up of forest measurement 
+plots located outside of the project area) that are continually monitored. These are paired with 
+sample units representing the project scenario.  
+A group of constituent baseline plots sourced from a donor pool of national or sub-national 
+forest inventory plots is collectively matched to project sample units and designated as a 
+“composite baseline.” Matching is achieved using a k-nearest neighbor optimal matching 
+approach, deriving weights for constituent baseline plots to produce a weighted combination 
+(composite baseline) that conforms to the initial conditions of the paired project sample unit. 
+Matching conditions are defined by referencing one or more covariates representing biophysical 
+and anthropogenic factors driving carbon stock change.  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+11 
+Initial conditions of composite baselines and project sample units must be matched at t = 0 
+(prior to initiation of the project activity). The selection and weighting of constituent baseline 
+plots must be subsequently held constant throughout the project crediting period (with rare 
+exceptions, see Section 8.1).  
+A two-stage sample is recommended for the project scenario, with primary units (e.g., stands) 
+selected via probability proportional to size (acreage) and secondary units (e.g., plots) selected 
+via simple random sampling (SRS) or systematic sampling with a fixed sample size within each 
+selected primary unit (which is self-weighting and simplifies calculations). In this case, a 
+composite baseline is matched to each primary unit on the basis of initial covariate values 
+averaged across the secondary units. 
+Constituent baseline plots may be sourced from new or existing continuously measured 
+national or sub-national forest inventories and must meet the following requirements: 
+1) Sample plots must be located outside of the project area.  
+2) Sample plot populations from which constituent baseline plots are sourced must be 
+from unbiased, representative sampling at a regional scale. 
+3) Sample plots must be subject to continuous, periodic re-measurement throughout the 
+project crediting period. Constituent baseline plots need not be on the same re-
+measurement schedule but must be re-measured every 10 years or more frequently. 
+4) Initial conditions must be quantified from measurements collected at time t − 10 or 
+more recently.   
+5) Sample plots must be located in the same ecoregion (e.g., referencing ecological 
+sections from Cleland et al. (2007)6 in the US or Holdridge life zones7 elsewhere). 
+6) Trees on sample plots must be given unique identification numbers to permit tracking 
+of individual stems. 
+7) Measurement parameters (e.g., minimum diameter at breast height) must be paired 
+with the project sample units. 
+Project proponents must use approved data sources, matching covariates, and procedures for 
+the national or sub-national jurisdiction in which they occur, as specified in the methodology 
+appendices (e.g., Appendix 1). Where not specified in the current version of the methodology, 
+approved data sources, matching covariates, and procedures for other national or sub-national 
+jurisdictions may be developed through revisions to the methodology. 
+ 
+ 
+6 Cleland, D. T., J. A. Freeouf, J. E. Keys, G. J. Nowacki, C. A. Carpenter, and W. H. McNab. 2007. Ecological Subregions: 
+Sections and Subsections for the Conterminous United States. Gen. Tech. Report WO-76D. USDA Forest Service. 
+https://doi.org/10.2737/WO-GTR-76D  
+7 Leemans, R. 1992. Global Holdridge Life Zone Classifications. IIASA. https://resources.unep-
+wcmc.org/products/31d5e80482834f6ba6ee51a2813b82e7  
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+12

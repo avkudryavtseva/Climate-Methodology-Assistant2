@@ -1,0 +1,101 @@
+7  
+QUANTIFICATION OF GHG EMISSION REDUCTIONS AND REMOVALS 
+Quantification of the reductions, removals and reversals of relevant SS for each of the greenhouses 
+gases must be completed by using the baseline and project emissions equations specified for energy 
+efficiency and waste diversion activities.  
+If the project proponent chooses to exclude any of the sources from the SS selection (Table 3: 
+Process for Selection of SS 
+), a detailed justification must be provided for each exclusion. 
+7.1 
+Baseline Emissions 
+Emissions Adjusted Baseline EE  
+= the energy efficiency activities related baseline emissions plus any adjustments 
+needed to adjust it to the conditions of the monitoring period 
+Emissions Adjusted Baseline EE  
+= Emissions Adjusted Building/System Energy Consumption w/o ECM + Emissions Adjusted Maintenance + 
+Emissions Adjusted Unit Operation 
+ 
+Emissions Adjusted Building Energy Consumption w/o ECM  
+= 
+ 
+Emissions under SS B7 Adjusted 
+Building/System Energy Consumption (w/o 
+ECMs) 
+ 
+Emissions Adjusted Maintenance  
+= 
+ 
+Emissions under SS B8 Adjusted Maintenance  
+ 
+Emissions Adjusted Unit Operation  
+= 
+ 
+Emissions under SS B9 Adjusted Unit 
+Operation: Biological/Chemical/Mechanical 
+Processes 
+Emissions Adjusted Baseline WASTE  
+= the waste related baseline emissions plus any adjustments needed to adjust it to 
+the conditions of the monitoring period 
+Emissions Adjusted Baseline WASTE  
+= Emissions Adjusted Energy Consumption from Waste Processing  
++ Emissions Adjusted Waste Decomposition and Methane Release 
+ 
+Emissions Adjusted Energy Consumption from Waste Processing= Emissions under SS B10 Adjusted Energy Consumption from 
+Waste Processing 
+ 
+Emissions Adjusted Waste Decomposition and Methane Release= Emissions under SS B14 Adjusted Waste Decomposition and 
+Methane Release 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+34 
+7.2 
+Adjustments 
+The project proponent may conduct emission adjustments for measuring functional equivalence as well 
+as unit of productivity. The baseline scenario identified for the projects using this methodology may 
+require adjustments to ensure functional equivalence with the project.  
+In order for this comparison between the project scenario and baseline scenario to be meaningful, the 
+project and the baseline must provide the same function and quality of products or services. This 
+consistency in metrics and units of production provides an ability to quantify actual emissions reductions 
+achieved in the project scenario.  
+Table 4 provides SS-specific equations for the baseline component of the comparison. Table 5 provides 
+project SS emission adjustment quantification. 
+In some cases, the project scenario cannot have the same units as the baseline. An example of this 
+would be where the project seeks to displace conventional natural gas with landfill gas. In this case, the 
+common metric would be the energy content of each fuel, reported as energy content/liter of fuel4. 
+The project proponent is strongly encouraged to review IPMVP volumes for examples of how to make 
+adjustments for functional equivalence and productivity. 
+The unit of productivity must be used by the project proponent as a basis for incorporating functional 
+equivalence within the calculation methodology. Examples of units of productivity could be: energy 
+requirements for residential buildings, per square foot of front of house commercial space, per kg/L/m2/m3 
+of output from manufacturing facilities, etc. The unit of productivity shall be defined to account for any 
+non-production sensitive components. In all cases the project proponent must thoroughly justify their 
+assessment of the appropriate unit of productivity.  
+The project proponent must also justify the selection of data used for deriving the unit of productivity. 
+Functional equivalence adjustments are usually performed when the energy savings are quantified. In 
+many cases, the quantification and claims of GHG emission reductions shall occur on a yearly basis; 
+therefore, these adjustments need to be performed according to that same schedule. Typical adjustment 
+includes routine adjustments and non-routine adjustments as explained below:  
+Routine Adjustments of the Baseline  
+IPMVP provides the following guidance on performing routine adjustments: “For any energy governing 
+factors expected to change routinely during the monitoring period such as weather… a variety of 
+techniques can be used to perform the adjustments. Techniques may be as simple as a constant value 
+(no adjustment) or as complex as a several multiple parameter non-linear equations, each correlating 
+energy with one or more independent variables. Valid mathematical techniques must be used to derive 
+                                                          
+4   Ibid. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+35 
+the adjustment method.” The quantification of routine baseline adjustments should reflect best practice 
+set out in the latest IPMVP volume5.  
+ 
+ 
+Non-Routine Adjustments of the Baseline  
+IPMVP provides examples of non-routine adjustments. The quantification of non-routine baseline 
+adjustments should reflect best practice set out in the latest IPMVP volume. 
+ 
+Table 4: Baseline SS Emission Adjustment Quantification  
+                                                          
+5  IPMVP contains examples of routine and non-routine adjustments.   
+VM0018, Version 1 
+Sectoral Scopes 3, 13

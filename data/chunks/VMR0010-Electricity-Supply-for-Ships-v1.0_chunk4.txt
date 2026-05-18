@@ -1,0 +1,21 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Activity Method 
+Crediting Baseline 
+Project Method 
+ 
+The original CDM methodology AMS-III.BP Emission Reduction by Shore-Side Electricity Supply 
+System applies to shore-side electricity supply to ships docked at berths, displacing electricity 
+produced from ships’ fossil fuel auxiliary power generator(s). Only the electricity consumption of 
+ships docked at berths is covered by AMS-III.BP. 
+This methodology revision expands the scope of AMS-III.BP to include off-shore electricity 
+supply systems such as power buoys that provide electricity to ships waiting off-shore to dock. 
+Given congestion at ports, many ships must sit idle off-shore, running their generators for 
+extended periods. With an off-shore electricity supply, ships are able to reduce their use of 
+fossil fuels. 
+ 
+VMR0010, v1.0 
+ 
+5

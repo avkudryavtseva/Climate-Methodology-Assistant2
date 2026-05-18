@@ -1,0 +1,3 @@
+3 DEFINITIONS 
+The definitions in AMS-III.AV. and the most recent version of the VCS Program Definitions apply 
+to this methodology.

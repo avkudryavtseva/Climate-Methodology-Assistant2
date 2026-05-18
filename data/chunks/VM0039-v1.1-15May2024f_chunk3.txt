@@ -1,0 +1,57 @@
+2 SUMMARY DESCRIPTION OF THE 
+METHODOLOGY 
+Additionality and Crediting Method 
+Additionality 
+Performance Method 
+Crediting Baseline 
+Performance Method 
+ 
+This methodology provides a framework for the quantification of greenhouse gas (GHG) 
+emission reductions associated with the production and installation of Foam Stabilized 
+Base (FSB) and/or asphalt emulsions as substitutes for Hot Mix Asphalt (HMA) in road 
+construction projects located in the United States.1 
+For over 40 years, FSB and asphalt emulsions have been used in road projects around the 
+world when natural resources for virgin aggregate or funding to construct and maintain 
+roads using HMA have been limited. In North America, where virgin aggregate has historically 
+been easily accessible within proximity to project sites, FSB has not been as widely 
+implemented as it has in other parts of the world. FSB has, therefore, been used on a very 
+limited basis in the United States for the last 10 to 15 years. Most projects using FSB and 
+asphalt emulsions in the United States are pilot projects funded by various state highway 
+agencies. While these projects have proven successful, state highway administrations have 
+been slow to accept and develop the protocol and practices for this approach in North 
+America. Presently there are no national or regional standards for the production or 
+application of FSB and asphalt emulsions, which serves as a major impediment to the 
+acceptance and application of FSB and asphalt emulsions beyond the testing phase. 
+GHG emission reductions are generated from producing and applying FSB and asphalt 
+emulsions versus HMA as follows: 
+ 
+ 
+1 Under this methodology, the project proponent may be the technology owner, FSB producer/manufacturer, road 
+owner, contractor, or other party associated with the production of application/construction or development of 
+paving segments paved with FSB. Given that the project proponent could be any one of entities listed above, clear 
+project ownership must be demonstrated through contractual agreements, or other arrangements, in order to avoid 
+the risk of double counting with other participants in the supply chain. 
+ VM0039, v1.1 
+ 
+5 
+ 
+• 
+FSB and asphalt emulsions consist of 50% less liquid asphalt/bitumen by weight 
+and 2.5% less asphalt/bitumen by volume than required for HMA production, 
+reducing the reliance on resources. No virgin aggregates are required, eliminating 
+the energy and resources needed for excavating machines and trucking. In most 
+applications, but especially in rural areas, the GHG emissions from trucking are 
+significantly reduced. This is due to the fact that FSB and asphalt emulsions can be 
+manufactured on or close to the project site. 
+• 
+Aggregates in FSB and asphalt emulsions do not have to be heated, while HMA 
+liquid, which is roughly 2.2% of the total weight of the mix, needs to be heated up to 
+310 ºF. 
+In this methodology, performance benchmarks have been established for the determination 
+of additionality and the crediting baseline. These benchmarks are based on GHG emissions 
+from the baseline scenario, which enables a measurement of emission reduction potentials 
+through the substitution of FSB and asphalt emulsions for HMA. Data from hot mix facilities 
+and placement projects in different geographic locations within the United States were 
+surveyed to determine the levels of the performance benchmarks. Emission reductions of 
+FSB and asphalt emulsions are the differences between actual project emissions and the 
+crediting performance benchmark.

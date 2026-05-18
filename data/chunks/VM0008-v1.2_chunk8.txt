@@ -1,0 +1,340 @@
+7 ADDITIONALITY 
+All projects must demonstrate regulatory surplus (Section 7.1).  
+Project activities in Category D must demonstrate additionality by applying the project method, 
+either conducting an investment or barrier analysis, and a common practice analysis 
+(Section 7.2).  
+Project activities in Category A, B, or C must demonstrate additionality by applying the 
+performance method that incorporates the dynamic performance benchmark (Section 7.3). 
+7.1 
+Regulatory Surplus (Categories A, B, C and D) 
+The project proponent must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent versions of the VCS 
+Standard and VCS Methodology Requirements. 
+The regulatory surplus must be assessed for each of the weatherization and energy efficiency 
+measures included in the project activity. 
+Where the project activity demonstrates regulatory surplus, proceed to the project method 
+(Category D) or performance method (Categories A, B and C). Otherwise, the project activity is 
+not additional.   
+7.2 
+Project Method  (Category D) 
+7.2.1 Barrier analysis and/or investment analysis  
+Project proponents must follow the procedures and requirements of the most recent version of 
+VT0008 Additionality Assessment to conduct either a barrier analysis (Step 2 of the tool) or an 
+investment analysis (Step 3 of the tool). Project proponents may choose to apply both analyses 
+to further strengthen the additionality demonstration.  
+ 
+VM0008, v1.2 
+13 
+Where the project activity demonstrates that all conditions of either the barrier analysis or the 
+investment analysis per VT0008 are met, proceed to the next step (common practice analysis). 
+Otherwise, the project activity is not additional.   
+7.2.2 Common practice analysis 
+Project proponents must follow the procedures and requirements of either Step 4b or 4c of the 
+most recent version of VT0008 Additionality Assessment to conduct the common practice 
+analysis.  
+Where the project activity satisfies all previous steps and demonstrates that it is not common 
+practice, it is additional. Otherwise, the project activity is not additional. 
+7.3 
+Performance Method (Categories A, B and C) 
+Category A. All energy retrofit: The percent savings in the pre- and post-retrofit energy load of 
+each dwelling in the project must be equal to or greater than the performance benchmark. The 
+performance benchmark is a value above average performance that represents a percent 
+savings in energy consumption that dwellings are not likely to reach with 80% confidence in the 
+absence of the project. The average performance is the annual average percent savings in 
+weather-normalized energy consumption in dwellings from the same building stock over the 
+three most recent years for which data are available11. Dwellings weatherized as part of the 
+project may be excluded.  
+Category B. Efficiency enhancement of the building envelope and/or central heating/cooling 
+system: The percent savings in the pre- and post-retrofit energy load of each dwelling in the 
+project must be equal to or greater than the performance benchmark. The performance 
+benchmark is the same as defined in Category A. Although Category B comprises measures to 
+the building envelope only, the same performance benchmark can be used if the percent 
+savings is calculated for the entire energy consumption of the dwelling and not just for the 
+consumption of heating and cooling energy. This way, savings achieved under the project are 
+comparable to overall trends. By broadening the base, savings from the project are diluted. 
+They would be higher if calculated for the savings in heat and cooling energy alone. 
+The performance benchmark for Category A and Category B, x, must be calculated as follows:12 
+For data following a normal distribution:  
+The performance benchmark is based on the standard deviation of the sample.  
+𝑥= ܽ+ 0.84ߪ  
+(1) 
+ 
+11 Energy Load must be used to determine whether the dwelling is additional because the energy load is established during 
+the energy audit. Energy consumption is used to calculate the mean percent savings within the same building stock because 
+that is the data available. Energy load and energy consumption may be used in conjunction because energy consumption 
+may be projected based on energy load.  
+12 Under a normal distribution, the mean plus 2σ encompasses ~97.5% of the statistical sample.. A 80% likelihood of the data 
+falling below the value x is calculated as the mean plus 0.84 σ.  
+ 
+VM0008, v1.2 
+14 
+Where:  
+x 
+= 
+Performance benchmark 
+a 
+= 
+Average performance13  
+σ 
+= 
+Standard deviation (sigma) of the percent savings in the same building stock 
+energy load 
+For data not following a normal distribution:  
+The performance benchmark is equal to the 80th percentile value within the numerically 
+ordered sample. To calculate the 80th percentile, the sample data point values (v1, v2…vN) must 
+be ordered from smallest to largest (ascending order). The 80th percentile value is equal to the 
+value of the data point with the rank at which 80% of the data falls below.  
+To be additional, dwellings must satisfy the following condition: 
+ா௅ುೝ೐,೔−ா௅ು೚ೞ೟,೔
+ா௅ುೝ೐,೔
+∗100 ≥𝑥  
+(2) 
+Where:  
+x 
+= 
+Performance benchmark; value of the data point at rank n 
+ELpre,i = 
+Pre-retrofit energy load of dwelling i 
+ELpre,i = 
+Post-retrofit energy load of dwelling i 
+ 
+Figure 1 shows the percent savings in energy consumption of buildings and dwellings within the 
+same building stock. The percent savings is calculated from the change in weather-normalized 
+energy consumption in dwellings from the same building stock over at least the three most 
+recent years for which data are available. The average performance, on which the performance 
+benchmark is based, is calculated from these data. Dwellings with a high percent savings in 
+energy consumption will fall to the right of the average performance, and dwellings with a low 
+percent savings in energy consumption will fall to the left of the average performance.  
+ 
+13 To correct for any potential increase in electricity consumption due to an increase in electric appliances, the statewide 
+percent increase in electricity consumption, as reported by the US Department of Energy or other recognized authority, will be 
+added to the value of the average performance to make the performance benchmark even more rigorous and conservative if 
+such electricity data are reasonably available and it is feasible to do so. For example, in the US the value of the increase in 
+regional electricity consumption may be obtained from the following website: 
+http://apps1.eere.energy.gov/states/state_information.cfm  
+ 
+VM0008, v1.2 
+15 
+Figure 1. Percent savings in same building stock energy consumption 
+ 
+Figure 2 shows how the performance benchmark (vertical red line to the right) is calculated by 
+determining the average performance (vertical solid blue line), defined as the annual average 
+of the percent savings in weather-normalized energy consumption in the same building stock 
+over the past three years, and adding 0.84σ . The standard deviation (σ) is calculated from the 
+actual data obtained from the same building stock within the past three years. The numbers 
+along the horizontal axis represent the number of standard deviations from the average value 
+(average performance). For example, the data point 7% falls in line with 2σ, which means that 
+7% is two standard deviations away from the average performance, meaning that 97.5% of all 
+buildings do not reach a 7% savings in energy consumption or higher.  
+ 
+VM0008, v1.2 
+16 
+Figure 2. Performance benchmark for categories A and B 
+ 
+The parameters to be monitored for calculating the average performance and standard 
+deviation for Category A and Category B are listed in Section 9. 
+Category C. Replacement of appliances: the energy consumption of the replacement appliance 
+must meet or fall below the performance benchmark. The performance benchmark is a value 
+below the average performance that represents a level of energy consumption per appliance 
+that appliances are not likely to reach with 80% confidence in the absence of the project. The 
+average performance is the annual average energy consumption by existing appliances of the 
+same appliance type, as defined by the particular make and model of the appliance. Appliances 
+replaced as part of the project may be excluded. National appliance data may be used due to 
+the uniformity of appliances available in the market. Data may be further differentiated (i.e., by 
+income class) as appropriate data are available.  
+The performance benchmark for Category C, x, must be calculated as follows: 
+For data following a normal distribution:  
+The performance benchmark is based on the standard deviation of the sample.  
+𝑥= ܽ−0.84ߪ  
+(3) 
+Where:  
+x 
+= 
+Performance benchmark 
+ 
+VM0008, v1.2 
+17 
+a 
+= 
+Average performance 
+σ 
+= 
+Standard deviation (sigma) of the annual energy consumption of existing 
+appliances in operation 
+For data not following a normal distribution:  
+The performance benchmark is equal to the 80th percentile value within the numerically 
+ordered sample. To calculate the 80th percentile the sample data point values (v1, v2…vN) must 
+be ordered from largest to smallest (descending order). The 80th percentile value is equal to 
+the value of the data point with the rank at which 80% of the data fall below.  
+To be additional, dwellings must satisfy the following condition: 
+ܽ௥௖,௞≤𝑥 
+(4) 
+Where:  
+x 
+= 
+Performance benchmark 
+arc,k 
+= 
+Annual energy consumption per appliance of the replacement appliance, type k 
+Figure 3 shows how the performance benchmark (vertical red line to the left) is calculated by 
+determining the average performance (vertical solid blue line), defined as the annual average 
+energy consumption by existing appliances of the same appliance type and subtracting 0.84σ. 
+The standard deviation (σ) is calculated from the existing appliance data obtained from the 
+population. The numbers along the horizontal axis represent the number of standard deviations 
+from the average value (average performance). The shaded red section represents replacement 
+appliances with an annual energy consumption values that fall below the performance 
+benchmark, and are considered additional.  
+ 
+VM0008, v1.2 
+18 
+Figure 3. Performance benchmark for Category C 
+ 
+The parameters to be monitored for calculating the average performance and standard 
+deviation for Category C are listed in Section 9. 
+Category D. Replacement of a mobile home: No performance benchmark is defined. 
+7.4 
+Performance Benchmark Level 
+The level of the performance benchmark established using the performance method is based 
+on the rigorous requirement that with 80% confidence, dwellings deemed additional under the 
+methodology would not have reached the improvement in energy efficiency on their own. This is 
+evidenced by performance data of dwellings from the same building stock as defined in the 
+methodology. The methodology formulates a universally applicable approach. The actual value 
+of the performance benchmark (i.e., the 80th percentile of percentage improvement in energy 
+efficiency over the three most recent years) then has to be calculated for the specific project 
+area where the methodology is applied. Hence, the same rigor applies wherever the 
+methodology is used. Example case data from the US shows that only a tiny fraction of houses 
+have undergone weatherization in recent years and that on average, energy use is still on the 
+rise, making substantial energy efficiency improvements not a likely occurrence on their own.  
+7.5 
+Distribution of Performance in the Sector 
+There is an abundance of data showing that energy use in existing US buildings is inefficient 
+and increasing over time, and that there are significant barriers to increased penetration of 
+energy efficiency measures. Studies show that the trends in energy use and efficiency are 
+ 
+VM0008, v1.2 
+19 
+largely similar across the world, although there are some programs (e.g., the United Kingdom 
+Green Deal under the Energy Act of 2011) which target economy-wide energy efficiency 
+program implementation on a large scale.  
+It is important to note that the level of the performance benchmark is dictated by the 
+performance in a particular geographic area as defined by the same building stock. Therefore, 
+even though there may be programs in different geographic areas that promote residential 
+energy efficiency measures, projects in those locations would still need to exceed the locally 
+applicable performance benchmark.  
+By extension, in geographic locations where programs exist to promote energy efficiency 
+measures, the performance benchmark can be expected to represent a level of savings that is 
+more stringent than in locations where no such programs exist. The performance method is 
+designed to ensure that the level of the performance benchmark automatically becomes more 
+stringent in geographic locations with increasing levels of residential energy efficiency 
+activities.  
+See examples of relevant data for establishing the building stock in Appendix 1. 
+7.6 
+Evaluation of the Tradeoff between False Negatives and False 
+Positives 
+The level of the performance benchmark was determined after careful consideration of the 
+tradeoff between false negatives and false positives. 
+False negatives, in the context of the methodology, are dwellings that have been excluded by 
+the performance method (found not to be additional) even though the efficiency upgrades to 
+these dwellings would not have occurred in the absence of the project. False positives are 
+dwellings that are included in the project even though their efficiency upgrades would have 
+happened anyway. The latter can be considered free-riders. 
+In elaborating the performance method, the team originally intended to develop a performance 
+benchmark value for efficiency that dwellings would have to attain in order to be considered 
+additional, in the form kWh/m2 or a comparable metric. This metric however was shown to 
+create a risk of producing an unacceptable number of false negatives. During stakeholder 
+consultations, Joel Eisenberg, Weatherization Evaluation Consultant for the US Department of 
+Energy acting as Program Manager at Oak Ridge National Laboratory, pointed out that 
+weatherization efforts directed at low income houses typically target the most energy inefficient 
+houses. While the impact of weatherization is large, both in terms of energy savings compared 
+to the baseline and in social impact, these dwellings are unlikely to meet a high energy 
+efficiency standard even after weatherization. To avoid unnecessary and inappropriate 
+disqualification of low income dwellings, the decision was made to elaborate the performance 
+method based on a percentage change rather than an absolute performance level. 
+In setting the performance benchmark, the 80th percentile was deemed a sufficiently rigorous 
+requirement for exclusion of free riders. If the performance benchmark were to be established 
+using a higher level (e.g., 90%), there would be a significant risk that the level of energy 
+efficiency enhancement to be exceeded by dwellings in the project would be determined by 
+ 
+VM0008, v1.2 
+20 
+singular and random occurrences rather than a systematic trend in the population. For 
+instance, there are households which undertake energy efficiency improvements based on 
+personal environmental consciousness, or because residents are particularly handy and can do 
+the work themselves, or because houses are so drafty that air sealing is necessary to improve 
+living comfort. Special cases with high energy efficiency gains should not be considered the 
+norm. To consider these the norm would lead to the perverse result of disqualifying many 
+weatherization projects.  
+In choosing a benchmark value of 80% does not allow for rare occurrences to set the 
+performance benchmark, and by focusing on percentage changes in efficiency enhancements 
+rather than absolute levels of efficiency, VM0008 seeks to minimize and optimally balance the 
+tradeoff between false positives and false negatives. 
+7.7 
+Geographic Scope 
+When using a performance benchmark for Category A, Category B, or Category C activities, 
+project proponents must calculate the performance benchmark for each same building stock 
+identified in the project description. While the methodology does not set out a geographic 
+limitation on project location, this requirement restricts each performance benchmark to a 
+specific geographic area defined in a project description (e.g., a state, province or region). 
+7.8 
+Data Selection and Use 
+In developing a performance benchmark, project proponents must select and use data sources 
+that meet the following requirements: 
+1) Data collected directly from primary sources must comply with relevant and appropriate 
+standards, where available, for data collection and analysis, and be audited at an 
+appropriate frequency by an appropriately qualified, independent organization.  
+2) Data collected from secondary sources must be available from a recognized, credible 
+source and must be reviewed for publication by an appropriately qualified, independent 
+organization or appropriate peer review group, or be published by a government agency.  
+3) Where sampling is applied in data collection, the project proponent must demonstrate 
+that sampling results provide an unbiased and reliable estimate of the true mean value 
+(i.e., the sampling does not systematically underestimate or overestimate the true 
+mean value). Project proponents may choose to demonstrate the appropriateness of 
+sampling results based on a qualitative description of data sources and methods, 
+where appropriate. 
+4) Data must be publicly available, where appropriate (not confidential). Proprietary data 
+(e.g., data pertaining to individual facilities) may be aggregated, and therefore not 
+made individually publicly available, as there are demonstrable confidentiality 
+considerations. However, sufficient data must be publicly available to provide 
+transparency and credibility to the dataset.  
+5) All data must be made available, under appropriate confidentiality agreements as 
+necessary, to Verra and each of the validation/verification bodies assessing the 
+ 
+VM0008, v1.2 
+21 
+proposed performance benchmark, to allow them to reproduce the determination of the 
+performance benchmark. Data must be presented in a manner that enables them to 
+independently assess the presented data.  
+6) All reasonable efforts must be undertaken to collect sufficient data and the use of 
+expert judgment as a substitute for data must only be permitted where it can be 
+demonstrated that there is a paucity of data. Expert judgment may be applied in 
+interpreting data. Where expert judgment is used, good practice methods for eliciting 
+expert judgment must be used (e.g., IPCC 2006 Guidelines for National GHG 
+Inventories).  
+7) Where data must be maintained in a central repository on an on-going basis (e.g., in a 
+database that holds sector data for use by project proponents in establishing specific 
+performance benchmarks for their projects), there must be clear and robust custody 
+arrangements for the data and defined roles and responsibilities with respect to the 
+central repository.  
+7.9 
+Data Maintenance 
+Project proponents must maintain data used to establish any performance benchmark in a 
+manner that meets the following requirements: 
+The dataset may be documented in the project description or in a separate repository that is 
+referenced by the project description. Datasets documented and contained within the project 
+description are static datasets, where all project activities use the level of the relevant 
+performance benchmark that is specified in the project description.  
+The following applies with respect to datasets maintained in a separate repository: 
+1) The dataset may be static or dynamic (i.e., may or may not be periodically updated). 
+2) The project description must establish criteria and procedures for the use of the 
+dataset and for establishing a specific performance benchmark for each same building 
+stock.  
+3) The project description may specify that projects use the level of the performance 
+benchmark metric available at project validation for the duration of their project 
+crediting periods, or may specify that projects use an updated level of the performance 
+benchmark at each verification event. The frequency that data is updated within the 
+dataset must be determined by the project proponent.  
+4) It must be demonstrated that procedures are in place to maintain the dataset in 
+accordance with the applicable requirements set out in Section 7.8. 
+ 
+VM0008, v1.2 
+22

@@ -1,0 +1,75 @@
+7 ADDITIONALITY 
+This methodology uses a project method for the demonstration of additionality. 
+7.1 
+Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements set out in the most recent versions of the VCS Standard and VCS Methodology 
+Requirements.  
+Where the project proponent demonstrates regulatory surplus, proceed to Section 7.2 (barrier 
+analysis and/or investment analysis). Otherwise, the project activity is not additional.  
+7.2 
+Barrier Analysis and/or Investment Analysis 
+Project proponents must follow the procedures and requirements of the most recent version of 
+VCS tool VT0008 Additionality Assessment to conduct either a barrier analysis (Step 2) or an 
+investment analysis (Step 3). Project proponents may choose to apply both analyses to further 
+strengthen the additionality demonstration. 
+Project proponents implementing multiple project activities may conduct the barrier analysis 
+and/or investment analysis across the suite of activities. 
+Where the project proponent demonstrates that all conditions of either the barrier analysis or 
+the investment analysis per VT0008 are met, proceed to Section 7.3 (common practice 
+analysis). Otherwise, the project activity is not additional.  
+7.3 
+Common Practice Analysis 
+The project proponent must determine whether each proposed project activity is common 
+practice in each region included within the project spatial boundary. To be eligible, each main 
+project activity8 and any optional project activities9 included in the project must not be common 
+practice (i.e., must not have a penetration rate greater than 20% adoption10).  
+Project proponents must use the historical look-back period as set out in Section 6 to 
+determine regional common practice. 
+ 
+8 Main project activities are exclusively those that improve irrigation management practices resulting in CH 4 emission 
+reductions from methanogenesis; see Applicability Condition 1 in Section 4. 
+9 Optional project activities are management practices that further reduce CH4 emissions and/or that reduce N2O 
+and/or CO2 emissions. 
+10 The precedent for a common practice threshold of greater than 20% is established in Section 5.5.3 of VT0008 
+Additionality Assessment, v1.0. 
+ 
+VM0051, v1.0 
+ 
+ 
+17 
+Evidence must be provided in the form of publicly available information contained in:   
+1) agricultural census or other government (e.g., survey) data; 
+2) peer-reviewed scientific literature; 
+3) independent research data; 
+4) attestation statement from a qualified independent local expert (e.g., accredited 
+agronomists affiliated with official agricultural institutions supporting rice production 
+such as the International Rice Research Institute, IRRI); 
+5) grower surveys conducted within the project region; 
+6) reports or assessments compiled by industry associations; or 
+7) data compiled using remote sensing datasets. 
+To demonstrate common practice, the project area must be stratified to the state or provincial 
+level (or equivalent second-order jurisdiction) in the countries where the project is being 
+developed. Where supporting evidence is unavailable at the state/provincial level (e.g., in 
+developing countries), aggregated data or evidence at a national or regional level may be used 
+with justification. Where stratification based on geopolitical boundaries is impractical (e.g., due 
+to lack of data), other forms of stratification, such as major soil types or cropping zones (i.e., 
+dominant production system defined by regional or local climatic conditions), may be used with 
+justification. The same stratification approach and data sources must be applied across the 
+entire project to maintain the integrity of the common practice demonstration. Where a data 
+source is unavailable for a subset of the project region, justification must be provided for use of 
+a different data source. 
+When conducting the common practice analysis, activities that are under validation or 
+registered under the VCS Program are excluded from determining the penetration rate. 
+Activities under other GHG programs may optionally be excluded.11 
+Where the main project activity and optional project activities are not common practice, and the 
+steps of additionality analysis are satisfied, the proposed project activity is additional. 
+Otherwise, the project activity is not additional and is not eligible for crediting. 
+ 
+11 The precedent for the exclusion of activities registered under the VCS Program and other GHG programs is 
+established in Section 5.5.3 of VT0008 Additionality Assessment, v1.0.  
+ 
+VM0051, v1.0 
+ 
+ 
+18

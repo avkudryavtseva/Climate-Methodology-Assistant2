@@ -1,0 +1,96 @@
+4  
+APPLICABILITY CONDITIONS 
+This methodology is applicable for grouped projects for the quantification of direct and indirect reductions 
+of GHG emissions arising from energy efficiency and waste management project activity instances at 
+client facilities (project units).  
+The requirements of this methodology have been designed to meet micro energy efficiency and/or waste 
+diversion project units where the maximum emission reductions from an individual project unit is 5,000 
+tCO2e/year. Therefore, through a combination of energy efficiency and waste management activities, 
+project units within a grouped project could have a maximum combined abatement threshold of 10,000 
+tCO2e/year. While each client facility, or project unit, may only contribute a modest abatement (10,000 
+tCO2e/year or less), the total sum of abatement from all project units within this entire grouped project 
+may exceed the combined threshold of 10,000 tCO2e/year. 
+This methodology is applicable for grouped projects for the quantification of direct and indirect reductions 
+of GHG emissions arising from energy-efficiency and waste-diversion projects at client facilities. Projects 
+can be located in residential, commercial, institutional, or industrial buildings/facilities. The project 
+proponent must demonstrate right of use in respect of the project’s GHG emission reductions, which may, 
+for example, entail securing right of use from client facilities. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+18 
+Energy Efficiency  
+This methodology is applicable to ECMs where the project activity is the construction of new facilities, the 
+retrofit of existing facilities, or process/management changes of existing facilities that result in a reduction 
+of energy use per unit of productivity. The ECMs must occur in conjunction with the following: 
+ 
+Building envelope modifications 
+ 
+Heating, ventilation and air conditioning (HVAC) 
+ 
+Heat generation (including industrial thermal energy systems) 
+ 
+Chilling/cooling systems 
+ 
+Lighting and lighting control 
+ 
+Building mechanical infrastructure 
+ 
+Appliances and industrial processes (including heating and cooling requirements and process 
+modification) 
+ 
+Electric motors 
+ 
+Equipment optimization 
+The following guidance provides further clarification on energy efficiency activities, approach and 
+applicability: 
+a. The project proponent must document the useful life of the ECMs and the remaining useful 
+life of the existing baseline equipment and ensure that the project unit(s) is not credited 
+beyond the useful life of the ECM or remaining useful life of the existing technology in the 
+baseline scenario. If capital stock equipment that was originally measured in the baseline for 
+a given project crediting period is replaced during a project crediting period, it can only be 
+considered additional, and in turn be able to generate GHG credits, if it was retired prior to its 
+natural capital stock rotation as indicated in the initial documentation of useful life. If capital 
+stock enters the end of its useful life prior to the end of a project crediting period and is 
+replaced, any emission reduction attributable to this replacement technology must not be 
+considered towards generating credits, and shall lower the facility baseline by a sum equal to 
+the difference in emissions between the previous capital stock equipment and the 
+replacement capital stock equipment.  
+b. By reducing energy consumption, applicable projects will reduce GHG emissions associated 
+with the conversion of primary energy sources to secondary forms of energy (e.g., electricity, 
+heat, mechanical energy, etc.). 
+c. This methodology is also applicable to activities generating GHG emission reductions related 
+to improvements in combustion efficiency3. This applies to projects involving switching from 
+one energy generation method to a less GHG-intensive energy generation method. In this 
+case, this methodology only quantifies emissions reductions from fuel switching that occur 
+within the project boundary. Fuel switching associated with large energy suppliers, which 
+                                                          
+3  There must not be double counting between activities related to improvements in combustion efficiency and any 
+energy efficiency activities within the project. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+19 
+have emission reductions that exceed the established threshold of this methodology, are not 
+intended to be quantified using this protocol. Only small on-site power sources, with emission 
+reductions within the threshold limit of this methodology, are applicable for inclusion within 
+the methodology. This separation of large offsite generation and the project removes risk of 
+double counting. A net emission reduction and efficiency improvement would be achieved by 
+such activities so long as a net reduction in overall greenhouse gas emissions per unit of 
+productivity is achieved. The production of energy, particularly from fossil energy sources, 
+has significant associated GHG emissions (typically combustion-related), including both 
+direct and indirect sources. 
+d. Biological or chemical components of the operation must not yield any increase in non-
+biogenic greenhouse gas emissions compared to the baseline scenario, unless these are 
+accounted for under the applicable flexibility mechanisms as indicated by an affirmation from 
+the project proponent. 
+Waste Diversion  
+This methodology is applicable where the project activity is the diversion of waste for other productive 
+uses and alternative disposal options. This methodology is only applicable to quantify emission reductions 
+associated with methane avoidance. This methodology is not approved for quantifying emission 
+reductions associated with landfill gas flaring or electricity/energy production. This methodology is 
+applicable to the following activities: 
+ 
+Card board recycling 
+ 
+Organic composting 
+ 
+Aerobic decomposition

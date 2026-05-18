@@ -1,0 +1,39 @@
+1 SOURCES 
+This methodology references certain procedures set out in the following methodologies and 
+tools: 
+• 
+CDM tool AR-Tool14 Estimation of carbon stocks and change in carbon stocks of trees 
+and shrubs in A/R CDM project activities 
+• 
+VCS methodology VM0024 Methodology for Coastal Wetland Creation, v1.0 
+The following have also informed the development of the methodology: 
+• 
+VCS module VMD0005 Estimation of carbon stocks in the long-term wood products 
+pool, v1.0 
+This methodology uses the latest versions of the following modules and tools: 
+• 
+CDM tool AR-Tool02 Combined tool to identify the baseline scenario and demonstrate 
+additionality for A/R CDM project activities 
+• 
+CDM tool AR-Tool03 Calculation of the number of sample plots for measurements 
+within A/R CDM project activities 
+• 
+CDM tool AR-Tool04 Tool for testing significance of GHG emissions in A/R CDM project 
+activities 
+• 
+CDM tool AR-Tool05 Estimation of GHG emissions related to fossil fuel combustion in 
+A/R CDM project activities 
+• 
+VCS module VMD0016 Methods for stratification of the project area 
+• 
+VCS module VMD0019 Methods to Project Future Conditions 
+• 
+VCS module VMD0052 Demonstration of Additionality of Tidal Wetland Restoration and 
+Conservation Project Activities. 
+CDM tools are available at: cdm.unfccc.int/methodologies/ARmethodologies/approved. 
+ 
+ 
+ 
+ 
+VM0033, v2.1 
+5

@@ -1,0 +1,64 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions must be determined following the procedures provided in the most recent 
+version of AMS-III.AV., replacing the equations as indicated in the following: 
+The following equation replaces Equation 1 of AMS-III.AV.: 
+𝐵ܧ௬= ܹܳܲ௬× ݉× ܺ௕௢௜௟× ܵܧܥ
+× ∑𝐵ܮ௙௨௘௟,௜× ((ܧܨ௕,௞,஼ை2 × ݂ேோ஻,௜,௬) + ܧܨ௕,௞,௡௢௡஼ை2) × 10−9 × ܣ݆݀௅ா
+௜
+ 
+ 
+(1) 
+Where: 
+BEy        
+ =  Baseline emissions in year y (t CO2e) 
+QPWy            =  Total quantity of water purified by the project in year y (L) 
+m                  =  Fraction of functional appliances that are providing safe drinking water (%) 
+Xboil               =  Fraction of the population served by the project activity for which the common 
+practice of water treatment is or would have been water boiling; determined ex 
+ante through surveys (dimensionless) 
+SEC              =  Specific energy consumption required to boil one liter of water (kJ/L) 
+BLfuel,i           =  Proportion of baseline fuel type i (non-renewable biomass and/or fossil fuels) 
+used in the absence of the project activity (fraction) 
+EFb,k,CO2       =  CO2 emission factor for fuel used by baseline device type k in the baseline 
+scenario (t CO2/TJ) 
+fNRB,i,y           =  Fraction of non-renewable fuel type i used in the absence of the project activity 
+in year y; equal to 1 where the baseline fuel is fossil fuel (dimensionless) 
+EFb,k,nonCO2   =  Non-CO2 emission factor for fuel used by baseline device type k in the baseline 
+scenario (t CO2e/TJ) 
+AdjLE             =  Adjustment factor to account for leakage related to non-renewable woody 
+biomass saved by the project activity (dimensionless) 
+ 
+The interaction between a Safe Drinking Water (SDW) system/device and improved thermal 
+energy generation technologies (like improved cookstoves) in households/facilities must be 
+taken into account when determining the level of baseline emissions. ηwb (efficiency of the water 
+boiling systems being replaced) must be the weighted average based on the extent of usage of 
+each boiling technology/device for drinking purposes per week. In other words, the proportion of 
+times a household uses a specific technology/device to boil water for drinking purposes over a 
+ 
+VMR0015, v1.0 
+8 
+week shall be applied as weights to the respective efficiencies of these boiling technologies for 
+calculating ηwb3. 
+8.2 
+Project Emissions  
+Project emissions must be determined following the procedures provided in the most recent 
+version of AMS-III.AV.  
+Paragraph 24 of AMS-III.AV. must be replaced as follows: 
+24) PEEC,y must be calculated using the most recent version of VT0010 Emissions from 
+Electricity Consumption and Generation. To estimate the amount of electricity 
+consumption of water purification systems, the manufacturer’s specification of the 
+equipment (e.g., electricity consumption per hour times utilization hours, electricity 
+consumption per liters of water treated) may be used.   
+8.3 
+Leakage Emissions 
+Projects must apply an adjustment factor to account for leakage related to the non-renewable 
+woody biomass saved by the project activity (AdjLE). For simplification, the adjustment factor is 
+included in the calculation of baseline emissions in Equation (1). Leakage emissions must be 
+determined ex ante following the procedures provided in the most recent version of AMS-III.AV. 
+8.4 
+Net Reductions and Removals 
+The net GHG emission reductions must be determined following the procedures provided in the 
+most recent version of AMS-III.AV.

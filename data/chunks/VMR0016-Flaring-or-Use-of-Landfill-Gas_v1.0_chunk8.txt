@@ -1,0 +1,77 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions must be determined following the procedures in the most recent version of 
+ACM0001 and paragraph 54 in Section 5.4.2 must be read as follows: 
+54. The baseline emissions associated with electricity generation in year y (BEEC,y) must be 
+calculated using the most recent version of VT0010 Emissions from Electricity 
+Consumption and Generation. When applying the tool: 
+(a) the baseline loads in VT0010 correspond to the sources of electricity generation 
+and exported to the grid that are identified in the selection of the most plausible 
+baseline scenario; and 
+(b) ECBE,A,L in VT0010 is equivalent to the net amount of electricity generated using 
+LFG in year y (EGPJ,y). 
+ 
+Project activities transitioning from AMS-III.G. to VMR00161 
+For project activities transitioning from AMS-III.G. to VMR0016 that utilize the recovered 
+methane solely for power generation, the parameter FCH4,PJ,y may be calculated based on 
+monitored electricity generation. In this case, direct monitoring of methane flow and 
+concentration is not required and FCH4,PJ,y must be calculated as follows: 
+𝐹஼ு4,௉௃,௬= 
+ாீೊ 
+ே஼௏಴ಹ4 × ாா೤× 3600 × ܦ஼ு4  
+(1a) 
+Where: 
+EGy  
+=  
+Electricity generation in year y (MWh)  
+NCVCH4  
+=  
+A default value of 35.9 MJ/Nm3 must be applied. 
+EEy  
+=  
+Energy conversion efficiency of the project equipment  (%) 
+3600  
+=  
+Conversion factor (1 MWh = 3600 MJ)  
+ 
+1 This is only applicable for projects previously registered under AMS-III.G. that transition to VMR0016. Projects that have 
+been registered using ACM0001 or VMR0016 are not allowed to apply this simplification. 
+ 
+VMR0016, v1.0 
+9 
+Project participants must provide evidence to the VVB that only landfill gas recovered from the 
+project activity is used for power generation and that no other gas or fuels except a start-up fuel 
+is used. 
+When transitioning from AMS-III.G. to VMR0016, projects may determine the fraction of 
+methane in the landfill gas through periodical measurements, provided that a 90/10 
+confidence/precision level is maintained.  
+8.2 
+Project Emissions 
+Project emissions must be determined following the procedures in the most recent version of 
+ACM0001 and paragraph 65 in Section 5.5 must be read as follows: 
+65.  The project emissions from consumption of electricity by the project activity (PEEC,y) 
+must be calculated using the most recent version of VT0010. When applying the tool:  
+(a) ECPE,A,L in VT0010 is equivalent to the amount of electricity consumed by the 
+project activity in year y (ECPJ,y); and  
+(b) If in the baseline a proportion of LFG is destroyed (FCH4,BL,y > 0), then the electricity 
+consumption in VT0010 (ECPE,A,L) refers to the net quantity of electricity 
+consumption (i.e., the increase due to the project activity). The determination of the 
+amount of electricity consumed in the baseline must be transparently documented 
+in the project description. 
+(c) A value of 1.3 tCO2/MWh may be applied as a default grid emission factor when 
+accounting for project emissions from electricity consumption (this value must not 
+be applied to determine emission reductions from the displacement of grid 
+electricity). 
+8.3 
+Leakage Emissions 
+No leakage effects are accounted for under this methodology. 
+8.4 
+Net Reductions and Removals 
+Net reductions must be determined following the procedures provided in the most recent 
+version of ACM0001, replacing CDM tools with VCS tools in accordance with Table 1.  
+Section 5.8 and 5.9 of ACM0001 does not apply. 
+ 
+VMR0016, v1.0 
+10

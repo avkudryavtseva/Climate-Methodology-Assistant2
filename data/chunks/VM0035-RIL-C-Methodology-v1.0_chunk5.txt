@@ -1,0 +1,7 @@
+5  
+BASELINE SCENARIO 
+The baseline scenario is established by the applicable region-specific RIL-C performance method 
+module, and represents logging operations in aggregate, operating at a specified level of 
+performance, for the referenced logging landscape. The baseline scenario is represented by 
+region-specific crediting baselines set for each impact parameter (ie, proxy factor) by the 
+applicable region-specific RIL-C performance method module.

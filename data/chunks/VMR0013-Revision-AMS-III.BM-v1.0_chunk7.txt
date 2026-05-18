@@ -1,0 +1,9 @@
+6 BASELINE SCENARIO 
+The baseline scenario must be determined following the procedures in the most recent version 
+of AMS-III.BM. 
+ 
+1 The project boundary includes the additional vehicle types. 
+ 
+VMR0013, v1.0 
+ 
+7

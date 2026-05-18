@@ -1,0 +1,56 @@
+5 PROJECT BOUNDARY 
+The physical project boundary is the set of retail stores in which automatic, real-time leak 
+detection systems have been installed and HFC refrigerants are used. Where HVAC systems in 
+these stores are supported by the same leak detection systems, the physical boundary includes 
+these HVAC systems. 
+The methodology covers the following categories of HFC emissions reductions from equipment 
+within the project boundary: 
+1) HFC emissions during DX refrigeration equipment operations and/or 
+repairs/maintenance; and 
+2) HFC emissions during seasonal top-offs and draw-downs. 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 1 
+below. 
+Table 1: GHG sources included in or excluded from the project boundary 
+Source 
+Gas Included? Justification/Explanation 
+Baseline 
+Retail 
+refrigeration 
+equipment 
+HFC 
+Yes 
+Project activity is prevention of HFC leaks from 
+refrigeration circuits to the atmosphere. 
+CO2 
+CH4 
+N2O 
+No 
+Leak detection systems do not negatively impact energy 
+efficiency of underlying DX systems; rather, more timely 
+maintenance of refrigerant levels enables refrigeration 
+equipment to consume less energy. GHG emission 
+reductions from reduced energy consumption are 
+conservatively excluded. 
+Project 
+Retail 
+refrigeration 
+equipment  
+HFC 
+Yes 
+Project activity is the prevention of HFC leaks from 
+refrigeration circuits to the atmosphere. 
+CO2 
+CH4 
+N2O 
+No 
+Leak detection systems do not negatively impact energy 
+efficiency of underlying systems; rather, more timely 
+maintenance of refrigerant levels enables refrigeration 
+equipment to consume less energy. 
+Note: electricity required to run leak detection systems 
+is negligible (typically around 100 kWh/year for a retail 
+store, representing less than 0.1 tCO2/year) 
+ 
+VM0001, v1.2 
+ 
+7

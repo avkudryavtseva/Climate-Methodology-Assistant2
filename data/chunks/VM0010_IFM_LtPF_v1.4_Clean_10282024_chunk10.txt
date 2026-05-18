@@ -1,0 +1,493 @@
+43 
+BCEFR  
+Biomass conversion and expansion factor applicable to wood removals in the 
+project area, t.d.m m-3; 26 
+i  
+1, 2, 3 … M strata; 
+j  
+1, 2, 3 … J tree species; and 
+t  
+1, 2, 3, … t* years elapsed since the start of the IFM project activity. 
+Option B: Non-Fire Natural Disturbances  
+For non-fire natural disturbances, it is assumed that a disturbance event in the project scenario 
+would also have occurred in the baseline scenario. Project emissions are therefore equal to the 
+non-fire natural disturbance to biomass absent in the baseline scenario (harvested and 
+removed), but present in the project scenario. 
+It is conservatively assumed that the natural disturbance is a stand-replacing disturbance, and 
+that the biomass change as a result of the natural disturbance (∆CDIST,t|PRJ) is emitted in the 
+year of disturbance. 
+Where non-fire natural disturbances occur ex post in the project area, the area disturbed must 
+be delineated. 
+∆𝐶𝐷𝐼𝑆𝑇,𝑡|𝑃𝑅𝐽= ∑(𝐴𝑑𝑖𝑠𝑡,𝑖,𝑡× ∑{𝐶𝐴𝐵,𝑖,𝑗|𝐵𝑆𝐿}
+𝐽
+𝑗=1
+)
+𝑀
+𝑖=1
+× 44
+12 
+(35) 
+Where:  
+ΔCDIST,t|PRJ  
+Net greenhouse gas emissions resulting from non-fire natural disturbance in 
+year t, tCO2e; 
+Adist,i,t 
+Area disturbed for stratum i at time t, ha; 27 
+CAB,i,j|BSL 
+Carbon stock in aboveground biomass per unit area for species j in stratum i,, 
+tC· ha-1; 
+44/12 
+Ratio of molecular weights of carbon dioxide and carbon, tCO2e tC-1; 
+i 
+1, 2, 3 …M strata; 
+j  
+1, 2, 3 …J tree species; and 
+t  
+1, 2, 3, … t* years elapsed since the start of the IFM project activity. 
+8.2.2.2 Illegal logging 
+It is a requirement that any greenhouse gas emissions from illegal logging above de minimis, 
+that may occur in the project area (ΔCDIST_IL,i,t|PRJ) are monitored. 
+ 
+26 See Section 9.1 for information on data selection. 
+27 See data and parameters used in monitoring parameter list for information on data selection (p62). 
+  
+ 
+VM0010, v1.4 
+44 
+At the time of methodology approval, remote sensing technology using optical sensors is not 
+capable of direct measurements of biomass and changes therein28, but has some capability to 
+identify forest strata that have undergone a change in biomass29. 
+As remote methods for monitoring illegal logging are not available at the time of methodology 
+approval, the following ground-based methods must be used. 
+Option A: PRA 
+A participatory rural appraisal (PRA)30 of the communities surrounding the project area must be 
+completed to determine if there is the potential for illegal extraction of trees from the project 
+area. If this assessment finds no potential pressure for these activities, then illegal logging 
+(ΔCDIST_IL,i,t|PRJ) can be assumed to be zero and no monitoring is needed. 
+The PRA must be repeated every 2 years. 
+Option B: Sampling 
+If the results of the PRA suggest that there is potential for illegal logging activities, then limited 
+field sampling must be undertaken. 
+The area that is potentially subject to degradation (ADIST_IL,i) uses the distance of illegal logging 
+penetration to the project area (determined from the PRA), from all access points (access 
+buffer), such as roads and rivers or previously cleared areas.. 
+The area subject to illegal logging must be delineated (ADIST_IL,i) based on an access buffer from 
+all access points, such as roads and rivers or previously cleared areas, to the project area, with 
+a width equal to the distance of degradation penetration. 
+ADIST_IL,I must be sampled by surveying several transects of known length and width across the 
+access-buffer area (equal in area to at least 1% of ADIST_IL,i) to determine the presence or 
+absence of new tree stumps. The CDM tool for significance31 must be applied to determine 
+significance where there is evidence that trees are being harvested. 
+Where application of the CDM tool demonstrates that illegal logging is insignificant, then illegal 
+logging can be assumed to be zero and no monitoring is needed. 
+ 
+28However, technology is developing rapidly, including techniques such as RADAR, SAR, or LiDAR. 
+29 For example, a multi-temporal set of remotely sensed data can be used to detect changes in the structure of the forest 
+canopy. A variety of techniques, such as Spectral Mixture Analysis (Souza et al. 2005 Remote Sensing of Environment 98: 
+2–3: 329-343), SAR or LiDAR, can be used under this approach but no specific technology is prescribed here. Some of the 
+newer technologies can estimate carbon contents for different forest types, if supported by field information such as 
+sample plots to calibrate the technology and fieldwork leading to allometric equations of key species. The project 
+proponent should use techniques that are suitable to their specific situation and that have been published in peer-
+reviewed papers. 
+30 Participatory Rural Appraisal (PRA) describes a growing family of approaches and methods to enable local people to 
+share, enhance and analyze their knowledge of life and conditions. Multiple guidelines are available to conduct a PRA 
+(e.g., FAO, 2013 https://www.fao.org/family-farming/detail/en/c/292329/).  
+31 http://cdm.unfccc.int/EB/031/eb31_repan16.pdf   
+  
+ 
+VM0010, v1.4 
+45 
+This limited sampling must be repeated each time the PRA indicates potential for illegal logging. 
+Where limited sampling provides evidence that trees are being illegally removed in the buffer 
+area, then systematic sampling must be implemented based on a detailed sampling plan. The 
+sampling plan must be designed using plots systematically placed over the buffer zone so that 
+at least 3% of the area of the buffer zone is sampled (ADIST_IL,i). The diameter of all tree stumps 
+should be measured and conservatively assumed to be the same as the DBH of the removed 
+tree(s). Where the stump is a large buttress, several individuals of the same species nearby 
+must be located, and a ratio of the diameter at DBH to the diameter of buttress at the same 
+height above ground as the measured stumps must be determined. This ratio will be applied to 
+the measured stumps to estimate the likely DBH of the cut tree. 
+The aboveground carbon stock of each harvested tree will be estimated using the allometric 
+regression equations chosen for forest growth in the project scenario32. The mean aboveground 
+carbon stock of the harvested trees (CDIST_IL,i,t|PRJ) is conservatively estimated to be, the total 
+emissions and, consequently, all emissions enter the atmosphere. 
+This sampling procedure must be repeated every five (5) years, and the results annualized by 
+dividing the total emissions by five. 
+Therefore, where the PRA or the limited sampling indicate no illegal logging occurring: 
+∆𝐶𝐷𝐼𝑆𝑇−𝐼𝐿,𝑡|𝑃𝑅𝐽= 0  
+(36) 
+Where the PRA and the limited sampling indicate that degradation is occurring, net carbon 
+stock changes, as a result of illegal logging, must be calculated as: 
+∆𝐶𝐷𝐼𝑆𝑇−𝐼𝐿,𝑡|𝑃𝑅𝐽= ∑(𝐴𝐷𝐼𝑆𝑇−𝐼𝐿,𝑖× 𝐶𝐷𝐼𝑆𝑇−𝐼𝐿,𝑖,𝑡|𝑃𝑅𝐽
+𝐴𝑃𝑖
+)
+𝑀
+𝑖=1
+ × (1 + 𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖|𝐵𝑆𝐿
+𝑉𝐸𝑋,𝑗,𝑖|𝐵𝑆𝐿
+)
++ 𝐶𝐹𝑈𝐸𝐿×
+𝐶𝐷𝐼𝑆𝑇−𝐼𝐿,𝑡|𝑃𝑅𝐽 
+∑
+𝐶𝐸𝑋,𝑖|𝐵𝑆𝐿
+𝐼
+𝑖=1
+× 44/12 × 𝐴𝑖
+    
+(37) 
+Where:  
+ΔCDIST_IL,t|PRJ  
+Net carbon stock changes from illegal logging at time t, tCO2e; 
+ADIST_IL,i 
+Area potentially impacted by illegal logging in stratum i, ha; 
+CDIST-IL,i,t|PRJ 
+Biomass carbon of trees cut and removed through illegal logging in stratum i 
+at time t, tCO2e; 
+VEX,j,i|BSL 
+Mean volume of extracted timber per unit area for species j in stratum i, m3·ha-1; 
+ 
+32 If species-specific equations are used and species cannot be identified from stumps, then it shall be assumed that the 
+harvested species is the species most commonly harvested. A PRA shall be used to determine the most commonly 
+harvested species. 
+  
+ 
+VM0010, v1.4 
+46 
+𝑉𝐸𝑋,𝐼𝑁𝐹,𝑗,𝑖|𝐵𝑆𝐿 
+Mean volume of extracted timber for forestry infrastructure per unit area for 
+species j in stratum i, m3· ha-1; 
+𝐶𝐹𝑈𝐸𝐿 
+Total carbon emissions associated with the combustion of fossil fuel in forestry 
+and wood processing machinery, in tC; 
+CEX,i|BSL 
+Change in carbon stock of extracted wood products resulting from timber 
+harvest per unit area in stratum i in land parcel p, in tC ha-1; 
+APi  
+Total area of illegal logging sample plots in stratum i, ha; 
+𝐴𝑖 
+Logging area in stratum i, in ha; 
+i 
+1, 2, 3 … M strata in the in the project case; and 
+t  
+1, 2, 3, … t years elapsed since the projected start of the project activity. 
+This approach not only considers the reductions of carbon stocks due to illegal logging, but also 
+considers fuel emissions of illegal logging operations and potential emissions from 
+infrastructure development during illegal logging. 
+The emissions of infrastructure development due to illegal logging are estimated by determining 
+an expansion factor based on regular baseline harvesting practices (i.e., the relation of volume 
+extracted due to infrastructure development compared to the merchantable volume extracted). 
+As it is unlikely that illegal logging will result in large-scale infrastructure development (i.e., 
+equating the baseline scenario), this approach is considered conservative. 
+Fuel emissions from illegal logging operations are determined by using the specific fuel 
+emissions of the baseline scenario (i.e., total fuel emissions are divided by the total carbon 
+stock changes due to baseline logging operations) which are then multiplied by the illegal 
+logging volume. As it is unlikely that illegal logging would involve the deployment of large, fuel 
+intensive machinery (i.e., equaling the baseline scenario), this is considered conservative. 
+The calculation of emissions from illegal logging therefore requires use of both parameters 
+available at validation (Section 9.1) and parameters monitored (Section 9.2). 
+8.2.3 Net carbon stock change in the project scenario 
+The net carbon stock change in the project scenario is the annual carbon stock change in the 
+aboveground biomass of trees due to forest growth minus the sum of net carbon stock changes 
+resulting from fire, non-fire forest disturbance and illegal logging. 
+Therefore, the net carbon stock change in the project scenario in year t, is calculated as: 
+∆𝐶𝑁𝐸𝑇,𝑡|𝑃𝑅𝐽= ∆𝐶𝐴𝐵,𝑡|𝑃𝑅𝐽−(∆𝐶𝐷𝐼𝑆𝑇−𝐹𝑅,𝑡|𝑃𝑅𝐽+ ∆𝐶𝐷𝐼𝑆𝑇,𝑡,𝑃𝑅𝐽+ ∆𝐶𝐷𝐼𝑆𝑇−𝐼𝐿,𝑡|𝑃𝑅𝐽) 
+(38) 
+ 
+ 
+Where: 
+ΔCNET,t|PRJ 
+Net carbon stock change in the project scenario in year t, tCO2-e; 
+  
+ 
+VM0010, v1.4 
+47 
+ΔCAB,t|PRJ  
+Annual carbon stock change in aboveground biomass of trees in year t, 
+tCO2e;  
+ΔCDIST_FR,t|PRJ  
+Net greenhouse gas emissions resulting from fire disturbance in year t, tCO2e  
+ΔCDIST,t|PRJ 
+Net carbon stock change resulting from non-fire natural disturbance in year t, 
+tCO2e; 
+ΔCDIST_IL,t|PRJ 
+Net carbon stock changes as a result of illegal logging in year t, tCO2e; 
+t  
+1, 2, 3, … t* years elapsed since start of the project activity. 
+ 
+The net carbon stock change across the project scenario since the start of the project is calculated as: 
+𝛥𝐶𝑁𝐸𝑇|𝑃𝑅𝐽= ∑∆𝐶𝑁𝐸𝑇,𝑡|𝑃𝑅𝐽
+𝑡∗
+𝑡=1
+ 
+(39) 
+ 
+ 
+Where: 
+ΔCNET|PRJ  
+Net carbon stock change in the project scenario since the start of the project 
+activity, tCO2e; 
+ΔCNET,t|PRJ  
+Net carbon stock change in the project scenario in year t, tCO2e; and 
+t  
+1, 2, 3, … t* years elapsed since start of the project activity. 
+8.3 
+Leakage Emissions 
+8.3.1 Activity shifting leakage 
+There may be no leakage due to activity shifting. 
+Where the project proponent controls multiple parcels of land within the country, the project 
+proponent must demonstrate that the management plans and/or land-use designations of 
+other lands they control have not materially changed as a result of the planned project (e.g., 
+designating new lands as timber concessions or increasing harvest rates in lands already 
+managed for timber), because such changes could lead to reductions in carbon stocks or 
+increases in GHG emissions. 
+This must be demonstrated through: 
+• 
+Historical records showing trends in harvest volumes paired with records from the with- 
+project time period showing no deviation from historical trends; 
+• 
+Forest management plans prepared ≥24 months prior to the start of the project 
+showing harvest plans on all owned/managed lands paired with records from the with-
+project time period showing no deviation from management plans. 
+  
+ 
+VM0010, v1.4 
+48 
+At each verification, documentation must be provided covering the other lands controlled by the 
+project proponent where leakage could occur, including, at a minimum, their location(s), area 
+and type of existing land use(s), and management plans. 
+Where activity shifting occurs or a project proponent is unable to provide the necessary 
+documentation at first and subsequent verification, the project must not meet the requirements 
+for verification. Therefore, the project must be subject to the conditions described in the VCS 
+AFOLU Guidance Document on projects which fail to submit periodic verification after the 
+commencement of the project. The project proponent may optionally choose to submit a 
+methodology deviation with their future verifications to address activity shifting leakage. 
+Where the project proponent has control only over resource use in the project area and has no 
+access to other forest resources, then the only type of leakage emissions calculated is GHG 
+emissions due to market effects that result from project activity. 
+8.3.2 Market leakage 
+Leakage due to market effects (LFME) is equal to the net emissions from planned timber 
+harvest activities in the baseline scenario multiplied by an appropriate leakage factor. 
+The leakage factor (see Box 2 below) is determined by considering where in the country logging 
+will increase as a result of the decreased timber supply caused by the project. 
+If the ratio of merchantable biomass to total biomass is higher in the project area, it is likely 
+that additional logging will be performed in these areas as a result of reduced logging in the 
+project area in the project scenario. 
+The leakage factor is thus defined as a dimensionless number with values between 0 and 1, 
+assigned ex ante based on a comparison between the ratio of merchantable biomass to total 
+biomass across all strata in the base year, and the ratio of merchantable biomass to total 
+biomass of the country’s forest estate where harvesting would likely be displaced to. 
+Box 2: Leakage Factor Calculation 
+The leakage factor is determined by considering where in the country logging will increase as a result 
+of the decreased supply of timber caused by the project. If the areas liable to be logged have a higher 
+ratio of merchantable biomass to total biomass higher than the project area it is likely that the 
+proportional leakage is higher and vice versa: 
+Therefore, 
+LFME = 0 
+if it can be demonstrated that no market-effects leakage will occur within national boundaries, that is 
+if no new concessions are being assigned AND annual extracted volumes cannot be increased within 
+existing national concessions AND illegal logging is absent (or de minimis) in the host country. 
+The amount of leakage is determined by where in the country’s forest estate harvesting would likely be 
+displaced. If harvesting is displaced to forests where a lower proportion of forest biomass is 
+merchantable material from harvestable species compared to the project area, then in order to extract 
+  
+ 
+VM0010, v1.4 
+49 
+a given volume, higher emissions should be expected as more trees will need to be cut to supply the 
+same volume. 
+In contrast, if a higher proportion of the total biomass of commercial species is merchantable in the 
+displacement forest than in the project forests, then a smaller area would have to be harvested, and 
+thus lower emissions would result. 
+Therefore, each project must calculate within each stratum the ratio of merchantable biomass to total 
+biomass (PMPi). This shall then be compared to the ratio of merchantable biomass to total biomass for 
+each forest type (PMLFT). 
+The following deduction factors (LFME) shall be used: 
+PMLFT is equal (± 15%) to PMPi 
+ 
+LFME = 0.4 
+PMLFT is > 15% less than PMPi 
+ 
+LFME = 0.7 
+PMLFT is > 15% greater than PMPi  
+LFME = 0.2 
+Where: 
+PMLFT: mean merchantable biomass as a proportion of total aboveground tree biomass for each forest 
+type, %; 
+PMPi: 
+merchantable biomass as a proportion of total aboveground tree biomass for stratum i within 
+the project boundaries, %; and 
+LFME: 
+Leakage factor for market-effects calculations; dimensionless. 
+Where sufficient variation exists in PMPi relative to PMLFT that multiple values of LFME result, then an 
+area weighted final value for LFME shall be calculated. The area of stratum i as a proportion of the total 
+project area shall be multiplied by LFME. All values are then summed up to arrive at the area weighted 
+final value of LFME. 
+8.4 
+Summary of Net GHG Emission Reductions and Carbon Dioxide 
+Removals 
+ 
+Net GHG emission reductions are calculated as: 
+ 
+𝐸𝑅𝑡= (𝐶𝐹𝑈𝐸𝐿−𝑀𝐼𝑁 (0, 𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗) +  𝑀𝐼𝑁(0,𝛥𝐶𝑁𝐸𝑇|𝑃𝑅𝐽) × (1 −𝐿𝐹𝑀𝐸) × (1 −𝑈total|LtPF  ) 
+(40) 
+ 
+Where: 
+𝐸𝑅𝑡∗ 
+Net GHG emission reductions in year t* since the start of the project activity, in the 
+project scenario, tCO2e; 
+𝐶𝐹𝑈𝐸𝐿 
+Total carbon emissions associated with the combustion of fossil fuel in forestry and 
+wood processing machinery, in tCO2e. 
+CNET|BS,t* 
+Net carbon stock change in the baseline scenario in the year t* since the start 
+of the project activity, tCO2e; 
+  
+ 
+VM0010, v1.4 
+50 
+ΔCNET|PRJ 
+Net carbon stock change in the project scenario since the start of the project 
+activity, tCO2e; 
+LFME 
+Leakage factor for market-effects calculations, dimentionless; 
+Utotal|LtPF 
+Total uncertainty for LtPF Project, dimensionless;  
+MIN 
+Function to find the lowest number in a range 
+ 
+Net carbon dioxide removals are calculated as 
+𝐶𝑅𝑡∗= (𝑀𝐴𝑋(0, 𝛥𝐶𝑁𝐸𝑇|𝑃𝑅𝐽) −𝑀𝐴𝑋(0,𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗)) × (1 −𝑈total|LtPF  )  
+(41) 
+ 
+Where: 
+𝐶𝑅𝑡∗ 
+Net carbon dioxide removals in year t* since the start of the project activity, in 
+the project scenario, tCO2e; 
+ΔCNET|PRJ  
+Net carbon stock change in the project scenario since the start of the project 
+activity, tCO2e; 
+CNET|BS,t* 
+Net greenhouse gas emissions in the baseline scenario in the year t* since 
+the start of the project activity, tCO2e; 
+LFME 
+Leakage factor for market-effects calculations, dimentionless; 
+Utotal|LtPF  
+Total uncertainty for LtPF Project, dimensionless; 
+MAX 
+Function to find the highest number in a range 
+8.5 
+Uncertainty 
+ 
+Estimated greenhouse gas emissions and emission reductions from IFM activities have uncertainties 
+associated with parameters and coefficients including estimates of area, carbon stocks, regrowth and 
+expansion factors. It is assumed that the uncertainties associated with input data are available, either 
+as default uncertainty values given in most recent IPCC guidelines, or as statistical estimates based on 
+sampling. 
+Uncertainty at all times is defined at the 95% confidence interval where the estimated variance 
+exceeds +/- 15 percent from the mean. Procedures including stratification and the allocation of 
+sufficient measurement plots will help ensure that low uncertainty results and ultimately full crediting 
+can result. 
+It is good practice to consider uncertainty at an early stage to identify the data sources with the highest 
+uncertainty to allow the opportunity to conduct further work to diminish uncertainty. 
+  
+ 
+VM0010, v1.4 
+51 
+Uncertainties arising from the measurement and monitoring of carbon pools and greenhouse gases 
+must always be quantified. Errors in each pool must be weighted by the size of the pool so that projects 
+may reasonably target a lower precision level in pools that only form a small proportion of the total 
+stock. 
+For both the baseline and the with-project case, total uncertainty is equal to the square root of the sum 
+of the squares of each uncertainty component and is calculated at the time of reporting through 
+propagating the error in the baseline stocks and the error in the project stocks. 
+Therefore, total uncertainty for LtPF project is calculated as: 
+𝑈𝑇𝑂𝑇𝐴𝐿|𝐿𝑡𝑃𝐹= √𝑈2|𝑃𝑅𝐽+ 𝑈2|𝐵𝑆𝐿 
+(42) 
+ 
+ 
+Where: 
+Utotal|LtPF  
+Total uncertainty for LtPF Project, dimensionless; 
+U|PRJ  
+Total uncertainty for the improved forest management activities in the project 
+scenario, dimensionless; and 
+U|BSL  
+Total uncertainty for the baseline scenario, dimensionless. 
+ 
+The project proponent must justify the selection of uncertainty propagation in the project documents. If 
+Utotal|LtPF  ≤ 0.15 then no deduction will result for uncertainty. 
+If Utotal|LtPF > 0.15 then the amount of greenhouse gas emission credits associated with IFM activities 
+will be deducted from the net reductions and removals. 
+8.6 
+Calculation of Verified Carbon Units  
+ 
+To calculate the number of Verified Carbon Units (VCUs) that may be issued, the project proponent must 
+consider the number of buffer credits which must be deposited in the AFOLU pooled buffer account. 
+The number of buffer credits that must be deposited is calculated by multiplying the non-permanence 
+risk rating by the net change in carbon stocks (see Section 3.2.30 in the latest version of the VCS 
+Standard Requirements). The buffer credits are quantified separately for removals and reductions as: 
+ 
+𝐵𝑢𝐶𝑅,𝑡∗= (𝑀𝐴𝑋(0,𝛥𝐶𝑁𝐸𝑇|𝑃𝑅𝐽) −𝑀𝐴𝑋(0,𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗)) × 𝑁𝑃𝑅%    
+(43) 
+Where: 
+𝐵𝑢𝐶𝑅,𝑡∗ 
+Buffer credits to be deducted from removals in year t* (t CO2e) 
+  
+ 
+VM0010, v1.4 
+52 
+ΔCNET|PRJ  
+Net carbon stock change in the project scenario since the start of the project 
+activity, tCO2e; 
+CNET|BS,t* 
+Net greenhouse gas emissions in the baseline scenario in the year t* since 
+the start of the project activity, tCO2e; 
+𝑁𝑃𝑅% 
+Overall project non-permanence risk rating converted to a percentage 
+ 
+𝐵𝑢𝐸𝑅,𝑡∗= (𝑀𝐼𝑁(0, 𝛥𝐶𝑁𝐸𝑇|𝑃𝑅𝐽) −𝑀𝐼𝑁(0,𝐶𝑁𝐸𝑇|𝐵𝑆𝐿,𝑡∗)) × 𝑁𝑃𝑅%    
+(44) 
+Where: 
+𝐵𝑢𝐸𝑅,𝑡∗ 
+Buffer credits to be deducted from reductions in year t* (t CO2e) 
+ΔCNET|PRJ  
+Net carbon stock change in the project scenario since the start of the project 
+activity, tCO2e; 
+CNET|BS,t* 
+Net greenhouse gas emissions in the baseline scenario in the year t* since 
+the start of the project activity, tCO2e; 
+𝑁𝑃𝑅% 
+Overall project non-permanence risk rating converted to a percentage 
+ 
+The total VCUs that result from project activities leading to removals is calculated as: 
+𝑉𝐶𝑈𝐶𝑅,𝑡∗= 𝐶𝑅𝑡∗−𝐵𝑢𝐶𝑅,𝑡∗ 
+ 
+(45) 
+Where: 
+𝑉𝐶𝑈𝐶𝑅,𝑡∗ 
+Number of verified carbon units, in year t*, that result from project activities 
+leading to removals 
+𝐶𝑅𝑡∗ 
+Net carbon dioxide removals in year t* since the start of the project activity, in 
+the project scenario, tCO2e; 
+𝐵𝑢𝐶𝑅,𝑡∗ 
+Buffer credits to be deducted from removals in year t* (t CO2e) 
+ 
+The total VCUs that result from project activities leading to reductions is calculated as: 
+ 
+𝑉𝐶𝑈𝐸𝑅,𝑡∗= 𝐸𝑅𝑡∗−𝐵𝑢𝐸𝑅,𝑡∗   
+ 
+(46) 
+Where: 
+𝑉𝐶𝑈𝐸𝑅,𝑡∗ 
+Number of verified carbon units, in year t*, that result from project activities 
+leading to reductions 
+𝐸𝑅𝑡∗ 
+Net emission reductions in year t* since the start of the project activity, in the 
+project scenario, tCO2e; 
+𝐵𝑢𝐸𝑅,𝑡∗ 
+Buffer credits to be deducted from reductions in year t* (t CO2e) 
+  
+ 
+VM0010, v1.4 
+53

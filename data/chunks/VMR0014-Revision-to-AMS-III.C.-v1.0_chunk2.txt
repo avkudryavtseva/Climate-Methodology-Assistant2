@@ -1,0 +1,17 @@
+1 SUMMARY DESCRIPTION 
+Additionality and Crediting Method 
+Additionality 
+Project/Activity Method 
+Crediting Baseline 
+Project Method 
+Mitigation Outcome 
+Reductions 
+ 
+CDM methodology AMS-III.C.: Emission Reductions by Electric and Hybrid Vehicles quantifies 
+greenhouse gas (GHG) emission reductions from project activities that introduce new electric 
+and/or hybrid vehicles to displace the use of fossil fuel vehicles in passenger and freight 
+transportation.  
+This revision expands the applicability of the methodology to include electric mobile machinery 
+(EMM), such as building and construction machines. EMM includes both battery-electric mobile 
+machinery and plug-in hybrid electric mobile machinery. 
+The methodology is globally applicable.

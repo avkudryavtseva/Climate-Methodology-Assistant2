@@ -1,0 +1,1088 @@
+9 MONITORING 
+ 
+Data and Parameters Available at Validation 
+Data / Parameter 
+DF 
+Data unit 
+Dimensionless 
+Description 
+Discount factor for upstream displacement 
+Equations 
+1 
+Source of data 
+VCS Methodology Requirements, v4.4 
+Value applied 
+0.30 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The default value of 30% for upstream displacement was applied. 
+Project proponents may propose a methodology revision with a 
+different discount factor for upstream displacement in accordance 
+with the latest version of the VCS Methodology Requirements. 
+ Purpose of Data 
+Calculation of baseline emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFcement 
+Data unit 
+tCO2e/t of cement 
+Description 
+Emission factor for the production of Portland cement 
+Equations 
+1, 3, 7 
+Source of data 
+Project proponent and/or cement production facilities 
+Value applied 
+Project-specific 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+One of the following options must be used: 
+ 
+Option 1. Plant-Specific Data: When the source of the cement used 
+both in the pre-project and post-project scenario is known, project 
+ 
+VM0043, v1.1  
+ 
+23 
+proponents must use site-specific factors if they are available. See 
+Section 8.1. 
+ 
+Option 2. Environmental Product Declarations (EPDs): Where Option 
+1 is not applicable, project proponents must use EPDs that provide 
+key information on GHG intensity of Portland cement.  See Section 
+8.1.  
+ 
+Option 3. Use of Regional Factors: To be applied where EPDs are not 
+available, or where the project activity is located in a country where 
+the data needed for Options 1 and 2 are not available. See Section 
+8.1  
+ 
+ Purpose of Data 
+Calculation of baseline and project emissions, because the use of 
+cement occurs in both the baseline and project scenarios. 
+Comments 
+For Option 1, plant-specific data on fuel use, electricity use and 
+cement production must be provided by the cement producer, and 
+the producer must be available to provide actual data and evidence 
+(utility bills, etc.) directly to the validation/verification body, if 
+requested. 
+ 
+Data / Parameter 
+EFClinker 
+Data unit 
+tCO2e/t 
+Description 
+Emission factor for the production of clinker  
+Equations 
+3 
+Source of data 
+World Business Council for Sustainable Development’s the Cement 
+Sustainability Initiative report, Cement Industry Energy and CO2 
+Performance “Getting the Numbers Right”.   
+Value applied 
+See Table A.1 in Appendix III. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+For use with Option 3 above, determining the emission factor of 
+Portland cement using regional factors. 
+ Purpose of Data 
+Calculation of baseline and project emissions, because the use of 
+cement occurs in both the baseline and project scenarios. 
+Comments 
+N/A 
+ 
+ 
+ 
+VM0043, v1.1  
+ 
+24 
+Data / Parameter 
+MClinker/MCement  
+Data unit 
+Ratio 
+Description 
+Clinker to cement ratio 
+Equations 
+3 
+Source of data 
+World Business Council for Sustainable Development’s the Cement 
+Sustainability Initiative report, Cement Industry Energy and CO2 
+Performance: “Getting the Numbers Right”.   
+Value applied 
+See Table A2 in Appendix III. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+For use with Option 3 above, determining the emission factor of 
+cement using regional factors. 
+ Purpose of Data 
+Calculation of baseline and project emissions, because the use of 
+cement occurs in both the baseline and project scenarios. 
+Comments 
+N/A 
+ 
+Data / Parameter 
+FC,a 
+Data unit 
+TJ 
+Description 
+Energy content per unit of fuel type a. 
+Equations 
+9, 11 
+Source of data 
+IPCC 
+Value applied 
+Will vary depending on fuel 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized and the data provided in the guidelines is 
+peer reviewed. 
+ Purpose of Data 
+Calculation of project emissions 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFa 
+Data unit 
+tCO2e/TJ 
+ 
+VM0043, v1.1  
+ 
+25 
+Description 
+Emission factor of fuel type a. 
+Equations 
+9  
+Source of data 
+IPCC  
+Value applied 
+Will vary depending on fuel 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized and the data provided in the guidelines is 
+peer reviewed. 
+ Purpose of Data 
+Calculation of project emissions. 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFff,a,processing 
+ 
+Data unit 
+tCO2e/TJ 
+Description 
+Emission factor of fuel type a. 
+Equations 
+11 
+Source of data 
+IPCC  
+Value applied 
+Will vary depending on fuel 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized and the data provided in the guidelines is 
+peer reviewed. 
+ Purpose of Data 
+Calculation of project emissions. 
+Comments 
+N/A 
+ 
+Data / Parameter 
+EFCO2,i  
+Data unit 
+Tonne of CO2 per tonne-mile 
+Description 
+Emission factor for mode of transport. 
+Equations 
+12 
+ 
+VM0043, v1.1  
+ 
+26 
+Source of data 
+Table in Section 8 from EPA Center for Corporate Climate 
+Leadership (2020) 
+Value applied 
+Will vary depending on the fuel 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This is an accurate and simplified default for considering the 
+emission factors of different modes of transport. 
+ Purpose of Data 
+Calculation of project emissions. 
+Comments 
+N/A 
+ 
+Data / Parameter 
+Default factor for amount of energy required to capture, treat and 
+compress a tonne of CO2 
+Data unit 
+kWh/tonne 
+Description 
+Default factor for amount of energy required to capture, treat and 
+compress a tonne of CO2 
+Equations 
+11(a) 
+Source of data 
+See Appendix V 
+Value applied 
+200 kWh/tonne of CO2 processed 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Appendix V 
+ Purpose of Data 
+To provide an option for determining project emissions from 
+capturing CO2 if that information is not available from the CO2 
+supplier. 
+Comments 
+ 
+ 
+Data / Parameter 
+Default efficiency of mineralization 
+Data unit 
+Ratio 
+Description 
+The efficiency of mineralization allows estimating the amount of CO2 
+injected that is mineralized into the concrete. 
+Equations 
+5(a), 5(b) 
+Source of data 
+See Appendix VI 
+ 
+VM0043, v1.1  
+ 
+27 
+Value applied 
+0.60 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+See Appendix VI 
+ Purpose of Data 
+The production of numerous mix designs makes comprehensive 
+testing impractical.  In this case, project proponents must use a 
+default based on the percentage of CO2 injected into the process (as 
+determined by a meter) and actually mineralized.   
+Comments 
+This parameter indicates the efficiency of mineralization. There have 
+been tests done on this efficiency as outlined in Appendix V.  These 
+tests show quite a range of results in terms of the efficiency of the 
+uptake of CO2 into the concrete, and there appears to be little 
+correlation between the efficiency of mineralization and the percent 
+dosing of CO2. However, the lowest test result is at 76%, meaning 
+that three-quarters of the CO2 that is injected into the process 
+actually is mineralized into the concrete. At a conservative default, 
+the assumed efficiency of mineralization will be set at 60%. 
+Note: All defaults/parameters have been reviewed and none are likely to change 
+significantly in the future.  
+ 
+Data and Parameters Monitored  
+Data / Parameter: 
+Qcement,i,p,y 
+ 
+Data unit: 
+Tonne 
+Description: 
+Quantity of cement used in the project for concrete or pre-cast 
+products produced using a project mix design i in year y.   
+Equations 
+2, 7 
+Source of data: 
+Project proponent 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use standard weighing procedures to determine mass of cement 
+used to produce ready-mix or pre-cast concrete products over the 
+course of year y.  
+Frequency of 
+monitoring/recording: 
+Measured continuously, recorded at least monthly 
+QA/QC procedures to be 
+applied: 
+Any equipment, such as scales, should be calibrated according to 
+the manufacturer’s specifications, with calibration certificates 
+available for verification. 
+Purpose of data: 
+Calculation of baseline and project emissions. 
+ 
+VM0043, v1.1  
+ 
+28 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+QCement,b,i,test n  
+Data unit: 
+Tonne  
+Description: 
+Quantity of Portland cement used to prepare baseline compressive 
+strength test specimen n for concrete produced using a mix design 
+that results in a concrete of equivalent compressive strength to 
+project mix design i. 
+Equations 
+2 
+Source of data: 
+Project proponent 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Appendix II 
+Frequency of 
+monitoring/recording: 
+Once per project crediting period for each mix design. If project 
+proponents have a large number of mix designs at a given project 
+site or across a portfolio of locations, testing can be performed on 
+the company’s mix designs that comprise at least 50% of production 
+volume.  In cases where additional mix designs or changes in 
+existing mix designs mean that the 50% production volume 
+threshold changes, then further testing will occur for all project 
+instances. Any new mix designs added during the project crediting 
+period will also be tested. 
+QA/QC procedures to be 
+applied: 
+See Appendix II 
+Purpose of data: 
+To calculate how much cement would have been used in the 
+absence of the project by assessing the amount of cement in 
+baseline concrete is required to obtain the equivalent or better  
+compressive strength as the project concrete.  This is used to 
+calculate baseline emissions. 
+Calculation method: 
+N/A  
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+QCement,p,i,test n 
+ 
+Data unit: 
+Tonne  
+ 
+VM0043, v1.1  
+ 
+29 
+Description: 
+Quantity of Portland cement used to prepare project compressive 
+strength test specimen n for concrete produced using project mix 
+design i 
+Equations 
+2 
+Source of data: 
+Project proponent 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Appendix II 
+Frequency of 
+monitoring/recording: 
+Once per project crediting period for a given corporation’s mix 
+designs that comprise 50% or more of production volume.  In cases 
+where additional mix designs or changes in existing mix designs 
+mean that the 50% production volume threshold changes, then 
+further testing will occur for all project instances.   Any new mix 
+designs added during the project crediting period will also be tested. 
+QA/QC procedures to be 
+applied: 
+See Appendix II 
+Purpose of data: 
+Calculation of baseline emissions by comparing the amount of 
+cement in the project activity concrete and the amount of cement 
+that would be required in the baseline concrete. 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+QCO2,meter,s,y  
+Data unit: 
+Tonne 
+Description: 
+Amount of CO2 injected from source s in year y to produce concrete 
+and pre-cast products, as determined by a flow meter. 
+Equations 
+5a, 5b, 11, 11a 
+Source of data: 
+Measurements at project facility and information from CO2 
+providers. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use calibrated flow meters. The amount of CO2 must be metered 
+before entering the production process and must be subject to 
+standard calibration and QA/QC procedures.  
+ 
+Note that the monitoring will take place at the point of CO2 injection. 
+Project proponents must specify in the project description where the 
+CO2 injection and monitoring will take place. 
+ 
+ 
+VM0043, v1.1  
+ 
+30 
+Project proponents must track the source of CO2 when it goes into 
+the concrete production process. A clear record must be provided to 
+the VVB, such as sales records or receipts from the CO2 supplier.  
+For removals, the project proponent must provide clear and 
+transparent evidence that the source is a DAC or biogenic CO2 
+facility.  If the process involves only, sourcing information would not 
+be required; however a description of the process and sample 
+testing (as per Option 1 in Component 2 as described in Section 
+8.1) must be provided to the VVB. 
+ 
+Frequency of 
+monitoring/recording: 
+Data must be monitored continuously and recorded at least on a 
+daily basis. 
+QA/QC procedures to be 
+applied: 
+Calibration of meters must be conducted according to the 
+equipment manufacturer’s specifications. 
+ 
+Records, sales receipts should be provided from CO2 supplier, for 
+example, the market CO2 company or the DAC supplier.  If a source 
+cannot be determined precisely, it will be assumed to be ineligible.   
+ 
+Purpose of data: 
+Calculation of baseline emissions when measuring how much CO2 
+was injected into the concrete and for project emissions when 
+determining emissions from processing.  
+ 
+The source is used determine whether CO2 source qualifies as a 
+carbon removal or an emission reduction under VCS guidelines 
+Calculation method: 
+N/A 
+Comments: 
+Project proponents may use a mass-flow meter to measure mass of 
+CO2. Proponents may also use a volumetric meter to determine 
+cubic feet or meters of gas collected, but this number must be 
+converted to mass by multiplying the measured volume by the 
+density of CO2 at normal temperature and pressure (20 degrees C at 
+1 atmosphere). The density of CO2 at NTP is 1.842 kg/m3.11   
+ 
+In the project proponent’s monitoring plan, each unit of 
+quantification (e.g.: per batch or mass of concrete produced and 
+reported) may indicate the source of CO2 so when all units are 
+summed together, it is clear how much CO2 mineralized comes from 
+a source that would qualify as a removal and how much CO2 would 
+be considered an emission reduction.   
+ 
+ 
+ 
+11 www.engineeringtoolbox.com/gas-density-d_158.html 
+ 
+VM0043, v1.1  
+ 
+31 
+Data / Parameter: 
+Cbaseline sample,i,y            
+Data unit: 
+kgC/kg of concrete 
+Description: 
+Carbon content of baseline concrete or pre-cast product as 
+measured in test samples. 
+Equations 
+4a, 4b 
+Source of data: 
+Project proponent tests (see Appendix IV)  
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Appendix IV 
+Frequency of 
+monitoring/recording: 
+Once per design mix. If project proponents have a large number of 
+design mixes at a given project site or across a portfolio of locations, 
+testing can be performed once per crediting period on a company’s 
+mix designs that comprise at least 50% of production volume.   
+QA/QC procedures to be 
+applied: 
+For all concrete products the project proponent must  conduct a 
+minimum of three decomposition tests for the baseline products.   
+For relevant project mix design – for both pre- and post-project 
+concrete – the project proponent will conduct a minimum of three 
+decomposition tests. The three tests must reveal a carbon content 
+that is within 10% of each other, or the project proponent should 
+continue testing the individual batch until three results within 10% 
+of each other are obtained.  The actual test result used in the 
+calculations of baseline emissions must be the lowest of the three 
+samples for the post-project concrete and the highest of the three 
+results for the pre-project concrete – thus ensuring the most 
+conservative result.  All test procedures and results will be made 
+available to the validation/verification body. 
+ 
+Purpose of data: 
+Calculation of baseline emissions. 
+Calculation method: 
+N/A 
+Comments: 
+See Appendix IV  
+ 
+Data / Parameter: 
+Cproject sample,i,y   
+Data unit: 
+kgC/kg of concrete 
+Description: 
+Carbon content of project concrete or pre-cast product as measured 
+in test samples 
+Equations 
+4a, 4b 
+ 
+VM0043, v1.1  
+ 
+32 
+Source of data: 
+Project proponent tests (see Appendix IV)  
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+See Appendix IV 
+Frequency of 
+monitoring/recording: 
+Once per design mix.  If project proponents have a large number of 
+design mixes at a given project site or across a portfolio of locations, 
+testing can be performed once per crediting period on a company’s 
+mix designs that comprise 50% or more of production volume.   
+QA/QC procedures to be 
+applied: 
+For all concrete products the project proponent must conduct a 
+minimum of three decomposition tests for the project 
+products/materials.  In the case of ready-mix and pre-cast concrete 
+products, this testing will be done for each design mix.   
+ 
+For relevant project mix design – for both pre- and post-project 
+concrete – the project proponent must conduct a minimum of three 
+decomposition tests.  
+ 
+The three tests must reveal a carbon content that is within 10% of 
+each other, or the project proponent should continue testing until 
+three results within 10% of each other are obtained.  
+ 
+The actual test result used in the calculations of baseline emissions 
+must be the lowest of the three samples for the post-project 
+concrete and highest of the three results for the pre-project 
+concrete – thus ensuring the most conservative result.  All test 
+procedures and results will be made available to the 
+validation/verification body. 
+ 
+Purpose of data: 
+Calculation of baseline emissions 
+Calculation method: 
+N/A 
+Comments: 
+See Appendix IV 
+ 
+Data / Parameter: 
+QConcrete,i,p,y 
+Data unit: 
+Tonne 
+Description: 
+Quantity of concrete products produced by the project for project 
+mix design i in year y. 
+Equations 
+4a, 4b 
+Source of data: 
+Project proponent (see Section 8.1)  
+ 
+VM0043, v1.1  
+ 
+33 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Standard procedures to weigh concrete product, which is standard 
+industry practice for all concrete suppliers.   
+Frequency of 
+monitoring/recording: 
+Measured continuously, recorded at least daily 
+QA/QC procedures to be 
+applied: 
+Standard procedures to ensure accuracy of weighing methods, 
+including manufacturer-recommended calibrations for measuring 
+devices, which would be standard industry practice for all concrete 
+suppliers.  Project proponents will keep clear records of all concrete 
+produced and used at construction sites, which can be presented to 
+the validation/verification body.  
+ 
+Purpose of data: 
+Calculation of baseline emissions. 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+Qelec,y  
+Data unit: 
+MWh 
+Description: 
+Quantity of electricity used by the CO2 injection equipment from the 
+grid in year y used to power the equipment needed to operate the 
+project activity in year y (MWh) 
+Equations 
+8  
+Source of data: 
+Measurements at project facility or electric utility bills; and from CO2 
+supplier. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use calibrated electricity meters. Calibration must be conducted 
+according to the equipment manufacturer’s specifications.  
+Alternatively, utility billing data can be used. 
+Frequency of 
+monitoring/recording: 
+Data must be monitored continuously and recorded on at least a 
+daily basis. If utility data is used, monthly bills are acceptable. 
+QA/QC procedures to be 
+applied: 
+The consistency of metered electricity generation should be cross-
+checked with receipts from electricity purchases where applicable. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+ 
+VM0043, v1.1  
+ 
+34 
+Comments: 
+In cases where the individual piece of equipment used does not 
+have a separate meter to calculate electricity use from just that 
+device – and where utility bills cannot distinguish between the use 
+of that equipment and the rest of the facility – project proponents 
+may use sample data. This option may be used if the electricity or 
+fossil fuel consumption is minor.    
+For sampling, the energy consumption and quantity of CO2 injected 
+must be measured during a representative time period to estimate 
+the specific energy use per amount of CO2 injected: 
+• 
+Energy consumption: measured with a data logger or other 
+similar method   
+• 
+Amount of CO2 injected: measured with a flow meter  
+This specific energy consumption must be multiplied by the total 
+amount of CO2 injected during the monitoring period to obtain the 
+total energy consumption.  
+If the sampling approach is applied, project proponents must take 
+multiple readings throughout the year at multiple facilities to obtain 
+a representative sample.  
+The most conservative sample (e.g., highest specific energy 
+consumption) must be used to determine project emissions. 
+ 
+Data / Parameter: 
+Qelec,processing,y 
+Data unit: 
+MWh 
+Description: 
+Quantity of electricity from the grid in year y used to capture, 
+compress and process CO2. 
+Equations 
+11 
+Source of data: 
+Measurements at CO2 supplier facility or their electric utility bills. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use calibrated electricity meters. Calibration must be conducted 
+according to the equipment manufacturer’s specifications.  
+Alternatively, utility billing data can be used. 
+Frequency of 
+monitoring/recording: 
+Data must be monitored continuously and recorded on at least a 
+daily basis.  If utility data is used, monthly bills are acceptable. 
+QA/QC procedures to be 
+applied: 
+The consistency of metered electricity generation should be cross-
+checked with receipts from electricity purchases where applicable. 
+Purpose of data: 
+Calculation of project emissions. 
+Calculation method: 
+N/A 
+Comments: 
+ 
+ 
+VM0043, v1.1  
+ 
+35 
+ 
+Data / Parameter: 
+EFelec 
+Data unit: 
+tCO2e/MWh 
+Description: 
+Emission intensity of electricity used  
+Equations 
+8, 11, 11a 
+Source of data: 
+US EPA eGrid, utility data or similar source if the project is in 
+another country. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+In developing countries, project proponents may use the  VCS Tool  
+VT0011 - Electricity System Emission Factors to calculate this 
+parameter.  In the United States, the eGrid emissions factor 
+published by the US Environmental Protection Agency for the US 
+sub-region where the facility is located (latest available information) 
+may be used.   
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+As per the latest version of the  VCS Tool VT0011 - Electricity 
+System Emission Factors, if used  
+Purpose of data: 
+Calculation of baseline and project emissions 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+Qff,a,y   
+Data unit: 
+Gallons (oil fuels), meters3 (natural gas), tonnes (solid fuels) 
+Description: 
+Quantity of fossil fuel a used by the CO2 injection equipment in year 
+y (volume of liquid fuel, mass of solid fuel or cubic meters of natural 
+gas) 
+Equations 
+9  
+Source of data: 
+Measurements at project facility. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use calibrated flow or gas meters. Calibration must be conducted 
+according to the equipment manufacturer’s specifications.  Use 
+calibrated scales for solid fuels.   
+ 
+VM0043, v1.1  
+ 
+36 
+Frequency of 
+monitoring/recording: 
+Data must be monitored continuously and recorded on at least 
+monthly basis. 
+QA/QC procedures to be 
+applied: 
+The consistency of metered fuel use should be cross-checked with 
+receipts from fuel suppliers where applicable. 
+Purpose of data: 
+Calculation of project emissions. 
+Calculation method: 
+N/A 
+Comments: 
+In cases where the individual piece of equipment used to inject CO2 
+does not have a separate meter to calculate fossil fuel use from just 
+that device – and where utility bills cannot distinguish between the 
+use of that equipment and the rest of the facility – project 
+proponents may use sample data.  This option may be used if the 
+electricity or fossil fuel consumption is minor.   
+For sampling, the fuel consumption and quantity of CO2 injected 
+must be measured during a representative time period to estimate 
+the specific energy use per amount of CO2 injected: 
+• 
+Fuel consumption: measured with a data logger or other 
+similar method   
+• 
+Amount of CO2 injected: measured with a flow meter  
+This specific fuel consumption must be multiplied by the total 
+amount of CO2 injected during the monitoring period to obtain the 
+total energy consumption.  
+If the sampling approach is applied, project proponents must take 
+multiple readings throughout the year at multiple facilities to obtain 
+a representative sample.  
+The most conservative sample (e.g., highest specific energy 
+consumption) must be used to determine project emissions. 
+ 
+ 
+Data / Parameter: 
+Qff,a,y,processing 
+Data unit: 
+Gallons (oil fuels), cubic meters (natural gas), tonnes (solid fuels) 
+Description: 
+Quantity of fossil fuel a used the CO2 supplier to capture and 
+process the CO2 for delivery to the project site. 
+Equations 
+11 
+Source of data: 
+Measurements at CO2 supplier facility.  
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+Use calibrated flow or gas meters, or scales or delivery volumes. 
+Calibration must be conducted according to the equipment 
+manufacturer’s specifications.   
+ 
+VM0043, v1.1  
+ 
+37 
+Frequency of 
+monitoring/recording: 
+Data must be monitored and recorded monthly. 
+QA/QC procedures to be 
+applied: 
+The consistency of metered fuel use should be cross-checked with 
+receipts from fuel suppliers where applicable. 
+Purpose of data: 
+Calculation of project emissions 
+Calculation method: 
+N/A 
+Comments: 
+The project proponent must know the source of the CO2 in order to 
+quantify the GHG reductions associated with the mineralization of 
+CO2.   
+ 
+Data / Parameter: 
+QCO2,supplied,y,i  
+Data unit: 
+Tonne 
+Description: 
+Amount of CO2 procured in year y and brought to the project activity 
+site by mode i. 
+ 
+Equations 
+12 
+Source of data: 
+Purchase and sales records from the project proponent or from CO2 
+supplier. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+ 
+Use of sales records/receipts from CO2 supplier 
+Frequency of 
+monitoring/recording: 
+Monthly 
+QA/QC procedures to be 
+applied: 
+N/A 
+Purpose of data: 
+Determination of project emissions associated with transporting CO2 
+to project site. 
+Calculation method: 
+N/A 
+Comments: 
+Note that the variable QCO2,supplied,y,i is distinct from QCO2,meter,s,y.  
+The CO2 supplied to the site is necessary to determine the 
+emissions associated with transporting the gas, and it is possible 
+that CO2 is brought by multiple transportation modes.  This 
+parameter measures that by determining the amount of CO2 
+supplied by each mode i.  Project proponents should keep accurate 
+records of all CO2 supplied by different transportation modes.  It is 
+logical to assume that all CO2 from the supplier(s) will equal 
+ 
+VM0043, v1.1  
+ 
+38 
+QCO2,meter,s,y. However, that cannot necessarily be guaranteed.  If 
+some CO2 supplied is not actually injected, then this parameter is 
+conservative because summing QCO2,supplied,y,i for each mode will 
+always be equal to or greater than QCO2,meter,y. So, if anything, this 
+parameter will overcount project emissions.      
+Project proponents must demonstrate that the captured CO2 is 
+coming from a source where the gas would – in the absence of the 
+project activity – be emitted. The project proponent should obtain 
+an attestation from the supplier of the CO2 or provide other 
+evidence that the captured CO2 would not have otherwise been 
+sequestered (e.g., CO2 coming from a location supplying an 
+Enhanced Oil Recovery project).  
+ 
+ 
+Data / Parameter: 
+Miles transported in year y by mode i   
+Data unit: 
+Miles 
+Description: 
+Miles of shipped CO2 to the project site by mode i. 
+ 
+Equations 
+12 
+Source of data: 
+CO2 supplier, transporter and project proponent. 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+The company supplying or transporting the CO2 should provide data 
+to project proponent about total number of tonnes delivered and 
+total miles driven/shipped by barge/ moved by train from the CO2 
+supply point to the final destination (and which mode(s) were used – 
+rail, truck, barge, etc.).   
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Records from CO2 supplier or transporter should be available at 
+project verification. 
+Purpose of data: 
+Calculation of project emissions. 
+Calculation method: 
+N/A 
+Comments: 
+N/A 
+ 
+Data / Parameter: 
+TotalCO2processed,y 
+ 
+VM0043, v1.1  
+ 
+39 
+Data unit: 
+Tonne 
+Description: 
+Total amount of CO2 processed from the facility supplying the 
+captured CO2 in year y.  
+ 
+Equations 
+11 
+Source of data: 
+CO2 supplier and project proponent 
+Description of 
+measurement methods 
+and procedures to be 
+applied: 
+CO2 supplier to provide records for project proponent. 
+Frequency of 
+monitoring/recording: 
+Annual 
+QA/QC procedures to be 
+applied: 
+Validation/verification body can ask to check production records of 
+CO2 supplier. 
+Purpose of data: 
+Calculation of project emissions. 
+Calculation method: 
+N/A 
+Comments: 
+The project proponent must know the source of the CO2 to quantify 
+the GHG reductions associated with processing of CO2.  
+ 
+ 
+Description of the Monitoring Plan 
+The project will monitor the data parameters identified in Section 9.2, including the 
+following: 
+• 
+Quantities of cement produced for the concrete supplied both in the baseline and 
+project scenarios (scales or screws conveyor scale can be used to measure weight 
+of material, as well as invoices and other records to indicate product sales – all of 
+which can generate records for validation/ verification body to review to check the 
+integrity of the data). 
+• 
+Quantity and source of CO2 supplied, transported and injected into the concrete 
+(determined by meter, and meter data, along with calibration measurements can be 
+provided to the validation/verification body). 
+• 
+Quantity of CO2 embedded into the concrete (described earlier). 
+• 
+Quantity of electricity and fuel used as part of the concrete production process at 
+the project facility (utility bills, invoices from fuel suppliers, flow meters and 
+electricity meters can all provide records for verification).  
+• 
+Production and sale of concrete produced by the project activity. This will be 
+ 
+VM0043, v1.1  
+ 
+40 
+monitored through industry-standard weighing techniques.  Sales records can also 
+be provided to ensure the concrete is entering the market and thus displacing 
+concrete. 
+The project proponent must establish, maintain and apply a monitoring plan and GHG 
+information system that includes criteria and procedures for obtaining, recording, compiling 
+and analyzing data, parameters and other information important for quantifying and 
+reporting GHG emissions relevant for the project and baseline scenarios. Monitoring 
+procedures must address the following: 
+• 
+Types of data and information to be reported; 
+• 
+Units of measurement; 
+• 
+Origin of the data; 
+• 
+Monitoring methodologies (e.g., estimation, modeling, measurement and 
+calculation); 
+• 
+Type of equipment used; 
+• 
+Monitoring times and frequencies; 
+• 
+Monitoring roles and responsibilities, including experience and training 
+requirements; 
+• 
+GHG information management systems, including the location, back up, and 
+retention of stored data.  
+Where measurement and monitoring equipment is used, the project proponent must ensure 
+the equipment is calibrated according to current good practice (e.g., relevant industry 
+standards). 
+All data collected as part of monitoring must be archived electronically and kept at least for 
+two years after the end of the last project crediting period. QA/QC procedures must include, 
+but are not limited to: 
+• 
+Data gathering, input and handling measures; 
+• 
+Input data checked for typical errors, including inconsistent physical units, unit 
+conversion errors;  
+• 
+Typographical errors caused by data transcription from one document to another, and 
+missing data for specific time periods or physical units; 
+• 
+Input time series data checked for large unexpected variations (e.g., orders of 
+magnitude) that could indicate input errors; 
+• 
+All electronic files to use version control to ensure consistency; 
+• 
+Physical protection of monitoring equipment;  
+• 
+Physical protection of records of monitored data (e.g., hard copy and electronic records); 
+ 
+VM0043, v1.1  
+ 
+41 
+• 
+Input data units checked and documented.

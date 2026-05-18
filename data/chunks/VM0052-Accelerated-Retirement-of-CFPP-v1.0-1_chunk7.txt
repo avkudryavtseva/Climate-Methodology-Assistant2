@@ -1,0 +1,15 @@
+6 BASELINE SCENARIO 
+This methodology uses the project method to determine the baseline scenario. Projects must 
+apply VMD0060 Combined Baseline and Additionality Assessment for Accelerated Retirement 
+of Coal-fired Power Plants to determine the baseline scenario and baseline retirement date of 
+the CFPP.  
+The total project crediting period ends at the earliest of the following: 
+1) The maximum crediting period length permissible in the most recent version of the VCS 
+Standard, measured from the project start date 
+2) The baseline retirement date, as determined by the most recent version of VMD0060  
+3) Where the CFPP is owned by a utility, the date on which the jurisdiction reneges on its 
+no new coal commitment, either explicitly through an announcement or implicitly 
+through the permitting of a new CFPP  
+4) Where the CFPP is owned by an IPP, the date on which the IPP reneges on its no new 
+coal commitment, either explicitly through an announcement or implicitly through 
+application for permits for a new CFPP anywhere globally

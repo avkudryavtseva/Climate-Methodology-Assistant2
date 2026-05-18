@@ -1,0 +1,996 @@
+5 
+PROJECT BOUNDARY 
+5.1  
+Identification of the Project Area 
+Project proponents must provide geographical information about the location where the project 
+will be carried out and any other information allowing for the unique identification of the project 
+area. Projects within the province of BC must comply with the latest version of the BC EOR.16  
+The project area can be contiguous or separated into tracts.  
+This information must include a geo-referenced map that shows the project area in accordance 
+with VCS rules. Project proponents are encouraged to use provincial base mapping, corporate 
+spatial data stored in the Land and Resource Data Warehouse (LRDW), and GIS-based 
+analytical and reporting tools and map viewers such as iMapBC, MapView, or SeedMap.  
+The map provided must be at a sufficiently large scale (eg, 1:20,000 or larger, though in some 
+cases a smaller scale map may be appropriate), and include sufficient features, place names and 
+administrative boundaries to enable field interpretation and positive identification of the project 
+site.  
+The following information must be provided on the map:  
+• 
+Forest ownership or license area and project boundaries 
+• 
+Size of forest ownership or license area 
+• 
+Latitude/longitude, or land title or land survey  
+• 
+Existing land cover and land use 
+• 
+Project proponents may also wish to include the following information on the map: 
+o 
+Topography  
+o 
+Forest vegetation types  
+o 
+Site classes 
+ 
+16 The relevant information was contained in section 3(2)(f) of the BC EOR as it existed on Dec. 6  2010. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+15 
+o 
+Watercourses in area17 
+In addition to the above, projects with areas within the province of BC must also provide other 
+project identification and description information as required by Section 3 of the BC EOR. 
+For all project activities, project proponents must demonstrate sufficient control over the area, 
+such that any emission reductions and/or removals can be maintained.  For ARR and IFM-RIL 
+projects on Crown land, project proponents must be able to demonstrate that they have the rights 
+necessary to maintain the benefits of the project.  For the other project activities on Crown land, 
+project proponents must demonstrate that they have primary management control over the 
+project area through a renewable area based license, or through another mechanism granting 
+equivalent control. 
+For IFM and REDD projects, project proponents must also provide evidence that the project area 
+meets the national definition of a forest, and has done so for the required time period. 
+For IFM projects, project proponents must also provide evidence that the project area is 
+designated, sanctioned or approved for wood product management.  Such evidence could 
+include: 
+• 
+For Crown or any other type of public lands: 
+o 
+Evidence that the area is licensed for timber production by the Crown or the 
+relevant authority. 
+• 
+For private lands 
+o 
+Registration under the Private Managed Forest Lands Act in the case of projects 
+implemented in the province of BC, or the relevant registry if required by provincial 
+legislation.  
+o 
+Zoning as forestry land, or agricultural land based on the production of timber from 
+a stand of trees meeting the national definition of a forest, for tax purposes 
+5.2  
+Identification of Project SSPs 
+The general flow of inputs, onsite processes and outputs by which forestry projects impact SSPs 
+is shown in Figure 1 below. 
+ 
+17 This project area identification approach taken, with modifications, from the British Columbia Forest Offset 
+Guide Version 1.0, B.C. Ministry of Forests and Range, April 2009. 
+ 
+v3.3                                                                                                                                                                                             
+ 
+ 
+16 
+Figure 1: Project and Baseline Model – All Eligible Project Categories
+ 
+Harvested 
+Wood 
+Transport & 
+Processing 
+Forest land (or land that will become forest land during the 
+project crediting period) within project boundary 
+Other 
+Silvicultural & 
+Forest 
+Management 
+Practices 
+Harvesting 
+Nitrogen-
+Based 
+Fertilizer 
+Application 
+Site 
+Preparation 
+Construction 
+Material 
+Production & 
+Transport 
+Other On-
+Going Inputs 
+Production & 
+Transport 
+Harvesting Levels 
+Outside of the 
+Project Area 
+Transport and 
+Disposal of 
+Harvested Wood 
+Products and 
+Residuals 
+Harvested 
+Wood 
+Transport & 
+Use 
+Forest 
+Carbon 
+Pools 
+Atmospheric 
+CO2 in (eg, 
+via growth) 
+Atmospheric CO2, 
+CH4, N2O out (eg, 
+via decay, 
+controlled burning, 
+wildfire) 
+Land Use Outside 
+of the Project Area 
+Fossil Fuel 
+Production & 
+Transport 
+Personnel 
+Transport to 
+/ from Site 
+Transport, Use 
+and/or 
+Disposal of 
+Outputs 
+Non-Forest 
+Land Use 
+Activities 
+Site Clearing (REDD 
+only) 
+Non-forest land (or land that would have 
+become non-forest land during the project 
+crediting period) within project boundary 
+Vehicles and 
+Equipment 
+Production & 
+Transport 
+Fertilizer 
+Production & 
+Transport 
+I
+Outputs 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+17 
+5.2.1  
+Definitions of the SSPs Accounted for Under this Methodology 
+Project SSPs are defined in Table 2 (controlled carbon pools), Table 3 (controlled and related 
+emission sources) and Table 4 (affected SSPs).   
+SSPs are categorized as controlled (C), related (R) or affected (A), based on their relation to 
+project proponents, where project proponents is assumed to control all SSPs within the 
+geographic boundary of the forest project area, and upstream and downstream SSPs are 
+assumed to be controlled by others and thus are related to the project. 
+Table 2:  Controlled Project/Baseline Carbon Pools (PP/BP) 
+On-site Controlled Carbon Pools 
+PP/BP1 
+Standing  
+Live Trees 
+Carbon 
+pool 
+Standing live trees include all above ground live 
+biomass (the stem, stump, branches, bark, seeds and 
+leaves or needles), regardless of species. 
+Controlled 
+PP/BP2 
+Shrubs and 
+Herbaceous 
+Understory 
+Carbon 
+pool 
+All above-ground live woody and other plant biomass 
+that does not meet the description of Standing Live 
+Trees. 
+Controlled 
+PP/BP3 
+Live Roots 
+Carbon 
+pool 
+Portions of living trees, shrubs or herbaceous 
+biomass located below-ground, principally roots. 
+Controlled 
+PP/BP4 
+Standing 
+Dead Trees 
+Carbon 
+pool 
+Standing dead trees include the stem, branches, 
+roots, or section thereof, regardless of species.  
+Stumps are considered standing dead stocks. 
+Controlled 
+PP/BP5 
+Lying Dead 
+Wood 
+Carbon 
+pool 
+Any piece(s) of dead wood material from a tree, eg, 
+dead boles, limbs, and large root masses, on the 
+ground in forest stands. Lying dead wood is all dead 
+tree material with a minimum average diameter of 
+10.0 cm.  Anything not meeting the measurement 
+criteria for lying dead wood will be considered litter. 
+Controlled 
+PP/BP6 
+Litter & 
+Forest Floor 
+Carbon 
+pool 
+Any piece(s) of dead wood material from a tree, eg, 
+dead boles, limbs, and large root masses, on the 
+ground in forest stands that is smaller than material 
+identified as lying dead wood.  Also all other organic 
+matter on the forest floor that has not become 
+integrated into the mineral soil, except on organic 
+soils, where all non-woody material may be 
+considered part of the soil. 
+Controlled 
+PP/BP7 
+Soil 
+Carbon 
+pool 
+Belowground carbon not included in other pools, to a 
+depth appropriate considering the full project-specific 
+soil profile and potential project effects on soils. 
+Controlled 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+18 
+PP/BP8 
+Harvested 
+Wood 
+Products In 
+Use 
+Carbon 
+pool 
+Wood that is harvested or otherwise collected from 
+the forest, transported outside the forest project 
+boundary, and being processed or in use, but 
+excluding harvested wood that has been landfilled.  
+Includes raw wood products, finished wood products, 
+and any wood residuals / waste generated during the 
+harvested wood product lifecycle that is still in use 
+(ie,, has not been burned, disposed of, etc.). 
+Controlled18 
+PP/BP9 
+Harvested 
+Wood 
+Products in 
+Landfill 
+Carbon 
+pool 
+Wood that is harvested or otherwise collected from 
+the forest, transported outside the forest project 
+boundary, and landfilled.  Includes raw wood 
+products, finished wood products, and any wood 
+residuals / waste generated during the harvested 
+wood product lifecycle that is sent to landfill for 
+disposal. 
+Controlled 
+ 
+ 
+ 
+ 
+ 
+18 HWP carbon pools (in-use HWPs and landfilled HWPs) are considered controlled carbon pools for the 
+purposes of the protocol.  This reflects that HWPs are directly controlled by forest project proponents during 
+harvesting and up to the point of initial sale, which plays a significant role in determining the ultimate fate of 
+the wood product and associated permanence of the removals. 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+19 
+Table 3:  Controlled and Related Project/Baseline Emission Sources (PE/BE) 
+Name 
+Source 
+Description 
+Accounted 
+GHGs 
+Controlled, 
+related or 
+affected 
+Upstream Related Emission Sources 
+PE/BE 1 
+Fossil Fuel 
+Production19 
+Source 
+Emissions resulting from the 
+extraction and production / 
+refining of the fuel used to 
+operate vehicles and equipment 
+throughout the project, including 
+for both site development 
+activities (eg, site clearing, road 
+construction, etc.) and on-going 
+silvicultural and other forest 
+management activities. 
+CO2, CH4, and 
+N2O 
+Related 
+PE/BE 2 
+Fertilizer 
+Production 
+Source 
+Emissions resulting from raw 
+material extraction through to final 
+production of fertilizers that are 
+used throughout the project. 
+CO2, CH4, and 
+N2O  
+Related 
+PE/BE 3 
+Transport of 
+Material, 
+Equipment, 
+Inputs, and 
+Personnel to 
+Site 
+Source 
+Emissions resulting from 
+transportation of all construction 
+materials, equipment, inputs, and 
+personnel to the project site as 
+required during the project. 
+CO2, CH4, and 
+N2O 
+Related 
+On-site Controlled Emission Sources 
+PE/BE 4 
+Fossil Fuel 
+Combustion 
+– Vehicles 
+and 
+Equipment  
+Source 
+Emissions from vehicles and 
+equipment which burn fossil fuels. 
+CO2, CH4, and 
+N2O 
+Controlled 
+ 
+19 Where emission factors used for the calculation of GHG emissions from the use of fossil fuels 
+include emission from fuel production, this emissions source is not required for consideration.  
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+20 
+PE/BE 5 
+Fertilizer Use 
+Emissions 
+Source 
+Emissions of N2O resulting from 
+fertilizer application. 
+N2O  
+Controlled 
+PE/BE 6 
+Biomass 
+Combustion 
+Source 
+Combustion of harvested forest 
+biomass at the project site for 
+various purposes, including for 
+heating or as part of land clearing. 
+CH4, and N2O  
+Controlled 
+ 
+ 
+ 
+ 
+ 
+PE/BE 7 
+Forest Fire 
+Emissions 
+Source 
+Combustion of forest carbon 
+pools in place due to natural fire 
+events as well as human induced 
+fire events (eg, accident, arson, 
+etc.).  
+CH4, and N2O 
+Controlled 
+Downstream Related Emission Sources 
+PE/BE 8 
+Harvested 
+Wood 
+Transport  
+Source 
+Emissions resulting from the 
+transport of harvested wood from 
+the forest to the processing site, 
+and of finished wood products to 
+the end user. 
+CO2, CH4, and 
+N2O 
+Related 
+PE/BE 9 
+Harvested 
+Wood 
+Processing  
+Source 
+Emissions resulting from energy 
+used to process wood from raw 
+logs to finished product. 
+CO2, CH4, and 
+N2O 
+Related 
+PE/BE 10 
+Harvested 
+Wood 
+Combustion 
+Source 
+Emissions resulting from the 
+combustion of harvested wood for 
+energy. 
+CH4, and N2O 
+Related 
+PE/BE 11 
+Harvested 
+Wood 
+Products and 
+Residuals 
+Anaerobic 
+Decay 
+Source 
+Emissions of methane resulting 
+from the decomposition of wood 
+product under anaerobic 
+conditions in landfills. 
+CH4 
+Related 
+Table 4:  Affected Project SSPs 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+21 
+ 
+Name 
+Source 
+Description 
+Controlled, 
+related or 
+affected 
+Affected SSPs 
+PE 12 
+Leakage 
+Source  
+Emissions occurring as a result of Activity Shifting 
+Leakage or Market Leakage. 
+Affected 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+22 
+5.2.2  
+Selection of Pools and Emission Sources 
+Selection of pools and sources to be quantified must be made based on the guidance given in 
+Tables 5 and 6 below and in the accompanying notes.  Notwithstanding the guidance given in the 
+tables, if a pool or source can be shown to be de minimis for the full project crediting period, 
+project proponents may choose not to quantify that pool or source. 
+Table 5: Selection of Carbon Pools  
+  
+ARR 
+IFM-RIL 
+(<25% 
+impact on 
+total 
+timber 
+extracted) 
+IFM-RIL 
+(>=25% 
+impact on 
+total 
+timber 
+extracted) 
+IFM - 
+LtPF 
+IFM - 
+ERA 
+IFM - 
+LtHP 
+REDD - 
+APD 
+(Annual 
+crop as 
+baseline) 
+REDD - 
+APD 
+(Pasture 
+grass as 
+baseline) 
+REDD- APD 
+(Urban/ 
+development/ 
+infrastructure 
+as baseline 
+Above-ground 
+tree biomass 
+(Standing Live 
+Trees PP/BP 1) 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Above-ground 
+non-tree 
+biomass 
+(Shrubs and 
+herbaceous 
+understory 
+PP/BP 2) 
+S 
+N 
+N 
+N 
+N 
+N 
+O 
+O 
+O 
+Below ground 
+biomass (Live 
+roots PP/BP 3) 
+S 
+O 
+O 
+O 
+O 
+O 
+O 
+O 
+Y 
+Dead wood 
+(standing 
+PP/BP4 and 
+lying PP/BP 5) 
+S 
+Y 
+Y 
+Y 
+O 
+O 
+O 
+O 
+Y 
+Detritus (Litter 
+and forest floor 
+PP/BP 6) 
+S 
+S (Note 1) 
+S (Note 1) 
+S 
+(Note 
+1) 
+S 
+(Note 
+1) 
+S 
+(Note 
+1) 
+N 
+N 
+O 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Soil (PP/BP 7) 
+S 
+(Note 
+2) 
+S (Note 2) 
+S (Note 2) 
+S 
+(Note 
+2) 
+S 
+(Note 
+2) 
+S 
+(Note 
+2) 
+S (Note 
+2) 
+S (Note 
+2) 
+S (Note 2) 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+23 
+Harvested 
+wood products 
+(In use PP/BP 
+8 and in landfill 
+PP/BP 9) 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Y 
+Where: 
+Y: Must be accounted   
+ 
+ 
+ 
+ 
+ 
+ 
+S: Must be accounted where project activities may significantly reduce the pool or increase the 
+emission. Optional otherwise. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+O: Accounting is optional 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N: In general, the carbon pool or emission need not be accounted, unless failure to account the pool or 
+emission would potentially result in an overestimation of the GHG benefits of the project 
+ 
+ 
+Notes:  
+ 
+ 
+1: Unless it can be shown that the project will involve the same or more carbon being stored in this pool 
+in the project area under the project scenario as compared with the baseline scenario  
+2:  Required if the project exceeds the soil disturbance limits set out in Section 35(3), Part 4, Practice 
+Requirements, Division 1 — Soils of the Forest and Range Practices Act, Forest Planning and 
+Practices Regulation , regardless of whether or not the Regulation would otherwise apply to the 
+project area. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 6: Selection of Emission Sources  
+  
+ARR 
+IFM-RIL 
+(<25% 
+impact on 
+total 
+timber 
+extracted) 
+IFM-RIL 
+(>=25% 
+impact on 
+total 
+timber 
+extracted) 
+IFM - 
+LtPF 
+IFM - 
+ERA 
+IFM - 
+LtHP 
+REDD - 
+APD 
+(Annual 
+crop as 
+baseline) 
+REDD - 
+APD 
+(Pasture 
+grass as 
+baseline) 
+REDD- APD 
+(Urban/ 
+development/ 
+infrastructure 
+as baseline) 
+Emissions 
+from 
+production 
+of fertilizers  
+(PE/BE 1) 
+S  
+(Note 
+3) 
+S (Note 3) 
+S (Note 3) 
+S 
+(Note 
+3) 
+S 
+(Note 
+3) 
+S 
+(Note 
+3) 
+S (Note 
+3) 
+S (Note 
+3) 
+S (Note 3) 
+Emissions 
+from 
+transport, 
+vehicles 
+and  
+equipment 
+(PE/BE 2 
+and PE/BE 
+3) 
+Y 
+S (Note 3) 
+S (Note 3) 
+S 
+(Note 
+3) 
+S 
+(Note 
+3) 
+Y 
+S 
+S 
+S 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+24 
+Emissions 
+from 
+fertilizer 
+application 
+(PE/BE 4) 
+Y 
+N 
+N 
+N 
+N 
+Y 
+N 
+N 
+N 
+Emissions 
+from 
+biomass 
+burning and 
+forest fires 
+(PE/BE 5 
+and PE/BE 
+6) 
+O (note 
+4) 
+O  
+(note 4) 
+O  
+(note 4) 
+O 
+(note 
+4) 
+O 
+(note 
+4) 
+O (note 
+4) 
+O (note 
+4) 
+O (note 
+4) 
+O (note 4) 
+Harvested 
+wood 
+transport 
+(PE/BE 7) 
+S (Note 
+3) 
+Y 
+Y 
+Y 
+Y 
+S 
+(Note 
+3) 
+Y 
+Y 
+Y 
+Harvested 
+wood 
+processing 
+(PE/BE 8) 
+S (Note 
+3) 
+Y 
+Y 
+Y 
+Y 
+S 
+(Note 
+3) 
+Y 
+Y 
+Y 
+Harvested 
+wood 
+products 
+and 
+residuals 
+anaerobic 
+decay 
+(PE/BE 9) 
+S (Note 
+3) 
+Y 
+Y 
+Y 
+Y 
+S 
+(Note 
+3) 
+Y 
+Y 
+Y 
+Harvest 
+shifting 
+leakage (PP 
+10 in part) 
+N 
+O (Note 5) 
+O (Note 5) 
+O 
+(Note 
+5) 
+O 
+(Note 
+5) 
+O 
+(Note 
+5) 
+Y 
+Y 
+Y 
+Land use 
+shifting 
+leakage (PP 
+10 in part) 
+Y 
+Y 
+Y 
+Y 
+Y 
+N 
+Y 
+Y 
+Y 
+ 
+Where: 
+Y: Must be accounted.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+25 
+S: Must be accounted where project activities may significantly increase the emission. Optional 
+otherwise.  
+ 
+ 
+ 
+ 
+ 
+ 
+O: Accounting is optional. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+N: In general, the emission need not be accounted, unless failure to account the emission would 
+potentially result in an overestimation of the GHG benefits of the project. 
+ 
+ 
+ 
+ 
+ 
+Notes:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3: Required if project emissions exceed baseline emissions. 
+ 
+ 
+ 
+ 
+4: Required if project emissions from biomass burning exceed baseline emissions from biomass 
+burning. 
+5: Required where the project results in a decrease in HWP production relevant to the baseline.  
+ 
+5.2.2.1  Guidance on Pools and Sources 
+Any of the carbon pools and emission types noted in tables 5 and 6 as S, O, or N, including 
+carbon pools and GHG sources that cause project or leakage emissions, may be deemed de 
+minimis and do not have to be accounted for if together the omitted decrease in carbon stocks (in 
+carbon pools) or increase in emissions (from GHG sources) amounts to less than five percent of 
+the total GHG benefit generated by the project.  In order to determine any emission or pool to be 
+de minimis, project proponents must: 
+• 
+Use the ex-ante pool or emissions procedures specified in the relevant subsection of 
+section 8 to project the net change in carbon stocks (or GHG emissions) for that pool or 
+emission type for the crediting period, and 
+• 
+Subtract the total of all projected increases in emissions from the total of all projected 
+decreases in pools caused by the emitted pools and emissions for each 5 year 
+verification period within the crediting period. 
+• 
+Demonstrate that at no time over the crediting period does the total decrease in carbon 
+stocks (in carbon pools) and increase in emissions (from GHG sources) amount to more 
+than five percent of the total GHG benefit generated by the project 
+• 
+Demonstrate that this result remains true across the expected range of conditions which 
+could impact the project scenario, not counting force majeure reversals which would have 
+been expected to impact both the project and baseline scenarios. 
+ 
+ 
+ 
+v3.3                                                                                                                                                                                            
+ 
+ 
+ 
+26

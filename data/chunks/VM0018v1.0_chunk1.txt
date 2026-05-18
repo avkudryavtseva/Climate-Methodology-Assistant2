@@ -1,0 +1,47 @@
+1  
+SOURCES 
+These documents have been drawn upon heavily in the development of this methodology. Throughout 
+the text the short form reference (PUBLISHER, YEAR) will be used to indicate areas where the sources 
+were drawn upon most heavily. 
+This methodology complies with the principles of: 
+ 
+ISO 14064: Part 2, “Specification with guidance at the project level for the quantification, 
+monitoring and reporting of greenhouse gas emission reductions and removal 
+enhancements” (ISO, 2006). 
+ 
+VCS, VCS Standard, Version 3 (VCS, Version 3)  
+This methodology also draws ideas from the latest approved version of the following CDM tools:  
+ 
+CDM, Tool to Calculate the Emission Factor for an Electricity System (Version 2.2.0) (CDM, 
+2011) and 
+ 
+CDM, Combined Tool to Identify the Baseline Scenario and Demonstrate Additionality 
+(Version 3.0.1) (CDM, 2011). 
+The energy efficiency approach within has been based on elements of the following methodologies: 
+ 
+Direct Energy’s, GHG Quantification Protocol for Energy Efficiency in Commercial and 
+Institutional Buildings (Direct Energy, 2009); 
+ 
+Alberta Offset System, Protocol, GHG Quantification Protocol for Energy Efficiency in 
+Commercial and Institutional Buildings (AENV, 2010); 
+ 
+Alberta Offset System, Protocol, Quantification Protocol For Energy Efficiency Projects 
+(Version 01) (AENV, 2007);  
+ 
+IPMVP - Efficiency Valuation Organization (EVO-1000-1, 2010) in its International 
+Performance Measurement and Verification Protocol (IPMVP) (www.evo‐world.org) for 
+guidance on methods determining energy savings.1 
+This waste diversion approach within has been based on elements of the following methodologies: 
+ 
+CDM, AM0039, Methane Emissions Reduction from Organic Waste Water and Bioorganic 
+Solid Waste using Co-composting (Version 02) (CDM, 2007).  
+ 
+CDM, Tool to Determine Methane Emissions Avoided from Disposal of Waste at a Solid 
+Waste Disposal Site (Version 6.0) (CDM, 2011) 
+ 
+CCX “Avoided Emissions from Organic Waste Disposal Offset Project Protocol” (CCX, 2009); 
+                                                          
+1  IPMVP is a recognized international standard for measuring, monitoring, and verifying energy savings. 
+VM0018, Version 1 
+Sectoral Scopes 3, 13 
+10

@@ -1,0 +1,61 @@
+7 ADDITIONALITY 
+Additionality must be demonstrated using a performance method, following the steps below. 
+Step 1: Regulatory Surplus 
+Project proponents must demonstrate regulatory surplus in accordance with the rules and 
+requirements regarding regulatory surplus set out in the most recent version of the VCS 
+Methodology Requirements.  
+Step 2: Performance Benchmark 
+Composite baselines derived per the procedures set out in Section 6 represent the 
+without-project activity, or baseline scenario. Updating the composite baselines 
+periodically throughout the project crediting period produces a dynamic and 
+spatially variable performance benchmark in terms of periodic carbon stock 
+change. At each monitoring event, where reductions and removals yield a positive 
+value, the project is deemed additional. 
+𝐸𝑅𝑡= (( 𝐴𝑡× 𝐸𝑅𝑡) + 𝐿𝐾𝐸𝑅,𝑡) × (1 −𝑈𝑁𝐶𝑡) 
+ 
+ 
+ 
+ 
+(1) 
+Where: 
+ERt 
+= 
+Net GHG emission reductions in year t (t CO2e) 
+At 
+= 
+Project area in year t (unit area) 
+ERt  
+= 
+Mean GHG emission reductions in year t (t CO2e/unit area/year) 
+LKER,t 
+= 
+Leakage allocated to emission reductions in year t (t CO2e) 
+UNCt 
+= 
+Uncertainty in year t (percent) 
+ 
+𝐶𝑅𝑡= (( 𝐴𝑡× 𝐶𝑅𝑡) + 𝐿𝐾𝐶𝑅,𝑡) × (1 −𝑈𝑁𝐶𝑡) 
+(2) 
+ 
+Where: 
+CRt 
+= 
+Net carbon dioxide removals in year t (t CO2e) 
+At 
+= 
+Project area in year t (unit area) 
+CRt  
+= 
+Mean carbon dioxide removals in year t (t CO2e/unit area/year) 
+LKCR,t 
+= 
+Leakage allocated to carbon dioxide removals in year t (t CO2e) 
+UNCt 
+= 
+Uncertainty in year t (percent) 
+ 
+ 
+ 
+ 
+VM0045, v1.2 
+13

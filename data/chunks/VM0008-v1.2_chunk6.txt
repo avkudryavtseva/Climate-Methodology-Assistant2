@@ -1,0 +1,134 @@
+5 PROJECT BOUNDARY 
+The project boundary is the building envelope of the dwelling(s) and its heating/cooling 
+equipment.  
+The following greenhouse gas sources are included in and excluded from the baseline and the 
+project. 
+Table 1. Greenhouse gas sources included and excluded  
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Grid electricity consumption 
+by cooling systems or other 
+electric appliances 
+CO2 
+Included 
+Only CO2 emissions from grid-
+connected electricity generation 
+must be accounted for. 
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+Fossil fuel consumption by 
+heating systems or 
+appliances 
+CO2 
+Included 
+Only CO2 emissions from fossil fuel 
+combustion must be accounted for. 
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+Emissions from wood 
+combustion for heat  
+CO2 
+Excluded 
+Excluded for simplification and to be 
+conservative. 
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+Project 
+Grid electricity consumption 
+by cooling systems or other 
+electric appliances  
+CO2 
+Included 
+Only CO2 emissions from grid 
+connected electricity generation 
+must be accounted for.  
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+CO2 
+Included 
+Only CO2 emissions from fossil fuel 
+combustion must be accounted for.  
+CH4 
+Excluded 
+N2O 
+Excluded 
+ 
+VM0008, v1.2 
+11 
+Fossil fuel consumption by 
+heating systems or 
+appliances 
+ 
+Other 
+Excluded 
+Emissions from wood 
+combustion for heat 
+CO2 
+Excluded 
+Excluded for simplification and to be 
+conservative. 
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+Leakage 
+Emissions from improper 
+disposal of appliances and 
+operational use of new 
+appliances (e.g., 
+refrigerators, air 
+conditioners, heat pumps) 
+CO2 
+Included 
+When the appliance is not disposed 
+of according to applicable laws and 
+regulations there will be leakage 
+from continued operation. The 
+leakage emissions must be 
+calculated and excluded from GHG 
+emission reductions as described in 
+the methodology. HFC emissions 
+from refrigerant leaks during 
+operational use of applicable 
+installed appliances must be 
+included. 
+HFCs 
+Included 
+CH4 
+Excluded 
+N2O 
+Excluded 
+Other 
+Excluded 
+ 
+Leakage 
+Appliances, heating/cooling equipment and/or mobile homes that are replaced must be 
+properly disposed of and their disposal must be documented. The disposal documentation 
+must confirm that:  
+1) the appliances have been disposed of in a manner that prevents operation of the 
+appliance; and  
+2) the disposal procedure complies with applicable law and regulations. If not 
+documented, CO2 emissions from continued operation of replaced appliances, 
+heating/cooling equipment and/or mobile homes and HFC emissions from refrigerators 
+or air conditioners must be accounted for as leakage.

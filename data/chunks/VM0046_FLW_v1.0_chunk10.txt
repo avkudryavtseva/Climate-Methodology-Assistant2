@@ -1,0 +1,777 @@
+9 MONITORING 
+9.1 
+Data and Parameters Available at Validation 
+Where there is discretion in the selection of a parameter value, the principle of conservativeness 
+must be applied as described in the latest version of the VCS Standard.  
+ 
+Data/Parameter 
+𝐸𝐹𝑗,𝑦 
+Data unit 
+tCO2e/t biomass 
+Description 
+Emission factor of FLW destination j in year y  
+ 
+Equations 
+Equation (3) 
+Source of data 
+Use primary data from the FLW destination facility. If given on a wet 
+basis, the project proponent will also need information on the related 
+DM content of organic waste treated at the facility. 
+ 
+ 
+Value applied 
+Variable 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This emission factor is relevant for Option 1 to calculate baseline 
+emissions. It is only relevant if the FLW destination facility has primary 
+data available. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+Project proponents may overrule the calculated discount factor in 
+Equation (3) if they are able to obtain the standard deviation of the 
+provided emission factor from the facility operator. 
+ 
+Data/Parameter 
+𝜑𝑆𝑊𝐷𝑆 
+Data unit 
+- 
+Description 
+Default discount factor to account for model uncertainties.  
+Equations 
+Equation (4) 
+Source of data 
+Parameter Table 1 in CDM Methodological Tool 04, v8.0, section 6.3.1 
+and 6.4. 
+ 
+VM0046, v1.0 
+28 
+ 
+Value applied 
+For humid/wet conditions: 0.85 
+For dry conditions: 0.8 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Model correction factor to account for the uncertainties resulting from 
+variability of climatic conditions. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+- 
+ 
+Data/Parameter 
+𝐺𝑊𝑃𝐶𝐻4 
+Data unit 
+tCO2e/t CH4  
+Description 
+Global warming potential of methane 
+Equations 
+Equation (4) 
+Source of data 
+IPCC defaults to be taken from the most recent version of the VCS 
+Standard  
+Value applied 
+N/A 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Unless otherwise directed by the VCS Program, the VCS Standard requires 
+that CH4 is converted using the 100-year global warming potential derived 
+from the latest IPCC Assessment Report.  
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+MCF 
+Data unit 
+Dimensionless 
+Description 
+Methane correction factor 
+Equations 
+Equation (4) 
+ 
+VM0046, v1.0 
+29 
+ 
+Source of data 
+IPCC 2006 Guidelines for National GHG inventories 
+Value applied 
+Where the water table at the solid waste disposal site (SWDS) is lower than 
+the bottom of the SWDS, select the applicable value from the following:  
+1) 1.0 for an anaerobic managed SWDS that has controlled 
+placement of waste (i.e., waste directed to specific 
+deposition areas, a degree of control of scavenging, and a 
+degree of control of fires) and includes at least one of the 
+following: (i) cover material; (ii) mechanical compacting; and 
+(iii) levelling of waste;  
+2) 0.5 for a semi-aerobic managed SWDS that has controlled 
+placement of waste and includes all of the following 
+structures for introducing air to the waste layers: (i) 
+permeable cover material; (ii) leachate drainage system; (iii) 
+regulating pondage; and (iv) gas ventilation system;  
+3) 0.8 for an unmanaged deep SWDS, which comprises all 
+SWDS not meeting criteria a) or b) and with depths greater 
+than or equal to 5 meters;  
+4) 0.4 for an unmanaged shallow SWDS, which comprises all 
+SWDS not meeting criteria a) or b) and with depths of less 
+than 5 meters. This includes stockpiles of solid waste that 
+are considered SWDS (according to the definition given for an 
+SWDS in the CDM Methodological Tool 04, v8.0). 
+ 
+Where the water table at the SWDS is above the bottom of the SWDS, 
+project proponents must estimate the MCF with Equation 12 in the CDM 
+Methodological Tool 04, v8.0, following the requirements thereof. 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Taken from Table 5 in CDM Methodological Tool 04, v8.0. Where Option 2 
+is used to calculate baseline emissions and the water table at the SWDS is 
+lower than the bottom of the SWDS, 𝑀𝐶𝐹 is established at the start of the 
+project. 
+ 
+If the water table at the SWDS is above the bottom of the SWDS, 𝑀𝐶𝐹 
+must be monitored throughout the project. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+If the water table at the SWDS is higher than the bottom of the SWDS, 
+project proponents will have to know the depth of the SWDS and monitor 
+annually the average height of the water table in the SWDS. Only relevant 
+for Option 2 within Step 4 
+ 
+ 
+ 
+ 
+VM0046, v1.0 
+30 
+ 
+Data/Parameter 
+𝐸𝐹𝑑𝑒𝑓𝑎𝑢𝑙𝑡𝑗,𝑦 
+Data unit 
+tCO2e/t DM 
+Description 
+Default emission factor of FLW destination j in year y  
+ 
+Equations 
+Equation (5) 
+Source of data 
+Table 2 provides default emission factors for calculating baseline 
+emissions from FLW destinations. 
+The values for anaerobic digestion, composting, and controlled 
+combustion are adapted from the emission factors in the US EPA (2020) 
+report; combustion EF from Exhibit 1-44, composting EF from Exhibit 1-43, 
+and wet and dry anaerobic digestion EF from Exhibit 1-52 and Exhibit 1-
+51, respectively.  
+The values for landfill and open dump are adapted from the CDM 
+Methodological Tool 04: Tool to determine methane emissions avoided 
+from disposal of waste at a solid waste disposal site. 
+ 
+The values for open burning are adapted from the Ecoinvent 3.8 database. 
+The values for sewer/wastewater represent the average anaerobic 
+digestion EF from US EPA (2020) plus the GHG emissions from an average 
+electricity consumption at wastewater treatment plants for aeration 
+(Ecoinvent 3.8). 
+Value applied 
+Variable based on FLW destination 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The default emission factors are globally representative of the listed FLW 
+destinations since the factors are reflective of a technology rather than 
+geography dependent. 
+ 
+ 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+𝐷𝑗,𝑦 
+Data unit 
+km 
+Description 
+Distance travelled by waste collection vehicle for the collection of food 
+flows going to FLW destination j during year y 
+Equations 
+Equation (6) 
+ 
+VM0046, v1.0 
+31 
+ 
+Source of data 
+Logistic logbook, trip records, or indirectly calculated from location data 
+Value applied 
+Estimated distance based on location of FLW source(s) and FLW 
+destination(s) 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Estimated once at the start of the project 
+ 
+ 
+ 
+ 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+It must correspond to the distance(s) between the FLW source and the 
+FLW destination(s), measured, inferred, calculated, or estimated in Step 
+1 
+ 
+ 
+Data/Parameter 
+𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦 
+Data unit 
+kg CO2e/t km 
+Description 
+Emission factor of transportation mode m used in year y 
+Equations 
+Equation (6), Equation (8) 
+Source of data 
+DEFRA’s GHG conversion factors 2022 
+Value applied 
+If unknown, a default value of 0.00022924 may be used (based on the 
+emission factor of a diesel truck) 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+The DEFRA emission factors are globally representative and reflect a 
+technology whose performance is not geography dependent. 
+ 
+Purpose of data 
+Calculation of baseline and project emissions 
+Comments 
+Please note that DEFRA provides emission factors in kg CO2e/t km. 
+Equations 6 and 8 provide a conversion factor to convert kg CO2e/t km 
+to tCO2e/t km. 
+ 
+ 
+Data/Parameter 
+𝐸𝐹𝐶𝑂2,𝐿𝐸 
+Data unit 
+tCO2/GJ 
+Description 
+CO2 emission factor of the most carbon intensive fossil fuel used in the 
+country 
+ 
+VM0046, v1.0 
+32 
+ 
+Equations 
+Equation (13) 
+Source of data 
+Identify the most carbon intensive fuel type pulling from literature or 
+other sources (e.g., IEA, https://www.iea.org/). If available, use national 
+default values for the CO2 emission factor. Otherwise, IPCC default 
+values may be used.  
+Value applied 
+Variable by country 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+Selected at the start of the crediting period 
+Purpose of data 
+Calculation of leakage emissions 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+𝑁𝐶𝑉𝑦 
+Data unit 
+GJ/t 
+Description 
+Net calorific value of FLW in year y 
+Equations 
+Equation (13) 
+Source of data 
+Table 1.2 in the 2006 IPCC Guidelines for National Greenhouse Gas 
+Inventories 
+Value applied 
+11.6 
+Justification of choice of 
+data or description of 
+measurement methods 
+and procedures applied 
+This value represents the default net calorific value for the biomass 
+fraction of municipal wastes, which is most representative of FLW. The 
+IPCC Guidelines for National Greenhouse Gas Inventories is 
+internationally recognized, and the data provided in the guidelines is 
+peer reviewed. 
+Purpose of data 
+Calculation of leakage emissions 
+Comments 
+- 
+ 
+9.2 
+Data and Parameters Monitored  
+Data/Parameter 
+𝐷𝑀𝑗,𝑦 
+ 
+VM0046, v1.0 
+33 
+ 
+Data unit 
+Unitless (% of total weight of the mass measured) 
+Description 
+Mean dry matter content of FLW flows going to destination facility j in 
+year y  
+Equations 
+Equation (2), Equation (3), Equation (4), Equation (5), Equation (7) 
+Source of data 
+USDA Food Data Central database. Region, or country-specific food 
+databases also available at FAO/Infoods site 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Use water content parameters of food ingredients or categories from 
+USDA Food Data Central Database (or other regional databases if 
+necessary), to determine the water content of each food category. The 
+dry matter content is the inverse of the calculated food water content. 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+- 
+Comments 
+Since the DM content of the recovered food is a critical parameter for the 
+calculation of avoided GHG emissions, project proponents should strive 
+for full characterization of the recovered food-mix in terms of water 
+content. Where it is not possible to infer the DM content of the recovered 
+food from existing records, the default DM value of 0.27 must be applied 
+(step 3) or it may be derived through sampling. Once the composition of 
+the recovered food-mix is known, standard water content as found in 
+Food Central database may be applied. The mass of recovered food must 
+be quantified prior to any processing or modification associated with the 
+project activity 
+ 
+ 
+Data/Parameter 
+𝑀𝐹𝐿𝑊,𝑗,𝑦 
+Data unit 
+t 
+Description 
+Mass of food (FLW flows) going to FLW destination j in year y 
+Equations 
+Equation (2), Equation (3), Equation (4), Equation (5) 
+Source of data 
+Direct measurements, inferred from surveys, or indirectly calculated from 
+existing food records 
+Description of 
+measurement methods 
+A specific quantification method is not required. Project proponents must 
+choose the method most practical for their project and that best 
+minimizes the degree of uncertainty. The quantification method must 
+ 
+VM0046, v1.0 
+34 
+ 
+and procedures to be 
+applied 
+address the natural variability of FLW, in terms of i) spatial variations; ii) 
+temporal variations; and iii) uncertainty or fundamental variation due to 
+FLW heterogeneity. Further guidance for different methods can be found 
+in Chapter 9 of the FLW Standard.  
+Frequency of 
+monitoring/recording 
+Annual records must be used as a minimum.  
+QA/QC procedures to be 
+applied 
+Where the food has a heterogeneous composition (i.e., with diverse food 
+ingredients from different origins and/or seasonality), food-mix 
+compositions inferred from records must be cross-checked with source 
+sampling. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+𝑓𝑗,𝑦 
+Data unit 
+Fraction 
+Description 
+Fraction of CH4 captured, flared, combusted, or recovered at the landfill 
+destination j in year y  
+Equations 
+Equation (3) 
+Source of data 
+Select the maximum value from the following: (a) contractual or 
+regulatory requirements specifying the amount of methane that must be 
+destroyed/used (where available) and (b) historic data on the amount of 
+methane captured. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Historic data on the amount of methane captured by the landfill must be 
+monitored  
+Frequency of 
+monitoring/recording 
+Once for the crediting period 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+- 
+Comments 
+Only relevant for Option 2 within Step 4 for calculating baseline 
+emissions 
+ 
+ 
+ 
+VM0046, v1.0 
+35 
+ 
+Data/Parameter 
+MCF 
+Data unit 
+Dimensionless 
+Description 
+Methane correction factor 
+Equations 
+Equation (3) 
+Source of data 
+IPCC 2006 Guidelines for National GHG inventories 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Where the water table at the solid waste disposal site (SWDS) is lower 
+than the bottom of the SWDS, select the applicable value from the 
+following:  
+1) 1.0 for an anaerobic managed SWDS that has controlled 
+placement of waste (i.e., waste directed to specific 
+deposition areas, a degree of control of scavenging, and a 
+degree of control of fires) and includes at least one of the 
+following: (i) cover material; (ii) mechanical compacting; and 
+(iii) levelling of waste;  
+2) 0.5 for a semi-aerobic managed SWDS that has controlled 
+placement of waste and includes all of the following 
+structures for introducing air to the waste layers: (i) 
+permeable cover material; (ii) leachate drainage system; (iii) 
+regulating pondage; and (iv) gas ventilation system;  
+3) 0.8 for an unmanaged deep SWDS, which comprises all 
+SWDS not meeting criteria a) or b) and with depths greater 
+than or equal to 5 meters;  
+4) 0.4 for an unmanaged shallow SWDS, which comprises all 
+SWDS not meeting criteria a) or b) and with depths of less 
+than 5 meters. This includes stockpiles of solid waste that 
+are considered SWDS (according to the definition given for 
+an SWDS in the CDM Methodological Tool 04, v8.0). 
+Where the water table at the SWDS is above the bottom of the SWDS, 
+project proponents must estimate the MCF with Equation 12 in the CDM 
+Methodological Tool 04, v8.0, following the requirements thereof. 
+Frequency of 
+monitoring/recording 
+Where Option 2 is used to calculate baseline emissions and the water 
+table at the solid waste disposal site (SWDS) is lower than the bottom of 
+the SWDS, MCF is established at the start of the project.  
+If the water table is above the bottom of the SWDS, MCF is monitored 
+annually. 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation method 
+- 
+ 
+VM0046, v1.0 
+36 
+ 
+Comments 
+In case the water table at the SWDS is higher than the bottom of the 
+SWDS, project proponents will have to know the depth of the SWDS and 
+monitor annually the average height of the water table in the SWDS. Only 
+relevant for Option 2 within Step 4. 
+ 
+ 
+Data/Parameter 
+𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦 
+Data unit 
+t 
+Description 
+Sum of the mass of recovered food (FLW flows) going from the FLW 
+source to new destination x by transport mode m during year y 
+Equations 
+Equation (7) 
+Source of data 
+Direct measurements, inferred from surveys, or indirectly calculated from 
+existing food records 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+A specific quantification method is not required. Project proponents must 
+choose the method most practical for their project and that best 
+minimizes the degree of uncertainty.  
+The quantification method must address the natural variability of FLW, in 
+terms of i) spatial variations; ii) temporal variations; and iii) uncertainty or 
+fundamental variation due to FLW heterogeneity. Further guidance for 
+different methods can be found in Chapter 9 of the FLW Standard. 
+Frequency of 
+monitoring/recording 
+Annual records must be used as a minimum.  
+QA/QC procedures to be 
+applied 
+For project activities where the recovered food has a heterogeneous 
+composition (i.e., with diverse food ingredients from different origins 
+and/or seasonality), food-mix compositions inferred from records must 
+be cross-checked with source sampling. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦 
+Data unit 
+kg CO2e/t km 
+Description 
+Emission factor of transportation mode m used by project activities to 
+recover food in year y 
+Equations 
+Equation (7) 
+Source of data 
+DEFRA’s GHG conversion factors 2022 
+Value applied 
+Project proponents must select the relevant emission factors to the 
+utilized transportation modes from the referred source 
+ 
+VM0046, v1.0 
+37 
+ 
+Description of 
+measurement methods 
+and procedures applied 
+The emission factors from DEFRA are globally representative and reflect 
+a technology whose performance is not geography dependent. 
+ 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+Please note that DEFRA provides emission factors in kg CO2e/t km. 
+Equation 8 provides a conversion factor to convert kg CO2e/t km to 
+tCO2e/t km. 
+ 
+ 
+Data/Parameter 
+𝐷𝑚,𝑥,𝑦 
+Data unit 
+km 
+Description 
+Distance travelled by transport mode m for the collection of recovered 
+food flows from FLW source x to new destination during year y  
+Equations 
+Equation (7) 
+Source of data 
+Logistic logbook, trip records, or indirectly calculated from location data  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project proponents must estimate the distances between recovered food 
+points (i.e., FLW source) and project warehouse or processing facility 
+addresses (i.e., destination of recovered food). 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+- 
+Comments 
+- 
+ 
+ 
+ 
+VM0046, v1.0 
+38 
+ 
+Data/Parameter 
+𝑀𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝,𝑦 
+Data unit 
+t 
+Description 
+The mass of additional materials type p used in the project scenario in 
+year y 
+Equations 
+Equation (10) 
+Source of data 
+Direct measurements, inferred from surveys 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project proponents should directly measure the mass of additional 
+materials used in the project scenario. If it is not possible to directly 
+measure, projects may infer from surveys of a representative sample of 
+packaging materials. Justification must be provided to support any 
+estimates made. 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+- 
+Comments 
+Projects should minimize the amount of additional materials used in the 
+project scenario. If possible, projects should use materials with low 
+impact (e.g., recycled materials). 
+ 
+ 
+Data/Parameter 
+𝐸𝐹𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝 
+Data unit 
+tCO2e/t material type p 
+Description 
+Emission factor of additional material type p used by project activities to 
+recover food 
+Equations 
+Equation (10) 
+Source of data 
+US EPA, Documentation for GHG Emission and Energy Factors Used in 
+the Waste Reduction Model (WARM): Containers, Packaging, and Non-
+Durable Good Materials Chapters. November 2020. 
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project proponents must select the relevant emission factors based on 
+the type(s) of additional packaging used in the project scenario 
+Frequency of 
+monitoring/recording 
+Annual 
+ 
+VM0046, v1.0 
+39 
+ 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of project emissions 
+Calculation method 
+- 
+Comments 
+- 
+ 
+ 
+Data/Parameter 
+𝐿𝐹𝑖,𝑙 
+Data unit 
+Percent 
+Description 
+Leakage factor of food category i in the food supply stage l relevant to the 
+project 
+Equations 
+Equation (12) 
+Source of data 
+Default factors are provided in Table 4 and Table 5. 
+ 
+Table 4 provides default leakage factors according to food types and the 
+point in the supply chain at which the project activity is implemented. 
+These are based on average food loss statistics reported by the USDA 
+(values for 2019) and as proxies contain several assumptions.  
+ 
+Table 5 provides default leakage factors based on a recent study that 
+covers the former 28 countries of the EU (Caldeira et al., 2019; i.e., 
+including the United Kingdom). The leakage factors for the EU have 
+higher granularity than those presented for the US; estimated food waste 
+in Table 4 is reported for every stage of the food supply chain.  
+Description of 
+measurement methods 
+and procedures to be 
+applied 
+Project proponents must select the relevant default leakage factor based 
+on the food category and stage in the food supply chain. Projects must 
+select the most conservative default leakage factor. 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+- 
+Purpose of data 
+Calculation of leakage emissions 
+Calculation method 
+- 
+Comments 
+- 
+ 
+ 
+VM0046, v1.0 
+40 
+ 
+9.3 
+Description of the Monitoring Plan 
+Monitored parameters are collected and recorded at the sample unit scale, and emission 
+reductions are estimated independently for every sample unit. The main objective of monitoring is 
+to quantify recovered food flows, distribution distances, and transport modes during the project 
+crediting period, prior to each verification, and energy and material consumption related to food 
+processing where applicable.  
+Project proponents must detail the procedures for collecting and reporting all data and 
+parameters listed in Section 9. The monitoring plan must contain at least the following 
+information:  
+1) A description of each monitoring task to be undertaken, and the technical requirements 
+therein;  
+2) Definition of the accounting boundary, spatially delineating any differences in the 
+accounting boundaries and/or quantification approaches;  
+3) Parameters to be measured;  
+4) Data to be collected and data collection techniques and sample designs for directly 
+sampled parameters;  
+5) Modeling plan, if applicable;  
+6) Anticipated frequency of monitoring, including anticipated definition of “year” (i.e., fixing a 
+starting date);  
+7) Ten-year baseline re-evaluation plan, detailing source of regional (sub-national) data and 
+procedures to revise the baseline schedule of management activities where necessary;  
+8) Quality assurance and quality control (QA/QC) procedures to ensure accurate data 
+collection and screen for, and where necessary correct, anomalous values, ensure 
+completeness, perform independent checks on analysis results, and other safeguards as 
+appropriate;  
+9) Data archiving procedures, including procedures for any anticipated updates to electronic 
+file formats. All data collected as a part of monitoring processes, including QA/QC data, 
+must be archived electronically, and kept for at least two years after the end of the last 
+project crediting period; and  
+10) Roles, responsibilities and capacity of monitoring team and management.

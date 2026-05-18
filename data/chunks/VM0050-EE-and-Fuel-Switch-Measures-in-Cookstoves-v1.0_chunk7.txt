@@ -1,0 +1,122 @@
+6 BASELINE SCENARIO 
+The baseline scenario including the GHG sources must be defined according to the 
+technologies, practices, fuel types, and fuel consumption patterns that will be replaced by the 
+project devices in the defined target population.  
+6.1 
+Selection and Justification of the Baseline Scenario 
+Step 1: Identify alternative baseline scenarios 
+Define the alternative baseline scenarios according to the cookstove unit type, the type of 
+thermal energy service provided, the fuel type and source, and describe the GHG sources 
+involved.  
+The alternative baseline scenarios must include both existing and alternative cookstove 
+technologies that provide comparable outputs for cooking to the users of the target population. 
+The project activity without being registered as a project activity under a GHG program must be 
+included as an alternative. 
+Where the project activity replaces a mix of technologies, services, and/or fuel types, the 
+baseline alternative must be defined in a conservative way considering these variables. Where 
+multiple fuels are used in the baseline, the proportion of baseline fuel usage may be 
+established in terms of energy supplied by each of the identified fuels. 
+The baseline alternatives must be defined using the results of a baseline survey of the target 
+population and cross-checked with relevant and current information from credible literature 
+from the specific project region, official publications (e.g., surveys, studies), or official statistics 
+from government entities or other credible agencies. The baseline survey of the target 
+population must apply the procedures and practices described in Section 6.2. 
+Step 2: Consider existing and forthcoming government policies and legal requirements 
+Eliminate the baseline alternatives that are inconsistent with existing and forthcoming 
+mandatory legal or regulatory requirements. These may include minimum product efficiency 
+standards and air quality requirements.  
+Where the legal or regulatory requirements are systematically not enforced and non-compliance 
+is widespread in the applicable geographic region, include the alternative scenarios in the list 
+for further consideration. Demonstration of non-enforcement must be based on authoritative 
+and up-to-date information that is relevant and applicable to the alternative scenario. 
+ 
+VM0050, v1.0  
+ 
+13 
+Where the mandatory legal or regulatory requirements are enforced, eliminate the alternative 
+scenario from further consideration. 
+Step 3: Assess financial, institutional, and information barriers 
+Establish a complete list of realistic and credible barriers that may prevent alternative 
+scenarios from occurring. The barriers must be based on the actual context of the project 
+activity and alternatives and the applicable geographic area, reflecting practical challenges to 
+activity implementation. The applicable geographic region is: 
+a) the entire host country (default); or 
+b) defined as per the most recent version of VT0008 Additionality Tool. 
+Eliminate the baseline alternatives that face financial, institutional, or information barriers. 
+These barriers are further explained in Step 2a of VT0008. 
+The remaining baseline scenario(s) must be one, or a combination, of the following: 
+i) 
+Non-renewable biomass: The baseline scenario is the target population’s continued use 
+of inefficient cookstoves fired with non-renewable firewood or charcoal to meet similar 
+thermal energy outputs for cooking as the project devices. Project proponents may use 
+a combination of different non-renewable biomass types in the baseline. 
+ii) Fossil fuels: The baseline scenario is the target population’s continued use of 
+cookstoves fueled by solid or liquid fossil fuels (e.g., coal, kerosene) to meet similar 
+thermal energy outputs for cooking as the project devices.  
+Cookstoves that have a fuel other than non-renewable biomass or solid or liquid fossil fuels 
+(e.g., electricity, solar thermal, renewable biomass, LPG) in the baseline scenario must be 
+excluded from the project activity. 
+6.2 
+Baseline Scenario Survey Requirements 
+The objective of the baseline survey is to collect critical information related to existing baseline 
+technologies, services, fuel types, and fuel sources in the target population. The survey must be 
+designed, carried out, and analyzed in line with the most recent version of the CDM Standard 
+for Sampling and Surveys for CDM Project Activities and Programmes of Activities. 
+The survey results must define the following for each target population: 
+1) Baseline fuel type(s) and the percentage of their use by the target population; 
+2) Source(s) of each baseline fuel (i.e., collected, purchased, or procured through other 
+means); 
+3) Baseline technologies for cooking and the percentage of their use by the target 
+population; and 
+4) Average household size (Hhi). 
+ 
+VM0050, v1.0  
+ 
+14 
+The survey results must be validated against relevant and current information from credible 
+literature, official publications (e.g., independent surveys, studies), or official statistics from 
+government entities or other credible agencies.  
+Where survey results for any of the above criteria (i.e., baseline fuel types, fuel sources, cooking 
+technologies, or average household size) deviate significantly from official statistics or credible 
+literature and may lead to a non-conservative baseline, project proponents must: 
+1) provide additional justification and rationale to explain the deviation, including specific 
+evidence demonstrating why the official literature or statistics are not representative of 
+the target population; or 
+2) use the values from the literature, official publications, or official statistics for the target 
+population. 
+The initial baseline survey must be performed prior to validation. The project proponent may 
+employ local third-party agencies to carry out the baseline survey. Follow-up baseline surveys 
+must be conducted every two years in control households that do not participate in the project. 
+These control households must be established prior to validation and must be shown to be 
+statistically equivalent to the pre-project conditions of project households regarding baseline 
+fuel type(s) and percentage of use by the target population, source(s) of each baseline fuel, and 
+baseline technologies for cooking. For existing projects updating to VM0050, control 
+households must be established before the first verification under VM0050. 
+A binding questionnaire is presented in Appendix 3. The project proponent may adopt a 
+different format but must include these questions as a minimum. 
+Survey and data collection methods: The baseline survey performed prior to validation and prior 
+to crediting period renewal must be conducted as physical on-site visits (face-to-face), whereas 
+follow-up baseline surveys during the crediting period may be conducted either as physical on-
+site visits (face-to-face) or through remote surveys via phone call or virtual meeting.  
+Timing: The baseline survey must be scheduled to avoid major festivals, holidays, and similar 
+events that could impact the outcomes. It must be scheduled in a way that ensures that the 
+results are conservative, given seasonal variability. 
+Sample size calculations: The surveys must be conducted for each target population. Where 
+project devices are distributed within regions or target populations with heterogenous 
+conditions (e.g., regional variations in fuel types or cooking practices), the target population 
+must be divided into clusters/groups with homogeneous conditions. 
+The minimum sample size must be determined with respect to use of baseline fuel types and 
+baseline technologies, and household size. 
+The following key factors must be considered when determining the minimum sample size: 
+ 
+VM0050, v1.0  
+ 
+15 
+a) Calculations may be completed manually or with appropriate statistical software. 
+b) The confidence level and precision must be at least 90/10. 
+c) The target value must be identified (i.e., the expected value of the parameter). 
+Where a survey covers two or more project activity instances, and the population is 
+homogeneous, simple random sampling must be used. Where the population consists of 
+varying sub-populations (i.e., is not homogenous), stratified random sampling must be used. 
+Survey reporting: The data collection method and the protocol for producing the final dataset 
+and results must be documented in the project description and monitoring reports.

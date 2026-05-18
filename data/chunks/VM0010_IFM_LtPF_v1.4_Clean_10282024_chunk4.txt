@@ -1,0 +1,108 @@
+3 DEFINITIONS 
+In addition to the definitions set out in the VCS document Program Definitions, the definitions 
+below apply to this methodology. 
+Commercial Timber Harvest 
+Felling (i.e., removal), transporting and processing of merchantable trees from a forest to 
+obtain income from wood products.  
+Merchantable biomass 
+Is the biomass of trees, crops, or forest stands having the size, quality and condition suitable 
+for marketing under a given economic condition, even if not immediately accessible for 
+logging1. 
+ 
+Diameter at Breast Height (DBH) 
+Diameter of the stem/bole outside bark of a tree at 1.3 meters or 4.5 feet. 
+ 
+ 
+ 
+1 Definition extracted from the SAF’s Dictionary of Forestry (2018). 
+  
+ 
+VM0010, v1.4 
+7 
+Forestry Infrastructure 
+Physical infrastructure needed to carry out forestry operations, including (but not restricted to) 
+roads, skid trails and log landings in the project area. 
+Forest Inventory 
+A system for measuring the extent, quantity and condition of a forest by sampling through: 
+• 
+A set of objective sampling methods designed to quantify the spatial distribution, 
+composition and rates of change of forest parameters within specified levels of 
+precision for the purpose of management; and 
+• 
+Listing of data from such survey. 
+Land Parcel 
+The area of land within a forest specified/allocated for annual logging and timber harvesting 
+operations as defined in a timber harvest plan.  
+Logging Slash 
+A component of the deadwood pool, representing the downed or lying woody debris left in the 
+forest (on-site) generated during a timber harvest event. 
+Planned Timber Harvest 
+Planned removal of merchantable trees from a forest to obtain income from the wood 
+products under legal conditions for harvest and documented under a timber harvest plan. 
+Planted Forest 
+A forest that at maturity is predominantly composed of trees established through planting 
+and/or deliberate seeding. Planted forests include but is not limited to plantation forests2. 
+Plantation forests  
+Intensively managed planted forests that at maturity is composed of one or two species, has 
+one age class, and has regular tree spacing, Plantation forests are a subset of planted 
+forests. 
+ 
+Selective logging  
+A timber harvesting technique that involves removing only selected trees based on specific 
+characteristics (e.g., diameter, height, species, market value) Unlike clear-cutting, where all 
+trees are removed, selective logging means most trees remain in the forest stand with the 
+objective of maintaining an uneven-aged structure3  
+Timber Harvest Plan 
+Description of the methods and operations needed to harvest timber from a forest under a 
+given set of legal conditions for harvest that includes: 
+ 
+2 Adapted from FAO (2023) Global Forest Resources assessment (FRA) Terms and Definitions.  
+3 Usually applied in tropical managed forests, selective logging intensity varies depending on species abundance, 
+distribution and region. Intensity can range between 1-20 trees harvested per hectare over a minimum cutting diameter, 
+with average rotation of 25-50 years (Burivalova et al. 2014 Current Biology 24 (16):1893-1898). 
+  
+ 
+VM0010, v1.4 
+8 
+• 
+Demarcation of non-harvest areas within the forest. 
+• 
+Division of the harvestable forest into annual operating areas (land parcels or 
+compartments) presented with descriptions and maps. 
+• 
+Design and presentation of the transport system for the removal of harvested timber 
+products, and a description of the harvest and transport machinery used for timber 
+harvest. 
+3.1 
+Symbols and Notations 
+3.1.1 Physical quantities 
+This section presents the symbols that are used throughout the methodology to represent 
+physical quantities used in the accounting equations. 
+Flows of greenhouse gas(es) 
+The symbol GHG is the common identifier used throughout this methodology to represent flows 
+of greenhouse gas(es) to/from the atmosphere. 
+For these flows, the absolute value represents the magnitude of the flow, in tCO2e year-1, or the 
+total amounts exchanged with the atmosphere, in tCO2e. 
+Carbon stocks 
+The symbol C is the common identifier used throughout this methodology to represent carbon 
+stocks. The values presented are either carbon stocks (in tC), or carbon stocks per unit area (in 
+tC·ha-1) as indicated in the methodology described under Section 8. 
+Carbon stock changes 
+The symbol ∆C is the common identifier used throughout this methodology to represent 
+changes in carbon stocks. The values presented could be either total changes in carbon stocks 
+(in tC), annual changes in carbon stocks (in tC·year-1), or annual changes in carbon stocks per 
+unit area (in tC·ha-1·year-1), as indicated in the methodology described under Section 8. 
+3.1.2 Scenario qualifiers 
+This section presents the symbols that are used throughout the methodology as scenario 
+qualifiers, for the physical quantities used in the accounting equations as follows: 
+• 
+Physical quantities referring to the baseline scenario feature the suffix (BSL). 
+• 
+Physical quantities referring to the project scenario feature the suffix (PRJ). 
+• 
+Physical quantities derived from baseline and project scenario accounting feature the 
+suffix (LtPF). 
+  
+ 
+VM0010, v1.4 
+9

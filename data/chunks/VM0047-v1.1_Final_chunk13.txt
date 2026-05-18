@@ -1,0 +1,24 @@
+81 
+DOCUMENT HISTORY 
+Version 
+Date 
+Changes 
+v1.0 
+28 Sep 2023 
+Initial version released 
+v1.1 
+14 May 2025 
+• Clarification of eligibility for area-based projects with existing forest cover 
+• Updated requirements for planting density, spacing, accounting and ID for 
+census-based projects 
+• Updated methodology definitions 
+• Revised requirements for pre-existing woody biomass removal  
+• Clarified for soil disturbance accounting requirements 
+• Clarified exclusions of projects involving timber harvest or ecosystem 
+degradation. 
+• Inclusion of use of remote sensing for establishing pre-existing biomass 
+estimates. 
+• Updates to uncertainty, ex-ante, and carbon pool quantification procedures 
+• Clarifications and corrections to performance benchmark design, sampling, 
+and equation 
+• General edits for clarity, consistency, and improved readability

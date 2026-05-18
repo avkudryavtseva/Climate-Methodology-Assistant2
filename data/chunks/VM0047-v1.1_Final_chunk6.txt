@@ -1,0 +1,210 @@
+5 PROJECT BOUNDARY 
+Where area-based and census-based approaches are used in the same project, project 
+proponents must ensure that accounting boundaries do not overlap.  
+ 
+8 Section 3.19.29(2) in the VCS Standard, v4.7 stipulates: “Where the ecosystem was degraded within 10 years of the 
+project start date of any ARR, ALM, WRC, or ACoGS activity, evidence shall be provided that the ecosystem was not 
+degraded due to the project activity (e.g., that the degradation occurred in the pre-project land use due to natural disasters 
+such as hurricanes or floods).”  
+ 
+VM0047, v1.1 
+13 
+Project proponents must refer to both Tables 1 and 2 below for selected carbon pools in the 
+project boundary in baseline and project scenarios when combining the area-based and census-
+based approaches. Appendix 2 of this methodology must be applied to test the significance of 
+carbon pools and greenhouse gas (GHG) emission sources to determine whether they may be 
+deemed de minimis. 
+5.1 
+Area-based Approach Carbon Pools 
+The accounting boundary for the area-based approach encompasses all lands subject to 
+implementation of the ARR project activity. Requirements regarding delineation of the project 
+boundary and estimation of the project area (A) are provided in Section 9.1.  
+Selected carbon pools included in the project boundary for the area-based baseline and project 
+scenarios are listed in Table 1. 
+Table 1. Selected carbon pools in the project boundary using the area-based approach 
+Carbon Pool 
+Included? 
+Justification/Explanation 
+Aboveground woody 
+biomass  
+Yes 
+Major carbon pool 
+Aboveground non-
+woody biomass 
+Yes/Optional 
+Must be included where the project activity significantly 
+reduces the carbon pool as per Appendix 2. 
+Otherwise, this carbon pool is optional. 
+Belowground woody 
+biomass  
+Yes 
+Major carbon pool 
+Belowground non-
+woody biomass 
+Yes/Optional 
+Must be included where the project activity significantly 
+reduces the carbon pool as per Appendix 2. 
+Otherwise, this carbon pool is optional. 
+Dead wood 
+Yes/Optional 
+Must be included where the project activity involves 
+removal of dead wood as part of site preparation, or 
+where the project activity significantly reduces the 
+carbon pool as per Appendix 2.  
+Otherwise, this carbon pool is optional. 
+Litter 
+Yes/Optional 
+Must be included where the project activity significantly 
+reduces the carbon pool as per Appendix 2.  
+Otherwise, this carbon pool is optional. 
+Soil organic carbon 
+(SOC) 
+Yes/Optional 
+Must be included where soil disturbance from the 
+project activity (i.e., from site preparation): 
+ 
+VM0047, v1.1 
+14 
+Carbon Pool 
+Included? 
+Justification/Explanation 
+1) occurs more than once during the project 
+crediting period. 
+2) occurs and the project activity involves 
+harvesting. 
+3) involves soil inversion to a depth exceeding 25 
+cm (e.g., that would result from a moldboard 
+plow). 
+Where the project activity does not cause soil 
+disturbance, inclusion of this carbon pool is optional.  
+Harvested wood 
+products 
+Excluded 
+Conservative to exclude 
+5.2 
+Census-based Approach Carbon Pools 
+In the census-based approach, each planting unit has a 10-meter radius buffer. Together, these 
+buffers define the accounting boundary of a project activity instance. Buffers may overlap within 
+the same instance but must not overlap with the boundary of another census- or area-based 
+instance. This separation between instances prevents double counting.  
+Selected carbon pools included in the project boundary for the census-based baseline and 
+project scenarios are listed in Table 2. 
+Table 2. Selected carbon pools in the project boundary using the census-based 
+approach 
+Carbon Pool 
+Included? 
+Justification/Explanation 
+Aboveground woody 
+biomass  
+Yes 
+Major carbon pool 
+Aboveground non-
+woody biomass 
+Excluded 
+Conservative to exclude  
+Belowground woody 
+biomass  
+Yes 
+Major carbon pool 
+Belowground non-
+woody biomass 
+Excluded 
+Conservative to exclude  
+Dead wood 
+Excluded 
+Conservative to exclude 
+Litter 
+Excluded 
+Conservative to exclude  
+Soil organic carbon 
+(SOC) 
+Excluded 
+Conservative to exclude  
+ 
+VM0047, v1.1 
+15 
+Carbon Pool 
+Included? 
+Justification/Explanation 
+Harvested wood 
+products 
+Excluded 
+Conservative to exclude 
+5.3 
+GHG Sources 
+The greenhouse gases included in or excluded from the project boundary are shown in Table 3. 
+Table 3. GHG sources included in or excluded from the project boundary under both 
+area- and census-based approaches 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Burning of biomass 
+(natural or 
+anthropogenic causes) 
+CO2 
+No 
+Conservative to exclude  
+CH4 
+No 
+Conservative to exclude  
+N2O 
+No 
+Conservative to exclude  
+Emissions from 
+nitrogen fertilizer 
+CO2 
+No 
+Conservative to exclude  
+CH4 
+No 
+Conservative to exclude  
+N2O 
+No 
+Conservative to exclude  
+Burning of fossil fuels 
+CO2 
+No 
+Conservative to exclude  
+CH4 
+No 
+Conservative to exclude  
+N2O 
+No 
+Conservative to exclude  
+Project 
+Burning of biomass 
+(natural or 
+anthropogenic causes) 
+CO2 
+No 
+Carbon stock decreases due to burning are 
+accounted as a carbon stock change.  
+CH4 
+Yes 
+May be a significant source. 
+N2O 
+Yes 
+May be a significant source. 
+Emissions from 
+nitrogen fertilizer 
+CO2 
+No 
+Conservative to exclude  
+CH4 
+No 
+Conservative to exclude  
+N2O 
+Yes 
+May be a significant source. 
+Burning of fossil fuels 
+CO2 
+No 
+De minimis 
+CH4 
+No 
+De minimis 
+N2O 
+No 
+De minimis

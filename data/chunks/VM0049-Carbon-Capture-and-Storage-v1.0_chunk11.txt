@@ -1,0 +1,127 @@
+10 REFERENCES 
+Allwood, J. M., Bosetti, N. K., Dubash, L., Gómez-Echeverri, L., & von Stechow, C. (2014). 
+Glossary. In O. Edenhofer, R. Pichs-Madruga, Y. Sokona, E. Farahani, S. Kadner, K. Seyboth, A. 
+Adler, I. Baum, S. Brunner, P. Eickemeier, B. Kriemann, J. Savolainen, S. Schlömer, C. von 
+Stechow, T. Zwickel, & J. C. Minx (Eds.). Climate change 2014: Mitigation of climate change. 
+Contribution of Working Group III to the Fifth Assessment Report of the Intergovernmental 
+Panel on Climate Change. Cambridge University Press. Available at: 
+https://www.ipcc.ch/site/assets/uploads/2018/02/ipcc_wg3_ar5_annex-i.pdf 
+American Carbon Registry (2021). Methodology for the quantification, monitoring, reporting 
+and verification of greenhouse gas emissions reductions and removals from carbon capture 
+and storage projects, v1.1. ACR at Winrock International. Available at: 
+https://acrcarbon.org/wp-content/uploads/2023/03/ACR-CCS-v1.1.pdf  
+Clean Development Mechanism (2022). Glossary: CDM terms. Available at: 
+https://cdm.unfccc.int/Reference/Guidclarif/glos_CDM.pdf 
+European Parliament (2009). Directive 2009/31/EC of the European Parliament and of the 
+Council of 23 April 2009 on the geological storage of carbon dioxide and amending Council 
+Directive 85/337/EEC, European Parliament and Council Directives 2000/60/EC, 
+2001/80/EC, 2004/35/EC, 2006/12/EC, 2008/1/EC and Regulation (EC) No 1013/2006 (1). 
+Official Journal of the European Union 2009, L140/114–L140/135. Available at: 
+http://data.europa.eu/eli/dir/2009/31/oj 
+European Commission (2022). Impact assessment report Part 1/2 and Part 2/2. 
+Accompanying documents to Proposal for a regulation of the European Parliament and of the 
+Council establishing a Union certification framework for carbon removals. European 
+Commission Staff Working Document. European Commission.  
+Forbes, S. M., Verma, P., Curry, T. E., Friedmann, S. J., & Wade, S. M. (2008). Guidelines for 
+carbon dioxide capture, transport, and storage. World Resources Institute. Available at: 
+https://files.wri.org/d8/s3fs-public/pdf/ccs_guidelines.pdf 
+Global CCS Institute (2020). Global status of CCS 2020. The Global CCS Institute. Available at: 
+https://www.globalccsinstitute.com/wp-content/uploads/2021/03/Global-Status-of-CCS-
+Report-English.pdf 
+IEA (2021). Global energy review 2021. International Energy Agency. Available at: 
+https://www.iea.org/reports/global-energy-review-2021 
+IETA (2022). High-level criteria for crediting carbon geostorage activities, v1.0. PowerPoint 
+Presentation. IETA. Available at: https://ieta.b-cdn.net/wp-
+content/uploads/2023/09/IETA_HighLevelCriteriaforCreditingGeostorageActivities.pdf 
+ 
+VM0049, v1.0 
+ 
+30 
+International Organization for Standardization (2017). ISO/TR27915:2017 Carbon dioxide 
+capture, transportation and geological storage — Quantification and verification. International 
+Organization for Standardization. 
+IPCC (2005). IPCC special report on carbon dioxide capture and storage. Prepared by Working 
+Group III of the Intergovernmental Panel on Climate Change [Metz, B., Davidson, O., de Coninck, 
+H. C., Loos, M., & Meyer, L. A. (Eds.).]. Cambridge University Press. Available at: 
+https://www.ipcc.ch/site/assets/uploads/2018/03/srccs_wholereport-1.pdf  
+McCormick, M. (2012). A greenhouse gas accounting framework for carbon capture and 
+storage projects. Center for Climate and Energy Solutions. Available at: 
+https://www.c2es.org/wp-content/uploads/2012/02/CCS-framework.pdf 
+Span, R., & Wagner, W. (1996). A new equation of state for carbon dioxide covering the fluid 
+region from the triple-point temperature to 1100 K at pressures up to 800 Mpa. Journal of 
+Physical and Chemical Reference Data, 25, 1509–1596. https://doi.org/10.1063/1.555991 
+US Energy Information Administration (EIA). (n.d.). Glossary. US EIA. Available at: 
+https://www.eia.gov/tools/glossary/ 
+US Environmental Protection Agency (EPA) (2010). General technical support document for 
+injection and geologic sequestration of carbon dioxide: Subparts RR and UU greenhouse gas 
+reporting program. Office of Air and Radiation. Available at: 
+https://nepis.epa.gov/Exe/ZyPURL.cgi?Dockey=P1010C7P.txt 
+US Environmental Protection Agency (EPA). (n.d.). EPA enterprise vocabulary. US EPA. Available 
+at: 
+https://sor.epa.gov/sor_internet/registry/termreg/searchandretrieve/enterprisevocabulary/se
+arch.do 
+World Business Council for Sustainable Development (WBCSD), & World Resources Institute 
+(WRI) (2005). The GHG protocol for project accounting. Available at: 
+https://ghgprotocol.org/sites/default/files/standards/ghg_project_accounting.pdf 
+Zider, B. (1998). How venture capital works. Harvard Business Review, 76(6), 131–139.  
+ 
+ 
+ 
+VM0049, v1.0 
+ 
+31 
+APPENDIX 1: BACKGROUND 
+INFORMATION 
+A1.1 Justification for the Use of the Project Method to Demonstrate 
+Additionality 
+The selection of the project method for assessing additionality is based on the following considerations 
+pertinent to CCS projects: 
+• 
+Complex regulatory and operational environments: CCS projects are subject to a diverse array of 
+legal, technological, and market conditions that vary significantly across jurisdictions. The 
+project method allows for an in-depth and conservative examination of these factors on a 
+project-by-project basis, ensuring that assessments of regulatory surplus and specific 
+implementation barriers are accurately discussed. 
+• 
+Investment barriers: Given the high capital requirements, technological uncertainties, and 
+potential for variable financial returns associated with CCS projects, demonstrating investment 
+barriers is a central component of establishing additionality. The project method effectively 
+addresses this by incorporating detailed investment analysis tools, enabling a nuanced 
+evaluation of the financial viability and specific economic challenges faced by CCS projects.  
+• 
+Technology-specific considerations: The range of technologies involved in CCS, each with a 
+different level of maturity and implementation challenges, necessitates a method that can 
+accommodate such variability. The project method allows for the consideration of technology-
+specific factors, including performance, integration complexity, and scalability, which are vital for 
+assessing the additionality of CCS projects. 
+• 
+Sectoral and geographic variability: CCS encompasses a broad spectrum of activities across 
+various sectors and regions, each with distinct attributes and challenges. The flexibility of the 
+project method in evaluating additionality for different capture activities, sectors, and 
+geographic contexts ensures that the unique aspects of various CCS applications are adequately 
+considered. 
+• 
+Dynamic market conditions: The evolving nature of policies, technologies, and market dynamics 
+impacting the CCS sector requires an additionality assessment approach that can adapt to 
+changing conditions. The project method provides a structured, flexible framework that 
+facilitates incorporation of the most recent and relevant data, reflecting the dynamic 
+environment in which CCS projects operate. 
+ 
+VM0049, v1.0 
+ 
+32 
+A1.2 Materiality Threshold 
+The materiality threshold determines which leakage emissions are material and are either included in 
+the GHG quantification or excluded. A leakage source has been included in the quantification where it 
+is estimated to equal more than 2% of the net project reductions and removals over the anticipated 
+typical project lifetime. Total excluded leakage emissions must not exceed this 2% threshold in total. 
+The following leakage sources are excluded. 
+1) Production and transport of equipment and materials used for construction of project facilities; 
+2) Research and development activities; 
+3) Staff commuting; and 
+4) Direct and indirect land use change due to construction and operation of project facilities and 
+equipment. 
+ 
+ 
+ 
+VM0049, v1.0

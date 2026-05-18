@@ -1,0 +1,353 @@
+4 APPLICABILITY CONDITIONS 
+The project activity must install and operate a new (greenfield) biochar production facility(ies) 
+where the project proponent must 1) source waste biomass, 2) produce biochar and 3) ensure 
+the biochar is utilized in soil or non-soil application. GHG benefits are credited only for the 
+biochar that is utilized in the eligible soil and non-soil applications.  
+ 
+ 
+6 Charcoal use is excluded. The rationale for the 50 percent requirement is to avoid erasing the sequestration benefits 
+of biochar during upgrading the material to other non-soil uses. 
+ 
+VM0044, v1.2 
+ 
+9 
+Further, the project activities must meet the following conditions. 
+Technological scope  
+1) The methodology is applicable when biochar is produced from eligible waste biomass 
+through a thermochemical process such as pyrolysis, gasification, and biomass boilers7 
+and the biochar is subsequently applied to an end-use (soil or non-soil applications). 
+Torrefaction and hydrothermal carbonization as processes of biochar production are 
+excluded8 from this methodology.  
+2) The methodology is applicable to projects using either low or high technology production 
+facilities to produce biochar, as per the definitions of each provided in Section 3 of this 
+methodology.  
+3) The biochar producers must have a health and safety program to protect workers from 
+airborne pollutants and other hazards.  
+Eligible feedstocks and production 
+4) The feedstock used to produce biochar must meet all following conditions to be eligible: 
+a) Feedstock must be purely biogenic waste biomass and not purpose-grown, 
+b) Feedstock must have been otherwise left to decay or combusted for purposes 
+other than energy production. Additional guidance on how to demonstrate fate of 
+waste biomass in the absence of the project activity is provided in Appendix 2, 
+c) Feedstock must not have been imported from other countries9, and 
+d) Feedstock must meet the sustainability conditions provided in Table 1. This table 
+is not an exhaustive list of waste biomass examples.  
+ 
+Table 1 describes the categories of feedstock sourcing, the sustainability criteria that must be 
+met for each feedstock source, and a non-exhaustive list of examples of feedstocks eligible 
+under this methodology.      
+Table 1. List of eligible feedstocks for biochar production 
+Feedstock Sourcing 
+Categories 
+Sustainability Criteria 
+Waste Biomass Examples 
+(Not Exhaustive) 
+Agricultural waste 
+biomass 
+a) 
+Where project proponents are using 
+agricultural waste biomass directly 
+from fields and not from a 
+a) 
+Tree, vine, and shrub 
+pruning 
+ 
+7 For the purpose of this methodology, the terms pyrolysis, gasification, and biomass boilers are used interchangeably. 
+8 Both processes are excluded because they do not generate solid products that are significantly more persistent in soil 
+than the original feedstock (Woolf et al., 2021). 
+9 The methodology discourages transportation of waste biomass over long distances, especially among countries and 
+between continents.  
+ 
+VM0044, v1.2 
+ 
+10 
+centralized biomass-processing 
+operation (e.g., food processing 
+facilities), project proponents must 
+provide documentation that the 
+project activity is not leading to a 
+decline in soil carbon stocks or a 
+reduction in crop productivity, or 
+that in the baseline agriculture 
+waste biomass was burned without 
+energy production (e.g., open 
+burning of stubble).  
+b) 
+In the absence of documentation, 
+feedstock removal is limited to no 
+more than 50 percent of total 
+residues to protect against soil 
+degradation (Andrew, 2006; 
+Battaglia et al., 2020).  
+b) 
+Harvest residues such 
+as straw, leaves, stalks, 
+husk, pomace, kernels 
+c) 
+Fruit and vegetable 
+residues 
+Food processing 
+residues  
+a) 
+Residues must be from food 
+processing facilities.  
+b) 
+Production of residues per output of 
+the facility must not have increased 
+to be used specifically for the 
+purpose of production of biochar.  
+a) 
+Material from washing, 
+cleaning, peeling, 
+centrifugation, and 
+separation processes 
+b) 
+Expired food residues 
+c) 
+Residues from 
+processing in the food 
+industry (e.g., coffee, 
+tea, cocoa, tobacco) 
+Forestry and other 
+wood processing 
+a) 
+Wood-based feedstock sources 
+coming from forest (as opposed to 
+by-products of mill processing) must 
+prove that biomass comes from 
+sustainable sources and does not 
+lead to deforestation or degradation. 
+Examples of proof of sustainable 
+use include sustainable 
+management plans approved by a 
+relevant state or regional authority, 
+forestry certification such as the 
+Programme for the Endorsement of 
+Forest Certification (PEFC) or Forest 
+Stewardship Council (FSC), or 
+meeting the requirements of 
+a) 
+Off-cuts, sawdust, and 
+other material 
+produced as a by-
+product of forest 
+management or 
+harvesting operations 
+b) 
+Any by-product from 
+forest-based industries 
+such as wood pallets 
+and wood waste11 
+c) 
+Thinnings generated 
+from forest wildfire fuel 
+reduction activities or 
+areas designated by 
+state, provincial, or 
+federal authorities as 
+ 
+11 More details on biomass waste products can be found in Tripathi, N., Hills, C. D., Singh, R. S., & Atkinson, C J. (2019). 
+Biomass waste utilization in low-carbon products: Harnessing a major potential resource. npj Climate and Atmospheric 
+Science, 2, 35. https://doi.org/10.1038/s41612-019-0093-5 
+ 
+VM0044, v1.2 
+ 
+11 
+renewable biomass as defined by 
+the CDM (EB23 Annex 18).10  
+b) 
+When processed timber is used as 
+feedstock for soil applications, it 
+must not, for health and safety 
+reasons, contain any paint residues, 
+solvents or other contaminants 
+including any potentially toxic 
+impurities (EBC, 2022; Hedley et al., 
+2020). 
+overstocked 
+d) 
+Material from pruning 
+or thinning of woody 
+vegetation (not 
+including merchantable 
+timber) such as shade 
+trees, orchards, 
+windbreaks, stream 
+buffers, silvopasture, or 
+invasive removal on 
+rangeland 
+e) 
+Diseased trees felled 
+during plantation or 
+woodland management 
+f) 
+Burned woody biomass 
+g) 
+Wastepaper and 
+cardboards 
+Recycling economy 
+a) 
+Feedstocks must comply with 
+relevant thresholds for heavy metals 
+and other contaminants as outlined 
+in the latest version of the material 
+standards or guidelines relevant for 
+the project context (i.e., IBI Biochar 
+Testing Guidelines or EBC 
+Production Guidelines). The biomass 
+is the non-fossil fraction of industrial 
+or municipal waste (CDM EB23 
+Annex 18). 
+a) 
+Urban/rural green 
+cuttings, non-
+hazardous municipal 
+green waste 
+b) 
+Biosolids from 
+wastewater treatment 
+c) 
+Paper mill sludge 
+Aquaculture plants 
+a) 
+Waste must be by-products of 
+aquaculture. 
+b) 
+Project proponents must be 
+demonstrated that waste invasive 
+species such as water hyacinth 
+(Eichhornia crassipes) were not 
+purposely introduced in order to 
+qualify as feedstock for biochar 
+production. 
+a) 
+Seaweed, algae waste 
+products, aquatic 
+invasive species 
+(Plantae kingdom only) 
+Animal manure 
+a) 
+Waste must be by-products of 
+animal husbandry 
+a) 
+Waste from swine, 
+cattle, horse, and 
+poultry farms 
+ 
+10 Available at https://cdm.unfccc.int/EB/023/eb23_repan18.pdf  
+ 
+VM0044, v1.2 
+ 
+12 
+High-carbon fly ash 
+from biomass 
+a) 
+HCFA must be no more than 5 
+percent of the annual waste 
+biomass throughput from the 
+bioenergy facility. 
+b) 
+Project proponents must also 
+provide information that an 
+“affirmative” technology12 was used 
+to extract biochar prior to complete 
+combustion of the waste biomass 
+stream.  
+c) 
+Project proponents must further 
+demonstrate that the biomass 
+facilities did not use fossil fuel 
+sources to replace the loss of 
+biomass caloric value when material 
+was diverted to the biochar project. 
+d) 
+The final material meets the IBI 
+Biochar Testing Guidelines13. 
+a) 
+By-products of 
+cogeneration facilities 
+5) Biochar made from a single or mixed eligible feedstock must comply with the latest 
+version of the IBI Biochar Testing Guidelines or the EBC Production Guidelines.  
+6) The waste biomass used as feedstock to produce biochar and the resulting biochar to 
+be utilized in soil or non-soil applications may be transported via ships, boats, and 
+vehicles other than road transportation up to a distance of 200 km. However, it must 
+only be transported by vehicles (i.e., road transportation) for distances more than 200 
+km as defined under CDM TOOL12: Project and leakage emissions from transportation 
+of freight.  
+7) Mineral additives such as lime, rock minerals, and ash may comprise up to 10 percent 
+of the mass when added. If the addition exceeds 10 percent on a dry weight basis, the 
+biochar producer must present laboratory tests indicating that the final product meets 
+IBI Biochar Testing Guidelines or EBC Production Guidelines thresholds for organic and 
+inorganic contaminants. 
+8) Other evidence that may be used to demonstrate compliance with waste biomass 
+sustainability criterion are biomass certification schemes such as the Roundtable on 
+Sustainable Biomaterials (RSB), International Sustainability and Carbon Certification 
+(ISCC) or any other certification scheme approved and/or endorsed by a relevant 
+ 
+12 Affirmative technologies refer to diversion of “re-injection” HCFA that is removed from the combustion stream (for 
+biochar harvesting purposes) instead of allowing complete combustion of the biomass feedstocks during a second pass 
+through the boiler. 
+13 Section 5.8 of the IBI Biochar Standard v2.1. Available at https://biochar-international.org/wp-
+content/uploads/2020/06/IBI_Biochar_Standards_V2.1_Final2.pdf  
+ 
+VM0044, v1.2 
+ 
+13 
+legislative body or international body such as the European Union,14 CORSIA,15 and 
+national/state governments. 
+Eligible biochar end-use application criteria 
+9) Biochar is eligible to be utilized and accounted for under the methodology if it is being 
+utilized within one year of its production. Biochar is subject to natural decay and the 
+permanence of biochar is calculated for a period of 100 years. To adhere to the decay 
+factor established for 100 years and prevent any decay before application, biochar must 
+be utilized in soil or non-soil applications within the first year of its production. 
+10) Biochar is eligible to be used as a soil amendment on land other than wetlands. Eligible 
+land types include cropland, grassland, vegetated urban soils, and forest. Biochar is 
+eligible to be applied either to the soil surface or subsurface. For surface application, 
+the biochar must be mixed with other substrates such as compost, manure or digestate 
+from anaerobic digestion. For subsurface application, the biochar may be applied either 
+as a unique soil amendment or mixed with other substrates. For any soil application, 
+the biochar must: 
+a) comply with biochar material standards to avoid the risk of transferring unwanted 
+heavy metals and organic contaminants to soil. Project proponents must meet 
+the IBI Biochar Testing Guidelines or EBC Production Guidelines,16 or relevant 
+national regulations for avoiding soil contamination. 
+b) have a hydrogen to organic carbon molar ratio (H:Corg) of less than or equal to 0.7. 
+11) Biochar is eligible to be used in non-soil applications including but not limited to 
+cement, asphalt, and any other applications where long-term storage of the biochar is 
+possible. Only biochar produced in high technology production facilities, as defined 
+under the methodology, is eligible to be used in non-soil applications. 
+12) Project proponents must demonstrate that biochar and/or final products are long-lived 
+via credible evidence such as laboratory results, peer reviewed research papers or any 
+other third party-evaluated product assessment, such as decay rate analysis, as 
+applicable. The information provided must include the lifetime of the product in which 
+biochar is stored long term. The resultant product must be compliant with 
+ 
+14 Annex IX Directive (EU) 2018/2001 of the European Parliament and of the European Council of 11 December 2018 
+on the promotion of the use of energy from renewable sources. In particular, Annex IV sets out the minimum 
+requirements for certifying waste and residues, grouped in the following categories (Annex IX): food-feed processing 
+residues and waste; agricultural/forestry residues and waste; landscape care biomass; animal residues and waste; 
+wastewater and derivatives; fats, oil and greases; others. 
+15 The International Civil Aviation Organization (ICAO) under its Carbon Offsetting and Reduction Scheme for 
+International Aviation (CORSIA) approves certification schemes for eligible biofuels produced from eligible biomass, to 
+be used in international aviation as part of emissions reduction targets of the international aviation industry. Waste 
+biomass may be certified using the schemes approved by CORSIA.  
+16 Available at https://www.european-biochar.org/media/doc/2/version_en_9_4.pdf 
+ 
+VM0044, v1.2 
+ 
+14 
+national/international product quality standards/specifications as applicable (e.g., the 
+American Concrete Institute Standards in the US). 
+This methodology is not applicable under the following conditions: 
+13) The methodology must not be applied if biochar is used for energy purposes, burned as 
+a fuel (e.g., as a substitute for charcoal or coke) or used in other soil or non-soil 
+applications where biochar cannot be demonstrated to be a long-lived and persistent 
+carbon sink.  
+14) Biochar must not be used in applications in which substantial amounts of the biochar 
+are oxidized (e.g., burned or used as a reduction agent in steel production, processed 
+into activated carbon, or other uses that are fossil fuel-intensive). 
+15) Non-soil applications are ineligible under the methodology if there is a loss of more 
+than 50 percent of the carbon measured by dry weight basis (e.g., some activated 
+carbon, due to excessive fossil fuel input, results in a loss of more than 50 percent of 
+the original biochar carbon material and therefore would not be eligible).

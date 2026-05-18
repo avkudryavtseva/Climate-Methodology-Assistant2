@@ -1,0 +1,379 @@
+8 QUANTIFICATION OF REDUCTIONS 
+AND REMOVALS 
+8.1 
+Baseline Emissions 
+Baseline emissions are calculated as follows: 
+ 
+𝐵𝐸𝑦= ∑𝐸𝐶𝑖,𝑦× 𝑁𝑗,𝑘,𝑦× 𝑛𝑗,𝑘,𝑦× (𝐸𝐹𝑏,𝑖,𝐶𝑂2 × 𝑓𝑁𝑅𝐵,𝑦+ 𝐸𝐹𝑏,𝑖,𝑛𝑜𝑛𝐶𝑂2)
+𝑖,𝑗,𝑘
+ 
+(1) 
+Where: 
+BEy 
+= Baseline emissions during year y (t CO2e) 
+ECi,y 
+= Average energy consumption of baseline device type i in year y (TJ) 
+Nj,k,y 
+= Number of commissioned project devices of type j from batch k in year y 
+nj,k,y 
+= Proportion of commissioned project devices of type j from batch k that 
+remain operating in year y (fraction) 
+EFb,i,CO2 
+= CO2 emission factor for fuel used by baseline device type i in the baseline 
+scenario (t CO2/TJ) 
+fNRB,y 
+= Fraction of woody biomass that is established to be non-renewable used by 
+baseline device in year y; this variable is not considered for fossil fuels 
+(fraction) 
+EFb,i,nonCO2 
+= Non-CO2 emission factor for fuel used by baseline device type i in the 
+baseline scenario (t CO2e/TJ) 
+i 
+= Baseline device type and its respective fuel type 
+j 
+= Project device type and its respective fuel type 
+ 
+VM0050, v1.0  
+ 
+17 
+8.1.1 Average Energy Consumption of Baseline Device (ECi,y) 
+The average energy consumption of baseline device type i is calculated as follows:16  
+𝐸𝐶𝑖,𝑦= 𝐵𝐶𝑏,𝑖,𝑦× 𝑁𝐶𝑉𝑏,𝑖 
+(2) 
+Where: 
+BCb,i,y 
+= Fuel used per baseline device type i during year y (tonnes)17  
+NCVb,i 
+= Net calorific value of baseline fuel for baseline device type i (TJ/tonne) 
+The quantity of fuel that would be used in the baseline scenario must be determined by one of 
+the following two methods. 
+Option 1: Measurement campaign 
+A measurement campaign must be conducted following the procedures in the most recent 
+version of the Kitchen Performance Test Protocol. Appendix 4 provides further guidance on 
+measurement techniques. The sampling must comply with the most recent version of the CDM 
+Standard for Sampling and Surveys for CDM Project Activities and Programmes of Activities. 
+The campaign must achieve confidence and precision of at least 90/10 for the target 
+parameter of average daily fuel consumption per adult equivalent. The result must be scaled 
+appropriately using the average household size (Hhi)18 to obtain the value of BCb,i,y. Where the 
+project does not achieve the target precision in a monitoring period, the project proponent must 
+apply an appropriate conservativeness deduction as per the most recent version of the CDM 
+Standard for Sampling and Surveys for CDM Project Activities and Programmes of Activities. 
+Energy consumption calculated using this option must be determined once prior to validation to 
+obtain BCex-ante,b,i.  
+Option 2: Default values 
+ECi,y is calculated based on the default value for the average annual consumption of woody 
+biomass per person for cooking: 
+• 
+Firewood: 0.5 tonnes/capita/year of air-dried wood  
+• 
+Charcoal: 0.13 tonnes/capita/year  
+ 
+16 Where charcoal is used as the fuel by baseline and/or project devices, the average energy consumption 
+(derived from the average quantity of charcoal fuel used) in the baseline and/or project scenario may be 
+determined by using a wood to charcoal conversion factor (CF) instead of the fuel emission factor. Further 
+information is provided in the parameter table for CF in Section 9.1. 
+17 This parameter corresponds to BCex-ante,b,i for the first two years and where the follow-up baseline survey 
+campaign shows that there are no significant changes in baseline fuel consumption. Otherwise, it corresponds to 
+BCb,i,y. 
+18 This parameter is determined using the procedure described in Section6.2 9.1. 
+ 
+VM0050, v1.0  
+ 
+18 
+Where fuels other than firewood or charcoal are also used in the baseline, their energy use must 
+be accounted for in equivalent terms to the values above.  
+The result must be scaled appropriately using the average household size (Hhi) to obtain the 
+value of BCb,i,y. 
+Follow-up baseline surveys must be conducted every two years in control households that do not 
+participate in the project. These households must be established prior to validation as 
+statistically equivalent to the pre-project conditions of project households regarding fuel 
+consumption. Where the biennial follow-up baseline survey campaigns reflect statistically 
+significant changes to the baseline, baseline energy consumption must be updated (using a new 
+measurement campaign conducted in control households) to obtain BCb,i,y. 
+Cross-check of ECi,y to address stove stacking 
+Project proponents must address stove stacking (continued use of pre-project devices in project 
+households) by comparing the quantity of baseline energy consumption determined by both 
+options above (ECi,y) to energy used in the project scenario (ECp,y) using back-calculation. Where 
+the results indicate that baseline consumption (ECi,y) is higher than that indicated by back-
+calculation from the project scenario (ECest,y) then stove stacking is occurring (as ECp,y is unable 
+to completely capture household energy consumption from cooking due to the presence/use of 
+pre-project devices). The back-calculation results (ECest,y) must be applied in Equation (1) as a 
+conservative cap, except where project devices are electric cooking devices with efficiency of 
+70% or higher. In this case, the back-calculation result is considered a reference value and 
+project proponents may justify why it is not an appropriate cap by referring to peer-reviewed 
+literature, third party assessments, and/or official data or statistics. Where it is not possible to 
+justify energy use using these sources of information, the reference value must be applied as a 
+conservative cap for such cases as well. 
+ 
+𝐸𝐶𝑒𝑠𝑡,𝑦= 𝐸𝐶𝑝,𝑦× 𝜂𝑛𝑒𝑤,𝑎𝑣𝑔,𝑦
+𝜂𝑜𝑙𝑑,𝑎𝑣𝑔
+ 
+(3) 
+Where: 
+ECest,y 
+= Back-calculated energy consumption of the potential mix of devices and fuels 
+in the baseline in year y (TJ) 
+ECp,y 
+= Energy used in project scenario by project devices during year y (TJ) 
+ηnew,avg,,y 
+= Weighted average efficiency of project devices in year y (fraction) 
+ηold,avg 
+= Weighted average efficiency of baseline devices that are eplaced by project 
+devices (fraction) 
+ECp,y must be determined as follows, using the parameters determined as per Section 8.2. 
+Alternatively, conversion from MWh to TJ must be undertaken where ECp,y is derived from 
+Section 8.2.2.   
+ 
+VM0050, v1.0  
+ 
+19 
+                                                                                                    
+𝐸𝐶𝑝,,𝑦  =   ∑𝐵𝐶𝑝,𝑗,𝑘,𝑦  ×  𝑁𝐶𝑉𝑝,𝑗
+𝑗,𝑘
+ 
+(4) 
+ 
+Where: 
+BCp,j,k,y 
+= Average quantity of fuel used by project device type j from batch k during 
+year y (tonnes or m3) 
+NCVp,j 
+= Net calorific value of project fuel used in project device type j (TJ/tonne or 
+TJ/m3) 
+ 
+8.1.1.1 Electric Project Devices With Additional Characteristics Affecting Energy Consumption 
+For electric pressure cooker project devices with additional characteristics that affect energy 
+consumption (i.e., pressure), thermal efficiency does not reflect the cookstove’s thermal 
+performance. In such cases, Equation (5) must be applied to determine specific energy 
+consumption. This requires the determination of specific energy consumption for both baseline 
+and project scenarios using a Controlled Cooking Test (CCT). CCT is applied since the electric 
+pressure cooker is not expected to replace all baseline cooking activities, but only those that 
+can be performed by an electric pressure cooker.    
+The CCT must be conducted using dishes and cooking practices typical of the project region. 
+The CCT must be performed for the same cooking tasks with both the project electric pressure 
+cooker and baseline device(s). Cooking tasks that cannot be performed with the project electric 
+pressure cooker must be excluded from the baseline CCT. 
+𝐸𝐶𝑖,𝑦= 𝐸𝐶𝑝,𝑗,𝑘,𝑦× 0.0036 × 𝑆𝐶𝑝,𝑗
+𝑆𝐶𝑏,𝑖
+ 
+(5) 
+ 
+Where: 
+ECp,j,k,y 
+= Annual consumption of electricity by electric project device type j from batch 
+k in year y (MWh) 
+SCp,j 
+= Specific energy consumption of electric pressure cooker project device type j 
+in the project scenario (TJ/test/person) 
+SCb,i 
+= Specific energy consumption of baseline device type i in the baseline 
+scenario (TJ/test/person) 
+ 
+Where the project device replaces more than one type of baseline device, the specific 
+consumption (SCb,i) must be determined as the weighted average of the specific energy 
+consumption of the replaced baseline cooking devices, weighted by the proportion of cooking 
+tasks performed by the target population with each type of baseline cooking device. 
+ 
+VM0050, v1.0  
+ 
+20 
+ECi,y must be cross-checked as described above. ECp,j,k,y must be determined as per Section 
+8.2.2.  
+8.2 
+Project Emissions 
+Project emissions are calculated as follows: 
+𝑃𝐸𝑦= 𝑃𝐸𝑒𝑛𝑒𝑟𝑔𝑦,𝑦+ 𝑃𝐸𝑜𝑡ℎ𝑒𝑟𝑠,𝑦 
+(6) 
+Where: 
+PEy 
+= Project emissions during year y (t CO2e) 
+PEenergy,y 
+= Project emissions from energy consumption of project devices in year y 
+(t CO2e) 
+PEothers,y 
+= Project emissions from other sources in year y (t CO2e) 
+To determine project emissions from energy consumption of project devices (PEenergy,y), one of 
+the following options (Sections 8.2.1–8.2.3) must be used.  
+8.2.1 PEenergy,y from Biomass, Fossil Fuels, or Bioethanol 
+ 
+Project emissions from energy consumption of project devices using biomass, fossil fuels, or 
+bioethanol in year y are calculated as follows: 
+𝑃𝐸𝑒𝑛𝑒𝑟𝑔𝑦,𝑦= ∑∑𝐵𝐶𝑝,𝑗,𝑘,𝑦× 𝑁𝑗,𝑘,𝑦× 𝑁𝐶𝑉𝑝,𝑗× 𝑛𝑗,𝑘,𝑦× (𝐸𝐹𝑝,𝑗,𝐶𝑂2 × 𝑓𝑁𝑅𝐵,𝑦+ 𝐸𝐹𝑝,𝑗,𝑛𝑜𝑛𝐶𝑂2)
+𝑘
+𝑗
+ 
+(7) 
+Where: 
+EFp,j,CO2 
+= CO2 emission factor for fuel used by project device type j in the project 
+scenario (t CO2/TJ) 
+EFp,j,nonCO2 
+= Non-CO2 emission factor for fuel used by project device type j (t CO2e/TJ) 
+The CO2 emission factors for renewable biomass and other renewable energy sources are zero. 
+Non-CO2 emissions of these fuels must be accounted for where they are not deemed de 
+minimis (see Section 5). 
+8.2.1.1 BCp,j,k,y for Project Devices  
+There are three approaches to calculating BCp,j,k,y. 
+Option 1: Kitchen Performance Test  
+A measurement campaign following the Kitchen Performance Test Protocol must be designed, 
+carried out, and analyzed in compliance with the most recent version of the CDM Standard for 
+Sampling and Surveys for CDM Project Activities and Programmes of Activities. The campaign 
+ 
+VM0050, v1.0  
+ 
+21 
+must achieve a confidence and precision of at least 90/10 for the target parameter of average 
+daily fuel consumption per adult equivalent. Only the results for project stove fuel consumption 
+are used to calculate project emissions. The result must be scaled appropriately using the 
+average household size (Hhj,k) to obtain the value of BCp,j,k,y. Where the project does not achieve 
+the target precision in a monitoring period, the project proponent must apply an appropriate 
+conservativeness deduction as per Section 4 of the most recent version of CDM Standard for 
+Sampling and Surveys for CDM Project Activities and Programmes of Activities. 
+Option 2: Direct measurement 
+Use direct measurement with equipment calibrated in accordance with national/international 
+requirements. A sample of project devices may be measured such that a confidence and 
+precision of 90/10 is achieved for the target parameter of total annual fuel use. The sampling 
+must comply with the most recent version of the CDM Standard for Sampling and Surveys for 
+CDM Project Activities and Programmes of Activities. Where the project does not achieve the 
+target precision in a monitoring period, the project proponent must apply an appropriate 
+conservativeness deduction as per Section 4 of the most recent version of CDM Standard for 
+Sampling and Surveys for CDM Project Activities and Programmes of Activities. 
+Option 3: Fuel purchase monitoring (only for project devices using fossil fuels or bioethanol) 
+Where applying this option, the project proponent must:  
+1) keep continuous records of all fuel purchases (e.g., fuel purchase invoices from the 
+supplier).  
+2) ensure fuel is used only for thermal energy generation by the project device (e.g., by 
+using a fuel cylinder design that may only be attached to the project device).  
+8.2.2 PEenergy,y from Electricity 
+ 
+Where the project activity involves the introduction of electric devices, project emissions are 
+calculated as follows: 
+𝑃𝐸𝑒𝑛𝑒𝑟𝑔𝑦,𝑦= ∑∑𝐸𝐶𝑝,𝑗,𝑘,𝑦× 𝑁𝑗,𝑘,𝑦× 𝑛𝑗,𝑘,𝑦× 𝐸𝐹𝑒𝑙,𝑦× (1 + 𝑇𝐷𝐿𝑗,𝑦)
+𝑘
+𝑗
+ 
+(8) 
+Where: 
+EFel,y 
+= Emission factor of the electricity system in year y; equal to zero for 100% 
+renewable sources (t CO2e/MWh) 
+TDLj,y 
+= Average technical transmission and distribution losses for providing 
+electricity to project device type j in year y 
+Electricity consumption ECp,j,k,y must be estimated by one of the following two options (in MWh). 
+For both options, where the project does not achieve the target precision in a monitoring 
+ 
+VM0050, v1.0  
+ 
+22 
+period, the project proponent must apply an appropriate conservativeness deduction as per 
+Section 4 of the most recent version of the CDM Standard for Sampling and Surveys for CDM 
+Project Activities and Programmes of Activities. 
+Option 1: Kitchen Performance Test  
+A measurement campaign following the Kitchen Performance Test Protocol must be designed, 
+carried out, and analyzed in compliance with the most recent version of the CDM Standard for 
+Sampling and Surveys for CDM Project Activities and Programmes of Activities. The campaign 
+must achieve a confidence and precision of at least 90/10 for the target parameter of average 
+daily fuel consumption per adult equivalent. Only the results for project stove fuel consumption 
+are used to calculate project emissions. The result must be scaled appropriately using the 
+average household size (Hhj,k) to obtain the value of BCp,j,k,y.  
+Option 2: Direct measurement 
+Use direct measurement by metering. All project devices may be measured, or a sample of 
+project devices may be measured, following the sampling approach described in the most 
+recent version of the CDM Standard for Sampling and Surveys for CDM Project Activities and 
+Programmes of Activities with a confidence level and precision of at least 90/10. Where 
+electricity consumption of all project devices is measured continuously, adoption rate (nj,k,y) may 
+be considered equal to one.  
+8.2.3 PEothers,y from Transportation, Fuel Production, Fugitive Emissions, and Backup 
+Generators 
+𝑃𝐸𝑜𝑡ℎ𝑒𝑟𝑠,𝑦= 𝑃𝐸𝑡𝑟𝑎𝑛𝑠𝑝,𝑦+ 𝑃𝐸𝑝𝑟𝑜𝑑,𝑦+ 𝑃𝐸𝑓𝑢𝑔𝑖𝑡𝑖𝑣𝑒,𝑦 + 𝑃𝐸𝑏𝑎𝑐𝑘𝑢𝑝,𝑦 
+(9) 
+Where: 
+PEtransp,y 
+= Project emissions due to fuel transportation in year y (t CO2e) 
+PEprod,y 
+= Project emissions due to fuel production in year y (t CO2e) 
+PEfugitive,y 
+= Fugitive emissions in year y (t CO2e) 
+PEbackup,y 
+= Project emissions from backup generators in year y (t CO2e) 
+Project emissions from fuel transportation (PEtransp,y) 
+PEtransp,y must be estimated where the average transportation distance is greater than 200 km 
+or where it is not demonstrated through valid means (like mapping tools) to be less than 200 
+km. In the latter case, a conservative estimate of the transportation distance must be used. 
+The most recent version of CDM TOOL12 Project and Leakage Emissions from Transportation 
+of Freight must be applied. 
+ 
+VM0050, v1.0  
+ 
+23 
+Where the average transportation distance is less than 200 km, it may be assumed that 
+baseline and project emissions from fuel transportation are similar and project emissions may 
+be excluded.  
+Project emissions from fuel production (PEprod,y) 
+PEprod,y must be determined for renewable biomass (e.g., firewood) or biomass-derived fuels 
+(e.g., bioethanol) by applying CDM TOOL16 Project and Leakage Emissions from Biomass. 
+PEprod,y must include applicable emissions resulting from soil management, cultivation, 
+thermal/mechanical processing, and biomass burning associated with fuel production. 
+Projects using LPG must apply CDM TOOL15 Upstream Leakage Emissions Associated With 
+Fossil Fuel Use to determine upstream emissions.  
+Fugitive emissions (PEfugitive,y)  
+PEfugitive,y from renewable charcoal must be estimated by applying the most recent version of 
+AMS-III.K. Avoidance of Methane Release from Charcoal Production.19 
+Project emissions from backup generators (PEbackup,y) 
+For project devices using electricity from a mini-grid with backup generators, emissions from 
+fuel consumption must be determined as follows:  
+𝑃𝐸𝑏𝑎𝑐𝑘𝑢𝑝,𝑦= ∑𝐹𝐶ℎ,𝑦× 𝑁𝐶𝑉ℎ × 𝐸𝐹𝑓𝑢𝑒𝑙,ℎ
+ℎ
+ 
+(10) 
+Where: 
+FCh,y 
+= Fuel consumption of backup generator h in year y (tonnes) 
+NCVh 
+= Net calorific value of fuel used by backup generator h (TJ/tonne) 
+EFfuel,h 
+= Emission factor for fuel used by backup generator h (t CO2e/TJ) 
+ 
+ 
+8.3 
+Leakage Emissions 
+Leakage emissions (LEy) must be accounted as follows: 
+1) Leakage emissions associated with reduced or avoided use of non-renewable biomass: 
+a) Use of non-renewable biomass by other users and other types of GHG reversals20 
+ 
+19 Using Equation 4 of AMS-III.K, v5.0 or the equivalent equation in the most recent version. 
+20 Other non-permanence risks, such as fires 
+ 
+VM0050, v1.0  
+ 
+24 
+b) Reuse outside the project boundaries of baseline devices that were replaced by 
+project devices  
+An adjustment factor of 0.95 is applied to the GHG emission reductions in Equation 
+(11) (i.e., 0.95 × (BEy − PEy)). 
+2) Leakage emissions associated with fossil fuel use: 
+a) Increased emissions from fossil fuel use by non-project participants 
+An adjustment factor of 0.95 is applied to the GHG emission reductions in Equation 
+(11) (i.e., 0.95 × (BEy − PEy)). 
+3) Leakage emissions associated with use of renewable biomass (LERB,y): 
+a) Shift of pre-project activities due to the establishment of dedicated plantations 
+for renewable biomass supply 
+b) Diversion of biomass residues from other uses to the project activity 
+These leakage emissions must be calculated using CDM TOOL16. 
+8.4 
+Net GHG Emission Reductions 
+Net GHG emission reductions are calculated as follows: 
+𝐸𝑅𝑦  =  (𝐵𝐸𝑦  − 𝑃𝐸𝑦)  ×  0.95 −𝐿𝐸𝑅𝐵,𝑦 
+(11) 
+Where: 
+ERy 
+= Emission reductions during year y (t CO2e) 
+LERB,y 
+= Leakage emissions associated with use of renewable biomass during 
+year y (t CO2e) 
+ 
+ 
+VM0050, v1.0  
+ 
+25

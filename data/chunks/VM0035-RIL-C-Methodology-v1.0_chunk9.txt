@@ -1,0 +1,51 @@
+9  
+REFERENCES 
+Chambers, J. Q., N. Higuchi, J. P. Schimel, L. V. Ferreira, and J. M. Melack. 2000. 
+Decomposition and carbon cycling of dead trees in tropical forests of the central Amazon. 
+Oecologia 122:380–388. 
+IPCC. 2006. IPCC Guidelines for National Greenhouse Gas Inventories. Chapter 4 AFOLU 
+(Agriculture, Forestry and Other Land-use). Prepared by the National Greenhouse Gas 
+Inventories Programme. IGES, Japan. Available at: http://www.ipcc-
+nggip.iges.or.jp/public/2006gl/vol4.html  
+Olson, D. M., Dinerstein, E., Wikramanayake, E. D., Burgess, N. D., Powell, G. V. N., 
+Underwood, E. C., D'Amico, J. A., Itoua, I., Strand, H. E., Morrison, J. C., Loucks, C. J., Allnutt, T. 
+F., Ricketts, T. H., Kura, Y., Lamoreux, J. F., Wettengel, W. W., Hedao, P., Kassem, K. R. 2001. 
+Terrestrial ecoregions of the world: a new map of life on Earth. Bioscience 51(11):933-938. 
+ 
+ 
+VM0035, Version 1.0 
+Sectoral Scope 14 
+ 
+27 
+ 
+APPENDIX 1: REGION-SPECIFIC PERFORMANCE METHOD REQUIREMENTS 
+Performance method modules may be developed for various geographies. General requirements for 
+crediting and additionality benchmarks, and proxy emission reduction relationships, include: 
+1) The performance method must clearly specify the logging landscape and timeframe within which 
+the values/relationships are applicable (ie, the sample population4). The logging landscape must 
+be defined by broad parameters of consistent forest structure and composition (eg, the WWF 
+Forested Ecoregions (Olson et al. 2001)). 
+2) The performance method must define additionality and crediting baselines in terms of impact 
+parameters. Impact parameters must cover the following three sources of logging emissions: 
+felling, skidding and hauling. One or more impact parameters may be identified for each of the 
+three emissions source categories. When more than one impact parameter is identified for an 
+emission source category, they must be measures of distinct (non-overlapping) components of 
+that emissions source category.  
+3) The performance method must relate emission reductions to impact parameters and quantify and 
+discount uncertainty in the dependent variable (ie, emission reductions). Emission reductions are 
+calculated from (baseline) emissions associated with the crediting baseline value. Relationships 
+between impact parameters and emission reductions must be developed for above and 
+belowground tree biomass for each emission category (logging, felling and hauling) and 
+expressed in units of tCO2e/ha. 
+4) The performance method must specify monitoring procedures for all defined impact parameters. 
+An example of the derivation of applicable benchmarks and proxy relationships is provided in VMD0047 
+Performance Method for Reduced Impact Logging (RIL-C) in East and North Kalimantan. 
+ 
+ 
+ 
+ 
+                                                     
+4  Note that conservative bias is allowed in sampling (ie, skewed toward logging operations allowing access to 
+researchers). 
+VM0035, Version 1.0 
+Sectoral Scope 14

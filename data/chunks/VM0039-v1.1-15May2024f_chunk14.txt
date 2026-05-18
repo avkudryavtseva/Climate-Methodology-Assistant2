@@ -1,0 +1,122 @@
+45 
+ 
+EFEL
+=
+Electricity emission factor (kgCO2e/kWh)
+CEL
+=
+Electricity consumption (kWh)
+Project amount
+=
+Amount of HMA manufactured (t)
+Raw material delivery: 
+EIQR = DistanceQ × EF\
+Project amount  
+(A5) 
+Where: 
+EIPD
+=
+Emission intensity of to-plant delivery (kgCO2e/t)
+DistanceP
+=
+Distance to plant (mile)
+EFT
+=
+Truck emission factor (kgCO2e/mile)
+Project amount
+=
+Amount of HMA manufactured (t)
+Table A 1: Example Calculation of GHG Emissions from Hot Mix Facility 
+HMA Plant 1 
+Operation period: 7/1/2013 to 9/30/2013 
+ 
+HMA output 
+83,612 t 
+ 
+Type: Drum 
+ 
+ 
+Raw Material Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quantity 
+ 
+Mix design 
+ 
+kgCO2/kg 
+tCO2e 
+Crushed Rock 
+68562.4 
+t 
+82% 
+ 
+0.056 
+3839.50
+Sand 
+6689.0 
+t 
+8% 
+ 
+0.005 
+33.45
+Gravel 
+0.0 
+t 
+ 
+ 
+0.017 
+0.00
+Rap 
+4180.6 
+t 
+5% 
+ 
+0 
+0.00
+Other Recycled Aggregates 
+0.0 
+t 
+ 
+ 
+0.006 
+0.00
+Bitumen 
+4180.6 
+t 
+5% 
+ 
+0.48 
+2006.70
+Water 
+0.0 
+t 
+ 
+ 
+ 
+0.00
+Subtotal 
+ 
+ 
+ 
+ 
+ 
+5879.65 
+Plant Production 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Usage 
+Unit 
+Emission factor 
+tCO2e 
+Plant Combustion 
+Fuel oil

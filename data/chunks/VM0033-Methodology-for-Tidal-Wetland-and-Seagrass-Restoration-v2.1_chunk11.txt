@@ -1,0 +1,17 @@
+135 
+DOCUMENT HISTORY  
+Version 
+Date 
+Comment 
+1.0 
+20 Nov 2015 
+New methodology (initial version)  
+2.0 
+30 Sep 2021 
+Updates based on the revision to VM0007 REDD Methodology 
+Framework, v1.6 and inclusion of that have been scrutinized under 
+the rules for expert judgment to estimate net GHG emissions from 
+soil in the baseline scenario. 
+2.1 
+August 2023 
+Updates based on the release of AFOLU NPRT (v?)

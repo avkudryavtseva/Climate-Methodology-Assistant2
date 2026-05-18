@@ -1,0 +1,6 @@
+1 
+SOURCES 
+This methodology is written to conform with the VCS rules that apply to Improved Forest Management 
+projects (conversion of low-productive forests to high-productive forests (LtHP)) and has been prepared 
+by Silvestrum on behalf of Face the Future, both based in the Netherlands. The methodology draws on 
+elements from VCS methodologies VM0007 and VM0011, and CDM methodology AR-ACM0002.

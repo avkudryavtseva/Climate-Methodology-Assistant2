@@ -1,0 +1,93 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+The baseline emissions must be determined following the procedures provided in the latest 
+version of AMS-III.BA., replacing the equations as indicated in the following. 
+The following equation replaces Equation 2 of AMS-III.BA.: 
+ 
+ 
+VMR0008, v1.0 
+ 
+6 
+𝐵𝐸𝑚𝑒𝑡𝑎𝑙𝑠,𝑦= ∑𝑄𝑖,𝑦 
+𝑓
+× 𝐵𝑖 𝑥 𝑆𝐸𝑖× (1 −𝐷𝐹) 
+(2) 
+ 
+Where: 
+𝐵𝐸𝑚𝑒𝑡𝑎𝑙𝑠,𝑦 
+= Baseline emissions in year y associated with the recycling of metals (tCO2e)  
+𝑄𝑖,𝑦  
+= Quantity of metal type i recycled and sent to a processing or manufacturing  
+ 
+ 
+facility in year y (t) 
+𝐵𝑖 
+= Correction factor based on the share of the production in non-Annex I 
+countries 
+𝑆𝐸𝑖 
+= Specific CO2e emission factor for production of metal i, measured in tCO2e/t. 
+Use the values specified in Table 3 of AMS-III.BA. 
+𝐷𝐹 
+=   Discount factor for upstream displacement (30%) 
+ 
+The following equation replaces Equation 3 of AMS-III.BA.: 
+ 
+𝐵𝐸𝑝𝑙𝑎𝑠𝑡𝑖𝑐𝑠,𝑦= ∑𝑄𝑖,𝑦 
+𝑓
+× 𝐿𝑖 × (1 −𝐷𝐹) × (𝑤𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦× 𝑆𝐸𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦
++ 𝑤𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦 × 𝑆𝐸𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦)  
+(3) 
+Where: 
+𝐵𝐸𝑝𝑙𝑎𝑠𝑡𝑖𝑐𝑠,𝑦 
+= Baseline emissions for plastics recycling in year y (tCO2/year) 
+𝑄𝑖  
+= Quantity of plastic type i recycled in year y (t/y) 
+𝐷𝐹 
+= Discount factor for upstream displacement (30%) 
+𝐿𝑖 
+=  Net to gross adjustment factor to cover degradation in material quality and 
+material loss in the processing of the sorted material. Use 0.75 if the recycling 
+facility includes only E-waste sorting; use 1 if the recycling facility includes 
+both E-waste sorting and E-waste processing 
+𝑤𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦 =  Percentage of plastics produced in the host country out of total plastic 
+consumed in year y (%) 
+𝑆𝐸𝑖,𝑖𝑛−𝑐𝑜𝑢𝑛𝑡𝑟𝑦,𝑦 =  Specific emissions in the baseline for the production of virgin plastics type i 
+in the host party in year y (tCO2/ti) 
+𝑤𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦 
+=  Percentage of imported plastics out of total plastic consumed in year y (%) 
+𝑆𝐸𝑖,𝑖𝑚𝑝𝑜𝑟𝑡𝑒𝑑,𝑦 
+=  Specific emissions in the baseline for virgin plastics type i imported in year y 
+(tCO2/ti) 
+ 
+Project proponents may propose a methodology revision with a different discount factor for 
+upstream displacement in accordance with the latest version of the VCS Methodology 
+Requirements.  
+ 
+VMR0008, v1.0 
+ 
+7 
+8.2 
+Project Emissions 
+Project emissions must be determined following the procedures provided in the latest version of 
+AMS-III.BA.  
+8.3 
+Leakage Emissions 
+Leakage emissions must be determined following the procedures provided in the latest version 
+of AMS-III.BA.  
+8.4 
+Estimated GHG Emission Reductions 
+The estimated GHG emission reductions are calculated as follows: 
+ 
+𝐸𝑅𝑦=  𝐵𝐸𝑦−𝑃𝐸𝑦− 𝐿𝐸𝑦            
+(13) 
+Where: 
+𝐸𝑅𝑦 
+= GHG emissions reductions in year y (tCO2e) 
+𝐵𝐸𝑦 
+= Baseline emissions in year y (tCO2e) 
+𝑃𝐸𝑦 
+= Project emissions in year y (tCO2e) 
+𝐿𝐸𝑦 
+= Leakage in year y (tCO2e)

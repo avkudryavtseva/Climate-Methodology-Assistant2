@@ -1,0 +1,1532 @@
+9 
+MONITORING 
+Given applicability conditions and allowable conservative exclusions, monitoring focuses on 
+measuring the key parameters for calculating emissions and removals, demonstrating project 
+management activities and measuring changes in SOC. The project activities key to changing 
+methane emissions are altering the number and species composition of livestock grazing animals 
+and/or species composition of forage plants , altering duration, timing, and intensity of grazing, 
+and/or changing fire frequency, intensity and any accompanying vegetation change (such as in 
+woody biomass).  Changes in SOC density under the project scenario will also be monitored, and 
+stratified according to management practices or soil and climatic conditions. Monitoring of soil, 
+vegetation, grazing intensity and occurrence and intensity of fires will fully employ the permanent 
+sampling stations discussed in Section 8.1.2. 
+9.1 
+Data and Parameters Available at Validation 
+9.1.1 
+Project Design 
+Data / Parameter 
+ PAm,g 
+Data unit 
+ ha 
+Description 
+ Project area in stratum m 
+Equations 
+3, 9, 11, 14 and 15 
+Source of data 
+ Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+ Using shape files in a GIS or from known coordinates of stratum 
+boundaries or from legal descriptions of the property included in 
+the project area. 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 52 
+Comments 
+Project proponents must ensure that the following information in 
+regards to the project area of each stratum is provided in the 
+project description: 
+1) Map(s) of the locations of the permanent sampling plots 
+overlaid on a map of project strata. 
+2) Results of cluster analysis to determine project strata. 
+3) Table of all project strata, their description, and area, PAm  
+4) Results of analysis to determine the number of sampling 
+units and their allocation among strata 
+ 
+Data Unit / Parameter 
+GWPCH4 
+Data unit 
+t CO2e/t CH4 
+Description 
+Global-warming potential for CH4 
+Equations 
+6, 8, 12, 30 and 32 
+Source of data 
+GWPCH4 must be obtained from the IPCC Second Assessment 
+Report 
+Value applied  
+21 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+ 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comment 
+ 
+9.1.2 
+Baseline Methane Emissions 
+Data / Parameter 
+Wc,t  
+Data unit 
+kg 
+Description 
+Average body weight for animals of category c in year t 
+Equations 
+1 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Necessary to estimate emission factor for grazing animals using 
+allometric equations in Error! Reference source not found.. 
+Measurements must be taken in accordance with the 
+procedures described in Section 9.1.2. 
+Purpose of data 
+Calculation of baseline emissions 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 53 
+Comments 
+  
+ 
+Data / Parameter 
+Nc,i 
+Data unit 
+number 
+Description 
+Baseline number of animals of category c in census i 
+Equations 
+1 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+The number of animals in each census i must be measured to 
+calculate the harmonic mean of the multiple counts i of n 
+censuses of animals in category c. At least four measurements 
+within the baseline period, with at least two during the period 5-
+10 years prior to the project start, must be available. 
+Measurements must be taken in accordance with the 
+procedures described in Section 9.1.2. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+The project description must provide a table of historical 
+censuses or estimates of numbers of grazing animals, BNc, for 
+each year in which counts or estimates are available, sorted by 
+the k categories of animals in the project area: species, breed (if 
+applicable), sex, and age, plus the respective live body weights 
+(Wc) of each category, with 95% percent CI and uncertainties). 
+The project description must also provide a data table showing 
+calculations of methane emissions based on the equations in 
+Error! Reference source not found. for each animal category 
+for each year that data are available. The table must include 
+calculated total emissions for that year and a cell containing the 
+harmonic mean of total annual calculated methane emissions. 
+This will be the baseline BEM. The harmonic mean appropriately 
+and conservatively weights the average methane emissions 
+towards the lower values of a time series of measurements[27]. 
+The table must also contain the uncertainty in daily methane 
+emissions (from the regression equations in Error! Reference 
+source not found.) and the harmonic mean and its’ uncertainty. 
+Table 5 below may be used as a template. 
+ 
+ 
+ 
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 54 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5: Table for Calculating Baseline Methane Emissions from Animal Censuses.  
+Species-specific weights on the left-hand side are used to calculate annual methane emissions per 
+animal using equation 1 (section 8.1.3.1). Methane emissions per animal are then multiplied by the 
+harmonic mean number of animals (equation 2) to estimate annual methane emissions for the animal 
+category. Uncertainty per animal (from Table 3 in section 8.1.3.1) and uncertainty in the harmonic mean 
+(equation 25 in section 8.4.2) combine in equation 27 to calculate overall uncertainty in methane 
+emissions. This table must be included in the project description. 
+9.1.3 
+Parameters for Baseline Calculation of Emissions from Burning of Biomass 
+For projects that intend to increase fire frequency, the project description must show the equation 
+(Equation 3) used to calculate BEBB and display a table showing estimated fire frequency 
+FFREQm, initial unburned aboveground plant biomass (APBm,b), with 95 percent CI and 
+uncertainties (95 percent CI/estimate, expressed as a percentage) for each and calculated BEBB 
+with for each project stratum. 
+Species
+Sex/Age
+Weight (kg)
+ Annual 
+Methane 
+Emissions/ 
+Animal
+Per Animal 
+Uncertainty[1]
+Year 1
+Year 2
+Year 3
+Year 4
+Harmonic 
+Mean
+Uncertainty in 
+Animal Counts
+Methane 
+Emissions 
+for Category 
+(tCO2e)
+Uncertainty 
+in Methane 
+Emissions
+Total Emissions
+[1] Based on uncertainty in regression models that calculate methane emissions from body mass (see Table 3)
+Species 3
+Species 4
+Methane Emissions 
+Grazing Animal Category
+Animal Counts (Head)
+Species 1
+Species 2 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 55 
+Data / Parameter 
+APBm,b   
+Data unit 
+kg dry mass/ha 
+Description 
+Mean total aboveground plant biomass in stratum m in year t at 
+the end of the growing season (summer or wet season) 
+Equations 
+3 
+Source of data 
+Measured 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Measured at permanent sampling stations within each stratum 
+m by clipping, drying (at 25-50 oC) and weighing aboveground 
+vegetation from one or more small quadrats. Measured at the 
+beginning of the dry season in the tropics or beginning of the 
+cold or burning season in temperate climates. Must be 
+measured in the project area 1-2 years before the project start 
+date, or within the first year of the monitoring period and prior to 
+the first prescribed burn if fire frequency is to be increased to 
+manage vegetation to increase soil carbon. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+FFREQm 
+Data unit 
+Dimensionless proportion 
+Description 
+Average proportion of area burned in stratum m in past 10 years 
+Equations 
+3 
+Source of data 
+Measured 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Measured by mapping burned areas with aerial photography or 
+in projects with extensive area ( > 10,000 ha), interpreting 
+satellite images, such as MODIS, with published algorithms for 
+assessing burned area[19]. Photography or satellite image 
+interpretations must be verified by records of known burned 
+areas or ground assessments of burns in the past year 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+BCG   
+Data unit 
+kg biomass / kg biomass burned 
+Description 
+Baseline combustion factor for savanna/grassland 
+Equations 
+3 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 56 
+Source of data 
+Hoffa et. al., 1999 or Reference [41] 
+Value Applied 
+0.5 or default from Table 2.6, respectively 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+It is unlikely that all aboveground biomass is combusted in fire, 
+but this fraction is difficult to measure accurately during past 
+years because biomass remaining after fire must be measured 
+immediately following fire[42]. The fraction of biomass combusted 
+usually averages around 0.75 [42] and setting BCG = 0.5 makes 
+the potential impact of increasing fire under the project scenario 
+conservative in its likelihood to reduce emissions. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+ 
+ 
+Data / Parameter 
+EFBG   
+Data unit 
+g CH4/kg biomass burned 
+Description 
+Emission factor for the burning of grassland 
+Equations 
+3, 9 
+Source of data 
+Reference [51] 
+Value Applied 
+1.9 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+ 
+Purpose of data 
+Calculation of baseline emissions 
+Calculation of project emissions 
+Comments 
+ 
+ 
+9.1.4 
+Parameters for Calculation of Baseline SOC 
+A critical measurement is initial soil organic carbon which is necessary in establishing the 
+baseline SOC in the measured approach and validating the chosen soil carbon dynamic model in 
+a modeled approach. Multiple stations must be sampled within each stratum so as to determine a 
+95% percent confidence interval. Some models only quantify changes in SOC to specific depths, 
+(eg, CENTURY only predicts SOC to a depth of 20 cm[16, 31]), and if using a modeling approach 
+with a restricted depth, the project proponents must measure depth that matches that of the 
+model. If using a measured approach or a model that allows different soil depths to be used, and 
+appreciable soil carbon stocks occur below 30 cm[52], then proponents are justified in sampling 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 57 
+deeper in the soil profile, even to a depth of 1m. Known volumes of soil from the cores must be 
+sieved to remove rocks, pebbles, and coarse fragments, and then the remainder dried (5 days at 
+45oC or equivalent) and weighed to determine bulk density (Mg/m3)[53].  
+If an IR spectrometer is to be used, the project proponent must show all calibration data in a table 
+with spectral emissions and measurements of soils or plants and graphs showing the regressions 
+of spectral data against measurements. 
+Data / Parameter 
+DEPTHm,j,0 
+Data unit 
+cm 
+Description 
+Soil core depth at station j in stratum m at time t = 0 (ie, at the 
+start of the project or since the last verification) 
+Equations 
+4 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+At each sampling station j, according to standard methods[52, 54], 
+soil must be taken from at least 3 soil cores (with 10 cores at 
+each site recommended to reduce uncertainty)  to a depth that 
+accounts for the vast majority (> 80 percent) of SOC in the soil 
+column, reflects depth to hardpans or bedrock, or matches 
+calculations from soil carbon models. Multiple cores may be 
+well-mixed into a single composite sample for analysis. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+SOC%j,m,0 
+Data unit 
+Dimensionless proportion  
+Description 
+Proportion soil organic carbon at station j in stratum m at time t = 
+0 (ie, at the start of the project or since the last verification) 
+Equations 
+4 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+The baseline for the measured offset approach is based on 
+increasing SOC. Tracked at the level of j = 1 to zm individual 
+sampling stations in each stratum because offset will be based 
+on demonstrating changes in SOC at individual stations and 
+then summing increments. At each sampling station j, according 
+to standard methods[52, 54], soil must be taken from at least 3 soil 
+cores (with 10 cores at each site recommended to reduce 
+uncertainty) to a depth that accounts for the vast majority (> 80 
+percent) of SOC in the soil column, reflects depth to hardpans or 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 58 
+bedrock, or matches calculations from soil carbon models. 
+Multiple cores may be well-mixed into a single composite 
+sample for analysis. Multiple stations must be sampled within 
+each stratum so as to determine a 95 percent confidence 
+interval. 
+Organic carbon concentrations must be measured in appropriate 
+academic or industrial laboratories that use either chemical[55] 
+combustion or appropriately calibrated spectral analysis 
+methods. IR methods must be calibrated by regression, with R2 
+> 0.90, of IR measurement with measurement by chemical or 
+combustion methods. Graphs of regression of IR versus 
+combustion or chemical methods must be shown. There must 
+be no significant bias (ie, slope 95 percent confidence interval 
+must include 1) intercept 95 percent CI must include 0. Bias 
+must be determined by evaluating percent bias (positive or 
+negative) following equation (5) (see detailed description of bias 
+evaluation in Section 8.1.3.3) and cannot exceed + 10%.  
+If an IR spectrometer is to be used, the project proponent must 
+show all calibration data in a table with spectral emissions and 
+measurements of soils or plants and graphs showing the 
+regressions of spectral data against measurements. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+BULKm,j,0 
+Data unit 
+Mg/m3 or, equivalently, g/cm3 
+Description 
+Bulk density at station j in stratum m at time t = 0 (i.e., at the 
+start of the project or since the last verification) 
+Equations 
+4 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+At each sampling station j, according to standard methods[52, 54], 
+soil must be taken from at least 3 soil cores (with 10 cores at 
+each site recommended to reduce uncertainty) to a depth that 
+accounts for the vast majority (> 80 percent) of SOC in the soil 
+column, reflects depth to hardpans or bedrock, or matches 
+calculations from soil carbon models. Multiple cores may be 
+well-mixed into a single composite sample for analysis. 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 59 
+Known volumes of soil from the cores must be sieved to remove 
+rocks, pebbles, and coarse fragments, and then the remainder 
+dried (5 days at 45oC or equivalent) and weighed to determine 
+bulk density.[53] 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+9.1.5 
+Parameters for Soil Carbon Models 
+Soil carbon models may require anywhere from a few to more than 80 parameters, so there is no 
+definitive list of parameters that would apply to all models. However, in evaluating whether a 
+modeled approach is feasible or desirable, the following parameters are likely to be key inputs 
+into soil carbon models. Each parameter may vary among strata, depending on the size of the 
+project area and underlying variation in soil type and plant species composition. Parameters must 
+yield a predicted SOC density. 
+Data / Parameter 
+MAPm 
+Data unit 
+mm/yr 
+Description 
+Mean annual precipitation in stratum m 
+Equations 
+Model input 
+Source of data 
+Precipitation maps from government or peer-reviewed published 
+sources, nearby weather stations, or rain gauges 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+A key variable that affects a number of processes driving SOC 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+ST j,m,y 
+Data unit 
+oC 
+Description 
+Soil temperature at station j in stratum m in month y 
+Equations 
+Model input 
+Source of data 
+Measured in project area 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 60 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Must be measured monthly or at least seasonally with a digital 
+thermometer with probes inserted to at least ½ the depth at 
+which SOC will be sampled (ie, to 10 cm if soil will be sampled 
+and modeled to 20 cm  [16]) 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+SAND%j,m and/or CLAY%j,m and/or SILT%j,m 
+Data unit 
+Dimensionless proportion expressed as percent 
+Description 
+Proportion of soil that is sand, silt, and or clay at station j  in 
+stratum m 
+Equations 
+Model input 
+Source of data 
+Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Soil collected to desired depth at each sampling station must be 
+mixed, and subsample analyzed for clay, silt, and sand fractions 
+in a professional laboratory. Some models require percent sand, 
+some percent clay and some percent of all three particle 
+classes, sand, silt and clay. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+GIj,m 
+Data unit 
+Dimensionless proportion 
+Description 
+Mean annual grazing intensity at station j in stratum m 
+Equations 
+Model input 
+Source of data 
+Measured 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+Measured at each sampling station prior to validation by either  
+1) Comparing clipped biomass at least at the end of the 
+growing season, or more frequently for some models, 
+inside and outside small (1 m2) fences. GIj,m = 1 – 
+(biomass outside/biomass inside). Biomass is clipped, 
+dried at 25 – 50 oC, and weighed. 
+2) Visually estimating historical grazing intensity from a 
+calibrated observation method (R2>0.80 correlation 
+between measured GI (from option 1 above and 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 61 
+observational method))  based on species composition, 
+bare ground, and vegetation height. 
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+ MAPLC j,m 
+Data unit 
+ Dimensionless proportion 
+Description 
+ Mean aboveground plant cellulose plus lignin at sampling plot j 
+in stratum m 
+Equations 
+Model input 
+Source of data 
+ Measured in project area 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+ SOC is often closely related to inputs of these forms of carbon 
+because they resist microbial decomposition.  
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+In addition, soil carbon models will likely use fire frequency, FFREQm introduced in Section 
+8.1.3.2, and initial SOCm,j,0 introduced in Section 8.1.3.4. 
+Tracking parameters at each sampling station allows the chosen soil carbon model(s) to be 
+tested at many locations and under different conditions. This improves the ability to infer whether 
+data fit model predictions. 
+These parameters must be input into the chosen soil carbon model(s) to calculate the SOC 
+parameters described below, which are used in the quantification of removals. 
+Data / Parameter 
+MSOCm,j,b 
+Data unit 
+tC/ha 
+Description 
+Modeled SOC at station j in stratum m for each year b during the 
+baseline period 
+Equations 
+7 
+Source of data 
+SOC model 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 62 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+SOC models applied must meet with the modeling requirements 
+described in Section 8.1.3.4.  
+Purpose of data 
+Calculation of baseline emissions 
+Comments 
+  
+ 
+Data / Parameter 
+PSOCeqm,j, 
+Data unit 
+tC/ha 
+Description 
+Modeled SOC at equilibrium at station j in stratum m 
+Equations 
+13 
+Source of data 
+SOC model 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+SOC models applied must meet with the modeling requirements 
+described in Section 8.2.3.3.  
+Purpose of data 
+Calculation of project emissions 
+Comments 
+ 
+ 
+Data / Parameter 
+D 
+Data unit 
+years 
+Description 
+Years required to achieve SOC equilibrium 
+Equations 
+13 
+Source of data 
+SOC model 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+SOC models applied must meet with the modeling requirements 
+described in Section 8.2.3.  
+Purpose of data 
+Calculation of project emissions 
+Comments 
+ 
+9.1.6 
+Parameters for Removals from Woody Plant Biomass 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 63 
+Data / Parameter 
+C 
+Data unit 
+kg C/kg biomass 
+Description 
+Proportion of wood composed of carbon 
+Equations 
+15 
+Source of data 
+CDM, A/R Methodological Tool: Estimation of carbon stocks and 
+change in carbon stocks of trees and shrubs in A/R CDM project 
+activities, and MacDicken, 1997 
+Value applied 
+0.45 
+Justification of choice of 
+data or description of 
+measurement methods and 
+procedures applied 
+ 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+ 
+9.2 
+Data and Parameters Monitored 
+Parameters monitored are those needed to calculate removals from reduced methane emissions 
+from animals and/or removals from soil carbon sequestration plus any increases in emissions of 
+methane from burning of biomass and leakage. 
+Data / Parameter 
+ PAm,t 
+Data unit 
+ ha 
+Description 
+Project area in stratum m  in year t 
+Equation 
+12, 14, 18, 19 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods and 
+procedures to be applied 
+Using shape files in a GIS or from known coordinates of stratum 
+boundaries or from legal descriptions of the property included in 
+the project area. 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+Areas must be determined from accurate GIS layers of classified 
+project area or from legal descriptions of property included in the 
+project area. Verification should be with Global Positioning 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 64 
+Systems (GPS) with an accuracy of 10 m or less. Ground points 
+may include permanent sampling stations but also may be 
+necessary to include points at defined stratum boundaries or 
+along roads. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+Projects must ensure that the following information in regards to 
+the project area of each stratum is provided within the relevant 
+area of the project description: 
+1) Map(s) of the locations of the permanent sampling plots 
+overlaid on a map of project strata.  
+2) Results of cluster analysis to determine project strata. 
+3)  Table of all project strata, their description, and area, PAm  
+4) Results of analysis to determine the number of sampling 
+units and their allocation among strata 
+9.2.1 
+Project Animal Methane Emissions 
+Unlike when determining the baseline, the arithmetic mean of the counts during the project 
+crediting period must be used to ensure a conservative estimate of reductions in methane 
+emissions relative to baseline emissions, which are calculated with the harmonic mean[27].  
+For permissible methods of conducting an animal census, see Section 9.3.3. 
+Data / Parameter 
+PNc,t 
+Data unit 
+number 
+Description 
+Mean  number of animals of category c in the project area 
+during year t 
+Equation 
+8, 17, 18 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods and 
+procedures to be applied 
+Measured as the arithmetic mean of one or more years’ animal 
+censuses during the verification period 
+Frequency of 
+monitoring/recording 
+Annual 
+QA/QC procedures to be 
+applied 
+Based on records of livestock numbers,  interviews of grazing 
+managers, coordinators, herders or other administrative staff. 
+Records should be kept as paper and electronic copies,  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 65 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+The project description must provide a table, similar to that for 
+calculating baseline methane emissions, of counts or estimates 
+of numbers of grazing animals, PNc, for each year during the 
+monitoring period, sorted by the k categories in the project area: 
+species, breed (if applicable), sex, and age, plus the respective 
+live body weights (Wc) of each category, with 95% percent CI 
+and uncertainties. The table must also contain the uncertainty in 
+daily methane emissions and the uncertainty in the arithmetic 
+mean count based on the equations in Section 8.4.2.2.1. Table 
+6 below may be use as a template. 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 6: Table for Calculating Project Methane Emissions from Animal Censuses.  
+ 
+Species-specific weights on the left-hand side are used to calculate annual methane emissions per 
+animal using equation 1 (section 8.1.3.1). Methane emissions per animal are then multiplied by the 
+arithmetic mean number of animals to estimate annual methane emissions for the animal category. 
+Uncertainty per animal (from Table 3 in section 8.1.3.1) and uncertainty in the harmonic mean (equation 
+25 in section 8.4.2) combine in equation 27 to calculate overall uncertainty in methane emissions. This 
+table must be included in the project description. 
+9.2.2 
+Project Emissions from Burning of Biomass 
+Species
+Sex/Age
+Weight (kg)
+ Annual 
+Methane 
+Emissions/ 
+Animal
+Per Animal 
+Uncertainty[1]
+Year 1
+Year 2
+Year 3
+Year 4
+Arithmetic 
+Mean
+Uncertainty in 
+Animal Counts
+Methane 
+Emissions 
+for Category 
+(tCO2e)
+Uncertainty 
+in Methane 
+Emissions
+Total Emissions
+[1] Based on uncertainty in regression models that calculate methane emissions from body mass (see Table 3)
+Species 4
+Grazing Animal Category
+Animal Census (Number of Animals)
+Methane Emissions 
+Species 1
+Species 2 
+Species 3
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 66 
+For projects that intend to increase fire frequency, the project description must show the equation 
+(Equation (3)) used to calculate PEBBm,t at time t for each project stratum. All projects that alter 
+fire frequency must and display a table showing estimated fire frequency PFFREQm,t in year t, 
+pre-fire aboveground plant biomass (APBj,m,t), and post-fire aboveground plant biomass at 
+stations where fire occurred (APBj,m,f) with 95 percent CI and uncertainties for each and 
+calculated. 
+Data / Parameter 
+ PFFREQm,t 
+Data unit 
+ Dimensionless proportion 
+Description 
+Average proportion of area burned in stratum m during project 
+year t. 
+Equations 
+9 
+Source of data 
+ Measured 
+Description of 
+measurement methods and 
+procedures to be applied 
+Measured by mapping burned areas with aerial photography or 
+in projects with extensive area ( > 10,000 ha), interpreting 
+satellite images, such as MODIS with published algorithms for 
+assessing burned area[19]. Photography or satellite image 
+interpretations must be confirmed by records of known burned 
+areas or ground assessments of burns in the past year. 
+Frequency of 
+monitoring/recording 
+Every 15 days during the burning season 
+QA/QC procedures to be 
+applied 
+Follow procedures in references [18, 19] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+Data / Parameter 
+APBj,m,t   
+Data unit 
+kg dry mass/ha 
+Description 
+Aboveground plant biomass at station j  in stratum m in year t at 
+the beginning of the dry/cold or burning season  
+Equations 
+9,10 
+Source of data 
+Measured 
+Description of 
+measurement methods and 
+procedures to be applied 
+Measured at permanent sampling stations within each stratum 
+m by clipping, drying (at 25-50 oC) and weighing aboveground 
+vegetation from one or more small quadrats. Measurements 
+from all quadrats must be averaged for each sampling station j.  
+Measured at the beginning of the dry/cold/burning season in 
+temperate climates[17, 56].  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 67 
+Frequency of 
+monitoring/recording 
+Annually 
+QA/QC procedures to be 
+applied 
+Samples must be dried in a professional drying oven for 3 days 
+at 45-60oC or be air-dried in sunshine for 4-7 days to a constant 
+mass  
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+Data / Parameter 
+APBj,m,f   
+Data unit 
+kg dry mass/ha 
+Description 
+Aboveground plant biomass in stratum m in year t at 
+immediately after fire 
+Equations 
+10 
+Source of data 
+Measured 
+Description of 
+measurement methods and 
+procedures to be applied 
+Measured at permanent sampling stations within each stratum 
+m by clipping, drying (at 25-50 oC) and weighing aboveground 
+vegetation from one or more small quadrats. Measurements 
+from all quadrats must be averaged for each sampling station j.  
+Measured immediately following the occurrence of fire[17, 56]. 
+Frequency of 
+monitoring/recording 
+Once in 1-2 years prior to project start or before the first 
+prescribed burn in the first year of the project 
+QA/QC procedures to be 
+applied 
+Samples should be dried in a professional drying oven for 3 
+days at 45-60oC or be air-dried in sunshine for 4-7 days to a 
+constant mass 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+9.2.3 
+Parameters for Calculating SOC Removals 
+If a measured approach is taken, then the critical measurement is of SOC density at the end of 
+the monitoring period at each sampling station, according to standard methods[52, 54]. Soil must be 
+taken from three or more pooled soil cores (with 10 cores at each site recommended to reduce 
+uncertainty) at each station to a desired depth (cm) For more details, see section 9.1.4 
+In a modeled approach, these same procedures must apply when monitoring soil carbon for the 
+purposes of re-calibrating the chosen soil carbon model. In this case there may be a calibration 
+period  of Z years (typically 5-7 years) that is long enough to detect changes in SOC and likely 
+longer than the monitoring periods used in a modeled approach.  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 68 
+ 
+Data / Parameter 
+DEPTHm,j,t 
+Data unit 
+cm 
+Description 
+Soil core depth at station j in stratum m at time t = 0 (ie, at the 
+start of the project or since the last verification) 
+Equations 
+12 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods and 
+procedures to be applied 
+Soil must be taken from at least three soil cores (with 10 cores 
+at each site recommended to reduce uncertainty)  at each 
+station j to a depth that accounts for the vast majority (> 80 
+percent) of SOC in the soil column, reflects depth to hardpans or 
+bedrock, or matches calculations from soil carbon models. 
+Multiple cores may be well-mixed into a single composite 
+sample for analysis. 
+Frequency of 
+monitoring/recording 
+At the end of the monitoring period for measured approach 
+projects, or, for modeled approach, after a desired monitoring 
+period for re-calibrating the chosen soil carbon model on the 
+basis of its ability to predict changes in soil carbon during the 
+monitoring period. 
+QA/QC procedures to be 
+applied 
+Depth cored must be the same as for baseline soil carbon 
+sampling (see 9.1.5). However, the depth used in calculating 
+SOC after Y years of project activities must be adjusted to 
+account for changes in bulk density such that DEPTHm,j,Y x 
+BULKm,j,Y  = DEPTHm,j,0 x BULKm,j,0 . This ensures that equal 
+masses of soil are compared between year 0 and year Y 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+ 
+Data / Parameter 
+ SOC%m,j,t 
+Data unit 
+ Dimensionless proportion  
+Description 
+ Proportion soil organic carbon at station j in stratum m at time t 
+Equations 
+12 
+Source of data 
+ Measured in project area 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 69 
+Description of 
+measurement methods and 
+procedures to be applied 
+Soil must be taken from at least three soil cores (with 10 cores 
+at each site recommended to reduce uncertainty)  at each 
+station j to a depth that accounts for the vast majority (> 80 
+percent) of SOC in the soil column, reflects depth to hardpans or 
+bedrock, or matches calculations from soil carbon models. 
+Multiple cores may be well-mixed into a single composite 
+sample for analysis. 
+The organic carbon concentrations must be measured in 
+appropriate academic or industrial laboratories with chemical[55] 
+automated, calibrated analytical machines or with project-area 
+calibrated infra-red IR spectrometers[30]. 
+Frequency of 
+monitoring/recording 
+At the end of the monitoring period for measured approach 
+projects, or, for modeled approach, after a desired monitoring 
+period for re-validating the chosen soil carbon model on the 
+basis of its ability to predict changes in soil carbon during the 
+monitoring period. 
+QA/QC procedures to be 
+applied 
+The organic carbon concentrations must be measured in 
+appropriate academic or industrial laboratories with chemical[55] 
+automated, calibrated analytical machines or with project-area 
+calibrated infra-red IR spectrometers[30]. IR methods must be 
+calibrated by regression, with R2 > 0.90, of IR measurement with 
+measurement by chemical or combustion methods. Graphs of 
+regression of IR versus combustion or chemical methods must 
+be shown. There must be no significant bias (ie, slope 95 
+percent confidence interval must include 1) intercept 95 percent 
+CI must include 0, which will ensure that MBIAS, following 
+equation (5) [37] is between -10% and +10%. If an IR 
+spectrometer is to be used, the project proponent must show all 
+calibration data in a table with spectral emissions and 
+measurements of soils or plants and graphs showing the 
+regressions of spectral data against measurements. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+Data / Parameter 
+BULKm,j, t 
+Data unit 
+Mg/m3, or, equivalently, g/cm3 
+Description 
+Bulk density in stratum m, station j, year t 
+Source of data 
+Measured in project area 
+Equations 
+12 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 70 
+Description of 
+measurement methods and 
+procedures to be applied 
+Soil must be taken from at least three soil cores (with 10 cores 
+at each site recommended to reduce uncertainty) at each station 
+j to a depth that accounts for the vast majority (> 80 percent) of 
+SOC in the soil column, reflects depth to hardpans or bedrock, 
+or matches calculations from soil carbon models. Multiple cores 
+may be well-mixed into a single composite sample for analysis. 
+Known volumes of soil from the cores must be sieved to remove 
+rocks, pebbles, and coarse fragments, and then the remainder 
+dried (5 days at 45oC or equivalent) and weighed to determine 
+bulk density. 
+Frequency of 
+monitoring/recording 
+At the end of the monitoring period for measured approach 
+projects, or, for modeled approach, after a desired monitoring 
+period for re-validating the chosen soil carbon model on the 
+basis of its ability to predict changes in soil carbon during the 
+monitoring period. 
+QA/QC procedures to be 
+applied 
+However, the depth used in calculating SOC after Y years of 
+project activities must be adjusted to account for changes in bulk 
+density such that DEPTHm,j,Y x BULKm,j,Y  = DEPTHm,j,0 x 
+BULKm,j,0 . This ensures that equal masses of soil are compared 
+between year 0 and year Y [53] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+9.2.4 
+Parameters for Project Soil Carbon Models 
+If using the modeled approach, the same soil carbon model used to calculate BSOC must be 
+used to calculate SOC expected after Y years of management under the project scenario. 
+Uncertainties again must be calculated with Monte Carlo simulations[3, 38]. 
+It is crucial that model input parameters must be tracked at each sampling station if possible to 
+allow the chosen soil carbon model(s) to be most responsive to variation in major inputs to the 
+model. The model must predict SOC density from the parameters measured and used in the 
+model. 
+At verification, the project proponent must provide a list of parameters for each station under the 
+project scenario in year t, using the VCS table format for each. These parameters will vary among 
+models, so an exhaustive list cannot be provided. However each parameter in the model must be 
+listed, along with its uncertainty based on a 95 percent confidence interval, so that uncertainty 
+calculations, following the Monte Carlo procedures in 8.4.2 may be verified. For example: 
+Data / Parameter 
+MAPm,Y 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 71 
+Data unit 
+mm/yr 
+Description 
+Mean annual precipitation in stratum m over the project crediting 
+period Y years. 
+Equation 
+Model input 
+Source of data 
+Precipitation maps or nearby weather stations 
+Description of 
+measurement methods and 
+procedures to be applied 
+A key variable that affects a number of processes driving SOC 
+Frequency of 
+monitoring/recording 
+Annually if obtained from government sources or local weather 
+stations, Daily if collected on the project area 
+QA/QC procedures to be 
+applied 
+Data should be obtained from government sources or local 
+official weather stations, or, if not available, from weather data 
+collected on the project area. 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+Data / Parameter 
+ST j,m,Z 
+Data unit 
+oC 
+Description 
+Soil temperature at station j in stratum m in month Z 
+Equation 
+Model input 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods and 
+procedures to be applied 
+Must be measured with a digital thermometer with probes 
+inserted to at least ½ the depth at which SOC will be sampled 
+(ie, to 10 cm if soil will be sampled and modeled to 20 cm[3, 16]) 
+Frequency of 
+monitoring/recording 
+At least monthly 
+QA/QC procedures to be 
+applied 
+Procedures must follow those in references [57, 58] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 72 
+Data / Parameter 
+GIj,m,z 
+Data unit 
+Dimensionless proportion 
+Description 
+Mean annual grazing intensity at station j in stratum m in year t 
+Equation 
+Model input 
+Source of data 
+Measured in project area 
+Description of 
+measurement methods and 
+procedures to be applied  
+Measured at each sampling station at least twice each growing 
+season prior to verification by comparing clipped biomass at 
+least at the end of the growing season, or more frequently for 
+some models, inside and outside small (1 m2) fences. GIm = 1 – 
+(biomass outside/biomass inside). Biomass is clipped, dried at 
+25 – 50 oC, and weighed. 
+Frequency of 
+monitoring/recording 
+Must be at least twice per year, but preferably monthly, 
+particularly in tropical project areas where plant growth can 
+occur in any month 
+QA/QC procedures to be 
+applied 
+Samples should be dried in a professional drying oven for 3 
+days at 45-60oC or be air-dried in sunshine for 4-7 days to a 
+constant mass, following references [2, 17, 56] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+In addition, soil carbon models for the project scenario will likely use project fire frequency, 
+PFFREQm,t or the frequency of fire (proportion area burned) in stratum m during year t (section 
+Section 9.2.2), and initial SOCm,j,0 introduced in Section 8.1.3.4.  
+9.2.5 
+Parameters for Project Removals from Woody Plant Biomass 
+The two principal parameters are the initial and verified aboveground woody plant biomasses. 
+Uncertainty is expressed as 95% percent CI/mean for each recorded difference in biomass at 
+each of the permanent sampling stations. 
+ 
+Data / Parameter 
+AWPBm,j,0 
+Data unit 
+ kg/ha 
+Description 
+Aboveground woody plant biomass at the project start or the 
+year of last verification at station j and stratum m in the 
+beginning of the monitoring period 
+Equations 
+15 
+Source of data 
+Measured in permanent sampling plots 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 73 
+Description of 
+measurement methods and 
+procedures to be applied 
+Circular quadrats centered at each permanent sampling station j 
+must be sampled for number and diameter at breast height 
+(dbh) of each woody stem within a specified diameter. Radius 
+must be 5-50 cm depending on woody stem density, with 
+smaller radii appropriate for more dense woody vegetation[45, 59]. 
+Frequency of 
+monitoring/recording 
+During the beginning of the monitoring period  
+QA/QC procedures to be 
+applied 
+Procedures must follow those detailed in reference [46] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+ 
+Data / Parameter 
+AWPBm,j,Y 
+Data unit 
+kg/ha 
+Description 
+Aboveground woody plant biomass at station j and stratum m in 
+year Y at the end of the monitoring period 
+Equations 
+15 
+Source of data 
+Measured in project area at permanent sampling stations 
+Description of measurement 
+methods and procedures to 
+be applied 
+Circular quadrats centered at each permanent sampling station j 
+must be sampled for number and dbh of each woody stem 
+within a specified diameter. Radius must be 5-50 m depending 
+on woody stem density, with smaller radii appropriate for more 
+dense woody vegetation[45, 59]. 
+Frequency of 
+monitoring/recording 
+Once at the end of the monitoring period  
+QA/QC procedures to be 
+applied 
+Procedures must follow those detailed in reference [46] 
+Purpose of data 
+Calculation of project emissions 
+Comments 
+  
+9.2.6 
+Parameters for Leakage 
+Data / Parameter 
+DNC,x 
+Data unit 
+head 
+Description 
+Number of livestock of each category c that were outside the 
+project area (outside the fence defining the boundary of the 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 74 
+project area, or, in the case of open grazing lands eg pastoralist 
+areas, beyond 2 km from the mapped project area boundary on 
+day x 
+Equations 
+17,18 
+Source of data 
+Measured 
+Description of measurement 
+methods and procedures to 
+be applied 
+Determined from records of livestock distributions, as recorded 
+from interviews with grazing managers, coordinators, herders, or 
+other administrative staff. For additional details see Section 
+9.3.3 
+Frequency of 
+monitoring/recording 
+Monthly 
+QA/QC procedures to be 
+applied 
+Records should be kept as paper and electronic copies 
+Purpose of data 
+Calculation of leakage 
+Comments 
+ 
+ 
+Data / Parameter 
+d 
+Data unit 
+days 
+Description 
+Total number of days livestock were off the project area 
+Equations 
+17,18 
+Source of data 
+Measured 
+Description of measurement 
+methods and procedures to 
+be applied 
+Based on records of livestock numbers and their distribution on 
+and off the project area, based on interviews of grazing 
+managers, coordinators, herders or other administrative staff. 
+For additional details see Section 9.3.3 
+Frequency of 
+monitoring/recording 
+Monthly 
+QA/QC procedures to be 
+applied 
+Records should be kept as paper and electronic copies, with at 
+least one electronic copy kept off the project as an online 
+database 
+Purpose of data 
+Calculation of leakage 
+Comments 
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 75 
+9.3 
+Description of the Monitoring Plan 
+9.3.1 
+Sampling Design 
+The sampling design of the permanent sampling stations and their division among strata is 
+described in detail in Section 8.1.2. 
+9.3.2 
+Impact of Project Activities 
+Additionality of greenhouse gas reductions arises from the implementation of new management 
+activities, and it is important for the project proponent to monitor the effectiveness of these new 
+activities. Activities fall principally into three major categories: (1) manipulating animal numbers 
+and grazing intensity, (2) managing fire, (3) changing plant species composition and/or lignin and 
+cellulose content. 
+9.3.3 
+Animal Numbers 
+The different methods of animal censuses are reviewed by Seber[60]. The preferred methods are: 
+1) Ownership records in cases where individual records exist for each animal owned by the 
+project proponent or participants. This is the most accurate measure of animal numbers, 
+but is likely to only be possible in developed countries where such records can be 
+created and maintained. 
+2) Corral counts, in which all known corrals or “bomas” where animals are kept at night are 
+identified to category c and counted. The advantage of this method is that it allows a total 
+census as long as all corrals can be located and censused. This may be the superior 
+method for censusing animals kept by pastoralists in less developed countries. Care 
+must be taken to census at times when animals are not being herded long distances to 
+find new pasture or water, as the census may significantly underestimate animal counts. 
+95 percent confidence intervals may be estimated by repeated counts, comparison of 
+counts among different observers, or subsampling methods like bootstrapping[61]. 
+3) Ground transect counts, whereby transects are walked or driven and the number of 
+animals of each category c, at distances measured with rangefinders, are counted. The 
+area sampled by transects (length by mean observation distance) must cover at least 20 
+percent of the project area[60] to avoid unacceptable variance and uncertainty. Counts 
+must be converted to density and multiplied by area to estimate total animal numbers in 
+each category and their 95 percent confidence intervals by using the program 
+DISTANCE[62].  Transects must be sampled in at least four years of the ten prior to the 
+project start and at least twice per year during the project crediting period Y years. The 
+advantage of this method is that it may be applied to wildlife or to livestock censuses in 
+regions where livestock are not sedentary. The disadvantage is that animals are often 
+aggregated across the landscape, which may greatly increase the variance of the 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 76 
+estimate, animals counted must be extrapolated to get totals for the project area, and 
+accurate classifications of animals into categories may be inaccurate. 
+4) Human surveys, in which animal owners are interviewed about animal numbers of each 
+category, kept in their corrals in the past. At least 30 individuals or 10 percent of the total 
+animal holders in the project area, whichever is greater, must be interviewed. The 
+advantage of this method is that more detail about breeds and weights may be 
+incorporated into the determination of categories and estimation of methane emissions. 
+The disadvantage is that the subsample of animals owned by the people interviewed 
+must be extrapolated to encompass the project area, with accompanying uncertainty. 
+5) Aerial surveys in which animals of each category are counted from aerial photographs. 
+This is a popular method among governments who are satisfied with broad surveys, but 
+typically the uncertainty in aerial surveys is too large to be used with daily methane 
+emissions, which are already plagued with relatively large uncertainties. Typically aerial 
+surveys only work for cattle or other similarly large animals (eg, camels and horses), as 
+sheep and goats are usually too small to be differentiated by species, sex or age from the 
+air. Also, uncertainties for aerial surveys may be prohibitive, as they often exceed 50 
+percent[60]. 
+9.3.4 
+Grazing Intensity 
+The project proponent must be prepared to measure aboveground plant biomass at least semi-
+annually to determine the impacts of grazing on vegetation throughout the project area.  The 
+parameter GIm,j,t represents the percent difference in standing crop between grazed and ungrazed 
+(fenced) vegetation. It may be measured at all permanent sampling stations by comparing 
+aboveground plant biomass, APBj,m,t at each station with biomass inside small fences (0.67 – 2 
+m2). Herbaceous and shrub biomass must be clipped from three or more small quadrats at each 
+station and from two or more small (0.67 - 2 m2) temporary fenced quadrats (utilization cages). 
+Grazing intensity (GI) is 1 – (biomass unfenced/biomass fenced)[17]. Cages must be moved after 
+clipping to ensure that the station measures grazer use of plant production over each season or 
+portion of a season. It may also be measured using calibrated satellite imagery (with at least R2 > 
+0.60 between the satellite index and measured biomass on the ground) by comparing vegetation 
+indices, such as NDVI or EVI[31, 63], between ungrazed and grazed pixels paired to have similar 
+soil types, precipitation, and other variables. 
+9.3.5 
+Fire Frequency 
+Baseline proportion of area burned (FFREQm,b) and project proportion of area burned during the 
+project crediting period Y requires demonstration of the occurrence and area covered by fires 
+over a period of 10 years for the baseline and Y years for the project scenario. Acceptable 
+information sources include aerial photographs or interpreted satellite images with a resolution 
+(pixel length in m) smaller than 0.5 percent of the square root of the total project area (in m2)[18, 19]. 
+An example method is Dempewolf’s et al. (2007)[19] algorithm, now employed as MODIS Burned 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 77 
+Area images dating back to 2000. These images use red and infra-red spectral information from 
+15 day composite images, which eliminate clouds and shadows, from MODIS satellites12 to 
+calculate a BAI, or burned area index that provided 85-95 percent accuracy in classifying image 
+pixels as burned or unburned in East African grassland and savanna. Other methods of image 
+interpretation, particularly aerial photographs, may be used. Any method must be tested by 
+comparing pixels in classified images with observations of burned or unburned during the same 
+time window in the permanent sampling stations. Valid interpretation methods must commit less 
+than 12 percent combined omission and commission errors[19]. 
+9.3.6 
+Plant Species Composition 
+A key input variable affecting soil carbon dynamics and soil carbon models is species 
+composition, as management practices to restore soil carbon will likely do so in part by changing 
+plant species composition[32, 64, 65]. Replacement of woody shrubs or annual grasses that 
+dominate under baseline conditions with perennial grasses with deep root systems under the 
+project scenario can lead to rapid carbon sequestration. Tracking plant species composition is 
+possible by measuring aerial cover of the four most dominant species each of grasses, herbs 
+(dicotyledonous plants, wildflowers), and woody plants. Such data can show shifts as a 
+consequence of new management activities. 
+ 
+9.3.7 
+Plant Lignin and Cellulose 
+Shifts in species composition may be accompanied by shifts in plant chemical composition that 
+greatly affect calculations of some soil carbon models and measureable soil carbon 
+sequestration. SOC is often closely related to inputs of these forms of carbon because they resist 
+microbial decomposition. Plant cellulose and lignin (MAPLC) may be measured by either: 1)  the 
+Van Soest method of sequential digestion of ground plant material (clipped during the 
+measurement of aboveground plant biomass (APB)) in acid detergent and sulfuric acid[66] in a 
+professional laboratory, or 2)with infra-red (IR) spectrometers calibrated to project area plants 
+and soils. 
+9.3.8 
+Ex Ante Leakage and Other Emission Sources 
+Leakage is mainly possible from net transfers of livestock out of the project area, which is not 
+allowed by the applicability conditions but nevertheless must be monitored by inventorying 
+livestock shipping depots and from censuses and interviews with inhabitants of the project area. 
+Close monitoring and census efforts are especially needed during dry seasons or other periods 
+when there may be strong motivation to move animals off the project area. Animal censuses must 
+be timed to coincide with the greatest risk of animal movement to have the greatest chance to 
+track any possible leakage.  
+                                                
+12 http://modis.gsfc.nasa.gov/  
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 78 
+The possible but unlikely source of new emissions as a result of the project is the increase in the 
+use of fossil fuels during vehicle and airplane use associated with management activities. These 
+may be tracked with mileage logs in all project and associated vehicles and converted with IPCC 
+2000 emission factors[67] as stratified by the type of vehicle and fuel type (eg, diesel, gasoline, 
+kerosene), to determine whether fossil fuel use approaches being a significant greenhouse gas 
+source associated with project activity.

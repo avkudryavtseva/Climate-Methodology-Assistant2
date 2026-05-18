@@ -1,0 +1,20 @@
+2 SOURCES 
+When applying this revision, CDM tools are replaced with the most recent version of the 
+relevant VCS tool as shown in Table 1. These tools must be applied as indicated in this 
+methodology revision. 
+Table 1. Replacement of CDM tools  
+CDM tool used in ACM0001 
+VCS tool used when applying VMR016 
+TOOL02 Combined tool to identify the baseline 
+scenario and demonstrate additionality 
+VT0009 Combined Baseline and Additionality 
+Assessment 
+TOOL05 Baseline, project and/or leakage 
+emissions from electricity consumption and 
+monitoring of electricity generation 
+VT0010 Emissions from Electricity Consumption 
+and Generation (and associated tool VT0011 
+Electricity Systems Emission Factors) 
+ 
+VMR0016, v1.0 
+5

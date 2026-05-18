@@ -1,0 +1,85 @@
+6 
+BASELINE SCENARIO 
+The baseline scenario is identified as the existing or historical land management practices, under 
+the assumption that these would continue in the absence of the project. The baseline land 
+management activities, such as plans (or lack thereof) for fire management, number of grazing 
+animals and the duration and timing of grazing particular areas of land, must have been in place 
+during the baseline period. In the case that management activities have changed during the 
+baseline period, such changes must be documented and the activities leading to the lowest net 
+emissions or greatest removals during the baseline period must be chosen as the most plausible 
+baseline scenario. 
+To develop the baseline scenario, the project proponent must document, using published or 
+gathered project-specific data and/or models, historic grazing plans or use of grazing areas by 
+livestock and fire histories in the project area. The method to determine the most plausible 
+baseline condition is provided in Section 8 (Baseline Emissions) with additional information 
+provided in Section 9.3 (Description of the Monitoring Plan). The method includes: 
+1) Where adjustments in fire frequency and/or intensity are a project activity, the project 
+proponent must demonstrate a fire history, as a map of areas that burned and the 
+number of times they burned over the previous ten years. This may be obtained by using 
+satellite products, such as MODIS Burned Area Product4 as detailed in Section 9.3.5) 
+that provide polygons of burned areas for 15 day periods throughout the dry or burning 
+season. A GIS program like Quantum GIS (2.6)5, and other programs like IDRISI 6 or 
+ArcGIS, may perform similar functions. Project proponents may also use dated aerial 
+                                                
+4 http://modis.gsfc.nasa.gov/) 
+5 Quantum GIS 2.4 can be downloaded for free at https://www.qgis.org 
+6 http://www.clarklabs.org 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 17 
+photographs or accurate hand-drawn maps accompanied by records of where and when 
+land parcels burned.  
+2) As evidence of past grazing practices and impacts, the project proponent must 
+demonstrate a grazing history, as determined from past livestock grazing animal counts, 
+ground measurements of grazing impacts, and/or ground-validated interpretations of 
+satellite imagery (such as the Normalized Difference Vegetation Index (NDVI), Soil-
+Adjusted Vegetation Index (SAVI), or other similar index[12, 13]) from a minimum of four 
+intervals across the 10 years, with at least one image from 8-10 years prior to the project 
+start date.  
+3) Baseline methane emissions require as detailed as possible livestock grazing animal 
+censuses through any combination of professional aerial surveys, ground counts with 
+appropriate spatial extrapolation to the project area[14, 15], or household surveys of 
+livestock held by each household over the previous 10 years. Censuses must categorize, 
+to the extent possible, the species, sex, and age of each animal, and an average body 
+weight for each category7. 
+4) Aboveground woody biomass must be sampled at the project start from many locations in 
+the project area (see Section 8.1.3.5) and if necessary for inclusion as a parameter in soil 
+carbon models, analyzed for neutral detergent fiber, cellulose, and lignin in a professional 
+laboratory. 
+5) Initial soil carbon stocks must be measured to the desired depth following Section 
+8.1.3.3. The chosen depth must match that applicable to the chosen soil carbon model if 
+the modeled approach is used.  
+6) Where the modeled approach is used, predictions of soil carbon stocks or stock changes 
+from the chosen model of soil carbon dynamics, such as Century[3, 4, 16], must be tested to 
+demonstrate it is appropriate for use in the project area with measured soil carbon stocks 
+or stock changes from the project area. Correlations between predicted and observed 
+stocks must have R2 > 0.80 within strata and an uncertainty based on a 95 percent 
+confidence interval of < 20 percent for predicted values applicable to the project area. 
+The use of  less accurate model predictions imply larger confidence limits in estimated 
+carbon stocks or stock change after 10 years and thus larger uncertainty deductions in 
+claimed emission reductions. If a model cannot be found to provide sufficient accuracy, 
+the measured approach must be used.  
+7) The selected model is used to model the soil carbon dynamics and to estimate the 
+maximum SOC that would have occurred in the 10 years prior to the project start date.  
+This provides an uncertainty deduction for activity-based emission reduction calculations.  
+                                                
+5 
+IPCC, Emissions from livestock and dung management, in Guidelines for Nartional Greenhouse Gas Inventories. 
+2006, IPCC. p. 1-85. 
+7  
+Such data are necessary to use Tier II methods of calculating methane emissions per IPCC 2006 guidelines 
+ 
+VM0032, Version 1.0 
+ 
+Sectoral Scope 14 
+ 
+Page 18 
+8) Where the measured approach is used, estimates of initial soil carbon stocks within 
+different strata must also calculate an uncertainty based on a 95 percent confidence 
+interval, with uncertainty deductions imposed if uncertainty exceeds + 15 percent. 
+9) Uncertainty propagated by all estimated emissions and reductions must be calculated for 
+baseline emissions, project emissions and reductions. Uncertainty deductions will occur if 
+the total uncertainty + 15% percent of estimated net emissions and removals under the 
+project scenario. The deducted removals must be directly proportional to the uncertainty.

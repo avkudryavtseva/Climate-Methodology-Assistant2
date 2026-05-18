@@ -1,0 +1,891 @@
+8 QUANTIFICATION OF GHG EMISSION 
+REDUCTIONS AND REMOVALS 
+8.1 
+Baseline Emissions 
+The total baseline GHG emissions are associated with the baseline FLW flows to pre-project FLW 
+destination(s) and the transport of the FLW flows. Total baseline GHG emissions are calculated 
+using Equation (1). 
+ 
+𝐵𝐸𝑦 = ∑𝐵𝐸𝑗,𝑦
+𝑗
++ 𝐵𝐸𝑇𝑟𝑎𝑛𝑠𝒋,𝑦 
+(1) 
+Where: 
+ 
+𝐵𝐸𝑦 
+ 
+Total baseline emissions in year y (tCO2e) 
+𝐵𝐸𝑗,𝑦 
+ 
+Baseline emissions from the FLW destination j in year y (tCO2e) 
+𝐵𝐸𝑇𝑟𝑎𝑛𝑠𝑗,𝑦 
+Baseline GHG emissions from collection and transport of FLW flows to 
+destination j in year y (tCO2e) 
+ 
+16 For example, a project may include both enhanced demand planning and dynamic pricing in a retail location. 
+ 
+VM0046, v1.0 
+14 
+ 
+The steps for a project proponent to calculate the total baseline GHG emissions (BEy) are 
+illustrated in Figure 2 and explained in detail below.  
+ 
+ 
+Figure 2: Steps to calculate baseline emissions 
+ 
+1) Map the FLW source and pre-project FLW destination(s), which includes (a) identifying and 
+describing all FLW sources and FLW destinations before the project start date within the 
+project boundary, and (b) determining the distance between all sources and destinations, 
+which will be used in Step 5.  
+2) Quantify FLW flows and classify the type of food included. Project proponents are not 
+required to use a particular quantification method17 to calculate FLW flows but must 
+minimize the degree of uncertainty (see guidance in Chapter 9 of the FLW Standard).18 To 
+undertake Step 3, food content in the FLW flows must be described using FAO’s Codex 
+General Standard for Food Additives (GSFA)19 system. As a minimum, food ingredients must 
+be classified down to the second non-null digit category of the GSFA Codex system (e.g., 01.1 
+Fluid milk and milk products). 
+3) Calculate the mean dry matter (DM) content20 of FLW flows using default values from the 
+USDA FoodData Central database.21 Project proponents must select the water content (which 
+is the inverse of the DM content) for the food ingredients that best represent the content of 
+the FLW flows according to the classification performed in Step 2. Project proponents may 
+ 
+17 Data on FLW flows may be from direct measurements, inferred from surveys, or indirectly calculated from existing food 
+records (e.g., food purchased minus food served). Refer to the FLW Standard for additional guidance on possible 
+quantification methods and tradeoffs, and to Appendix 2 for guidance on representative sampling. Representative 
+sampling with direct measurements and indirect calculations through food records are typically the preferred option to 
+quantify FLW flows as they are usually more accurate than FLW estimated through other methods.  
+18 As an example, project proponents may use material flow analysis tools and/or related software to support 
+quantification, which minimize accounting errors (e.g., keeps mass balance within the project boundary) and facilitates 
+future monitoring of FLW and recovered food flows. 
+19 Available at: https://www.fao.org/gsfaonline/foods/index.html 
+20 The DM content of discarded food is a critical parameter that determines the amount of GHG (CH4 in particular) 
+emissions from waste treatment facilities, especially landfills. The DM content (or alternatively, the water content) varies 
+greatly across different types of food (e.g., from 100 percent DM of oils to 5 percent DM of some vegetables). In anaerobic 
+conditions like a landfill, most of the dry matter becomes CH4 hence the emission factors from landfill for drier food 
+products (with a higher DM content) are greater than those of wetter food products (with a lower DM content). 
+21 Online food search available at: https://fdc.nal.usda.gov/fdc-app.html#/. Water content data available for Foundation 
+Foods, SR Legacy Foods and Survey Foods (i.e. not Branded Foods). Make sure to download the latest version of the 
+database if using the csv or json files. 
+(2)  
+Quantify FLW 
+flows and 
+classify the 
+type of food 
+included 
+(1) 
+Map the FLW 
+source and 
+pre-project 
+FLW 
+destination(s) 
+(4)  
+Calculate 
+baseline GHG 
+emissions 
+associated 
+with the 
+destination(s) 
+(5)  
+Calculate 
+emissions from 
+collection and 
+transport of the 
+FLW flows to the 
+destination(s) 
+(6)  
+Sum up 
+total 
+baseline 
+GHG 
+emissions 
+(3) 
+Calculate 
+the mean 
+dry matter 
+content of 
+FLW flows 
+ 
+VM0046, v1.0 
+15 
+ 
+extend or complement water content data of food ingredients or prepared foods that are not 
+listed in the FoodData Central with region- or country-specific food databases available in the 
+FAO/Infoods site22 (e.g., WAFCT database for West African food ingredients and recipes). 
+i. 
+Project proponents must calculate the mean DM content of the FLW flows, which will 
+be composed of mixed ingredients from multiple food categories, as follows: 
+𝐷𝑀𝑗,𝑦= ∑(1 −𝑊𝐶𝑖,𝑗,𝑦) ×
+𝑀𝐹𝐿𝑊𝑖,𝑗,𝑦
+𝑀𝐹𝐿𝑊𝑗,𝑦
+𝑖,𝑗
+ 
+(2) 
+ 
+ 
+ 
+ 
+  
+Where: 
+𝐷𝑀𝑗,𝑦 
+Mean dry matter content of FLW flows going to destination j in 
+year y (weight fraction) 
+𝑊𝐶𝑖,𝑗,𝑦 
+Default water content of food ingredient or food category i inside 
+the FLW flow going to FLW destination j in year y (weight fraction) 
+𝑀𝐹𝐿𝑊𝑖,𝑗,𝑦 
+FLW flow (i.e., mass) pertaining to food ingredient or food 
+category i going to FLW destination j in year y (t) 
+𝑀𝐹𝐿𝑊𝑗,𝑦 
+Sum of all FLW flows going to FLW destination j in year y (t) 
+i 
+Types of food ingredients or food categories in FLW flows 
+j 
+FLW destinations 
+y 
+Reporting year 
+ii. 
+Where project proponents cannot calculate a mean DM content of baseline FLW 
+flows, e.g., because they cannot determine the food composition of FLW flows, then 
+they must assume either:  
+a) for homogeneous FLW flows, i.e. flows for which all food content falls inside one of 
+the sixteen food groups of the FAO GSFA system: the highest water content of all food 
+ingredients within the food group;   
+b) for heterogeneous FLW flows, a mean water content of 73% (i.e. a mean DM 
+content of food of 27% as given in the US EPA (2020) report).  
+iii. 
+Alternatively, project proponents may carry out a sampling to characterize the 
+collected FLW flows in terms of mass (𝑀𝐹𝐿𝑊𝑖,𝑗,𝑦) and water (𝑊𝐶𝑖,𝑗,𝑦) content. Please 
+see the guidance on representative sampling in Appendix 2 and the associated cited 
+references. 
+4) Calculate baseline GHG emissions associated with the pre-project FLW destination(s). Project 
+proponents must use the decision tree in Figure 3 to determine whether the appropriate 
+approach for calculating baseline GHG emissions is using data from the FLW destination 
+ 
+22 Available at: https://www.fao.org/infoods/infoods/tables-and-databases/en/ ; check also 
+http://www.langual.org/langual_linkcategory.asp?CategoryID=4&Category=Food%20Composition  
+ 
+VM0046, v1.0 
+16 
+ 
+facility in which the pre-project FLW flows are treated or using a default GHG emission factor 
+for the relevant FLW destination(s). 
+ 
+ 
+Figure 3: Decision tree to calculate baseline GHG emissions for FLW destinations (step 4)  
+ 
+The following lays out the equations to use when applying Option 1, 2, or 3 from Figure 3. 
+Option 1: Use specific emission factor from FLW destination facility 
+If primary data is available from the FLW destination’s facility in which the FLW flows are treated, 
+and the facility can provide a GHG emission factor (i.e., CO2e per t biomass) as well as related dry 
+matter content for the organic waste it treats, a project proponent must use this emission factor 
+as it is more accurate than using a default factor.  
+To calculate the specific GHG emissions associated with the FLW flows, when the facility provides 
+an emission factor (𝐸𝐹𝑗,𝑦) on a wet basis, the project proponent will need information from the 
+facility on the related mean DM (or water) content of all the organic waste treated at the facility 
+(𝐷𝑀𝑓𝑎𝑐𝑖𝑙𝑖𝑡𝑦,𝑗,𝑦 below). However, if 𝐸𝐹𝑗,𝑦 is given on a dry basis, then 𝐷𝑀𝑓𝑎𝑐𝑖𝑙𝑖𝑡𝑦,𝑗,𝑦 in Equation (3) 
+has a value of 1. 
+Project proponents must use the following equation to calculate baseline emissions for the 
+project’s FLW destination(s): 
+ 
+ 
+𝐵𝐸𝑗,𝑦 = 𝜑𝑑𝑒𝑓𝑎𝑢𝑙𝑡× 𝑀𝐹𝐿𝑊𝑗,𝑦×
+𝐷𝑀𝑗,𝑦
+𝐷𝑀𝑓𝑎𝑐𝑖𝑙𝑖𝑡𝑦,𝑗,𝑦
+×  𝐸𝐹𝑗,𝑦 
+(3) 
+ 
+    
+Where: 
+𝐵𝐸𝑗,𝑦 
+ 
+Baseline emissions from the FLW destination j in year y (tCO2e) 
+𝜑𝑑𝑒𝑓𝑎𝑢𝑙𝑡 
+Default discount factor of 0.9 to account for model uncertainties in Option 1 
+(fraction) 
+ 
+Is primary data available from the 
+FLW destination’s facility in which 
+the FLW flows are treated?  
+Yes 
+Can the facility provide 
+a GHG emission factor 
+(i.e., CO2eq per kilo 
+biomass) and the 
+related dry matter 
+content? 
+Use specific emission 
+factor for destination 
+(Option 1) 
+1. If facility is not a landfill, follow 
+pathway indicated by “no”.  
+2. If facility is a landfill, can the 
+landfill operator provide the 
+fraction of landfill gas flared at the 
+site (i.e., f parameter)? 
+Yes 
+Yes 
+No 
+Estimate landfill 
+destination’s emissions 
+associated with FLW flows 
+(Option 2)  
+No 
+No 
+Use default 
+emission factor for 
+relevant FLW 
+destination  
+(Option 3) 
+ 
+VM0046, v1.0 
+17 
+ 
+𝐸𝐹𝑗,𝑦 
+Emission factor of FLW destination j in year y (tCO2e/t biomass) 
+𝐷𝑀𝑓𝑎𝑐𝑖𝑙𝑖𝑡𝑦,𝑗,𝑦 
+Mean dry matter content of the organic waste (i.e., biomass) treated in 
+destination j in year y (weight fraction)  
+Project proponents may overrule 𝜑𝑑𝑒𝑓𝑎𝑢𝑙𝑡 by a calculated discount factor if they are able to 
+quantify the uncertainty behind 𝑀𝐹𝐿𝑊𝑗,𝑦 and 𝐷𝑀𝑗,𝑦, i.e., only if they have characterized the FLW 
+flows through representative sampling (see step 3) and if the facility operator can provide the 
+standard deviation of the provided emission factor. The discount factor must be calculated and 
+included as per the latest version of the VCS Methodology Requirements, substituting 𝜑𝑑𝑒𝑓𝑎𝑢𝑙𝑡 
+with (1 – discount factor) in Equation (3). 
+ 
+Option 2: Estimate landfill destination’s emissions associated with FLW flows 
+If the FLW flows are treated in a landfill but the facility cannot provide a GHG emission factor or 
+related dry matter content for the organic waste it treats, and where a project proponent has 
+access to the fraction of methane flared at the solid waste disposal site, Equation (4), must be 
+used.23 
+ 
+𝐵𝐸𝑗,𝑦= 𝜑𝑆𝑊𝐷𝑆× (1 −𝑓𝑗,𝑦) × 𝐺𝑊𝑃𝐶𝐻4 × 𝑀𝐶𝐹× 0.3 × 𝑀𝐹𝐿𝑊𝐽,𝑦× 𝐷𝑀𝑗,𝑦 
+(4) 
+ 
+Where: 
+𝐵𝐸𝑗,𝑦 
+Baseline emissions from the destination landfill j in year y (tCO2e) 
+𝜑𝑆𝑊𝐷𝑆 
+Default discount factor to account for model uncertainties in Option 2, variable 
+according to the climatic conditions (dimensionless, see Section 9)  
+𝑓𝑗,𝑦 
+Fraction of the CH4 captured, flared, combusted, or recovered at the destination 
+landfill j in year y. Monitored parameter (fraction, see Section 9) 
+𝐺𝑊𝑃𝐶𝐻4  
+Global warming potential of CH4 (tCO2e/t CH4). Use value referenced in the latest 
+version of the VCS Standard 
+𝑀𝐶𝐹 
+Default methane correction factor applied to the destination landfill facility, 
+variable according to the type of solid waste disposal site (dimensionless, see 
+Section 9) 
+0.3 
+Default factor that converts the carbon content of dry organic matter to released 
+CH4 (t CH4/t DM) 
+Option 3. Use default emission factor for relevant FLW destination 
+If Options 1 and 2 are not feasible, project proponents must select from the default emission 
+factors in Table 2 to calculate the baseline emissions associated with the relevant FLW 
+destination. These emission factors are globally representative of the listed FLW destinations, 
+ 
+23 This equation has been adapted from the CDM Methodological Tool 04 Emissions from solid waste disposal sites, v8.0. 
+Available at: https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-04-v8.0.pdf 
+ 
+VM0046, v1.0 
+18 
+ 
+since the factors are reflective of a specific waste treatment technology rather than geography-
+dependent.  
+ 
+Table 2: Default GHG emission factors (tCO2e/t DM) for calculating baseline emissions 
+FLW destination  
+Emission 
+factor (EF) 
+Destination 
+with 
+valorization 
+Note 
+Anaerobic digestion (wet) a   
+0.359 
+Yes 
+Includes fugitive CH4 and N2O emissions 
+from the digester and from digestate 
+application on land. Excludes avoided 
+emissions from co-product offsets and 
+transportation. 
+Anaerobic digestion (dry) a   
+0.457 
+Yes 
+Composting a   
+0.392 
+Yes 
+Includes fugitive CH4 and N2O emissions 
+from composting. Excludes avoided 
+emissions from co-product offsets and waste 
+transportation. 
+Controlled combustion, 
+incineration a   
+0.131 
+Yes  
+Includes non-CO2 emissions from the 
+combustion process. Excludes avoided 
+emissions from co-product offsets and 
+transportation 
+Landfill without flaring b 
+6.528 
+No 
+Excludes emissions from transportation  
+Landfill with flaring b 
+2.222 
+Yes 
+Excludes avoided emissions from co-product 
+offsets and transportation  
+Open burning c 
+0.141 
+No 
+Includes non-CO2 emissions from the 
+combustion process. Excludes emissions 
+from transportation 
+Open dump b 
+2.285 
+No 
+Excludes transportation emissions 
+Sewer / wastewater d 
+0.418 
+No 
+Includes emissions from electricity 
+consumption for wastewater treatment and 
+subsequent anaerobic digestion process 
+   
+a Adapted (i.e., converted from short wet tons to kg DM) from the emission factors in the US EPA (2020) 
+report;24 combustion EF from Exhibit 1-44, composting EF from Exhibit 1-43, and wet and dry anaerobic 
+digestion EF from Exhibit 1-52 and Exhibit 1-51, respectively. Discount factors (𝜑) of 0.8 have been 
+applied. 
+b  Adapted from CDM TOOL04 (see Equation 3 in Option 2). Applied MCF value of 1 (landfill with and 
+without flaring) and 0.4 (open dump considered as unmanaged shallow solid waste disposal site). Global 
+warming potential of biogenic methane from latest IPCC AR6 report. Average flaring factor of 0.61 applied 
+(US EPA, 2020). Discount factors (𝜑) of 0.8 (landfill without flaring) and 0.7 (landfill with flaring and open 
+dump) applied. 
+c  Adapted from Ecoinvent 3.8 database.  
+d  Represents the average anaerobic digestion EF from US EPA (2020) plus the GHG emissions from an 
+average electricity consumption at wastewater treatment plants for aeration (Ecoinvent 3.8).  
+ 
+The EF in Table 2 include a discount factor to account for model and parametric uncertainties.  
+ 
+24 Available at: https://www.epa.gov/sites/default/files/2020-12/documents/warm_organic_materials_v15_10-29-
+2020.pdf  
+ 
+VM0046, v1.0 
+19 
+ 
+ 
+Once the relevant EF have been selected from Table 2, the following equation must be used to 
+calculate baseline emissions from the pre-project FLW destinations: 
+ 
+𝐵𝐸𝑗,𝑦 =    𝑀𝐹𝐿𝑊𝑗,𝑦× 𝐷𝑀𝑗,𝑦×  𝐸𝐹𝑑𝑒𝑓𝑎𝑢𝑙𝑡𝑗,𝑦 
+(5) 
+ 
+Where:  
+𝐸𝐹𝑑𝑒𝑓𝑎𝑢𝑙𝑡𝑗,𝑦 
+Default EF of the FLW destination j in year y (Table 2) (tCO2e/t DM) 
+ 
+5) Calculate emissions from collection and transport of the FLW flows to the FLW destination(s).  
+Equation (6) must be used to calculate emissions from FLW collection and transport to the 
+relevant destination(s): 
+ 
+𝐵𝐸𝑇𝑟𝑎𝑛𝑠𝑗,𝑦 = 𝐷𝑗,𝑦 × 𝑀𝐹𝐿𝑊𝑗,𝑦×  𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦× .001 
+(6) 
+ 
+Where:  
+𝐵𝐸𝑇𝑟𝑎𝑛𝑠𝑗,𝑦 
+Baseline GHG emissions from collection and transport of FLW flows to 
+destination j in year y (tCO2e) 
+𝐷𝑗,𝑦 
+Distance travelled by the waste collection vehicle for collection of FLW flows 
+going to destination j during year y (km). It must correspond to the distance(s) 
+between the FLW source and the FLW destination(s), measured, inferred, 
+calculated, or estimated in Step 1.  
+𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦 Emission factor for transportation mode m in year y (kg CO2e/t km). The emission 
+factors per transport mode and vehicle type may be taken from DEFRA’s latest 
+GHG conversion factors.  
+.001 
+Conversion factor to convert kg CO2e/t km to tCO2e/t km 
+ 
+6) Sum up total baseline GHG emissions 
+To calculate the total baseline GHG emissions (BEy), the baseline emissions associated with the 
+FLW destination(s) (calculated in Step 4) must be added to those related to the collection and 
+transport of the FLW flows (from Step 5) using Equation (1). 
+8.2 
+Project Emissions 
+Project activity emissions are those related to the new project activities taking place to recover 
+food and avoid FLW (i.e., keeping food within the human supply chain) and are calculated using 
+Equation (7).  
+  
+ 
+VM0046, v1.0 
+20 
+ 
+ 
+𝑃𝐸𝑦 =  𝑃𝐸𝑇𝑟𝑎𝑛𝑠𝑦 +  𝑃𝐸𝑃𝑟𝑜𝑐𝑦 
+(7) 
+ 
+Where: 
+𝑃𝐸𝑦 
+ 
+Project emissions in year y (tCO2e) 
+𝑃𝐸𝑇𝑟𝑎𝑛𝑠𝑦  
+Project emissions from transportation to collect and deliver the recovered food in 
+year y. This parameter must consider all trips for the different transportation 
+stages (e.g., collection, distribution, delivery) and the means required for the 
+completion of project activities included in the project boundary (see Equation 
+(8); tCO2e) 
+𝑃𝐸𝑃𝑟𝑜𝑐𝑦 
+Project emissions from electricity consumption or other energy and/or material 
+use for additional processing, storage etc. in year y where these processes are 
+considered additional for the recovery of food (see Equation (9); tCO2e) 
+ 
+The emission factors per transport mode and vehicle type, as well as per fuel type (energy usage 
+for additional processing activities) and electricity consumption (country or regional grid-mix 
+average factors), may be taken from DEFRA’s latest GHG conversion factors. To correctly 
+calculate transport-related emissions, the transport mode, vehicle type and distances traveled 
+must be known. Transport emissions are calculated using Equation (8). 
+ 
+𝑃𝐸𝑇𝑟𝑎𝑛𝑠𝑦 = ∑
+𝐷𝑚,𝑥,𝑦
+𝑚,𝑥
+  × 𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦×  𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦× .001 
+(8) 
+ 
+Where:  
+𝐷𝑚,𝑥,𝑦 
+Distance travelled by transport mode m for the collection of recovered food flows 
+going from the FLW source to new destination x during year y (km) 
+𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦 
+Sum of recovered food flows going from the FLW source to new destination x by 
+transport mode m during year y (t). The sum of recovered food flows (𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦) 
+must be equal to the sum of FLW flows used in the baseline emissions 
+calculation (𝑀𝐹𝐿𝑊𝑗,𝑦) 
+𝐸𝐹𝑡𝑟𝑎𝑛𝑠.𝑚𝑜𝑑𝑒𝑚,𝑦 Emission factor for transportation mode m in year y (kg CO2e/t km). The emission 
+factors per transport mode and vehicle type may be taken from DEFRA’s latest 
+GHG conversion factors 
+.001 
+Conversion factor to convert kg CO2e/t km to tCO2e/t km 
+ 
+To estimate transport details, the project proponent must determine the distances between the 
+FLW source and the new destinations (𝐷𝑚,𝑥,𝑦) and transport modes (𝑚). This may be determined 
+by surveying a representative sample of project activity beneficiaries. The average distance 
+traveled in the representative sample must be used to extrapolate transportation emissions to 
+the whole population reached by the project activities.  
+ 
+VM0046, v1.0 
+21 
+ 
+The emission factors per transport mode and vehicle type may be taken from the latest GHG 
+conversion factors of DEFRA25. To correctly calculate transport-related emissions, the transport 
+mode, vehicle type, and distances traveled between the source(s) and destination(s) of the 
+recovered food flows must be known. 
+The processing emissions are calculated using Equation (9). 
+ 
+𝑃𝐸𝑃𝑟𝑜𝑐𝑦= 𝑃𝐸𝐸𝐶𝑦 +  𝑃𝐸𝐹𝐶𝑦 +  𝑂𝐸𝑦 
+(9) 
+ 
+Where:  
+𝑃𝐸𝐸𝐶𝑦  
+Project emissions from electricity consumption associated with the processing of 
+recovered food flows (𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦) in year y (tCO2e). These emissions must be 
+calculated with the CDM Methodological TOOL05: Tool to calculate baseline, 
+project and/or leakage emissions from electricity consumption and monitoring of 
+electricity generation.26 
+𝑃𝐸𝐹𝐶𝑦 
+Project emissions from fossil fuel consumption associated with the processing of 
+recovered food flows (𝑀𝐹𝐿𝑊𝑚,𝑥,𝑦) in year y (tCO2e). These emissions must be 
+calculated with the CDM Methodological TOOL03: Tool to calculate project or 
+leakage CO2 emissions from fossil fuel combustion.27 
+𝑂𝐸𝑦 
+Other emissions from the consumption of additional materials needed for 
+processing and delivering the new food product (e.g., packaging) in year y 
+(tCO2e). Additional minor ingredients, such as food additives, preservatives, etc., 
+may be excluded from project emission calculations where they comprise less 
+than 1 percent of the recovered and processed food mass (see Equation (10)). 
+Other emissions from consumption of additional materials (e.g., packaging) are calculated using 
+Equation (10), unless shown to be de minimis. Project proponents should strive to minimize GHG 
+emissions from the use of packaging materials by first minimizing the use of packaging as much 
+as possible and second, when necessary, selecting low-impact packaging (e.g., recycled 
+materials). Emission factors for the most common packaging materials are provided in Table 3. 
+ 
+𝑂𝐸𝑦= ∑
+𝑀𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝,𝑦 × 𝐸𝐹𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝
+𝑝𝑦
+ 
+(10) 
+ 
+Where:  
+𝑀𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝,𝑦  
+Mass of additional material type p used in the project scenario in year y (t) 
+𝐸𝐹𝑚𝑎𝑡𝑒𝑟𝑖𝑎𝑙𝑝 
+Emission factor for material type p (Table 3) (tCO2e/t material type p) 
+ 
+25 Factors for 2022 available at: https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-
+factors-2022 
+26 Available at: https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-05-v3.0.pdf  
+27 Available at: https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-03-v3.pdf 
+ 
+VM0046, v1.0 
+22 
+ 
+ 
+ 
+Table 3: Emission factors for common packaging materials 
+ 
+Source: EPA, Documentation for GHG Emission and Energy Factors Used in the Waste Reduction Model (WARM): 
+Containers, Packaging, and Non-Durable Good Materials Chapters v15. November, 202028.  
+8.3 
+Leakage 
+8.3.1 Total Leakage Emissions 
+The total leakage emissions for a project occurring in year y (LEy) are calculated as the sum of the 
+leakage emissions from eventual discards (𝐿𝐸𝑑𝑖𝑠𝑐𝑎𝑟𝑑𝑠𝑦, section 8.3.2) and the leakage emissions 
+ 
+28 https://www.epa.gov/sites/default/files/2020-12/documents/warm_containers_packaging_and_non-
+durable_goods_materials_v15_10-29-2020.pdf 
+Category 
+Emission factor 
+(tCO2e/t material) 
+Common examples of use/description 
+Corrugated container board 
+(Fiberboard or fluter 
+fiberboard) 
+0.91 
+Corrugated cardboard made from gluing fluted 
+corrugating medium 
+Polylactic Acid (PLA) 
+2.70 
+Constructed from renewable agricultural products, 
+PLA is considered a "greener alternative" packaging 
+option. Includes rigid packaging. 
+Common uses: folding boxes, disposable cups, 
+cutlery, bottles, films, carpet, apparel, and more. 
+Polyethylene terephthalate 
+(PET) Plastic Rigid 
+packaging 
+2.44 
+PET is also known as polyester. 
+Common uses: Water bottles, other packaging. 
+High Density Polyethylene 
+(HDPE) Plastic Rigid 
+packaging 
+1.68 
+Harder and more rigid than PET.  
+Common uses: Bottles, packaging containers, 
+cooking oil jugs, milk cartons, bottle caps. 
+Low Density Polyethylene 
+(LDPE) Plastic flexible 
+packaging 
+1.98 
+Flexible packaging material. 
+Common uses: film applications like poultry 
+wrapping, trash bags. 
+Linear LDPE (LLDPE) 
+Plastic flexible packaging 
+1.74 
+High strength film applications, resistant to puncture. 
+Virgin glass 
+0.66 
+Virgin glass assumes 5% recycled content.  
+Recycled materials 
+0.00 
+Packaging made from a substantial amount (>50%) 
+of material recovered or diverted from the non-
+hazardous solid waste stream, that may otherwise be 
+produced using raw or virgin materials.  
+ 
+VM0046, v1.0 
+23 
+ 
+from recovering food that would have otherwise been transformed into co-products in FLW 
+destinations with valorization (𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦, section 8.3.3), as shown in Equation (11).  
+𝐿𝐸𝑦=  𝐿𝐸𝑑𝑖𝑠𝑐𝑎𝑟𝑑𝑠𝑦 +  𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦 
+(11) 
+ 
+Where: 
+𝐿𝐸𝑦 
+ 
+Total leakage emissions in year y (tCO2e) 
+𝐿𝐸𝑑𝑖𝑠𝑐𝑎𝑟𝑑𝑠𝑦 
+Leakage due to eventual discards of recovered food in year y (tCO2e) 
+𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦 Leakage due to recovering food from FLW destinations with valorization in year y 
+(tCO2e) 
+8.3.2 Leakage from Eventual Discards 
+A project that prevents FLW at a certain point in the supply chain may still result in food discarded 
+later in the supply chain; this is referred to as “eventual discard” in this methodology. The risk of 
+leakage from eventual discard will depend on the type of FLW addressed by project activities, 
+where in the food chain the project activities intervene, the activity type, and consumer behavior 
+related to the project. For example, the risk of leakage in a project that addresses food recovery 
+by consumers (e.g., an app where consumers make a conscious choice to recover food) likely has 
+lower risk of leakage than a project that keeps food in the human chain at the farm or retailer 
+level, but still depends on someone to eat, immediately process, or deep freeze (and not discard) 
+the recovered food. A project that recovers food and processes it to produce a new product (e.g., 
+fruit that does not meet retail quality standards is collected and processed as jam) may 
+considerably extend the shelf life of that food, thereby reducing the risk of leakage from eventual 
+discards. 
+Project proponents must present evidence that the food recovered in the project is not disposed 
+of downstream, e.g., if the project activity adds a treatment process that preserves food 
+prolonging its shelf life by a certain amount of time (as presented in the new label of the 
+recovered food). Such evidence may be from peer-reviewed literature, expert testimony, 
+measurements, surveys, or monitoring of key parameters.  
+Where evidence does not exist, an adjustment for leakage must be applied to all projects to 
+reflect the probability that the recovered food is discarded. In these cases, leakage emissions 
+from eventual discards must be calculated using a default leakage factor, which represents the 
+percentage of recovered food that would eventually end up, on average, in an FLW destination. 
+Default leakage factors for USA and EU are presented in Table 4 and Table 5, respectively:  
+• 
+Table 4 provides default leakage factors according to food types and the point in the 
+supply chain at which the project activity is implemented. These are based on average 
+ 
+VM0046, v1.0 
+24 
+ 
+food loss statistics reported by the USDA29 (values for 2019) and as proxies contain 
+several assumptions.  
+• 
+Table 5 provides default leakage factors based on a recent study that covers the former 
+28 countries of the EU (Caldeira et al., 2019; i.e., including the United Kingdom). The 
+leakage factors for the EU have higher granularity than those presented for the US; 
+estimated food waste in Table 5 is reported for every stage of the food supply chain.  
+Project proponents must use the leakage factors that best represent the recovered food items, 
+making a weighted average of the food-mix where more than one food type is recovered. Leakage 
+factors of broader categories must be used where no specific data on the composition of the 
+recovered food-mix are available. When selecting leakage factors, the most conservative option 
+must be chosen.  
+To apply leakage factors for other geographies, project proponents must use country-specific data 
+from national statistics or reports on FLW, if available. Where national data are unavailable, 
+project proponents must use FAO’s FLW database.30 Where country-specific data are not 
+available for a certain food group and food supply chain stage in FAO’s database, project 
+proponents must use regional statistics from the same source (e.g., if primary production losses 
+for fruits and vegetables are not available for Afghanistan, then use the FLW average of the same 
+food group and supply chain stage for West and Central Asia). 
+ 
+Table 4: Default leakage factors for recovered food per food type and supply chain stage 
+for US projects (USDA, 2019) 
+Food Group Category 
+Primary 
+Production 
+(percent) 
+Retail 
+(percent)a 
+Final Consumer 
+(percent)b 
+Meat, fish, eggs 
+27 
+5 
+22 
+Meat 
+- 
+4 
+23 
+Fish and seafood 
+- 
+8 
+31 
+Eggs 
+- 
+7 
+21 
+Dairy products 
+0 
+11 
+20 
+Beverage milks 
+0 
+12 
+23 
+Cheese  
+0 
+6 
+24 
+Fruits 
+18 
+12 
+21 
+Grains 
+0 
+12 
+20 
+Nuts 
+0 
+6 
+19 
+Vegetables 
+31 
+9 
+23 
+Fats 
+0 
+21 
+22 
+ 
+29 Available at: https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/food-availability-per-
+capita-data-system/#Loss-Adjusted%20Food%20Availability  
+30 Available at: https://www.fao.org/platform-food-loss-waste/flw-data/en/  
+ 
+VM0046, v1.0 
+25 
+ 
+Oils 
+0 
+21 
+10 
+Legumes 
+0 
+6 
+10 
+a Rates noted here include retail, distribution, manufacturing, and processing. 
+b Food services are considered a final consumer together with residential households. 
+ 
+Table 5: Default leakage factors for recovered food per food type and supply chain stage 
+for EU projects (Adapted from Caldeira et al., 2019)  
+Food Group 
+Category 
+Primary 
+Production 
+(percent) 
+Processing & 
+Manufacturing 
+(percent) 
+Retail & 
+Distribution 
+(percent) 
+Food 
+Services 
+(percent) 
+Households 
+(percent) 
+Meat 
+0.8 
+4.7 
+2.8 
+11.8 
+2.8 
+Fish 
+0.0 
+37.8 
+2.4 
+6.1 
+3.7 
+Dairy 
+3.3 
+7.2 
+2.6 
+27.6 
+3.9 
+Eggs 
+4.8 
+1.6 
+1.6 
+17.7 
+4.8 
+Cereals 
+1.5 
+3.2 
+2.2 
+10.2 
+2.8 
+Fruit 
+16.3 
+9.0 
+1.2 
+12.7 
+2.2 
+Vegetables 
+19.6 
+3.8 
+1.3 
+17.8 
+3.2 
+Potatoes 
+2.8 
+4.9 
+0.7 
+11.4 
+1.9 
+Sugar beets 
+2.6 
+0.0 
+0.3 
+1.1 
+0.3 
+Oil crops 
+2.5 
+28.2 
+0.3 
+4.0 
+0.8 
+Where a leakage factor is used (i.e., a percentage of the baseline scenario given eventual 
+discard), the generic leakage emissions due to eventual discards are calculated as follows: 
+𝐿𝐸𝑑𝑖𝑠𝑐𝑎𝑟𝑑𝑠𝑦 = ∑
+𝐵𝐸𝑖,𝑗,𝑦
+𝑖,𝑗
+× 𝐿𝐹𝑖,𝑙 
+(12) 
+ 
+Where: 
+𝐵𝐸𝑖,𝑗,𝑦  
+Baseline emissions from recovered food ingredient or food category i associated 
+with the FLW destination j in year y (Step 4, Section 8.1) (tCO2e)  
+𝐿𝐹𝑖,𝑙 
+ 
+Leakage factor of food category i in the food supply stage l relevant to the project 
+(percent, see default factors in Table 4 and Table 5) 
+8.3.3 Leakage from Recovering Food from FLW Destinations with Valorization 
+Where the FLW is valorized by the facility that receives it (e.g., for land application or energy 
+generation), GHG emission reductions can be minimal. All project activities that divert food from 
+an FLW destination facility with valorization must consider additional leakage emissions 
+(𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦). The FLW destinations with valorization are those with a “Yes” in the column 
+“Destinations with valorization” in Table 2.  
+The following steps must be considered for any FLW that is diverted from a destination with 
+valorization: 
+ 
+VM0046, v1.0 
+26 
+ 
+Step 1. Demonstrate one of the following: 
+(i) 
+There is a surplus of FLW or a similar biomass residue in the project region, which the 
+project does not utilize. Project proponents must provide evidence that demonstrates the 
+total quantity of biomass residue (e.g., for energy generation or as feedstock) annually 
+available in the project region is at least 25 percent larger than the quantity of FLW which 
+is utilized annually in the project;  
+(ii) If the FLW were not diverted, it would not have been collected or utilized (e.g., as fuel, 
+fertilizer, or feedstock) but would have been dumped and left to decay, landfilled with no 
+energy recovery, left in the field to decay after harvest, or burnt without energy 
+generation. Project proponents must provide evidence to support this scenario. 
+ 
+Step 2. In the absence of evidence to demonstrate one of the scenarios outlined in Step 1, 
+projects must use Equation (13) to quantify leakage emissions (𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦). This equation 
+has been adapted from Equation 9 in the CDM Methodological Tool 16 Project and leakage 
+emissions from biomass, v4.0.31 
+𝐿𝐸𝑣𝑎𝑙𝑜𝑟𝑖𝑧𝑎𝑡𝑖𝑜𝑛𝑦 = ∑𝐸𝐹𝐶𝑂2,𝐿𝐸 × 𝑀𝐹𝐿𝑊,𝑗,𝑦
+𝑗
+× 𝑁𝐶𝑉𝑦 
+(13) 
+ 
+Where: 
+𝐸𝐹𝐶𝑂2,𝐿𝐸 
+CO2 emission factor of the most carbon intensive fossil fuel used in the country 
+(tCO2/GJ, see Section 9)  
+𝑀𝐹𝐿𝑊,𝑗,𝑦 
+Mass of FLW diverted from FLW destination j with valorization in year y (t) 
+𝑁𝐶𝑉𝑦 
+ 
+Net calorific value of FLW in year y (GJ/t, see Section 9) 
+8.4 
+Net GHG Emission Reductions  
+The net GHG emission reductions are calculated as follows: 
+𝐸𝑅𝑦= 𝐵𝐸𝑦 –  𝑃𝐸𝑦 –  𝐿𝐸𝑦  
+(14) 
+Where: 
+𝐸𝑅𝑦 
+ 
+Net GHG emissions reductions from project activities in year y (tCO2e) 
+ 
+ 
+31 https://cdm.unfccc.int/methodologies/PAmethodologies/tools/am-tool-16-v4.pdf  
+ 
+VM0046, v1.0 
+27

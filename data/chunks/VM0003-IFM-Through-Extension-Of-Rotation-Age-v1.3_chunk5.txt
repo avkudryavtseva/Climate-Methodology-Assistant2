@@ -1,0 +1,114 @@
+5 PROJECT BOUNDARY 
+5.1 
+GHG Sources and Sinks 
+The carbon pools included in or excluded from the project boundary are shown in Table 1. 
+Table 1: Selected Carbon Pools 
+Carbon Pools 
+Selected? 
+Justification/Explanation 
+Above-ground 
+biomass 
+Yes 
+Major carbon pool subjected to the project activity 
+Below-ground 
+biomass 
+Yes 
+Below-ground biomass stock is expected to increase due to 
+implementation of the IFM project activity. Below-ground 
+biomass subsequent to harvest is not assessed based on the 
+conservative assumption of immediate emission. 
+Dead wood 
+Conditional 
+Dead wood stocks may be conservatively excluded unless the 
+project scenario produces greater levels of slash than the 
+baseline and slash is burned as part of forest management. 
+Where slash produced in the project scenario is left in the 
+forest to become part of the dead wood pool, dead wood may 
+be conservatively excluded. Alternatively, project proponents 
+may elect to include the pool (where included, the pool must be 
+estimated in both the baseline and with-project scenarios) as 
+long as the dead wood pool represents less than 50 percent of 
+total carbon volume on the site in any given modeled year. 
+Litter 
+No 
+Changes in the litter pool will be de minimis as a result of 
+rotation extension. 
+ 
+VM0003, v1.3  
+ 
+6 
+ 
+Soil organic carbon 
+No 
+Changes in the soil organic carbon pool will be de minimis as a 
+result of rotation extension. 
+Wood products 
+Conditional 
+This stock may increase or decrease (compared to baseline) 
+due to implementation of the project activity. The methodology 
+provides an approach for accounting for this pool, but the pool 
+may be excluded if transparent and verifiable information 
+demonstrates that carbon stocks in wood products are rising 
+faster in the project scenario than in the baseline or are 
+decreasing faster in the baseline than in the project scenario. 
+ 
+The emission sources included in or excluded from the project boundary are shown in Table 2. 
+Any of these sources may be neglected (i.e., accounted as zero) where application of the most 
+recent CDM Tool for testing significance of GHG emissions in A/R project activities leads to the 
+conclusion that the emission source is insignificant.  
+ 
+Table 2: GHG Sources Included In or Excluded From the Project Boundary1 
+Source 
+Gas 
+Included? 
+Justification/Explanation 
+Baseline 
+Burning of 
+biomass 
+CO2 
+Excluded 
+Carbon stock decreases due to burning are 
+accounted as a carbon stock change. 
+CH4 
+Included 
+Non-CO2 gas emitted from biomass burning 
+N2O 
+Excluded 
+Potential emissions are negligible. 
+Project 
+Burning of 
+biomass 
+CO2 
+Excluded 
+Carbon stock decreases due to burning are 
+accounted as a carbon stock change. 
+CH4 
+Included 
+Non-CO2 gas emitted from biomass burning 
+N2O 
+Excluded 
+Potential emissions are negligible. 
+ 
+5.2 
+Project Area and Eligibility of Land 
+The project area geographically delineates the improved forest management project activity 
+under the control of the project proponents. The IFM project activity may contain more than one 
+discrete area of land. At validation, the following must be defined: 
+1) Each discrete area of land must have a unique geographic identification. 
+ 
+1 Following the guidance of the Executive Board of the CDM, emissions caused by combustion of fossil fuels and through the 
+use of fertilizers are considered insignificant and are not considered here (UNFCCC CDM EB 44, UNFCCC CDM EB 42). 
+ 
+ 
+VM0003, v1.3  
+ 
+7 
+ 
+2) Aggregation of forest properties with multiple landowners is permitted under the 
+methodology with aggregated areas treated as a single project area. 
+3) The project proponents must describe legal title to the forest, rights of access to the 
+sequestered carbon (or avoided carbon emissions), current land tenure, and forest 
+management for each discrete area of forest. 
+4) The project proponents must justify that, during the project lifetime, each discrete area 
+of land is expected to be subject to a change in forest management through activities 
+under the control of the project proponents.
