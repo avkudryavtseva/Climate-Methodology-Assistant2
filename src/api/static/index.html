@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Climate Methodology Assistant</title>
+
+<style>
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: #f4f7f5;
+    color: #222;
+}
+
+
+.container {
+    width: 80%;
+    max-width: 900px;
+    margin: 50px auto;
+}
+
+
+h1 {
+    text-align: center;
+    color: #1f4d3b;
+}
+
+
+.subtitle {
+    text-align: center;
+    color: #666;
+    margin-bottom: 30px;
+}
+
+
+.card {
+    background: white;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+}
+
+
+textarea {
+    width: 100%;
+    height: 120px;
+    font-size: 16px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    resize: none;
+    box-sizing: border-box;
+}
+
+
+button {
+    margin-top: 15px;
+    background: #1f7a5a;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+button:hover {
+    background: #155c43;
+}
+
+
+
+#status {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #555;
+}
+
+
+.answer-box {
+
+    margin-top: 25px;
+    background: #ffffff;
+    padding: 20px;
+    border-radius: 12px;
+
+    border-left: 5px solid #1f7a5a;
+
+}
+
+
+
+.source {
+
+    background: #f0f4f2;
+    margin: 5px 0;
+    padding: 8px;
+    border-radius: 6px;
+
+}
+
+
+
+.hidden {
+    display:none;
+}
+
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<h1>Climate Methodology Assistant</h1>
+
+<div class="subtitle">
+Ask questions about carbon project methodologies
+</div>
+
+
+<div class="card">
+
+
+<textarea 
+id="question"
+placeholder="Example: What are MRV requirements?">
+</textarea>
+
+
+<button onclick="ask()">
+Ask
+</button>
+
+
+<div id="status"></div>
+
+
+<div id="result" class="answer-box hidden">
+
+<h2>Answer</h2>
+
+<div id="answer"></div>
+
+
+<h3>Sources</h3>
+
+<ul id="sources"></ul>
+
+
+</div>
+
+
+</div>
+
+
+</div>
+
+
+
+<script>
+
+
+async function ask() {
+
+
+    const question = document
+        .getElementById("question")
+        .value;
+
+
+    if (!question) {
+        return;
+    }
+
+
+    const status =
+        document.getElementById("status");
+
+
+    const result =
+        document.getElementById("result");
+
+
+    const answer =
+        document.getElementById("answer");
+
+
+    const sources =
+        document.getElementById("sources");
+
+
+
+    // показываем что модель работает
+
+    status.innerHTML =
+    "⏳ Searching documents and generating answer...";
+
+
+    result.classList.add("hidden");
+
+
+    sources.innerHTML = "";
+
+
+
+    try {
+
+
+        const response = await fetch("/ask", {
+
+
+            method: "POST",
+
+
+            headers: {
+
+                "Content-Type": "application/json"
+
+            },
+
+
+            body: JSON.stringify({
+
+                question: question
+
+            })
+
+        });
+
+
+
+        const data = await response.json();
+
+
+
+        answer.innerHTML =
+            data.answer;
+
+
+
+        data.sources.forEach(source => {
+
+            const li =
+                document.createElement("li");
+
+
+            li.className="source";
+
+            li.innerText = source;
+
+
+            sources.appendChild(li);
+
+        });
+
+
+
+        status.innerHTML =
+        "✅ Answer generated";
+
+
+        result.classList.remove("hidden");
+
+
+    }
+
+
+    catch(error) {
+
+
+        status.innerHTML =
+        "❌ Error: " + error;
+
+    }
+
+
+}
+
+
+</script>
+
+
+</body>
+
+</html>
